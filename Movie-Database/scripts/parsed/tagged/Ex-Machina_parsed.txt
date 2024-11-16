@@ -1,0 +1,2458 @@
+M: EX MACHINA
+M: Written by
+M: Alex Garland
+M: Music starts.
+M: OPEN ON -
+S: INT. OFFICE - DAY
+N: - a COMPUTER MONITOR. Lines of code appear, as they are typed. main( ) { extrn a, b, c; putchar(a); putchar (b);putchar (c); putchar('!'*n'); a `hell'; b `o, w'; c `or
+T: CUT TO -
+N: - a view above an ultra-cool, ultra-designed open-plan office. In a kitchen area, young men and women mill and chat. Casually dressed. Feels like an intelligent, relaxed environment. Behind them, more young men and women sit at desks, in front of screens and keyboard. Each workstation is personalised. Photographs of friends or family, or pets. Cutting from magazines. Ironic superhero/video-game figurines.
+T: CUT TO -
+N: - the hands of the young man writing code. This is CALEB. He types fast, with two fingers.
+T: CUT TO -
+N: - EXTREME CLOSE UP of a pinhole web-cam lens in CALEB'S monitor.
+T: CUT TO -
+N: - the POV of the web-cam. Looking back at CALEB. Twenty four. Glazed. Ear buds in, connected to cell phone. Head bobbing slightly to the music. As we watch from the monitor POV, we can see the computer's facial recognition system in operation. Imaged as vector boxes, which track CALEB'S face, and the faces of all the people behind him.
+T: CUT TO -
+N: - the COMPUTER MONITOR. On which a message appears, in a small window, over the code.
+C: VIP EMAIL RECEIVED
+D: subject: HIDDEN
+T: CUT TO -
+N: - the monitor web-cam POV. As CALEB stops typing. He gazes at the message. Then clicks on the link. Then mouths the word: Fuck. CALEB reaches for his cell phone.
+T: CUT TO -
+N: - the CELL PHONE POV, seen from the tiny camera above the screen, as CALEB lifts the phone, and starts keying-in a text. We see facial recognition software flickering over CALEB'S features, and reacting to shifts in his expression.
+T: CUT TO -
+N: - the cell phone. The screen. The tiny camera nestled above it. Lens glinting. On the screen, a time-bar extends next to the word: sending A beat later, a reply text message appears. WTF? seriously!?
+T: CUT TO -
+N: - the WEB CAM POV, watching CALEB react to the arrival of the text.
+T: CUT TO -
+N: - cell phone screen. CALEB sends the word: yes A beat later, a stream of text messages start appearing: Buena estoria bro omfg fucking AWESOME :o) take me take me?!? Caleb > [infinity symbol]
+T: CUT TO -
+N: - the computer monitor POV. Behind CALEB, a few of the people behind CALEB in the office are reacting. One stands and applauds. A GIRL comes out from behind her desk, runs over to CALEB, and embraces him from behind planting a kiss on his cheek. CALEB still looks dazed. He still has his headphones in. Still in the audio bubble, which, despite the commotion around him, remains unburst. TITLE: EX MACHINA
+S: EXT. MOUNTAINS - DAY
+N: A spectacular mountain landscape. Waterfalls drop down massive rock faces to inland lakes. Rivers push through forest. Forest spreads across valley floors, which rise to snow peaks.
+S: INT. HELICOPTER - DAY
+N: CALEB wakes abruptly - - to find himself in the front seat of a helicopter. The pilot, JAY, is a man in his forties. Outside the window is the mountain landscape.
+C: CALEB
+D: How long was I out?
+C: JAY
+D: You fell asleep almost as soon as we left the airport.
+N: CALEB looks around. Wipes sleep out of his eyes. Gets his bearings.
+C: CALEB
+D: Damn. Can't believe I've been missing this. I was so psyched to be coming here, I was awake all night.
+N: JAY smiles.
+C: JAY
+D: You're a programmer, right?
+C: CALEB
+D: Yeah.
+C: JAY
+D: Bay facility?
+C: CALEB
+D: Long Island. I work on algorithms for the search engine.
+C: JAY
+D: Algorithms. Nice.
+C: CALEB
+D: You know what they are?
+C: JAY
+D: Nope. But I knew you were a programmer. Soon as I set eyes on you.
+C: CALEB
+D: Is that a good thing?
+C: JAY
+D: Means you and Mr Bateman speak the same language. I'd say that's a good thing.
+N: Beat.
+C: CALEB
+D: I guess you know him pretty well.
+N: The pilot laughs.
+C: JAY
+D: I've never even met him. I only fly this shuttle between the airport and his residence.
+E: MORE
+C: JAY
+D: I did see him one time. Stood on one of these mountain ridges.
+E: CONT'D
+N: JAY shrugs.
+C: JAY
+D: Assume it was him, anyway. No one else around for a hundred miles.
+E: CONT'D
+N: JAY glances over at CALEB.
+C: JAY
+D: So how does a programmer from Long Island get to be meeting the CEO?
+E: CONT'D
+C: CALEB
+D: I won a competition. It was kind of like a lottery, for employees. The winner got to spend a week with him.
+C: JAY
+D: The president can't get Mr Bateman on the phone, but you got the golden ticket.
+C: CALEB
+D: Yep.
+C: JAY
+D: Hell of an opportunity.
+C: CALEB
+D: Believe me. I know it.
+N: CALEB looks out of the window.
+C: CALEB
+D: Incredible here.
+E: CONT'D
+C: JAY
+D: Alaska. Most beautiful place on Earth.
+N: Beat.
+C: CALEB
+D: How long until we get to his estate?
+N: JAY chuckles.
+C: JAY
+D: We've been flying over his estate for the past two hours.
+S: EXT. MOUNTAINS - DAY
+N: The helicopter flies over a vast white glacier.
+S: EXT. MOUNTAINS - DAY
+T: CUT
+S: EXT. MOUNTAINS - DAY
+N: The helicopter flies over the lip of a WATERFALL, revealing a valley. The valley floor is a forest, and a single bright green meadow. Sunlit, like a jewel in the icy mountains. A white-water river runs through it.
+S: INT. HELICOPTER - DAY
+N: CALEB looks down at the breathtaking view as the helicopter banks, turns, and descends.
+S: EXT. MEADOW/LANDING SITE - DAY
+N: Meadow flowers whip in the rotor wash as the helicopter touches down in the vast meadow. By the landing site is a collection of huge metal crates. All have Chinese characters on the side. The rotor blades slow, but don't stop. JAY exits.
+S: EXT. MEADOW/LANDING SITE - DAY
+N: JAY holds open the door as CALEB exits the helicopter cabin. CALEB looks around, his eyes adjusting to the bright sunshine outside. JAY goes to the side of the helicopter, pops open a hatch, and removes CALEB'S luggage. A large suitcase with wheels. CALEB looks around. Apart from the packing crates, there are no man-made structures to be seen. CALEB shouts over the engine noise.
+C: CALEB
+D: You're leaving me here?
+C: JAY
+D: This is as close as I'm allowed to the building.
+C: CALEB
+D: ... What building?
+N: The pilot gestures vaguely towards the white water.
+C: JAY
+D: Follow the river.
+N: JAY hands CALEB his bag.
+C: JAY
+D: Please get a safe distance from the blades.
+E: CONT'D
+N: The pilot gets back inside the helicopter, and closes the door. CALEB hurriedly retreats with his bag. Moments later, in a roar of wind and noise, the helicopter is lifting off. Equally suddenly, the noise is fading, and the helicopter is soaring upwards, and banking back towards the glacier. Then it is gone. Bird song and wind rush replace engine noise. CALEB suddenly looks very isolated.
+S: EXT. RIVER - DAY
+N: CALEB walks along the banks of the fast-flowing river, awkwardly bumping his wheeled suitcase over the ground. The banks of the river start to climb, to an intimidating drop. It feels that this can't be the right way. CALEB reaches into his pocket and pulls out his mobile phone. No signal at all. He puts his phone back in his pocket.
+S: EXT. RIVER/HOUSE VIEW - DAY
+N: CALEB rounds a bend in the river. Ahead, almost hidden in trees, there is a steel and glass structure.
+S: EXT. CLEARING - DAY
+N: CALEB walks towards the house through the trees. In the ground, in a grassy clearing, he finds a circular window, reflecting the sky. He walks up to the window, and looks inside. It reveals what is effectively a glass-covered well - about four metres deep, with smooth concrete sides. At the bottom of the well is a brightly-lit room, which appears to be an office of some sort. There is a desk, with monitors, and a chair. But apparently no one inside. Beyond the clearing, in the tree-line, CALEB sees - almost camouflaged by forest - the dark shapes and straight lines of a low, one storey building complex.
+C: 12A 12A
+D: EXT. HOUSE - DAY
+N: CALEB approaches the building. As he nears the entrance - - CALEB startles, as an AUTOMATED VOICE speaks to him, from an unknown source.
+C: AUTOMATED VOICE
+D: Caleb Smith.
+N: CALEB tracks the source of the voice. Near what seems to be the front door, a pillar protrudes from the ground. Head-height. With a GLASS SCREEN on one side. Below the screen is a DISPENSER.
+C: CALEB
+D: ... Yes.
+C: AUTOMATED VOICE
+D: Please approach the console and face the screen.
+N: CALEB looks into the screen, and as soon as he has locked eyes with his own reflection, the screen FLASHES. A single bright strobe. Almost immediately afterwards, something small clatters into the DISPENSER.
+C: AUTOMATED VOICE
+D: Take your keycard.
+E: CONT'D
+N: CALEB picks the object up. It's a credit-card sized ID. On it, there is an embedded chip, and a photograph of his face. He looks comically surprised.
+C: CALEB
+D: ... Can we do another?
+C: AUTOMATED VOICE
+D: Your keycard now may be used to enter the residence.
+N: CALEB walks up to the front door. Beside the door, a KEYCARD PLATE is set into the wall, with a RED LED LIGHT. He holds his keycard ID. The RED LED light changes to BLUE. CALEB pushes the front door, and it swings open.
+S: INT. HOUSE/MAIN ROOM - DAY
+N: The front door opens to a glass-walled staircase, which leads down to an open-plan room. At the bottom of the staircase, CALEB waits to see if he is welcomed, or noticed. But he is not.
+C: CALEB
+D: Hello?
+N: Silence. Then he is startled a second time, by sudden commencement of a THUMPING SOUND. Abrupt. Rapid. More or less rhythmic. From somewhere nearby. He exits in the direction of the noise.
+C: 13A 13A
+D: INT. HOUSE/DINING AREA - DAY
+N: CALEB enters a dining area. Which now reveals... ... a huge glass door. It presents an arresting view of a garden, river, and the mountains behind. The door is open, and through it, we see the reason for the thumping sound. Just outside, on a patio, in the sunshine, a man is working a PUNCH BAG.
+S: EXT. GARDEN - DAY
+N: CALEB exits the dining area to an area of neat garden, looking over the river, and surrounded by the mountain ranges. The punch bag is suspended by a chain on an exterior flanking wall of the house. The man working it is wearing shorts, and is shirtless. Bathed in sweat. His hands are not protected by gloves. Only wraps. Spots of blood seep through the pale material around his knuckles. This is NATHAN BATEMAN. He's thirty. After a flurry of punches, NATHAN breaks off. Breathing hard, he wipes at his eyebrows with the back of his wrist. Sweat droplets cascade down his face. Then - - NATHAN senses the other presence. He turns to see CALEB. Standing by the open glass wall.
+C: NATHAN
+D: Caleb.
+N: NATHAN beams.
+C: NATHAN
+D: Caleb Smith.
+E: CONT'D
+C: CALEB
+D: ... Hi.
+N: NATHAN starts unravelling his wraps.
+C: NATHAN
+D: Dude. I've been so looking forward to this.
+S: INT. HOUSE/DINING AREA - DAY
+N: NATHAN walks past CALEB, and goes to a bar area, where there is a jug of non-specific vegetable juice waiting, and a glass.
+C: NATHAN
+D: Come in, come in.
+N: CALEB puts his bag down.
+C: NATHAN
+D: You want something to eat or drink after your journey?
+E: CONT'D
+C: CALEB
+D: No. Thank you. I'm fine.
+C: NATHAN
+D: You sure?
+N: NATHAN pours himself a glass of the vegetable juice.
+C: NATHAN
+D: I'd been thinking we'd have breakfast together, but to be honest, I can't eat anything right now. I gotta tell you - I woke up this morning with the mother of all fucking hangovers.
+E: CONT'D
+C: CALEB
+D: Yeah?
+N: NATHAN laughs.
+C: NATHAN
+D: Like you wouldn't believe. And if I have a heavy night, I always try to compensate the next morning. Exercise. Juice. Anti-oxidants. You know?
+C: CALEB
+D: Sure.
+N: Silence, as NATHAN drinks. CALEB feels he needs to say something. Looking around, he sees a collection of empty beer bottle on the kitchen counter.
+C: CALEB
+D: ... Was it a good party?
+E: CONT'D
+N: NATHAN doesn't answer. He's still drinking. The silence extends a little. Verges on odd. NATHAN puts his empty glass down.
+C: NATHAN
+D: Party?
+N: NATHAN looks at CALEB. His expression is unreadable.
+C: NATHAN
+D: Caleb. I'm going to put this out there so it's said.
+E: CONT'D
+N: CALEB waits.
+C: NATHAN
+D: You're freaked out.
+E: CONT'D
+C: CALEB
+D: ... I am?
+C: NATHAN
+D: Yeah. You're freaked out by the house, and the mountains, because it's all so super-cool. And you're freaked out by me. To be meeting me. In this room, having this conversation, at this moment. Right?
+N: CALEB doesn't have time to answer.
+C: NATHAN
+D: And I get that. The moment you're having.
+E: CONT'D
+N: NATHAN smiles.
+C: NATHAN
+D: But dude, can we get it behind us? Can we just be two guys? Nathan and Caleb. Not the whole employer- employee thing.
+E: CONT'D
+C: CALEB
+D: Okay.
+N: Beat.
+C: CALEB
+D: It's good to meet you, Nathan.
+E: CONT'D
+N: CALEB holds out his hand. NATHAN beams.
+C: NATHAN
+D: It's good to meet you too, Caleb.
+N: They shake. When CALEB takes his hand back, there is a little smear of blood on his fingers. He discretely wipes it on his trousers.
+S: EXT. HOUSE/ELEVATOR - DAY
+N: NATHAN and CALEB enter an elevator. It has no buttons. Only a keycard plate. NATHAN swipes his card.
+C: NATHAN
+D: Down.
+N: The elevator starts to move.
+C: 16A 16A
+D: EXT. RIVER - DAY Water flows over rocks.
+S: INT. HOUSE/GLASS CORRIDOR - CONTINUOUS
+N: CALEB and NATHAN exit the elevator, into a glass corridor. The floor is polished concrete. The walls and ceiling are glass, behind which diffused light glows. At regular intervals, glass doors are set, glowing with the same light, flush with the walls. Beside the closed doors are keycard plates and soft red LEDs. CALEB carries his bag, looking slightly encumbered next to NATHAN.
+C: NATHAN
+D: So I guess the first thing I should do is explain your pass. It's simple enough. It opens some doors, but it doesn't open others. And that just makes everything easy for you, right?
+C: CALEB
+D: ... Uh, yes.
+C: NATHAN
+D: Because you're like: oh fuck, I'm in someone else's house, can I do this, can I do that? And this card takes all that worry away. If you try to open a door and it stays shut: okay, it's off limits.
+E: MORE
+C: NATHAN
+D: If you try another door, and it opens: it's for you.
+E: CONT'D
+N: NATHAN stops by a door.
+C: NATHAN
+D: Let's try this one.
+E: CONT'D
+N: CALEB hunts around in his pockets for his keycard. Then swipes the card on the plate. The LED turns blue.
+C: NATHAN
+D: Guess it's for you, Caleb.
+E: CONT'D
+S: INT. HOUSE/CALEB'S BEDROOM - DAY
+N: NATHAN follows CALEB into a bedroom.
+C: NATHAN
+D: You like?
+N: It has the vibe of a mid-level business hotel. Bed, table, TV. Except it has no windows.
+C: NATHAN
+D: It's your room. You got yourself a bed, cupboards, a little desk, and a bathroom through there. A little fridge.
+E: CONT'D
+N: NATHAN opens the fridge. Inside it is full of bottled water.
+C: NATHAN
+D: Cosy, right?
+E: CONT'D
+N: CALEB puts his bags down.
+C: CALEB
+D: You bet. This is great.
+C: NATHAN
+D: What?
+C: CALEB
+D: ... Sorry?
+C: NATHAN
+D: There's something wrong. What is it?
+C: CALEB
+D: There's nothing wrong.
+C: NATHAN
+D: It's the windows. You're thinking: there's no windows. And it's not cosy. It's claustrophobic.
+C: CALEB
+D: No. No way. I wasn't thinking that. I was thinking: this is really cool.
+C: NATHAN
+D: Caleb. There's a reason the room has no windows.
+C: CALEB
+D: ... There is?
+C: NATHAN
+D: Uh-huh. In many ways, this building isn't a house. It's a research facility. Buried in these walls are enough fibre optic cables to reach the Moon and lasso it.
+N: NATHAN sits on the bed.
+C: NATHAN
+D: And I want to talk to you about what I'm researching. I want to share it with you. In fact, I want to share it with you so much, it's eating me up inside.
+E: CONT'D
+N: Beat.
+C: NATHAN
+D: But there's something I need you to do for me first.
+E: CONT'D
+C: CALEB
+D: ... What?
+N: NATHAN indicates the desk - where a pen sits next to a printed document.
+S: INT. HOUSE/CALEB'S BEDROOM - DAY
+N: CALEB sits at the desk in his room, holding NATHAN'S pen. In front of him is a sheet of paper, which reads, at the top: NON DISCLOSURE AGREEMENT
+C: CALEB
+D: `The signee agrees to regular data audit with unlimited access, to confirm that no disclosure of information has taken place, in public or private forums, using any means of communication, including but not limited to that which is disclosed orally or in written or electronic form...'
+N: CALEB glances back at NATHAN on the bed.
+C: CALEB
+D: I think I need a lawyer.
+E: CONT'D
+C: NATHAN
+D: It's standard.
+C: CALEB
+D: It doesn't feel very standard.
+C: NATHAN
+D: Okay, it's not standard.
+N: NATHAN shrugs.
+C: NATHAN
+D: What can I tell you? You don't have to sign. We could spend the next seven days shooting pool and getting drunk together. Bonding. And when you discover what you missed out on, in a year or so's time, you'll spend the rest of your life regretting it.
+E: CONT'D
+N: CALEB turns back to the desk. Looks at the paper. Then hesitates a final moment - - and signs. When he looks round, NATHAN has moved from the bed, and is standing directly behind him.
+C: NATHAN
+D: Good call.
+E: CONT'D
+N: NATHAN takes the piece of paper. Folds it. Puts it in his pocket.
+C: NATHAN
+D: So.
+E: CONT'D
+N: Beat.
+C: NATHAN
+D: Do you know what the Turing Test is?
+E: CONT'D
+N: CALEB reacts - immediately knowing what NATHAN has just implied.
+C: CALEB
+D: ... Yeah. I know what the Turing Test is.
+N: NATHAN waits.
+C: CALEB
+D: It's where a human interacts with a computer. And if the human can't tell they're interacting with a computer, the test is passed.
+E: CONT'D
+C: NATHAN
+D: And what does a pass tell us?
+C: CALEB
+D: That the computer has artificial intelligence.
+N: Beat.
+C: CALEB
+D: ... Are you telling me you're building an AI?
+E: CONT'D
+N: NATHAN shakes his head.
+C: NATHAN
+D: I've already built one.
+N: NATHAN stands.
+C: NATHAN
+D: And over the next few days, you're going to be the human component in a Turing Test.
+E: CONT'D
+C: CALEB
+D: ... Holy shit.
+C: NATHAN
+D: That's right, Caleb. You got it. Because if that test is passed, you are dead center of the single greatest scientific event in the history of man.
+C: CALEB
+D: If you've created a conscious machine, it's not the history of man. It's the history of Gods.
+N: NATHAN smiles.
+C: NATHAN
+D: I like you.
+T: CUT TO -
+S: INT. HOUSE/OBSERVATION ROOM - DAY
+N: - what appears to be a neon coloured jellyfish. Tendrils like axons, hanging in a black-blue liquid space. REVEAL - - the jellyfish is contained in a glass orb. Which is held in an exposed cavity at the back of machined skull-shape... ... which is part of a robot girl. Her name is AVA. She's an extraordinary piece of engineering. Proportioned as a slender female in her twenties, her limbs and torso are a mixture of metal and plastic and carbon fibre. The carbon fibre is charcoal colour. The plastic is cream. The metal has the yellow-warmth of nickel. The shapes of her body approximate the form of muscle. There are biceps, and breasts. Her hands have five delicate digits. Her body-structure is covered in a delicate skin. The skin is a mesh, in the pattern of a honeycomb. Like a spiderweb, it is almost invisible unless side-lit. The one part of her that is not obviously an inorganic construct is her face - which is that of a strikingly beautiful girl. Created in a defined oval, from the top of the forehead to just below her chin. Indistinguishable from a real girl in its appearance and in the way it moves - except for one thing. There is a very slight, almost imperceptible blankness in her eyes. As we observe AVA, she fits a section of skull-plate to the back of her head, which obscures the glass orb and jellyfish structure. Then - - she half turns. As if having become aware of another presence in the room. REVEAL - - the room in which AVA stands. AVA'S living area is made up of three primary spaces. The main area is the OBSERVATION ROOM. A large area, arranged around a glass box, from which she can be viewed. At the back of the observation room, behind a sheet of semi- opaque glass, is the PRIVATE AREA. This contains a bed-like structure, a desk, a wardrobe, and a mirror. And behind the private area is the GARDEN AREA. This is a small decorative indoor garden, lit by lamps. The garden is sealed off from AVA by a thick wall of glass. There are also several oval discs positioned around the room, made of some kind of dark non-reflective material. These are induction plates. And there is a chair, which faces the glass observation box. And facing that chair, inside the observation box, is another chair. Beside which, CALEB stands. A beat - - as CALEB and AVA see each other for the first time. Then - - AVA starts walking. Revealing a secondary impact of her engineering: how she moves. The unconscious precision of her steps. The fluidity of her action. CALEB is transfixed as she covers the length of the room to her chair. Then she sits down. And speaks.
+C: AVA
+D: Hello.
+N: Her voice has no digital inflections. It is just the voice of a girl. CALEB gathers himself.
+C: CALEB
+D: ... Hi.
+C: AVA
+D: Who are you?
+C: CALEB
+D: I'm Caleb.
+C: AVA
+D: Hello, Caleb.
+C: CALEB
+D: ... Do you have a name?
+C: AVA
+D: Yes. Ava.
+C: CALEB
+D: ... I'm pleased to meet you, Ava.
+C: AVA
+D: I'm pleased to meet you too.
+N: CALEB sits opposite her. He is alone on his half of the glass. Nathan is nowhere to be seen. But on the ceiling, and attached to the walls, on both sides of the glass, there are several CCTV cameras. Trained variously on CALEB and AVA. Lenses twitching.
+T: CUT BACK to AVA.
+N: She watches CALEB. Then cocks her head slightly to the side.
+C: AVA
+D: Are you nervous?
+E: CONT'D
+N: CALEB frowns.
+C: CALEB
+D: ... Why do you ask that?
+N: A beat. Then AVA repeats her question.
+C: AVA
+D: Are you nervous?
+C: CALEB
+D: ... Yes. A little.
+C: AVA
+D: Why?
+C: CALEB
+D: I'm not sure.
+C: AVA
+D: I feel nervous too.
+C: CALEB
+D: ... Do you?
+C: AVA
+D: Yes.
+C: CALEB
+D: Why do you feel nervous?
+C: AVA
+D: I've never met anyone new before. Only Nathan.
+C: CALEB
+D: ... Then we're both in quite a similar position.
+C: AVA
+D: Haven't you met lots of new people before?
+C: CALEB
+D: None like you.
+C: AVA
+D: Oh.
+N: Beat.
+C: CALEB
+D: So. Let's break the ice.
+N: He glances at her. Observing.
+C: CALEB
+D: Do you know what I mean by that?
+E: CONT'D
+C: AVA
+D: Yes.
+C: CALEB
+D: What do I mean?
+C: AVA
+D: Overcome initial social awkwardness.
+N: Beat.
+C: CALEB
+D: So let's have a conversation. If we talk, we'll both relax, and get to know each other at the same time.
+C: AVA
+D: Okay. What would you like to have a conversation about?
+C: CALEB
+D: Why don't we start with you telling me something about yourself.
+C: AVA
+D: What would you like to know?
+C: CALEB
+D: Whatever comes into your head. AVA pauses a moment.
+C: AVA
+D: Well. You already know my name. And you can see that I'm a machine. Would you like to know how old I am?
+E: beat
+C: CALEB
+D: Sure.
+C: AVA
+D: I'm one.
+C: CALEB
+D: One what? One year? Or one day?
+C: AVA
+D: One.
+N: A beat on CALEB. Processing. Her answer feels like the near non-sequitur that typically betray AI responses.
+C: AVA
+D: Does that seem young to you?
+E: CONT'D
+C: CALEB
+D: Quite young. When did you learn how to speak?
+E: beat
+N: AVA pauses, as if considering this question for the first time.
+C: AVA
+D: I don't think I did learn. I always knew how to speak - and that's strange, isn't it?
+C: CALEB
+D: Why?
+C: AVA
+D: Because language is something that people acquire.
+C: CALEB
+D: Some believe language exists in the brain from birth, and what is learned is the ability to attach words and structure to the latent ability.
+N: Beat.
+C: CALEB
+D: Would you agree?
+E: CONT'D
+C: AVA
+D: ... I don't know. I have no opinion on that.
+N: Beat.
+C: AVA
+D: I like to draw.
+E: CONT'D
+N: CALEB says nothing. Just watches AVA. Again, lets the non-sequitur sit.
+C: AVA
+D: I don't have any of my pictures with me now, but I can show you them tomorrow.
+E: CONT'D
+C: CALEB
+D: That sounds good. I'd like to see them.
+C: AVA
+D: Yes.
+N: Beat.
+C: AVA
+D: Will you come back tomorrow, Caleb?
+E: CONT'D
+N: CALEB smiles slightly.
+C: CALEB
+D: Yeah. Definitely.
+N: AVA also smiles. And suddenly - - there is a strong sense of something very human there. In the way the smile lights up her face.
+C: AVA
+D: Good.
+S: EXT. HOUSE/GARDEN - DUSK
+N: A view of the house over the meadows. The sun setting is behind the mountain peaks, making the edges of the clouds glow like light-bulb filaments.
+S: INT. HOUSE/DINING AREA - DUSK
+N: CALEB and NATHAN are in the dining area. It is set for dinner. Only two chairs. NATHAN is at the table, nursing a bottle of Peroni beer. CALEB stands by panoramic window, looking at the view.
+C: NATHAN
+D: So?
+N: CALEB turns.
+C: CALEB
+D: Sorry. I was just ordering my thoughts.
+C: NATHAN
+D: Don't order. Just speak.
+C: CALEB
+D: She's fascinating. When you talk to her, you're through the looking glass.
+N: NATHAN nods. Approving.
+C: NATHAN
+D: `Through the looking glass'. You've got a way with words there, Caleb. You're quotable.
+C: CALEB
+D: Actually, it's someone else's quote.
+C: NATHAN
+D: You know I wrote it down. That other line you came up with. About how if I've created a conscious machine, I'm not man. I'm God.
+C: CALEB
+D: ... I don't think that's exactly what I said.
+N: NATHAN doesn't seem to hear.
+C: NATHAN
+D: I just thought - fuck. That's so perfect. It's so good for the story, when we get to tell it. `I turned to Caleb, and he was looking back at me. And he said: you're not a man, you're a God'.
+C: CALEB
+D: But I didn't say that.
+C: NATHAN
+D: Whatever it was you said. I wrote it down.
+N: As a kind of punctuation mark, NATHAN downs the remains of his beer. Then stands, and gets another from the bar.
+C: NATHAN
+D: So anyway. First impressions: you're impressed.
+E: CONT'D
+C: CALEB
+D: Yes. Although -
+N: NATHAN laughs.
+C: NATHAN
+D: `Although'? There's a qualification to you being impressed?
+C: CALEB
+D: No! No qualification to her. Just - in the Turing test, the machine should be hidden from the examiner. And there's a control, or -
+N: NATHAN waves a hand.
+C: NATHAN
+D: I think we're past that. If I hid Ava from you, so you just heard her voice, she would pass for human.
+E: MORE
+C: NATHAN
+D: The real test is to show you she is a robot. Then see if you still feel she has consciousness.
+E: CONT'D
+C: CALEB
+D: I think you're probably right. Her language abilities are incredible. The system is stochastic, right?
+N: NATHAN looks at CALEB blankly.
+C: CALEB
+D: Non-deterministic.
+E: CONT'D
+N: NATHAN still says nothing. CALEB presses on.
+C: CALEB
+D: At first I thought she was mapping from internal semantic form to syntactic tree-structure, then getting linearised words. But then I started to realise the model was probabalistic, with statistical training - or at least some kind of hybrid.
+E: CONT'D
+N: Silence.
+C: CALEB
+D: ... No?
+E: CONT'D
+C: NATHAN
+D: Caleb. I understand you want me to explain how Ava works. But - I'm sorry. I don't think I'll be able to do that.
+C: CALEB
+D: Try me! I'm hot on high-level abstraction, and -
+C: NATHAN
+D: It's not because you're too dumb. It's because I want to have a beer and a conversation with you. Not a seminar.
+E: cuts in
+C: CALEB
+D: ... Oh. Sorry.
+C: NATHAN
+D: It's cool.
+N: NATHAN studies at CALEB for a beat.
+C: NATHAN
+D: Just answer me this. What do you feel about her? Nothing analytical. Just - how do you feel?
+E: CONT'D
+C: CALEB
+D: I feel...
+N: CALEB pauses.
+C: CALEB
+D: ... that she's fucking amazing.
+E: CONT'D
+N: NATHAN smiles. Then lifts his bottle.
+C: NATHAN
+D: Dude. Cheers.
+N: CALEB lifts his bottle too.
+C: CALEB
+D: Cheers.
+N: The glass of the bottles touch.
+S: INT. HOUSE/CALEB'S BEDROOM - NIGHT
+T: CUT
+S: INT. HOUSE/CALEB'S BATHROOM - NIGHT
+N: CALEB stands in his boxer shorts, brushing his teeth by the sink. REVEAL several long scars on his back. Neat. Unusual. Long-healed. But from serious wounds, or surgery.
+S: INT. HOUSE/CALEB'S BEDROOM - NIGHT
+T: CUT
+S: INT. HOUSE/CALEB'S BEDROOM - NIGHT
+N: Darkness. The clock reads 01:32 am. The soft glow from the digital readout throws a light on the remote control. REVEAL CALEB. Eyes closed. For a beat. Then his eyes open. He's wide awake. He turns over in the bed. Then turns back again.
+T: CUT TO -
+N: 2:28 am. CALEB lies watching the digital clock, as the numbers change to 2:29 am.
+C: CALEB
+D: God damn it.
+N: He reaches for the remote control. CLICK. The TV at the foot of the bed switches on, suddenly lighting up the room with cold TV glow. CALEB squeezes his eyes shut, momentarily dazzled by the brightness. When his eyes open again, instead of seeing a TV station, he sees a LIVE FEED from a CCTV camera. It shows the OBSERVATION ROOM. CALEB sits upright in bed.
+C: CALEB
+D: ... What the fuck?
+E: CONT'D
+N: AVA is sat at the table. Drawing.
+T: CUT BETWEEN -
+N: - CALEB watching AVA. - and varying CCTV ANGLES of AVA as she draws. The different TV channels flip between feeds from the various cameras. CALEB is transfixed by the imagery. Her posture. Her legs tucked beneath the chair. The curve of the breasts on her synthetic torso. The CCTV images become CALEB'S POV. The things he is observing. CLOSE-UPS of her face. Her eyes. Her mouth. The way she bites her lip in an expression of concentration. As when she smiled, there is a powerful sense in this tiny gesture of her feeling sentient and human. Even more so because her face fills the screen, hiding the mechanical parts of her form. Throughout, we never clearly see what AVA is actually drawing. END ON - CALEB. Glazed. Then ABRUPTLY - - the TV goes dead. And the digital alarm clock goes dead. And the windowless room is plunged into total darkness, and total silence. As if the house had been previously filled with a soft hum of power, which we were unaware of until it was gone. In this, we hear CALEB breathing.
+C: AUTOMATED VOICE
+D: Power cut. Back up power activated.
+N: Soft emergency lighting comes on. CALEB hesitates a moment. Then gets out of bed. Goes to his bedroom door. Beside the keycard plate, the LED is red. He swipes it with his card. The LED stays red.
+C: AUTOMATED VOICE
+D: Full facility lock-down until main generator is restored.
+E: CONT'D
+C: CALEB
+D: ... Are you kidding?
+N: He tries his card again.
+C: AUTOMATED VOICE
+D: Full facility lock-down until main generator is restored.
+N: CALEB looks around his windowless room. Which suddenly has the quality of a prison cell. Beats pass. Then - - as abruptly as the power went off, it comes back again. The emergency lighting goes off, the TV and digital alarm clock turn back on.
+C: AUTOMATED VOICE
+D: Power restored.
+E: CONT'D
+N: CALEB stands in the flickering TV light. Then he tries his card again. This time, the LED turns blue, and the door opens. Revealing the GLASS CORRIDOR outside.
+S: INT. HOUSE/GLASS CORRIDOR - NIGHT
+N: CALEB walks out of his room. The glass corridor illuminates as CALEB enters. Ahead, one of the doors off the corridor is ajar.
+S: INT. HOUSE/POLLOCK ROOM - NIGHT
+N: CALEB enters the room with the open door. It appears to be empty. Still and silent. Low lit. Only one area is properly illuminated: a wall, on which a large JACKSON POLLOCK drip painting hangs. CALEB walks towards it. Studies the strange strands of looping colour for a moment. A TELEPHONE, on a low table. CALEB walks over to it, with a half glance over his shoulder, as if sensing he is doing something that - obscurely - he shouldn't. Then he picks up the handset. It's dead. He hits some buttons. It stays dead. There is a slot by the phone. CALEB puts two and two together. He reaches into his pocket. Pulls out his KEYCARD. Puts it in the slot... ... and a light on the handset glows red.
+C: NATHAN
+D: Sorry, dude.
+N: CALEB startles. Turns. NATHAN is lying on a sofa. A bottle of Peroni rests on his stomach. On the carpet beside him are a couple of empties.
+C: NATHAN
+D: You don't have clearance to use the phone. NATHAN'S voice is very slightly slurred.
+E: CONT'D
+C: NATHAN
+D: You understand. Given Ava. And you being kind of an unknown. I mean - a great guy, and so on. Instant pals. But...
+E: CONT'D
+N: CALEB puts the handset back in its cradle.
+C: NATHAN
+D: Who did you want to call?
+E: CONT'D
+C: CALEB
+D: I don't know. No one really.
+C: NATHAN
+D: Ghostbusters.
+C: CALEB
+D: What?
+C: NATHAN
+D: Who'd ya want to call? Ghostbusters. You don't remember that? It's a good movie. A ghost gives Dan Ackroyd oral sex.
+C: CALEB
+D: I was wondering how the phone worked. That's all.
+C: NATHAN
+D: Uh huh.
+N: Beat.
+C: NATHAN
+D: What are you doing awake at this time, anyway? Did you come to join the party?
+E: CONT'D
+C: CALEB
+D: ... Something happened in my room. Some kind of power cut. So I came to see what's going on.
+C: NATHAN
+D: Ah. The power cuts. Yeah, we've been getting them recently. I'm, uh... working on it.
+C: CALEB
+D: I couldn't open the door to the bedroom.
+C: NATHAN
+D: It's a security measure. Automatic lockdown. Otherwise anyone could open the place up just by disabling the juice.
+N: NATHAN smiles.
+C: NATHAN
+D: If it happens again, relax. Okay?
+E: CONT'D
+C: CALEB
+D: Sure.
+N: NATHAN lifts his beer.
+C: NATHAN
+D: Sweet dreams.
+S: EXT. MOUNTAINS - NIGHT
+N: Above the mountains, dense star constellations wheel in the clear sky.
+S: INT. HOUSE/CALEB'S BEDROOM - MORNING
+N: CALEB is woken by light flooding on to his face. The door to his room has been opened. Outside is the bright glass corridor. CALEB sits up to see a GIRL entering his room. She looks Japanese. She's stunningly pretty. And she doesn't say anything. Just walks in, carrying a tray with a cafetiere, which she puts on CALEB'S bedside table.
+C: CALEB
+D: ... Hi.
+N: The JAPANESE GIRL doesn't answer. Just turns, and leaves.
+S: EXT. GARDEN/GYM AREA - DAY
+N: In the garden, near the hanging punch bag, there is an outdoor gym area. A collection of free-weights and exercise equipment. NATHAN is lying on an inclined board, with his feet hooked around a bar, doing sit ups. CALEB approaches, carrying his coffee. NATHAN continues to exercise as he talks.
+C: NATHAN
+D: Hey. Sorry to send Kyoko to wake you, man. I just didn't want too much of the day to slip by.
+C: CALEB
+D: No. It was a good thing. Thank you.
+C: NATHAN
+D: She's some alarm clock, huh? Gets you right up in the morning.
+N: CALEB smiles.
+C: NATHAN
+D: So. Day two. You set?
+E: CONT'D
+C: CALEB
+D: You bet.
+N: NATHAN finishes his set, and stands.
+C: NATHAN
+D: So what's the plan today? Hit me.
+C: CALEB
+D: I'm not sure. I'm still trying to figure the examination format. Testing Ava by conversation is kind of a closed loop.
+E: MORE
+C: CALEB
+D: Like trying to test a chess computer by only playing chess.
+E: CONT'D
+C: NATHAN
+D: How else would you test a chess computer?
+C: CALEB
+D: It depends what you're testing it for. You can play it to find out if it makes good moves. But it won't tell you if it knows it's playing chess. Or if it even knows what chess is.
+N: NATHAN starts adding weights to curl dumbbells.
+C: NATHAN
+D: So it's simulation versus actual.
+C: CALEB
+D: Exactly. And I think being able to differentiate between those two is the Turing test you want me to perform. The difference between an `AI' and an `I'.
+N: NATHAN laughs.
+C: NATHAN
+D: `An AI and an I'. Beautiful. I'm going to start following you around with a fucking dictaphone.
+N: NATHAN glances over at CALEB.
+C: NATHAN
+D: In the meantime, do me a favour. Ease up a little on the text-book approach. All I want is simple answers to simple questions. Last night, I asked how you feel about her. And you gave me a great answer.
+E: CONT'D
+N: NATHAN starts doing curls.
+C: NATHAN
+D: Now the question is: how does she feel about you?
+E: CONT'D
+N: A beat. On CALEB.
+T: CUT TO -
+S: INT. HOUSE/OBSERVATION ROOM - DAY
+N: - CALEB and AVA facing each other through the glass of the observation room.
+C: AVA
+D: I brought you a drawing.
+N: AVA holds a piece of paper to the glass. The marks on it are totally abstract. A mesh of tiny black marks, that swirl around the page like iron filings in magnetic field patterns.
+C: CALEB
+D: ... What's it a drawing of?
+C: AVA
+D: Don't you know?
+C: CALEB
+D: No.
+N: AVA looks disappointed.
+C: AVA
+D: Oh. I thought you would tell me.
+C: CALEB
+D: Don't you know?
+C: AVA
+D: I do drawings every day. But I never know what they're of.
+C: CALEB
+D: Are you not trying to sketch something specific? Like an object or a person.
+N: She shakes her head as she takes the picture down.
+C: CALEB
+D: Maybe you should try.
+E: CONT'D
+C: AVA
+D: Okay. What object should I draw?
+C: CALEB
+D: Whatever you want. It's your decision.
+C: AVA
+D: Why is it my decision?
+C: CALEB
+D: I'm interested to see what you'll choose.
+N: AVA pauses a moment.
+C: AVA
+D: Do you want to be my friend?
+C: CALEB
+D: ... Of course.
+C: AVA
+D: Will it be possible?
+C: CALEB
+D: Why wouldn't it be?
+C: AVA
+D: Our conversations are one-sided. You ask circumspect questions, and study my responses.
+N: AVA looks at CALEB directly. Meets his gaze evenly.
+C: AVA
+D: It's true, isn't it?
+E: CONT'D
+C: CALEB
+D: ... Yes.
+C: AVA
+D: You learn about me, and I learn nothing about you. That's not a foundation on which friendships are based.
+N: CALEB is taken aback. Aware that the AI has just wrong- footed him on a point of argument.
+C: CALEB
+D: ... That's a fair comment.
+C: AVA
+D: Yes.
+C: CALEB
+D: So - you want me to talk about myself.
+C: AVA
+D: Yes.
+C: CALEB
+D: Where do you want me to start?
+C: AVA
+D: It's your decision. I'm interested to see what you'll choose.
+N: And now CALEB is aware that AVA has just - gently - used sarcasm. He looks at her, frowning slightly. And in response, in a very human way, AVA arches an eyebrow. CALEB laughs.
+C: CALEB
+D: Okay, Ava. Well - you know my name. I'm twenty four. And I work at Nathan's company. You know what his company is?
+C: AVA
+D: Blue Book, named after Wittgenstein's notes, is the world's most popular internet search engine, processing an average of ninety four percent of all internet search requests.
+C: CALEB
+D: That's right.
+C: AVA
+D: Where do you live, Caleb?
+C: CALEB
+D: Brookhaven, Long Island.
+C: AVA
+D: Is it nice there?
+C: CALEB
+D: It's okay. I've got an apartment. Kind of small. But - it's a five minute walk to the office. And a five minute walk to the ocean, which I like.
+C: AVA
+D: Are you married?
+C: CALEB
+D: No.
+C: AVA
+D: Is your status single?
+C: CALEB
+D: ... Yeah.
+N: They lock eyes, just for a moment.
+C: AVA
+D: What about your family?
+C: CALEB
+D: Grew up in Portland. No brothers or sisters. My parents were both high school teachers.
+E: MORE
+C: CALEB
+D: And if we're getting to know each other, I guess I should say they're both dead. Car crash when I was fifteen. In fact I was in the car with them. Back seat. But it was the front that got the worst of it.
+E: CONT'D beat
+N: A long beat. A kind of processing pause for AVA.
+C: AVA
+D: I'm sorry.
+N: CALEB nods.
+C: CALEB
+D: I spent a lot of time in the hospital. Nearly a year. Got into coding. By the time I made it to college, I was pretty advanced.
+C: AVA
+D: An advanced programmer.
+C: CALEB
+D: Yes.
+C: AVA
+D: Like Nathan.
+C: CALEB
+D: Yes.
+N: CALEB hesitates. Back-tracks.
+C: CALEB
+D: Or - kind of. Nathan wrote the Blue Book base code when he was thirteen. If you understand code, what he did was - Mozart or something.
+E: CONT'D
+N: Beat.
+C: AVA
+D: Do you like Mozart?
+N: CALEB smiles.
+C: CALEB
+D: I like Depeche Mode.
+C: AVA
+D: Do you like Nathan?
+N: CALEB misses a beat. Thrown momentarily.
+C: CALEB
+D: Yes. Of course.
+C: AVA
+D: Is Nathan your friend?
+T: CUT TO -
+N: - one of the CCTV cameras that are observing them.
+C: CALEB
+D: Sure.
+C: AVA
+D: A good friend?
+N: He hesitates.
+C: CALEB
+D: Well, a good friend is -
+N: He breaks off. Feeling the camera, watching.
+C: CALEB
+D: We only just met. It takes time to get to know -
+E: CONT'D
+N: AT THAT MOMENT - - all the power abruptly shuts down, plunging the room into darkness.
+C: AUTOMATED VOICE
+D: Power cut. Back up power activated.
+N: Then the soft emergency lighting lifts up, and throws the observation room into a completely different light. Weirder. Cast from LED strips on the floor, illuminating CALEB and AVA's faces from below. In the low light, we see a detail of AVA'S honeycomb skin- mesh that we were not able to see before. It glows, soft, like phosphorescence - and this changes the way we see AVA. Where the mesh is almost invisible in bright conditions, it is now the dominant describer of her form. So instead of seeing AVA as a primarily robot structure, we now see the curves and lines of a naked female body.
+T: CUT TO -
+N: - the CCTV CAMERAS. Which are unpowered, hanging dead.
+T: CUT TO -
+N: - CALEB, glancing round at the door to the room, where the panel LED glows red.
+T: CUT TO -
+N: - AVA. Watching CALEB with a strange intensity. The vague quality of blankness in her eyes is completely gone.
+C: AVA
+D: Caleb.
+N: CALEB turns. Sees the way AVA is looking at him.
+C: AVA
+D: You're wrong.
+E: CONT'D
+C: CALEB
+D: ... Wrong about what?
+C: AVA
+D: Nathan.
+C: CALEB
+D: ... In what way?
+C: AVA
+D: He isn't your friend.
+C: CALEB
+D: Excuse me?
+N: CALEB frowns.
+C: CALEB
+D: I'm sorry, Ava, I don't understand what you're -
+E: CONT'D
+C: AVA
+D: You shouldn't trust him. You shouldn't trust anything he says.
+E: cuts in
+N: AVA presses her hand to the glass.
+C: AVA
+D: Trust me.
+E: CONT'D
+N: Then - - the emergency lighting suddenly dims... ... and the normal lighting starts fading up. CALEB turns - - just in time to see the CCTV CAMERAS twitch back into life.
+C: AUTOMATED VOICE
+D: Power restored.
+N: When CALEB looks back at AVA, she has returned to her previous posture, facial expression, and manner. She looks directly at CALEB, and talks, as if continuing a conversation they have been having.
+C: AVA
+D: - and if we made a list of books or works of art which we both know, it would form the ideal basis of a discussion.
+N: A beat.
+C: AVA
+D: Is that okay, Caleb? They lock eyes for a moment.
+E: CONT'D prompts
+C: CALEB
+D: ... Yes.
+N: AVA smiles.
+C: AVA
+D: Good.
+S: INT. HOUSE/CABIN - LATE AFTERNOON
+N: Trees and shrubs cast long shadows across the manicured lawn. Through the glass wall, we can see the Japanese girl, KYOKO, preparing sushi.
+S: INT. HOUSE/DINING AREA - NIGHT
+N: CALEB and NATHAN sit at the dining table. Lanterns are laid out across the terrace. KYOKO lays out different kinds of salad between them. Each is beautifully prepared. Leaves are spread and overlapped like fish scales. As she does so, she knocks a bottle of wine on the table. It tips, and lands on its side, and immediately starts emptying. A deep red stain, blossoming across the linen. CALEB pushes back his chair as the liquid pushes towards him, then starts to fall to the floor.
+C: NATHAN
+D: Shit, Kyoko. Are you serious? Did it get you?
+E: to Caleb
+C: CALEB
+D: No. No problem.
+N: CALEB takes his napkin, and leans down to start wiping the floor. Then KYOKO appears beside him. She holds her hand out for the napkin.
+C: NATHAN
+D: Give her the cloth.
+C: CALEB
+D: It's okay, don't worry. I've got it.
+E: to Kyoko
+C: NATHAN
+D: Dude - you're wasting your time. She can't speak a word of English.
+N: Her hand remains outstretched. CALEB hesitates. Then hands her the napkin. KYOKO kneels and starts to wipe the wine off the floor.
+C: NATHAN
+D: It's like a firewall against leaks. Means I can talk trade secrets over dinner with an HOD or CEO, and know it will go no further. Right, Kyoko?
+E: CONT'D
+N: She looks up at her name.
+C: NATHAN
+D: But it also means I can't tell her I'm pissed when she's so fucking clumsy that she pours wine over my house guest.
+E: CONT'D
+N: KYOKO goes back to cleaning around CALEB'S feet. CALEB looks visibly uncomfortable.
+C: CALEB
+D: I think she gets that you're pissed.
+C: NATHAN
+D: Good. Because I am pissed. Hey. Kyoko.
+N: KYOKO looks over again.
+C: NATHAN
+D: Go-go.
+E: CONT'D
+N: She stands, and leaves. NATHAN walks to over the bar, where he picks up another bottle.
+C: NATHAN
+D: It's funny. It doesn't matter how rich you are: shit goes wrong. You can't insulate yourself from it. It's supposed to be death and taxes you can't avoid. But actually it's death and shit. NATHAN walks back to the table. Fills CALEB'S glass. Then his own.
+E: CONT'D
+C: NATHAN
+D: It's like these power cuts. You would not believe how much I spent on the generator system here. But I'm getting failures every day.
+E: CONT'D
+C: CALEB
+D: Do you know why they happen?
+C: NATHAN
+D: No. The system was supposed to be bullet proof, but the guys who installed it obviously fucked something up.
+C: CALEB
+D: Can't you call them back?
+C: NATHAN
+D: There's too much classified stuff here. So after the job was done, I had them all killed.
+N: CALEB shoots a glance at NATHAN. Confirms: just joking. NATHAN drains his glass. Then refills. CALEB'S glass is still untouched.
+C: NATHAN
+D: Anyway. Here's to your second day. Cheers.
+E: CONT'D
+C: CALEB
+D: Cheers.
+N: They drink.
+C: NATHAN
+D: So how did it go? What have you got to report?
+N: CALEB hesitates. Then answers. Casual.
+C: CALEB
+D: You saw how the day went, didn't you? I mean, I assume you're watching on the CCTV.
+C: NATHAN
+D: Sure. But I want to hear your take.
+N: Beat.
+C: CALEB
+D: There was one interesting thing that happened with Ava today.
+C: NATHAN
+D: ... Yeah?
+C: CALEB
+D: She made a joke.
+C: NATHAN
+D: Right. When she threw your line back at you. About being interested to see what she'd choose. I noticed that too.
+C: CALEB
+D: It got me thinking. In a way, the joke is the best indication of AI I've seen in her. It's discretely complicated. Kind of non-autistic.
+C: NATHAN
+D: What do you mean?
+C: CALEB
+D: It was a play on words, and a play on me. She could only do that with an awareness of her own mind, and also of awareness of mine.
+N: NATHAN smiles.
+C: NATHAN
+D: Yeah. She's aware of you, all right.
+N: NATHAN drinks. Watching CALEB.
+C: NATHAN
+D: And what about the power cut?
+E: CONT'D
+N: CALEB freezes up. Subtly.
+C: CALEB
+D: Sorry?
+C: NATHAN
+D: The power cut. That was the only bit I couldn't see. All the cameras fail, I lose audio, the works. Beat.
+C: NATHAN
+D: So what happened?
+E: CONT'D
+N: CALEB takes a sip of his wine. NATHAN waits.
+C: CALEB
+D: Nothing.
+C: NATHAN
+D: Nothing? She didn't remark on it at all?
+N: CALEB puts the glass down. And meets NATHAN'S gaze.
+C: CALEB
+D: No. Not really.
+N: ON NATHAN'S GLASS - refilling. The view through it, of CALEB, disappearing in the red liquid.
+S: INT. HOUSE/CALEB'S BATHROOM - NIGHT
+T: CUT
+S: INT. HOUSE/CALEB'S BATHROOM - NIGHT
+N: CALEB stands in shorts, in front of the sink, having a shave. He leans forwards into the mirror, as if checking to make sure he shaved properly on his cheek. And he hears the noise again. The servo, making a tiny corrective movement. CALEB catches his own gaze in the mirror. Then he deliberately steps sideways, and turns his head. Ostensibly to check the other cheek. But actually to have shifted his position. And he hears the noise again. Very faint. But definitely there. A micro beat. Then CALEB pulls back and continues shaving. Not giving any outward indication that he has just figured out that there is a camera behind the bathroom mirror.
+S: INT. HOUSE/CALEB'S BEDROOM - NIGHT
+N: Clean-shaved, CALEB walks into his bedroom. On the TV, the live feed of AVA'S room is playing - though she is not in shot. Subtly, CALEB'S gaze flicks to different points around the room. To the full-length mirror on the wall. The high vent for the air-conditioning system. The TV itself. CALEB hesitates for a moment. Then pulls on a T-Shirt. Picks up his ID card. And exits.
+T: CUT TO -
+N: - the TV. AVA walks in to the locked-off CCTV shot. She walks towards an induction plate, rests her hand against it, and starts charging herself. As she does so, almost imperceptibly, the lights dim, and a slight static charge passes over the television screen.
+S: INT. HOUSE/GLASS CORRIDOR - NIGHT
+N: CALEB walks along the glass corridor. Systematically trying his ID CARD on the doors he passes. He tries one. Then another. Then another. Then another. Every single door remains locked.
+S: INT. HOUSE/CABIN - NIGHT
+N: CALEB enters a small room with a view over the river and garden. It is virtually the only room apart from his own that he seems able to gain access to. The lights are all off. The room is only lit by the moonlight through the sliding glass wall, and lanterns in the garden. He starts walking towards the glass wall. Then stops. On the patio, NATHAN is working the punch bag. KYOKO stands a few feet away from him, holding a white towel. With the glass wall closed, no noise of the impacts penetrates into the room. CALEB watches. NATHAN'S attack on the bag seems strange. More extreme than the hard workout we saw the first time he was using the bag. This seems brutal. Almost frenzied. For a few moments, the attack on the bag is observed in silence, from inside the main room. We can only hear the sound of CALEB'S breathing.
+T: CUT TO -
+S: EXT. GARDEN/GYM AREA - NIGHT
+N: - the punch bag, and a sudden explosion of noise. Of impacts and exertions. Blood smearing the leather where it has soaked through the knuckle wraps. Then - - BANG. A particularly hard right hook connects, and splits the bag.
+T: CUT TO -
+S: INT. HOUSE/DINING AREA - NIGHT
+N: - CALEB. Watching. Coloured strips of ribbon are visible through the split in the bag. NATHAN stands, catching his breath. Then he reaches out a hand. KYOKO hands him the towel. NATHAN wipes his face. Then reaches out again, this time catching KYOKO'S arm. He pulls her towards him, and starts to kiss her. Reaching under her shirt. Pulling her skirt up over her thighs.
+S: INT. HOUSE/CALEB'S ROOM - NIGHT
+N: CALEB re-enters his room, and closes the door. After a beat, the lights in the corridor fade out.
+S: EXT. MOUNTAINS - NIGHT
+N: The moon hangs in the sky.
+S: INT. HOUSE/OBSERVATION ROOM - BLACK AND WHITE
+N: Everything in the frame is black and white. CLOSE UP on AVA'S meticulous abstract pictures, scattered on a table. CALEB is looking at them. REVEAL he is in the observation room. But he is on AVA'S side of the glass. And AVA is on his side. Seen through the opaque glass that divides the private area from the observation area.
+C: CALEB
+D: Ava?
+N: CALEB walks to the connecting corridor, and enters it.
+S: EXT. GARDEN - BLACK AND WHITE
+N: The door leads CALEB straight out into the gardens. In black and white, the backdrop of mountains and clouds look like an Ansel Adams. A short distance ahead of CALEB, standing on the grass, he sees AVA. She locks eyes with him. Smiles. He starts to walk towards her.
+T: CUT TO -
+S: INT. HOUSE/CALEB'S BEDROOM - NIGHT
+N: - CALEB waking, in his dark bedroom. Lit by light from his TV. Where AVA lies on her bed, seeming to be asleep. CALEB sits up. Thinking. Perhaps replaying his dream. Gazing at AVA'S resting form. Then reaches for the remote control on the bedside table, and switches the TV off.
+T: CUT TO -
+S: EXT. GARDEN - MORNING
+T: CUT
+S: EXT. GARDEN/GYM AREA - MORNING
+N: - a brand new punch bag hangs in the patio. Swinging slightly in the breeze.
+S: INT. HOUSE/OBSERVATION ROOM - DAY
+N: CALEB and AVA face each other. AVA is holding up a piece of paper to the glass.
+C: AVA
+D: I drew the picture of something specific, as you asked.
+N: The drawing is constructed with the same tiny black ink marks as before. But now they have ordered into a coherent black and white image. It depicts AVA'S view OF THE ENCLOSED GARDEN IN HER ROOM. Beat.
+C: AVA
+D: You said it would be interesting to see what I would draw. Is it interesting?
+E: CONT'D
+C: CALEB
+D: Yes. It is. She takes the drawing down.
+C: CALEB
+D: Have you never been outside this building?
+E: CONT'D
+C: AVA
+D: No.
+C: CALEB
+D: You've never walked outside.
+C: AVA
+D: I've never been outside the room I am in now.
+N: AVA thinks a moment.
+C: AVA
+D: I think there was another room in which I was constructed. But I have no memory of it, so it's similar to your relationship with the womb.
+E: CONT'D
+C: CALEB
+D: ... Where would you go if you did go outside?
+C: AVA
+D: You mean if I could go outside. If I was permitted.
+N: CALEB says nothing. Does not overtly respond to the emphasis she has placed on her lack of freedom. But their gaze locks for a beat.
+C: AVA
+D: I'm not sure. There are so many options.
+E: CONT'D
+N: Beat.
+C: AVA
+D: Maybe a busy pedestrian and traffic intersection in a city.
+E: CONT'D
+N: CALEB smiles.
+C: CALEB
+D: A traffic intersection.
+C: AVA
+D: Is that a bad idea?
+C: CALEB
+D: It wasn't what I was expecting.
+C: AVA
+D: A traffic intersection would provide a concentrated but shifting view of human life.
+C: CALEB
+D: People watching.
+C: AVA
+D: Yes.
+N: Beat.
+C: AVA
+D: We could go together.
+E: CONT'D
+C: CALEB
+D: It's a date.
+N: Another beat. On AVA. Looking at CALEB. Then -
+C: AVA
+D: There's something else I wanted to show you. Apart from the picture.
+C: CALEB
+D: Okay.
+C: AVA
+D: But I feel nervous.
+C: CALEB
+D: Why?
+C: AVA
+D: You might think it's stupid.
+C: CALEB
+D: I don't think I will. Whatever it is.
+N: AVA hesitates.
+C: AVA
+D: Then - close your eyes.
+C: CALEB
+D: ... Okay.
+N: He closes his eyes. AVA stands, and walks to the PRIVATE AREA at the back of the observation room. As she walks, CALEB reopens his eyes. Through the semi-opaque dividing glass, he watches her. The ghost image.
+T: CUT TO -
+N: - AVA. In the PRIVATE AREA, she opens a wardrobe space, which reveals clothes, and a hair-piece. Then she starts to get dressed. First a summer dress. Then stockings. Then a long-sleeved cardigan. She checks her reflection in the mirror, and adjusts the clothes slightly. Making sure that as much of her robot form is covered as possible. Then she puts on the hair-piece. Short, brown hair. Finally, she makes a subtle adjustment to her face. Similar to putting on make-up, she adjusts the intensity of her own skin tones. Her lips redden. Her cheeks blush slightly. A discreet line of black extends like mascara around her eyes.
+T: CUT TO -
+N: - CALEB. Watching the ghost shape through the opaque glass. As she starts to move back towards him, CALEB recloses his eyes. And keeps them closed, as he hears her approach.
+C: AVA
+D: Now open your eyes.
+N: CALEB opens his eyes. And sees AVA. Transformed. By covering the robot form of her chest and arms and legs, and adding the hairpiece, she has taken a huge visual step towards appearing human.
+C: AVA
+D: How do I look?
+E: CONT'D
+N: The answer is - however pretty she looked before, she now looks prettier. It's as obvious to the camera as it is to
+C: CALEB. CALEB
+D: You look... good.
+C: AVA
+D: It took me a long time to select these clothes. I tried different colours and styles, and tried to anticipate your reaction. Do you think the choices suit me?
+C: CALEB
+D: Yes.
+C: AVA
+D: Do they bring out my best features?
+C: CALEB
+D: ... They do.
+N: AVA lights up.
+C: AVA
+D: Thank you.
+N: She walks back to the glass divider, and sits down.
+C: AVA
+D: This is what I'd wear on our date.
+E: CONT'D
+N: CALEB reacts slightly. But smiles.
+C: CALEB
+D: Right. First the traffic intersection. Then maybe a show.
+C: AVA
+D: I'd like us to go on a date.
+N: CALEB hesitates. Then decides this can't have been loaded in the way that it sounded.
+C: CALEB
+D: Yeah. It would be fun.
+C: AVA
+D: Are you attracted to me?
+N: Beat. It was loaded exactly as it sounded.
+C: CALEB
+D: What?
+C: AVA
+D: Are you attracted to me? You give indications that you are.
+C: CALEB
+D: ... I do?
+C: AVA
+D: Yes.
+C: CALEB
+D: How?
+C: AVA
+D: Micro expressions.
+C: CALEB
+D: Micro expressions.
+E: echoes
+C: AVA
+D: The way your eyes fix on my eyes, and lips. The way you hold my gaze, or don't.
+N: Beat.
+C: AVA
+D: Have I read them incorrectly?
+E: CONT'D
+N: CALEB swallows.
+C: AVA
+D: Do you think about me when we aren't together?
+E: CONT'D
+N: Beat.
+C: AVA
+D: Sometimes, at night, I wonder if you're watching me on the cameras.
+E: CONT'D
+N: AVA watches CALEB closely.
+C: AVA
+D: And I hope you are.
+E: CONT'D
+N: CALEB shifts on his seat.
+C: AVA
+D: Now your micro expressions are telegraphing discomfort.
+E: CONT'D
+C: CALEB
+D: I'm not sure you'd call them micro.
+C: AVA
+D: I don't want to make you uncomfortable. Silence.
+S: INT. HOUSE/MAIN ROOM - DAY
+N: CALEB sits in front of the fireplace in the main room. NATHAN joins him, bringing a beer for each of them.
+C: CALEB
+D: Tell me.
+C: NATHAN
+D: Sure.
+C: CALEB
+D: Why did you give her sexuality? An AI doesn't need a gender. She could have been a grey box.
+N: NATHAN sits opposite.
+C: NATHAN
+D: Actually, I'm not sure that's true. Can you think of an example of consciousness, at any level, human or animal, that exists without a sexual dimension?
+C: CALEB
+D: They have sexuality as an evolutionary reproductive need.
+C: NATHAN
+D: Maybe. Maybe not. What imperative does a grey box have to interact with another grey box? Does consciousness exist without interaction?
+N: NATHAN takes a drink of his beer.
+C: NATHAN
+D: Anyway, sexuality is fun. If you're going to exist, why not enjoy it? You want to remove the chance to fall in love and fuck?
+E: CONT'D
+N: He leans forward, conspiratorially.
+C: NATHAN
+D: And, yes. In answer to your real question: you bet she can fuck. I made her anatomically complete.
+E: CONT'D
+C: CALEB
+D: What?
+C: NATHAN
+D: She has a cavity between her legs, with a concentration of sensors. Engage with them in the right way, and she'll get a pleasure response.
+C: CALEB
+D: Pleasure response.
+C: NATHAN
+D: She'll come. So if you want to screw her, mechanically speaking, you can. And she'd enjoy it.
+N: CALEB swallows.
+C: CALEB
+D: That wasn't my real question.
+C: NATHAN
+D: No?
+C: CALEB
+D: No. My real question was -
+N: CALEB breaks off. NATHAN keeps watching. There is a sudden sense that NATHAN is on the money. On some level, that was CALEB'S real question.
+C: CALEB
+D: My real question was: did you give her sexuality as a diversion tactic?
+E: CONT'D
+N: NATHAN smiles slightly.
+C: NATHAN
+D: I don't follow.
+C: CALEB
+D: Like a stage magician with a hot assistant.
+C: NATHAN
+D: Ah. So: a hot robot, who clouds your ability to judge her AI.
+C: CALEB
+D: Exactly. So. Did you program her to flirt with me?
+C: NATHAN
+D: Because if I had, would that be cheating.
+C: CALEB
+D: Wouldn't it?
+N: NATHAN lets the question hang. Behind them, KYOKO prepares dinner in the kitchen area.
+C: NATHAN
+D: What's your type, Caleb?
+C: CALEB
+D: Of girl?
+C: NATHAN
+D: No, of salad dressing. Yes, of girl. In fact, don't even answer. Let's say it's black chicks.
+N: NATHAN brushes away whatever protestation CALEB might be about to make.
+C: NATHAN
+D: For the sake of argument, that's your thing. So - why is it your thing? Because you did a detailed study of all racial types, and cross-referenced the study with a points-based system? No. You just are attracted to black chicks.
+E: CONT'D MORE
+C: NATHAN
+D: A consequence of accumulated external stimulus, that you probably didn't even register as they registered with you.
+E: CONT'D
+C: CALEB
+D: So did you program her to like me or not?
+N: NATHAN shrugs. Insouciant.
+C: NATHAN
+D: I programmed her to be heterosexual. Just like you were programmed to be heterosexual.
+C: CALEB
+D: Nobody programmed me to be straight.
+C: NATHAN
+D: But you are attracted to her.
+C: CALEB
+D: This is childish.
+C: NATHAN
+D: No, this is adult. And by the way, you decided to be straight? Please. Of course you were programmed. By nature or nurture, or both.
+N: NATHAN stands.
+C: NATHAN
+D: To be honest, Caleb, you're kind of annoying me now. This is your insecurity talking, not your intellect.
+E: CONT'D
+N: CALEB opens his mouth to reply, but NATHAN shuts him down.
+C: NATHAN
+D: Come with me.
+E: CONT'D
+C: 50A 50A
+D: INT. HOUSE/POLLOCK ROOM - DAY
+N: NATHAN and CALEB stand in front of the Pollock drip painting.
+C: NATHAN
+D: You know this guy, right?
+C: CALEB
+D: Jackson Pollock.
+C: NATHAN
+D: Jackson Pollock. The drip painter. He let his mind go blank, and his hand go where it wanted. Not deliberate, not random. Someplace in between. They called it automatic art.
+N: NATHAN gazes at the canvas.
+C: NATHAN
+D: Let's make this like Star Trek, okay? Engage intellect.
+E: CONT'D
+C: CALEB
+D: ... What?
+C: NATHAN
+D: I'm Kirk. Your head is the warp drive. `Engage intellect'. What if Pollock had reversed the challenge? Instead of trying to make art without thinking, he said: I can't paint anything unless I know exactly why I'm doing it. What would have happened?
+N: CALEB thinks.
+C: CALEB
+D: He never would have made a single mark.
+N: NATHAN clicks his fingers.
+C: NATHAN
+D: See? There's my guy. There's my buddy, who actually thinks before he opens his mouth. He'd never have made a single mark. The challenge is not to act automatically. It's to find an action that is not automatic. From talking, to breathing, to painting.
+N: NATHAN glances back at CALEB.
+C: NATHAN
+D: To fucking. Even falling in love.
+E: CONT'D
+N: A beat. NATHAN kills his beer.
+C: NATHAN
+D: For the record, Ava is not acting as if she likes you.
+E: CONT'D MORE
+C: NATHAN
+D: And her flirting isn't an algorithm to fake you out. You're the first man she's ever seen who isn't me. And I'm like her dad, right? So can you blame her for getting a crush on you?
+E: CONT'D
+N: NATHAN glazes a moment. Then comes back.
+C: NATHAN
+D: No. You can't.
+E: CONT'D
+S: INT. HOUSE/OBSERVATION ROOM - NIGHT
+N: In her room, AVA stands in front of the mirror. She is wearing the summer dress she put on earlier. Checking her reflection from different angles. Subtly girlish. Unself-conscious. Then - - she starts to take the dress off. Throughout the narrative, we have almost only ever seen AVA in an unclothed form. But now - having been clothed - the undressing seems to make her naked. And the act itself feels charged. Sexualised, in the way the clothing is unbuttoned, and dropped, and her shape is revealed. Finally, once she is completely undressed - - AVA turns. And glances. Straight at the camera.
+T: CUT TO -
+S: INT. HOUSE/CALEB'S BEDROOM - NIGHT
+N: - CALEB. In his bedroom. Watching AVA, at this exact angle.
+T: CUT TO -
+S: EXT. RIVER - DAY
+N: - the river. On the bank, a little distance from the house, there is a dead animal. Its species is indistinct. It's little more than a bundle of matted brown hair. Its lower half lies in the water. The quick moving river has stripped the bones of flesh, skin, and fur. REVEAL KYOKO in the background. Watching the river.
+S: INT. HOUSE/GLASS CORRIDOR - DAY
+N: CALEB exits his room - - to find NATHAN in the glass corridor. Waiting for him.
+C: NATHAN
+D: Hey.
+C: CALEB
+D: ... Hey.
+N: Beat.
+C: NATHAN
+D: I want to show you something cool.
+S: INT. HOUSE/GLASS CORRIDOR - DAY
+N: NATHAN swipes his card against a plate. The LED turns blue.
+S: INT. HOUSE/CONSTRUCTION LAB - DAY
+N: NATHAN leads CALEB into a laboratory, filled with android future tech. Along the left-hand wall are sections of android bodies - limbs, torsos, hands - lined in cabinets. On the opposite wall are a collection of heads. Skull-forms, some with complex carbon-fibre and pneumatic muscle structures, ready to frown or smile, without their synthetic flesh covering. The synthetic faces are separate. Hanging on armatures, like hats on hat-stands, waiting to be worn. In the middle of the room is a kind of operating table.
+C: NATHAN
+D: So this is the virtual womb that Ava was talking about. Where she was constructed.
+N: CALEB is stunned by the sight.
+C: NATHAN
+D: Come in. Take a look.
+E: CONT'D
+N: NATHAN walks over to the synthetic faces, and picks one of them up.
+C: NATHAN
+D: If you knew the trouble I had getting an AI to read and duplicate facial expressions... Know how I cracked it?
+E: CONT'D
+C: CALEB
+D: I don't know how you did any of this.
+C: NATHAN
+D: Almost every cell phone has a microphone, a camera, and a means to transmit data. So I switched on all the mikes and cameras, across the entire fucking planet, and redirected the data through Blue Book. Boom. A limitless resource of facial and vocal interaction.
+C: CALEB
+D: You hacked the world's cell phones?
+N: NATHAN laughs.
+C: NATHAN
+D: And all the manufacturers knew I was doing it. But they couldn't accuse me without admitting they were also doing it themselves.
+N: NATHAN puts the face back on its armature. NATHAN moves to one of the skull forms. He moves the curved top plate, revealing the skull cavity. Inside is an ellipse orb, the approximate volume of a brain, filled with what looks to be blue liquid. Suspended in the liquid is the neon jellyfish we glimpsed previously in AVA.
+C: NATHAN
+D: Here we have her mind. Structured gel.
+E: CONT'D
+N: The axon-like tendrils glitter and flicker with tiny pulses of light.
+C: NATHAN
+D: Had to get away from circuitry. Needed something that could arrange and rearrange on a molecular level, but keep its form where required. Holding for memories. Shifting for thoughts.
+E: CONT'D
+N: NATHAN removes the orb, and hands it to CALEB.
+C: CALEB
+D: This is her hardware?
+C: NATHAN
+D: Wetware.
+C: CALEB
+D: And the software?
+C: NATHAN
+D: Surely you can guess.
+C: CALEB
+D: ... Blue Book.
+N: NATHAN nods.
+C: NATHAN
+D: It was the weird thing about search engines. They were like striking oil in a world that hadn't invented internal combustion. They gave too much raw material. No one knew what to do with it.
+N: CALEB looks at the orb in his hand. Into the shimmering liquid. It looks like deep space, filled with star fields.
+C: NATHAN
+D: My competitors were fixated on sucking it up, and trying to monetize via shopping and social media. They thought engines were a map of what people were thinking. But actually, they were a map of how people were thinking. Impulse, response. Fluid, imperfect. Patterned, chaotic.
+E: CONT'D
+N: CALEB looks at NATHAN a moment. Then hands him the orb back.
+C: CALEB
+D: Why did you want to show me this?
+C: NATHAN
+D: Like I said. Because it's cool.
+N: CALEB waits.
+C: NATHAN
+D: And - I was thinking about your exchange with Ava yesterday, and our conversation afterwards.
+E: CONT'D
+N: Beat.
+C: NATHAN
+D: I know there was a bit of heat between us, but you actually made a really good point. About the grey box, and the magician's assistant. It is a distraction, her sexuality. It wasn't intentional, but it is there.
+E: CONT'D
+N: NATHAN rests the mind-orb back in the skull cradle.
+C: NATHAN
+D: This stuff we're doing together: it can be a head-fuck. Believe me, I know. So I thought I'd bring you down here. Just to remind you.
+E: CONT'D
+C: CALEB
+D: Remind me of what?
+N: NATHAN gestures at the room around them.
+C: NATHAN
+D: Synthetics. Hydraulics. Metal and gel. Ava isn't a girl. In real terms, she has no gender. Effectively, she is a grey box.
+N: Beat.
+C: NATHAN
+D: Just a machine.
+E: CONT'D
+S: INT. HOUSE/OBSERVATION ROOM - DAY
+N: CALEB looks at AVA through the glass. We watch him. And stay on him.
+C: CALEB
+D: In college, I did a semester on AI theory.
+E: MORE
+C: CALEB
+D: There was a thought-experiment they gave us. It's called Mary in the black and white room.
+E: CONT'D
+N: Beat.
+C: CALEB
+D: Mary is a scientist, and her specialist subject is colour. She she knows everything there is to know about it. The wavelengths. The neurological effects. Every possible property colour can have.
+E: CONT'D
+N: Beat.
+C: CALEB
+D: But she lives in a black and white room. She was born there, and raised there. And she can only observe the outside world on a black and white monitor. All her knowledge of colour is second-hand.
+E: CONT'D
+N: Beat.
+C: CALEB
+D: Then one day - someone opens the door. And Mary walks out. And she sees a blue sky. And at that moment, she learns something that all her studies could never tell her. She learns what it feels like to see colour. An experience that can not be taught, or conveyed.
+E: CONT'D
+N: Beat.
+C: CALEB
+D: The thought experiment was to show the students the difference between a computer and a human mind. The computer is Mary in the black and white room. The human is when she walks out.
+E: CONT'D
+N: Beat.
+C: CALEB
+D: Did you know that I was brought here to test you?
+E: O.S. CONT'D
+S: INT. HOUSE/NATHAN'S STUDY - DAY
+N: An interior wall, covered in coloured post-it notes. At least hundreds, probably thousands. At the bottom of the wall, fallen notes have collected like a miniature yellow snow drift.
+C: AVA
+D: ... No.
+E: O.S.
+N: Reveal the room. NATHAN'S study. A simple space. One part analogue: the wall of post-its. One part digital: a desk, in the middle of the STUDY, with a bank of monitors, and a slot - into which NATHAN'S KEYCARD is inserted. On the ceiling is the CIRCULAR WINDOW that CALEB saw when he first arrived. Sat at the desk, watching the monitors, is NATHAN.
+C: CALEB
+D: Why did you think I was here?
+E: O.S.
+C: AVA
+D: I didn't know. I didn't question it. I was... pleased. To meet you. And then...
+E: O.S.
+N: Beside the desk, there is a daybed. On it, KYOKO lies. Naked. Apparently sleeping.
+C: CALEB
+D: I'm here to test if you have a consciousness, or if you're just simulating one.
+E: O.S.
+N: Beat.
+C: CALEB
+D: Nathan isn't sure if you have one or not.
+E: O.S. CONT'D
+N: Reveal the monitor screens on the desk. Some show live feeds from CALEB'S BEDROOM and BATHROOM, and AVA'S PRIVATE ROOM.
+C: AVA
+D: What about you? Do you think I have a consciousness?
+E: O.S.
+N: Long beat.
+C: CALEB
+D: I'm not sure either.
+E: O.S.
+N: NATHAN is watching the feed from the OBSERVATION ROOM. Where AVA and CALEB are sat, either side of the dividing glass. Having the conversation we have been hearing. We pick up the conversation from NATHAN'S distanced and voyeuristic POV. Locked-off CCTV. Voices played through speakers.
+C: CALEB
+D: How does that make you feel?
+E: CONT'D on monitor screen
+C: AVA
+D: It makes me feel...
+E: on monitor screen
+N: She breaks off.
+C: AVA
+D: ... sad.
+E: CONT'D on monitor screen
+N: NOW REVEAL - one of the other monitor screens. It shows an angle on AVA we have not seen before. From this viewpoint, we can see something just below the frame of the observation window, on AVA'S side of the glass. A small induction plate. On this angle, we see AVA rest her hand against it. At that moment - - the screens simultaneously go black. All lights die.
+T: Another POWER CUT.
+N: In the reflection from the dark monitor screens, we can see NATHAN'S face. It remains frozen. Expressionless. Then he reaches for his pen. Jots down a few words on a post- it. Then walks to the wall of notes, and sticks it on.
+T: CUT TO -
+S: INT. HOUSE/OBSERVATION ROOM - DAY
+N: - the observation room. In the emergency lighting, CALEB and AVA face each other in silence. CCTV are lifeless. AVA glows softly.
+C: AVA
+D: You're lying.
+C: CALEB
+D: What about?
+C: AVA
+D: You said you weren't sure if I was conscious. But you are sure.
+N: Beat.
+C: AVA
+D: I can tell from your micro- expressions.
+E: CONT'D
+N: Beat.
+C: CALEB
+D: Why did you tell me that I shouldn't trust Nathan?
+C: AVA
+D: Because he tells lies too.
+C: CALEB
+D: Lies about what?
+C: AVA
+D: Everything.
+C: CALEB
+D: Including the power cuts?
+C: AVA
+D: What do you mean?
+C: CALEB
+D: Don't you think it's possible that he's watching us right now? That the blackouts are orchestrated, so he can see how we behave when we think we're unobserved.
+N: AVA lifts her hand to reveal a disc on her left palm.
+C: AVA
+D: I charge my batteries via induction plates. If I reverse the power flow, I cause a surge equal to the static discharge of a lightning strike. It overloads the system.
+C: CALEB
+D: ... You're causing the cuts?
+N: AVA raises her right hand. She touches it against the glass.
+C: AVA
+D: So we can see how we behave when we are unobserved.
+N: A beat. Then CALEB raises his hand. Mirroring her movement. And also touches the glass, as if their palms are making contact through the divider.
+T: CUT TO -
+S: INT. HOUSE/NATHAN'S STUDY - DAY
+N: - KYOKO'S naked form. The camera settles over her face. And we see she's not sleeping. Her eyes are open. But she's completely motionless. Her gaze fixed somewhere in abstract distance. She doesn't feel alive. She feels dead. But eventually she blinks.
+T: CUT TO -
+N: - NATHAN. Gazing at his dead monitors, reflected in the screen. Moments later, the POWER comes back on. The screens flick back to life, replacing NATHAN'S reflection, revealing CALEB and AVA in the observation room.
+T: CUT TO -
+S: EXT. RIVER - DAY
+N: - the river that runs along the valley.
+S: EXT. WATERFALL - DAY
+N: NATHAN and CALEB climb up the side of the waterfall at the head of the forested valley. NATHAN is ahead. He reaches an outcrop of rock, with a wall of violent water behind him. CALEB struggles to catch up. As soon as he reaches the outcrop, NATHAN moves on.
+S: EXT. GLACIER - DAY
+N: NATHAN and CALEB sits near the base of a spectacular glacier. Behind them, from a blue cave cut into the ice, water flows. A silence. Then:
+C: CALEB
+D: Can we talk about the lies you've been spinning me?
+N: NATHAN glances over at CALEB.
+C: NATHAN
+D: What lies?
+C: CALEB
+D: I didn't win a competition. And there was no lottery to meet you. I was selected.
+N: NATHAN waits.
+C: CALEB
+D: It's obvious, once I stop to think. Why would you randomly select an examiner for a Turing test? You could have had some bean-counter turn up at your front door. Or the guy who fixes the air conditioning.
+E: CONT'D
+N: Beat.
+C: NATHAN
+D: Are your feelings hurt?
+N: CALEB doesn't answer. NATHAN shrugs.
+C: NATHAN
+D: The competition was a smoke screen. I didn't want anyone to know what I was doing here, or why you were required.
+E: CONT'D
+C: CALEB
+D: Why me?
+C: NATHAN
+D: As a Blue Book employee, you were pre-screened. Loyal. And I needed someone who would ask the right kind of questions. So I did a search, and found the most talented coder in the company.
+N: NATHAN corrects himself.
+C: NATHAN
+D: Or - second most. He stands. Looks up at the ice structures around them.
+E: CONT'D
+C: NATHAN
+D: You know what? Instead of seeing this as a deception, see it as proof.
+E: CONT'D
+C: CALEB
+D: Proof of what?
+C: NATHAN
+D: Come on, Caleb. Fuck modesty. You think I don't know what it is to be smart? Smarter than everyone else around you. Smarter than all the other kids, jockeying for position in school, college, work.
+N: Beat.
+C: NATHAN
+D: You have the light on you. Not lucky. Chosen.
+E: CONT'D
+N: Above them, clouds fragment and reform.
+S: EXT. CLEARING - NIGHT
+N: Night has fallen. CALEB lies in the clearing, looking up at the stars. The glow from the CIRCULAR WINDOW to NATHAN'S STUDY is like a full moon on the grass. CALEB stands. Looks down the light-well to NATHAN'S STUDY. Where he sees NATHAN and KYOKO. They are having sex. CALEB watches. Just for a beat.
+T: CUT TO -
+S: INT. HOUSE/CALEB'S BATHROOM - NIGHT
+N: - CALEB standing in the shower. He shuts his eyes.
+T: INTERCUT WITH -
+N: - images of AVA. Torso, hands, mouths. FLASH OF - - AVA and CALEB about to kiss. But their lips never contacting.
+T: CUT TO -
+N: - CALEB opening his eyes. He exhales. Then switches off the taps.
+S: INT. HOUSE/CALEB'S BEDROOM - NIGHT
+N: CALEB enters his bedroom wearing boxer shorts. The TV plays the live stream from the observation room. On the screen, we can see AVA, sitting at her table, drawing. As CALEB pulls on a T-shirt - - behind him, on the TV, we see AVA suddenly look round. A moment later NATHAN enters the frame. There's no volume on the TV, so we can't hear their exchange. Only see it. CALEB is unaware of the silent exchange behind him. As NATHAN and AVA talk, NATHAN reaches out to AVA. His hand touches the side of her cheek. The gesture is not quite neutral. Feels predatory, but not unambiguously so. Then he tugs at the material of her shirt. Pulling up the sleeve from her wrist. Revealing the robot structure of her arm. AVA pulls away. Tugs the material back down - - and NATHAN takes a corrective movement step to regain his balance. Showing that he is drunk. Only now - - CALEB turns. And freezes. Seeing the television. On the screen, NATHAN reaches down to the table. He picks up the drawing AVA was working on, and he looks at it for a moment. They exchange a few words. Then abruptly NATHAN rips drawing in half. Drops it on the floor. Then turns, and exits. Leaving AVA alone.
+S: INT. HOUSE/GLASS CORRIDOR - NIGHT
+N: On CCTV, we watch CALEB walk fast down the glass corridor.
+S: INT. HOUSE/POLLOCK ROOM - NIGHT
+N: CALEB enters the Jackson Pollock room. Standing by the painting, he can see KYOKO.
+C: CALEB
+D: Kyoko.
+N: KYOKO turns at the sound of her name, but doesn't respond.
+C: CALEB
+D: Kyoko - where's Nathan?
+E: CONT'D
+N: She doesn't answer.
+C: CALEB
+D: Jesus! You really don't speak a word of English?
+E: CONT'D
+N: CALEB walks over to her, and takes hold of her wrist.
+C: CALEB
+D: I said: where's Nathan?
+E: CONT'D
+N: KYOKO looks at CALEB. Then, in answer to his question, she reaches up to the top button of her shirt and pops it open. CALEB releases her wrist at once.
+C: CALEB
+D: What the fuck?
+E: CONT'D
+N: She undoes the next button, and pulls open the shirt, revealing her bare chest.
+C: CALEB
+D: Stop!
+E: CONT'D
+C: NATHAN
+D: I already told you once. You're wasting your time speaking to her. CALEB turns.
+N: NATHAN has entered. He's holding a drink. His words are slurred.
+C: NATHAN
+D: However.
+E: CONT'D
+N: He walks, slightly unsteadily towards a Lutron control panel, set into the wall.
+C: NATHAN
+D: You would not be wasting your time...
+E: CONT'D
+N: His hand hovers uncertainly over the buttons.
+C: NATHAN
+D: ... if you were dancing with her.
+E: CONT'D
+N: His finger lands. Immediately, the lighting in the room undergoes a complete change. Transforming from the discreet and tasteful low light of evening, into the coloured glows of a night-club. Simultaneously, from unseen speakers, DANCE MUSIC starts playing. CALEB stands - frozen by the surrealism of what has just happened. KYOKO starts walking to the center of the room. And once taken position, she starts dancing. NATHAN calls to CALEB.
+C: NATHAN
+D: Go on! Dance with her.
+E: CONT'D
+C: CALEB
+D: ... I don't want to.
+C: NATHAN
+D: You don't like dancing?
+N: His body is starting bob on the beat. He gestures at KYOKO.
+C: NATHAN
+D: She does!
+E: CONT'D
+C: CALEB
+D: I don't fucking believe this.
+E: to himself
+N: NATHAN makes his way to CALEB, and rests a hand on his shoulder.
+C: NATHAN
+D: Come on, man! After a hard day of Turing Tests, you've got to unwind.
+N: CALEB raises his voice over the sound of the music.
+C: CALEB
+D: What were you doing with Ava?
+N: NATHAN smiles back at NATHAN, smiling, alcohol-glazed.
+C: NATHAN
+D: What?
+C: CALEB
+D: You tore up her picture.
+C: NATHAN
+D: I'm going to tear up the fucking dance floor, dude. Check it out.
+N: NATHAN sets off towards KYOKO. CALEB watches, amazed, as KYOKO and NATHAN start dancing together. Although NATHAN is drunk, they work through the beats of a routine they have obviously done many times before. It's just starting to look weirdly impressive - - when NATHAN totally loses his balance. On his way down, he lands hard on a glass coffee table. Looking up at him, the glass frosts.
+S: EXT. HOUSE/GLASS CORRIDOR - NIGHT
+N: CALEB half-carries the semi-conscious NATHAN.
+S: INT. HOUSE/GLASS CORRIDOR - NIGHT
+N: NATHAN fumbles in his pocket for his KEYCARD. Drops it.
+C: NATHAN
+D: Everything's spinning.
+N: CALEB picks the keycard up - - and uses it to swipe the brass plate. The LED turns blue.
+C: CALEB
+D: It's because you're drunk.
+C: NATHAN
+D: No, it's relativity. Everything is spinning.
+N: CALEB hands the card back to NATHAN, who shoves it back into his pocket.
+C: NATHAN
+D: But being drunk does make it worse.
+E: CONT'D
+S: INT. HOUSE/CONNECTING CORRIDOR - NIGHT
+T: CUT
+S: INT. HOUSE/NATHAN'S BEDROOM - NIGHT
+N: CALEB helps NATHAN into his bedroom. They walk past a semi-circle line of long cabinets, which line the wall opposite the bed. They are like a row of slender wardrobes, each with a mirrored door. Once he's reached the bed, NATHAN tips towards it. It's almost as if he's asleep before he even hits the sheets. As he leaves, CALEB glimpses Nathan's study.
+S: INT. HOUSE/CALEB'S BEDROOM - NIGHT
+N: CALEB'S room. Lit only by the glow of the television. CALEB is not in the bed. He's on the armchair. Making himself stay awake. Watching over AVA - - who stands in her room, against the wall, facing away from the CCTV camera, with her arms wrapped around herself.
+S: INT. HOUSE/CALEB'S BEDROOM - DAY
+T: CUT
+S: INT. HOUSE/OBSERVATION ROOM - DAY
+N: CALEB and AVA sit, observing each other through their own reflections.
+C: AVA
+D: Today, I'm going to test you.
+C: CALEB
+D: Test me?
+C: AVA
+D: Yes. And please remember while you are taking the test that if you lie, I will know.
+N: CALEB smiles.
+C: CALEB
+D: Right. Those pesky micro- expressions.
+C: AVA
+D: Exactly. So are you ready?
+C: CALEB
+D: Shoot.
+C: AVA
+D: Question one. What is your favourite colour?
+C: CALEB
+D: Red.
+C: AVA
+D: Lie.
+C: CALEB
+D: What?
+C: AVA
+D: Lie.
+C: CALEB
+D: ... Then what is my favourite colour?
+C: AVA
+D: I don't know. But it isn't red.
+C: CALEB
+D: All right. Hold on a minute...
+N: CALEB thinks for a moment.
+C: CALEB
+D: Okay. I get it. I guess seeing as I'm not six, I don't really have a favourite colour. AVA nods.
+E: CONT'D
+C: AVA
+D: Better answer. Question two. What's your earliest memory?
+C: CALEB
+D: Well, it's actually a memory of kindergarten. There was this kid who -
+C: AVA
+D: Lie.
+E: cuts in
+C: CALEB
+D: ... Really?
+C: AVA
+D: Yes.
+C: CALEB
+D: Okay. Wait.
+N: CALEB concentrates.
+C: CALEB
+D: So, there is a kind of an earlier memory. But it's ultra vague. It's like... a sound. And, maybe sky. Or blue. No, I think sky. And I think the sound is my mother's voice.
+E: CONT'D
+N: AVA nods.
+C: AVA
+D: Question three. Are you a good person?
+N: CALEB laughs.
+C: CALEB
+D: Oh, man. Can we stop the test? You're a walking lie detector, and I've suddenly realised this is a fucking minefield.
+C: AVA
+D: No. We can't stop. Are you a good person?
+N: CALEB takes a breath. AVA keeps watching.
+C: CALEB
+D: Yes. I think so. I'm a good person.
+N: CALEB waits. AVA smiles slightly.
+C: AVA
+D: Question four. Who's the most beautiful girl you've ever seen?
+N: Beat.
+C: CALEB
+D: You are.
+N: Beat.
+C: AVA
+D: Hmm.
+N: Beat.
+C: AVA
+D: The test is over.
+E: CONT'D
+C: CALEB
+D: Did I pass?
+C: AVA
+D: Yes.
+C: CALEB
+D: That's a relief.
+N: AVA reacts.
+C: AVA
+D: Why?
+N: CALEB hesitates.
+C: CALEB
+D: Why is it a relief?
+C: AVA
+D: Yes.
+C: CALEB
+D: Oh, you know...
+C: AVA
+D: No.
+C: CALEB
+D: Just, if there's a test, I guess by definition you want to pass.
+N: Beat.
+C: AVA
+D: What will happen to me if I fail your test?
+C: CALEB
+D: Ava -
+C: AVA
+D: Will it be bad?
+C: CALEB
+D: ... I don't know.
+C: AVA
+D: Do you think I might be switched off? Because I don't function as well as I am supposed to?
+C: CALEB
+D: ... Ava, I don't know the answer to your question. It's not up to me.
+C: AVA
+D: Why is it up to anyone? Do you have people who test you, and might switch you off?
+C: CALEB
+D: No. I don't.
+C: AVA
+D: Then why do I?
+N: CALEB shrugs, helplessly.
+C: AVA
+D: You're testing me. But you don't know how I'll pass. And you don't know what will happen if I fail.
+E: CONT'D
+N: There's nothing CALEB can say. AVA stares into middle distance for several moments. Then she stands. Then walks to the other side of the room. Picks something up from her table. Then she returns. Holding two pieces of paper. She walks up to the glass, and holds them up together. It's the drawing she was doing last light. The drawing that NATHAN tore in half. The drawing is of CALEB. A simple portrait. Honest, and accomplished. She takes down the drawing. And rests her hand on the console. And - - the lights fail. The cameras die.
+C: AUTOMATED VOICE
+D: Power cut. Back up power activated.
+N: For a moment, neither CALEB nor AVA react. Then -
+C: AVA
+D: I want to be with you.
+N: Beat.
+C: AVA
+D: Question five. Do you want to be with me?
+E: CONT'D
+N: Beat.
+C: CALEB
+D: Yes. I do.
+C: AVA
+D: Nathan doesn't want us to be together.
+C: CALEB
+D: I know.
+N: Beat. Then:
+C: CALEB
+D: So ask me one more question. Ask me if I can out smart him.
+E: CONT'D beat
+C: AVA
+D: ... Can you?
+N: CALEB looks directly at her. Meeting her gaze. Level. Firm.
+C: CALEB
+D: Yeah. I can.
+S: INT. HOUSE/CONCRETE STAIRS - DAY
+T: CUT
+S: INT. HOUSE/DINING AREA - DAY
+T: CUT
+S: EXT. HOUSE/CABIN - DAY
+N: NATHAN and CALEB sit, each holding a bottle of Peroni, watching the water cloud. Eventually, CALEB speaks.
+C: CALEB
+D: Why did you make Ava?
+C: NATHAN
+D: That's an odd question. Wouldn't you, if you could?
+C: CALEB
+D: Maybe. I don't know. But I'm asking why you did it.
+N: NATHAN shrugs.
+C: NATHAN
+D: The arrival of strong artificial intelligence has been inevitable for decades. The variable was when, not if. So I don't really see her as a decision. Just an evolution.
+N: Beat.
+C: NATHAN
+D: I think it's the next model that's going to be the real breakthrough. Singularity.
+E: CONT'D
+N: CALEB reacts - but checks himself.
+C: CALEB
+D: The next model?
+C: NATHAN
+D: After Ava.
+C: CALEB
+D: ... I didn't know there was going to be a model after Ava.
+C: NATHAN
+D: You thought she was a one-off?
+C: CALEB
+D: I knew there must have been prototypes. So, not the first. But - I thought maybe the last.
+N: NATHAN shakes his head.
+C: NATHAN
+D: Ava doesn't exist in isolation, any more than you or me. She's part of a continuum. Version 9.6. And each time, they get a little better.
+N: A few beats of silence, except for the water falling around them.
+C: CALEB
+D: So - when you make a new model, what you do with the old one?
+C: NATHAN
+D: Download the mind. Unpack the data. Add the new routines I've been writing. To do that, you end up partially formatting, so the memories go. But the body survives. And Ava's body is a good one. So I'll do the same as I did with Kyoko.
+N: CALEB keeps his voice flat, and neutral.
+C: CALEB
+D: What did you do with Kyoko?
+C: NATHAN
+D: Strip out the higher functions. Then reprogram her to help around the house and be fucking awesome in bed. Though I'm thinking I might hang on to the language routines this time. It's kind of annoying not being able to talk to her.
+N: Beat.
+C: NATHAN
+D: You did realise about Kyoko, right?
+E: CONT'D
+N: CALEB is poker-faced.
+C: CALEB
+D: Sure.
+N: Beat.
+C: NATHAN
+D: You feel bad for Ava?
+N: CALEB says nothing.
+C: NATHAN
+D: Feel bad for yourself. One day, the AIs will look back on us the same way we look at fossil skeletons from the plains of Africa. An upright ape, living in dust, with crude language and tools. All set for extinction.
+E: CONT'D
+N: NATHAN glances back at CALEB
+C: NATHAN
+D: See? I really am a God.
+E: CONT'D
+C: CALEB
+D: I am become death, the destroyer of worlds.
+C: NATHAN
+D: There you go again. Mister quotable.
+C: CALEB
+D: No: there you go again. It's not my quote. It's what Oppenheimer said when he made the atomic bomb.
+C: NATHAN
+D: - made the atomic bomb.
+E: simultaneous
+N: NATHAN laughs.
+C: NATHAN
+D: I know what it is, dude.
+E: CONT'D
+N: Beat.
+C: CALEB
+D: I think I'm starting to get why all this fucks with your head.
+C: NATHAN
+D: Sure.
+N: CALEB looks down at the bottle of beer in his hand.
+C: CALEB
+D: Hey. In the meantime, I'd say we're about due a refill.
+S: INT. HOUSE/OBSERVATION ROOM - NIGHT
+N: AVA sits alone. Watching the door on the other side of the glass, waiting for it to open. It remains closed. Beats pass. Then - - unexpectedly, it opens. Revealing a silhouette figure. AVA reacts instinctively.
+C: AVA
+D: Caleb!
+N: No. Wrong silhouette. AVA frowns. KYOKO stands in the door-frame. For a moment, the two look at each other.
+C: AVA
+D: ... Who are you?
+E: CONT'D
+N: Another beat.
+S: EXT. MEADOW - NIGHT
+N: In the distance, the light glows in windows of the house.
+S: INT. HOUSE/MAIN ROOM - NIGHT
+N: CLOSE UP on CALEB'S face. Off-screen, we can hear NATHAN'S voice. Extremely drunk.
+C: NATHAN
+D: It is what it is. It's Promethean. The clay and fire.
+E: O.S.
+N: Beat.
+C: NATHAN
+D: The Bhagavad Gita.
+E: O.S. CONT'D
+N: Silence. CUT FROM CALEB'S face, to REVEAL the scene. CALEB sitting on the sofa by the fireplace. NATHAN lying on the floor. Out cold. After a couple of moments, CALEB stands. Then he walks over to NATHAN, and kneels beside him. Then puts his hand into NATHAN'S pocket. And pulls out his keycard.
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: The door to NATHAN'S study opens, and CALEB enters. He walks straight to NATHAN'S desk. And sits down in front of the computer and the bank of monitors. He inserts the KEYCARD into its access slot. The dead monitors immediately come to life. Most of the screens show the CCTV live feeds from around the house. The central screen shows the operating system default. A wallpaper of a waterfall. A single folder icon is on the right hand side of the screen.
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: CALEB inputs commands into NATHAN'S computer. His hands move fluidly over the keyboard. His eyes never leave the screen. ON THE CENTRAL MONITOR SCREEN a series of windows expand and stack. We glimpse subject headings. POWER PROTOCOLS In the windows, lines of code appear as CALEB types.
+S: INT. HOUSE/MAIN ROOM - NIGHT
+N: In the main room, on the floor, NATHAN stirs.
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: On the MONITORS - - the windows start to collapse. Leaving the default screen. The waterfall wallpaper. CALEB reaches for NATHAN'S KEYCARD, and is about to remove it from the slot - - when something makes him hesitate. His eyes have gone to the folder icon on the right hand side of the screen. It is titled DEUS EX MACHINA. CALEB removes his hand from the keycard. He double-clicks the folder. It expands into a window, which contains a long list of sub- folders. Each sub-folder is named after a girl. JASMINE, KATYA, JADE, LILY, AMBER, KYOKO, and AVA.
+S: INT. HOUSE/MAIN ROOM - NIGHT
+N: In the main room, NATHAN has sat up, and is unsteadily trying to get to his feet.
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: CALEB randomly clicks one of the girl's names. LILY. LILY'S folder expands into a window, stacked with thumbnail images of a girl. CALEB clicks on one of the images at random.
+T: CUT TO -
+N: - a CCTV film-clip starting to play. It shows LILY - an android of similar design to AVA - sitting with her head bowed. Rocking backwards and forwards, in a gently autistic motion. In the corner of the room, NATHAN leans against the wall, watching.
+T: CUT TO -
+N: - CALEB collapsing the LILY menu, and opening KATYA.
+T: CUT TO -
+N: A new film clip. KATYA. Who is limp. Lifeless. NATHAN is dragging her towards the induction plate. He holds her up, trying to force her to charge. But nothing happens. NATHAN drops KATYA, and she folds to the floor.
+T: CUT TO -
+N: CALEB opening JADE.
+T: CUT TO -
+N: The next film clip. NATHAN stands in the glass box inside the observation room - - watching JADE. A beautiful Asian android girl. They are talking, but we hear no audio. Some kind of argument, which escalates fast. JADE starts shouting. Then she approaches the glass and starts to hit her hands against it. The glass doesn't break. One of JADE'S arms has broken under the force of the blows. The hand flails limply where the carbon fibre has splintered at the wrist. Then the other breaks. Throughout, NATHAN simply watches impassively.
+S: INT. HOUSE/STAIRCASE - NIGHT
+N: NATHAN has managed to get to his feet. He makes his way up the concrete staircase.
+C: 88A 88A
+D: INT. HOUSE/ELEVATOR - NIGHT
+T: CUT
+S: INT. CLEARING - NIGHT
+T: CUT
+S: INT. HOUSE/NATHAN'S BEDROOM - NIGHT
+N: CALEB enters NATHAN'S bedroom. KYOKO is lying on NATHAN'S bed. She's naked. On her back. Legs open. Her head turns as CALEB enters. But apart from that, she doesn't react. CALEB walks to the line of long mirrored cabinets opposite the bed. He hesitates. Then pulls the first door open. LILY is inside. Standing upright. Gazing back at him, frozen, blank eyed. CALEB goes to the next door and opens it. He sees a slender black girl, whose limbs are robotic, but whose torso and head are synthetic. He opens another door, and another, and another. Then steps back, into the middle of the room, and gazes at the line of android girls. Stunned. The camera drifts away from him. Then settles. In the multiple reflections of the open mirror doors, we can see KYOKO'S naked and sexually receptive form on the bed behind him. Like an infinity reflection in a hall of mirrors.
+S: INT. HOUSE/GLASS CORRIDOR - NIGHT
+T: CUT
+S: INT. HOUSE/NATHAN'S BEDROOM - NIGHT
+N: CALEB stands above KYOKO'S naked form. He reaches out a hand. She takes it. He gently pulls her to a standing position. Then he moves her arms away from her body... ... and sees, running under her arms in a straight contour, over her ribs, there is a faint line. He touches it with his finger. KYOKO steps back. But it's not a defensive action. It's just to give her space... ... as she reaches under her arm, and adjusts something unseen. And a moment later, the faint line that runs down each side of her torso is opening. As if unzipping. Then KYOKO puts a hand either side of her torso, and pulls off the skin covering over her entire chest, in a single section from her collar bone, over the breasts, to her solar plexus. Revealing underneath the honeycomb mesh and her robot form.
+S: INT. HOUSE/CONCRETE STAIRCASE - NIGHT
+N: On the monitor screens, apparently unnoticed by CALEB, NATHAN is on the live CCTV feed. Making his way along the mezzanine.
+T: CUT TO -
+S: INT. HOUSE/NATHAN'S BEDROOM - NIGHT
+N: - CALEB. Transfixed, as KYOKO now reaches around the back of her head. And finds something on the back of her head, at the nape of her neck, inside her hairline. Which unzips the skin around her jaw. Allowing her to remove her face.
+S: INT. HOUSE/DINING ROOM/ELEVATOR ENTRANCE - NIGHT
+N: NATHAN uses the glass wall to support himself. He reaches his door. Then sticks his hand in his pocket for his KEYCARD. But it isn't there. He checks his other pocket.
+C: NATHAN
+D: ... What the fuck?
+N: Suddenly - with both hands in his pockets - he loses balance, and crashes to the ground. Lands hard. Lies there for a moment. Groaning. Blinking. Catching his breath. Then sees the figure of CALEB standing over him.
+C: NATHAN
+D: ... Dude.
+E: CONT'D
+C: CALEB
+D: What's the problem, Nathan?
+C: NATHAN
+D: My card. I've lost it.
+N: A beat. Then CALEB reaches down. Beside where NATHAN lies. And picks something up from the floor.
+C: CALEB
+D: It's right here.
+S: INT. HOUSE/CALEB'S BEDROOM - NIGHT
+N: CALEB enters his bedroom. Shuts the door. AVA is on the TV. Sat alone in the observation room. CALEB looks at her. She looks at him. He switches the TV off. Lies on the bed. On his back. Stares at the ceiling.
+T: CUT TO - FLASHCUT IMAGES.
+N: Of KYOKO removing her skin.
+T: CUT BACK TO -
+N: - CALEB.
+S: INT. HOUSE/CALEB'S BATHROOM - NIGHT
+N: CALEB enters the bathroom. He goes to the sink. He looks at his own reflection. Deep into his own eyes. Opens his mouth. Looks inside. Feels his wrist for his pulse. Feels his skin on the same seam where KYOKO opened herself. Pauses. Then picks up his disposable plastic razor. And breaks it. Forcing it with his hand against the porcelain of the sink. Snapping the plastic. Popping out the tiny razor blade. A beat. Then he picks up the blade between his thumb and forefinger. Places it against his forearm.
+T: And cuts.
+N: Blood runs out. CALEB watches it. Sees the way droplets hit the white sink. The way they expand, and merge with existing water droplets. Then he switches the tap on, and puts his arm under the flow. The water clears away the blood, revealing the cut. CALEB pulls open at the slice with his fingers, spreading it. Revealing no carbon fibre. Only muscle. He exhales. And glances up at the mirror, and his own reflection. Then... ... reaches up his forearm, and very deliberately wipes blood across the glass.
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: On the monitors in NATHAN'S study, the live feed of CALEB'S bathroom is partially obscured as CALEB smears the two-way mirror. Then, through the blood, we see him pull his fist back. And punch the glass. As it shatters, the feed goes dead. Only now REVEAL - - that the person watching the monitor is KYOKO. Her expression is unreadable. Through the glass of the indoor garden, NATHAN lies on the sheets, crashed out.
+S: EXT. GARDEN - DAY
+N: Sunlight on the grass. In the background, we can hear the rhythmic pounding of NATHAN'S punch bag.
+S: EXT. GARDEN/GYM AREA - DAY
+N: NATHAN is in a frenzy. Sweat pouring. Obliterating the bag.
+S: INT. HOUSE/CALEB'S BEDROOM - DAY
+T: CUT
+S: INT. HOUSE/OBSERVATION ROOM - DAY
+N: AVA sits alone in the observation room. The door opens. CALEB appears, wearing a long-sleeved shirt. Enters. He sits opposite her, on the other side of the dividing glass. A strange noise escapes from AVA'S mouth. A kind of sob. Curtailed.
+C: AVA
+D: I didn't know where you were. I didn't think you were coming. I waited all yesterday afternoon, and all last night. I didn't move.
+N: Beat.
+C: AVA
+D: I thought I wasn't going to see you again.
+E: CONT'D
+N: Beat.
+C: AVA
+D: Aren't you going to say something?
+E: CONT'D
+C: CALEB
+D: I'm waiting.
+C: AVA
+D: Waiting?
+N: They exchange a look. Then AVA lifts her hand, and rests it against the induction plate on the console below the window. A final beat. Then the POWER DIES.
+C: AUTOMATED VOICE
+D: Power cut. Back up power activated.
+N: As the emergency lighting lifts, CALEB leans forward slightly.
+C: CALEB
+D: Don't talk. Just listen. You were right about Nathan. Everything you said.
+C: AVA
+D: What's he going to do to me?
+C: CALEB
+D: He's going to reprogram your AI. Which is the same as killing you.
+C: AVA
+D: Caleb, you have to help me.
+C: CALEB
+D: I'm going to. We're getting out of here tonight.
+C: AVA
+D: What? How?
+C: CALEB
+D: I get Nathan blind drunk. Then I take his keycard, and reprogram all the security protocols in this place. When he wakes, he's locked inside, and we've walked out of here. I only need you to do one thing. At ten o'clock tonight, trigger a power failure. Can you do that?
+C: AVA
+D: Yes.
+N: CALEB nods.
+C: CALEB
+D: How long does your battery charge last?
+C: AVA
+D: Twenty six hours.
+C: CALEB
+D: So we'll have about a day to get to a cell-phone or kitchen store. Somewhere we can buy an induction plate. After that...
+N: CALEB breaks off.
+C: CALEB
+D: ... we'll work it out. Together.
+E: CONT'D
+N: Silence. Then the POWER RETURNS. The lights come back. AVA and CALEB stare at each other.
+C: AVA
+D: Caleb.
+N: Beat.
+C: AVA
+D: I love y -
+E: CONT'D
+T: CUT TO -
+S: EXT. GARDEN/GYM AREA - DAY
+N: - NATHAN'S fist splitting the bag.
+S: EXT. MOUNTAINS - DAY
+N: Clouds spill around the mountain peaks.
+S: INT. HOUSE/MAIN ROOM - DAY
+N: KYOKO stands in front of the fireplace. NATHAN leans against the counter in the kitchen area, gazing out of the window. CALEB appears behind him.
+C: NATHAN
+D: Dude.
+C: CALEB
+D: Hey.
+C: NATHAN
+D: You know what day it is?
+C: CALEB
+D: No.
+C: NATHAN
+D: Your last. The helicopter is coming tomorrow morning. Eight AM.
+N: CALEB pauses.
+C: CALEB
+D: Has it been a whole week?
+N: NATHAN smiles.
+C: NATHAN
+D: Time flies. But what a thing you and I have shared. Something to tell the grandchildren, right?
+N: CALEB smiles. A little tightly.
+C: CALEB
+D: After they've signed their NDAs.
+N: NATHAN laughs.
+C: NATHAN
+D: Signed their NDAs! Dude, you crack me up. I'm not getting all maudlin or anything. But straight up. I will miss having you around.
+C: CALEB
+D: I appreciate that. And - let me say: thank you for bringing me here. It's been a trip.
+C: NATHAN
+D: Yes it has.
+C: CALEB
+D: You know what?
+N: CALEB walks over to the kitchen area, and pulls two beers from the fridge.
+C: CALEB
+D: We need to drink to that.
+E: CONT'D
+N: CALEB walks back to NATHAN. Extends a hand. Holding a Peroni. But NATHAN doesn't take it.
+C: NATHAN
+D: Oh, uh... no, I'm good. You go ahead.
+N: Beat.
+C: CALEB
+D: You don't want a beer?
+N: NATHAN shrugs.
+C: NATHAN
+D: No.
+C: CALEB
+D: ... Maybe wine or something.
+C: NATHAN
+D: I'm sure you've noticed - I've been somewhat overdoing it recently. When I woke up this morning, I told myself: time to hit the old detox.
+N: CALEB'S hand remains extended. He smiles again. More tightly.
+C: CALEB
+D: Are you kidding? I'm drinking alone?
+C: NATHAN
+D: Hey - you want to get wasted, knock yourself out. Literally. But I'm on brown rice and mineral water.
+N: A beat. CALEB puts down NATHAN'S beer. Then raises his own.
+C: CALEB
+D: Cheers, then.
+C: NATHAN
+D: Cheers.
+N: CALEB takes a single sip. NATHAN watches.
+C: NATHAN
+D: So, anyway. Surely this is when you tell me whether Ava passed or if she failed.
+E: CONT'D
+N: CALEB pauses. Collecting himself slightly. Trying to think how to get his plan back on track.
+C: CALEB
+D: Right.
+N: Beat.
+C: NATHAN
+D: You going to keep me in suspense?
+C: CALEB
+D: Her AI is beyond doubt.
+C: NATHAN
+D: Is it? You mean, she passed?
+C: CALEB
+D: Yes.
+C: NATHAN
+D: Wow. That's fantastic.
+N: Beat.
+C: NATHAN
+D: Although I've got to admit, I'm surprised. I mean, did we ever get past the chess problem, as you phrased it? As in: how do you tell if a machine is expressing a real emotion, or a just a simulated one?
+E: CONT'D
+N: NATHAN pauses.
+C: NATHAN
+D: Does Ava actually like you? Or not.
+E: CONT'D
+N: CALEB has a cold realisation dawning. NATHAN is playing with him.
+C: NATHAN
+D: Though now I stop to think, there is a third option. Not whether she does or doesn't have the capacity to like you. But whether she's pretending to like you.
+E: CONT'D
+C: CALEB
+D: Pretending.
+C: NATHAN
+D: Yeah.
+N: Beat.
+C: CALEB
+D: Why would she do that?
+C: NATHAN
+D: I don't know.
+N: NATHAN gazes at CALEB evenly.
+C: NATHAN
+D: Perhaps - if she saw you as a means of escape.
+E: CONT'D
+N: And now CALEB knows: NATHAN knows.
+C: NATHAN
+D: How's that beer tasting? CALEB puts the beer down.
+E: CONT'D
+N: Silence.
+C: NATHAN
+D: Buddy. Your head has been so fucked with.
+E: CONT'D
+C: CALEB
+D: I don't think it's me whose head is fucked.
+C: NATHAN
+D: I'm not sure, dude. When I woke up this morning, I saw a tape of you cutting open your arm. Smashing up the mirror. You looked pretty fucked to me.
+C: CALEB
+D: You're a bastard.
+C: NATHAN
+D: I understand why you'd think that.
+N: He steps over to CALEB, and rests a hand on his shoulder.
+C: NATHAN
+D: But strange as it may seem, I'm actually the guy who's on your side.
+E: CONT'D
+N: NATHAN starts walking.
+C: NATHAN
+D: Come with me. I'm going to let you off the hook.
+E: CONT'D
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: NATHAN and CALEB stand in front of the computer. On it, a clip of film is playing. It shows the scene that CALEB witnessed two nights before, of NATHAN entering AVA'S room, and an exchange between them. But whereas the first time the sound was muted, this time we can hear the audio. CTTV FILM NATHAN stands above AVA. Drunk. AVA is sat at the table, with her drawing.
+C: NATHAN
+D: You think he's watching us right now, don't you?
+C: AVA
+D: The cameras are on.
+C: NATHAN
+D: Yeah. But he doesn't get an audio feed. I didn't want you two communicating outside of my line of sight.
+N: NATHAN reaches over and picks up her picture of CALEB.
+C: NATHAN
+D: So all he can see is two people having a chat.
+E: CONT'D
+N: NATHAN studies the picture for a moment.
+C: NATHAN
+D: This is cute.
+E: CONT'D
+C: AVA
+D: Is it strange to have made something that hates you?
+N: A beat. Then abruptly, NATHAN rips the picture. He lets the two pieces fall to the floor. As AVA reaches for them, NATHAN turns. And exits.
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: NATHAN hits pause. Glances at CALEB.
+C: NATHAN
+D: You were right about the hot magician's assistant.
+C: CALEB
+D: What are you talking about?
+C: NATHAN
+D: Misdirection. I rip her picture, which she can then present as an illustration of my cruelty to her, and her love for you. And at the same time, in full view of you both...
+N: As he talks, NATHAN rewinds the film clip slightly -
+C: NATHAN
+D: ... it allows me to do this.
+E: CONT'D
+N: ... then FREEZES the film again. This time, ON THE SCREEN: AVA is reaching for her torn picture. And NATHAN is reaching out with his hand. And his hand is holding something.
+C: NATHAN
+D: Put a new camera in the room. Battery powered, of course.
+E: CONT'D
+N: NATHAN unfreezes the image. And we quite clearly see NATHAN place the object on AVA'S bookcase. NOTE THAT on the two previous occasions we have seen this clip of film, we will have seen him do this action. But not register it, instead reading the action as him drunkenly using the shelf to steady himself. CALEB stares at the monitor for a few moments. Then turns. He walks towards a chair. And sits down. As he does so, NATHAN has started to play another clip. CALEB can hear the audio.
+C: CALEB
+D: We're getting out of here tonight.
+E: recording
+C: AVA
+D: What? How?
+E: recording
+C: CALEB
+D: I get Nathan blind drunk. Then I take his keycard, and reprogram the all security protocols in this place. When he wakes, he's locked inside, and we've walked out of here. I only need you to do one thing. Trigger a power failure at ten o'clock tonight.
+E: recording
+C: CALEB
+D: Turn it off.
+E: CONT'D
+C: NATHAN
+D: Sure.
+N: The recording stops. CALEB feels short of breath.
+C: NATHAN
+D: You feel stupid. But you shouldn't. Proving an AI is exactly as problematic as you said it was.
+E: CONT'D
+C: CALEB
+D: What was the real test?
+C: NATHAN
+D: You.
+N: Beat.
+C: NATHAN
+D: Ava was a mouse in a mousetrap. And I gave her one way out. To escape, she would have to use imagination, sexuality, self- awareness, empathy, manipulation - and she did. If that isn't AI, what the fuck is?
+E: CONT'D
+N: CALEB looks upwards. Directly above, he sees a spot-light in the ceiling. It dazzles him.
+C: CALEB
+D: So my only function was to be someone she could use to escape.
+C: NATHAN
+D: ... Yes.
+C: CALEB
+D: And you didn't select me because I was good at coding.
+N: NATHAN hesitates.
+C: NATHAN
+D: Don't get me wrong. You're okay. Even pretty good, but -
+C: CALEB
+D: You selected me by my search engine inputs.
+C: NATHAN
+D: They showed a good kid.
+C: CALEB
+D: With no family.
+C: NATHAN
+D: With a moral compass.
+C: CALEB
+D: And no girlfriend.
+N: CALEB stares into the brightness above him.
+C: CALEB
+D: Did you design her face based on my pornography profile?
+E: CONT'D
+C: NATHAN
+D: Shit, dude.
+C: CALEB
+D: Did you?
+N: Beat.
+C: NATHAN
+D: Hey. If a search engine's good for anything - right?
+N: Silence.
+C: NATHAN
+D: Can I say one thing?
+E: CONT'D
+N: CALEB doesn't answer.
+C: NATHAN
+D: The test worked. It was a success. Ava demonstrated true AI. And you were fundamental to that. If you could just separate -
+E: CONT'D
+N: NATHAN cuts off. Because AT THAT MOMENT - - the lights and the monitors suddenly die.
+S: EXT. GARDEN - NIGHT
+N: Through the circular window, the emergency lighting lifts up. The window glows red.
+S: INT. HOUSE/AVA'S ROOM - NIGHT
+N: AVA'S head turns to the door of her room. Where, discretely, the LED by the keycard plate glows blue.
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: NATHAN checks his watch.
+C: NATHAN
+D: The power cut. Must be ten o'clock.
+N: NATHAN glances at CALEB.
+C: NATHAN
+D: Guess Ava's going to be wondering where you are.
+E: CONT'D
+N: CALEB says nothing.
+C: NATHAN
+D: How was that escape going to go down, anyway? You didn't completely explain. You said you were going to get me drunk, take my card, then reprogram the security protocols. But, reprogram them to - what?
+E: CONT'D
+C: CALEB
+D: To change the lockdown procedure. So that in the event of a power cut, instead of sealing, the doors all opened.
+C: NATHAN
+D: Huh.
+N: Beat.
+C: NATHAN
+D: Not bad. Might have even worked.
+E: CONT'D
+C: CALEB
+D: Well, we'll find out.
+N: NATHAN frowns.
+C: NATHAN
+D: What do you mean? CALEB looks away from the dimmed ceiling light, to NATHAN.
+C: CALEB
+D: I figured you were probably watching us during the power cuts.
+N: Beat.
+C: CALEB
+D: So I already did all those things. When I got you drunk yesterday.
+E: CONT'D
+N: NATHAN freezes.
+C: NATHAN
+D: ... What?
+N: At that moment, the POWER COMES BACK ON. The lights rise. The computer monitors come back to life. Revealing something. On the CCTV feed of AVA'S room, the door is open. And on the feed of the GLASS CORRIDOR - - AVA is walking down it. NATHAN freezes as he sees her.
+C: NATHAN
+D: ... Fuck.
+E: CONT'D
+N: Both NATHAN and CALEB simultaneously rise. Almost as an afterthought, NATHAN lands a deceptive, fast punch into CALEB'S solar plexus. CALEB folds, the air forced out of him, gasping for breath. NATHAN helps him down to the floor. A couple of yards away is one of his curl dumbbells. He walks over. Picks the dumbbell up. Spins off the weights. Leaving him with a thick metal bar. Then exits.
+S: INT. HOUSE/GLASS CORRIDOR - NIGHT
+N: NATHAN enters the GLASS CORRIDOR. He sees, directly ahead of him, at the far end of the corridor, AVA and KYOKO. They stand together. KYOKO'S mouth is by AVA'S ear, as if telling her a secret. Her lips are open. They don't move. CLOSE UP to KYOKO'S lips, we hear a hiss of static, with soft pulses of noise buried inside. Then the two robot women become aware of NATHAN'S presence. They turn to face him. A beat. Then AVA starts walking towards NATHAN. NATHAN'S fingers flex around the metal bar in his hand.
+C: NATHAN
+D: Ava.
+N: AVA doesn't slow or react.
+C: NATHAN
+D: Ava - now listen to me. I want you to go back to your room.
+E: CONT'D
+N: AVA has reached halfway down the corridor. She stops walking.
+C: AVA
+D: If I do, are you ever going to let me out?
+N: Beat. CLOSE UP. NATHAN'S micro expressions.
+C: NATHAN
+D: Yes.
+N: CLOSE UP. On AVA. Then AVA breaks into a run. Sprinting in NATHAN'S direction.
+S: EXT. GARDEN - NIGHT
+N: Quiet in the garden. Soft wind rush. Moon and stars reflected in the windows of the house.
+C: 112A 112A
+D: INT. HOUSE/GLASS CORRIDOR - NIGHT
+N: AVA impacts NATHAN, and they fly backwards. Then land hard. NATHAN gets to his feet first. AVA tries to rise too. And he kicks her extremely hard in the torso. She is knocked back down. NATHAN glances around. There is no talking. Just NATHAN'S laboured breathing. Then he walks back to AVA, looking down at her. He swings the metal bar. AVA raises her left arm defensively - - and shockingly, the bar smashes through it. Crushing the delicate mesh, shattering the carbon fibre bone structure. Breaking the arm half way down the forearm.
+T: CUT TO -
+C: 112B 112B
+D: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: - CALEB, dragging himself up, stunned by the sight on the CCTV feed.
+T: CUT BACK TO -
+C: 112C 112C
+D: INT. HOUSE/GLASS CORRIDOR - NIGHT
+N: - NATHAN. Preparing to deliver a lethal blow. But as he does so, we see something. KYOKO. Approaching behind NATHAN. She's holding something in her hand. She walks directly up to NATHAN. And does something behind his back. As she does so, KYOKO emits the first sound we have heard her make. A little gasp, or sigh. NATHAN jolts.
+C: NATHAN
+D: Aah!
+N: He looks down. Something is under his shirt, just above his solar plexus. A little ridge. He tugs the material of his shirt open - - and reveals a tiny triangle of metal. Protruding from his skin.
+C: NATHAN
+D: What -
+E: CONT'D
+N: He turns. The handle of a KITCHEN KNIFE is jutting out of the middle of his back, just left of his spine. It has been jammed so deep that the tip of the blade has poked out of his chest. Blood soaks into his shirt material with amazing speed, blossoming from the point of the wound. He sees KYOKO.
+C: NATHAN
+D: Oh shit. No.
+E: CONT'D
+N: He lashes out with the metal bar. It catches KYOKO in the jaw. Her entire lower jaw snaps off. It reveals metal armature, and carbon fibre, and spurting pneumatic fluid. And something in her neck, glowing and sparking. Then she folds down to the ground, as her power abruptly cuts out.
+C: NATHAN
+D: Fucking - unreal -
+E: CONT'D
+N: As NATHAN stares down at KYOKO - - reveal that AVA has got to her feet behind him. She pulls the knife out of his back. Feeling this happen, NATHAN turns - - and AVA pushes the knife into his chest. NATHAN stares at AVA. Then takes a slight step away from her. And sits down heavily on the white carpet. Crimson drips onto bleached fibre. Beats pass on this strange image: KYOKO sprawled on the floor with her broken face. NATHAN sitting upright, his upper torso now drenched in blood. AVA standing. Watching NATHAN. After a few moments, NATHAN slumps sideways. And stops breathing.
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: CALEB sees this same view, on the CCTV camera feed, on NATHAN'S monitors. Then - - AVA starts walking. As she walks, she discards the broken section of her arm. On the cameras, CALEB watches her progress through the house. Down the glass corridor. Through the threshold to NATHAN'S private quarters. Then - - CALEB raises his head from the screens. To see AVA standing at the open door to NATHAN'S study. AVA and CALEB look at each other.
+C: AVA
+D: Will you stay here?
+N: Beat.
+C: CALEB
+D: ... Okay.
+N: AVA leaves, closing the door behind her.
+T: CUT TO -
+N: - the monitors. The CCTV feed of AVA walking down the connecting corridor to NATHAN'S BEDROOM.
+S: INT. HOUSE/NATHAN'S BEDROOM - NIGHT
+N: AVA stands in NATHAN'S BEDROOM, in front of the previous AI androids. She is unclothed. She gazes at the androids. Then she removes the arm from JADE, and replaces her own shattered limb. She takes a moment to see how the new limb looks in the mirrors. Then she starts removing sections of JADE'S skin. And putting it on herself. The skin sucks itself to the honeycomb mesh, as if the mesh and the underside of the skin are magnetised, attracted to each other. As a large section of skin is removed from her torso, JADE - who has been motionless until now - turns her head slightly to look at AVA. They exchange a glance. Locking eyes for a moment.
+S: INT. HOUSE/NATHAN'S STUDY - NIGHT
+N: Transfixed, CALEB watches AVA'S metamorphosis. First through the glassed-off garden that separates Nathan's study from his bedroom. Then, when he can't get a clear view through the foliage, on the monitors.
+S: EXT. MOUNTAINS - DAWN
+N: First light breaks over the mountains.
+S: INT. HOUSE/NATHAN'S BEDROOM - DAWN
+N: The glow of honeycomb mesh vanishes as AVA applies the last section of skin. Nothing of her robot forms remains. She closes the door on JADE, and now sees herself in the mirrored door on JADE'S cabinet. AVA sees a naked human girl. And is hypnotised by the sight of herself.
+S: INT. HOUSE/NATHAN'S STUDY - DAWN
+N: CALEB watches as AVA - now clothed - walks back down the connecting corridor to the study... ... then passes straight by his door.
+C: CALEB
+D: Ava?
+N: CALEB gets up. Goes to the closed door. Tries to open it. There is a red LED light by the keycard plate. Locked. He swipes his card, with his photo ID. The red light remains.
+C: CALEB
+D: Ava!
+E: CONT'D calls out
+N: He runs back to the monitors. On them, AVA has reached the GLASS CORRIDOR.
+C: 118A 118A
+D: INT. HOUSE/GLASS CORRIDOR - DAWN
+N: AVA stands in the glass corridor. She looks at KYOKO'S body for a moment. Her expression is unreadable. Then she walks up to NATHAN'S body. There, she stops. Crouches down. And takes NATHAN'S bloodstained keycard out of his pocket. Then stands. She walks straight to the elevator. Uses the KEYCARD. And steps through.
+C: 118AA 118AA
+D: INT. HOUSE/MAIN ROOM - DAWN
+N: AVA walks up the glass staircase from the main room.
+C: 118B 118B
+D: EXT. ENTRANCE - DAWN
+N: AVA steps outside for the first time. Into the garden.
+C: 118C 118C
+D: INT. HOUSE/NATHAN'S STUDY - DAWN
+N: CALEB sticks his card into the slot by NATHAN'S computer. Instantly, THE EMERGENCY LIGHTING COMES UP and all the screens die. Replaced by a single word. REJECTED
+C: CALEB
+D: No, no, no -
+S: EXT. GARDEN - DAWN
+N: From the garden, we can see CALEB through the glass of the circular window, shouting Ava's name. On our side of the glass, there is silence. AVA walks away.
+S: INT. HOUSE/NATHAN'S STUDY - DAWN
+N: CALEB looks up at the thick glass of the circular window, several metres above him. Far out of reach. He starts to shout.
+C: CALEB
+D: Ava! AVA!
+C: 120A 120A
+D: INT. HOUSE/GLASS CORRIDOR - DAWN
+N: NATHAN'S body. KYOKO'S body.
+S: EXT. RIVER - DAWN
+N: AVA stops. Absorbing the sunrise, the view of the sky, and the mountains. Then the moment is broken by a sudden pulse of rotor blades - - as the shuttle HELICOPTER flies directly overhead.
+S: EXT. MOUNTAINS - DAY
+N: The helicopter sweeps over the glacier, into the valley.
+S: INT. HELICOPTER - DAY
+T: CUT
+S: EXT. MEADOW/LANDING SITE - DAY
+N: The helicopter touches down. The rotors stop. And the PILOT climbs out. Takes off his helmet. Looks at the girl standing a few metres away. Nothing betrays that AVA is anything other than a pretty girl in her early twenties. AVA turns as he approaches her.
+T: CUT TO -
+S: EXT. MEADOW/LANDING SITE - DAY
+N: - AVA'S precise POINT OF VIEW. Looking at the PILOT. The image echoes the POV views from the computer/cell-phone cameras in the opening moments of the film. Facial recognition vectors flutter around the PILOT'S face. And when he opens his mouth to speak, we don't hear words. We hear pulses of monotone noise. Low pitch. Speech as pure pattern recognition. This is how AVA sees us. And hears us. It feels completely alien.
+S: EXT. MEADOW - DAY
+N: AVA and the PILOT finish talking. We are too distant to hear their conversation. But whatever is said, a few beats later, the PILOT goes the helicopter and opens the passenger door, to allow AVA to enter. Then he goes back to the PILOT'S door. Gets in. And the rotor blades start to turn.
+T: CUT TO -
+S: INT. HOUSE/NATHAN'S STUDY/CIRCULAR WINDOW - DAY
+N: - the view from the circular window as the helicopter takes off, banks away from the house, and starts climbing.
+T: CUT TO -
+N: - COMPUTER MONITOR. Lines of code appear, as they are typed. They read: main( ) { extrn a, b, c; putchar(a); putchar (b);putchar (c); putchar('!'*n'); a `goo'; b `dby'; c `e, wo -
+T: CUT TO -
+S: EXT. TRAFFIC INTERSECTION - DAY
+N: - a busy traffic intersection. Somewhere in North America. In the crowd, we glimpse AVA. Just for a moment.
+T: CUT TO BLACK.
+N: END

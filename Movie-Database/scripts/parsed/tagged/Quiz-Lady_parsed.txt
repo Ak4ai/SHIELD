@@ -1,0 +1,2879 @@
+M: QUIZ LADY
+M: Written by
+M: Jen D'Angelo
+M: ii.
+N: Our fictional game show is called Can't Stop the Quiz. The gameplay will become evident throughout the film, but just to explain it up top for clarity: Can't Stop the Quiz (aka CSQ) is a nightly game show that airs live Monday-Friday at 7pm. It's been on since 1985, and hosted by Terry McTeer for the entirety of its run. Here's how it works: Round 1: "The Blitz" - three contestants (one of whom is the returning champion) compete in a rapid-fire trivia blitz. Terry asks questions, they buzz in to answer. They go through as many questions as they can in five minutes. The prize money gets higher every ten questions, so for the first ten questions are worth $100, second ten are worth $200, etc. The top two scoring players advance to: Round 2: "The Head to Head" - the two contestants face off against each other. Players take turns selecting a category for the other player. They are given a sub-category, and thirty seconds to list as many things in that sub-category as they can. (For example, the category is "Geography" and the sub-category is "Countries with Green In Their Flag"). Answers are worth $500. If a player lists all possible answers and still has time remaining, they get a bonus of $1000/second left on the clock. Round 3: "The Coin Flip" - the players flip a giant coin to determine if the Final Round will be "SAY IT!", where contestants must say the answer, or "SHOW IT!", where the contestants bring a partner on stage and must act out the answers while their partner guesses.
+S: INT. SUBURBAN LIVING ROOM - NIGHT
+N: CLOSE ON: An OLD, BULKY TV SET. TERRY MCTEER (warm, approachable, wearing a suit and bow tie) is on screen.
+C: TERRY
+D: It's seven o'clock on a weeknight, which can only mean one thing. It's time for Can't Stop the Quiz.
+N: YOUNG ANNE (6), a classic nerd, sits on the floor in front of the TV, completely rapt. CHYRON: 1996 ON TV: The CAN'T STOP THE QUIZ THEME SONG plays as a CHEESY ANIMATED BRAIN dances across the screen. Anne bops her head to the beat, dancing along with the brain.
+C: TERRY
+D: I'm your host Terry McTeer. Let's meet today's contestants.
+E: CONT'D
+N: YOUNG JENNY (16, cool, stylish) walks into the living room, talking on the phone. She plops down on the couch.
+C: YOUNG JENNY
+D: Oh my god! You made out with David Zelman??? Ashley is gonna kill you! Anne, annoyed, tries to tune out Jenny and focus on the TV.
+C: TERRY
+D: May I have five minutes on the clock please?
+N: The Brain places a countdown clock onscreen.
+C: TERRY
+D: And your time. Starts. Now! What is the lightest element on the periodic table?
+E: CONT'D reading quickly
+N: A contestant, DENISE, buzzes in.
+C: DENISE
+D: Hydrogen. Yellow 2.
+E: 05/27/2022
+C: TERRY
+D: Correct. What is the deepest freshwater lake in the world?
+N: Anne's focus is interrupted by yelling from upstairs --
+C: THEIR DAD
+D: You lost six hundred dollars?!
+E: O.S.
+N: Their dad starts angrily yelling in KOREAN.
+C: THEIR MOM
+D: Stop with the Korean! How would you like it if I yelled in Chinese?!
+E: O.S.
+N: She starts yelling in CANTONESE. It's a multilingual cacophony. Jenny eyes Anne, feeling bad for her. She turns up the volume on the TV, without pausing her conversation:
+C: YOUNG JENNY
+D: No they're still hooking up! They went to third base YESTERDAY!
+N: Their dad storms down the stairs, on a tear.
+C: THEIR DAD
+D: I can't do this! You ruin everything! I won't let you drag me down anymore!
+E: in Korean
+N: He storms out, slamming the door behind him. Jenny stares at the door, dumbfounded. A heavy beat. Then:
+C: YOUNG JENNY
+D: Mom! Dad just said a bunch of stuff in Korean and left!
+N: Anne, desperate to escape, stays focused on the TV. We hear a GAME SHOW SOUND CUE and CUT TO:
+S: INT. SAME LIVING ROOM - THREE YEARS LATER - NIGHT
+N: 9-YEAR-OLD ANNE watches CSQ. Terry is on screen, wearing a different bowtie, but otherwise looking mostly the same. THREE DIFFERENT CONTESTANTS at the podiums.
+C: TERRY
+D: And that's the end of The Blitz! Wow you guys are smart!
+E: MORE
+C: TERRY
+D: Carl, I can't believe you knew the name of that comet. That was incredible! You almost knocked my bowtie off. But luckily it's tied on tight. With a shoelace knot. Little extra learning for you.
+E: CONT'D
+N: Terry wiggles his bowtie.
+C: TERRY
+D: When we return, Michael and Carl will compete in the Head to Head! Don't go anywhere. I know I won't.
+E: CONT'D
+N: Anne happily mouths along with Terry -- "I know I won't." As the TV switches to an AGGRESSIVELY 1999 COMMERCIAL -- 19-YEAR-OLD JENNY enters, carrying a bowl of noodles and an egg, followed by their mom, CRYSTAL. As Crystal talks, Jenny puts the bowl in front of Anne.
+C: CRYSTAL
+D: Your cousin Jin just got into Harvard medical school! And you're dropping out?! It's bad enough you go to community college --
+C: 19-YEAR-OLD JENNY
+D: Where else was I supposed to go?! There's no money!
+N: Jenny is distracted by yelling at Crystal, and cracks the egg not over the bowl of noodles. Anne moves the bowl to catch the egg while Jenny and Crystal continue to argue --
+C: CRYSTAL
+D: You should have been smarter and gotten a scholarship! But no, you're too stupid!
+C: 19-YEAR-OLD JENNY
+D: I don't need school! I'm going to be an ACTRESS!!!
+N: Anne flinches at the yelling. She takes her bowl of noodles and scoots a little closer to the TV.
+C: CRYSTAL
+D: You can't make money as an actress! Blue 4.
+E: 05/18/2022
+C: 19-YEAR-OLD JENNY
+D: Tell that to Julia Roberts!!! And it's not about the money! This is my dream! This is my destiny!
+C: CRSYTAL
+D: Destiny. Bah.
+N: She dismissively waves it off and goes for the door.
+C: 19-YEAR-OLD JENNY
+D: Did you just "bah" my destiny?!?!
+C: CRYSTAL
+D: You're making me crazy. I'm going to the casino.
+C: 19-YEAR-OLD JENNY
+D: Oh great. Have fun LOSING ALL OUR MONEY!
+N: Crystal storms out. Jenny runs upstairs. Anne focuses back on the TV. We hear a GAME SHOW SOUND CUE and CUT TO:
+S: INT. SAME LIVING ROOM - THREE YEARS LATER - NIGHT
+N: The house is quiet and still, Can't Stop the Quiz on TV. 12- YEAR-OLD ANNE is on the couch. Terry is on screen, wearing a different bowtie, otherwise looking more or less the same.
+C: TERRY
+D: Danton, which category will you choose for AJ?
+N: Danton looks at a screen of categories.
+C: DANTON
+D: Hmm. How about Geography?
+C: TERRY
+D: Geography! AJ, you will have to list for us... Countries on the Equator! Ooh, that's a tough one. Your time starts now!
+E: it appears on screen
+N: 22-YEAR-OLD JENNY runs into the living room, SO excited. Yellow (05/27/2022) 5.
+C: 22-YEAR-OLD JENNY
+D: I made it to the final round of auditions for The Real World!!!!! I have to go to LA tomorrow to meet with the producers!!! AHHH!!!
+C: 12-YEAR-OLD ANNE
+D: But what about your puppy?
+N: She gestures to the corner, where a little pen is set up, and an unbelievably adorable FAWN PUG PUPPY sits.
+C: 22-YEAR-OLD JENNY
+D: Oh yeah. Can you take care of Mr. Linguini? Annie, seriously, it'll be good for you. You could use a friend. And it's just until I get back!
+E: off Anne's look
+N: Jenny runs upstairs. Anne looks at the adorable puppy, not thrilled about dogs in general. A CSQ SOUND CUE cuts to:
+S: INT. ANNE'S HOUSE - PRESENT DAY - NIGHT
+N: ANNE (30s, risk-adverse introvert) sits on her couch, with a now ancient Mr. Linguini curled up next to her. CSQ is on TV. Terry, now with white hair, but otherwise mostly the same, except for - as always - a different bow tie, is on screen:
+C: TERRY
+D: What an incredible game! I learned so much. I had no idea pineapple is a berry. That blows my mind. Join us tomorrow for another night of fast facts and live learning! I'm Terry McTeer and I'll be right--
+E: to camera
+N: He jumps to his center mark where he begins every show.
+C: TERRY
+D: -- here. Have a good night!
+E: CONT'D
+N: Terry does a little salute. Anne does it back to him. She looks completely content, comforted by her favorite show. TITLES
+S: INT. ANNE'S CUBICLE - PRESENT DAY
+N: Anne sits at her desk in a very drab, very safe office. Anne inputs data into a massive spreadsheet. She's in the zone, eyes darting between two computer monitors, fingers flying over the keys. An ALARM goes off on her phone. She checks it. It's a reminder: Time to walk around the office so you don't get blood clots and die. Anne gets up.
+S: INT. OFFICE BULLPEN - DAY
+N: Anne makes a cup of tea at the water cooler area. Two co- workers, TRAV (slightly douchey), and MARGE (unintentionally rude) walk up.
+C: TRAV
+D: Oh shit does this mean there's gonna be birthday cake later?
+C: MARGE
+D: No, she asked for pie.
+E: disappointed
+C: TRAV
+D: Fuck!
+E: way too mad
+N: Trav turns, sees Anne by the water cooler, and JUMPS.
+C: TRAV
+D: JESUS! You snuck up on me!
+E: CONT'D
+N: Anne looks confused. She's just been standing there.
+S: INT. OFFICE BULLPEN - LATER
+N: Anne scans documents at the copy machine. Trav and other co- workers are gathered around CINDY as Marge brings over a pie with candles in it. Anne watches the party from afar.
+S: EXT. ANNE AND FRANCINE'S DUPLEX- DAY
+N: Anne pulls into the driveway of a duplex. As she gets out of her gray Toyota Corrolla, FRANCINE (older, grumpy) shuffles out from her front door.
+C: FRANCINE
+D: Anne! The ups man has done it again. He left one of your packages in front of my door.
+N: Francine points to an Amazon box on her doorstep. Anne grabs the box and struggles to lift it. It's cumbersome.
+C: ANNE
+D: Sorry about that, Francine.
+C: FRANCINE
+D: If I haven't ordered a package, then I'm not expecting one to be on my doorstep. Are you listening?
+C: ANNE
+D: I am, but I'm in a hurry --
+C: FRANCINE
+D: What happens if I leave the house and there's an unexpected package on my doorstep? I trip and I fall and I die. That's what happens. The ups man is trying to kill me.
+E: dead serious
+C: ANNE
+D: U.P.S.
+C: FRANCINE
+D: Huh?
+C: ANNE
+D: It's U.P.S. Not ups.
+C: FRANCINE
+D: Well whoever it is.
+N: Anne goes inside.
+S: INT. ANNE'S APARTMENT - CONTINUOUS
+N: Anne walks in. Her place is bland and functional. The only personal effects are books, and there are lots of them. Mr. Linguini is asleep on the couch, snoring so loudly.
+C: ANNE
+D: Hi Mr. Linguini! Yellow 8.
+E: 05/27/2022
+N: He barely moves. She opens the Amazon box and pulls out a TABLET HOLDER. It's a weird tray type thing that holds up a tablet so you can read in bed. She shows it to Mr. Linguini.
+C: ANNE
+D: Look! It's so you don't have to keep your arms up when you're reading while lying down!
+E: CONT'D
+N: Anne looks at the product box -- there's a picture of a BEAUTIFUL WOMAN IN SILK PAJAMAS looking incredible and cool as she lays in bed having so much fun reading.
+T: CUT TO:
+S: INT. ANNE'S LIVING ROOM - LATER - NIGHT
+N: Anne lays on her couch, weirdly stiff, underneath the tablet holder, reading. It looks uncomfortable and not at all as much fun as the woman on the box was having. Mr. Linguini sleeps nearby, snoring louder than you ever thought possible. An ALARM goes off on Anne's phone. Anne jumps up, so excited. She turns on the TV, just in time for:
+C: TERRY
+D: It's seven o'clock on a weeknight, which can only mean one thing. It's time for Can't Stop the Quiz!
+N: ON SCREEN: A CGI BRAIN, who somehow looks a little ruder than previous versions, dances across the screen.
+C: ANNE
+D: Linguini! It's on!
+N: Mr Linguini hobbles over, climbs up on the couch, and curls up next to her. Anne grabs a bag of Smartfood popcorn and happily settles in for her favorite show.
+C: TERRY
+D: I'm your host, Terry McTeer. Let's meet today's contestants! Starting with our returning champion, Ron Heacock from Ohio.
+E: ON TV
+N: RON HEACOCK -- gleaming white teeth, oozing confidence -- grins at the camera. This guy is a ham. Anne shakes her head. She HATES Ron Heacock. Pink (05/25/2022) 9.
+C: TERRY
+D: Ron, you must be getting pretty comfortable here. You're now the third longest running champion. Congratulations, that's quite an achievement.
+E: CONT'D
+C: RON HEACOCK
+D: Honestly I'm just glad to be here, Terry. I'm such a huge fan.
+N: He smiles, so charming. But Anne is disgusted.
+C: ANNE
+D: Give me a break. Please let this be the day he finally loses.
+T: CUT TO:
+S: INT. ANNE'S LIVING ROOM - LATER
+N: Anne glowers at the TV. Ron and ANOTHER CONTESTANT (Linda) are on stage with Terry. The audience is applauding.
+C: TERRY
+D: Ron, your winning streak continues!
+C: RON HEACOCK
+D: Linda! You did so great, I wish we could both win. How `bout it, Terry? Can there be two winners?
+N: Ron puts an arm around LINDA, an incredibly meek woman who really has no business being on television at all.
+C: TERRY
+D: Unfortunately no. Ron, tonight you've won a very impressive sum of 76,000 dollars!
+N: The audience cheers. Ron smiles and humbly waves it off.
+C: RON HEACOCK
+D: Aw, thanks. But I just got lucky with those second-round bonuses.
+C: TERRY
+D: Join us tomorrow for another night of fast facts and live learning! I'm Terry McTeer and I'll be right-- Yellow 10.
+E: MORE 05/27/2022
+C: TERRY
+D: -- here. Have a good night!
+E: CONT'D jumps to his mark
+N: Terry does his salute. Ron, grinning big, does it too. Anne glowers at the TV, hating Ron.
+S: INT. ANNE'S CUBICLE - NEXT MORNING
+N: Anne inputs data into a spreadsheet. Trav and Marge are having a loud conversation right outside her cubicle.
+C: TRAV
+D: No the computer makes the money!
+C: MARGE
+D: I'm still confused. Start over.
+N: Anne's CELL PHONE RINGS. She sees it's from SUNNYVALE NURSING HOME. She hesitates, but finally answers.
+C: ANNE
+D: Hi Mom.
+C: SHANNON
+D: Hi! This is Shannon from Sunnyvale.
+E: O.S.
+N: Anne's face falls. This can't be good.
+S: INT. SUNNYVALE NURSING HOME - LOBBY - INTERCUT
+N: SHANNON (30s, a nurse with nervous energy) is on the phone.
+C: SHANNON
+D: I'm calling with some bad news. We lost your mom. Oh my gosh sorry that's horrible phrasing, I meant we don't know where she is.
+E: then, realizing
+N: Anne tries to process this emotional whiplash.
+C: SHANNON
+D: Sorry about that! Yeah, she's not dead. But she is missing.
+E: CONT'D
+C: ANNE
+D: Did you call Rivers Casino? Or Wheeling Island? Yellow 11.
+E: 05/27/2022
+C: SHANNON
+D: We checked all her usual spots. That's actually what we wanted to discuss with you. Can you come in?
+N: Off Anne, worried what this is about...
+S: INT. SUNNYVALE NURSING HOME - LOBBY - DAY
+N: A moderately nice nursing home. Anne enters through glass automatic sliding doors. Shannon and MR. WALTERS (50s, too serious) are at the front desk. In the BG: SOME SENIORS sit around a table, batting a balloon around.
+C: MR. WALTERS
+D: Ms. Yum, thank you for coming in.
+C: ANNE
+D: What is this about?
+C: MR. WALTERS
+D: Would you like to wait for your sister? She'll be here momentarily.
+C: ANNE
+D: My sister? You called Jenny?
+C: SHANNON
+D: Well, when we lose someone, we kind of have to call everybody?
+C: MR. WALTERS
+D: We didn't lose her. She ran away.
+C: ANNE
+D: It's okay, she does this sometimes--
+C: MR. WALTERS
+D: Ms. Yum, we've been very lenient with your mother, but enough is enough. Due to the sheer number of rule violations, we can no longer keep her as a resident.
+N: As they talk, we see, behind Anne, through a WALL OF GLASS DOORS AND WINDOWS, in DEEP BG, JENNY (now 40s, messy, a human tornado) running through the parking lot. She's wearing a TIGHT BLACK DRESS, which makes running difficult.
+C: ANNE
+D: Wait... you're kicking her out? Can you even do that?
+N: Jenny -- running across the parking lot without looking -- is lightly hit by a car pulling out of a parking spot. She FREAKS OUT, like an NBA Player reacting to a bad call.
+C: MR. WALTERS
+D: In signing the resident agreement, she agreed to adhere to our policies, and that failure to do so would result in eviction. It's clearly stated in section 4V--
+N: Jenny is now WAILING, leaning on the car. The DRIVER gets out, concerned and apologetic. Jenny animatedly screams at him, kicks the car and keeps running towards us.
+C: MR. WALTERS
+D: Sneaking out is a very serious violation. We can't be liable for her safety.
+E: CONT'D
+N: Jenny gets to a SIDE DOOR, very close to the main door. But this is a LOCKED GLASS DOOR. She pulls on it. It won't open. She pulls harder. Nothing. She goes nuts trying to pull it.
+C: SHANNON
+D: She's also really mean. That's less important but it's not nothing.
+N: Mr. Walters notices Jenny outside.
+C: MR. WALTERS
+D: I think your sister's here.
+N: Anne turns -- Jenny sits, crying, by the locked door, having just completely given up. Anne rolls her eyes, annoyed.
+C: ANNE
+D: Jenny! Jenny!
+N: She gets Jenny's attention through the glass door. Jenny sees her and mouths: "Anne! How did you get in there??"
+C: ANNE
+D: Through the entrance. Blue 13.
+E: CONT'D 05/18/2022
+N: Anne points to the automatic sliding doors, which are truly SO close to the side door. Jenny looks at the doors, so indignant. She mouths: "There should be a sign!"
+C: ANNE
+D: There IS a sign-- just, come in!
+E: CONT'D
+N: Jenny comes in. She unsuccessfully tries to pull it together.
+C: JENNY
+D: Oh, Annie. Annie, Annie, Annie. It finally happened. But don't worry. I'm here.
+N: Anne looks at her sexy black body-con dress.
+C: ANNE
+D: What are you wearing?
+C: JENNY
+D: It's the only black thing I own. I can't believe she's gone. We're orphans.
+E: crying
+N: Jenny sobs and hugs Anne. Shannon winces. This is her fault.
+C: ANNE
+D: She's not dead. She ran away.
+N: Jenny looks at her for a moment, stunned, but then--
+C: JENNY
+D: That fucking bitch.
+N: AN ORDERLY walks up, with a suitcase and some boxes.
+C: SHANNON
+D: We took the liberty of packing up your mother's belongings for you.
+C: ANNE
+D: Thanks. What a pleasant eviction.
+E: sarcastic
+C: SHANNON
+D: Oh I'm so glad.
+E: genuine
+N: One of the orderlies hands Shannon a note. As she reads it -- Yellow (05/27/2022) 14.
+C: JENNY
+D: Eviction?
+C: SHANNON
+D: Good news! Looks like your mom left a note. It's mostly personal attacks on me, but she said she's off to Macao with Jeff. At least now we know where she went!
+N: Anne and Jenny stare at Shannon, so confused.
+C: ANNE
+D: Who is Jeff?!
+S: EXT. SUNNYVALE NURSING HOME - DAY
+N: Anne and Jenny walk out, saddled with Crystal's stuff. Jenny has a FRAMED PHOTO of Crystal and JEFF (70s). They're wearing matching Christmas sweaters. The car that hit Jenny in the previous scene is still there.
+C: JENNY
+D: She has a boyfriend? Why didn't she tell us?
+C: ANNE
+D: Because she only calls when she needs money.
+N: Anne unlocks her car.
+C: JENNY
+D: Oh you're parked right by me!
+N: Jenny nods to her car, which is dirty and busted. It's filled with clothes and random shit.
+C: ANNE
+D: Are you living out of your car?
+C: JENNY
+D: No! It's just extra clothes in case I need to change. And some stuff I've been meaning to donate. And an amazing lamp I found in an alley. And some blankets and pillows in case I want to nap.
+N: Anne finishes loading Crystal's stuff and closes her trunk. Yellow (05/27/2022) 15.
+C: ANNE
+D: Sorry you drove down for no reason.
+C: JENNY
+D: Actually -- I thought maybe I could stay with you for a few days.
+C: ANNE
+D: Why?
+C: JENNY
+D: Well I thought I was going to, since Mom was dead. Come on, it'll be fun. And I want to see my dog.
+C: ANNE
+D: Your dog?
+C: JENNY
+D: I'm the one who adopted him, remember?
+C: ANNE
+D: You bought him from a van in a Smart and Final parking lot.
+C: JENNY
+D: Can I stay with you or not?
+N: Off Anne, reluctant but feeling obliged...
+S: INT. ANNE'S HOUSE - DAY
+N: Jenny and Anne walk in, carrying Crystal's stuff and Jenny's stuff. Jenny takes in the space.
+C: JENNY
+D: What did you do to your house?
+C: ANNE
+D: Nothing. It's the same as the last time you were here.
+C: JENNY
+D: Ugh, that was the worst Christmas. Remember how Mom freaked out because you didn't have a tree? Since when did she even like those?
+N: Jenny looks around. She spots a PHOTO of 8 YEAR OLD ANNE sitting at the dining table of their Uncle's house, a ROCK COLLECTION spread out in front of her. She's uncomfortably, barely smiling for the camera. 18 YEAR OLD JENNY is in the background, laughing with a TEEN COUSIN.
+C: JENNY
+D: It feels smaller. Are you sure you didn't make it smaller?
+E: CONT'D
+C: ANNE
+D: No, I didn't shrink my house.
+N: Jenny follows Anne further into the living room. Jenny sees Mr. Linguini, motionless on the floor. She SCREAMS.
+C: JENNY
+D: Oh my god, he's dead!
+C: ANNE
+D: He's sleeping.
+C: JENNY
+D: Look at him! He's dead!
+C: ANNE
+D: No he isn't. Mr. Linguini! Hey! Mr. Linguini!
+N: Mr. Linguini, who does look super dead, doesn't move. But after a beat, he lets out an INCREDIBLY LOUD SNORE.
+C: ANNE
+D: See? Full of life.
+E: CONT'D
+N: Jenny still doesn't buy it.
+S: INT. KITCHEN - DAY
+N: Anne fills up a kettle. We see Jenny in the living room, making herself at home. She hoists her suitcase onto the couch and opens it, stuff exploding everywhere.
+C: ANNE
+D: So how long do you plan on staying?
+C: JENNY
+D: I dunno. Few days?
+C: ANNE
+D: You don't have to get back for work or anything?
+C: JENNY
+D: No, I don't have a job.
+N: Anne waits, expecting more of an explanation. But Jenny doesn't seem to think it warrants one. Jenny pulls SLIPPERS out from the bottom of her suitcase and puts them on.
+C: ANNE
+D: Are you... looking for a job?
+C: JENNY
+D: No. I'm focusing all my energy on manifesting the life that I want. A job is just a detail. I'm big picture thinking.
+C: ANNE
+D: But what are you going to do for money? I can't afford to loan you any more, Mom's nursing home wasn't exactly cheap--
+C: JENNY
+D: I don't need money. I'm getting plenty from my lawsuit.
+C: ANNE
+D: What lawsuit?
+C: JENNY
+D: I didn't tell you? Basically I had a business lunch at Choochie's with a guy who wanted to invest in my fashion line, and I took a bite of my tilapia filet and there was a fishbone in it! It got stuck in my throat, and I almost choked to death, so I sued them, and they were like "please don't" and I was like "sorry, it's happening" and they were like "fine just take this money" and I was like "great!"
+N: WHILE JENNY EXPLAINS, we see a QUICK FLASH: Yellow (05/27/2022) 18.
+S: INT. CHOOCHIE'S - DAY
+N: Jenny is choking. A SLEAZY BUSINESSMAN tries to give her the Heimlich but he's not 100% sure he's doing it right.
+S: INT. KITCHEN - DAY
+N: Anne looks at Jenny, not charmed by this story.
+C: ANNE
+D: You sued Choochie's because there was a fish bone in a fish filet.
+C: JENNY
+D: Fish bones are famously sharp bones! I could've died! Why can't you just be happy that I got a bunch of money from them? Who are you, Mr. Choochie's?
+C: ANNE
+D: Now why would I be Mr. Choochie's?
+C: JENNY
+D: Cause it's a man's world!
+N: Anne rolls her eyes, so annoyed.
+S: INT. LIVING ROOM - LATER - NIGHT
+N: Anne sits on the couch, reading. Jenny is idly pulling a seemingly endless supply of hair extensions out of her hair. Anne eyes Jenny's discarded hair pile, annoyed.
+C: ANNE
+D: Don't just leave them there.
+C: JENNY
+D: Ok, Dad.
+N: Jenny looks around at Anne's apartment.
+C: JENNY
+D: Have you ever considered painting the walls? I follow Mandy Moore's best friend's interior designer and they say Bixton Blue makes a room bigger. Pink 19.
+E: CONT'D 05/25/2022
+N: Anne doesn't even respond. Her ALARM goes off. It's a version of the Quiz theme song.
+C: JENNY
+D: What's that?
+E: CONT'D
+C: ANNE
+D: Nothing, it's...
+N: Anne doesn't really want to admit what it is. She turns on the TV. Terry is on screen, wearing a different bow tie.
+C: JENNY
+D: Oh my god, you have a Quiz alarm?
+C: ANNE
+D: Come on, Mr. Linguini!
+N: Mr. Linguini comes over and curls up next to her.
+C: TERRY
+D: Let's meet today's contestants. Starting with our returning champion, Ron Heacock from -- -- excuse me! From Ohio.
+E: ON TV cough
+C: RON HEACOCK
+D: You okay Terry?
+C: TERRY
+D: Yes. I just ate some crackers backstage, must've gotten some crumbs down the wrong pipe. That's live television for you.
+C: RON HEACOCK
+D: Good. I worry about you, Ter. You work too hard. You should loosen up that bowtie sometime. Take a vacation.
+C: JENNY
+D: Aww.
+C: ANNE
+D: Don't aww him. He's a jerk.
+C: JENNY
+D: But he seems so nice! Pink 20.
+E: 05/25/2022
+C: ANNE
+D: He's not. It's an act.
+C: JENNY
+D: How can you tell?
+C: ANNE
+D: It's just so forced. It's like he's trying to be Terry. Everything about him is fake. Look at the smears on his buzzer, he wears make- up on his hands!
+C: JENNY
+D: Some people have ugly hands.
+E: shrugs
+N: Anne ignores that, focuses on the TV.
+C: TERRY
+D: And your time. Starts. Now! What is the square root of 196?
+E: ON TV
+N: ANNE She answers it just as Ron Heacock chimes in on screen. RON HEACOCK (ON TV)
+C: TERRY
+D: Correct! What is the southernmost capital of the world?
+E: ON TV
+C: ANNE
+D: Wellington, New Zealand.
+N: Jenny watches as Anne gets every question immediately:
+C: ANNE
+D: Saffron. Three. The equal sign. Carbon dioxide. Our American Cousin. Saturn. The Hobbit.
+E: CONT'D
+N: The montage of Anne rapid-fire answering builds until she's listing Gods of Mount Olympus for the Head to Head --
+C: ANNE
+D: Zeus, Poseidon, Hera, Athena, Aphrodite, Hermes, Apollo, Dionysus, Ares, Artemis--
+E: CONT'D
+N: Jenny, so impressed, excitedly kicks Anne.
+C: ANNE
+D: OW!
+E: CONT'D
+C: JENNY
+D: Why haven't you gone on the show?!
+N: Anne shushes her, still watching the show.
+C: ANNE
+D: Zeus, Poseidon, Hera --
+E: annoyed, retracing
+C: JENNY
+D: Are you scared you'd win so much money that people would try to kill you for it? You know that's a thing with lottery winners.
+C: ANNE
+D: No, it's not --
+C: JENNY
+D: Are you scared that your hatred of that Ron guy is actually an intense sexual attraction and you wouldn't know how to navigate it in person?
+C: ANNE
+D: No! I just -- I'm not good at... being looked at.
+N: Jenny looks confused by that. Anne brushes off the rare moment of vulnerability, focuses on the game: Ron, Terry, and A CONTESTANT stand by a COIN THE SIZE OF A DINNER TABLE.
+C: TERRY
+D: It's time for the flip!
+C: ANNE
+D: Ugh, the stupid coin.
+C: JENNY
+D: I love the coin! It's so big! Yellow 22.
+E: 05/27/2022
+N: The coin spins and then lands on --
+C: TERRY
+D: Show It! Our contestants will act out the answers while their partners guess.
+N: Anne turns off the TV.
+C: JENNY
+D: What are you doing? The charades thing is the only fun part!
+C: ANNE
+D: It's not fun, it's a cheap gimmick. They changed the entire final round to try to boost the ratings. Which is so dumb. Who wants to watch people embarrass themselves?
+N: Anne goes to the kitchen. Once she's gone --
+C: JENNY
+D: I do.
+N: Jenny turns the TV on. Ron is mid-Show It!, waltzing around the stage. The clue is onscreen: WALTER KRONKITE. BART, Ron's partner, who has dead eyes, is methodically guessing.
+C: BART
+D: Waltz. Waltzer. Sidewalk. Concrete. Waltzer. Concrete. Walter Kronkite.
+S: INT. LIVING ROOM - NEXT MORNING
+N: Jenny, passed out on the couch. Hair extensions still in a pile where she left them. She still has a City Beauty sheet mask on. She finds a note from Anne: "Went to work. Be home around 5. Pick up your hair!!!"
+S: INT. ANNE'S HOUSE - KITCHEN - LATER
+N: Jenny shuffles in, peeling off the sheet mask. She opens a cabinet -- it's pretty bare, just two plates, two bowls, two glasses, etc., all meticulously in place.
+C: JENNY
+D: It's like a robot's house. Pink 23.
+E: 05/25/2022
+N: She opens another cabinet, there's just a few boxes of tea. She opens another, it's FILLED with Smartfood bags. Jenny notices... A TERRY MCTEER BOBBLEHEAD. Jenny picks it up to take a closer look, then puts it down, not in its place, and walks out, leaving all the cabinet doors open.
+S: INT. COFFEE SHOP - DAY
+N: Jenny sits, drinking an iced latte, a plate with crumbs on it in front of her. She's mid-conversation with WENDY.
+C: JENNY
+D: And I realized I'm tired of chasing my destiny. Because I've always known what I want. I want to be rich and famous and loved by everybody, so I can be a really powerful force for good in this world. But I just haven't found the path to get there yet. And I've tried so many paths.
+N: Jenny shakes her head, so tired from all the paths.
+C: JENNY
+D: It's hard to stay optimistic, you know? And you start to wonder, maybe it's me. But then you have to remind yourself: sometimes things don't work out for reasons that are completely out of your control. It's bad timing or bad luck or gatekeeping. I mean do you have any idea how hard it is to be an Asian woman in this country?
+E: CONT'D
+N: Wendy, who is white, nods. She's been listening and learning.
+C: JENNY
+D: You're right. I can't let that stuff drag me down. Because we can't spend all our energy just wishing the obstacles weren't there, you know? We have to keep going! Pink 24.
+E: CONT'D 05/25/2022
+C: WENDY
+D: But how do you know what's an obstacle and what's a dead end? Like I've always wanted to open my own bakery, you know. But it's so hard, so I put it off, then life got in the way and now I never bake anymore and I feel so unfulfilled. But what am I supposed to do?
+C: JENNY
+D: You need to change your life.
+C: WENDY
+D: I can't.
+C: JENNY
+D: Yes you can. You're strong.
+N: Wendy nods, letting that sink in. After a beat...
+C: WENDY
+D: So are you done with your plate?
+C: JENNY
+D: Yeah.
+N: Wendy takes Jenny's plate and goes back behind the counter. Her CONFUSED MANAGER is annoyed with her for taking so long, they get in a little tiff in the background as: Jenny takes a sip of her iced latte, looking happy and proud about the exchange with Wendy. Then suddenly, SHE GASPS.
+C: JENNY
+D: OH MY GOD!
+E: CONT'D
+N: Everyone looks at her. She grabs her stuff and rushes out.
+S: EXT. ANNE'S HOUSE - LATER
+N: Anne pulls into her driveway. Jenny sits on the stoop. As Anne gets out of the car, Jenny, super excited, jumps up. Blue (05/18/2022) 25.
+C: JENNY
+D: Hi! I had a huge day.
+C: ANNE
+D: Why are you sitting out here?
+C: JENNY
+D: I locked myself out.
+N: Francine peaks out from her door.
+C: FRANCINE
+D: Anne! This lunatic is your sister?
+C: JENNY
+D: I told you! She threatened to call the cops because she thought I was loitering.
+E: to Anne
+C: FRANCINE
+D: You were loitering. I thought you were loitering with an intent to murder.
+C: JENNY
+D: Do I look like a murderer?!
+C: FRANCINE
+D: Most don't!
+C: ANNE
+D: Okay, everyone calm down. Sorry about her, Francine.
+C: JENNY
+D: Sorry about me? What did I do?!
+N: Anne ushers Jenny into her house. Francine scowls at them.
+S: INT. ANNE'S HOUSE - CONTINUOUS
+N: Anne and Jenny walk in. Jenny follows Anne, on a tear:
+C: JENNY
+D: Okay, so! I went to get a coffee and I met this woman who was so sad. But then we got to talking, and I helped her!
+N: Anne notices all the cabinets in the kitchen are ajar. She sighs, annoyed, and goes to close them. Jenny follows her, not even noticing that Anne is cleaning up her mess:
+C: JENNY
+D: And helping her made me feel better. And just like that, I saw it. I saw the path forward.
+E: CONT'D
+N: Anne sees the misplaced Terry Bobblehead.
+C: ANNE
+D: Don't move my stuff!
+C: JENNY
+D: I didn't!
+C: ANNE
+D: This is limited edition! It's from the 300th episode, I endured a very heated Ebay war to get this!
+C: JENNY
+D: Really? What's it worth?
+N: Anne rolls her eyes. Jenny doesn't get it.
+C: JENNY
+D: So as I was saying... I decided I'm going to become a life coach.
+E: CONT'D
+N: Anne almost laughs. She goes to get Mr. Linguini's leash.
+C: JENNY
+D: You know, like Oprah.
+E: CONT'D
+N: Now Anne does laugh. Jenny glares at her.
+C: JENNY
+D: Don't laugh. This is my destiny.
+E: CONT'D
+C: ANNE
+D: Oh my god, you and your destinies. First it was figure skating, then acting, then "being a music icon", celebrity interior designer, fashion designer--
+C: JENNY
+D: This is different! Yellow 27.
+E: 05/27/2022
+C: ANNE
+D: How?
+C: JENNY
+D: I'll show you. Because you're gonna be my first project.
+C: ANNE
+D: I don't need a life coach.
+C: JENNY
+D: Really? Because from what I can tell, you're a twenty-eight-year- old woman living the life of a ninety-eight-year-old widower.
+C: ANNE
+D: I'm thirty-three. And why am I always a man in your hypotheticals?
+C: JENNY
+D: Because men are worse.
+C: ANNE
+D: Well I'm not interested. My life is just fine how it is.
+N: Anne leaves with Mr. Linguini. Jenny watches her go, not buying that at all.
+S: INT. ANNE'S LIVING ROOM - NIGHT
+N: Anne and Mr. Linguini are cuddled up on the couch, watching the Quiz. Jenny lies on her back on the ground, with a weighted eye mask on. Anne eyes her, annoyed.
+C: ANNE
+D: What are you doing?
+C: JENNY
+D: Yoga.
+N: Anne focuses on the TV just as THE HEAD TO HEAD STARTS. Anne doesn't notice as Jenny starts filming the TV, then pans over to film Anne listing South American Capital Cities:
+C: ANNE
+D: Buenos Aires, Lima, Sucre, Brasilia, Santiago, Bogota, Quito, Caracas, Montevideo, Asuncion...
+N: Off Anne, in the zone...
+S: INT. LIVING ROOM - NEXT MORNING
+N: Jenny is asleep on the couch, another sheet mask dried on her face. Her phone DINGS with tons of alerts. Anne comes back from Mr. Linguini's morning walk. She hangs up his leash.
+C: ANNE
+D: Jenny. Jenny!
+C: JENNY
+D: Hh.
+E: still asleep
+C: ANNE
+D: Your phone! It's been going crazy all morning.
+N: Jenny sleepily waves her off. Anne leaves. After a beat of more DINGS on Jenny's phone, there's a POUNDING ON THE WALL.
+C: FRANCINE
+D: ANSWER YOUR PHONE! IT SOUNDS LIKE A GODDAMN AVIARY IN THERE!
+E: O.S.
+S: INT. OFFICE BULLPEN - DAY
+N: Anne walks in. Marge sees her.
+C: MARGE
+D: Heyyyyyyy! It's the Quiz Lady!
+C: ANNE
+D: Ha, yeah. Wait, sorry what?
+C: MARGE
+D: You were like -- "Spain. Killer whale. Octagon." And I noticed we have the same Ikea couch! The Slatorp, right?
+E: robotic
+C: ANNE
+D: Sorry what are you talking about?
+C: MARGE
+D: Your video! Did you see it's on the front page of Reddit?
+N: Anne notices PEOPLE LOOKING AT HER. She hurries to her desk.
+S: INT. ANNE'S CUBICLE - DAY
+N: Anne frantically googles "quiz lady video". Horrified, she scrolls past the top results:
+S: WOMAN CRUSHES THE QUIZ NEXT TO HER DEAD DOG
+N: WEIRD OLD MAN GETS EVERY BLITZ QUESTION RIGHT WHY THE QUIZ LADY REPRESENTS EVERYTHING THAT'S WRONG WITH AMERICA HOW HATING THE QUIZ LADY IS RACIST, BUT LIKING HER IS EVEN MORE RACIST Trav busts in, recording himself on his phone.
+C: TRAV
+D: `Sup fam, here she is, as promised, the Quiz Lady. That video was so funny dude, I laughed so hard I dropped my phone in the toilet. Don't worry, it was just pee. Can I get a what up to my followers?
+E: to Anne
+C: ANNE
+D: No! I -- sorry, I need a minute.
+N: She whips out her cell phone and calls Jenny.
+S: INT. COFFEE SHOP - SAME TIME - INTERCUT
+N: Jenny is waiting in line at the coffee shop. She answers.
+C: JENNY
+D: Hi! Have you seen Twitter?
+C: ANNE
+D: How did this happen?!
+C: JENNY
+D: People love the video. I posted it last night and when I woke up it was everywhere. Green 30.
+E: MORE 06/03/2022
+C: JENNY
+D: I mean, I have a ton of followers from that time Elon Musk yelled at me, but --
+E: CONT'D
+C: ANNE
+D: Delete it! Right now!
+C: JENNY
+D: No way! You cannot buy this kind of hype. Get this: the producers --
+S: INT. ANNE'S CUBICLE - CONTINUOUS
+N: Anne furiously hangs up the phone. She stands there, seething. Trav stands there super uncomfortably.
+C: TRAV
+D: I'm still here.
+C: ANNE
+D: God, she always does this! Just floats through life without ever thinking about how her actions affect other people. You know, when we were kids, our dad took us to the Heinz ketchup museum and she was furious because she wanted to stay home and watch Supercop 3 because we had just gotten it on DVD. So what did she do? As soon as we got there, she knocked over the ketchup display so we all got thrown out!
+N: WE SEE A QUICK FLASH OF:
+S: INT. HEINZ KETCHUP MUSEUM - FLASHBACK
+N: 6-YEAR-OLD ANNE watches, horrified, as Jenny SCREAMS AND DOES A FANCY MARTIAL ARTS KICK TO KNOCK OVER A DISPLAY OF KETCHUP BOTTLES!
+S: INT. ANNE'S CUBICLE - CONTINUOUS
+C: ANNE
+D: So I never even got to learn about ketchup! Which is something I was really looking forward to! Blue 31.
+E: 05/18/2022
+N: Anne's computer dings with an EMAIL alert. She looks at it.
+C: TRAV
+D: Isn't it just tomatoes?
+C: ANNE
+D: Oh my god. Oh my god. They want to put me on the local news. I don't want to be news!!!
+E: re: her computer
+N: Her OFFICE PHONE RINGS. She reflexively answers it.
+C: ANNE
+D: Internal auditing.
+E: CONT'D
+C: REGULAR MAN
+D: Heyyyy Quiz Lady! Someone posted your office info and I just wanted to call and say, I know there's been a lot of negative comments about your appearance, but I personally, would LOVE to fuck you--
+E: O.S.
+N: Anne hangs up. She looks at Trav, absolutely horrified.
+C: ANNE
+D: The Internet knows where I work.
+N: The PHONE RINGING, EMAIL ALERTS, ANNE'S POUNDING HEARTBEAT build to a cacophony. She rushes out, desperate to escape.
+S: INT. OFFICE BULLPEN - DAY
+N: Anne, in the midst of a panic attack but trying to look normal, hurries out. EVERYONE IS LOOKING AT HER, some excited, some laughing, some filming.
+S: EXT. OFFICE BUILDING - DAY
+N: Anne bursts out of the building. She takes a second to calm herself down. But then...
+C: MAN'S VOICE
+D: Anne Yum.
+E: O.S.
+N: Anne jumps, startled, then sees KEN (Asian, calm, cool but nonetheless terrifying). He smiles.
+C: KEN
+D: Didn't mean to startle you. I'm a friend of your mom's.
+N: Anne looks at him, unnerved.
+C: KEN
+D: Do you know where she is?
+E: CONT'D
+C: ANNE
+D: No, sorry --
+N: Anne starts to walk off but Ken steps towards her.
+C: KEN
+D: You sure? Cause I'd really like to find her. She owes me some money.
+N: Anne's face falls.
+C: ANNE
+D: She swore she quit except for occasional penny slots. How much does she owe?
+E: then
+C: KEN
+D: Eighty grand.
+C: ANNE
+D: Eighty grand?!
+C: KEN
+D: Not exactly penny slots. And imagine my pleasant surprise when her daughter became famous. Saved me all the trouble of tracking you down. So where is she?
+N: Anne hesitates.
+C: KEN
+D: You really want to protect her? You probably don't even like her. I know I don't. Come on. Don't be stupid.
+E: CONT'D laughs
+N: He gets closer to her, intimidating her.
+C: KEN
+D: Tell me where she is.
+E: CONT'D
+C: ANNE
+D: M-Macao.
+C: KEN
+D: Macao. When's she coming back?
+C: ANNE
+D: I don't know. Sorry, I can't help you.
+C: KEN
+D: Of course you can. You can cover her debt.
+C: ANNE
+D: I don't have eighty-thousand dollars.
+C: KEN
+D: Neither do I, that's the problem. Call me when you have it.
+N: He hands her a CARD. It just says KEN and a phone number.
+C: KEN
+D: And you'll get your dog back.
+E: CONT'D
+N: He walks off. It takes Anne a second to register --
+C: ANNE
+D: My dog?
+N: Ken goes to a LUXURY SUV. A TERRIFYING ASIAN GUY waits by the car. An EQUALLY TERRIFYING ASIAN GUY is in the driver's seat.
+C: KEN
+D: I'll give you two weeks. After that, you'll never see him again.
+N: Off Anne, horrified...
+S: EXT. ANNE'S HOUSE - MOMENTS LATER
+N: Jenny, holding an iced coffee and talking on the phone, walks down the street towards Anne's house. Blue (05/18/2022) 34.
+C: JENNY
+D: Amazing! We'll be there.
+E: on phone
+N: Anne's car comes FLYING by and careens into the driveway. Anne gets out of the car, and stops dead in her tracks when she sees: THE FRONT DOOR IS OPEN.
+C: ANNE
+D: No. Linguini!
+N: She runs for her house. Jenny runs after her.
+C: JENNY
+D: Annie? What's going on?!
+S: INT. ANNE'S HOUSE - MOMENTS LATER
+N: Anne sits on the couch, devastated. So lonely without Mr. Linguini. Jenny looks at Ken's business card.
+C: JENNY
+D: Who's even named Ken anymore?
+C: ANNE
+D: This is all your fault. He found me because of your stupid video.
+C: JENNY
+D: Come on, he would've found you eventually. If I remember several ruined dinners from our childhood correctly, bookies are very good at tracking people down.
+N: FLASH TO:
+S: INT. ANNE AND JENNY'S HOUSE - NIGHT - 1996
+N: 6-YEAR-OLD ANNE and 16-YEAR-OLD JENNY are at the dinner table. They watch, wide-eyed as TWO SCARY ASIAN GANGSTERS walk out with an entire Thanksgiving dinner. We can hear CRYSTAL and THEIR DAD arguing off-screen.
+S: INT. ANNE'S HOUSE - CONTINUOUS
+N: Jenny takes out her phone and dials.
+C: ANNE
+D: What are you doing? Are you calling him??
+C: JENNY
+D: I'm calling mom.
+C: ANNE
+D: That's not going to do anything.
+C: CRYSTAL
+D: Hello?
+E: O.S.
+C: JENNY
+D: You left us with an eighty thousand dollar debt!
+C: CRYSTAL
+D: It's okay, I'm in Macao.
+E: O.S.
+N: We can hear the SOUNDS OF A CASINO in Crystal's background.
+C: JENNY
+D: Of course you're at a casino.
+C: CRYSTAL
+D: It's okay. Just penny slots.
+E: O.S.
+C: JENNY
+D: It's not okay! None of this is okay! Your bookie threatened Annie and kidnapped my dog!
+C: ANNE
+D: He's not your dog!
+C: CRSYTAL
+D: Oh, no. How did they find you? I never talk about my daughters.
+E: O.S.
+C: JENNY
+D: Thanks Mom.
+C: CRYSTAL
+D: You don't want to mess with these people, Jenny. They're bad news.
+E: O.S.
+C: JENNY
+D: Well what are we supposed to do?! Blue 36.
+E: 05/18/2022
+C: CRYSTAL
+D: You girls can come to Macao. Jeff bought a condo. It's only one bedroom but the closet is big.
+E: O.S. thinks, then
+C: JENNY
+D: We don't want to live in your fucking condo!
+C: CRYSTAL
+D: Don't swear! Aiya, who raised you?
+E: O.S.
+C: JENNY
+D: NOBODY!
+N: Jenny hurls her phone at the wall. It knocks over a vase, which shatters. Jenny makes no effort to clean it up.
+C: ANNE
+D: I told you.
+N: They sit in a heavy silence for a beat, reality sinking in.
+C: JENNY
+D: OH MY GOD!!!
+N: Anne jumps, terrified, looks to the window--
+C: ANNE
+D: WHAT?! Are they here?!
+C: JENNY
+D: This is all connected. It's synergy, from the universe. I manifested this!
+C: ANNE
+D: I hate all the words you just used.
+C: JENNY
+D: This debt will not deter us. It will spur us. I know how we'll get the money. Someone from the Quiz reached out. They saw your video.
+C: ANNE
+D: What?! No! That's so embarrassing!! Goldenrod 37.
+E: 06/14/2022
+C: JENNY
+D: They loved it! They're in the middle of a casting round, and they want you to come to the in-person Regional audition this weekend in Philadelphia!
+C: ANNE
+D: No. That's not happening.
+C: JENNY
+D: But you could win 80 grand like that! You got every question right!
+C: ANNE
+D: Yeah because I was at home, with Linguini, on my couch! I can't play on live TV, in front of millions of people and Terry freakin' McTeer himself! I can't do it. There has to be another way.
+N: Anne looks off, racking her brain.
+C: JENNY
+D: You could sell your eggs. It's not like you're using `em.
+C: ANNE
+D: I'm not selling my eggs.
+N: Jenny looks at Anne, feeling bad.
+C: JENNY
+D: Well I am not going to let Mom's fuck up ruin your life. I will get us out of this.
+N: Anne is too drained to argue. She walks out.
+S: INT. ANNE'S HOUSE - LIVING ROOM - NEXT MORNING
+N: Anne comes out from her bedroom.
+C: ANNE
+D: Okay I went on Carmax, and it looks like I can easily sell my car for around twenty thous--
+N: She sees the couch is empty. Before she can react, there's a POUNDING ON THE FRONT DOOR. Anne nervously goes over and checks the peephole, then opens it to reveal FRANCINE.
+C: FRANCINE
+D: I need your help. The paper boy missed the porch. I think he's been vaping drugs again.
+N: Francine nods to a newspaper in the driveway, by Anne's car.
+C: FRANCINE
+D: I would get it myself but bending over that far is too dangerous for an almost-ghost like me.
+E: CONT'D
+S: EXT. ANNE'S HOUSE - CONTINUOUS
+N: Anne heads for the newspaper by her car. Francine follows.
+C: FRANCINE
+D: Oh, and could I borrow your phone? I want to check my stocks.
+N: Anne, confused, hands her phone to Francine.
+C: ANNE
+D: Is everything okay? You seem weird.
+N: We see Jenny is nearby, crouched in the bushes, hiding. She holds up car keys and hits a button.
+C: FRANCINE
+D: I'm fine.
+N: Anne hands the newspaper to Francine. Behind Anne, the trunk of Anne's car pops open. Anne turns -- what the?
+C: JENNY
+D: DON'T BE SCARED IT'S ME!!!!!!
+N: Jenny charges. Francine steps out of the way as Jenny shoves Anne into the trunk of the car. She slams the trunk closed.
+C: ANNE
+D: What are you doing?!
+E: O.S.
+C: JENNY
+D: Taking you to Philadelphia!
+N: Francine holds Anne's phone out. Jenny takes it.
+C: FRANCINE
+D: Where's my hundred bucks?
+C: JENNY
+D: I don't have any cash on me. Sorry!
+C: ANNE
+D: How could you do this when I was JUST threatened by a GENUINE TONG?!
+E: O.S.
+C: JENNY
+D: That's why I yelled "don't be scared it's me!"
+C: FRANCINE
+D: What's a tong?
+C: JENNY
+D: Asian gangsters. Read a book. And don't worry, I'm fixing it. They won't interfere with your busy schedule of being a shut-in.
+C: FRANCINE
+D: It already has!
+N: Jenny gets into the car and drives off, Anne pounding on the trunk of the car. Francine watches them go, annoyed.
+S: INT. ANNE'S CAR - DAY
+N: Jenny drives. Anne pounds on the walls of the trunk.
+C: JENNY
+D: Settle down!
+C: ANNE
+D: Settle down?! You're kidnapping me!
+E: O.S.
+C: JENNY
+D: Don't be so dramatic. I put a bunch of snacks and pillows in there. Sit back, relax, and enjoy the ride!
+N: Jenny cranks the volume on the stereo, playing Lit's My Own Worst Enemy. She rocks out for an intentionally kinda long time: Blue (05/18/2022) 40.
+C: JENNY
+D: Please tell me why my car is in the front yard and I'm sleeping with my clothes on I came in through the window last night - ah-ooooh! It's no surprise to me I am my own worst enemy - Ah-ooooh! - 'Cause every now and then I kick the living shit out of me, ah-ooo--
+E: CONT'D
+N: BOOM! Part of the backseat rockets forward and Anne clamors through the small opening. A FLOOD OF SNACKS erupts with her.
+C: JENNY
+D: AHHHHHHHHHH!!!!!!
+E: CONT'D
+C: ANNE
+D: PULL OVER!!!
+C: JENNY
+D: NEVER!!!!
+N: Anne, stuck between the trunk and the backseat, wildly swipes at Jenny's arm. Jenny swats back at Anne. As they fight, music still blasting, the car veers wildly.
+C: ANNE
+D: THIS IS DANGEROUS! PULL OVER!
+C: JENNY
+D: GET BACK IN THE TRUNK!
+N: Anne's eyes go wide -- there's a car coming RIGHT AT THEM! They're in the wrong lane!
+C: ANNE
+D: JENNY!
+N: At the last second, Jenny jerks the wheel hard. They SCREAM as the car skids across the small two-lane highway, careening towards a ditch! The car stops JUST short rolling into it! Anne and Jenny sit in stunned silence, adrenaline pumping. A LARGE PICK-UP TRUCK DRIVES PAST.
+C: PICK-UP TRUCK DRIVER
+D: Learn how to drive!
+E: O.S.
+N: Jenny yells out the window:
+C: JENNY
+D: RACIST!
+N: The driver glares at her. Jenny sees it's an ASIAN MAN and her face immediately brightens into a big smile.
+C: JENNY
+D: Oh hi!
+E: CONT'D
+N: As the pick-up drives off, Anne gets out of the car.
+S: EXT. COUNTRY HIGHWAY - CONTINUOUS
+N: Jenny gets out of the car. Anne holds her shoe like a weapon.
+C: ANNE
+D: Give me my phone.
+C: JENNY
+D: No!
+C: ANNE
+D: Then I'm taking the car!
+N: Anne bolts for the car, Jenny grabs her. They clumsily grapple, eventually falling over. They roll down a slight incline and land in a GRASSY DITCH.
+C: JENNY
+D: You are going to Philadelphia!
+C: ANNE
+D: I don't have time for this! Mr. Linguini is in danger!
+C: JENNY
+D: That stupid show is the only way we're going to get him back!
+C: ANNE
+D: No! I can't do it! What did your lawyer say about the Choochie's money?
+C: JENNY
+D: There is no Choochie's money. Yellow 42.
+E: hesitates, then 05/27/2022
+C: ANNE
+D: Of course. Why would I ever think you could help?
+C: JENNY
+D: Look, the Quiz is the best and fastest option to get the money. So unless you want to sell your eggs, we need to get to Philadelphia.
+N: Anne can't believe this. Jenny's right.
+C: ANNE
+D: Fine. But I'm driving.
+N: They get in the car and drive off.
+S: EXT. PHILADELPHIA MONUMENTS STOCK FOOTAGE MONTAGE - DAY
+N: A STOCK FOOTAGE MONTAGE of Philadelphia landmarks - the skyline, Rocky steps, Liberty Bell, maybe the big balloon at the zoo, etc. Suddenly, a LARGE THUMB appears in frame.
+S: INT. ANNE'S CAR - DRIVING - DAY
+N: REVEAL the beautiful stock footage montage is a video Jenny is watching on her phone, and it's her thumb.
+C: JENNY
+D: Wow. I always forget how beautiful this city is.
+N: Jenny looks out the car window, where she sees:
+S: EXT. STREET - DAY
+N: A CHILD in a BOSTON SHIRT in the crosswalk. A passerby shoves him. A KIND, RESPECTABLE LADY nods approvingly.
+S: INT. ANNE'S CAR - DRIVING - DAY
+N: Jenny smiles at the whole scene.
+C: JENNY
+D: They have so much hometown pride. Blue 43.
+E: 05/18/2022
+C: ANNE
+D: They should. They have a lot of really interesting history here.
+C: JENNY
+D: Ooh yeah, if we have time we should take the National Treasure tour.
+N: Anne's phone DINGS. Jenny checks it. Her face darkens.
+C: ANNE
+D: What? What is it?
+N: Jenny shows her: it's a PHOTO OF MR. LINGUINI in a LUXURIOUS DOG BED. A LARGE TATTOOED FOUR-FINGERED HAND on his neck. The photo is threatening but also... vaguely sexual???
+C: JENNY
+D: What is he gonna do to our dog?
+C: ANNE
+D: I don't know! He's not gonna hurt him, is he? He can't --
+C: JENNY
+D: He won't. It's okay. Let's just get to the hotel.
+C: ANNE
+D: Yeah. Okay. What's the address?
+C: JENNY
+D: I don't know. I'm still looking for one.
+N: Jenny holds up her phone - we see the Philadelphia monuments montage video is on a janky website WHERETOSLEEP2NITE.COM
+C: ANNE
+D: You didn't book one before we left?
+C: JENNY
+D: I was too busy making the trunk comfortable for you! Besides, how hard will it to be to find one?
+T: CUT TO:
+N: Green (06/03/2022) 43A.
+S: EXT. BEN FRANKLIN INN & SPA - LATE AFTERNOON
+N: Anne and Jenny are in front of a quaint, Colonial-themed inn. Jenny has a boba tea.
+C: JENNY
+D: How was I supposed to know there was a pharmaceutical convention?!
+N: Anne, so annoyed, goes inside. Jenny follows. Green (06/03/2022) 44.
+S: INT. BEN FRANKLIN INN & SPA - LATE AFTERNOON
+N: Jenny and Anne enter. A BEN FRANKLIN IMPERSONATOR (a nervous man who just wants to do his best, has adult braces that he's REALLY insecure about) is at the front desk.
+C: BEN FRANKLIN
+D: Good morrow, ladies! Welcome to the Ben Franklin Inn & Spa. May I interest you in a corn pancake?
+N: He gestures to a basket of complimentary corn pancakes.
+C: JENNY
+D: No. Where's the spa?
+C: BEN FRANKLIN
+D: There is a special tub with hot, bubbly water in the John Hancock Suite.
+C: JENNY
+D: That's it? It's just a Jacuzzi?
+C: BEN FRANKLIN
+D: Jacuzzi! What a fun word. I only know it as a special tub.
+N: Anne politely laughs. Jenny is NOT amused.
+C: BEN FRANKLIN
+D: Are you in possession of a reservation?
+E: CONT'D
+C: ANNE
+D: Yes. It's under Anne Yum. Y-U-M.
+C: BEN FRANKLIN
+D: Ah yes! You just rang on the telephone, a marvelous machine that I am unfamiliar with. May I please have some identification and a credit card?
+C: JENNY
+D: You don't know what a phone is but you know about credit cards?
+C: BEN FRANKLIN
+D: The concept of a credit card is an easy one to grasp. Green 44A.
+E: MORE 06/03/2022
+C: BEN FRANKLIN
+D: I know what credit is, and I can assure you, I am familiar with cards. But the telephone is something that was not invented in my time.
+E: CONT'D
+N: Anne reaches for her wallet. The HOTEL PHONE rings.
+C: BEN FRANKLIN
+D: Ah! What is this sound? Tis a chirping bird? Ben Franklin Inn, please hold.
+E: CONT'D for their benefit picks up the phone
+C: JENNY
+D: So -- are you supposed to be Ben Franklin? Because if Ben Franklin had just been alive this whole time, he would know what phones are. I mean, he was really smart.
+N: Ben Franklin laughs uncomfortably.
+C: BEN FRANKLIN
+D: Yes, well... um, thank you for saying that I am smart.
+C: JENNY
+D: But if you don't know about phones, then, what, you're just like a ghost of Ben Franklin who's somehow stuck in the 1600s?
+C: ANNE
+D: 1700s.
+C: JENNY
+D: So if you're in the past, then your inn shouldn't have modern stuff. It makes no sense. So which is it? What are you?
+N: Ben Franklin blinks, unsure how to continue.
+C: BEN FRANKLIN
+D: I am Ben Franklin.
+C: JENNY
+D: Then why don't you have wooden teeth like George Washington?
+E: re: braces
+N: He quickly closes his mouth, insecure about the braces.
+C: ANNE
+D: Just let him be Ben Franklin. You're doing a great job, sir.
+E: to Ben Franklin
+C: BEN FRANKLIN
+D: Thank you.
+E: near tears
+N: Ben Franklin enters Anne's info into the computer.
+C: JENNY
+D: He's using a computer.
+E: to Anne
+N: Ben Franklin eyes Jenny but decides not to engage.
+C: BEN FRANKLIN
+D: Ah, I see you will only be with us for two nights. Blue 46.
+E: MORE 05/18/2022
+C: BEN FRANKLIN
+D: Even though you have limited time in our wonderful capital of the United States of America -- which is how I know it, how I, Ben Franklin know it -- I hope you are able to enjoy its many landmarks! If you need assistance with reservations, please do not hesitate to call the front desk.
+E: CONT'D
+C: JENNY
+D: On the phone?
+C: BEN FRANKLIN
+D: Yes, on the telephone. Future's greatest gift. TINA!
+E: laughing nervously
+N: TINA, a surly teen in colonial garb, sits nearby, texting.
+C: BEN FRANKLIN
+D: Please show our guests to their chambers.
+E: CONT'D
+N: Tina pockets her phone and gets up with a heavy sigh.
+S: INT. HOTEL ROOM - DUSK
+N: Tina shows Anne and Jenny into the room. She hands Anne a KEY ON A BULKY KITE KEYCHAIN then leaves. Anne and Jenny take in the room -- it's kitschy colonial. There's one FULL SIZE BED.
+C: ANNE
+D: Rock-paper-scissors to see who sleeps on the floor?
+C: JENNY
+D: I'm not sleeping on the floor. Come on, it'll be like that summer in Burbank!
+C: ANNE
+D: We're too old to share a bed.
+C: JENNY
+D: Speak for yourself, Granny Smith. Thirties are the new twenties!
+N: Jenny happily flops down on the bed. But the mattress is thin and rock-hard and it looks like it hurts.
+C: ANNE
+D: Since when are you in your thirties?
+C: JENNY
+D: Since I did a guess my age filter and it said thirty - -nine. Age is just a number, might as well go with what a computer thinks.
+E: soft
+N: Anne sighs, starts hanging up her clothes.
+C: JENNY
+D: This place sucks. Let's go to a real hotel. They gotta have extra rooms they keep open just in case. I'll get them to give us one.
+E: CONT'D
+C: ANNE
+D: How?
+C: JENNY
+D: Oh, I'm amazing at getting stuff. I get really emotional and talk A LOT so they get confused and then they're willing to do whatever they can to make it stop. Like this.
+N: Jenny takes quick, shallow breaths, making herself cry.
+C: JENNY
+D: Please!!! I know you're only serving the breakfast menu but my husband needs fries!!! He has a rare kidney condition and if he doesn't get salt he'll die!!! Help us! Please!!!! See? Works every time.
+E: CONT'D immediately normal again
+C: ANNE
+D: You'd publicly humiliate yourself just to eat fries at breakfast?
+C: JENNY
+D: How is that humiliating?
+N: Anne's phone DINGS. She checks it -- it's her Quiz alarm! Green (06/03/2022) 48.
+C: ANNE
+D: I lost track of time! I need to find a TV!
+S: INT. BEN FRANKLIN INN & SPA - HALLWAY - CONTINUOUS
+N: Jenny follows Anne as she hurries down the hall.
+C: JENNY
+D: Wait! You need to rest tonight, you have a really big day tomorrow.
+C: ANNE
+D: I can't miss it! I've watched it every day since I was four!
+C: JENNY
+D: You've never skipped a night?
+C: ANNE
+D: Neither has Terry!
+S: INT. CSQ STUDIO - SOME YEARS AGO
+N: QUICK POPS of: Terry hosting in a neck brace and a sling. Terry hosting the Head to Head while a STREAKER dances behind him, with The Brain being used to cover his nudity. Terry hosting through an earthquake which shakes the camera --
+S: INT. SPORTS BAR - EVENING
+N: Anne peers through the window, sees TVs, and rushes in. Jenny follows. The bar is full of Phillies fans watching a game. Anne makes her way to the bartender. Right as she's about to speak, a PERSON steps in front of her. Anne moves around.
+C: ANNE
+D: Excuse me--
+N: The bartender moves away. Jenny, seeing how bad Anne is at getting someone's attention, SLAMS HER FIST ON THE BAR. Blue (05/18/2022) 49.
+C: JENNY
+D: HEY!
+N: Everyone looks over. Jenny immediately switches from aggressive to sweet.
+C: JENNY
+D: Would you mind changing the channel to the Quiz?
+E: CONT'D
+N: The bartender looks at her like she's crazy. DARRYL, a drunk bro, notices Anne.
+C: DARRYL
+D: Holy shit! The Quiz Lady!
+C: ANNE
+D: No. That's a different Asian woman.
+C: BARTENDER
+D: Then why'd she ask to change the channel to the Quiz?
+C: DARRYL
+D: Oh yeah put it on! I wanna see if she really knows all that stuff. Cause that video coulda been fake.
+C: JENNY
+D: Fake?! Yeah right. A hundred bucks says she gets `em all right.
+C: DARRYL
+D: Alright. Not like I care about this game. I'm just here with my wife.
+N: An INTENSE WOMAN, JANINE, looks over from a barstool.
+C: JANINE
+D: DARRYL SHUT THE FUCK UP! BASES ARE LOADED!
+C: DARRYL
+D: I HAVE MY OWN INTERESTS, JANINE!
+N: Anne pulls Jenny aside.
+C: ANNE
+D: What are you doing?!
+C: JENNY
+D: Making some money!
+N: Jenny climbs up on a bar stool, before Anne can stop her --
+C: JENNY
+D: Hey everybody! The Quiz Lady is here, and she wants to play some Quiz! Hundred bucks says she gets them all right! If you want in, all we need is one TV. Whattaya say?!
+E: CONT'D
+C: PHILLIES FAN
+D: Fuck you!
+E: O.S.
+C: ANNE
+D: Jenny, stop! Get down! They're mad!
+C: JENNY
+D: QUIZ! QUIZ! QUIZ! QUIZ!
+C: ANNE
+D: Stop chanting!
+C: JENNY
+D: Chanting always works! QUIZ! QUIZ!
+N: Darryl happily chants along, but everyone else throws popcorn and coasters at Jenny. Anne tries to pull her off the stool.
+C: ANNE
+D: Stop! These are people who punch police horses when they're happy!
+C: JANINE
+D: THOSE WERE EAGLES FANS!
+C: BARTENDER
+D: And it's a stereotype! It only happened two separate times!
+C: ANGRY CROWD
+D: SHUT UP! / SIT DOWN! / FUCK YOU!
+C: JENNY
+D: Hey! I'm not sitting down until I see Terry McTeer's face on this TV! I don't care what you throw--
+N: A BEER BOTTLE HITS HER IN THE HEAD. She falls back, hitting the TV as she flips over the bar and lands HARD behind it. Goldenrod (06/14/2022) 51. The TV falls and SHATTERS. We don't see Jenny or the TV, but it looks like the TV crushed her. Everyone WILHELM SCREAMS.
+S: INT. EMERGENCY ROOM WAITING AREA - NIGHT
+N: Jenny and Anne sit in a waiting area. IN THE BG: an ADULT IN A NEW YORK SHIRT has a black eye. Jenny holds an ice pack on her wrist.
+C: JENNY
+D: It was sweet of that guy to drive us here. You know, Philly fans get a bad rap but deep down, they're nice. Sometimes stereotypes are wrong.
+C: ANNE
+D: They're always wrong. You know the term stereotype has a pretty fascinating etymology -- Jenny takes the ice pack off, revealing a SQUIGGLY AND VISIBLY FUCKED UP WRIST.
+E: beat
+C: ANNE
+D: -- GOOD LORD! How are you not in a massive amount of pain?
+E: CONT'D
+C: JENNY
+D: Oh this happens all the time, ever since I tried to catch a foul ball at that World Series game. When I was dating Sammy. Anyway, it hurts when it pops out and when it goes back in but in between it's not that bad.
+E: off Anne's confusion
+C: ANNE
+D: That is not just dislocated, that's definitely broken.
+C: JENNY
+D: No it's not. I bet I can pop it back into place myself.
+N: She tries to swing it back into place. Anne GAGS. Goldenrod (06/14/2022) 51A.
+C: ANNE
+D: Stop it!
+N: Jenny keeps doing it. Anne can't help but eventually laugh.
+C: ANNE
+D: Stop! I'm gonna throw up!
+E: CONT'D
+N: Jenny stops. After a beat...
+C: ANNE
+D: You know Cousin Jin could fix that for you no problem.
+E: CONT'D
+N: Jenny laughs. It's clearly an old inside joke.
+C: JENNY
+D: Well Cousin Jin is the best surgeon in the world.
+C: ANNE
+D: Every hospital wanted him. Not just because he's a great doctor, because he's handsome enough to be a model for Abercrombie and Fitch.
+C: JENNY
+D: Abercrombie and Finch. Mom never got it right.
+C: ANNE
+D: Remember when we went to California? And Jin was really into skateboarding, even though he was terrible? But everyone acted like he was incredible because he's Jin.
+N: Jenny gets a wistful smile on her face.
+C: JENNY
+D: God, I loved it out there. As soon as we hit the freeway...
+N: FLASHBACK TO:
+S: INT. RENTAL CAR - DAY - 1998
+N: 18-YEAR-OLD JENNY and 8-YEAR-OLD ANNE are in the backseat. Anne is reading a book about rocks. Jenny looks out the window, in awe.
+C: JENNY
+D: ... I knew I'd found my destiny. Burbank.
+E: V.O.
+S: EXT. BURBANK BACKYARD - POOL - 1998 - DAY
+N: 18-Year-Old Jenny sits with her cool, stylish KOREAN TEEN COUSINS by the pool, laughing. TEEN COUSIN JIN is nearby, trying to do a kick-flip on a skateboard but failing.
+C: JENNY
+D: Everything just felt so possible. The world was big, and bright...
+E: V.O.
+N: We can see 8-YEAR-OLD ANNE in the BG, reading, with a towel over her head to protect her from the sun.
+C: JENNY
+D: And everyone was getting along. No one was yelling at me to turn my music down or get a job. No one yelled at all. Unless you needed something from inside.
+E: V.O.
+N: SO-YUNG (very cool teen) yells from her pool float:
+C: SO-YUNG
+D: Na-Yung! Bring me an Orangina!
+C: JENNY
+D: You could be anything you wanted to be, do anything you wanted to do. For the first time, I felt like I belonged. And the weather was so perfect you didn't even have to wear a shirt. You could just wear a tankini.
+E: V.O.
+N: Jenny, in a tankini, lays back on her pool chair, soaking it all up, a huge smile on her face. This is the life. BACK TO:
+S: INT. EMERGENCY ROOM WAITING AREA - NIGHT
+N: Jenny is lost in the blissful memory.
+C: ANNE
+D: Well, too bad that whole side of the family hates us and never invited us back.
+T: Jenny's smile fades.
+C: JENNY
+D: Yeah.
+C: ANNE
+D: I always hated being around them. They were so intimidating. I... when we went to go stay with them, I was so nervous that I... I didn't shit the whole month we were there. And then it... Blue 54.
+E: MORE 05/18/2022
+C: ANNE
+D: I mean I had to go eventually. And I woke up one night with really bad cramps and...
+E: CONT'D
+N: Jenny looks at her, like "why are you telling me this?"
+C: ANNE
+D: I was too scared that someone would hear me pooping, or that I'd clog the toilet or something so I... I went out in the backyard and dug a hole and shit out there. That's how unwelcome I felt in that house. I've never told anyone about that.
+E: CONT'D emotional beat
+N: Jenny just looks at her, no idea what to say.
+C: ANNE
+D: It was just too much. All that... tension. And the way they looked at us... like we were... trash.
+E: CONT'D
+C: JENNY
+D: They wanted to help us. That's why they let us stay with them.
+C: ANNE
+D: Yeah, how generous. Dad dies, and to make sure we're okay they let us swim in their pool for a summer.
+N: Jenny chooses not to respond to that. Anne doesn't notice.
+C: ANNE
+D: They never even talked about Dad. It was like they wanted to forget him, because they were embarrassed how he died. Divorced, broke. Falling off a singles cruise because he tried to do the king of the world thing from Titanic, and drowning in the Caribbean. Like a loser.
+E: CONT'D
+C: JENNY
+D: He wasn't a loser. He was just...
+N: She doesn't know how to finish that sentence. They sit in a heavy silence. And then -- Blue (05/18/2022) 54A.
+C: NURSE
+D: Jennifer Yum? Green 55.
+E: O.S. 06/03/2022
+S: INT. EMERGENCY ROOM - EXAM ROOM - NIGHT
+N: Jenny and Anne sit while a HOT MALE DOCTOR examines an X-RAY.
+C: HOT MALE DOCTOR
+D: Doesn't seem to be broken, just dislocated. I can go ahead and...
+N: HE VIOLENTLY JERKS HER WRIST, snapping it back into place.
+C: JENNY
+D: Told you.
+E: to Anne
+N: Anne is absolutely baffled. Jenny smiles at the doctor.
+C: JENNY
+D: How can I ever thank you for saving my wrist? Maybe with a drink?
+E: CONT'D
+C: HOT MALE DOCTOR
+D: I'm married. And gay.
+C: JENNY
+D: Why'd you have to say two reasons?
+C: ANNE
+D: Okay, let's go. Big day tomorrow.
+S: INT. BEN FRANKLIN INN & SPA - ROOM - NIGHT
+N: Anne gets into bed. Her PHONE DINGS. She checks it.
+C: ANNE
+D: Oh my god!
+N: Jenny comes out from the bathroom, wearing a CAT EARS SPA HEADBAND holding her hair back, and green goo on her face.
+C: JENNY
+D: What? What's wrong?
+C: ANNE
+D: Ken. He sent me a video.
+C: JENNY
+D: Give it to me.
+N: Anne hands her phone over. It's open to a thumbnail of a close-up of Mr. Linguini's face. Jenny presses play. We see: Green (06/03/2022) 56.
+S: INT. KEN'S DEN - DAY - CELL PHONE VIDEO
+N: Ken, filming, slowly pulls out from Mr. Linguini's close-up.
+C: KEN
+D: Mr. Linguini's getting nice and comfortable over here.
+E: O.S.
+N: We see Mr. Linguini is in a RIDICULOUSLY LUXURIOUS DOG BED. He looks very happy. Ken flips the camera around to himself.
+C: KEN
+D: The longer you take to pay me back, the happier he is with me. So if I was you, I'd hurry up.
+E: CONT'D
+N: He smiles sinisterly at the camera. Then:
+C: KEN
+D: Hey, Linguini. You want some bacon?
+E: CONT'D
+N: Mr. Linguini perks up, tail wagging. The video stops.
+S: INT. BEN FRANKLIN INN & SPA - ROOM - SAME TIME
+N: Jenny solemnly puts the phone down. Anne looks so sad.
+C: ANNE
+D: He's going to make it so Linguini doesn't even want to leave.
+C: JENNY
+D: Wow. That's fucked up. It's... almost brilliant. In a bad way.
+N: Anne shoots her a look -- really? Jenny feels bad.
+C: JENNY
+D: Hey, it's okay. We're going to get him back. I promise.
+E: CONT'D
+N: Anne nods uneasily, not really buying it.
+C: ANNE
+D: Do you have a laptop or something? I can't sleep without noise.
+C: JENNY
+D: Yeah, in that bag.
+N: Anne goes to one of Jenny's bags and rifles through it, pulling out SO much shit -- a pocket umbrella, a small plate, some canned drinks. She finally finds a LARGE, BULKY LAPTOP.
+C: ANNE
+D: When did you buy this? 1970?
+C: JENNY
+D: Chad gave it to me. And he was in the CIA so you know it's powerful.
+N: Jenny takes out some KAHI Bounce Balm and applies it all over her face as she talks.
+C: ANNE
+D: Who's Chad?
+C: JENNY
+D: You know Chad. The guy after Lars.
+C: ANNE
+D: Was Lars the one with the boxed soda company?
+C: JENNY
+D: No that was Michael. Lars was the glaciologist. Aren't you supposed to have a good memory?
+C: ANNE
+D: Sorry there's just so many.
+N: Jenny eyes Anne, sensing the judgment in her tone.
+C: JENNY
+D: Well I remember everyone you've ever dated. Since it was just that one weird kid who was so pale he was basically see-through.
+C: ANNE
+D: Francoise was not see-through.
+C: JENNY
+D: It was like someone saran-wrapped a skeleton. Bounce Balm?
+E: then, offering
+C: ANNE
+D: No, I'm good.
+C: JENNY
+D: Are you sure? It's Korean.
+C: ANNE
+D: I didn't even date Francoise, we were just friends. And it's not his fault he's allergic to the sun.
+N: Anne starts to build a pillow wall in the middle of the bed.
+C: JENNY
+D: What are you doing?
+C: ANNE
+D: I want my own space.
+N: Jenny gets in bed, moves the pillows.
+C: JENNY
+D: But I sleep with two pillows.
+N: Anne grabs the pillows.
+C: ANNE
+D: You can have two pillows if you sleep on the floor.
+C: JENNY
+D: I'm wounded! I'm not sleeping on the floor.
+C: ANNE
+D: Well I'm not either!
+C: JENNY
+D: Then-- sleep on the chair!
+N: She points to a DEEPLY UNCOMFORTABLE WOODEN CHAIR.
+C: ANNE
+D: No!
+C: JENNY
+D: What is the big deal? We used to sleep together all the time.
+C: ANNE
+D: Twenty years ago. Before you left.
+N: A pointed beat. Green (06/03/2022) 59.
+C: JENNY
+D: Fine. Pillow wall.
+C: ANNE
+D: And head to foot.
+N: Jenny rolls her eyes. Whatever. They get in bed, head to foot, a wall of pillows separating them.
+C: JENNY
+D: I know you're nervous about tomorrow, but... is there at least a small part of you that's excited?
+C: ANNE
+D: Maybe. A small part.
+C: JENNY
+D: You're gonna be great.
+N: Anne allows herself to kinda believe that. She turns over to the computer and puts on an old episode of CSQ.
+C: TERRY
+D: Let's meet today's contestants. Now, I can't believe what I'm reading. All three of you are librarians? That's incredible.
+E: O.S.
+S: 62A INT. BEN FRANKLIN INN & SPA - ROOM - MIDDLE OF THE NIGHT 62A
+N: Anne wakes up in the middle of the night. She has a startled moment of not knowing where she is. She looks over, sees Jenny. Calms down a little. She turns around, so she's lying the right way instead of upside down. She settles into bed.
+S: INT. BEN FRANKLIN INN & SPA - ROOM - NEXT MORNING
+N: The next morning. Anne and Jenny are now sleeping face to face, it looks like two sisters sweetly sharing a bed. Jenny wakes up, sees Anne. She smiles. REVEAL Jenny has all the blankets, Anne is shivering. Jenny brushes hair out of Anne's face and gently shakes her awake.
+C: JENNY
+D: Annie. Wake up. It's audition day! Green 59A.
+E: 06/03/2022
+S: INT. BIG CORPORATE HOTEL - DAY
+N: Anne and Jenny walk in. Anne is SO nervous.
+C: JENNY
+D: They say report to the Liberty Conference Room. Jesus, this city is obsessed with freedom. How are you feeling?
+E: looking at phone then
+C: ANNE
+D: Bad. Can you tell I'm sweating? Blue 60.
+E: 05/18/2022
+N: She takes off her jacket, revealing ENORMOUS pit stains.
+C: JENNY
+D: Yeah.
+C: ANNE
+D: I can't do this.
+C: JENNY
+D: Yes you can! You know why?
+N: Jenny takes her by the shoulders and looks at her with the same conviction she showed Wendy in the coffee shop.
+C: JENNY
+D: You're strong.
+E: CONT'D
+N: Anne nods, trying to convince herself. Jenny leads her off. As they walk off, Anne stops briefly to VOMIT INTO A PLANT.
+S: INT. HOTEL CONFERENCE ROOM - DAY
+N: Anne and Jenny walk in. A CARDBOARD CUT-OUT OF TERRY is by the sign-in desk. MERCEDES greets them.
+C: MERCEDES
+D: Hi! Are you here to audition?
+N: Anne nods, too nervous to speak. Mercedes hands her a clipboard. She and Jenny go sit.
+C: ANNE
+D: There's too many people here.
+C: JENNY
+D: Don't think about them. Focus on the fact that you need this money to save Mr. Linguini's life.
+C: ANNE
+D: That's not helping! I can't do this. I can't go on the show. I'll wind up like Marybeth Windlemore!
+C: JENNY
+D: Who's Marybeth Windlemore?
+C: ANNE
+D: The lowest scoring contestant of all time.
+E: MORE
+C: ANNE
+D: She barely made it through to the Head to Head and then she just froze!
+E: CONT'D
+N: FLASH TO:
+S: INT. CAN'T STOP THE QUIZ STUDIO - A FEW YEARS AGO
+N: MARYBETH WINDLEMORE is seated for the Head to Head. Her score is -10,000. Her category is on screen: US FIRST LADIES. Time is ticking. She's completely frozen, totally panicked.
+C: MARYBETH
+D: ........... Martha Stewart?
+N: EHH. Her score goes to -10,500.
+C: MARYBETH
+D: I mean Eleanor Stewart. No I mean Betty... Betty, Betty, Betty White? No! Betty Martha!
+E: CONT'D
+S: INT. HOTEL CONFERENCE ROOM - DAY
+N: Anne shame-shivers at the memory.
+C: ANNE
+D: And the internet was so mean to her! People hate when women are bad at things!
+C: JENNY
+D: But you're not going to be bad! You're gonna be great!
+C: ANNE
+D: People don't like when women are good at things either! And the only reason I'm good is that I'm playing at home, just me and Linguini, I can't do it with people watching! Come on, let's just sell my eggs!
+C: JENNY
+D: We came all this way. It's just an audition. We have to try.
+C: ANNE
+D: Okay. But I need some air. Blue 62.
+E: 05/18/2022
+C: JENNY
+D: I'll fill these out for you.
+N: Jenny takes the clipboard from Anne. Anne takes her purse and leaves. Jenny starts filling out the form, but then --
+C: JENNY
+D: You sneaky little bitch.
+E: CONT'D
+S: INT. HOTEL HALLWAY - CONTINUOUS
+N: Jenny hurries out and sees ANNE SPRINTING FOR THE EXIT!
+C: JENNY
+D: HEY!
+S: INT. HOTEL LOBBY - MOMENTS LATER
+N: Anne runs! Jenny chases her down and tackles her onto a carpeted floor.
+C: ANNE
+D: OW!! RUGBURN!!!
+C: JENNY
+D: Why are you ruining this?! You're just as bad as mom!
+N: Anne stops. That hit home. A BELLMAN comes over.
+C: BELLMAN
+D: Is everything okay?
+C: JENNY
+D: We're fine, thank you.
+N: He walks off. Jenny and Anne stand.
+C: ANNE
+D: I am not fine! I'm freaking out! My armpits are like Niagara Falls!
+C: JENNY
+D: Here.
+N: Jenny takes off her FUZZY SWEATER and gives it to Anne.
+C: JENNY
+D: So no one can see. It's gonna be okay. You're having a panic attack. We just need to get through it.
+E: CONT'D
+C: ANNE
+D: How?
+C: JENNY
+D: Well, we're short on time so... Do you want drugs?
+E: mutters
+C: ANNE
+D: What?
+C: JENNY
+D: Do you want drugs?
+E: mutters
+C: ANNE
+D: I can't --
+C: JENNY
+D: Drugs. For your anxiety.
+C: ANNE
+D: Do you have some?
+C: JENNY
+D: Yeah I have all sorts of stuff.
+N: She digs into her purse, discreetly showing off various plastic bags and pill bottles.
+C: JENNY
+D: Party pills, zen pills, fun stuff, Advil.
+E: CONT'D
+C: ANNE
+D: Is that cocaine?!
+C: JENNY
+D: SHH!
+N: They look around -- people are staring.
+C: JENNY
+D: Of course not! It's stevia! Hahaha! Blue 64.
+E: CONT'D for their benefit 05/18/2022
+N: Jenny pulls Anne further aside.
+C: JENNY
+D: You should take some diazepam. It's no big deal! Doctors prescribe these! Well not these exactly, these are from the street, but they'll help you relax a little.
+E: CONT'D off Anne's hesitation
+N: Jenny fishes a big pill out of a bag of random pills.
+C: ANNE
+D: Okay. For Linguini.
+C: JENNY
+D: Great. Hold this.
+N: She hands the pill to Anne as she reaches back into her purse. Jenny doesn't notice as Anne SWALLOWS THE WHOLE BAR.
+C: JENNY
+D: And just take a quarter because--
+E: CONT'D
+N: She looks up, sees the panicked look on Anne's face --
+C: ANNE
+D: Because what? Because what??!
+N: Jenny stares at her, very scared that she took the whole thing. But not wanting to freak her out, Jenny smiles.
+C: JENNY
+D: Because I wanted some! But oh well. Come on, let's go.
+N: Jenny, nervous but trying to hide it, leads Anne off.
+S: INT. HOTEL CONFERENCE ROOM - MOMENTS LATER
+N: Jenny walks Anne in.
+C: JENNY
+D: How do you feel?
+C: ANNE
+D: The same. When is that thing supposed to kick iiiiiiiiiiiin.
+N: IN SLOW MOTION: A goofy grin lights up Anne's face. Blue (05/18/2022) 65. ANNE'S DRUGGED OUT POV: The room is brighter, more welcoming. A soft Enya-like rendition of the CSQ Theme plays. Anne sees the Terry cardboard cut-out and happily waves. The cut-out winks at her. As Jenny leads Anne to her seat, Anne looks at the carpet, which TURNS INTO SOFT GRASS. She looks up, sees the CEILING LIGHTS turn into ADORABLE, SMILING CARTOON CLOUDS. IN REALITY: Anne is slumped in a chair, all muscles totally relaxed, open- mouthed grinning. Jenny tries to close her mouth, but it keeps flopping open to the same super stoned grin.
+C: JENNY
+D: Close your mouth. You look insane.
+N: Mercedes walks to the front of the room to address everyone.
+C: MERCEDES
+D: Good morning! For today's audition, everyone will get a chance to play all three rounds. We'll start with the Blitz. First up we have...
+C: JENNY
+D: Please don't make her go first.
+C: MERCEDES
+D: Angela Jackson, Charles Von Kampf, and Anne Yum.
+C: JENNY
+D: Shit! Anne. Anne!
+S: EXT. BLISSFUL MEADOW - SAME TIME
+N: Anne, relaxed on a toadstool. PUG PUPPIES in BOW TIES frolic around her. Jenny's hand grabs her. Anne turns -- IN ANNE'S POV, she sees THE SUN, but it's Jenny's smiling face. And Jenny's hand on her shoulder is like a sunbeam.
+C: SUN-JENNY
+D: It's your turn to play.
+N: Sun-Jenny nods to a GLITTERING QUIZ SET. It looks like Oz. The OLD VERSION OF THE BRAIN waves at her.
+S: INT. HOTEL CONFERENCE ROOM - SAME TIME
+N: Anne takes her place at the podium, petting her sweater.
+C: ANNE
+D: This is so soft.
+N: She turns to CHARLES VON KAMPF next to her. He's an old, slender man who looks like a vampire.
+C: ANNE
+D: Look at you, Father Time. Feel how soft this is.
+E: CONT'D
+N: She offers her arm to him. He recoils.
+C: MERCEDES
+D: Alright. Five minutes on the clock. And your time. Starts. Now!
+N: As Mercedes goes through questions, Angela and Charles buzz in to answer. But Anne is spaced out, mindlessly rubbing her shirt (which looks like she's just rubbing her boobs) Jenny watches from the audience, panicked.
+C: JENNY
+D: Shit shit shit.
+N: She opens up her purse and fishes out the bag of loose pills.
+C: JENNY
+D: Come on, come on...
+E: CONT'D
+N: Jenny holds up a LITTLE ORANGE PILL.
+C: JENNY
+D: Bingo.
+E: CONT'D
+N: Anne, totally blissed out, is trying to take off her fuzzy sweater while happily watching Charles Von Kampf answer --
+C: CHARLES VON KAMPF
+D: Abraham Lincoln.
+C: ANNE
+D: That's right. Good job to you.
+C: MERCEDES
+D: Is everything alright, Ms. Yum?
+C: ANNE
+D: Yeah, I'm just warm.
+N: Anne goes to pull off her sweater, which pulls up her shirt and exposes her bra. Jenny hurries in, pulls the shirt down.
+C: JENNY
+D: Sorry! My fault! I forgot to give her her diabetes medicine. She gets sleepy without it.
+N: Jenny holds the pill out to Anne, who's eyes are barely open.
+C: CHARLES VON KAMPF
+D: Drowsiness can't be solved by a diabetes medication.
+C: JENNY
+D: Are you a doctor?!
+C: CHARLES VON KAMPF
+D: Yes.
+C: JENNY
+D: A diabetes doctor?!
+C: CHARLES VON KAMPF
+D: Yes.
+N: Jenny is briefly at a loss, but then --
+C: JENNY
+D: Well this is Eastern medicine! Get with the times, Big Pharma! Come on, Anne, here you go.
+E: to Anne
+N: Jenny puts the pill in Anne's mouth.
+C: JENNY
+D: Now swallow... great! Sorry for the interruption.
+E: CONT'D
+N: Jenny hurries off. On Anne, as the new pill takes effect...
+S: EXT. BLISSFUL MEADOW - GLITTERING QUIZ SET - DAY
+N: Anne happily bobbing to a SOOTHING VERSION OF THE QUIZ THEME. Mercedes' voice bleeds in, it sounds soft and pleasant:
+C: MERCEDES
+D: What is the only element that can exist without --
+E: O.S.
+N: SUDDENLY REALITY SHIFTS TO A DARK, ADDERAL-FUELED NIGHTMARE.
+C: MERCEDES
+D: NEUTRONS?!?!?!
+E: CONT'D
+C: ANNE
+D: Hy-- hydrogen!
+E: terrified
+C: MERCEDES
+D: CORRECT. WHAT IS THE SMALLEST BONE IN THE HUMAN BODY?!
+N: Anne sees the CLOUDS hovering nearby. They're terrified.
+C: TERRIFIED CLOUD
+D: You have to get them all, Anne! If you don't, we'll die!
+C: ANNE
+D: THE STAPES! IT'S THE STAPES!
+N: Jenny watches with a bit of concern.
+C: JENNY
+D: Just gotta keep this up for a couple more hours.
+S: INT. HOTEL CONFERENCE ROOM - LATER
+N: Anne is jittery and CHUGGING water. She's seated across from Charles Von Kampf for the Head to Head.
+C: MERCEDES
+D: Best Picture Oscar Winners.
+N: Anne crushes her empty water bottle and throws it.
+C: ANNE
+D: I'm gonna do `em in order.
+C: MERCEDES
+D: You don't have to-- Blue 69.
+E: 05/18/2022
+C: ANNE
+D: Wings, Broadway Melody, All Quiet on the Western Front, Cimarron, Grand Hotel, Cavalcade, It Happened One Night, Mutiny on the Bounty, The Great Zigfield, The Life of Emile Zola-
+N: Everyone watches in a mix of awe and horror. Finally --
+C: MERCEDES
+D: And time!
+C: ANNE
+D: All About Eve, An American in Paris-
+C: MERCEDES
+D: Your time is up --
+N: Anne holds up a finger and keeps going -- she's in the zone!
+T: DISSOLVE TO:
+S: INT. HOTEL CONFERENCE ROOM - MINUTES LATER
+C: ANNE
+D: -- Birdman, Spotlight, Moonlight, Shape of Water, Green Book, Parasite, Nomadland, CODA!
+N: An awkward beat. Anne is panting, so exhausted and winded. Jenny jumps up and claps. Some people join her, so impressed.
+C: MERCEDES
+D: Okay! Next category...
+S: INT. HOTEL CONFERENCE ROOM - LATER
+N: Anne sits back down with Jenny. She's winded.
+C: JENNY
+D: That was amazing. I didn't know you've seen all those movies!
+C: ANNE
+D: I haven't. God my heart feels like it's going to explode.
+N: Jenny hands her a bag of Lays potato chips.
+C: JENNY
+D: Here. Eat something. It might take the edge off.
+N: Anne, still tweaking, mouth so dry, eats the chips in a manner not totally dissimilar to Cookie Monster.
+C: JENNY
+D: It's gonna be okay. You're almost done. All that's left is the Coin.
+E: CONT'D
+C: ANNE
+D: Oh god, the Coin! What if they make me do Show It?! I can't!
+C: ANNE JENNY
+D: Yes you can! No I can't!
+E: CONT'D
+N: They go back and forth, their argument crescendoing to:
+S: INT. HOTEL CONFERENCE ROOM - LATER
+N: Anne, frozen in fear, with MERCEDES and CHARLES VON KAMPF.
+C: MERCEDES
+D: Now for the coin flip!
+N: She holds up a regular quarter.
+C: MERCEDES
+D: I know, it looks bigger on TV. Ha! Heads is Say It, tails is Show It!
+E: CONT'D
+N: Mercedes flips the quarter. As it flips, Anne's panic builds!
+C: MERCEDES
+D: Heads!
+E: CONT'D
+C: ANNE
+D: YES!!!! AHAHAHA YES!!! Ohhhh you have no idea how big of a relief this is. Now I can win, and the clouds won't die!!!
+N: Everyone looks freaked out. Jenny, trying to be supportive, stands up and claps.
+C: JENNY
+D: Yes! So true. The clouds won't die. That's an old Chinese saying.
+N: Some nice white people nod politely, like "oh interesting."
+S: EXT. HOTEL - DAY
+N: Jenny leads an exhausted Anne outside as a VALET pulls up in Anne's car.
+C: ANNE
+D: What did you give me?
+C: JENNY
+D: Do you promise you won't get mad?
+C: ANNE
+D: Okay.
+C: JENNY
+D: It was basically meth.
+C: ANNE
+D: Meth???
+C: JENNY
+D: Basically meth.
+N: Anne is too tired to be mad. Jenny helps her into the car.
+C: ANNE
+D: At least I did it.
+C: JENNY
+D: You didn't just do it. You crushed that audition.
+N: Jenny starts to close the door on Anne but then --
+C: ANNE
+D: Jenny. Thank you.
+N: They smile at each other. A nice moment. But then Anne falls over, passing out. The Bellman notices.
+C: BELLMAN
+D: You're not kidnapping her, are you?
+E: joking
+C: JENNY
+D: Not anymore. Blue 72.
+E: smiling, with meaning 05/18/2022
+N: She closes the door on Anne and gets in the car. The Bellman watches them drive off, not sure if he should call someone?
+S: INT. BEN FRANKLIN INN - TAVERN - NEXT MORNING
+N: Anne is at the breakfast buffet. Ben Franklin is nearby. She puts an Eggs Benedict on her plate.
+C: ANNE
+D: Eggs Benedict. I'd have thought you guys wouldn't serve this here.
+C: BEN FRANKLIN
+D: Ah yes, it pains me to serve a dish named after a traitor. Alas it is a popular item that many expect from a buffet. Quite the conundrum.
+C: ANNE
+D: Sounds like you need to make a pro- con list.
+N: She smiles a knowing smile. He looks at her, delighted.
+C: BEN FRANKLIN
+D: Ms. Yum. Have you been reading my 1772 letter to Joseph Priestly?!
+N: Anne makes a face like "caught me". Ben Franklin laughs, so charmed. They're friends! Jenny runs in, SO amped.
+C: JENNY
+D: The Quiz just emailed! They said to expect a call soon!!!
+N: Ben Franklin, scared of Jenny, finds a reason to walk away.
+C: ANNE
+D: I can't believe it. I'm going to be on the show.
+C: JENNY
+D: And you thought I couldn't be an Oprah. Pink 72A.
+E: 05/25/2022
+C: ANNE
+D: Too bad the Choochie's money isn't real, otherwise you could just fly around, helping people like Mary Poppins. You've already got the bag for it.
+N: Jenny gets a proudly mischievous smile. Anne notices.
+C: ANNE
+D: What?
+E: CONT'D
+C: JENNY
+D: I lied about the Choochie's money.
+C: ANNE
+D: Yeah, I know --
+C: JENNY
+D: No, I lied about lying about the Choochie's money. It's real. I'm gonna get a giant check, just like on TV! That was part of the settlement, I made them put that --
+C: ANNE
+D: What are you talking about?! Why would you lie?!
+C: JENNY
+D: Because I knew that the only way you'd do this was if you thought it was the only way. Blue 73.
+E: MORE 05/18/2022
+C: JENNY
+D: Life coaching.
+E: CONT'D smiles proudly
+C: ANNE
+D: So we've had the money to pay off the debt this whole time?! I could already have Linguini back?!
+C: JENNY
+D: No, I told you, the money hasn't come in yet --
+C: ANNE
+D: Oh my god. Even your lies are lies!
+C: JENNY
+D: It's not a lie. Just listen --
+C: ANNE
+D: You always do this! You do whatever you want with no regard for anyone else! Mr. Linguini is everything to me! But to you he's just a pawn! I thought you were helping me --
+C: JENNY
+D: I am! I'm helping you get him back while also seizing your destiny!
+C: ANNE
+D: Oh my god, destiny isn't real!
+C: JENNY
+D: Yes it is. We all have a purpose, we just need to find it.
+C: ANNE
+D: That's just a lie you tell yourself! You chase all of these stupid dreams and then blame whatever you can when they don't work out, but the truth is -- it's you! You're reckless, and selfish, and no one can stand to be around you because it's constant chaos! All your fake emotional outbursts mixed with real emotional outbursts -- you're just like Mom!
+C: JENNY
+D: Stop yelling!
+C: ANNE
+D: Take some responsibility for your life. And stop being such a loser.
+N: Anne storms off. Jenny, stung, filling with rage, grabs a LIBERTY BELL ROLL from a bread basket and hurls it Anne.
+C: JENNY
+D: You're the loser! Yes I am lonely and currently unhoused and my life hasn't exactly worked out the way I wanted. Do you have any idea how hard it is to be an Asian woman in this country?!
+N: A NICE WHITE COUPLE nearby nods empathetically.
+C: ANNE
+D: Oh my god.
+C: JENNY
+D: But at least I've lived! You haven't done anything with your life! All you do is hide in your robot house and watch the Quiz!
+C: ANNE
+D: And take care of mom, and lend you money, and support myself. I've always had to be responsible for EVERYTHING!
+N: Anne hurls a Liberty Roll at Jenny. Ben Franklin comes over.
+C: BEN FRANKLIN
+D: If I could ask you to please calm--
+C: ANNE
+D: FUCK YOU BEN FRANKLIN!
+N: Everyone in the tavern GASPS.
+C: ANNE
+D: You're the older sister, you're supposed to help me! But you never have! You only care about yourself!
+E: CONT'D
+C: JENNY
+D: That is not true. I was always looking out for you. Pink 75.
+E: 05/25/2022
+C: ANNE
+D: Yeah? When?!
+C: JENNY
+D: IN BURBANK! WHEN YOU SHIT IN THAT GODDAMN HOLE!
+N: Anne looks at her -- what? Jenny simmers with a quiet rage.
+C: JENNY
+D: You didn't bury it deep enough. The next day, when So-Yung and Na-Yung and I got back from Starbucks...
+E: CONT'D
+N: FLASHBACK TO:
+S: EXT. BURBANK BACKYARD - POOL - DAY - 1998
+N: 18-Year-Old Jenny walks in with So-Yung and Na-Yung, all wearing tankinis and holding caramel Frappuccinos.
+C: SO-YUNG
+D: I'm so sad about Uncle. But Appah said you can live with us. And then you can come to UCLA with me next year!
+C: YOUNG JENNY
+D: And we can start our fashion line!!
+N: They all squeal with excitement and hug. But then --
+C: JENNY
+D: Cousin Jin had found it.
+E: V.O.
+C: COUSIN JIN
+D: Come here! You gotta see this!
+N: Cousin Jin waves them over to a HOLE, a SMALL DIRT MOUND next to it. A TINY WHITE POMERANIAN (Tiger) is with Jin. The girls look into the hole and recoil, disgusted.
+C: SO-YUNG
+D: Tiger, did you do this?!
+C: COUSIN JIN
+D: Look at it! It's definitely human. Blue 76.
+E: 05/18/2022
+C: JENNY
+D: I knew right away it was you.
+E: V.O.
+N: Jenny looks towards the house, where we can see YOUNG ANNE inside, organizing a rock collection.
+C: JENNY
+D: It was only a matter of time before they figured it out.
+E: V.O.
+N: Jenny turns back to the cousins, mustering courage.
+C: JENNY
+D: So I told them I did it.
+E: V.O.
+N: The cousins stare at Jenny, so disgusted...
+S: INT. BEN FRANKLIN INN - TAVERN - DAY
+N: Jenny has tears in her eyes.
+C: JENNY
+D: Uncle Joon was going to let us live with them in Burbank. It's not like Mom would've missed us! But everything changed after that. Do you know how insane an eighteen- year-old would have to be to shit in a hole?! And why was it so big?!
+C: ANNE
+D: Why didn't you tell me?
+C: JENNY
+D: Because you were eight.
+N: Jenny storms off, but then stops and turns back --
+C: JENNY
+D: Asshole!
+E: CONT'D
+N: She leaves. Anne watches her go, feeling guilty.
+S: INT. BEN FRANKLIN INN - ROOM - LATER
+N: All of Jenny's stuff is gone. Anne sits, working up the nerve to make a FaceTime call. Finally, she does. Ken answers, we can't see much of his surroundings. Blue (05/18/2022) 77.
+C: KEN
+D: Oh, it's you. You have my money?
+E: ON FACETIME
+C: ANNE
+D: Not yet. But I will. I just... I just want to see Mr. Linguini.
+C: KEN
+D: There is no Mr. Linguini anymore.
+E: ON FACETIME
+C: ANNE
+D: No -- no! I still have more time--
+C: KEN
+D: We're calling him Porky now.
+E: ON FACETIME
+N: Ken flips the camera around to show MR. LINGUINI getting his belly scratched by one of Ken's TOUGH GUYS.
+C: KEN
+D: We thought that suited him better. Isn't that right, Porky?!
+E: O.S. CONT'D
+N: Mr. Linguini lifts his head. Anne gasps, horrified that he responded to another name. Ken flips his camera back around.
+C: KEN
+D: You're running out of time.
+E: ON FACETIME CONT'D
+N: Ken hangs up. Anne looks harrowed.
+S: EXT. ANNE AND FRANCINE'S DUPLEX - DAY
+N: Anne carries her bags back to her house. As she's unlocking her front door, Francine pops out from her front door.
+C: FRANCINE
+D: Where's my hundred bucks?
+N: Anne's eyes well with tears. She's at a total loss. Francine sighs, feeling bad for her.
+C: FRANCINE
+D: You want to come in?
+E: CONT'D
+S: INT. FRANCINE'S LIVING ROOM - DAY
+N: Anne sits on the couch. She takes in the room: "As Seen On TV" products, including a large collection of massage devices. There's a framed photo of Paul Reubens on display. Francine shuffles in with a tray of tea.
+C: ANNE
+D: Why do you have a photo of Pee-Wee Herman?
+C: FRANCINE
+D: Who the hell is Pee-Wee Herman?
+N: Francine, confused, looks to the photo Anne's referring to.
+C: FRANCINE
+D: That's Alan Cumming. From the Good Wife. He's a wonderful actor. And that Scottish accent of his. Mm.
+E: CONT'D
+C: ANNE
+D: That's not Alan Cumming. That's Paul Reubens. From Pee-Wee Herman.
+C: FRANCINE
+D: I think I would know who my favorite actor is, thank you very much. That is Alan Cumming!
+N: No, it isn't. But Anne decides to let it go. Francine settles into her chair.
+C: FRANCINE
+D: So. What's wrong with you?
+E: CONT'D
+C: ANNE
+D: I don't know. I just -- I thought I was happy with my life, but maybe I wasn't. And maybe I never have been. I've just always been scared. Scared of being judged, or laughed at. Or left.
+N: Anne looks so small and sad. Francine studies her for a beat.
+C: FRANCINE
+D: When I was younger, I wasted so much energy trying to get people to like me. And for what?
+E: MORE
+C: FRANCINE
+D: So I could get invited to some potluck dinner party and have to get all dressed up, spend hours baking a pie to bring over, and then you get there and find out everyone else was lazy and just made a casserole. So the whole dinner is ten pans of slop and one pie. And then when the dinner is finally, mercifully over, you think you can leave, but no. They want to play charades.
+E: CONT'D
+C: ANNE
+D: Ugh. I hate charades.
+C: FRANCINE
+D: I love charades. I'm an excellent guesser. As long as the person acting out the clues isn't a total imbecile. Which they usually are. And after enough of these horrible dinner parties and terrible games of charades where you have to scream over and over to remind people to give the syllable count first, you realize people aren't worth the effort. I've been alive a long time. I've met a lot of people. And I've only liked one.
+E: then
+C: ANNE
+D: Is it me?
+C: FRANCINE
+D: No. You get too much mail.
+N: Anne frowns. She was really expecting a yes.
+C: FRANCINE
+D: I like the guy that used to work at the grocery store. He was good. Look, the point is, don't waste time trying to find happiness in other people...
+E: CONT'D
+N: Anne looks at her, ready to be moved by her speech... Blue (05/18/2022) 80.
+C: FRANCINE
+D: Because happiness does not exist. Nothing in life is good. All there is is bad and less bad.
+E: CONT'D
+N: Off Anne, horrified by this Ghost of Christmas Future...
+S: EXT. STREET - ANOTHER DAY
+N: Jenny walks down the street, looking sad. Her PHONE RINGS. She digs around in her purse, finally finds it and answers.
+C: JENNY
+D: Hello?
+C: MERCEDES
+D: Hi! This is Mercedes, from Can't Stop the Quiz.
+E: O.S.
+C: JENNY
+D: Oh. Hi.
+C: MERCEDES
+D: We want to put Anne on the show! Can she fly out ASAP?
+E: O.S.
+N: Jenny gasps with excitement, then remembers she's mad at Anne.
+C: JENNY
+D: I'm sorry, I'm no longer a part of her journey, so. You'll have to call her directly.
+N: Jenny hangs up. She holds for a beat, conflicting emotions washing over her. She brushes it off, then keeps walking.
+S: INT. ANNE'S CUBICLE - DAY
+N: Anne is at her desk, looking at a website for selling her eggs. She's grimacing. Her phone RINGS. She answers.
+C: ANNE
+D: Internal auditing.
+C: MERCEDES
+D: Hi! Is this Anne Yum? Blue 81.
+E: O.S. 05/18/2022
+C: ANNE
+D: Yes...
+C: MERCEDES
+D: This is Mercedes from the Quiz. Great news! We'd love to have you on the show! Any chance you could fly out tonight?
+E: O.S.
+C: ANNE
+D: Tonight?!
+N: Anne freezes. She looks at the egg selling website.
+C: ANNE
+D: Um... I...
+E: CONT'D
+C: MERCEDES
+D: I know it's last minute but we'd really love to capitalize on the buzz from your video--
+E: O.S.
+N: Trav and Marge come into her cubicle, holding take-out sushi. They sit and start eating, no idea Anne is there.
+C: TRAV
+D: I'm telling you, you're gonna be regretting that extra spicy -- AHH!
+E: notices Anne
+N: Anne tries to shush them, straining to listen to Mercedes.
+C: MERCEDES
+D: And we need the information for whoever you want to bring as your partner for the Coin Round...
+E: O.S.
+C: MARGE
+D: Sorry, Fran. We thought you were still on vacation.
+C: ANNE
+D: Were you eating lunch in here while I was gone?
+C: TRAV
+D: Yeah, it's great. `Cause then the smell stays in a place where we aren't working. Blue 82.
+E: 05/18/2022
+N: They go back to talking and eating as if Anne isn't there.
+C: MERCEDES
+D: Ms. Yum? Are you still there? We need to book the tickets ASAP.
+E: O.S.
+N: Anne glares at her coworkers, rage building, until:
+C: ANNE
+D: HEY! I am SICK of being treated like some silent, invisible man! I EXIST! And you might not see me here, but tomorrow night you're gonna see me on TV! Book the ticket!
+E: into phone
+N: She storms out. BADASS MUSIC KICKS IN AS WE GO TO:
+S: INT. ANNE'S HOUSE - QUICK PACKING MONTAGE
+N: Anne packs a suitcase. We see her pack a smart business casual outfit, her own pillow, and a photo of Mr. Linguini.
+S: INT. COFFEE SHOP - DAY
+N: Jenny sits at the same coffee shop as before. She looks sad and lonely. She hears LAUGHTER. She looks over and sees: A MOM and TWO YOUNG DAUGHTERS. The big sister has a well- loved stuffed bunny and is making it dance around for the little sister, who's loving it. It's so sweet. WENDY comes over, carrying a muffin on a plate.
+C: WENDY
+D: Hi!
+C: JENNY
+D: Danielle!
+C: WENDY
+D: Wendy. I wanted to give you this, as a thank you.
+C: JENNY
+D: For what? Pink 83.
+E: 05/25/2022
+C: WENDY
+D: For inspiring me. You were right - I was so focused on all the things I couldn't do that I just quit. But I can't let that stuff drag me down. I just gotta bake. So I convinced my boss to let me take over the pastries. You changed my life, Janet.
+C: JENNY
+D: Jenny.
+N: Wendy walks off. Jenny kind of smiles to herself. She looks back at the mom and daughters. The big sister makes the bunny hug the little sister. The little sister hugs it back. Jenny watches the moment, so touched. And then --
+C: JENNY
+D: OH MY GOD!
+E: CONT'D
+N: Everyone looks at her, thrown by the outburst. After a beat, Jenny bolts out the door, passing the sisters, who are now in a knock-down drag-out fight for the bunny.
+S: EXT. ANNE AND FRANCINE'S DUPLEX - DAY
+N: Anne pounds on Francine's door. Francine opens it, annoyed.
+C: ANNE
+D: I need you to come with me to California.
+C: FRANCINE
+D: No.
+C: ANNE
+D: I have to bring a partner, in case the Coin lands on Show It. And I... I don't have anyone else.
+C: FRANCINE
+D: What the hell is Show It?
+N: Off Anne, excited to tell her that it's basically charades... Pink (05/25/2022) 83A.
+S: INT. JENNY'S CAR - DAY
+N: Jenny is parked. She steels herself. Closes her eyes.
+C: JENNY
+D: I am strong.
+N: She takes a deep breath, and gets out of the car. Pink (05/25/2022) 84.
+S: EXT. STRIP MALL PARKING LOT - CONTINUOUS
+N: Jenny marches towards a storefront called CHOSEN FAMILY CANINE RESCUE.
+S: INT. CHOSEN FAMILY CANINE RESCUE - DAY
+N: Jenny walks into a janky pet store. There are no customers. A TOUGH GUY is at the counter. He looks over at her.
+C: JENNY
+D: I'm here to see Ken.
+S: INT. CHOSEN FAMILY CANINE RESCUE - BACK ROOM - DAY
+N: The tough guy shows Jenny to the surprisingly opulent BACK ROOM, which we recognize as Ken's Den. A bunch of guys hang out with dogs. Ken and Mr. Linguini wear matching shirts.
+C: KEN
+D: Who the hell is this?
+C: JENNY
+D: Crystal's other daughter.
+C: KEN
+D: How'd you find me?
+C: JENNY
+D: My ex-boyfriend is CIA.
+C: KEN
+D: Coming here was a big mistake.
+C: JENNY
+D: So was messing with my sister. Because now you're messing with me. You want the money? I'll get you the money. But first you're gonna give me back that dog.
+C: KEN
+D: Actually I'm gonna break your legs. Pink 85.
+E: 05/25/2022
+N: His guys go to grab her, she immediately goes hysterical --
+C: JENNY
+D: No wait!!! I'll give you double!! I swear! I'm about to get a VERY large cash settlement from Choochie's! Yeah, the nationwide chain Choochie's!! You've seen their commercials, they're rich! If you give me that dog back right now, I'll pay double! In seven to ten business days, maybe a little longer, apparently Monday is a holiday in some religion but I don't know which one!!!
+N: She's crying. Ken laughs.
+C: KEN
+D: You are just like your mom. She used to do the same crazy, crying, screaming shit. I'm done falling for that.
+N: Jenny looks up at Ken, no longer hysterical. Resolved.
+C: JENNY
+D: I am not my mom. Because I'm actually here. That dog has been by my sister's side for over twenty years.
+C: KEN
+D: What? How old is he?
+C: JENNY
+D: OLD. Annie has kept him alive for a miraculously long time. Because even though she's a painfully awkward, annoying little know-it- all, she takes care of the people around her. And Mr. Linguini is the only one in her life that has never let her down. She needs him. Just like you need my money. Yeah. I did my research. I know you're three months behind on rent. Must be hard to launder cash when you don't have any. Pink 86.
+E: off Ken's look 05/25/2022
+N: Ken eyes his guys, nervous. The guys look confused.
+C: JENNY
+D: Oh did you guys not know? Wow, Ken. Me and my big ass computer know more about your tong than they do? Shame. Where'd the money go, huh? Up your nose?
+E: CONT'D
+N: Ken, sensing he has to come clean --
+C: KEN
+D: It's the dogs. If someone had kidnapped my Jonathan, God rest his soul --
+E: sighs, then
+N: Ken looks to a FRAMED PHOTO of a beautiful golden retriever.
+C: KEN
+D: I would've paid anything to get him back. But these people... they're monsters. Half of them never show up for their dogs. And the purebreds have issues, you know? Skin problems, kidney problems -- I gotta give Crispy an IV every goddamn day!
+E: CONT'D
+N: CRISPY, an older purebred dog, is in the corner with an IV.
+C: KEN
+D: But what am I supposed to do?!
+E: CONT'D
+C: JENNY
+D: Give me Mr. Linguini. And as soon as I get my big beautiful Choochie's check, I'll give you enough money to solve all your problems. Do we have a deal?
+N: Ken looks at Jenny, conflicted...
+S: EXT. CHOSEN FAMILY CANINE RESCUE - DAY
+N: Jenny, clutching Linguini, runs for her car. Ken, his guys, and dogs chase her. She ducks throwing stars. It's CHAOS. Pink (05/25/2022) 87.
+S: EXT. STUDIO LOT - DAY
+N: QUICK POPS OF: Anne and Francine walking through the iconic studio gates and fountain, past a HARRIED ASSISTANT carrying a pyramid of boba drinks. Some CREW carrying a LARGE, STRANGE PIECE OF SET DEC. A GOLF CART goes by, with a WEIRD CHARACTER on the back of it, drinking a boba tea. Francine stares, perplexed. Anne pulls her along.
+S: INT. CSQ STUDIO - BACKSTAGE - DAY
+N: Mercedes leads Anne and Francine through doors.
+C: MERCEDES
+D: And you can just follow me this way to the green room --
+N: Anne notices -- THE HALLWAY IS LINED WITH ALL OF TERRY'S BOWTIES. Mercedes notices Anne's awe.
+C: MERCEDES
+D: Pretty amazing, right? You know he's never worn the same one twice.
+E: CONT'D
+N: Anne stops in front of a specific bowtie, which eagle-eyed viewers will recognize from the show Anne was watching when her dad left in the opening. She looks at it for an emotional beat.
+C: FRANCINE
+D: What, you've never seen a tie before? Let's go!
+N: Anne moves off, following Francine and Mercedes. Pink (05/25/2022) 88.
+S: INT. STUDIO - BACKSTAGE - LATER
+N: Anne stands, in her show outfit and hair and make-up, while a sound guy mics her. She hears, approaching --
+C: RON HEACOCK
+D: Big show tonight! Here we go!
+E: O.S.
+N: She turns and sees RON HEACOCK, in the flesh, smiling broadly, greeting crew members as if he's the mayor. And wearing a bowtie. Anne glares at the bowtie. Ron sees her.
+C: RON HEACOCK
+D: Oh hi there! I'm Ron. I'd shake your hand but...
+E: CONT'D
+N: He holds up his made-up hands as if to say "they're wet".
+C: RON HEACOCK
+D: Did you have a good flight? Great, great. Hey I want to apologize.
+E: CONT'D
+N: Anne looks at him, thrown by the kindness.
+C: ANNE
+D: Why?
+C: RON HEACOCK
+D: Well, you're obviously a huge fan of the show, and it's such a bummer that you finally get to be here and the whole night is just going to be all about me winning my 84th game and becoming the longest running champion. It's so unfair to you.
+N: Ron starts off. Anne blurts --
+C: ANNE
+D: Do you want to be Terry? Is that why you pretend to be nice? So you can take over one day?
+C: RON HEACOCK
+D: What? Terry is beloved by the entire world. Green 89.
+E: MORE 06/03/2022
+C: RON HEACOCK
+D: I would be crazy to think I could ever fill his shoes. And I'm not pretending, I really am nice. Well I won't keep ya, I know you need to get into hair and make-up.
+E: CONT'D then
+C: ANNE
+D: I already am.
+C: RON HEACOCK
+D: Oh. There he is!
+E: noticing
+N: Anne turns to see: TERRY. IN THE FLESH. WALKING UP TO THEM. Anne stares, completely gobsmacked. Terry smiles warmly at Anne, so humble and kind.
+C: TERRY
+D: Hello, Anne. I'm Terry.
+N: Anne's eyes bulge a little. Did he really just say her name?
+C: TERRY
+D: Welcome to the show. Your video was very impressive.
+E: CONT'D
+C: RON HEACOCK
+D: Yeah, it was freakishly great.
+N: Terry looks at Ron, clocking the bowtie. We can tell there's a hint of contempt, but Terry is a consummate professional so it's well-hidden.
+C: TERRY
+D: Hello, Ron.
+C: GLENN
+D: Two minutes! Places, everyone!
+E: O.S.
+C: RON
+D: See you onstage, Terry.
+N: Ron winks, moving off towards the stage. We hear cheers from the crowd as he walks out. Terry turns back to Anne.
+C: TERRY
+D: Remember, we're here to learn and have fun. Don't worry about winning. Green 89A.
+E: 06/03/2022
+C: ANNE
+D: I need to win to save my dog.
+E: blurts
+C: TERRY
+D: Oh. Well... good luck.
+N: He goes onstage. As he walks out, the studio audience CHEERS! Green (06/03/2022) 90. Anne, heart pounding, steps into the BRIGHT STAGE LIGHTS.
+S: INT. STUDIO - CSQ SET - MOMENTS LATER
+N: Anne is at her podium. She looks to Ron Heacock, who's primping. She glances at LEAH, the third contestant, who's waving at her FAMILY in the audience. She eyes Terry, across the stage. He gives her a supportive thumbs up. She almost barfs. He looks concerned. A STAGE MANAGER, GLENN, calls from behind camera:
+C: GLENN
+D: We're live in five, four, three...
+N: He gestures "two, one" and points to Terry --
+C: TERRY
+D: It's seven o'clock on a weeknight, you know what that means. It's time for Can't Stop the Quiz.
+S: INT. SPORTS BAR - NIGHT
+N: The bar is packed with Phillies fans watching a game. Except for Darryl, who's glued to the one TV playing CSQ.
+C: DARRYL
+D: Come on, Quiz Lady, let's do this!
+N: Janine eyes him, thinking it's sweet how invested he is.
+S: INT. BEN FRANKLIN INN & SPA - NIGHT
+N: Ben Franklin watches on his phone, hidden at his desk.
+C: BEN FRANKLIN
+D: Godspeed, Miss Yum!
+S: INT. SOME BAR IN DOWNTOWN PITTSBURGH - NIGHT
+N: Trav and Marge are picking at Happy Hour apps. Anne is on TV behind them, but they're not paying attention. Pink (05/25/2022) 91.
+C: TRAV
+D: Dude, I swear they changed the breading on the mozzarella sticks.
+S: INT. CSQ STUDIO - DAY
+C: TERRY
+D: I'm your host Terry McTeer. Let's meet tonight's contestants. Of course we all know our returning champion, Ron Heacock, who's going for the record tonight.
+C: RON HEACOCK
+D: Oh is that tonight?
+N: The audience laughs. Terry politely chuckles.
+C: TERRY
+D: And I see you've stolen my look.
+C: RON HEACOCK
+D: Well Terry, it's a big night, and I wanted to honor you.
+N: The audience awws.
+C: TERRY
+D: Thank you. Also joining us tonight is someone you might recognize from your computers, the famous Quiz Lady. Welcome, Anne.
+N: Anne, lost in panic, flinches at the sound of her name.
+C: ANNE
+D: What?
+C: TERRY
+D: Welcome.
+C: ANNE
+D: Oh. You too.
+N: Anne forces a deeply uncomfortable smile.
+C: TERRY
+D: ... and welcome Leah, from Cedar Rapids, Iowa. Best of luck. Let's see tonight's categories. Pink 92.
+E: 05/25/2022
+N: Categories appear: MUSIC, LITERATURE, BIOLOGY, SPORTS, FOOD & DRINK, THE RENAISSANCE, LANGUAGE, EARTH SCIENCE.
+C: TERRY
+D: May I have five minutes on the clock please? And your time... starts... NOW!
+E: CONT'D
+N: Anne reflexively reaches to put a hand on Mr. Linguini, just like she always does, but he's not there.
+C: TERRY
+D: The Striding Man is the logo of which spirits company?
+E: CONT'D
+C: ANNE
+D: Johnnie--
+N: At the same time, Ron buzzes in. Anne forgot to buzz!
+C: RON HEACOCK
+D: Johnnie Walker.
+C: TERRY
+D: Correct! Who wrote Jane Eyre?
+N: Anne tries to buzz but DROPS HER BUZZER. Leah buzzes in.
+C: LEAH
+D: Emily Bronte.
+C: TERRY
+D: Oh no!
+N: Leah's score drops to -100. Ron buzzes in --
+C: RON HEACOCK
+D: So close, Leah! But it was actually Charlotte Bronte.
+N: Anne glares at Ron, hating the condescension.
+C: TERRY
+D: Correct! What does an oologist study?
+N: Anne, still distracted by Ron, buzzes in.
+C: ANNE
+D: Animals! Green 93.
+E: 06/03/2022
+C: TERRY
+D: Oh no!
+N: Anne looks -- what? Ron buzzes in.
+C: RON HEACOCK
+D: Eggs.
+C: ANNE
+D: You said oologist?
+C: TERRY
+D: I did. What NBA team holds the record for most wins in a season? Ron.
+E: Ron buzzes in
+N: Ron clocks that Anne is completely blank. He grins.
+C: RON HEACOCK
+D: The Golden State Warriors.
+S: INT. SPORTS BAR - NIGHT
+N: Darryl and Janine are watching, Darryl can barely look.
+C: DARRYL
+D: She's blowin' it.
+S: INT. CSQ STUDIO - DAY
+N: Leah is at 0. Anne is at -100. Ron is at 23,000. Less than 20 seconds left on the clock!
+C: TERRY
+D: What qualitative scale is used to rate minerals in terms of scratch resistance?
+N: Ron and Leah think, no idea. Anne, caught up in self- loathing, takes a second to register the question, but then realizes -- it's about rocks! She buzzes in.
+C: ANNE
+D: Mohs Hardness Scale!
+C: TERRY
+D: Correct! Green 94.
+E: 06/03/2022
+N: Her score goes up to 400.
+C: TERRY
+D: What is the only mammal that can't--
+E: CONT'D
+N: THE END OF THE ROUND SOUND CUE.
+C: TERRY
+D: Ohhh! I guess we'll never know. That's a shame, I love the animal ones.
+E: CONT'D
+C: RON HEACOCK
+D: Was it the elephant?
+C: TERRY
+D: Yes, it was!
+E: checks card
+C: RON HEACOCK
+D: They can't jump.
+E: proud, to audience
+C: TERRY
+D: Wow. When we return, Ron and Anne will compete Head to Head! Don't go anywhere. I know I won't.
+C: GLENN
+D: ... and we're out!
+N: Leah is ushered offstage. Terry comes over to Anne.
+C: TERRY
+D: Are you ok? You seem deeply unwell.
+N: Anne manages a nod. Terry moves off. And then Anne hears--
+C: JENNY
+D: Get your hands off me! I need to get in there, it's an emergency!
+E: O.S.
+N: Jenny is with MARTY THE SECURITY GUARD. Anne hurries over.
+C: JENNY
+D: If you don't let us in, I will sue you into oblivion! He's a service dog! He keeps me from fainting!
+E: CONT'D
+N: Anne notices -- with Jenny, in a little service dog vest -- Green (06/03/2022) 94A.
+C: ANNE
+D: LINGUINI!!!
+N: She drops to her knees and holds out her arms. Mr. Linguini stands there for a second. Anne's smile falters -- has he forgotten her? But then... his TAIL WAGS. He hobbles to her.
+C: ANNE
+D: Oh Linguini I missed you so much! Thank god you got him back, there's no way I can win the money. Quick, create a distraction so I can get out of here. Do the fries thing! Pink 95.
+E: CONT'D to Jenny 05/25/2022
+N: Anne picks up Linguini and tries to bolt for the door.
+C: JENNY
+D: No. I am not letting you run away. You can do this. You know why?
+C: ANNE
+D: Because I'm strong?
+C: JENNY
+D: Because you know this game. Just like you know literally everything else. So play the same way you always have. Like a winner.
+N: A beat as Anne takes this in.
+C: GLENN
+D: Thirty seconds everybody!
+N: Anne, clutching Mr. Linguini, goes to her mark.
+C: RON HEACOCK
+D: You can't have a dog up here!
+N: Anne looks down, she forgot she was holding him.
+C: ANNE
+D: Oh, sorry, I -- You know what? I want him with me. And I don't care if that's weird. Is it okay if he's with me?
+E: then, confident then, less confident
+C: TERRY
+D: Gosh I don't know. No one's ever asked that before. Glenn, can she --
+C: GLENN
+D: No. We're live in fifteen!
+N: A PA comes to take Mr. Linguini away. Anne hesitates.
+C: JENNY
+D: Hey the Quiz Lady should have her famous Quiz dog with her, right? QUIZ DOG! QUIZ DOG! QUIZ DOG! Green 96.
+E: chanting 06/03/2022
+N: People slowly join until the audience and crew are all chanting. Glenn, SO overwhelmed and annoyed, finally snaps --
+C: GLENN
+D: Fine! The dog can stay!
+N: Everyone cheers! Jenny smiles, proud.
+C: JENNY
+D: Chanting always works.
+C: GLENN
+D: We're live!!!
+C: TERRY
+D: Welcome back! We have a special guest joining us for the Head to Head, please welcome Mr. Linguini! Hello there, sir.
+N: Terry notices the service dog vest.
+C: TERRY
+D: Oh and thank you for your service. Ron, please select Anne's first category.
+E: CONT'D
+C: RON HEACOCK
+D: Hmm. How about... Sports.
+N: He smiles at her, thinking that's her weakest category. Anne puts a hand on Mr. Linguini. She's ready.
+C: TERRY
+D: Anne, please list for us... NFL Teams with More than One Super Bowl Win! Your time. Starts. Now!
+N: Anne takes a second to collect herself, then launches into--
+C: ANNE
+D: Steelers, Patriots, 49ers, Cowboys, Giants, Packers, Broncos, Raiders, Washington, Chiefs, Colts, Rams, Ravens, Dolphins, Buccaneers.
+S: INT. SPORTS BAR - NIGHT
+N: The Phillies fans BOO every name she says, but in a way that's also clear they're rooting for Anne. Green (06/03/2022) 97.
+C: DARRYL
+D: Here we go! It's a comeback jawn!
+S: INT. CSQ STUDIO - HEAD TO HEAD MONTAGE - DAY
+C: TERRY
+D: Ron, please list for us... the Geological Eras of Earth!
+C: RON HEACOCK
+D: Cenozoic, Mesozoic, Paleozoic, Mesoproterozoic, Neoarchean, Mesoarchean, Paleoarchean...
+N: As we move through the montage, we see Anne and Ron's scores both climbing, but Anne's closing the gap!
+C: TERRY
+D: One Syllable Words with No Rhymes!
+C: ANNE
+D: Whilst, angst, cusp, breadth...
+S: INT. BEN FRANKLIN INN & SPA - NIGHT
+C: ANNE
+D: ... ninth, glimpsed, goonch, sculpts, borscht, oomph, twelfth...
+E: ON SCREEN
+C: BEN FRANKLIN
+D: Goonch. That's a new one.
+S: INT. CSQ STUDIO - HEAD TO HEAD MONTAGE - DAY
+C: TERRY
+D: Playable Characters in Mario Kart 64!
+C: RON HEACOCK
+D: Mario, Luigi, Princess Peach, Yoshi, Toad, Donkey Kong, and Bowser.
+N: EHH. Bowser is incorrect. Ron's eyes go wide, completely thrown. He was so sure that was right. Pink (05/25/2022) 98.
+S: INT. PHILLY SPORTS BAR - NIGHT
+N: The fans watch Anne list CRUCIFEROUS VEGETABLES.
+C: TERRY
+D: Cruciferous Vegetables!
+E: ON TV
+C: ANNE
+D: Broccoli, cauliflower, horseradish, kale, cabbage, kohlrabi, bok choy --
+E: ON TV
+C: JANINE
+D: YEAH QUIZ LADY! LIST THOSE VEGETABLES!
+S: INT. CSQ STUDIO - DAY
+N: Ron is flustered as he lists CLASSICAL ERA COMPOSERS.
+C: RON HEACOCK
+D: Beethoven, um, Mozart, and -- oh my god what is -- Salieri! Strauss -- Oh right, he's from the Romantic era. Which one could argue is still classical, but... Um, Beethoven -- Right I said that. Ha. Wish I had a support dog!
+E: EHH huffs, gets back into it EHH
+N: Anne flies through her final round: SIMPLE MACHINES (from the broader RENAISSANCE category) her score ticking up and up!
+C: ANNE
+D: Lever, pulley, wedge, screw, wheel and axle, inclined plane!
+C: TERRY
+D: And that's all of them! You finished with twenty-four seconds remaining, which means you get a bonus of 24,000 dollars!
+N: The audience cheers! Ron is just barely concealing his rage.
+C: TERRY
+D: I believe that's a new record! Pink 99.
+E: CONT'D 05/25/2022
+N: Terry looks to the wings, where MERCEDES stands with the ANSWER-CHECKERS, at computer monitors. She gives a thumbs up.
+C: TERRY
+D: It is! That is the highest bonus in the history of the show!
+E: CONT'D
+N: The crowd is going wild. Ron's fists are SO clenched.
+C: RON HEACOCK
+D: That's amazing! Great job!
+C: TERRY
+D: What a comeback! This is just like that classic sports film Mighty Ducks 2. Have you seen it? It's wonderful. Will the comeback continue or will another record be broken tonight by Ron winning his 84th game? It all depends on the Final Round. Time for the flip!
+N: A stagehand brings out THE COIN. Anne slowly moves towards it in sheer terror. As she does, a PA takes Mr. Linguini.
+C: TERRY
+D: Ron, you have the honors.
+E: CONT'D
+N: Ron FLIPS THE COIN. As it spins in the air, Anne prays for "Say It!" It slowly lands on... SHOW IT! Anne deflates.
+C: AUDIENCE
+D: Show It!
+E: O.S.
+N: ANGLE ON: Jenny and Francine in the audience. Jenny looks horrified. Francine has the slightest hint of a smile.
+C: FRANCINE
+D: Charades.
+C: TERRY
+D: When we return, Anne and Ron will compete in Show It!
+C: GLENN
+D: And we're out!
+N: Ron turns on Anne, triumphantly smug. Pink (05/25/2022) 100.
+C: RON HEACOCK
+D: Your booksmarts don't mean shit when you're out there in the spotlight. You're toast.
+N: He walks off. Anne starts to panic. She hurries off.
+S: INT. CSQ STUDIO - HALL OF BOWTIES - DAY
+N: Anne ducks into the hall of bowties. She bumps into Terry! They startle each other. Terry coughs --
+C: ANNE
+D: I'm so sorry! Are you okay?
+C: TERRY
+D: Yeah, just -- down the wrong pipe.
+E: coughing
+N: Anne notices he's holding a roll of NECCO WAFERS.
+C: ANNE
+D: I thought you ate crackers during the commercials.
+C: TERRY
+D: You caught me. My wife Cecilia worries about my sugar intake so I say it's crackers. Eats me up inside to lie to her but I just can't stay away from these things. They're my guilty pleasure.
+N: He eats another Necco wafer. It's so, so dry.
+C: TERRY
+D: What are you hiding from?
+E: CONT'D
+N: Anne looks at him, hesitant to admit, but...
+C: ANNE
+D: I can't do this. All these people watching and -- I'm going to lose.
+N: Anne looks so defeated. Terry looks to a bowtie on the wall.
+C: TERRY
+D: You know, every time I see this bowtie I think about one of the contestants that night, Oscar from Texas. He and I had the most wonderful conversation about how he makes his own jam. He liked to try wild combinations like blueberry rhubarb. He was like an artist, but with jam. This was the night that Aparna from New Jersey played her mandolin for us during a commercial break. That night, Mike from Maine brought me a snowball in a cooler because he remembered me saying I missed New England winters. Great guy. None of them won their games. Like most contestants, they were just here for one night. But I don't think of them as failures. I'm just glad I got to meet them. And that they got a chance to play.
+E: re: another bowtie re: another bowtie then
+N: Terry looks at Anne.
+C: TERRY
+D: Don't ruin what might be your only night here by making it all about winning or losing. Think about what you'll want to remember. For me, no matter who wins... This one will always remind me of Anne from Pennsylvania, who brought her dog.
+E: CONT'D re: his bowtie
+N: This lands on Anne. Glenn hurries in, sees Anne.
+C: GLENN
+D: There you are! We need you onstage!
+N: Terry quickly hides the Necco wafers in his pocket.
+C: TERRY
+D: Be right there! Thanks Glenn! Ready? Green 102.
+E: then, to Anne 06/03/2022
+N: Anne doesn't really nod, but she does start walking.
+S: INT. CSQ STUDIO - SET - CONTINUOUS
+N: Anne follows Glenn towards the stage, where Francine is waiting with BART. Anne passes JENNY IN THE WINGS, talking with Mercedes --
+C: JENNY
+D: -- and legally you have to allow service animals. But also it's the right thing to do. Not just for Anne but for society --
+C: MERCEDES
+D: Yeah. That's clearly a fake vest though.
+N: Anne stops.
+C: ANNE
+D: I want to change my partner.
+C: GLENN
+D: What?
+C: ANNE
+D: I want to play with my sister. Jenny!
+N: Anne waves Jenny over. Glenn calls over to Terry, who's getting final touches.
+C: GLENN
+D: Terry, can she change her partner?
+C: TERRY
+D: It's her game.
+N: Jenny comes up to Anne.
+C: JENNY
+D: You want me to guess? But I don't know anything.
+C: ANNE
+D: You know me. And win or lose, I want to do it together.
+N: They share a small smile. A nice emotional moment. Green (06/03/2022) 102A. Reveal Francine is watching them, ABSOLUTELY. LIVID.
+C: FRANCINE
+D: I came all this way...
+C: ANNE
+D: I'm sorry, Francine--
+C: GLENN
+D: Ma'am, if I could get you and the dog back to your seat. Pink 103.
+E: 05/25/2022
+N: The PA hands Linguini's leash to Francine and ushers them off. As she goes, Francine turns back --
+C: FRANCINE
+D: I hope you lose.
+C: GLENN
+D: Live in five, four, three--
+C: RON HEACOCK
+D: She can't change partners! This is so unfair, what else are you gonna do, give her all the answers --
+N: They go live, and Ron immediately stops ranting and smiles.
+C: TERRY
+D: Welcome back! I hope you enjoyed your break. Joining us for the Final Round is Ron's friend, Bart. And Anne's sister... I'm so sorry, I never got your name.
+C: JENNY
+D: Jenny.
+N: Jenny does a very influencer-y pose for the camera.
+C: TERRY
+D: Jenny. Hi I'm Terry. Ron, you and Bart are up first. Good luck.
+N: Ron and Bart take their places on stage.
+C: TERRY
+D: And your time. Starts. Now!
+E: CONT'D
+N: Ron sees his first clue: MAGNA CARTA. Ron does VERY performative pantomime as Bart methodically guesses:
+C: BART
+D: Book. Magazine. Small magazine. Zine. Mag. Shopping. Cart. King. Mag. Cart. King. Magna Carta.
+N: DING! Next clue: INTERNATIONAL SPACE STATION. Ron points up.
+C: BART
+D: Sky. Space.
+E: CONT'D
+N: Ron taps his nose. Space. He mimes telling a dog to stay.
+C: BART
+D: Dog. Stay. Space. Stay.
+E: CONT'D
+N: Ron mimes shunning someone.
+C: BART
+D: Shun. Space. Stay. Shun. International Space Station.
+E: CONT'D
+N: DING! Next clue: MOROCCO. Ron traces Africa in the air.
+C: BART
+D: Africa.
+E: CONT'D
+N: Ron points to where Morocco would be.
+C: BART
+D: Morocco.
+E: CONT'D
+N: DING! Next clue: APPLE CIDER VINEGAR. Ron mimes pulling an apple off a tree, taking a bite, then squishing it.
+C: BART
+D: Apple. Smash. Apple cider.
+E: CONT'D
+N: Ron mimes taking a sip of it and grimaces, so sour!
+C: BART
+D: Apple cider vinegar.
+E: CONT'D
+N: DING! Next clue: MARGARET THATCHER. Ron mimes digging up grass and putting it on the roof of a house. Bart watches, waiting. He's not going to guess until he knows...
+C: BART
+D: Thatched roof. Thatch.
+E: CONT'D
+N: Ron mimes the hourglass "woman" shape. Anne and Jenny look grossed out.
+C: BART
+D: Woman. Thatch. Margaret Thatcher.
+E: CONT'D
+N: END OF THE ROUND SOUND CUE.
+C: TERRY
+D: And that's time. Ron, you got five. Which brings your total to a whopping fifty-one thousand. Yellow 105.
+E: 05/27/2022
+C: RON HEACOCK
+D: YEAH!!! Heck yeah, bro!
+N: Ron tries to do a bro-handshake/hug with Bart. It's awkward.
+C: TERRY
+D: But one thing stands between you and victory. Well actually two. Anne and Jenny!
+N: Anne and Jenny take their places on stage. As Anne passes Ron, he smiles cockily at her. But then Jenny trips Ron. He almost falls but catches himself.
+C: JENNY
+D: Oh my gosh, are you okay?!
+C: TERRY
+D: Anne, Jenny. You'll need at least nine in order to win. And your time. Starts. Now!
+N: Anne looks at the audience, the cameras, Terry... all staring at her. Her nightmare. She looks at the first clue -- "STOCK MARKET". Panicking, she mimes being locked in wooden stocks.
+C: JENNY
+D: Dead? Melting!
+N: Anne feels dumb, waves it off. Tries something else. She mimes a STORK by flapping wings and then cradling a baby.
+C: JENNY
+D: Bird baby!
+E: CONT'D
+N: Anne waves it off.. Panic is setting in! But then she sees TERRY. He gives her a nod. Keep going. Anne takes a deep breath to reset. And then, gets an idea... she mimes a BORING OLD MAN. She looks INSANE.
+C: JENNY
+D: Uncle Dong?
+E: CONT'D
+N: Anne nods! She goes back into Uncle Dong mode and mimes droning on and on about something boring.
+C: JENNY
+D: The stock market! Yellow 106.
+E: CONT'D 05/27/2022
+N: Next clue: "KRISTI YAMAGUCHI". Anne points at Jenny, mimes desperately praying, then does a figure skating flourish.
+C: JENNY
+D: Kristi Yamaguchi!!!
+E: CONT'D
+N: Next clue: KETCHUP. Anne points at Jenny and mimes a martial arts kick.
+C: JENNY
+D: KETCHUP!
+E: CONT'D
+C: RON HEACOCK
+D: How is that ketchup???
+N: DING! Next clue: THE BEATLES. Anne points at Jenny and mimes being confused, like "this isn't good", does a thumbs down.
+C: JENNY
+D: Me! What? Bad! The Beatles!!
+N: DING! Next clue: GLUESTICK. Anne points at herself and mimes putting on chapstick and not being able to open her mouth.
+C: JENNY
+D: Gluestick!
+E: CONT'D
+N: DING! Next clue: CHEESECAKE. Anne mimes: "me? No. You? Oh hell yeah"
+C: JENNY
+D: You no me oh hell yeah cheesecake!
+E: CONT'D
+N: Ron is flabbergasted -- how are they doing this?! He looks to Bart, like "can you believe this??" but Bart is just intently studying them, trying to figure out how they're so good. Next clue: SHADOW. Anne looks sad and holds up her hand as if she's a dog with a hurt paw.
+C: JENNY
+D: The sad old dog from Homeward Bound! Shadow!
+E: CONT'D
+N: DING! Next clue: TAKING OUT THE TRASH. Anne just heavily sighs. Jenny, instantly --
+C: JENNY
+D: Taking out the trash!
+E: CONT'D
+N: DING! Next clue: HERO. Anne does a SUPERHERO POSE. Yellow (05/27/2022) 106A.
+C: JENNY
+D: Wonder Woman! Catwoman! Marvel Woman!
+E: CONT'D
+N: Anne mimes like: "overarching" Green (06/03/2022) 107.
+C: JENNY
+D: Umbrella woman! Umbrella man! Umbrella boy!!
+E: CONT'D
+N: Anne panics, the clock is ticking!!! Suddenly, Anne gets an idea! She mimes digging a hole and squatting over it.
+C: JENNY
+D: Shit in a hole?
+E: CONT'D
+C: TERRY
+D: Oops, no swearing!
+C: JENNY
+D: Shoot! Shoot in a hole!
+N: Anne mimes: "not me. You!"
+C: JENNY
+D: Embarrassed! Starbucks! TANKINI!
+E: CONT'D
+N: Anne panics -- time is almost out!! She gets down, makes herself look small and scared, then points at Jenny, and steps in front of "little kid Anne", posing like a superhero. Jenny realizes what the word is. It means so, so much to her.
+C: JENNY
+D: Hero?
+E: CONT'D
+N: Anne looks at her. Yeah. Hero. THE END OF ROUND BUZZER SOUNDS! The crowd goes wild!! Except for Francine, who is still livid.
+S: INT. SPORTS BAR - NIGHT
+N: The Phillies fans, Darryl, and Janine GO CRAZY!
+S: INT. BEN FRANKLIN INN & SPA - TAVERN - NIGHT
+N: Ben Franklin, watching the show on his iPhone, CHEERS!
+S: INT. SOME BAR IN DOWNTOWN PITTSBURGH - NIGHT
+N: The whole bar goes crazy celebrating Anne's win! Trav and Marge cheer with them. Trav sidles up to a WOMAN. Pink (05/25/2022) 108.
+C: TRAV
+D: You know that Quiz Lady is my best friend. We eat lunch together.
+S: INT. CSQ STUDIO - DAY
+N: Terry comes on stage to join Anne and Jenny.
+C: TERRY
+D: Well folks, we have a new champion--
+C: RON HEACOCK
+D: No no no no no NO! She cheated! She brought a dog, she changed partners, they used some like ancient Chinese mindmeld--
+C: JENNY
+D: Actual racism.
+E: gasp, to herself
+C: TERRY
+D: None of that is against the rules. You could've changed your partner.
+C: RON HEACOCK
+D: Oh yeah I'm gonna pay Bart to be here and not use him. Just admit it, Terry. You wanted me to lose. You've always been threatened by me!! Because I'm young and exciting and you're just a boring old man!!
+E: sarcastic
+N: EVERYONE GASPS. Terry stares at Ron for a moment.
+C: TERRY
+D: Buzz off, Ron.
+N: People are stunned! Terry smiles confidently at the camera.
+C: TERRY
+D: Would a boring old man say that? Congratulations Anne, you're our new Quiz champion!
+E: CONT'D
+N: The audience rushes the stage! PAs try to hold them back, but then give up, swept up in joy. Bart ushers Ron off -- Green (06/03/2022) 108A.
+C: RON HEACOCK
+D: This was supposed to be my night!
+N: As the crowd surrounds Anne, Ron notices a KIND OLDER WOMAN (maybe his mom?) in the wings holding up a RON WON t-shirt. He snatches it out of her hands.
+C: RON HEACOCK
+D: Get this out of here! Weren't you paying attention?! I lost! It's over!
+E: CONT'D
+N: He cries into the t-shirt, getting make-up all over it. On stage, Jenny starts a chant:
+C: JENNY
+D: Anne! Anne! Anne!
+N: Everyone joins in! Terry, delighted by it, yells over them:
+C: TERRY
+D: Join us tomorrow for another night of fast facts and live learning! I'm Terry McTeer and I'll be right--
+N: He tries to jump to his mark, but Anne's fans are in the way. Terry laughs, kind of shrugs.
+C: TERRY
+D: Here. Have a good night!
+E: CONT'D
+N: Terry looks at Anne, surrounded by her fans. Mr. Linguini is hoisted in the air. He smiles at her. Anne grins back.
+S: EXT. STUDIO LOT - DAY
+N: Jenny, Anne, Mr. Linguini, and Francine walk out from set.
+C: JENNY
+D: You did it!!!
+C: ANNE
+D: We did it.
+C: FRANCINE
+D: You bring me all this way, on the promise that I might get to play charades. And it was all A LIE!!!
+C: JENNY
+D: If you're gonna be this miserable, can you just die? You're ruining her moment!
+C: FRANCINE
+D: Moment. Pff. Look at the two of you, running around, searching for happiness. It's deranged. Just accept the fact that nothing will ever make your life better, because life is, and will always be --
+N: Francine notices something off-screen. Her eyes go WIDE, filled with REMARKABLE JOY.
+C: FRANCINE
+D: -- a miracle. Pink 110.
+E: CONT'D 05/25/2022
+N: Anne and Jenny follow her gaze and see -- PAUL REUBENS. Driving a golf cart. He's glistening in the sunlight like a golden god. Anne steps in front of the golf cart, forcing it to stop.
+C: ANNE
+D: Hi! Scuse me. Sorry to bother you, but she is a huge fan.
+N: She gestures to Francine, who is nearly catatonic.
+C: PAUL REUBENS
+D: I love that story!
+C: JENNY
+D: Maybe you could give her a ride in your golf cart?
+N: He's hesitant. Anne sidles up to him.
+C: ANNE
+D: Please? She's only got a month to live. She has a rare disease where her intestines grow like an invasive weed--
+C: PAUL REUBENS
+D: Alright, alright. Hop on.
+C: ANNE
+D: And she thinks you're Alan Cumming so just play along. He's Scottish.
+E: quickly
+N: Francine is already in the cart, so he has no choice.
+C: FRANCINE
+D: You're excellent in The Good Wife. Excellent.
+C: PAUL REUBENS
+D: Oh what a bonnie lass. Thank ye for the bloody wonderful praise.
+E: the best Scottish accent he can muster
+N: Jenny and Anne watch the cart drive off. Blue (05/18/2022) 111.
+S: EXT. PARKING GARAGE ROOFTOP - MAGIC HOUR
+N: Jenny, Anne, Mr. Linguini, walk to Anne's RENTAL CAR, parked on the roof. Jenny notices the panoramic view of Los Angeles.
+C: JENNY
+D: Look at it. It's so beautiful.
+N: Anne joins Jenny by the ledge, taking in the view.
+C: JENNY
+D: Where's Burbank from here?
+E: CONT'D
+C: ANNE
+D: Over there. By the mountains.
+C: JENNY
+D: Wow.
+N: A beat as Jenny takes in the view.
+C: JENNY
+D: I always thought my destiny was out there.
+E: CONT'D
+C: ANNE
+D: Maybe it is.
+C: JENNY
+D: Nah. It's just Burbank.
+N: A beat.
+C: JENNY
+D: I shouldn't have left you alone with Mom.
+E: CONT'D
+C: ANNE
+D: I'm sorry I ruined our chance of living with the cool cousins.
+C: JENNY
+D: It wasn't your fault. They always thought we were the losers of the family.
+C: ANNE
+D: Well we sort of were.
+C: JENNY
+D: Not today. Pink 112.
+E: 05/25/2022
+N: They smile at each other. A nice moment.
+C: ANNE
+D: I love you, Jenny.
+C: JENNY
+D: I love you too.
+N: They hug. As they walk back to Anne's car...
+C: ANNE
+D: You know, I'm gonna have to stay out here for a little while.
+C: JENNY
+D: Ooh, it's giving confidence.
+C: ANNE
+D: Want to stay with me? We make a pretty good team.
+C: JENNY
+D: Yeah we do. I can coordinate our outfits! I have the most amazing sleeveless chartreuse blazer, it would look so good on you.
+E: gasp
+C: ANNE
+D: I am not wearing that.
+C: JENNY
+D: At least try it on.
+C: ANNE
+D: Nothing chartreuse is going on my body. Ever.
+N: As they continue their now light-hearted, loving sisterly bickering... text appears on screen: Anne went on to win 93 games, making her the longest running Quiz Champion in history.
+S: INT. CSQ STUDIO - DAY
+N: Immediately following Anne's win, with everyone celebrating. We find Ron Heacock and FREEZE FRAME on him ugly-crying. Pink (05/25/2022) 112A. TEXT: Ron Heacock's public meltdown served as a wake up call and he started going to therapy. It's been really great for him! He's a much better person now. Pink (05/25/2022) 113. We FREEZE FRAME on Bart, trying to calm Ron down. TEXT: Bart returned to his job as a codebreaker for the CIA, where, small world, his co-worker is Jenny's ex-boyfriend Chad!
+S: INT. CSQ STUDIO - DAY
+N: FREEZE on Mr. Linguini hoisted in the air during the celebration of Anne's win. Mr. Linguini became a social media star, and he makes hundreds of thousands of dollars per sponsored post. This makes him richer than most families and proves that capitalism has maybe gone too far.
+C: 123A 123A
+D: INT. CSQ STUDIO - HALL OF BOWTIES - DAY
+N: Terry and Anne are in the hallway, hanging up the bowtie from Anne's first game. Terry lets Anne do the honors. Terry and Anne became good friends. He even gave her the honors of hanging her first bowtie. Anne struggles to reach the spot where it's supposed to hang. Terry has to step in to help. Or he tried to, at least.
+S: EXT. STUDIO LOT - DAY
+N: We FREEZE ON Francine riding with Paul Reubens. Oh, right, Francine! She died. Happy.
+S: INT. FANCY CORPORATE CONFERENCE ROOM - DAY
+N: We see JENNY, HER SKETCHY LAWYER, and ONE VERY ANNOYED FANCY LAWYER in a fancy corporate conference room holding an ENORMOUS NOVELTY CHOOCHIE'S CHECK, posing for a photo. Jenny finally got her Choochie's check! It was for truly an obscene amount of money. We see the amount on the check is BLURRED.
+S: INT. SPORTS BAR - NIGHT
+N: We FREEZE FRAME on a RANDOM GUY from the Philly sports bar scene. This guy turned out to be a murderer!
+S: INT. CHOSEN FAMILY CANINE RESCUE - BACK ROOM - DAY
+N: Ken opens an envelope. Jenny stayed true to her word and paid double what her mom owed. She even threw in a lifetime supply of free Choochie's. Ken holds up a SPARKLING RED CREDIT CARD. Pink (05/25/2022) 113A.
+S: INT. CHOOCHIE'S - DAY
+N: Ken and his guys at a booth in Choochie's. They eat lunch there every day now. And they all get fajitas. Which are great! But it's hard when EVERYONE gets them, you know? Waiters struggle to place down several sizzling pans. Ken's guys try to make room, but there just isn't enough space. Green (06/03/2022) 114.
+S: INT. BEN FRANKLIN INN & SPA - DAY
+N: Ben Franklin, using a quill pen, smiling with perfect teeth. Ben Franklin got his braces off and was able to live full time as a period-accurate Ben Franklin. He even stopped using phones and computers. That's all Tina's job now. We see, behind Ben Franklin, Tina is on the phone.
+S: INT. CSQ STUDIO - DAY
+N: FREEZE FRAME on Terry telling Ron to buzz off. Terry's "buzz off, Ron" became a wildly popular meme and cemented Terry as a cultural icon.
+S: EXT. BEAUTIFUL CALIFORNIA MANSION - DAY
+N: We find Jenny, in a tankini, lounging by a POOL. Jenny used (some of) her Choochie's money to buy a house in California. REVEAL Jenny's house is an insanely opulent ENORMOUS GAUDY MANSION. And she bought a matching one... We find a SMALLER VERSION OF THE SAME MANSION. For Mr. Linguini. REVEAL: Mr. Linguini is asleep inside/out front. Anne has her own guest wing at Jenny's. We find Anne reading in the garden. A UNIFORMED BUTLER brings Jenny a spa water. Jenny sits up to drink it and waves to Anne. Anne waves back. And Anne got a job where she's appreciated.
+S: EXT. STUDIO LOT - DAY
+N: Anne walks into a bungalow, past a sign: QUIZ WRITERS.
+S: INT. ANNE'S CSQ OFFICE - DAY
+N: Anne, at her computer, in the zone as she writes questions. On her desk, a FRAMED PHOTO of her and Jenny, grinning on the set of CSQ, right after Anne won her first game. THE END

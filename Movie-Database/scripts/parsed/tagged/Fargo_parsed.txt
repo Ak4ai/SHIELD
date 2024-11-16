@@ -1,0 +1,2158 @@
+M: FARGO
+M: a screenplay by
+M: Ethan Coen
+M: and
+M: Joel Coen
+M: The following text fades in over black:
+N: This is a true story. The events depicted in this film took place in Minnesota in 1987. At the request of the survivors, the names have been changed. Out of respect for the dead, the rest has been told exactly as it occured. FLARE TO WHITE
+T: FADE IN FROM WHITE
+N: Slowly the white becomes a barely perceptible image: white particles wave over a white background. A snowfall. A car bursts through the curtain of snow. The car is equipped with a hitch and is towing another car, a brand-new light brown Cutlass Ciera with the pink sales sticker showing in its rear window. As the car roars past, leaving snow swirling in their dirft, the title of the film fades in. FARGO Green highway signs point the way to MOOREHEAD, MINNESOTA/FARGO, NORTH DAKOTA. The roads for the two cities diverge. A sign says WELCOME TO NORTH DAKOTA and another just after says NOW ENTERING FARGO, ND, POP. 44,412. The car pulls into a Rodeway Inn. HOTEL LOBBY A man in his early forties, balding and starting to paunch, goes to the reception desk. The clerk is an older woman.
+C: CLERK
+D: And how are you today, sir?
+C: MAN
+D: Real good now. I'm checking in - Mr. Anderson.
+N: The man prints "Jerry Lundega" onto a registration card, then hastily crosses out the last name and starts to print "Anderson." As she types into a computer:
+C: CLERK
+D: Okay, Mr. Anderson, and you're still planning on staying with us just the night, then?
+C: ANDERSON
+D: You bet.
+N: HOTEL ROOM The man turns on the TV, which shows the local evening news.
+C: NEWS ANCHOR
+D: - whether they will go to summer camp at all. Katie Jensen has more.
+C: KATIE
+D: It was supposed to be a project funded by the city council; it was supposed to benefit those Fargo-Moorehead children who would otherwise not be able to afford to attend a lakeshore summer camp. But nobody consulted city controller Stu Jacobson...
+N: CHAIN RESTAURANT Anderson sits alone at a table finishing dinner. Muzak plays. A middle-aged waitress approaches holding a pot of regular coffee in one hand and decaf in the other.
+C: WAITRESS
+D: Can I warm that up for ya there?
+C: ANDERSON
+D: You bet.
+N: The man looks at his watch. THROUGH A WINDSHIELD We are pulling into the snowswept parking lot of a one-story brick building. Broken neon at the top of the building identifies it as the Jolly Troll Tavern. A troll, also in neon, holds a champagne glass aloft. INSIDE The bar is downscale even for this town. Country music plays on the jukebox. Two men are seated in a booth at the back. One is short, slight, youngish. The other man is somewhat older, and dour. The table in front of them is littered with empty long-neck beer bottles. The ashtray is full. Anderson approaches.
+C: ANDERSON
+D: I'm, uh, Jerry Lundegaard -
+C: YOUNGER MAN
+D: You're Jerry Lundegaard?
+C: JERRY
+D: Yah, Shep Proudfoot said -
+C: YOUNGER MAN
+D: Shep said you'd be here at 7:30. What gives, man?
+C: JERRY
+D: Shep said 8:30.
+C: YOUNGER MAN
+D: We been sitting here an hour. I've peed three times already.
+C: JERRY
+D: I'm sure sorry. I - Shep told me 8:30. It was a mix-up, I guess.
+C: YOUNGER MAN
+D: Ya got the car?
+C: JERRY
+D: Yah, you bet. It's in the lot there. Brand-new burnt umber Ciera.
+C: YOUNGER MAN
+D: Yeah, okay. Well, siddown then. I'm Carl Showalter and this is my associate Gaear Grimsrud.
+C: JERRY
+D: Yah, how ya doin'. So, uh, we all set on this thing, then?
+C: YOUNGER MAN
+D: Sure, Jerry, we're all set. Why wouldn't we be?
+C: JERRY
+D: Yah, no, I'm sure you are. Shep vouched for you and all. I got every confidence in you fellas.
+N: They stare at him. An awkward beat.
+C: JERRY
+D: ... So I guess that's it, then. Here's the keys -
+C: CARL
+D: No, that's not it, Jerry.
+C: JERRY
+D: Huh?
+C: CARL
+D: The new vehicle, plus forty thousand dollars.
+C: JERRY
+D: Yah, but the deal was, the car first, see, then the forty thousand, like as if it was the ransom. I thought Shep told you -
+C: CARL
+D: Shep didn't tell us much, Jerry.
+C: JERRY
+D: Well, okay, it's -
+C: CARL
+D: Except that you were gonna be here at 7:30.
+C: JERRY
+D: Yah, well, that was a mix-up, then.
+C: CARL
+D: Yeah, you already said that.
+C: JERRY
+D: Yah. But it's not a whole pay- in-advance deal. I give you a brand-new vehicle in advance and -
+C: CARL
+D: I'm not gonna debate you, Jerry.
+C: JERRY
+D: Okay.
+C: CARL
+D: I'm not gonna sit here and debate. I will say this though: what Shep told us didn't make a whole lot of sense.
+C: JERRY
+D: Oh, no, it's real sound. It's all worked out.
+C: CARL
+D: You want your own wife kidnapped?
+C: JERRY
+D: Yah.
+N: Carl Stares. Jerry looks blankly back.
+C: CARL
+D: ... You - my point is, you pay the ransom - what eighty thousand bucks? - I mean, you give us half the ransom, forty thousand, you keep half. It's like robbing Peter to play Paul, it doesn't make any -
+C: JERRY
+D: Okay, it's - see, it's not me payin' the ransom. The thing is, my wife, she's wealthy - her dad, he's real well off. Now, I'm in a bit of trouble -
+C: CARL
+D: What kind of trouble are you in, Jerry?
+C: JERRY
+D: Well, that's, that's, I'm not go inta, inta - see, I just need money. Now, her dad's real wealthy -
+C: CARL
+D: So why don't you just ask him for the money?
+N: Grimsrud, the dour man who has not yet spoken, now softly puts in with a Swedish-accented voice:
+C: GRIMSRUD
+D: Or your fucking wife, you know.
+C: CARL
+D: Or your fucking wife, Jerry.
+C: JERRY
+D: Well, it's all just part of this - they don't know I need it, see. Okay, so there's that. And even if they did, I wouldn't get it. So there's that on top, then. See, these're personal matters.
+C: CARL
+D: Personal matters.
+C: JERRY
+D: Yah. Personal matters that needn't, uh -
+C: CARL
+D: Okay, Jerry. You're tasking us to perform this mission, but you, you won't, uh, you won't - aw, fuck it, let's take a look at that Ciera.
+N: MINNEAPOLIS SUBURBAN HOUSE Jerry enters through the kitchen door, in a parka and a red plaid Elmer Fudd hat. He stamps snow off his feet. He is carrying a bag of groceries which he deposits on the kitchen counter.
+C: JERRY
+D: Hon? Got the growshries.
+C: VOICE
+D: Thank you, hon. How's Fargo?
+C: JERRY
+D: Yah, real good.
+C: VOICE
+D: Dad's here.
+N: DEN Jerry enters, pulling off his plaid cap.
+C: JERRY
+D: How ya doin', Wade?
+N: Wade Gustafson is mid-sixtyish, vigorous, with a full head of gray hair. His eyes remain fixed on the TV.
+C: WADE
+D: Yah, pretty good.
+C: JERRY
+D: Whatcha watchin' there?
+C: WADE
+D: Norstars.
+C: JERRY
+D: ... Who they playin'?
+C: WADE
+D: OOOoooh!
+N: His reaction synchronizes with a reaction from the crowd. KITCHEN Jerry walks back in, taking off his coat. His wife is putting on an apron. Jerry nods toward the living room.
+C: JERRY
+D: Is he stayin' for supper, then?
+C: WIFE
+D: Yah, I think so... Dad, are you stayin' for supper?
+C: WADE
+D: Yah.
+E: off
+N: DINING ROOM Jerry, his wife, Wade and Scotty, twelve years old, sit eating.
+C: SCOTTY
+D: May I be excused?
+C: JERRY
+D: Sure, ya done there?
+C: SCOTTY
+D: Uh-huh. Goin' out.
+C: WIFE
+D: Where are you going?
+C: SCOTTY
+D: Just out. Just McDonald's.
+C: JERRY
+D: Back at 9:30.
+C: SCOTTY
+D: Okay.
+C: WADE
+D: He just ate. And he didn't finish. He's going to McDonald's instead of finishing here?
+C: WIFE
+D: He sees his friends there. It's okay.
+C: WADE
+D: It's okay? McDonald's? What do you think they do there? They don't drink milkshakes, I assure you!
+C: WIFE
+D: It's okay, Dad.
+C: JERRY
+D: Wade, have ya had a chance to think about, uh, that deal I was talkin' about, those forty acres there on Wayzata?
+C: WADE
+D: You told me about it.
+C: JERRY
+D: Yah, you said you'd have a think about it. I understand it's a lot of money -
+C: WADE
+D: A heck of a lot. What'd you say you were gonna put there?
+C: JERRY
+D: A lot. It's a limited -
+C: WADE
+D: I know it's a lot.
+C: JERRY
+D: I mean a parking lot.
+C: WADE
+D: Yah, well, seven hundred and fifty thousand dollars is a lot - ha ha ha!
+C: JERRY
+D: Yah, well, it's a chunk, but -
+C: WADE
+D: I thought you were gonna show it to Stan Grossman. He passes on this stuff before it gets kicked up to me.
+C: JERRY
+D: Well, you know Stan'll say no dice. That's why you pay him. I'm asking you here, Wade. This could work out real good for me and Jean and Scotty -
+C: WADE
+D: Jean and Scotty never have to worry.
+N: WHITE A black like curls through the white. Twisting perspective shows that it is an aerial shot of a two-lane highway, bordered by snowfields. The highway carries one moving car.
+S: INT. CAR
+N: Carl Showalter is driving. Gaear Grimsrud stares blankly out. After a long beat:
+C: GRIMSRUD
+D: Where is Pancakes Hause?
+C: CARL
+D: What?
+C: GRIMSRUD
+D: We stop at Pancakes Hause.
+C: CARL
+D: What're you, nuts? We had pancakes for breakfast. I gotta go somewhere I can get a shot and a beer - and a steak maybe. Not more fuckin' pancakes. Come on.
+N: Grimsrud gives him a sour look.
+C: CARL
+D: ... Come on, man. Okay, here's an idea. We'll stop outside of Brainerd. I know a place there we can get laid. Wuddya think?
+C: GRIMSRUD
+D: I'm fuckin' hungry now, you know.
+C: CARL
+D: Yeah, yeah, Jesus - I'm sayin', we'll stop for pancakes, then we'll get laid. Wuddya think?
+N: GUSTAFSON OLDS GARAGE Jerry is sitting in his glassed-in salesman's cubicle just off the showroom floor. On the other side of his desk sit an irate customer and his wife.
+C: CUSTOMER
+D: We sat here right in this room and went over this and over this!
+C: JERRY
+D: Yah, but that TruCoat -
+C: CUSTOMER
+D: I sat right here and said I didn't want no TruCoat!
+C: JERRY
+D: Yah, but I'm sayin', that TruCoat, you don't get it and you get oxidization problems. It'll cost you a heck of lot more'n five hunnert -
+C: CUSTOMER
+D: You're sittin' here, you're talkin' in circles! You're talkin' like we didn't go over this already!
+C: JERRY
+D: Yah, but this TruCoat -
+C: CUSTOMER
+D: We had us a deal here for nine- teen-five. You sat there and darned if you didn't tell me you'd get this car, these options, WITHOUT THE SEALANT, for nine- teen-five!
+C: JERRY
+D: Okay, I'm not sayin' I didn't -
+C: CUSTOMER
+D: You called me twenty minutes ago and said you had it! Ready to make delivery, ya says! Come on down and get it! And here ya are and you're wastin' my time and you're wastin' my wife's time and I'm payin' nineteen-five for this vehicle here!
+C: JERRY
+D: Well, okay, I'll talk to my boss...
+N: He rises, and, as he leaves:
+C: JERRY
+D: ... See, they install that TruCoat at the factory, there's nothin' we can do, but I'll talk to my boss.
+N: The couple watch him go to a nearby cubicle.
+C: CUSTOMER
+D: These guys here - these guys! It's always the same! It's always more! He's a liar!
+C: WIFE
+D: Please, dear.
+C: CUSTOMER
+D: We went over this and over this -
+N: NEARBY CUBICLE Jerry sits perched on the desk of another salesman who is eating lunch as he watches a hockey game on a small portable TV.
+C: JERRY
+D: So you're goin' to the Gophers on Sunday?
+C: SALESMAN
+D: You bet.
+C: JERRY
+D: You wouldn't have an extra ticket there?
+C: SALESMAN
+D: They're playin' the Buckeyes!
+C: JERRY
+D: Yah.
+C: SALESMAN
+D: Ya kiddin'!
+N: JERRY'S CUBICLE Jerry re-enters.
+C: JERRY
+D: Well, he never done this before, but seein' as it's special circumstances and all, he says I can knock one hunnert off that TruCoat.
+C: CUSTOMER
+D: One hundred! You lied to me, Mr. Lundegaard. You're a bald-faced liar!
+N: Jerry sits staring at his lap.
+C: CUSTOMER
+D: ... A fucking liar -
+C: WIFE
+D: Bucky, please!
+N: Jerry mumbles into his lap:
+C: JERRY
+D: One hunnert's the best we can do here.
+C: CUSTOMER
+D: Oh, for Christ's sake, where's my goddamn checkbook. Let's get this over with.
+N: WIDE EXTERIOR: TRUCK STOP There is a restaurant with many big rigs parked nearby, and a motel with an outsize Paul Bunyan and Babe the Blue Ox flanking its sign: BLUE OX MOTEL. MOTEL ROOM Carl Showalter and Gaear Grimsrud are in the twin beds having sex with two truck-stop hookers.
+C: CARL
+D: Oh, Jesus, yeah.
+C: HIS HOOKER
+D: There ya go, sugar.
+C: GRIMSRUD
+D: Nnph.
+C: HIS HOOKER
+D: Yeah. Yeah. Oh, yeah.
+N: LATER The couples like in their respective beds, gazing at the offscreen TV.
+C: ED MCMAHON
+D: - Johnny's guests tonight will be Lee Majors, George Wendt, and Steve Boutsikaros from the San Diego Zoo, so keep that dial -
+N: LUNDEGAARD KITCHEN We hear a morning show on television. Jean Lundegaard is making coffee in the kitchen as Scott eats cereal at the table.
+C: JEAN
+D: I'm talkin' about your potential.
+C: SCOTT
+D: Uh-huh.
+E: absently
+C: JEAN
+D: You're not a C student.
+C: SCOTT
+D: Uhn.
+C: JEAN
+D: And yet you're gettin' C grades. It's this disparity there that concerns your dad and me.
+C: SCOTT
+D: Uh-huh.
+C: JEAN
+D: You know what a disparity is?
+C: SCOTT
+D: Yeah!
+E: testily
+C: JEAN
+D: Okay. Well, that's why we don't want ya goin' out fer hockey.
+C: SCOTT
+D: Oh, man!
+N: The phone rings.
+C: SCOTT
+D: ... What's the big deal? It's an hour -
+C: JEAN
+D: Hold on.
+N: She picks up the phone.
+C: JEAN
+D: ... Hello?
+C: PHONE VOICE
+D: Yah, hiya, hon.
+C: JEAN
+D: Oh, hiya, Dad.
+C: WADE
+D: Jerry around?
+C: JEAN
+D: Yah, he's still here - I'll catch him for ya.
+N: She holds the phone away and calls:
+C: JEAN
+D: ... Hon?
+C: VOICE
+D: Yah.
+C: JEAN
+D: It's Dad.
+C: VOICE
+D: Yah...
+N: Jerry enters in shirtsleeves and tie.
+C: JERRY
+D: ... Yah, okay...
+C: SCOTT
+D: Look, Dad, there is no fucking way -
+C: JEAN
+D: Scott!
+C: JERRY
+D: Say, let's watch the language -
+N: He takes the phone.
+C: JERRY
+D: How ya doin', Wade?
+C: WADE
+D: What's goin' on there?
+C: JERRY
+D: Oh, nothing, Wade. How ya doin' there?
+C: WADE
+D: Stan Grossman looked at your proposal. Says it's pretty sweet.
+C: JERRY
+D: No kiddin'?
+C: WADE
+D: We might be innarested.
+C: JERRY
+D: No kiddin'! I'd need the cash pretty quick there. In order to close the deal.
+C: WADE
+D: Come by at 2:30 and we'll talk about it. If your numbers are right, Stan says its pretty sweet. Stan Grossman.
+C: JERRY
+D: Yah.
+N: WADE Click. Dial tone.
+C: JERRY
+D: Yah, okay.
+N: GUSTAFSON OLD GARAGE Jerry wanders through the service area where cars are being worked on. He stops by an Indian in blue jeans who is looking at the underside of a car that sits on a hydraulic lift with a cage light hanging off its innards.
+C: JERRY
+D: Say, Shep, how ya doin' there?
+C: SHEP
+D: Mm.
+C: JERRY
+D: Say, ya know those two fellas ya put me in touch with, up there in Fargo?
+C: SHEP
+D: Put you in touch with Grimsrud.
+C: JERRY
+D: Well, yah, but he had a buddy there. He, uh -
+C: SHEP
+D: Well, I don't vouch for him.
+C: JERRY
+D: Well, that's okay, I just -
+C: SHEP
+D: I vouch for Grimsrud. Who's his buddy?
+C: JERRY
+D: Carl somethin'?
+C: SHEP
+D: Never heard of him. Don't vouch for him.
+C: JERRY
+D: Well, that's okay, he's a buddy of the guy ya vouched for, so I'm not worryin'. I just, I was wonderin', see, I gotta get in touch with 'em for, I might not need it anymore, sumpn's happenin', see -
+C: SHEP
+D: Call 'em up.
+C: JERRY
+D: Yah, well, see, I did that, and I haven't been able to get 'em, so I thought you maybe'd know an alternate number or what have ya.
+C: SHEP
+D: Nope.
+N: Jerry slaps his fist into his open palm and snaps his fingers.
+C: JERRY
+D: Okay, well, real good, then.
+N: CAR Carl is driving. Grimsrud stares out front. After a beat:
+C: CARL
+D: ... Look at that. Twin Cities. IDS Building, the big glass one. Tallest skyscraper in the Midwest. After the Sears, uh, Chicago... You never been to Minneapolis?
+C: GRIMSRUD
+D: No.
+C: CARL
+D: ... Would it kill you to say something?
+C: GRIMSRUD
+D: I did.
+C: CARL
+D: "No." First thing you've said in the last four hours. That's a, that's a fountain of conversation, man. That's a geyser. I mean, whoa, daddy, stand back, man. Shit, I'm sittin' here driving, man, doin' all the driving, whole fuckin' way from Brainerd, drivin', tryin' to, you know, tryin' to chat, keep our spirits up, fight the boredom of the road, and you can't say one fucking thing just in the way of conversation.
+N: Grimsurd smokes, gazing out the window.
+C: CARL
+D: ... Well, fuck it, I don't have to talk either, man. See how you like it...
+N: He drives.
+C: CARL
+D: ... Total silence...
+N: JERRY'S CUBICLE He is on the phone.
+C: JERRY
+D: Yah, real good. How you doin'?
+C: VOICE
+D: Pretty good, Mr. Lundegaard. You're damned hard to get on the phone.
+C: JERRY
+D: Yah, it's pretty darned busy here, but that's the way we like it.
+C: VOICE
+D: That's for sure. Now, I just need, on these last, these financing documents you sent us, I can't read the serial numbers of the vehicles on here, so I -
+C: JERRY
+D: But I already got the, it's okay, the loans are in place, I already got the, the what, the -
+C: VOICE
+D: Yeah, the three hundred and twenty thousand dollars, you got the money last month.
+C: JERRY
+D: Yah, so we're all set.
+C: VOICE
+D: Yeah, but the vehicles you were borrowing on, I just can't read the serial numbers on your applicaton. Maybe if you could just read them to me -
+C: JERRY
+D: But the deal's already done, I already got the money -
+C: VOICE
+D: Yeah, but we have an audit here, I just have to know that these vehicles you're financing with this money, that they really exist.
+C: JERRY
+D: Yah, well, they exist all right.
+C: VOICE
+D: I'm sure they do - ha ha! But I can't read their serial numbers here. So if you could read me -
+C: JERRY
+D: Well, but see, I don't have 'em in front a me - why don't I just fax you over a copy -
+C: VOICE
+D: No, fax is no good, that's what I have and I can't read the darn thing -
+C: JERRY
+D: Yah, okay, I'll have my girl send you over a copy, then.
+C: VOICE
+D: Okay, because if I can't correlate this note with the specific vehicles, then I gotta call back that money -
+C: JERRY
+D: Yah, how much money was that?
+C: VOICE
+D: Three hundred and twenty thousand dollars. See, I gotta correlate that money with the cars it's being lent on.
+C: JERRY
+D: Yah, no problem, I'll just fax that over to ya, then.
+C: VOICE
+D: No, no, fax is -
+C: JERRY
+D: I mean send it over. I'll shoot it right over to ya.
+C: VOICE
+D: Okay.
+C: JERRY
+D: Okay, real good, then.
+N: CLOSE ON TELEVISION A morning-show host in an apron stands behind a counter on a kitchen set.
+C: HOST
+D: So I seperate the - how the heck do I get the egg out of the shell without breaking it?
+N: Jean Lundegaard is curled up on the couch with a cup of coffee, watching the television.
+C: HOSTESS
+D: You just prick a little hole in the end and blow!
+N: Jean smiles as we hear laughter and applause from the studio audience. She hears something else - a faint scraping sound - and looks up.
+C: HOST
+D: Okay, here goes nothing.
+N: The scraping sound persists. Jean sets down her coffee cup and rises. From the studio audience:
+C: AUDIENCE
+D: Awoooo!
+N: KITCHEN We track toward the back door. A curtain is stretched tight across its window. Jean pulls the curtain back. Bright sunlight amplified by snow floods in. A man in an orange ski mask looks up from the lock. Jean gasps, drops the curtain, rutns and runs into - - a taller man, also in a ski mask, already in the house. We hear the crack of the back-door window being smashed. The tall man - Gaear Grimsrud - grabs Jean's wrist. She screams, staring at her own imprisoned wrist, then wraps her gaping mouth around Grimsrud's gloved thumb and bites down hard. He drops her wrist. As Carl enters, she races up the stairs.
+C: GRIMSRUD
+D: Unguent.
+C: CARL
+D: Huh?
+N: Grimsurd looks at his thumb.
+C: GRIMSRUD
+D: I need ... unguent.
+N: UPSTAIRS BEDROOM As the two men enter, a door at the far side is slamming shut. A cord snakes in under the door. MASTER BATHROOM Jean, sobbing, frantically pushes at buttons on the princess phone. The phone pops out of her hands, jangles across the tile floor, smashes against the door and then bounces away, its cord ripped free. With a groaning sound, the door shifts in its frame. BEDROOM Grimsrud has a crowbar jammed in between the bathroom door and frame, and is working it. BATHROOM Jean crosses to a high window above the toilet and throws it open. Snow that had drifted against the window sifts lightly in. Jean steps up onto the toilet. The door creaks, moving as one piece in its frame. Jean glances back as she steps up from the toilet seat to the tank. The groaning of the door ends with the wood around its knob splintering and the knob itself falling out onto the floor. The door swings open. Grimsrud and Carl enter. THEIR POV Room empty, window open. Carl strides to the window and hoists himself out. Grimsrud opens the medicine cabinet and delicately taps aside various bottles and tubes, seeking the proper unguent. He finds a salve but after a moment sets it down, noticing something in the mirror. The shower curtain is drawn around the tub. He steps toward it. As he reaches for the curtain, it explodes outward, animated by thrashing limbs. Jean, screaming, tangled in the curtain, rips it off its rings and stumbles out into the bedroom. Grimsrud follows. BEDROOM Jean rushes toward the door, cloaked by the shower curtain but awkwardly trying to push it off. UPSTAIRS LANDING Still thrashing, Jean crashes against the upstairs railing, trips on the curtain and falls, thumping crazily down the stairs. Grimsrud trots down after her. A PLAQUE: WADE GUSTAFSON INCORPORTATED
+S: INT. WADE'S OFFICE
+N: Wade sits behind his desk; another man rises as Jerry enters.
+C: JERRY
+D: How ya doin' there, Stan? How are ya, Wade?
+N: Stan Grossman shakes his hand.
+C: STAN
+D: Good to see ya again, Jerry. If these numbers are right, this looks pretty sweet.
+C: JERRY
+D: Oh, those numbers are all right, bleemee.
+C: WADE
+D: This is do-able.
+C: STAN
+D: Congratulations, Jerry.
+C: JERRY
+D: Yah, thanks, Stan, it's a pretty -
+C: WADE
+D: What kind of finder's fee were you looking for?
+C: JERRY
+D: ... Huh?
+C: STAN
+D: The financials are pretty thorough, so the only thing we don't know is your fee.
+C: JERRY
+D: ... My fee? Wade, what the heck're you talkin' about?
+C: WADE
+D: Stan and I're okay.
+C: JERRY
+D: Yah.
+C: WADE
+D: We're good to loan in.
+C: JERRY
+D: Yah.
+C: WADE
+D: But we never talked about your fee for bringin' it to us.
+C: JERRY
+D: No, but, Wade, see, I was bringin' you this deal for you to loan me the money to put in. It's my deal here, see?
+N: Wade scowls, looks at Stan.
+C: STAN
+D: Jerry - we thought you were bringin' us an investment.
+C: JERRY
+D: Yah, right -
+C: STAN
+D: You're sayin' - what're you sayin'?
+C: WADE
+D: You're sayin' that we put in all the money and you collect when it pays off?
+C: JERRY
+D: No, no. I - I'd, I'd - pay you back the principal, and interest - heck, I'd go - one over prime -
+C: STAN
+D: We're not a bank, Jerry.
+N: Wade is angry.
+C: WADE
+D: What the heck, Jerry, if I wanted bank interest on seven hunnert'n fifty thousand I'd go to Midwest Federal. Talk to Bill Diehl.
+C: STAN
+D: He's at Norstar.
+C: WADE
+D: He's at -
+C: JERRY
+D: No, see, I don't need a finder's fee, I need - finder's fee's, what, ten percent, heck that's not gonna do it for me. I need the principal.
+C: STAN
+D: Jerry, we're not just going to give you seven hundred and fifty thousand dollars.
+C: WADE
+D: What the heck were you thinkin'? Heck, if I'm only gettin' bank interest, I'd look for complete security. Heck, FDIC. I don't see nothin' like that here.
+C: JERRY
+D: Yah, but I - okay, I would, I'd guarantee ya your money back.
+C: WADE
+D: I'm not talkin' about your damn word, Jerry. Geez, what the heck're you?... Well, look, I don't want to cut you out of the loop, but his here's a good deal. I assume, if you're not innarested, you won't mind if we move on it independently.
+N: PARKING LOT We are high and wide on the office building's parking lot. Jerry emerges wrapped in a parka, his arms sticking stiffly out at his sides, his breath vaporizing. He goes to his car, opens its front door, pulls out a red plastic scraper and starts methodically scraping off the thin crust of ice that has developed on his windshield. The scrape-scrape-scrape sound carries in the frigid air. Jerry goes into a frenzy, banging the scraper against the windshield and the hood of his car. The tantrum passes. Jerry stands pantin, staring at nothing in particular. Scrape-scrape-scrape - he goes back to work on the windshield. FRONT DOOR A beat, silent but for a key scraping at the lock. The door swings open and Jerry edges in, looking about, holding a sack of groceries.
+C: JERRY
+D: Hon?
+N: He shuts the door.
+C: JERRY
+D: ... Got the growshries...
+N: He has already seen the shower curtain on the floor. He frowns, pokes at it with his foot.
+C: JERRY
+D: ... Hon?
+N: UPSTAIRS BATHROOM Jerry walks in. He sets the groceries down on the toilet tank. He looks at the open window, through which snow still sifts in. He shuts it. He picks up the small tube of uguent that sits on the sink, frowns at it, puts it back in the medicine chest. He looks at the shower curtain rod holding empty rings. FOYER Once again we are looking at the rumpled shower curtain. From another room:
+C: JERRY
+D: Yah, Wade, I - it's Jerry, I.
+N: Then, slightly more agitated.
+C: JERRY
+D: ... Yah, Wade, it's, I, it's Jerry...
+N: Beat.
+C: JERRY
+D: ... Wade, it's Jerry, I - we gotta talk, Wade, it's terrible...
+N: Beat. LIVING ROOM Jerry stands in wide shot, hands on hips, looking down at a telephone. After a motionless beat he picks up the phone and punches in a number.
+C: JERRY
+D: ... Yah, Wade Gustafson, please.
+N: BLACK Hold in black. A slow tilt down from night sky brings the head of a large paper-mache figure into frame. It is a flannel-shirt woodsman carrying a double-edged ax over one shoulder. As we hear the rumble of an approaching car, the continuing tilt and boom down brings us down the woodsman's body to a pedestal. A sweep of headlights illuminates a sign on the pedestal: WELCOME TO BRAINDERD - HOME OF PAUL BUNYAN. The headlights sweep off and a car hums past and on into the background. The two-lane highway is otherwise empty.
+S: INT. CAR
+N: Carl drives. Grimsrud smokes and gazes out the window. From the back seat we hear whimpering. Grimsrud turns to look. Jean lies bound and curled on the back seat underneath a tarpaulin.
+C: GRIMSRUD
+D: Shut the fuck up or I'll throw you back in the trunk, you know.
+C: CARL
+D: Geez. That's more'n I've heard you say all week.
+N: Grimsrud stares at him, then turns back to the window. At a loud WHOOP Carl starts and looks back out the rear window. Fifty yards behind a state trooper has turned on his gumballs. Carl eases the car onto the shoulder.
+C: CARL
+D: Ah, shit, the tags...
+N: Grimsrud looks at him.
+C: CARL
+D: ... It's just the tags. I never put my tags on the car. Don't worry, I'll take care of this.
+N: He looks into the back seat as the car bounces and slows on the gravel shoulder.
+C: CARL
+D: ... Let's keep still back there, lady, or we're gonna have to, ya know, to shoot ya.
+N: Grimsrud stares at Carl.
+C: CARL
+D: ... Hey! I'll take care of this!
+N: Both cars have stopped. Carl looks up at the rear-view mirror. The trooper is stopped on the shoulder just behind them, writing in his citation book. Carl watches. We hear the trooper's door open. The trooper walks up the shoulder, one hand resting lightly on top of his holster, his breath steaming in the cold night air. Carl opens his window as the trooper draws up.
+C: CARL
+D: How can I help you, officer?
+N: The trooper scans the inside of the car, taking his time. Grimsrud smokes and gazes calmly out his window. Finally:
+C: TROOPER
+D: This is a new car, then, sir?
+C: CARL
+D: It certainly is, officer. Still got that smell!
+C: TROOPER
+D: You're required to display temporary tags, either in the plate area or taped inside the back window.
+C: CARL
+D: Certainly -
+C: TROOPER
+D: Can I see your license and registration please?
+C: CARL
+D: Certainly.
+N: He reaches for his wallet.
+C: CARL
+D: ... I was gonna tape up the temporary tag, ya know, to be in full compliance, but it, uh, it, uh ... must a slipped my mind...
+N: He extends his wallet toward the trooper, a folded fifty- dollar bill protruding from it.
+C: CARL
+D: ... So maybe the best thing would be to take care of that, right here in Brainerd.
+C: TROOPER
+D: What's this, sir?
+C: CARL
+D: That's my license and regis- tration. I wanna be in compliance.
+N: He forces a laugh.
+C: CARL
+D: ... I was just thinking I could take care of it right here. In Brainerd.
+N: The policeman thoughtfully pats the fifty into the billfold and hands the billfold back into the car.
+C: TROOPER
+D: Put that back in your pocket, please.
+T: Carl's nervous smile fades.
+C: TROOPER
+D: ... And step out of the car, please, sir.
+N: Grimsrud, smiling thinly, shakes his head. There is a whimpering sound. The policeman hesitates. Another sound. The policeman leans forward into the car, listening. Grimsrud reaches across Carl, grabs the trooper by the hair and slams his head down onto the car door. The policeman grunts, digs awkwardly for footing outside and throws an arm for balance against the outside of the car. With his free hand, Grimsrud pops the glove compartment. He brings a gun out and reaches across Carl and shoots - BANG - into the back of the trooper's head. Jean screams.
+C: GRIMSRUD
+D: Shut up.
+N: He releases the policeman. The policeman's head slides out the window and his body flops back onto the street. Carl looks out at the cop in the road.
+C: CARL
+D: Whoa... Whoa, Daddy.
+E: softly
+N: Grimsrud takes the trooper's hat off of Carl's lap and sails it out the open window.
+C: GRIMSRUD
+D: You'll take care of it. Boy, you are smooth smooth, you know.
+C: CARL
+D: Whoa, Daddy.
+N: Jean, for some reason, screams again. Then stops.
+C: GRIMSRUD
+D: Clear him off the road.
+C: CARL
+D: Yeah.
+N: He gets out.
+S: EXT. ROAD
+N: Carl leans down to hoist up the body. Headlights appear: an oncoming car.
+S: INT. CIERA
+N: Grimsrud notices.
+S: EXT. ROAD
+N: The car approaches, slowing. Carl, with the trooper's body hoisted halfway up, is frozen in the headlights. The car accelerates and roars past and away. We just make out the silhouettes of two occupants in front.
+S: INT. CIERA
+N: Grimsrud slides into the driver's seat. He squeals into a U- turn, the driver's door slamming shut with his spin. Small red tail lights fishtail up ahead. The pursued car churns up fine snow. Grimsrud takes the cigarette from his mouth and stubs it in his ashtray. We hear the churning of the car wheels and the pinging of snow clods and salt on the car's underside. In the back seat, Jean starts screaming. Grimsrud is not gaining on the tail lights. He fights with the wheel as his car swims on the road face. The red tail lights ahead start to turn. With a distant crunching sound, they disappear. The headlights now show only empty road, starting to turn. Grimsrud frowns and slows. His headlights show the car up ahead off the road, crumpled around a telephone pole, having failed to hold a turn. Grimsrud brakes. Jean slides off the back seat and thumps into the legwell. Grimsrud sweeps his gun off the front seat, throws open his door and gets out.
+S: EXT. ROAD
+N: The wrecked car's headlights shine off into a snowfield abutting the highway. A young man in a down parka is limping across the snowfield, away from the wrecked car. Grimsrud strides calmly out after the injured boy. He raises his gun and fires. With a poof of feathers, a hole opens up in the boy's back and he pitches into the snow. Grimsrud walks up to the wreck and peers in its half-open door. A young woman is trapped inside the twisted wreckage, injured. Snow swirls in the headlights of the wreck. Grimsrud raises his gun and fires. AN OIL PAINTING A blue-winged teal in flight over a swampy marshland. The room in which it hangs is dark. We hear off-screen snoring. We track off to reveal an easel upon which we see a half- completed oil of a grey mallard. The continuing track reveals a couple in bed, sleeping. The man, fortyish, pajama-clad, is big, and big-bellied. His mouth is agape. He snores. His arms are flung over a woman in her thirties, wearing a nightie, mouth also open, not snoring. We hold for a long beat on their regular breathing and snoring. The phone rings. The woman stirs.
+C: WOMAN
+D: Oh, geez...
+N: She reaches for the phone.
+C: WOMAN
+D: ... Hi, it's Marge...
+N: The man stirs and clears his throat with a long deep rumble.
+C: MARGE
+D: ... Oh, my. Where?... Yah... Oh, geez...
+N: The man sits up, gazes stupidly about.
+C: MARGE
+D: ... Okay. There in a jif... Real good, then.
+N: She hangs up.
+C: MARGE
+D: ... You can sleep, hon. It's early yet.
+C: MAN
+D: Gotta go?
+C: MARGE
+D: Yah.
+N: The man swings his legs out.
+C: MAN
+D: I'll fix ya some eggs.
+C: MARGE
+D: That's okay, hon. I gotta run.
+C: MAN
+D: Gotta eat a breakfast, Marge. I'll fix ya some eggs.
+C: MARGE
+D: Aw, you can sleep, hon.
+C: MAN
+D: Ya gotta eat a breakfast...
+N: He clears his throat with another deep rumble.
+C: MAN
+D: ... I'll fix ya some eggs.
+C: MARGE
+D: Aw, Norm.
+N: PLATE Leavings of a huge plate of eggs, ham, toast. Wider, we see Marge now wearing a beige police uniform. A patch on one arm says BRAINERD POLICE DEPARTMENT. She wears a heavy belt holding a revolver, walkie-talkie and various other jangling police impedimenta. Norm is in a dressing gown.
+C: MARGE
+D: Thanks, hon. Time to shove off.
+C: NORM
+D: Love ya, Margie.
+N: As she struggles into a parka:
+C: MARGE
+D: Love ya, hon.
+N: He is exiting back to the bedroom; she exits out the front door.
+S: EXT. GUNDERSON HOUSE
+N: Dawn. Marge is making her way down the icy front stoop to her prowler.
+S: INT. GUNDERSON HOUSE
+N: Norm sits back onto the bed, shrugging off his robe. Off- screen we hear the front door open. FRONT DOOR Marge stamps the snow off her shoes.
+C: MARGE
+D: Hon?
+C: NORM
+D: Yah?
+E: off
+C: MARGE
+D: Prowler needs a jump.
+N: HIGHWAY Two police cars and an ambulance sit idling at the side of the road, a pair of men inside each car. The first car's driver door opens and a figure in a parka emerges, holding two styrofoam cups. His partner leans across the seat to close the door after him. The reverse shows Marge approaching from her own squad car.
+C: MARGE
+D: Hiya, Lou.
+C: LOU
+D: Margie. Thought you might need a little warm-up.
+N: He hands her one of the cups of coffee.
+C: MARGE
+D: Yah, thanks a bunch. So what's the deal, now? Gary says triple homicide?
+C: LOU
+D: Yah, looks pretty bad. Two of'm're over here.
+N: Marge looks around as they start walking.
+C: MARGE
+D: Where is everybody?
+C: LOU
+D: Well - it's cold, Margie.
+N: BY THE WRECK Laid out in the early morning light is the wrecked car, a pair of footprints leading out to a man in a bright orange parka face down in the bloodstained snow, and one pair of footsteps leading back to the road. Marge is peering into the car.
+C: MARGE
+D: Ah, geez. So... Aw, geez. Here's the second one... It's in the head and the ... hand there, I guess that's a defensive wound. Okay.
+N: Marge looks up from the car.
+C: MARGE
+D: ... Where's the state trooper?
+N: Lou, up on the shoulder, jerks his thumb.
+C: LOU
+D: Back there a good piece. In the ditch next to his prowler.
+N: Marge looks around at the road.
+C: MARGE
+D: Okay, so we got a state trooper pulls someone over, we got a shooting, and these folks drive by, and we got a high-speed pursuit, ends here, and this execution-type deal.
+C: LOU
+D: Yah.
+C: MARGE
+D: I'd be very surprised if our suspect was from Brainerd.
+C: LOU
+D: Yah.
+N: Marge is studying the ground.
+C: MARGE
+D: Yah. And I'll tell you what, from his footprints he looks like a big fella -
+N: Marge suddenly doubles over, putting her head between her knees down near the snow.
+C: LOU
+D: Ya see something down there, Chief?
+C: MARGE
+D: Uh - I just, I think I'm gonna barf.
+C: LOU
+D: Geez, you okay, Margie?
+C: MARGE
+D: I'm fine - it's just morning sickness.
+N: She gets up, sweeping snow from her knees.
+C: MARGE
+D: ... Well, that passed.
+C: LOU
+D: Yah?
+C: MARGE
+D: Yah. Now I'm hungry again.
+C: LOU
+D: You had breakfast yet, Margie?
+C: MARGE
+D: Oh, yah. Norm made some eggs.
+C: LOU
+D: Yah? Well, what now, d'ya think?
+C: MARGE
+D: Let's go take a look at that trooper.
+N: BY THE STATE TROOPER'S CAR Marge's prowler is parked nearby. Marge is on her hands and knees by a body down in the ditch, again looking at footprints in the snow. She calls up to the road:
+C: MARGE
+D: There's two of 'em, Lou!
+C: LOU
+D: Yah?
+C: MARGE
+D: Yah, this guy's smaller than his buddy.
+C: LOU
+D: Oh, yah?
+N: DOWN IN THE DITCH In the foreground is the head of the state trooper, facing us. Peering at it from behind, still on her hands and knees, is Marge.
+C: MARGE
+D: For Pete's sake.
+N: She gets up, clapping the snow off her hands, and climbs out of the ditch.
+C: LOU
+D: How's it look, Marge?
+C: MARGE
+D: Well, he's got his gun on his hip there, and he looks like a nice enough guy. It's a real shame.
+C: LOU
+D: Yah.
+C: MARGE
+D: You haven't monkeyed with his car there, have ya?
+C: LOU
+D: No way.
+N: She is looking at the prowler, which still idles on the shoulder.
+C: MARGE
+D: Somebody shut his lights. I guess the little guy sat in there, waitin' for his buddy t'come back.
+C: LOU
+D: Yah, woulda been cold out here.
+C: MARGE
+D: Heck, yah. Ya think, is Dave open yet?
+C: LOU
+D: You don't think he's mixed up in -
+C: MARGE
+D: No, no, I just wanna get Norm some night crawlers.
+S: INT. PROWLER
+N: Marge is driving; Lou sits next to her.
+C: MARGE
+D: You look in his citation book?
+C: LOU
+D: Yah...
+N: He looks at his notebook.
+C: LOU
+D: ... Last vehicle he wrote in was a tan Ciera at 2:18 a.m. Under the plate number he put DLR - I figure they stopped him or shot him before he could finish fillin' out the tag number.
+C: MARGE
+D: Uh-huh.
+C: LOU
+D: So I got the state lookin' for a Ciera with a tag startin' DLR. They don't got no match yet.
+C: MARGE
+D: I'm not sure I agree with you a hunnert percent on your policework, there, Lou.
+C: LOU
+D: Yah?
+C: MARGE
+D: Yah, I think that vehicle there probly had dealer plates. DLR?
+C: LOU
+D: Oh...
+N: Lou gazes out the window, thinking.
+C: LOU
+D: ... Geez.
+C: MARGE
+D: Yah. Say, Lou, ya hear the one about the guy who couldn't afford personalized plates, so he went and changed his name to J2L 4685?
+C: LOU
+D: Yah, that's a good one.
+C: MARGE
+D: Yah.
+N: THE ROAD The police car enters with a whoosh and hums down a straight- ruled empty highway, cutting a landscape of flat and perfect white. EMBERS FAMILY RESTAURANT Jerry, Wade, and Stan Grossman sit in a booth, sipping coffee. Outside the window, snow falls from a gunmetal sky.
+C: WADE
+D: - All's I know is, ya got a problem, ya call a professional!
+C: JERRY
+D: No! They said no cops! They were darned clear on that, Wade! They said you call the cops and we -
+C: WADE
+D: Well, a course they're gonna say that! But where's my protection? They got Jean here! I give these sons a bitches a million dollars, where's my guarantee they're gonna let her go.
+C: JERRY
+D: Well, they -
+C: WADE
+D: A million dollars is a lot a damn money! And there they are, they got my daughter!
+C: JERRY
+D: Yah, but think this thing through here, Wade. Ya give 'em what they want, why wont' they let her go? You gotta listen to me on this one, Wade.
+C: WADE
+D: Heck, you don't know! You're just whistlin' Dixie here! I'm sayin', the cops, they can advise us on this! I'm sayin' call a professional!
+C: JERRY
+D: No! No cops! That's final! This is my deal here, Wade! Jean is my wife here!
+C: STAN
+D: I gotta tell ya, Wade, I'm leanin' to Jerry's viewpoint here.
+C: WADE
+D: Well -
+C: STAN
+D: We gotta protect Jean. These - we're not holdin' any cards here, Wade, they got all of 'em. So they call the shots.
+C: JERRY
+D: You're darned tootin'!
+C: WADE
+D: Ah, dammit!
+C: STAN
+D: I'm tellin' ya.
+C: WADE
+D: Well... Why don't we...
+N: He saws a finger under his nose.
+C: WADE
+D: ... Stan, I'm thinkin' we should offer 'em half a million.
+C: JERRY
+D: Now come on here, no way, Wade! No way!
+C: STAN
+D: We're not horse-trading here, Wade, we just gotta bite the bullet on this thing.
+C: JERRY
+D: Yah!
+C: STAN
+D: What's the next step here, Jerry?
+C: JERRY
+D: They're gonna call, give me instructions for a drop. I'm supposed to have the money ready tomorrow.
+C: WADE
+D: Dammit!
+N: THE CASHIER She rings up two dollars forty.
+C: CASHIER
+D: How was everything today?
+C: JERRY
+D: Yah, real good now.
+N: PARKING LOT Snow continues to fall. Jerry and Stan stand bundled in their parkas and galoshes near a row of beached vehicles. Wade sits behind the wheel of an idling Lincoln, waiting for Stan.
+C: STAN
+D: Okay. We'll get the money together. Don't worry about it, Jerry. Now, d'you want anyone at home, with you, until they call?
+C: JERRY
+D: No, I - they don't want - they're just s'posed to be dealin' with me, they were real clear.
+C: STAN
+D: Yah.
+N: Jerry pounds his mittened hands together against the cold.
+C: JERRY
+D: Ya know, they said no one listenin' in, they'll be watchin', ya know. Maybe it's all bull, but like you said, Stan, they're callin' the shots.
+C: STAN
+D: Okay. And Scotty, is he gonna be all right?
+C: JERRY
+D: Yah, geez, Scotty. I'll go talk to him.
+N: There is a tap at the horn from Wade, and Stan gets into the Lincoln.
+C: STAN
+D: We'll call.
+N: The Lincoln spits snow as it grinds out of the lot and fishtails out onto the boulevard. SCOTTY'S BEDROOM Scotty lies on the bed, weeping. Jerry enters and perches uncomfortably on the edge of his bed.
+C: JERRY
+D: ... How ya doin' there, Scotty?
+C: SCOTT
+D: Dad! What're they doing? Wuddya think they're doin' with Mom?
+C: JERRY
+D: It's okay, Scotty. They're not gonna want to hurt her any. These men, they just want money, see.
+C: SCOTT
+D: What if - what if sumpn goes wrong?
+C: JERRY
+D: No, no, nothin's goin' wrong here. Grandad and I, we're - we're makin' sure this gets handled right.
+N: Scott snorfles and sits up.
+C: SCOTT
+D: Dad, I really think we should call the cops.
+C: JERRY
+D: No! We can't let anyone know about this thing! We gotta play ball with these guys - you ask Stan Grossman, he'll tell ya the same thing!
+C: SCOTT
+D: Yeah, but -
+C: JERRY
+D: We're gonna get Mom back for ya, but we gotta play ball. Ya know, that's the deal. Now if Lorraine calls, or Sylvia, you just say that Mom is in Florida with Pearl and Marty...
+N: Scotty starts to weep again. Jerry stares down at his lap.
+C: JERRY
+D: ... That's the best we can do here.
+S: EXT. CABIN
+N: It is a lakeside cabin surrounded by white. A brown Ciera with dealer plates is pulling into the drive. Grimsrud climbs out of the passenger seat as Carl climbs out of the driver's. Grimsrud opens the back door and, with an arm on her elbow, helps Jean out. She has her hands tied behind her and a black hood over her head. With a cry, she swings her elbow out of Grimsrud's grasp and lurches away across the front lawn. Grimsrud moves to retrieve her but Carl, grinning, lays a hand on his shoulder.
+C: CARL
+D: Hold it.
+N: They both look out at the front lawn, Grimsrud expressionless, Carl smiling. With muffled cries, the hooded woman lurches across the unbroken snow, staggering this way and that, stumbling on the uneven terrain. She stops, stands still, her hooded head swaying. She lurches out in an arbitrary direction. Going downhill, she reels, staggers, and falls face-first into the snow, weeping.
+C: CARL
+D: Ha ha ha ha ha ha! Jesus!
+N: Grimsrud, still expressionless, breaks away from Carl's restraining hand to retrieve her. BRAINERD POLICE HEADQUARTERS We track behind Marge as she makes her way across the floor, greeting various officers. She holds a small half-full paper sack. Beyond her we see a small glassed-in cublcle. Norm sits at the desk inside with a box lunch spread out in front of him. There is lettering on the cubicle's glass door: BRAINERD PD. CHIEF GUNDERSON. Marge enters and sits behind the desk, detaching her walkie- talkie from her utility belt to accomodate the seat.
+C: MARGE
+D: Hiya, hon.
+N: She slides the paper sack toward him.
+C: NORM
+D: Brought ya some lunch, Margie. What're those, night crawlers?
+N: He looks inside. The bottom of the sack is full of fat, crawling earthworms.
+C: MARGE
+D: Yah.
+C: NORM
+D: Thanks, hon.
+C: MARGE
+D: You bet. Thanks for lunch. What do we got here, Arbie's?
+C: NORM
+D: Uh-huh.
+N: She starts eating.
+C: MARGE
+D: ... How's the paintin' goin'?
+C: NORM
+D: Pretty good. Found out the Hautmans are entering a painting this year.
+C: MARGE
+D: Aw, hon, you're better'n them.
+C: NORM
+D: They're real good.
+C: MARGE
+D: They're good, Norm, but you're better'n them.
+C: NORM
+D: Yah, ya think?
+N: He leans over and kisses her.
+C: MARGE
+D: Ah, ya got Arbie's all o'er me.
+N: Lou enters.
+C: LOU
+D: Hiya, Norm, how's the paintin' goin'?
+C: NORM
+D: Not too bad. You know.
+C: MARGE
+D: How we doin' on that vehicle?
+C: LOU
+D: No motels registered any tan Ciera last night. But the night before, two men checked into the Blue Ox registering a Ciera and leavin' the tag space blank.
+C: MARGE
+D: Geez, that's a good lead. The Blue Ox, that's that trucker's joint out there on I-35?
+C: LOU
+D: Yah. Owner was on the desk then, said these two guys had company.
+C: MARGE
+D: Oh, yah?
+S: EXT. STRIPPER CLUB
+N: Marge's prowler is parked in an otherwise empty lot. Snow drifts down.
+S: INT. STRIPPER CLUB
+N: Marge sits talking with two young women at one end of an elevated dance platform. The club, not yet open for business, is deserted.
+C: MARGE
+D: Where you girls from?
+C: HOOKER ONE
+D: Chaska.
+C: HOOKER TWO
+D: LeSeure. But I went to high school in White Bear Lake.
+C: MARGE
+D: Okay, I want you to tell me what these fellas looked like.
+C: HOOKER ONE
+D: Well, the little guy, he was kinda funny-looking.
+C: MARGE
+D: In what way?
+C: HOOKER ONE
+D: I dunno. Just funny-looking.
+C: MARGE
+D: Can you be any more specific?
+C: HOOKER ONE
+D: I couldn't really say. He wasn't circumcised.
+C: MARGE
+D: Was he funny-looking apart from that?
+C: HOOKER ONE
+D: Yah.
+C: MARGE
+D: So you were having sex with the little fella, then?
+C: HOOKER ONE
+D: Uh-huh.
+C: MARGE
+D: Is there anything else you can tell me about him?
+C: HOOKER ONE
+D: No. Like I say, he was funny-looking. More'n most people even.
+C: MARGE
+D: And what about the other fella?
+C: HOOKER TWO
+D: He was a little older. Looked like the Marlboro man.
+C: MARGE
+D: Yah?
+C: HOOKER TWO
+D: Yah. Maybe I'm sayin' that cause he smoked Marlboros.
+C: MARGE
+D: Uh-huh.
+C: HOOKER TWO
+D: A subconscious-type thing.
+C: MARGE
+D: Yah, that can happen.
+C: HOOKER TWO
+D: Yah.
+C: HOOKER ONE
+D: They said they were goin' to the Twin Cities?
+C: MARGE
+D: Oh, yah?
+C: HOOKER TWO
+D: Yah.
+C: HOOKER ONE
+D: Yah. Is that useful to ya?
+C: MARGE
+D: Oh, you bet, yah.
+S: EXT. LAKESIDE CABIN
+N: It is now dusk. The brown Ciera with dealer plates still sits in the drive.
+S: INT. CABIN
+N: We track in on Jean Lundegaard, who sits tied in a chair with the black hood still over her head. As we track in, we hear inarticulate cursing, intermittent banging and loud static. We track in on Gaear Grimsrud, who sits smoking a cigarette and expressionlessly gazing offscreen. We track in on Carl Showalter, who stands over an old black- and-white television. It plays nothing but snow. Carl is banging on it as he mutters:
+C: CARL
+D: ...days ... be here for days with a - DAMMIT! - a goddamn mute ... nothin' to do ... and the fucking - DAMMIT!...
+N: Each "dammit" brings a pound of his fist on the TV.
+C: CARL
+D: ... TV doesn't even ... plug me in, man... Gimmee a - DAMMIT! - signal... Plug me into the ozone, baby... Plug me into the ozone - FUCK!...
+N: With one last bang we cut: BACK TO THE TELEVISION SET In extreme close-up an insect is lugging a worm.
+C: TV VOICE-OVER
+D: The bark beetle carries the worm to the nest ... where it will feed its young for up to six weeks...
+N: A pull back from the screen reveals that we are in Marge's house. Marge and Norm are watching television in bed. From the TV we hear insects chirring. After a long beat, silence except for the TV, Marge murmurs, still looking at the set:
+C: MARGE
+D: ... Well, I'm turnin' in, Norm.
+N: Also looking at the TV:
+C: NORM
+D: ... Oh, yah?
+N: Marge rolls over and Norm continues to watch. We hold. BLACK Hold. A snowflake drops through the black. Another flake. It starts snowing. BRAINERD MAIN STREET The lone traffic light blinks slowly, steadily, red. Snow sifts down. There is no other movement. PAUL BUNYAN We are looking up at the bottom-lit statue. Snow falls. HIGH SHOT OF MARGE'S HOUSE Snow drops away. HIGH SHOT IN MARGE'S BEDROOM The bedroom is dark. Norm is snoring. The phone rings. Marge gropes in the dark.
+C: MARGE
+D: Hello?
+C: VOICE
+D: Yah, is this Marge?
+C: MARGE
+D: Yah?
+C: VOICE
+D: Margie Olmstead?
+C: MARGE
+D: ... Well, yah. Who's this?
+C: VOICE
+D: This is Mike Yanagita. Ya know - Mike Yanagita. Remember me?
+C: MARGE
+D: ... Mike Yanagita!
+C: MIKE
+D: Yah!
+N: Marge props herself up next to the still-sleeping Norm.
+C: MARGE
+D: Yah, yah, course I remember. How are ya? What time is it?
+C: MIKE
+D: Oh, geez. It's quarter to eleven. I hope I dint wake you.
+C: MARGE
+D: No, that's okay.
+C: MIKE
+D: Yah, I'm down in the Twin Cities and I was just watching on TV about these shootings up in Brainderd, and I saw you on the news there.
+C: MARGE
+D: Yah.
+C: MIKE
+D: I thought, geez, is that Margie Olmstead? I can't believe it!
+C: MARGE
+D: Yah, that's me.
+C: MIKE
+D: Well, how the heck are ya?
+C: MARGE
+D: Okay, ya know. Okay.
+C: MIKE
+D: Yah?
+C: MARGE
+D: Yah - how are you doon?
+C: MIKE
+D: Oh, pretty good.
+C: MARGE
+D: Heck, it's been such a long time, Mike. It's great to hear from ya.
+C: MIKE
+D: Yah... Yah, yah. Geeze, Margie!
+N: GUSTAFSON OLDS GARAGE Jerry is on the sales floor, showing a customer a vehicle.
+C: JERRY
+D: Yah, ya got yer, this loaded here, this has yer independent, uh, yer slipped differential, uh, yer rack- and-pinion steering, yer alarm and radar, and I can give it to ya with a heck of a sealant, this TruCoat stuff, it'll keep the salt off -
+C: CUSTOMER
+D: Yah, I don't need no sealant though.
+C: JERRY
+D: Yah, you don't need that. Now were you thinking of financing here? You oughta be aware a this GMAC plan they have now, it's really super -
+C: ANOTHER SALESMAN
+D: Jerry, ya got a call here.
+C: JERRY
+D: Yah, okay.
+N: JERRY'S CUBICLE He sits in and picks up his phone.
+C: JERRY
+D: Jerry Lundegaard.
+C: VOICE
+D: All right, Jerry, you got this phone to yourself?
+C: JERRY
+D: Well ... yah.
+C: VOICE
+D: Know who this is?
+C: JERRY
+D: Well, yah, I got an idea. How's that Ciera workin' out for ya?
+C: VOICE
+D: Circumstances have changed, Jerry.
+C: JERRY
+D: Well, what do ya mean?
+C: VOICE
+D: Things have changed. Circumstances, Jerry. Beyond the, uh ... acts of God, force majeure...
+C: JERRY
+D: What the - how's Jean?
+N: A beat.
+C: CARL
+D: ... Who's Jean?
+C: JERRY
+D: My wife! What the - how's -
+C: CARL
+D: Oh, Jean's okay. But there's three people up in Brainerd who aren't so okay, I'll tell ya that.
+C: JERRY
+D: What the heck're you talkin' about? Let's just finish up this deal here -
+C: CARL
+D: Blood has been shed, Jerry.
+N: Jerry sits dumbly. The voice solemnly repeats:
+C: CARL
+D: ... Blood has been shed.
+C: JERRY
+D: What the heck d'ya mean?
+C: CARL
+D: Three people. In Brainerd.
+C: JERRY
+D: Oh, geez.
+C: CARL
+D: That's right. And we need more money.
+C: JERRY
+D: The heck d'ya mean? What a you guys got yourself mixed up in?
+C: CARL
+D: We need more -
+C: JERRY
+D: This was s'posed to be a no-rough -stuff-type deal -
+C: CARL
+D: DON'T EVER INTERRUPT ME, JERRY! JUST SHUT THE FUCK UP!
+C: JERRY
+D: Well, I'm sorry, but I just - I -
+C: CARL
+D: Look. I'm not gonna debate you, Jerry. The price is now the whole amount. We want the entire eighty thousand.
+C: JERRY
+D: Oh, for Chrissakes here -
+C: CARL
+D: Blood has been shed. We've incurred risks, Jerry. I'm coming into town tomorrow. Have the money ready.
+C: JERRY
+D: Now we had a deal here! A deal's a deal!
+C: CARL
+D: IS IT, JERRY? You ask those three pour souls up in Brainerd if a deal's a deal! Go ahead, ask 'em!
+C: JERRY
+D: ... The heck d'ya mean?
+C: CARL
+D: I'll see you tomorrow.
+N: Click. Jerry slams down the phone, which immediately rings. He angrily snatches it up.
+C: JERRY
+D: Yah!
+C: VOICE
+D: Jerome Lundegaard?
+C: JERRY
+D: Yah!
+C: VOICE
+D: This is Reilly Deifenbach at GMAC. Sir, I have not yet recieved those vehicle IDs you promised me.
+C: JERRY
+D: Yah! I ... those are in the mail.
+C: VOICE
+D: Mr. Lundegaard, that very well may be. I must inform you, however, that absent the reciept of those numbers by tomorrow afternoon, I will have to refer this matter to our legal department.
+C: JERRY
+D: Yah.
+C: VOICE
+D: My patience is at an end.
+C: JERRY
+D: Yah.
+C: VOICE
+D: Good day, sir.
+C: JERRY
+D: ... Yah.
+N: WIDE ON THE CUBICLE We are looking at Jerry's cubicle from across the showroom. Noise muted by distance, we watch Jerry slam down the reciever, rise to his feet, fling the phone to the floor, raise his desk blotter high over his head with pens and pencils rolling off it and slam it onto his desktop. He stands for a moment, hands on hips, glaring. He stoops and picks up the phone, places it back on the desktop, starts picking up the pens and pencils. TRACK On steam-table bins of food, each identified by a plaque: BEEF STROGANOFF, SWEDISH MEATBALLS, BROILED TORSK, CHICKEN FLORENTINE. A complementary track shows two rays being pushed along a buffet line, piled high with many foods. MARGE AND NORM AT A TABLE They sit next to each other at a long cafateria-style Formica table, silently eating. A hip with a hissing walkie-talkie enters frame.
+C: GARY
+D: Hiya, Norm. How ya doin', Margie? How's the fricasse?
+C: MARGE
+D: Pretty darn good, ya want some?
+C: GARY
+D: No, I gotta - hey, Norm, I thought you were goin' fishin' up at Mile Lacs?
+C: NORM
+D: Yah, after lunch.
+N: He goes back to his food.
+C: MARGE
+D: Whatcha got there?
+N: Gary hands her a flimsy. Marge takes it with one hand and looks, her other hand frozen with a forkful of food.
+C: GARY
+D: The numbers y'asked for, calls made from the lobby pay phone at the Blue Ox. Two to Minneapolis that night.
+C: MARGE
+D: Mm.
+C: GARY
+D: First one's a trucking company, second one's a private residence. A Shep Proudfoot.
+C: MARGE
+D: Uh-huh... A what?
+C: GARY
+D: Shep Proudfoot. That's a name.
+C: MARGE
+D: Uh-huh.
+C: GARY
+D: Yah.
+C: MARGE
+D: ... Yah, okay, I think I'll drive down there, then.
+C: GARY
+D: Oh, yah? Twin Cities?
+N: Norm, who has been eating steadily throughout, looks over at Marge with mild interest. He stares for a beat as he finishes chewing, and them swallows and says:
+C: NORM
+D: ... Oh, yah?
+N: KITCHEN OF LUNDEGAARD HOUSE Jerry, Wade, and Stan Grossman sit around the kitchen table. It is night. The scene is harshly toplit by a hanging fixture. On the table are the remains of coffee and a cinammon filbert ring.
+C: WADE
+D: Dammit! I wanna be a part a this thing!
+C: JERRY
+D: No, Wade! They were real clear! They said they'd call tomorrow, with instructions, and it's gonna be delivered by me alone!
+C: WADE
+D: It's my money, I'll deliver it - what do they care?
+C: STAN
+D: Wade's got a point there. I'll handle the call if you want, Jerry.
+C: JERRY
+D: No, no. See - they, no, see, they only deal with me. Ya feel this, this nervousness on the phone there, they're very - these guys're dangerous -
+C: WADE
+D: All the more reason! I don't want you - with all due respect, Jerry - I don't want you mucking this up.
+C: JERRY
+D: The heck d'ya mean?
+C: WADE
+D: They want my money, they can deal with me. Otherwise I'm goin' to a professional.
+N: He points at a briefcase.
+C: WADE
+D: ... There's a million dollars here!
+C: JERRY
+D: No, see -
+C: WADE
+D: Look, Jerry, you're not sellin' me a damn car. It's my show here. That's that.
+C: STAN
+D: It's the way we prefer to handle it, Jerry.
+N: THE DOWNTOWN RADISSON HOTEL Marge is at the reception desk.
+C: MARGE
+D: How ya doin'?
+C: CLERK
+D: Real good. How're you today, ma'am?
+C: MARGE
+D: Real good. I'm Mrs. Gunderson, I have a reservation.
+N: The clerk types into a computer console.
+C: CLERK
+D: You sure do, Mrs. Gunderson.
+C: MARGE
+D: Is there a phone down here, ya think?
+N: LOBBY CORNER Marge is on a public phone.
+C: MARGE
+D: ... Detective Sibert? Yah, this is Marge Gunderson from up Brainerd, we spoke - Yah. Well, actually I'm in town here. I had to do a few things in the Twin Cities, so I thought I'd check in with ya about that USIF search on Shep Proudfoot... Oh, yah?... Well, maybe I'll go visit with him if I have the... No, I can find that... Well, thanks a bunch. Say, d'ya happen to know a good place for lunch in the downtown area?... Yah, the Radisson... Oh, yah? Is it reasonable?
+N: A GREEN FREEWAY SIGN Through a windshield we see a sign for the MINNEAPOLIS INTERNATIONAL AIRPORT. ROOFTOP PARKING LOT The brown Ciera enters and drives lazy S-curves around the few snow-covered cars parked on the roof of the lot. It stops by one car and Carl emerges. He quickly scans the lot, then kneels in the snow at the back of the parked car and starts unscrewing its license plate. EXIT BOOTH Carl pulls up and hands the attendant his ticket.
+C: CARL
+D: Yeah, I decided not to park here.
+N: The attendant frowns uncomprehendingly at the ticket.
+C: ATTENDANT
+D: ... What do you mean, you decided not to park here?
+C: CARL
+D: Yeah, I just came in. I decided not to park here.
+N: The attendant is still puzzled.
+C: ATTENDANT
+D: You, uh... I'm sorry, sir, but -
+C: CARL
+D: I decided not to - I'm, uh, not taking the trip as it turns out.
+C: ATTENDANT
+D: I'm sorry, sir, we do have to charge you the four dollars.
+C: CARL
+D: I just pulled in here. I just fucking pulled in here!
+C: ATTENDANT
+D: Well, see, there's a minimum charge of four dollars. Long-term parking charges by the day.
+N: A car behind beeps. Carl glances back, starts digging for money.
+C: CARL
+D: I guess you think, ya know, you're an authority figure. With that stupid fucking uniform. Huh, buddy?
+N: The attendant doesn't say anything.
+C: CARL
+D: ... King Clip-on Tie here. Big fucking man.
+N: He is peeling off one dollar bills.
+C: CARL
+D: ... You know, these are the limits of your life, man. Ruler of your little fucking gate here. There's your four dollars. You pathetic piece of shit.
+N: GUSTAFSON OLDS GARAGE Jerry is staring up, mouth agape, at the underside of a car on a hydraulic lift. Bewildered, he looks about, then asks a mechanic passing by, his voice raised over the din of the shop.
+C: JERRY
+D: Where's Shep?
+N: The mechanic points.
+C: MECHANIC
+D: Talkin' to a cop.
+N: Jerry looks.
+C: JERRY
+D: ... Cop?
+N: Marge and Shep face each other at the other end of the floor in a grimy and cluttered glassed-in cubicle.
+C: MECHANIC
+D: Said she was a policewoman.
+N: Marge and Shep silently talk. Jerry stares, swallows. INSIDE THE CUBICLE
+C: MARGE
+D: - Wednesday night?
+N: Shep is shaking his head.
+C: SHEP
+D: Nope.
+C: MARGE
+D: Well, you do reside their at 1425 Fremont Terrace?
+C: SHEP
+D: Yep.
+C: MARGE
+D: Anyone else residing there?
+C: SHEP
+D: Nope.
+C: MARGE
+D: Well, Mr. Proudfoot, this call came in past three in the morning. It's just hard for me to believe you can't remember anyone calling.
+N: Shep says nothing.
+C: MARGE
+D: ... Now, I know you've had some problems, struggling with the narcotics, some other entanglements, currently on parole -
+C: SHEP
+D: So?
+C: MARGE
+D: Well, associating with criminals, if you're the one they talked to, that right there would be a violation of your parole and would end with you back in Stillwater.
+C: SHEP
+D: Uh-huh.
+C: MARGE
+D: Now, I saw some rough stuff on your priors, but nothing in the nature of a homicide...
+N: Shep stares at her.
+C: MARGE
+D: ... I know you don't want to be an accessory to something like that.
+C: SHEP
+D: Nope.
+C: MARGE
+D: So you think you might remember who those folks were who called ya?
+N: JERRY'S OFFICE Jerry is worriedly pacing behind his desk. At a noise he looks up. Marge has stuck her head in the door.
+C: MARGE
+D: Mr. Lundegaard?
+C: JERRY
+D: Huh? Yah?
+C: MARGE
+D: I wonder if I could take just a minute of your time here -
+C: JERRY
+D: What... What is it all about?
+C: MARGE
+D: Huh? Do you mind if I sit down - I'm carrying quite a load here.
+N: Marge plops into the chair opposite him.
+C: MARGE
+D: ... You're the owner here, Mr. Lundegaard?
+C: JERRY
+D: Naw, I... Executive Sales Manager.
+C: MARGE
+D: Well, you can help me. My name's Marge Gunderson -
+C: JERRY
+D: My father-in-law, he's the owner.
+C: MARGE
+D: Uh-huh. Well, I'm a police officer from up Brainerd investigating some malfeasance and I was just wondering if you've had any new vehicles stolen off the lot in the past couple of weeks - specifically a tan Cutlass Ciera?
+N: Jerry stares at her, his mouth open.
+C: MARGE
+D: ... Mr. Lundegaard?
+C: JERRY
+D: ... Brainerd?
+C: MARGE
+D: Yah. Yah. Home a Paul Bunyan and Babe the Blue Ox.
+C: JERRY
+D: ... Babe the Blue Ox?
+C: MARGE
+D: Yah, ya know we've got the big statue there. So you haven't had any vehicles go missing, then?
+C: JERRY
+D: No. No, ma'am.
+C: MARGE
+D: Okey-dokey, thanks a bunch. I'll let you get back to your paperwork, then.
+N: As Marge rises, Jerry looks blankly down at the papers on the desk in front of him.
+C: JERRY
+D: ... Yah, okay.
+N: He looks up at Marge's retreating back. He looks back down at the papers. He looks over at the phone. he picks up the phone and dials four digits.
+C: JERRY
+D: ... Yah, gimmee Shep... The heck d'ya mean?... Well, where'd he go? It's only... No, I don't need a mechanic - oh, geez - I gotta talk to a friend of his, so, uh ... have him, uh ... oh, geez...
+N: HOTEL BAR Marge enters. She looks around the bar, a rather characterless, lowlit meeting place for business people.
+C: VOICE
+D: Marge?
+N: It is a bald, paunching man of about Marge's age, rising from a booth halfway back. His features are broad, friendly, Asian-American.
+C: MARGE
+D: Mike!
+N: He approaches somewhat carefully, as if on his second drink. They hug and head back toward the booth.
+C: MIKE
+D: Geez! You look great!
+C: MARGE
+D: Yah - easy there - you do too! I'm expecting, ya know.
+C: MIKE
+D: I see that! That's great!
+N: A waitress meets them at the table.
+C: MIKE
+D: ... What can I get ya?
+C: MARGE
+D: Just a Diet Coke.
+N: Again she glances about.
+C: MARGE
+D: ... This is a nice place.
+C: MIKE
+D: Yah, ya know it's the Radisson, so it's pretty good.
+C: MARGE
+D: You're livin' in Edina, then?
+C: MIKE
+D: Oh, yah, couple years now. It's actually Eden Prarie - that school district. So Chief Gunderson, then! So ya went and married Norm Son-of- a-Gunderson!
+C: MARGE
+D: Oh, yah, a long time ago.
+C: MIKE
+D: Great. What brings ya down - are ya down here on that homicide - if you're allowed, ya know, to discuss that?
+C: MARGE
+D: Oh, yah, but there's not a heckuva lot to discuss. What about you, Mike? Are you married - you have kids?
+C: MIKE
+D: Well, yah, I was married. I was married to - You mind if I sit over here?
+N: He is sliding out of his side of the booth and easing in next to Marge.
+C: MIKE
+D: ... I was married to Linda Cooksey -
+C: MARGE
+D: No, I - Mike - wyncha sit over there, I'd prefer that.
+C: MIKE
+D: Huh? Oh, okay, I'm sorry.
+C: MARGE
+D: No, just so I can see ya, ya know. Don't have to turn my neck.
+C: MIKE
+D: Oh, sure, I unnerstand, I didn't mean to -
+C: MARGE
+D: No, no, that's fine.
+C: MIKE
+D: Yah, sorry, so I was married to Linda Cooksey - ya remember Linda? She was a year behind us.
+C: MARGE
+D: I think I remember Linda, yah. She was - yah. So things didn't work out, huh?
+C: MIKE
+D: And then I, and then I been workin' for Honeywell for a few years now.
+C: MARGE
+D: Well, they're a good outfit.
+C: MIKE
+D: Yah, if you're an engineer, yah, you could do a lot worse. Of course, it's not, uh, it's nothin' like your achievement.
+C: MARGE
+D: It sounds like you're doin' really super.
+C: MIKE
+D: Yah, well, I, uh ... it's not that it didn't work out - Linda passed away. She, uh...
+C: MARGE
+D: I'm sorry.
+C: MIKE
+D: Yah, I, uh... She had leukemia, you know...
+C: MARGE
+D: No, I didn't...
+C: MIKE
+D: It was a tough, uh ... it was a long - She fought real hard, Marge...
+C: MARGE
+D: I'm sorry, Mike.
+C: MIKE
+D: Oh, ya know, that's, uh - what can I say?...
+N: He holds up his drink.
+C: MIKE
+D: ... Better times, huh?
+N: Marge clinks it.
+C: MARGE
+D: Better times.
+C: MIKE
+D: I was so... I been so ... and then I saw you on TV, and I remembered, ya know... I always liked you...
+C: MARGE
+D: Well, I always liked you, Mike.
+C: MIKE
+D: I always liked ya so much...
+C: MARGE
+D: It's okay, Mike - Should we get together another time, ya think?
+C: MIKE
+D: No - I'm sorry! It's just - I been so lonely - then I saw you, and...
+N: He is weeping.
+C: MIKE
+D: ... I'm sorry... I shouldn't a done this... I thought we'd have a really terrific time, and now I've...
+C: MARGE
+D: It's okay...
+C: MIKE
+D: You were such a super lady ... and then I... I been so lonely...
+C: MARGE
+D: It's okay, Mike...
+N: CARLTON CELEBRITY ROOM Carl Showalter is sitting at a small table with a tarty- looking blonde in a low-cut gown. Each holds a drink.
+C: CARL
+D: Just in town on business. Just in and out. Ha ha! A little of the old in-and-out!
+C: WOMAN
+D: Wuddya do?
+N: Carl looks around.
+C: CARL
+D: Have ya been to the Celebrity Room before? With other, uh, clients?
+C: WOMAN
+D: I don't think so. It's nice.
+C: CARL
+D: Yeah, well, it depends on the artist. You know, Jose Feliciano, ya got no complaints. Waiter!
+N: The reverse shows a disappearing waiter and the backs of many, many people sitting at tables between us and the very distant stage. Jose Feliciano, very small, performs on a spotlit stool. The acoustics are poor. Carl grimaces.
+C: CARL
+D: ... What is he, deaf?... So, uh, how long have you been with the escort service?
+C: WOMAN
+D: I don't know. Few munce.
+C: CARL
+D: Ya find the work interesting, do ya?
+C: WOMAN
+D: ... What're you talking about?
+N: A DIRTY BEDROOM Carl is humping the escort. We hear the door burst open. The escort is grabbed and flung out of bed.
+C: CARL
+D: Shep! What the hell are you doing? I'm banging that girl! Shep! Jesus Ch -
+N: Shep slaps him hard, forehand, backhand.
+C: SHEP
+D: Fuck out of my house!
+N: He hauls him up -
+C: CARL
+D: Shep! Don't you dare fucking hit me, man! Don't you -
+N: - punches him and flings him away. Carl hits a sofa and we see his bare legs disappear as he flips back over it. Shep enters frame to circle the sofa and kick at Carl behind it.
+C: SHEP
+D: Fuck outta here. Put me back in Stillwater. Little fucking shit.
+N: There is a knock at the door.
+C: VOICE
+D: Hey! Come on in there!
+N: Shep strides to the door, flings it open. A man in boxer shorts stands in the doorway.
+C: MAN
+D: C'mon, brother, it's late - Unghh!
+N: Shep hits him twice, then grabs both of his ears and starts banging his head against the wall. The hooker runs by, clutching her clothes, and Shep kicks her in the ass as she passes. He spins and goes back into the apartment. Carl is hopping desperately into his pants.
+C: CARL
+D: Stay away from me, man! Hey! Smoke a fuckin' peace pipe, man! Don't you dare fuckin' - Unghh!
+N: After hitting him several times, Shep yanks Carl's belt out of his dangling pants and strangles him with it. Carl gurgles. Shep knees Carl repeatedly, then dumps him onto the floor and starts whipping him with the buckle end of the belt. CHAIN RESTAURANT PHONE BOOTH Carl listens to the phone ring at the other end. His face
+T: is deeply bruised and cut.
+N: Finally, through the phone...
+C: VOICE
+D: ... Yah?
+C: CARL
+D: All right, Jerry, I'm through fucking around. You got the fucking money?
+N: JERRY'S KITCHEN Jerry is at the kitchen phone. Through the door to the dining room we see Wade picking up an extension.
+C: JERRY
+D: Yah, I got the money, but, uh -
+C: CARL
+D: Don't you fucking but me, Jerry. I want you with this money on the Dayton-Radisson parking ramp, top level, thirty minutes, and we'll wrap this up.
+C: JERRY
+D: Yah, okay, but, uh -
+C: CARL
+D: You're there in thirty minutes or I find you, Jerry, and I shoot you, and I shoot your fucking wife, and I shoot all your little fucking children, and I shoot 'em all in the back of their little fucking heads. Got it?
+C: JERRY
+D: ... Yah, well, you stay away from Scotty now -
+C: CARL
+D: GOT IT?
+C: JERRY
+D: Okay, real good, then.
+N: The line goes dead. A door slams offscreen.
+S: EXT. HOUSE
+N: Wade, briefcase in hand, gets into his Cadillac, slams the door and peels out.
+S: INT. CAR
+N: Wade's jaw works as he glares out at traffic. He mumbles to himself as he drives.
+C: WADE
+D: Okay ... here's your damn money, now where's my daughter?... Goddamn punk ... where's my damn daughter...
+N: He pulls out a gun, cracks the barrel, peers in.
+C: WADE
+D: ... You little punk.
+N: JERRY'S HOUSE Jerry sits in the foyer, trying to pull on pair of galoshes. Scotty's voice comes from upstairs:
+C: VOICE
+D: ... Dad?
+C: JERRY
+D: It's okay, Scotty.
+C: VOICE
+D: Where're you going?
+C: JERRY
+D: Be back in a minute. If Stan calls you, just tell him I went to Embers. Oh, geez -
+N: Thunk! - his first boot goes on. RADISSON Marge sits on the bed in her hotel room, shoes off, massaging her feet. The phone is pressed to her ear, and through it, we hear ringing.
+C: VOICE
+D: ... Hello?
+C: MARGE
+D: Norm?
+N: MILLE LACS LAKE It is late evening, blowing storm. A leisurely pan across the bleak gray expanse finds a little hut in the middle of the frozen lake with a pickup truck parked next to it.
+C: MARGE'S VOICE
+D: They bitin'?
+S: INT. HUT
+N: Norm has a cellular phone to his ear. His feet are stretched out to an electric heater. The interior is bathed in soft orange light.
+C: NORM
+D: Yah, okay. How's the hotel?
+C: MARGE
+D: Oh, pretty good. They bitin'?
+C: NORM
+D: Yeah, couple a muskies. No pike yet. How d'you feel?
+C: MARGE
+D: Oh, fine.
+C: NORM
+D: Not on your feet too much?
+C: MARGE
+D: No, no.
+C: NORM
+D: You shouldn't be on your feet too much, you got weight you're not used too. How's the food down there?
+C: MARGE
+D: Had dinner at a place called the King's Table. Buffet style. It was pretty darn good.
+C: NORM
+D: Was it reasonable?
+C: MARGE
+D: Yah, not too bad. So it's nice up there?
+C: NORM
+D: Yah, it's good. No pike yet, but it's good.
+N: DAYTON-RADISSON RAMP The top, open, level. Snow blows. A car sits idling. Another car pulls onto the roof. It creeps over to the parked car and stops. It continues to idle as its door opens and Wade steps out, carrying the briefcase. The door of the other car bangs open and Carl bounces out.
+C: CARL
+D: Who the fuck are you? Who the fuck are you?
+C: WADE
+D: I got your goddamn money, you little punk. Now where's my daughter?
+C: CARL
+D: I am through fucking around! Drop that fucking briefcase!
+C: WADE
+D: Where's my daughter?
+C: CARL
+D: Fuck you, man! Where's Jerry? I gave SIMPLE FUCKING INSTRUCTIONS -
+C: WADE
+D: Where's my damn daughter? No Jean, no money!
+C: CARL
+D: Drop that fucking money!
+C: WADE
+D: No Jean, no money!
+C: CARL
+D: Is this a fucking joke here?
+N: He pulls out a gun and fires into Wade's gut.
+C: CARL
+D: ... Is this a fucking joke?
+C: WADE
+D: Unghh ... oh, geez...
+N: He is on the pavement, clutching at his gut. Snow swirls.
+C: CARL
+D: You fucking imbeciles!
+N: He bends down next to Wade to pick up the briefcase.
+C: WADE
+D: Oh, for Christ ... oh, geez...
+N: Wade brings out his gun and fires at Carl's head, close by.
+C: CARL
+D: Oh!
+N: Carl stumbles and falls back, and then stands up again. His jaw is gouting blood.
+C: CARL
+D: ... Owwmm...
+N: One hand pressed to his jaw, he fires down at Wade several times. Blood streams through the hand pressed to his jaw.
+C: CARL
+D: ... Mmmmmphnck! He fnkem shop me...
+N: He pockets the gun, picks up the briefcase one-handed, flings it into his car, gets in, peels out. DOWN RAMP Carl screams down the ramp. He takes a corner at high speed and swerves, just missing Jerry in his Olds on his way to the top.
+S: INT. JERRY'S CAR
+N: Jerry recovers from the near miss and continues up.
+C: JERRY
+D: Oh, geez!
+N: EXIT BOOTH Carl squeals to a halt at the gate, still pressing his hand to his bleeding jaw.
+C: CARL
+D: Ophhem ma fuchem gaphe!
+C: ATTENDANT
+D: May I have your ticket, please?
+N: RAMP ROOF Jerry pulls to a halt next to Wade's idling Cadillac. He gets out and walks slowly to Wade's body, prostrate in the swirling snow.
+C: JERRY
+D: Oh! Oh, geez!
+N: He bends down, picks Wade up by the armpits and drags him over to the back of the Cadillac. He drops Wade's body, walks to the driver's side of the car, pulls the keys and walks back to pop the trunk. He wrestles Wade's body into the trunk, slams it shut and walks back to the scene of the shooting. He kicks at the snow with his galoshed feet, trying to hide the fresh bloodstains. EXIT BOOTH Jerry approaches in the Cadillac. The wooden gate barring the exit has been broken away. The booth is empty. Jerry eases toward the street, looking over at the booth as he passes. Inside the booth we see the awkwardly angled leg of a prostrate body.
+S: EXT. JERRY'S HOUSE
+N: The car pulls into the driveway. FOYER Jerry enters and sits on the foyer chair to take off his galoshes.
+C: SCOTT'S VOICE
+D: ... Dad?
+C: JERRY
+D: Yah.
+C: SCOTT'S VOICE
+D: Stan Grossman called.
+C: JERRY
+D: Yah, okay.
+C: SCOTT'S VOICE
+D: Twice.
+C: JERRY
+D: Okay.
+C: SCOTT'S VOICE
+D: ... Is everything okay?
+C: JERRY
+D: Yah.
+N: Thoonk - the first boot comes off.
+C: SCOTT'S VOICE
+D: Are you calling Stan?
+C: JERRY
+D: Well... I'm goin' ta bed now.
+N: CARL'S CAR Carl mumbles as he drives, underlit by the dim dash lights, one hand now holding a piece of rag to his shredded jaw.
+C: CARL
+D: ... Fnnkn ashlzh... Fnk...
+N: ROAD Carl's car roars into frame, violently swirling the snow. Its red tail lights fishtail away.
+T: FADE OUT
+N: HOLD IN BLACK HARD CUT TO: BRIGHT - LOOKING THROUGH A WINDSHIELD It is a starky sunny day. We are cruising down a street of humble lookalike houses. We pan right as we draw toward one house in particular. In its driveway a man in a hooded parka shovels snow. He notices the approaching car and gives its driver a wave. The driver is Gary, the Brainderd police officer. He gives a finger-to-the-head salute and pulls over. OUTSIDE Gary slams his door shut and the other man plants his shovel in the snow.
+C: MAN
+D: How ya doin'?
+C: GARY
+D: Mr. Mohra?
+C: MAN
+D: Yah.
+C: GARY
+D: Officer Olson.
+C: MAN
+D: Yah, right-o.
+N: The two men caucus the driveway without shaking hands and without standing particularly close. They stand stiffly, arms down at their sides and breath streaming out of their parka hoods. Each has an awkward leaning-away posture, head drawn slightly back and chin tucked in, to keep his face from protruding into the cold.
+C: MAN
+D: ... So, I'm tendin' bar there at Ecklund && Swedlin's last Tuesday and this little guy's drinkin' and he says, 'So where can a guy find some action - I'm goin' crazy down there at the lake.' And I says, 'What kinda action?' and he says, 'Woman action, what do I look like,' And I says 'Well, what do I look like, I don't arrange that kinda thing,' and he says, 'I'm goin' crazy out there at the lake' and I says, 'Well, this ain't that kinda place.'
+C: GARY
+D: Uh-huh.
+C: MAN
+D: So he says, 'So I get it, so you think I'm some kinda jerk for askin',' only he doesn't use the word jerk.
+C: GARY
+D: I unnerstand.
+C: MAN
+D: And then he calls me a jerk and says the last guy who thought he was a jerk was dead now. So I don't say nothin' and he says, 'What do ya think about that?' So I says, 'Well, that don't sound like too good a deal for him then.'
+C: GARY
+D: Ya got that right.
+C: MAN
+D: And he says, 'Yah, that guy's dead and I don't mean a old age.' And then he says, 'Geez, I'm goin' crazy out there at the lake.'
+C: GARY
+D: White Bear Lake?
+C: MAN
+D: Well, Ecklund && Swedlin's, that's closer ta Moose Lake, so I made that assumption.
+C: GARY
+D: Oh sure.
+C: MAN
+D: So, ya know, he's drinkin', so I don't think a whole great deal of it, but Mrs. Mohra heard about the homicides out here and she thought I should call it in, so I called it in. End a story.
+C: GARY
+D: What'd this guy look like anyways?
+C: MAN
+D: Oh, he was a little guy, kinda funny-lookin'.
+C: GARY
+D: Uh-huh - in what way?
+C: MAN
+D: Just a general way.
+C: GARY
+D: Okay, well, thanks a bunch, Mr. Mohra. You're right, it's probably nothin', but thanks for callin' her in.
+C: MAN
+D: Oh sure. They say she's gonna turn cold tomorrow.
+C: GARY
+D: Yah, got a front movin' in.
+C: MAN
+D: Ya got that right.
+N: CLOSE ON CARL SHOWALTER In his car, now parked, one hand holding the rag pressed to his mangled jaw. He is staring down at something in the front seat next to him. His other hand holds open the briefcase. It has money inside - a lot of money. Carl unfreezes, takes out one of the bank-wrapped wads and looks at it.
+C: CARL
+D: ... Mmmnphh.
+N: He paws through the money in the briefcase to get a feeling for the amount.
+C: CARL
+D: ... Jeshush Shrist... Jeshush fuchem Shrist!
+N: Excited, he counts out a bundle of bills and tosses it onto the back seat. He starts to take the rag away from his chin but the layer pressed against his face sticks, its loose weave bound to his skin by clotted blood. He pulls very gently and winces as blood starts to flow again. He carefully tears the rag in half so that only a bit of it remains adhering to his jaw.
+S: EXT. CAR
+N: It is pulled over to the side of an untraveled road. THe door opens and Carl emerges with the briefcase. He slogs through the snow, down a gulley and up the embankment to a barbed-wire fence. He kneels at one of the fence posts and frantically digs into the snow with his bare hands, throws in the briefcase and covers it back up. He stands and tries to beat the circulation back into his red, frozen hands. He looks to the right. A regular line of identical fence posts stretches away against unblemished white. He looks to the left. A regular line of identical fence posts stretches away against unblemished white. He looks at the fence post in front of him.
+C: CARL
+D: Mmmphh...
+N: He looks about the snowy vastness for a marker. Finding none, he kicks the fence post a couple of times, failing to scar or tilt it, then hurriedly plants a couple of sicks up against the post. He bends down, scoops up a handful of snow, presses it against his wounded jaw, and lopes back to the idling car. HOTEL ROOM Marge has a packed overnight back sitting on the unmade bed. She is ready to leave, already wearing her parka, but is on the phone.
+C: MARGE
+D: No, I'm leavin' this mornin', back up to Brainerd.
+C: VOICE
+D: Well, I'm sorry I won't see ya.
+C: MARGE
+D: Mm. But ya think he's all right? I saw him last night and he's -
+C: VOICE
+D: What'd he say?
+C: MARGE
+D: Well, it was nothin' specific he said, it just seemd like it all hit him really hard, his wife dyin' -
+C: VOICE
+D: His wife?
+C: MARGE
+D: Linda.
+C: VOICE
+D: No.
+C: MARGE
+D: Linda Cooksey?
+C: VOICE
+D: No. No. No. They weren't - he, uh, he was bothering Linda for about, oh, for a good year. Really pestering her, wouldn't leave her alone.
+C: MARGE
+D: So ... they didn't...
+C: VOICE
+D: No. No. They never married. Mike's had psychiatric problems.
+C: MARGE
+D: Oh. Oh, my.
+C: VOICE
+D: Yah, he - he's been struggling. He's living with his parents now.
+C: MARGE
+D: Oh. Geez.
+C: VOICE
+D: Yah, Linda's fine. You should call her.
+C: MARGE
+D: Geez. Well - geez. That's a suprise.
+N: MARGE'S CAR Marge drives, gazing out at the road. MARGE AT A DRIVE-THROUGH She leans out of her open window and yells at the order panel:
+C: MARGE
+D: Hello?
+N: MARGE AT THE GUSTAFSON OLDS GARAGE She sits in the lot, eating a breakfast sandwich. JERRY LUNDEGAARD'S OFFICE Jerry is at his desk using a blunt pencil to enter numbers onto a form. Beneath the form is a piece of carbon paper and beneath that another form copy, which Jerry periodically checks. The carbon-copy form shows thick smudgy, illegible entries. Jerry hums nervously. Glass rattles as someone taps at his door. Jerry looks up and freezes, mouth hanging open, brow knit with worry. Marge sticks her head in the door.
+C: MARGE
+D: Mr. Lundegaard? Sorry to bother you again. Can I come in?
+N: She starts to enter.
+C: JERRY
+D: Yah, no, I'm kinda - I'm kinda busy -
+C: MARGE
+D: I unnerstand. I'll keep it real short, then. I'm on my way out of town, but I was just - Do you mind if I sit down? I'm carrying a bit of a load here.
+C: JERRY
+D: No, I -
+N: But she is already sitting into the chair opposite with a sigh of relieved weight.
+C: MARGE
+D: Yah, it's this vehicle I asked you about yesterday. I was just wondering -
+C: JERRY
+D: Yah, like I told ya, we haven't had any vehicles go missing.
+C: MARGE
+D: Okay, are you sure, cause, I mean, how do you know? Because, see, the crime I'm investigating, the perpetrators were driving a car with dealer plates. And they called someone who works here, so it'd be quite a coincidence if they weren't, ya know, connected.
+C: JERRY
+D: Yah, I see.
+C: MARGE
+D: So how do you - have you done any kind of inventory recently?
+C: JERRY
+D: The car's not from our lot, ma'am.
+C: MARGE
+D: but do you know that for sure without -
+C: JERRY
+D: Well, I would know. I'm the Executive Sales Manager.
+C: MARGE
+D: Yah, but -
+C: JERRY
+D: We run a pretty tight ship here.
+C: MARGE
+D: I know, but - well, how do you establish that, sir? Are the cars, uh, counted daily or what kind of -
+C: JERRY
+D: Ma'am, I answered your question.
+N: There is a silent beat.
+C: MARGE
+D: ... I'm sorry, sir?
+C: JERRY
+D: Ma'am, I answered your question. I answered the darn - I'm cooperating here, and I...
+C: MARGE
+D: Sir, you have no call to get snippy with me. I'm just doin' my job here.
+C: JERRY
+D: I'm not, uh, I'm not arguin' here. I'm cooperating... There's no, uh - we're doin' all we can...
+N: He trails off into silence.
+C: MARGE
+D: Sir, could I talk to Mr. Gustafson?
+N: Jerry stares at her.
+C: MARGE
+D: ... Mr. Lundegaard?
+N: Jerry explodes:
+C: JERRY
+D: Well, heck, if you wanna, if you wanna play games here! I'm workin' with ya on this thing, but I...
+N: He is getting angrily off his feet.
+C: JERRY
+D: Okay, I'll do a damned lot count!
+C: MARGE
+D: Sir? Right now?
+C: JERRY
+D: Sure right now! You're darned tootin'!
+N: He is yanking his parka from a hook behind the opened door and grabbing a pair of galoshes.
+C: JERRY
+D: ... If it's so damned imporant to ya!
+C: MARGE
+D: I'm sorry, sir, I -
+N: Jerry has the parka slung over one arm and the galoshes pinched in his hand.
+C: JERRY
+D: Aw, what the Christ!
+N: He stamps out the door. Marge stares. After a long moment her stare breaks. She glances idly around the office. There is a framed picture facing away from her on the desktop. She turns it to face her. It is Scotty, holding an accordion. There is another picture of Jean. Marge looks at it, looks around, for some reason, at the ceiling. She looks at a trophy shelf on the wall behind her. She fiddles idly with a pencil. She pulls a clipboard toward her. It holds a form from the General Motors Finance Corporation. She looks idly around. Her look abruptly locks.
+C: MARGE
+D: ... Oh, for Pete's sake.
+N: Jerry is easing his car around the near corner of the building. Marge's voice is flat with dismay:
+C: MARGE
+D: ... Oh, for Pete's sake...
+N: She grabs the phone and punches in a number.
+C: MARGE
+D: ... For Pete's s- he's fleein' the interview. He's feelin' the interview...
+N: Jerry makes a left turn into traffic.
+C: MARGE
+D: ... Detective Sibert, please...
+N: POLICE OFFICER We are looking across a steam table at a man in blue. He moves slowly to the right, pushing his tray along a cafeteria line. Behind him, in the depth of the room, is an eating area of long Formica tables at which sit a mix of uniformed and civilian-clothed police and staff. We are listening to an offscreen woman's voice.
+C: WOMAN
+D: Well, so far we're just saying he's wanted for questioning in connection with a triple homicide. Nobody at the dealship there's been much help guessing where he might go...
+N: The woman is entering frame sliding a tray. Marge enters behind her, sliding her own. We move laterally with them as they slowly make their way along the line.
+C: MARGE
+D: Uh-huh.
+C: WOMAN
+D: We called his house; his little boy said he hadn't been there.
+C: MARGE
+D: And his wife?
+C: WOMAN
+D: She's visiting relatives in Florida. Now his boss, this guy Gustafson, he's also disappeared. Nobody at his office knows where he is.
+C: MARGE
+D: Geez. Looks like this thing goes higher than we thought. You call his home?
+C: WOMAN
+D: His wife's in the hospital, has been for a couple months. The big C.
+C: MARGE
+D: Oh, my.
+C: WOMAN
+D: And this Shep Proudfoot character, he's a little darling. He's now wanted for assault and parole violation. He clobbered a neighbor of his last night and another person who could be one of your perps, and he's at large.
+C: MARGE
+D: Boy, this thing is really ... geez.
+C: WOMAN
+D: Well, they're all out on the wire. Well, you know...
+C: MARGE
+D: Yah. Well, I just can't thank you enough, Detective Sibert, this cooperation has been outstanding.
+C: DETECTIVE SIBERT
+D: Ah, well, we haven't had to run around like you. When're you due?
+C: MARGE
+D: End a April.
+C: DETECTIVE SIBERT
+D: Any others?
+C: MARGE
+D: This'll be our first. We've been waiting a long time.
+C: DETECTIVE SIBERT
+D: That's wonderful. Mm-mm. It'll change your life, a course.
+C: MARGE
+D: Oh, yah, I know that!
+C: DETECTIVE SIBERT
+D: They can really take over, that's for sure.
+C: MARGE
+D: You have children?
+N: Detective Sibert pulls an accordion of plastic picture sleeves from her purse to show Marge.
+C: DETECTIVE SIBERT
+D: I thought you'd never ask. The older one is Janet, she's nine, and the younger one is Morgan.
+C: MARGE
+D: Oh, now he's adorable.
+C: DETECTIVE SIBERT
+D: He's three now. Course, not in that picture.
+C: MARGE
+D: Oh, he's adorable.
+C: DETECTIVE SIBERT
+D: Yah, he -
+C: MARGE
+D: Where'd you get him that parka?
+N: They have reached the end of the cafeteria line. With a nod to the cashier, Detective Sibert indicates hers and Marge's trays.
+C: DETECTIVE SIBERT
+D: Both of these.
+C: MARGE
+D: Oh, no, I can't let you do that.
+C: DETECTIVE SIBERT
+D: Oh, don't be silly.
+C: MARGE
+D: Well, okay - thank you, Detective.
+C: DETECTIVE SIBERT
+D: Oh, don't be silly.
+N: GAEAR GRIMSRUD He sits eating a Swanson's TV dinner from a TV tray he has set up in front of an easy chair. He watches the old black-and-white TV set whose image - it might be a game show - is still heavily ghosting and diffused by snow. The audio crackles with interference. Despite the impenetrability of its image, it holds Grimsrud's complete attention. At the sound of the front door opening, Grimsrud looks up. Carl enters, his face suppurating and raw. He reacts to Grimsrud's wordless look with a grotesque laugh.
+C: CARL
+D: You should she zhe uzher guy!
+N: He glances around.
+C: CARL
+D: ... The fuck happen a her?
+N: Jean sits slumped in a straight-backed chair facing the wall. Her hooded head, resting on her chin, is motionless. There is blood on the facing wall.
+C: GRIMSRUD
+D: She started shrieking, you know.
+C: CARL
+D: Jezhush.
+N: He shakes his head.
+C: CARL
+D: ... Well, I gotta muddy.
+N: He is plunking down eight bank-wrapped bundles on the table.
+C: CARL
+D: ... All of it. All eighty gran. Forty for you...
+N: He makes one pile, pockets the rest.
+C: CARL
+D: ... Forty for me. Sho thishuzh it. Adiosh.
+N: He slaps keys down on the table.
+C: CARL
+D: ... You c'n'ave my truck. I'm takin' a Shiera.
+C: GRIMSRUD
+D: We split that.
+N: Carl looks at him.
+C: CARL
+D: HOW THE FUCK DO WE SHPLITTA FUCKIN' CAR? Ya dummy! Widda fuckin' chainshaw?
+N: Grimsrud looks sourly up. There is a beat. Finally:
+C: GRIMSRUD
+D: One of us pays the other for half.
+C: CARL
+D: HOLD ON! NO FUCKIN' WAY! YOU FUCKIN' NOTISH ISH? I GOT FUCKIN' SHOT INNA FAISH! I WENT'N GOTTA FUCKIN' MONEY! I GET SHOT FUCKIN' PICKIN' IT UP! I BEEN UP FOR
+C: THIRTY-SHIKSH FUCKIN' HOURZH! I'M
+D: TAKIN' THAT FUCKIN' CAR! THAT FUCKERZH MINE!
+N: Carl waits for an argument, but only gets the steady sour look. Carl pulls out a gun.
+C: CARL
+D: ... YOU FUCKIN' ASH-HOLE! I LISHEN A YOUR BULLSHIT FOR A WHOLE FUCKIN' WEEK!
+N: A beat. Carl returns Grimsrud's stare.
+C: CARL
+D: ... Are we shquare?
+N: Grimsrud says nothing.
+C: CARL
+D: ... ARE WE SHQUARE?
+N: A beat. Disgusted, Carl pockets the gun and heads for the door.
+C: CARL
+D: ... Fuckin' ash-hole. And if you shee your friend Shep Proudpfut, tell him I'm gonna NAIL hizh fuckin' ash.
+N: OUTSIDE We are pulling Carl as he walks toward the car. Behind him we see the cabin door opening. Carl turns, reacting to the sound. Grimsrud is bounding out wearing mittens and a red hunter's cap, but no overcoat. He is holding an ax. Carl fumbles in his pocket for his gun. Grimsrud swings overhand, burying the ax in Carl's neck. MARGE In her cruiser, on her two-way. Through it we hear Lou's voice, heavily filtered:
+C: VOICE
+D: His wife. This guy says she was kidnapped last Wednesday.
+C: MARGE
+D: The day of our homicides.
+C: VOICE
+D: Yah.
+N: Marge is peering to one side as she drives, looking through the bare trees that border the road on a declivity that runs down to a large frozen lake.
+C: MARGE
+D: And this guy is...
+C: VOICE
+D: Lundegaard's father-in-law's accountant.
+C: MARGE
+D: Gustafson's accountant.
+C: VOICE
+D: Yah.
+C: MARGE
+D: But we still haven't found Gustafson.
+C: VOICE
+D: - looking.
+E: crackle
+C: MARGE
+D: Sorry - didn't copy.
+C: VOICE
+D: Still missing. We're looking.
+C: MARGE
+D: Copy. And Lundegaard too.
+C: VOICE
+D: Yah. Where are ya, Margie?
+N: We hear, distant but growing louder, harsh engine noise, as of a chainsaw or lawnmower.
+C: MARGE
+D: Oh, I'm almost back - I'm driving around Moose Lake.
+C: VOICE
+D: Oh. Gary's loudmouth.
+C: MARGE
+D: Yah, the loudmouth. So the whole state has it, Lundegaard and Gustafson?
+C: VOICE
+D: Yah, it's over the wire, it's everywhere, they'll find 'em.
+C: MARGE
+D: Copy.
+C: VOICE
+D: We've got a -
+C: MARGE
+D: There's the car! There's the car!
+N: We are slowing as we approach a short driveway leading down to a cabin. Parked in front is the brown Cutlass Ciera.
+C: VOICE
+D: Whose car?
+C: MARGE
+D: My car! My car! Tan Ciera!
+C: VOICE
+D: Don't go in! Wait for back-up!
+N: Marge is straining to look. The power-tool noise is louder here but still muffled, its source not yet visible.
+C: VOICE
+D: ... Chief Gunderson?
+C: MARGE
+D: Copy. Yah, send me back-up!
+C: VOICE
+D: Yes, ma'am. Are we the closest PD?
+C: MARGE
+D: Yah, Menominie only has Chief Perpich and he takes February off to go to Boundary Waters.
+N: ROAD EXTERIOR Marge pulls her prowler over some distance past the cabin. She gets out, zips up her khaki parka and pulls up its fur- lined hood. For a moment, she stands listening to the muffled roar of the power tool. Then, with one curved arm half pressing against, half supporting her belly, she takes slow, gingerly steps down the slope, through the deep snow, through the trees angling toward the cabin and the source of the grinding noise. She slogs from tree to tree, letting each one support her downhill-leaning weight for a moment before slogging to the next. The roar grows louder. Marge stands panting by one tree, her breath vaporizing out of her snorkel hood. She squints down toward the cabin's back lot. A tall man with his back to us, wearing a red plaid quilted jacket and a hunting cap with earflaps, is laboring over a large power tool which his body blocks from view. Marge advances. The man is forcing downward something which engages the roaring power tool and makes harsh spluttering noises. The man is Grimsrud, his nose red and eyes watering from the cold, hatflaps pulled down over his ears. His breath steams as he sourly goes about his work, both hands pressing down a shod foot, as it if were the shaft of a butter churn. The roar is very loud. Marge slogs down to the next tree, panting, looking. Grimsrud forces more of the leg into the machine, which we can now see sprays small wet chunks out the bottom. Marge's eyes shift. A large dark form lies in the snow next to Grimsrud. Grimsrud works on, eyes watering. With a grunt he bends down out of frame and then re-enters holding a thick log. He uses it to force the leg deeper into the machine. Marge is advancing. She holds a gun extended toward Grimsrud, who is still turned away. Grimsrud rubs his nose with the back of his hand. Marge closes in, grimacing. Grimsrud's back strains as he puts his weight into the log that pushes down into the machine. The dark shape in the snow next to his side is the rest of Carl Showalter's body. Marge has drawn to within twenty yards. When she bellows it sounds hollow and distant, her voice all but eaten up by the roar of the power tool.
+C: MARGE
+D: Stop! Police! Turn around and hands up!
+N: Startled, Grimsrud scowls. He turns to face her. He stares. Marge bellows again:
+C: MARGE
+D: ... Hands up!
+N: Conscious of the noise, she shows with a twist of her shoulder the armpatch insignia.
+C: MARGE
+D: ... Police!
+N: Grimsrud stares. With a quick twist, he reaches back for the log, hurls it at Marge and then starts running away. Marge twists her body sideways, shielding herself. No need - the heavy log travels perhaps ten yards and lands in the snow several feet short of her. Grimsrud pants up the hill - slow going through the deep snow. Behind him:
+C: MARGE
+D: ... Halt!
+N: She fires in the air. She lowers the gun and carefully sighs.
+C: MARGE
+D: ... Halt!
+N: She fires. Grimsrud still slogs up the hill - a miss. Marge sights again.
+C: MARGE
+D: ... Halt!
+N: She fires again. Grimsrud pitches forward. He mutters in Swedish as he reaches down to clutch at his wounded leg. Marge walks toward him, gun trained on him as her other hand reaches under her parka and gropes around her waist. It comes out with a pair of handcuffs, which she opens with a snap of the wrist.
+C: MARGE
+D: ... All right, buddy. On your belly and your hands clasped behind you.
+N: THE CRUISER Marge drives. Grimsrud sits in the back seat, hands cuffed behind him. For a long moment there, he is quiet - only engine hum and the periodic clomp of wheels on pavement seams - as Marge grimly shakes her head.
+C: MARGE
+D: ... So that was Mrs. Lundegaard in there?
+N: She glances up in the rear-view mirror. Grimsrud, cheeks sunk, eyes hollow, looks sourly out at the road. Marge shakes her head. At length:
+C: MARGE
+D: ... I guess that was your accomplice in the wood chipper.
+N: Grimsrud's head bobs with bumps on the road; otherwise he is motionless, reactionless, scowling and gazing out.
+C: MARGE
+D: ... And those three people in Brainerd.
+N: No response. Marge, gazing forward, seems to be talking to herself.
+C: MARGE
+D: ... And for what? For a little bit of money.
+N: We hear distant sirens.
+C: MARGE
+D: ... There's more to life than money, you know.
+N: She glances up in the rear-view mirror.
+C: MARGE
+D: ... Don't you know that?... And here ya are, and it's a beautiful day...
+N: Grimsrud's hollow eyes stare out. The sirens are getting louder. Marge pulls over.
+C: MARGE
+D: ... Well...
+N: She leans forward to the dash to give two short signalling WHOOPS on her siren. She turns on her flashers. She leans back with a creak and jangle of utilities. She stares forward, shakes her head. We hear the dull click of her flashers.
+C: MARGE
+D: ... I just don't unnerstand it.
+N: Outside it is snowing. The sky, the earth, the road - all white. A squad car, gumballs spinning, punches through the white. It approaches in slow motion. An ambulance punches through after it. Another squad car.
+T: FADE OUT: FADE IN:
+N: HIGH AND WIDE ON A SHABBY MOTEL It stands next to a highway on a snowy, windslept plain. One or two cars dot the parking lot along with an idling police cruiser. MOTEL ROOM DOORWAY We are looking over the shoulders of two uniformed policemen who stand on either side of the door, their hands resting lightly on their holstered sidearms. One of them raps at the door.
+C: COP ONE
+D: Mr. Anderson...
+N: A title fades in: OUTSIDE OF BISMARK, NORTH DAKOTA After a pause, muffled through the door:
+C: VOICE
+D: ... Who?...
+C: COP ONE
+D: Mr. Anderson, is this your burgundy 88 out here?
+C: VOICE
+D: ... Just a sec.
+C: COP ONE
+D: Could you open the door, please?
+C: VOICE
+D: ... Yah. Yah, just a sec.
+N: We hear a clatter from inside.
+C: VOICE
+D: ... Just a sec...
+N: One of the policemen unholsters his gun and nods to someone whose back enters - a superintendent holding a ring of keys. This man turns a key in the door and then stands away. The two policemen, guns at the ready, bang into the motel room. The rough hand-held camera rushes in behind them as the two men give the room a two-handed sweep with their guns. The room is empty. Cop one indicates the open bathroom door.
+C: COP ONE
+D: Dale!
+N: The two men charge the bathroom, belts jingling, guns at the ready, jittery camera behind them rushing to keep pace. A man in boxer shorts is halfway out the bathroom window. The policemen holster their guns and charge the window, and drag Jerry Lundegaard back into the room. His flesh quivers as he thrashes and keens in short, piercing screams. The cops wrestle him to the floor but his palsied thrashing continues. The policemen struggle to restrain him.
+C: COP ONE
+D: Call an ambulance!
+C: COP TWO
+D: You got him okay?
+N: Cop One pinions Jerry's arms to the floor and Jerry bursts into uncontrolled sobbing.
+C: COP ONE
+D: Yah, yah, call an ambulance.
+N: Jerry sobs and screams. A BEDROOM We are square on Norm, who sits in bed watching television. After a long beat, Marge enters frame in a nightie and climbs into bed, with some effort.
+C: MARGE
+D: Oooph!
+N: Norm reaches for her hand as both watch the television. At length Norm speaks, but keeps his eyes on the TV.
+C: NORM
+D: They announced it.
+N: Marge looks at him.
+C: MARGE
+D: They announced it?
+C: NORM
+D: Yah.
+N: Marge looks at him, waiting for more, but Norm's eyes stay fixed on the television.
+C: MARGE
+D: ... So?
+C: NORM
+D: Three-cent stamp.
+C: MARGE
+D: Your mallard?
+C: NORM
+D: Yah.
+C: MARGE
+D: Norm, that's terrific!
+N: Norm tries to suppress a smile of pleasure.
+C: NORM
+D: It's just the three cent.
+C: MARGE
+D: It's terrific!
+C: NORM
+D: Hautman's blue-winged teal got the twenty-nine cent. People don't much use the three-cent.
+C: MARGE
+D: Oh, for Pete's - a course they do! Every time they raise the darned postage, people need the little stamps!
+C: NORM
+D: Yah.
+C: MARGE
+D: When they're stuck with a bunch a the old ones!
+C: NORM
+D: Yah, I guess.
+C: MARGE
+D: That's terrific.
+N: Her eyes go back to the TV.
+C: MARGE
+D: ... I'm so proud a you, Norm.
+N: Norm murmurs:
+C: NORM
+D: I love you, Margie.
+C: MARGE
+D: I love you, Norm.
+N: Both of them are watching the TV as Norm reaches out to rest a hand on top of her stomach.
+C: NORM
+D: ... Two more months.
+N: Marge absently rests her own hand on top of his.
+C: MARGE
+D: Two more months.
+T: Hold; fade out.

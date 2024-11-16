@@ -1,0 +1,2515 @@
+M: ADAPTATION
+M: by
+M: Charlie Kaufman and Donald Kaufman
+M: adapted from the book
+M: THE ORCHID THIEF
+M: by
+M: Susan Orlean
+M: September 24, 1999
+M: Second Draft
+S: EXT. ROCKY TERRAIN - DAY
+N: Endless barren landscape. No sign of life. The atmosphere is hazy, toxic-looking. Volcanoes erupt. Meteors bombard. Lightning strikes, concussing murky pools of water. Silence.
+S: INT. LARGE EMPTY LIVING ROOM - MORNING
+N: SUBTITLE: HOLLYWOOD, CA, FOUR BILLION AND FORTY YEARS LATER Beamed ceilings and ostentatious fireplace. A few birthday cards on the mantel, two of them identical: "To Our Dear Son on His Fortieth Birthday." Charlie Kaufman, a fat, balding man in a purple sweater with tags still attached, paces the room. His incantational voice-over carpets the scene.
+C: KAUFMAN
+D: I am old. I am fat. I am bald. My toenails have turned strange. I am repulsive. How repulsive? I don't know for I suffer from a condition called Body Dysmorphic Disorder. I am fat, but am I as fat as I think? My therapist says no, but people lie. I believe others call me Fatty behind my back. Or Fatso. Or, facetiously, Slim. But I also believe this is simply my own perverted form of self-aggrandizement, that no one really talks about me at all. What possible interest is an old, bald, fat man to anyone? I am repulsive. I have never lived. I blame myself. I --
+E: V.O.
+S: EXT. STATE ROAD 29 - DAWN
+N: A lonely two-lane highway cutting through swampland.
+C: BRITISH NARRATOR
+D: As natural selection works solely by and for the good of each being, all corporeal and mental endowments will tend to progress towards perfection.
+N: Suddenly, a beat-up white van barrels around a curve. It's followed closely by an old green Ford. SUBTITLE: STATE ROAD 29, FLORIDA, FIVE YEARS EARLIER
+S: INT. WHITE VAN - CONTINUOUS
+N: John Laroche drives. He's a skinny man with no front teeth. The van is piled with bags of potting soil, gardening junk. A Writings of Charles Darwin audio cassette case is on the seat next to Laroche.
+C: BRITISH NARRATOR
+D: It is interesting to contemplate an entangled bank, clothed with many plants of many kinds, with birds singing...
+N: Laroche tries to contemplate the plants and birds whizzing by. Almost too late, he spots the Fakahatchee Strand State Preserve sign and makes a squealing right onto the dirt road turn-off. The cassette case flies from the seat and half- buries itself in an open bag of peat.
+S: INT. GREEN FORD - CONTINUOUS
+N: Nirvana blasts. Russell, Vinson, and Randy, three young Indian men, pass a joint and watch the erratic van ahead.
+C: RUSSELL
+D: Laroche is asleep at the wheel.
+C: RANDY
+D: Crazy White Man is now Drowsy White Man.
+N: They share a stoned laugh.
+S: EXT. NEW YORK APARTMENT BUILDING - NIGHT
+N: SUBTITLE: NEW YORK, TWO YEARS LATER Late night street. The click-click of typing. We move slowly up the building to the only glowing window.
+C: ORLEAN
+D: John Laroche is a tall guy, skinny as a stick, pale-eyed, slouch-shouldered and sharply handsome despite the fact that he is missing all his front teeth.
+E: O.S. wistful
+N: In the window, lit by a single desk lamp, a woman types.
+S: INT. APARTMENT - CONTINUOUS
+N: We glide over the desk piled with books about orchids, past a photo of Laroche tacked to an overwhelmed bulletin board, and come to rest on a woman typing. It's Susan Orlean: pale, delicate and blond. We lose ourselves in her melancholy beauty. She turns to the camera and talks to us.
+C: ORLEAN
+D: Two years ago I went to Florida to meet Laroche after reading a small article about a white man and three Seminole men arrested with rare orchids they'd stolen out of a place called the...
+S: INT. RANGER'S TRUCK - MID-MORNING
+N: Tony, a ranger, drives along a dirt road past the Fakahatchee Strand State Preserve sign and enters the swamp. He sees the white van and Ford parked ahead, spots a Seminole license plate on the Ford. He pulls over down the road, and whispers into his C.B.
+C: TONY
+D: We got a Seminole, or Seminoles, in the swamp. I'm on Janes Scenic Drive just east of Logging Road Twelve. I repeat, Indians in the swamp.
+N: Tony waits for a response. Nothing. TONY (cont'd) Indians in the swamp. Nothing still. Tony clears his throat into the radio.
+C: RADIO VOICE
+D: I don't know what you want me to say.
+C: TONY
+D: Barry, Indians do not go on swamp walks. If there are Indians in the swamp, they are in there for a reason.
+N: No response. Tony glowers, gets out of the truck, watches the vehicles through binoculars. Nothing. He straightens his cap. Mosquitoes land on his neck, his nose, his lips.
+S: INT. L.A. BUSINESS LUNCH RESTAURANT - MIDDAY
+N: Kaufman, wearing his purple sweater sans tags, sits with Valerie, an attractive woman in wire-rim glasses. They pick at salads. Kaufman steals glances at her lips, her hair, her breasts. She looks up at him. He blanches, looks away.
+C: KAUFMAN
+D: I'm old. I'm bald. I'm repulsive.
+E: V.O.
+C: VALERIE
+D: We think you're just great.
+C: KAUFMAN
+D: Oh, thank you.
+E: with studied modesty
+N: Valerie absently rubs her nose. Kaufman self-consciously rubs his nose in response.
+C: VALERIE
+D: And we're thrilled you're interested.
+N: Valerie rubs her nose again. Kaufman pulls at his nostril. A rivulet of sweat slides down his forehead. Valerie watches it. Kaufman sees her watching it. She sees him seeing her watching it. She looks at her salad. He quickly swabs.
+C: KAUFMAN
+D: Oh, thanks, wow. That's nice to hear.
+C: VALERIE
+D: You have a really unique voice.
+C: KAUFMAN
+D: Well, thanks. That's... I appreciate that.
+C: VALERIE
+D: Very talented. Really.
+C: KAUFMAN
+D: Thanks. Thank you. Thanks.
+C: VALERIE
+D: So --
+E: looking up
+N: Kaufman's brow is dripping again. He smiles, embarrassed.
+C: KAUFMAN
+D: Sort of hot in here.
+C: VALERIE
+D: Yeah, it is a bit. So, why don't you tell me your thoughts on this crazy little project of ours.
+E: kindly
+N: In one motion, Kaufman swabs his forehead and pulls a book entitled The Orchid Thief from his bag.
+C: KAUFMAN
+D: First, I think it's a great book.
+C: VALERIE
+D: Laroche is a fun character, isn't he?
+N: Kaufman nods, flips through the book, stalling. There's a smiling author photo of Susan Orlean on the inside back cover.
+C: KAUFMAN
+D: And Orlean makes orchids so fascinating. Plus her musings on Florida, orchid poaching. Indians. Great, sprawling New Yorker stuff. I'd want to remain true to that, let the movie exist rather than be artificially plot driven.
+C: VALERIE
+D: Okay, great, great. I guess I'm not exactly sure what that means.
+C: KAUFMAN
+D: Oh. Well... I'm not sure exactly yet either. So... y'know, it's...
+C: VALERIE
+D: Oh. Okay. Great. So, um, what --
+C: KAUFMAN
+D: It's just, I don't want to compromise by making it a Hollywood product. An orchid heist movie. Or changing the orchids into poppies and turning it into a movie about drug running. Y'know?
+C: VALERIE
+D: Oh, of course. We agree. Definitely.
+C: KAUFMAN
+D: Or cramming in sex, or car chases, or guns. Or characters learning profound life lessons. Or characters growing or characters changing or characters learning to like each other or characters overcoming obstacles to succeed in the end. Y'know? Movie shit.
+N: Kaufman is sweating like crazy now. Valerie is quiet for a moment.
+C: VALERIE
+D: See, we thought maybe Susan Orlean and Laroche could fall in love during the course of --
+C: KAUFMAN
+D: Alienated journalist writes about passionate backwoods guy and he teaches her to love. I mean, it didn't happen, it wouldn't happen. It's Hollywood.
+S: INT. OFFICE - DAY
+N: SUBTITLE: HOLLYWOOD, CALIFORNIA, THREE WEEKS EARLIER The office is decorated with potted flowers, Audobon posters, lots of books. Kaufman, nervous and sweaty, watches Margaret, a soulful development executive, unpack boxes.
+C: KAUFMAN
+D: So anyway I just wanted to stop by to congratulate you on your promotion.
+C: MARGARET
+D: Well, thanks again. It's all so stupid.
+C: KAUFMAN
+D: I think it's great. Your photo in the trades and everything. Pretty cool.
+C: MARGARET
+D: Anyway. Yeah. So what's up with you?
+C: KAUFMAN
+D: I'm considering jobs. Mostly crap. There's one you might like, about flowers.
+C: MARGARET
+D: Flowers? Really? What is it?
+C: KAUFMAN
+D: They want me to do an adaptation of a book called The Orchid Thief.
+C: MARGARET
+D: Oh my God! You're kidding? I read that! I loved that book!
+N: Kaufman is thrilled; he's scored. Margaret pulls a copy of The Orchid Thief from her bookshelf. MARGARET (cont'd) See, see, see! I'm not lying to you!
+C: KAUFMAN
+D: I loved the book.
+C: MARGARET
+D: Oh, Charlie, orchids are the most amazing flowers. So complex.
+N: Margaret plops onto the couch next to Kaufman.
+C: KAUFMAN
+D: I know. They're really great.
+C: MARGARET
+D: You should take this job. Doesn't it sound exciting, to immerse yourself in a real subject and learn everything about it? Blake wrote about seeing heaven in a wild flower. And after you learn all this stuff, you can teach me!
+C: KAUFMAN
+D: That'd be fun.
+E: thrilled but controlled
+C: MARGARET
+D: God, they're such beautiful flowers. And so sexy. Y'know? Did you know that orchid means --
+E: whispering
+C: KAUFMAN
+D: Testicle. I just read that.
+C: MARGARET
+D: Testicle! Can you believe it!
+E: shrieks with delight
+N: Margaret giggles happily. Kaufman giggles weirdly. MARGARET (cont'd) I swear, it'd be fucking great for someone to have the testicles to make that book into a movie, man. Instead of this bullshit all the time. Something not about sex and violence and car chases and love stories, people learning profound lessons. Jesus, isn't nature enough?
+S: EXT. SWAMP - MORNING
+N: Hot, dirty, miserable. Laroche leads the Indians through waist-high black water. He points out a turtle on a rock.
+C: LAROCHE
+D: Pseudemys floridana. Did you fellas know you fellas believe the world rests on the back of a turtle? Not you fellas specifically. Although, maybe you fellas specifically. That I can't speak to.
+N: The Indians ignore him. They trudge. Laroche spots something else, a dull green root wrapped around a tree. He stops, circles the tree. His eyes widen in reverent awe. LAROCHE (cont'd) Polyrrhiza Lindenii. A ghost. The Indians come around. Laroche stares at a single beautiful, glowing white flower hanging from the tree. He tenderly caresses the petals. Then, business-like: LAROCHE (cont'd)
+T: Cut it down, Russell.
+N: Russell pulls out a hacksaw, begins sawing through the tree.
+S: INT. RESTAURANT - MIDDAY
+N: Kaufman still sweats as he talks to Valerie.
+C: KAUFMAN
+D: ...plus I love the idea of learning all about orchids. I really admire those guys who know everything about ants or fungus or whatever. I'd like to be more like that. See, I tend to write self- involved, self-loathing... even masturbatory stuff.
+C: VALERIE
+D: And it's wonderful, by the way.
+C: KAUFMAN
+D: Thanks. That's nice to hear. But I need to challenge myself as a writer. I've arrived at an age where I want to think about the world in a different way.
+C: VALERIE
+D: Adapting someone else's work is certainly an opportunity to think differently.
+C: KAUFMAN
+D: Yes. And I welcome the challenge of taking a small subject, like orchids, something that would never draw people into a theater and making that fascinating. I want to show people heaven in a wildflower. As Blake wrote.
+S: INT. PET STORE (1972) - DAY
+N: SUBTITLE: NORTH MIAMI, TWENTY-SIX YEARS EARLIER A serious ten year old boy walks from cage to aquarium, studying the inhabitants. He turns to his frumpy mother, who's been following at a respectful distance.
+C: BOY
+D: Any one at all, ma?
+N: She nods sweetly. The boy returns to his search. He stops at a small turtle in an aquarium. BOY (cont'd) I want this then.
+C: MOTHER
+D: A wonderful choice! And spiritually significant! Did you know that Native Americans believe the whole world rests on the back of a turtle?
+E: hugging him
+C: BOY
+D: Cool! I can't wait to tell the guys.
+S: EXT. SWAMP - MORNING
+N: As Laroche supervises, Randy, Russell, and Vinson saw through tree branches supporting lovely flowering orchids. They unceremoniously stuff the flowers into bulging pillowcases.
+S: INT. ROMANTIC RESTAURANT - EVENING
+N: Kaufman eats with Margaret. Margaret raises a glass.
+C: MARGARET
+D: To a fucking awesome assignment, man.
+N: Kaufman, pleased, clicks glasses. He takes a breath.
+C: KAUFMAN
+D: Hey, I'm going to an orchid show Sunday? For research? Maybe you'll come?
+C: MARGARET
+D: Absolutely. I think David, this guy I'm seeing, would enjoy it, too. He's a real naturalist. Okay if he comes along?
+C: KAUFMAN
+D: Yeah, of course. Sure.
+E: covering heartbreak
+C: MARGARET
+D: He wants to meet you anyway. All I do is tell him how great you are.
+C: KAUFMAN
+D: Oh, thanks. That's nice to hear.
+C: MARGARET
+D: You'll like him. He's so honest and smart. It's rare to find someone in this town who thinks about things other than this fucking business, y'know?
+C: KAUFMAN
+D: Yeah. That's great. He sounds great.
+C: MARGARET
+D: Like the other day we were in bed discussing Hegel. Hegel! In bed! It was fucking amazing. Have you read much?
+C: KAUFMAN
+D: Y'know, a long time ago. A bit. Y'know.
+C: MARGARET
+D: Well, anyway, David and I were discussing his Philosophy of History and I was...
+N: The entrees arrive. MARGARET (cont'd) ... struck by his notion that history is a human construct... Kaufman begins the laborious task of getting through his plate of food. He can no longer look up at Margaret.
+C: KAUFMAN
+D: Yeah.
+C: MARGARET
+D: ... that nature doesn't exist historically, but rather cyclically.
+E: MORE
+N: MARGARET (cont'd) So whereas human history spirals forward, building upon itself, nature...
+S: INT. BARNES AND NOBLE - DAY
+N: Kaufman pulls a bunch of orchid books off the shelf, carries them to the register, along with a book on Hegel, which features an engraving of the philosopher on the cover. Kaufman waits in line and watches the tattooed female cashier flirting with the handsome guy ahead of him. He studies their interaction, the way she looks at him. Her eyes, her lips. The guy leaves and the cashier waves Kaufman over. As she rings him up, she expresses no interest in him. He's hurt and fixates on a sexy flower tattoo on her arm. She catches him, pulls down her sleeve.
+S: EXT. JANES SCENIC DRIVE - MORNING
+N: Tony waits, sweaty and mosquito bitten. The radio crackles.
+C: RADIO VOICE
+D: How's that Injun round-up going, Tony?
+C: TONY
+D: Fuck you, Barry, you fuckin'...
+N: Rustling near the parked cars. Tony tenses. Laroche steps from the swamp with the Indians, who haul the pillowcases. TONY (cont'd) We got poachers. (into the radio, pleased) We got fuckin' poachers, Barry. Ha! Tony jumps into the truck and turns it around.
+S: INT. ORLEAN'S APARTMENT - NIGHT
+N: Orlean types. Her delicate fingers move with a pianist's grace across the computer keyboard.
+C: ORLEAN
+D: Orchid hunting is a mortal occupation.
+E: V.O.
+S: EXT. TROPICAL RIVER - DAY
+N: SUBTITLE: ORINOCO RIVER, ONE HUNDRED YEARS EARLIER An overturned boat and uprooted orchids float on the river.
+C: ORLEAN
+D: The Victorian-era orchid hunter William Arnold drowned on a collecting expedition.
+E: V.O.
+S: EXT. CLIFF - DAY
+N: SUBTITLE: SIERRA LEONE A man lies at the bottom of a cliff, clutching a flower.
+C: ORLEAN
+D: Schroeder fell to his death.
+E: V.O.
+S: EXT. FIELD - DAY
+N: SUBTITLE: RIO HACHA A man lies face down near an unplucked orchid.
+C: ORLEAN
+D: Endres was shot dead in Rio Hacha.
+E: V.O.
+S: EXT. RIVER - DAY
+N: SUBTITLE: YANGTZE RIVER An emaciated, limping, wheezing man with a makeshift bandage wrapped around his head, docks his boat.
+C: ORLEAN
+D: Augustus Margary survived toothache, rheumatism, pleurisy, and dysentery...
+E: V.O.
+N: Someone steps from behind a bush, stabs him, steals his boat. ORLEAN (V.O.) (cont'd) ... only to be murdered when he completed his mission and traveled beyond Bhamo. The murderer sails down river. ORLEAN (V.O.) (cont'd) Laroche loved orchids but I came to believe he loved the difficulty and fatality of getting them almost as much as he loved the orchids themselves.
+S: EXT. JANES SCENIC DRIVE - MORNING
+N: Tony steps out of his truck. Laroche smiles warmly.
+C: TONY
+D: Morning. May I ask what you gentlemen have in those pillowcases?
+C: LAROCHE
+D: Yes, sir, you absolutely may.
+N: Laroche goes back to directing the Indians. Tony's confused.
+C: TONY
+D: Okay, I'm asking then.
+C: LAROCHE
+D: Oh, Okay then! Let's see... Five kinds of bromeliad, one peperomia, nine orchid varieties. About a hundred and thirty plants all told, which my colleagues have removed from the swamp.
+E: peeking in bags
+C: TONY
+D: You're aware that it's illegal to remove plants or animals from state owned land?
+C: LAROCHE
+D: And don't forget these plants are all endangered, sir. Every one of them.
+C: TONY
+D: Exactly. Well, that's exactly the issue. This is a state preserve.
+C: LAROCHE
+D: Yes, sir, it is. Oh, and my colleagues are all Seminole Indians. Did I mention that? You're familiar, I'm sure, with the State of Florida v. James E. Billie. Tony nods, even though he has no idea.
+E: afterthought
+N: LAROCHE (cont'd) So you know that even though Seminole Chief Billie killed a Florida panther, one of, what, forty in the entire world? Laroche looks to the Indians for confirmation. They give it. LAROCHE (cont'd)
+T: The state couldn't successfully prosecute
+N: him. Because he's an Indian and it's his right. As repugnant as you or I as white conservationists might find his actions.
+C: TONY
+D: But --
+C: LAROCHE
+D: Not to mention the failed attempts on three separate occasions to prosecute Seminoles for poaching palm fronds, which, I believe, they use to thatch the roofs of their traditional chickee huts.
+N: Laroche again looks to the Indians for confirmation.
+C: RUSSELL
+D: He's right. That's exactly what we use them for. Chickee huts.
+N: Tony looks at the Indians.
+C: RANDY
+D: Yeah.
+C: VINSON
+D: Yeah.
+C: RUSSELL
+D: Yeah.
+C: TONY
+D: Yeah, but I don't... I can't let you fellas go yet. Just hold on while I... Hey, Barry, can I get some help? Barry?
+E: into radio
+S: INT. RENTAL CAR - DAY
+N: We watch Orlean as she drives out of the Miami Airport parking lot, onto the freeway, past congestion and billboards. Her mournful face glows beautifully, dramatically with golden sunlight. She talks to us.
+C: ORLEAN
+D: Nothing in Florida seems hard or permanent. The developed places are just little clearings in the jungle, but the jungle is unstoppably fertile, everything is always growing or expanding. At the same time, the wilderness disappears before your eyes.
+N: Orlean gets quiet. Her eyes tear.
+S: EXT. SUBURBAN BACKYARD - DAY
+N: SUBTITLE: AKRON, OHIO, THIRTY YEARS EARLIER Lush color. A seven year old girl is gleeful as her parents push her on a swing. She watches from the air as her mother and father, deeply in love, kiss between pushes.
+S: EXT. BIG SPANISH-STYLE HOUSE - DAY
+N: Kaufman gets out of his car with his books. Two teenage girls walk by. Kaufman watches as one whispers to the other. He thinks he hears the word "Fatso." The girls giggle.
+S: INT. EMPTY HOUSE - A COUPLE OF MINUTES LATER
+N: Kaufman passes a hall mirror, regards himself glumly, and climbs the stairs.
+C: KAUFMAN
+D: I am fat. I am repulsive. I cannot bear my own reflection.
+E: V.O.
+N: At the landing Kaufman comes upon Donald, his identical twin brother, on his back in pajama bottoms, opening a gift box.
+C: DONALD
+D: Did you open your present from mom yet?
+C: KAUFMAN
+D: What's with you?
+C: DONALD
+D: My back.
+N: Kaufman nods vaguely, continues down the hall. Donald pulls a purple sweater from the box, calls after Kaufman. DONALD (cont'd) Hey, Charles, you'll be glad, I have a plan to get me out of your house pronto.
+C: KAUFMAN
+D: A job is a plan. Is your plan a job?
+C: DONALD
+D: I'm gonna be a screenwriter! Like you!
+E: big build up
+N: Kaufman doesn't respond, enters his bedroom. DONALD (cont'd) I know you think this is just one of my get-rich-quick schemes. But I'm doing it right this time. I'm taking a seminar!
+S: INT. EMPTY BEDROOM - CONTINUOUS
+N: Kaufman lies face down on his mattress on the floor.
+C: DONALD
+D: It's only five hundred bucks!
+E: O.S.
+C: KAUFMAN
+D: Screenwriting seminars are bullshit.
+E: muffled by pillow
+N: Kaufman pulls a copy of Variety, open to a photo of Margaret, from under his pillow. He gets lost in the picture.
+C: DONALD
+D: In theory I agree with you. But this one is highly regarded within the industry.
+E: O.S.
+C: KAUFMAN
+D: Donald, don't say "industry."
+N: Donald, now in the sweater, appears on all fours in the doorway. Kaufman puts the paper back under his pillow.
+C: DONALD
+D: I'm sorry, I forgot. Charles, this guy knows screenwriting. People from all over come to study his method. I'll pay you back, man. As soon as I sell --
+C: KAUFMAN
+D: Let me explain something to you.
+C: DONALD
+D: Yeah, okay.
+C: KAUFMAN
+D: Anybody who says he's got "the answer" is going to attract desperate people. Be it in the world of religion --
+C: DONALD
+D: I just need to lie down while you explain this to me. Sorry. I apologize. Okay, go ahead. Sorry. Okay. Go.
+E: indicating his back lies down, stares at ceiling
+C: KAUFMAN
+D: There are no rules to follow, Donald, and anybody who says there are, is just --
+C: DONALD
+D: Not rules, principles. McKee writes: "A rule says, you must do it this way. A principle says, this works... and has through all remembered time."
+C: KAUFMAN
+D: The script I'm starting, it's about flowers. No one's ever done a movie about flowers before. So, there're no guidelines, and that's good because --
+C: DONALD
+D: What about Flowers for Algernon?
+C: KAUFMAN
+D: That's not about flowers. And it's not a movie.
+C: DONALD
+D: Oh, okay, I never saw it. Go ahead.
+C: KAUFMAN
+D: My point is, those teachers are dangerous if your goal is to do something new. And a writer should always have that goal. Writing is a journey into the unknown. It's not building a model airplane.
+N: Donald stares at the ceiling, fuming. Kaufman waits. Getting no no response, he pulls out his Hegel book and reads:
+C: KAUFMAN
+D: Each being is, because posited, an op- posited, a conditional and conditioning, the Understanding completes these its limitations by positing the opposite...
+E: V.O.
+N: Kaufman's head is spinning. He puts the book down. Both brothers stare at the ceiling. Donald finally speaks
+C: DONALD
+D: McKee is a former Fulbright scholar. Are you a former Fulbright scholar, Charles?
+S: INT. KITCHEN (1972) - EVENING
+N: The young boy eats with his family. His father wears a backbrace, his sister is weak and anemic. Only his sweet mother pays attention as he chatters excitedly.
+C: BOY
+D: Turtles are of the order Testudine!
+C: MOTHER
+D: Really? Testudine?
+C: BOY
+D: Yeah. And they're found on every continent! Except Antarptica!
+C: MOTHER
+D: Antarctica. Every continent, huh?
+C: BOY
+D: Uh-huh. The turtle shell has remained unchanged for two hundred million years! And there's all different kinds, Pelusio gabonensis, Phyrnops rufipes, Chitra indica, Dermochelys coriacea coriacea... EXT. SWAMP - LATE MORNING
+N: Ranger, sheriff, and state police cars are parked near the van and Ford. Lots of sweating, uniformed people. The pillowcases have been emptied, the plants lie on black plastic sheets. A guy sprinkles water on them. Laroche enthusiastically helps Ranger Mike Owen catalogue the flowers. The Indians lean against their car, bored and smoking. Nirvana seeps tinnily out the car window.
+C: LAROCHE
+D: ... and what we have here, my friend, is ... thirteen Encyclia Cochleata... four Encyclia Tampensis --
+C: MIKE OWEN
+D: I'm sorry, Encyclia what?
+C: LAROCHE
+D: Coch-le-ata. Tem-pen-sis. Okay, let's see, twenty-two Epidendrum Nocturnum. A very good haul. Two Catopsi Floribunda. Three Polyrrhiza Lindenii, the ghost orchid. What I really came for. These sweeties grow nowhere in the U.S. except in your swamp.
+E: pointing to each checks Owen's spelling
+C: MIKE OWEN
+D: That true? Boy, you really know your plants, Mr. Laroche.
+C: LAROCHE
+D: Yeah. I do. I'm one of the world's foremost experts. But that'll all be revealed at the hearing.
+S: INT. EMPTY DINING ROOM - DAY
+N: Kaufman sits at a card table, picking at a salad and reading an orchid book. Donald lies on the floor, chomping a hoagie and reading a copy of Story by Robert McKee.
+C: KAUFMAN
+D: The Orchidaceae is a large, ancient family of perennial plants with...
+E: V.O.
+N: Kaufman, bored, looks over at Donald, whose cheeks are stuffed with food.
+C: DONALD
+D: The most memorable, fascinating characters tend to have not only a conscious but an unconscious desire. Although these characters are unaware of their subconscious need...
+E: V.O.
+C: KAUFMAN
+D: Maybe you should watch what you eat, Donald. Did you ever consider maybe you're a bit fat? Does it ever occur to you, you kind of represent me in the world? That people look at you and think, he's Charlie's twin, therefore that's what Charlie must look like?
+C: DONALD
+D: By the way, mom's paying for the seminar.
+C: KAUFMAN
+D: Did you even hear what I said?
+C: DONALD
+D: Yeah. Anyway. I pitched mom my screenplay --
+C: KAUFMAN
+D: Jesus, don't say "pitch."
+C: DONALD
+D: Sorry. Anyway, she loved my... telling of my story to her. She said it's like "Silence of the Lambs" meets "Psycho."
+C: KAUFMAN
+D: Hey, maybe you and mom could collaborate. I hear she's really good with structure.
+C: DONALD
+D: You think you're so superior, Charles. Well, I'm really gonna write this. And you'll see. And, and... you suck, okay?
+N: The two glare at each other. They go back to their books.
+C: KAUFMAN
+D: Florida is a landscape of transition...
+E: V.O.
+C: DONALD
+D: Do not proliferate characters; do not multiply locations. Rather than hopscotching through time, space, and people, discipline yourself to a reasonably contained cast and world...
+E: V.O.
+S: INT. RENTAL CAR - DAY
+N: Orlean drives on State Road 29, past prefab housing, into swampland. She talks to us.
+C: ORLEAN
+D: Florida is a landscape of transition and mutation, a hybrid of unruliness and orderliness, nature and artifice.
+N: She brushes a wisp of hair from her face and tucks it behind her small, pretty ear. We linger on the ear, which grows pink with sunlight. Orlean catches us and smiles shyly.
+S: INT. EMPTY BEDROOM - DAY
+N: Kaufman traces a stubby, nail-bitten finger along State Road 29 along a Florida road map. He turns to his typewriter, and types in a clumsy hunt-and-peck style.
+C: KAUFMAN
+D: We open on State Road 29. A lonely stretch of road cutting through untamed swampland. Suddenly a beat-up white van barrels around a curve. It's driver: a skinny man with no front teeth...
+E: V.O.
+S: INT. COURT ROOM - DAY
+N: The proceedings are in progress. Orlean hurries in, sits in the back. Laroche, in a Miami Hurricanes cap, wrap-around Mylar sunglasses, and a Hawaiian shirt, is on the stand. Alan Lerner, the tribe's lawyer, questions him.
+C: LERNER
+D: Finally, Mr. Laroche, what is your experience in the area of horticulture?
+C: LAROCHE
+D: Okay, I've been a professional horticulturist for twelve years. I've owned a plant nursery of my own which was destroyed by the hurricane. I'm a professional plant lecturer. I've given at least sixty lectures on the cultivation of plants. I'm a published author, both in magazine and book form. I have extensive experience with orchids, and the asexual micropropagation of orchids under aseptic cultures. This is laboratory work, not at all like your nursery work. I'm probably the smartest person I know.
+E: grins
+C: LERNER
+D: Thank you.
+C: LAROCHE
+D: You're very welcome.
+S: INT. BARNES AND NOBLE - DAY
+N: As she rings up his books, Kaufman admires the cashier's flower tattoo. She catches him and smiles with red, wet, pierced lips. She unbuttons her blouse and shows him a breast with a heart tattoo. A sweet heartbeat turns to knocking.
+S: INT. EMPTY BEDROOM - NIGHT
+N: Kaufman, in bed masturbating, looks up at the closed door.
+C: KAUFMAN
+D: What?!
+N: The door opens. Donald stands there for a moment in shadows.
+C: DONALD
+D: Look, you wanna hear my pitch, or what?
+C: KAUFMAN
+D: Go away. God damn it.
+C: DONALD
+D: Y'know, I'm just trying to do something.
+E: lost
+N: Kaufman squints at his brother, sits up, waits.
+C: DONALD
+D: Hey, thanks a lot, man. Cool. Okay, there's this serial killer, right --
+E: CONT'D flicks on light, then in pitch mode:
+N: Kaufman groans, lies down, pulls the covers over his face.
+C: DONALD
+D: No, wait. See, he's being hunted by a cop. And he's taunting the cop, right? Sending clues who his next victim is. He's already holding her hostage in his creepy basement. So the cop gets obsessed with figuring out her identity, and in the process he falls in love with her. Even though he's never even met her. She becomes, like, the unattainable, like the Holy Grail.
+E: CONT'D
+C: KAUFMAN
+D: It's a little obvious, don't you think?
+E: through a blanket
+C: DONALD
+D: Okay, but there's a twist. See, we find out the killer suffers from multiple personality disorder. Okay? See, he's really also the cop and the girl. All of them. It's all him! Isn't that crazy?
+N: Donald waits, proud. Kaufman pulls off the covers.
+C: KAUFMAN
+D: Look, the only idea more overused than serial killers, is multiple personality. On top of that you explore the notion that cop and criminal are really two aspects of the same person. See every cop movie ever made for other examples of this.
+C: DONALD
+D: Mom called it psychologically taut.
+C: KAUFMAN
+D: The other thing is, there's no way to write this. Did you consider that? I mean, how exactly would you show a character holding himself hostage?
+C: DONALD
+D: Trick photography?
+C: KAUFMAN
+D: Okay, that's not what I'm asking. What I'm asking is in the reality of this movie, if there's only one character, right?... Okay? How could you... What exactly would the scene... How...
+N: Donald waits blankly. Kaufman gives up, gets out of bed, dresses. KAUFMAN (cont'd) I agree with mom. Very taut. Sybil meets.. I dunno, something very taut. Kaufman exits.
+S: EXT. COURTHOUSE - DAY
+N: Orlean exits the courthouse and watches Laroche in a huddle with Lerner, Vinson, and Buster Baxley, vice-president of the tribe's business operations. They're all smoking intently.
+C: LAROCHE
+D: They're gonna fucking crucify me.
+C: BAXLEY
+D: I'll go into the Fakahatchee with a chainsaw. I swear to God.
+C: LERNER
+D: Buster, for crying out loud, I reminded her the Indians used to own Fakahatchee. Look, we'll deal with all this at trial.
+N: Buster waves a dismissive hand at Lerner, walks away. Vinson shrugs, stubs his cigarette, follows Buster. Lerner and Laroche stand there a moment. Lerner walks off. Laroche cracks his neck. A charmingly shy Orlean approaches.
+C: ORLEAN
+D: Mr. Laroche?
+N: Orlean smiles, apologetic for the intrusion.
+C: ORLEAN
+D: My name's Susan Orlean, I'm a writer for the New Yorker. It's a maga --
+E: CONT'D
+C: LAROCHE
+D: I'm familiar with the New Yorker. The New Yorker, yes, the New Yorker. Right?
+C: ORLEAN
+D: Right. So I was interested in doing a piece about your situation down here.
+N: Laroche scowls, smokes furiously, then, a test:
+C: LAROCHE
+D: Yeah? Put this in: I don't care what goes on here. I'm right, and I'll take this all the way to the Supreme Court. That judge can screw herself.
+N: Orlean scribbles on her pad. Laroche twists his head to see that she's writing "Judge can screw herself." LAROCHE (cont'd) That for real would go in? Orlean nods. Laroche smiles his toothless smile at Orlean.
+S: EXT. FIELD - MORNING
+N: MUSIC: lush, profound orchestral piece. A glorious orange, large-petalled orchid blooms in dramatic time-lapse. We slowly, lovingly circle the flower.
+C: SENSUOUS FEMALE NARRATOR
+D: The Orchidaceae is a large, ancient family of perennial plants with one fertile stamen and a three petalled flower. In most orchid species, one petal is enlarged into a lip and is the most conspicuous part of the flower.
+S: INT. CALIFORNIA PIZZA KITCHEN - DAY
+N: Kaufman, in a booth, reads his orchid book, takes notes.
+C: KAUFMAN
+D: The Orchidaceae is a large, ancient...
+E: V.O.
+N: He's bored, looks up, watches a waitress with glorious, orange hair, pouty lips, soulful eyes, and a voluptuous form turning slowly around, scanning her station. She sees Kaufman, approaches, and smiles warmly down at him. Her badge reads: Alice, Arcadia, CA. Kaufman sweats.
+C: ALICE
+D: So what looks good today?
+C: KAUFMAN
+D: Um. Hi. Thank you. The key lime pie, please. A small slice. I'm watching my... And a coffee, please. Skim milk.
+C: ALICE
+D: Orchids! I absolutely love orchids.
+E: sees book
+N: He goes blank.
+C: KAUFMAN
+D: Yes. They're really great.
+N: He flinches at his response. A small awkward pause.
+C: ALICE
+D: So, I'll be right back with your pie.
+N: She smiles warmly again and leaves. Kaufman is humiliated.
+S: EXT. ORCHID SHOW - DAY
+N: Alice the waitress and Kaufman walk hand-in-hand, inspecting sexy orchids together. She smiles warmly at him.
+C: ALICE
+D: I absolutely love orchids.
+E: I love you
+S: INT. EMPTY ROOM - NIGHT
+N: Kaufman finishes jerking off. He lies lonely in the dark.
+S: INT. SUBURBAN BACKYARD - EVENING
+N: Dark and muted. The seven year old girl is pushed on the swing by her father. From the air she sees her mother, tiny and lost, sitting across the yard smoking.
+S: EXT. HOTEL PARKING LOT - MORNING
+N: Orlean leans against a car and smokes. A tiny, lost figure. There's a honk. Orlean snaps out of her reverie to see Laroche screeching to a stop in his banged-up van.
+C: ORLEAN
+D: A few days after the hearing, Laroche took me to an orchid show in Miami.
+E: to camera
+N: She opens the passenger door. ORLEAN (cont'd) Hi. Thanks for picking --
+C: LAROCHE
+D: I want you to know this van is a piece of shit. When I hit the jackpot, I'll buy myself an awesome car, maybe an Aurora.
+N: Orlean nods, climbs in, and tries to rearrage some of the junk on the front seat so she'll have a place to sit. LAROCHE (cont'd) Sit on top of that. You won't hurt it. She situates herself on the seat. Laroche lurches off.
+S: INT. VAN - DAY
+N: Laroche drives manically. Orlean watches the road and holds one hand against the dashboard.
+C: LAROCHE
+D: The thing you gotta know is my whole life is looking for a goddamn profitable plant. And that's the ghost.
+C: ORLEAN
+D: Why the ghost orchid?
+C: LAROCHE
+D: The sucker's rare. Collectors covet what is not available. I'm the only one in the world who knows how to cultivate it.
+N: He looks at her and smiles. Orlean smiles back and indicates, with a small jerk of the head, that he might want to watch the road. He doesn't take the hint. LAROCHE (cont'd) The plan was, get the Indians to pull it from the swamp. I researched it. As long as I don't touch the plants, Florida can't touch us. Then I'd clone hundreds of them babies in my lab, sell 'em, and make the Seminoles a shitload of change. In handwriting made jerky by the bouncing van, Orlean writes "shitload of change" on her notepad. LAROCHE (cont'd) And I stop future poaching by making the flowers readily available in stores. Then I give a big speech at the trial about how the legislature should get rid of loopholes smart people like me can find. I'm a hero. The flowers are saved. Laroche and nature win.
+S: EXT. SWAMP - DAY
+N: Old black and white footage, taken from up high, of two 19th century men leading a horse drawn cart full of poached orchids.
+C: ORLEAN
+D: Men from Florida dominated the orchid hunting scene. Hunters in the Fakahatchee hauled out thousands of orchids in horse-drawn flatbed carts.
+E: V.O.
+N: The camera swoops down, close to the men. As it does, the image transforms. It turns to color, the men become mannequins, the horse becomes papier-mache: it's a display. A live man in modern work clothes is arranging actual orchids in the cardboard cart.
+S: INT. CAR - DAY
+N: Kaufman drives slowly past Barnes and Noble, squints in the window, sees the tattooed cashier. He passes Burger King, sees a pretty employee, the same at Starbucks. Glassed-in women on display, different types, different attitudes. Kaufman stops in front of the California Pizza Kitchen. Alice and her orange hair glow through the window. He hesitates, then drives off.
+S: INT. EMPTY BEDROOM - MORNING
+N: Kaufman sits on the floor and types.
+C: KAUFMAN
+D: A beautiful orange orchid blooms in time- lapse --
+E: V.O.
+N: Donald enters. Kaufman ignores him, continues typing. Donald dawdles, picks up The Orchid Thief, flips through it. KAUFMAN (V.O.) (cont'd) The camera circles it, revealing how lovely and perfect and sweet and inviting and delicate and...
+C: DONALD
+D: Cool.
+C: KAUFMAN
+D: What do you want, Donald?
+C: DONALD
+D: Nothing. I just read about that Swamp Ape that supposedly lives in the swamp? Like bigfoot? You should put that in your script, like, killing people or something. That'd be very, very cool.
+C: KAUFMAN
+D: Why are you in here now?
+C: DONALD
+D: Nothing, I was just... Oh, one thing, I need a cool way to kill people. Don't worry! For my script! Ha ha!
+N: Kaufman stares at Donald, rubs his eyes, then:
+C: KAUFMAN
+D: Um, okay, killer's a literature professor who cuts off little chunks of his victims' bodies until they die. He'd be known in the tabloids as "The Deconstructionist."
+C: DONALD
+D: That's kinda good. I like that.
+C: KAUFMAN
+D: See, I was kidding, Donald.
+C: DONALD
+D: Oh, okay. Sorry. You got me! Heh-heh. Do you mind if I use it, though?
+S: INT. BOY'S BEDROOM (1972) - NIGHT
+N: There are now many turtles in aquariums. Many turtle books and posters. The boy, in a turtle T-shirt, looks out the window into the darkness. His eyes are troubled.
+S: INT. LIVING ROOM (1972) - CONTINUOUS
+N: The boy comes downstairs. His father, in his backbrace, watches TV; his sister lies on the couch, semi-conscious, more pale than before. His mother pats the girl's head with a damp cloth. There's a little Hindu altar with candles.
+C: MOTHER
+D: For certain is death for the born/And certain is birth for the dead/Therefore over the inevitable/Thou shouldst not grieve. Sweet, sweet Diane.
+E: praying softly
+N: The boy surveys the sad scene. His mother looks up, smiles.
+C: MOTHER
+D: A slice of pie for my turtle expert?
+E: CONT'D
+N: The boy beams with pride, then gets solemn.
+C: BOY
+D: Mom, there's something I feel I have to do. I don't know how to do this, but I feel in my stomach that I have to.
+C: MOTHER
+D: What do you have to do, honey?
+C: BOY
+D: Collect one of every turtle in the world. It's a long list, ma. Cuora galbinifrons, Graptemys versa, Callagur borneoensis, all the Galapagos species, people think there's only one, but that's hardly the case. Cycloderma frenatum, Cuora pani... I don't think my life is worth living if I can't do this.
+E: beat sighs
+N: The boy and his mother look at each other.
+C: MOTHER
+D: Well, we'd better get started, huh, baby?
+N: The boy nods his head solemnly.
+S: INT. VAN - DAY
+N: Laroche drives, solemnly nodding his head. Orlean studies him for a moment, her sad eyes wet and glistening.
+C: ORLEAN
+D: Wow, that's some story. So how many turtles did you end up collecting?
+C: LAROCHE
+D: Oh, I lost interest right after that.
+E: matter-of-fact
+C: ORLEAN
+D: Oh.
+C: LAROCHE
+D: I dropped turtles when I fell in love with Ice Age fossils. Learned everything about them. Collected the shit out of 'em. Fossils were the only thing made any sense to me in this fucking world. Y'know?
+N: They drive in silence. Orlean watches a flying heron.
+C: LAROCHE
+D: Then fossils were over when I found lapidary, which I just adored.
+E: CONT'D
+C: ORLEAN
+D: Okay, now what is lap --
+C: LAROCHE
+D: Ditched lapidary for resilvering old mirrors. Did that with my mom for a while. We had the largest collection of 19th Century Dutch mirrors on the planet. Perhaps you read about us. Mirror World October '88? I have a copy somewhere...
+N: Laroche fishes through junk as he drives.
+C: ORLEAN
+D: So, did you ever miss the turtles? The only thing that made you ten year old life worth living?
+C: LAROCHE
+D: I'll tell you a story. I once fell deeply, profoundly in love with tropical fish. I had sixty goddamn fish tanks in my house. I'd skin-dive to find just the right ones. Anisotremus virginicus, Holacanthus ciliaris, Chaetodon capistratus. You name it. Then one day I say, fuck fish. I renounce fish.
+E: MORE
+N: LAROCHE (cont'd) I vow to never set foot in the ocean again, that's how much fuck fish. That was seventeen years ago and I have never since stuck so much as a toe into that ocean. And I love the ocean!
+C: ORLEAN
+D: But why?
+E: beat
+C: LAROCHE
+D: Done with fish.
+E: shrugs
+S: INT. THERAPIST'S OFFICE - DAY
+N: Kaufman sits in silence across from his female therapist.
+C: THERAPIST
+D: So --
+C: KAUFMAN
+D: I'm still obsessed with that girl.
+C: THERAPIST
+D: The Burger King girl? Dimples and sparkly eyes?
+C: KAUFMAN
+D: California Pizza Kitchen.
+C: THERAPIST
+D: Oh. Red hair and nice? Likes orchids?
+C: KAUFMAN
+D: Yeah. She's really nice. I feel pretty certain she likes me maybe.
+C: THERAPIST
+D: So do you think you'll talk to this one?
+S: INT. CALIFORNIA PIZZA KITCHEN - DAY
+N: Kaufman, hair combed, sits nervously in a booth, watching Alice. He tenses as she comes up to him. She smiles warmly.
+C: KAUFMAN
+D: Hi!
+C: ALICE
+D: Hey! Some key lime pie for ya today?
+C: KAUFMAN
+D: Okay, yeah! That sounds great! Yeah!
+E: thrilled she remembered
+C: ALICE
+D: I'll pick you out an extra large piece. Preferred customer.
+N: She winks at him. He's so in love.
+C: KAUFMAN
+D: Thank you. That's really sweet of you.
+C: ALICE
+D: Still reading about orchids, I hope.
+C: KAUFMAN
+D: Yes, I am, in fact! Beautiful flowers.
+C: ALICE
+D: A friend of mine has a pretty little pink one, grows right on a tree branch.
+C: KAUFMAN
+D: That's what's called an epiphyte.
+C: ALICE
+D: Right! Boy, you know your stuff, huh?
+E: pointing at him excitedly
+C: KAUFMAN
+D: Not really. I'm just learning. Epiphytes grow on trees, but they're not parasites. They get all their nourishment from the air and rain.
+C: ALICE
+D: Well, I'm impressed. That's great.
+N: Awkward pause.
+C: KAUFMAN
+D: There are more than thirty thousand kinds of orchids in the world.
+C: ALICE
+D: Wow, that's a lot, huh? Okay, then, so I'll be right back with a nice big slice of key lime pie for my orchid expert.
+N: He beams. She smiles and turns to leave. Kaufman blurts:
+C: KAUFMAN
+D: But, so, anyway, I was also wondering...
+N: Alice turns back, still smiling. KAUFMAN (cont'd) I'm going up to this orchid show on Saturday in Santa Barbara and I -- Alice's smile slips away. Her warmth dissipates.
+C: ALICE
+D: Oh, um, well --
+C: KAUFMAN
+D: I'm sorry. I apologize. I'm sorry.
+C: ALICE
+D: So I'll be right back with your pie then.
+E: nodding
+N: He nods, watches Alice walk away and say something to another waitress. The other waitress looks over at him. He sweats.
+C: KAUFMAN
+D: I am fat. I am old. I am repulsive.
+E: V.O.
+N: The other waitress brings his pie. He smiles a thank you.
+S: INT. NEW YORK APARTMENT - MORNING
+N: Orlean sits at her desk and talks to us.
+C: ORLEAN
+D: There are more than thirty thousand known orchid species. One species looks like a German shepherd...
+S: EXT. SANTA BARBARA ORCHID SHOW - DAY
+N: Kaufman walks alone among the crowd of orchid enthusiasts, past a Santa Barbara Orchid Society sign. He tries to study the flowers. They are dull. He forces himself to look.
+C: ORLEAN
+D: ... one looks like an onion, one looks like an octopus. One looks...
+E: V.O.
+N: Kaufman finds his attention drifting from orchids to women: all different shapes, colors, personalities, some in subtle clothing, some in garish clothing, all glowing. ORLEAN (V.O.) (cont'd) ... like a school teacher, one looks like a gymnast, one looks like a Midwestern beauty queen, one looks like a New York intellectual with whom you'd do the Sunday Times crossword puzzle in bed. One looks like that girl in high school with creamy skin. One has eyes that dance. One has eyes that contain the sadness of the world. He is sick with adoration for the women, who pay him no mind. ORLEAN (V.O.) (cont'd) Nothing in science can account for the way some people feel about orchids. Those love them, love them madly. One by one the women turn to the men they're with: a whisper in the ear, a shared look, an arm slipped through an arm. Kaufman is alone in this sea of people and flowers.
+S: EXT. SWAMP - DAY
+N: Teenaged Laroche and his mother tromp through the swamp. He carries a camera on a tripod. They spot a beautiful flower. Laroche is in awe.
+C: TEENAGED LAROCHE
+D: Encyclia tempensis. The butterfly. Laroche sets up the tripod, focuses on the flower. His mother almost cries at the flower's beauty.
+C: MOTHER
+D: "You will find something more in woods than in books. Trees and stones will teach you that which you can never learn from masters." Saint Bernard said that.
+C: TEENAGED LAROCHE
+D: That's pretty, ma.
+C: MOTHER
+D: Diane would've loved this flower, Johnny.
+C: TEENAGED LAROCHE
+D: Maybe somehow she can see it. Y'know?
+C: MOTHER
+D: So... after this one how many, honey?
+E: beat
+N: Laroche snaps the photo, makes a check in his notebook.
+C: TEENAGED LAROCHE
+D: Only one hundred and seventeen more.
+C: MOTHER
+D: And you have to have a photo of every single type of orchid in Florida?
+C: TEENAGED LAROCHE
+D: I have to, ma. You know that.
+N: She smiles at him, rubs his neck.
+S: INT. THERAPIST'S OFFICE - DAY
+N: Kaufman talks to the therapist.
+C: KAUFMAN
+D: I'm successful, right? I mean, I could say to a woman, I'm a screenwriter and she'd look at me differently. I could get laid. But I want someone to like me. For me. Y'know? The way I like them. The way I'd do anything for that woman walking down the street. A million women walking down the street. I don't need to know what their jobs are. No one will ever love me like that. Like I love almost every woman I see.
+N: Kaufman glances down at his therapist's breasts. He does it fast and unintentionally. He quickly shifts back to her face. His therapist wraps her shawl around her.
+S: INT. SHOW HALL - DAY
+N: Crowded with orchid lovers. Noisy chatter and calliope music. Elaborate displays include orchids on a ferris wheel, plastic clowns, and a booth that looks like a circus big top.
+C: LAROCHE
+D: Once you get the sickness, it takes over your life. I started out just photographing 'em. Now look at me. It'll happen to you. You'll see.
+E: dramatic pause
+C: ORLEAN
+D: I don't think so. I'm not prone to --
+N: Laroche runs over to a flower.
+C: LAROCHE
+D: Angraecum sesquipedale! Beauty! God! Darwin wrote about this one. Charles Darwin? Evolution guy? Hello?
+C: ORLEAN
+D: I know who Darwin is.
+E: annoyed
+S: INT. EMPTY BEDROOM - NIGHT
+N: A depressed Kaufman fishes on his floor through an ever increasing pile of books: books about turtles, mirror resilvering, tropical fish, Hegel, etc. He picks up The Portable Darwin. The cover features a daguerreotype of Darwin. Kaufman paces and reads.
+S: INT. BOOK-LINED STUDY - NIGHT
+N: SUBTITLE: ENGLAND, ONE HUNDRED AND THIRTY NINE YEARS EARLIER Sepia. A sickly Darwin writes at his desk.
+C: DARWIN
+D: Therefore I should infer from analogy that probably all the organic beings which have ever lived on this earth have descended from some one primordial form, into which life was first breathed.
+E: V.O.
+S: INT. EMPTY BEDROOM - NIGHT
+N: Kaufman looks off into space, thinking. Silence. Suddenly, he grabs his mini-recorder and paces like a caged animal.
+C: KAUFMAN
+D: Okay, opening of movie. Four billion years ago. Life has not begun. Endless, barren terrain. Silence. Silence.
+S: EXT. SHOW HALL - DAY
+N: Blasting music. Crowds. Laroche shows the flower to Orlean.
+C: LAROCHE
+D: See that nectary all the way down there? Darwin hypothesized a moth with a nose twelve inches long to pollinate it. Everyone thought he was a loon. Then, sure enough, they found this moth with a twelve inch proboscis -- proboscis means nose, by the way -- and --
+C: ORLEAN
+D: I know what proboscis means.
+C: LAROCHE
+D: Every one of these flowers has a specific relationship with the insect that pollinates it. There's an orchid that looks exactly like this particular insect. So the bug humps the flower and gets covered with its pollen. Thusly...
+N: Laroche mimes humping.
+C: ORLEAN
+D: I get it.
+C: LAROCHE
+D: That's called pseudo-copulation. These flowers are smart! You gotta fall in love with them. Once you learn anything about orchids, you'll devote your life to learning everything about them.
+N: Orlean looks around: people sniffing flowers, feeling petals, staring deep into nectaries. People jabber passionately, people buy plants, people carry boxes of purchased plants. Orlean looks deeply into various flowers, at a dizzying array of colors and shapes, but remains detached.
+S: INT. APARTMENT - EARLY EVENING
+N: Orlean stares at photos of orchids on her bulletin board. She can't find a way in. She looks over at her husband reading. He smiles at her. She smiles back, but there's a terrible distance between them. She looks at us sadly.
+C: ORLEAN
+D: I wanted to want something as much as people wanted these plants but it isn't part of my constitution.
+N: Orlean stares out the window at the empty street below. A plastic bag dips and rises in the breeze. She inhales. ORLEAN (cont'd) I suppose I do have one unembarrassed passion. (beat, looks back at us) I want to know how it feels to care about something passionately.
+S: EXT. SUBURBAN BACKYARD - NIGHT
+N: The seven year old girl swings sadly by herself. From high up she sees her mother in a window at one end of the house, her father in a window at the other end. Both stare blankly in opposite directions. The swing completes it's arc and the girl descends, losing sight of her parents.
+S: INT. LARGE EMPTY LIVING ROOM - NIGHT
+N: Kaufman types furiously. He's a sweaty mess.
+C: KAUFMAN
+D: ... then, after the entire history of life on the planet, in the last seconds of the montage, we see the whole of human history: tool-making, hunting, farming, war, lust, religion, self-consciousness. Yearning. Then, bam! cut to Susan Orlean writing a book about orchids. And the story begins. It's perfect! It's circular! It's everything!
+E: V.O.
+N: He reads back what he's written.
+C: KAUFMAN
+D: I'm an idiot. I'm fat. I hate my--
+E: CONT'D
+N: The front door bursts open and Donald charges in.
+C: DONALD
+D: McKee is a genius! And hilarious! He just comes up with these great jokes, and everyone laughs! But he's serious, too. You'd love him. He's all for originality, just like you! But he says, we have to realize we all write in a genre, so we must find originality within that genre. See, it turns out there hasn't been a new genre since Fellini invented the mockumentary!
+C: KAUFMAN
+D: You and I share the same DNA. Is there anything more lonely than that?
+E: sadly, quietly
+S: INT. ORLEAN'S KITCHEN - EVENING
+N: Orlean eats a silent dinner with her husband.
+C: HUSBAND
+D: You want to do something tonight?
+C: ORLEAN
+D: I should work. I've got stuff...
+N: He nods. She smiles, picks up her dish, puts it in the sink.
+S: INT. ORLEAN'S STUDY - EVENING
+N: Orlean looks at the photo of Laroche, sits sadly for a moment, then types.
+C: ORLEAN
+D: Laroche is an optimist. That is, he sees a profitable outcome in every situation. When he was a young man he worked in construction.
+E: V.O.
+S: EXT. CONSTRUCTION SITE - DAY
+N: SUBTITLE: NORTH MIAMI, TEN YEARS EARLIER A younger Laroche, in a hard hat, walks atop a half-built house. He spots a flower in a backyard across the street.
+C: LAROCHE
+D: Asclepiadaceae. From thirty yards. Yes.
+E: pleased with himself
+N: He loses his footing, falls two storeys, lands on his back.
+S: INT. DINER - DAY
+N: Laroche talks. Orlean takes notes.
+C: LAROCHE
+D: ... I broke my back. Exactly how my dad did. Isn't that a psycho coincidence? Y'know, the way I see it, we're a family of ailments and pain. But, anyway, it was a godsend.
+E: laughing far away suddenly excited.
+N: Laroche scarfs his pie. Orlean watches him.
+C: ORLEAN
+D: Laroche once spilled toxic pesticide into a cut on his hand. It resulted in permanent heart and liver damage. Most people would consider this a terrible accident. Laroche considered it a success...
+E: V.O.
+S: INT. SUBURBAN SUN ROOM - DAY
+N: A prim woman reads a magazine article by Laroche entitled, "Would You Die For Your Plants." There's a smiling photo of a frail, emaciated Laroche next to his byline.
+C: ORLEAN
+D: ... because he sold an article about it.
+E: V.O.
+S: INT. DINER - DAY
+N: Laroche talks, mouth full of pie. Orlean takes notes.
+C: LAROCHE
+D: I consider the broken back -- in three places, by the way. I have x-rays -- -- a stroke of goddamn luck. I got disability, married the sweetest woman in the world. And me and my lovely new wife -- my now ex-wife, the bitch -- got to open our nursery.
+E: fishes through bag
+S: EXT. NURSERY - DAY
+N: Laroche and his wife, in wedding clothes, stand outside their nursery The Bromeliad Tree posing for an auto-timed photo. Laroche wears a cumbersome back brace. The camera flashes.
+S: INT. EMPTY BEDROOM - NIGHT
+N: Kaufman types tentatively. Off-screen we hear Donald's enthusiastic typing and giggling.
+C: KAUFMAN
+D: Movie opens with Susan Orlean typing. "John Laroche is a tall guy, skinny as a stick... Movie opens with a young boy picking out his first pet... Movie opens with...
+E: V.O. refers to Orchid Thief stops, flips through book stops, flips through book
+N: Kaufman stops, scratches his head. His hand is covered with loose hairs. He whines.
+S: INT. DINER - DAY
+N: Laroche talks to Orlean.
+C: LAROCHE
+D: People started coming out of the woodwork, to ask me stuff, to admire my plants, to admire me.
+S: INT. THE BROMELIAD TREE - DAY
+N: Lots of lonely-looking customers admiring orchids. Laroche is in the midst of them, happily chatting with whomever approaches him. One guy pulls Laroche aside. CUSTOMER #1 John, what is this? It's so beautiful.
+C: LAROCHE
+D: Catasetum tenebrosum. From Peru. It's neat 'cause its dimorphic, which means...
+N: Customer #2 enters with a creepy, dark flowered orchid. CUSTOMER #2 Johnny baby!
+C: LAROCHE
+D: Henry! Look at that Dracula vampira! It's gorgeous, man.
+N: Other customers gather around. CUSTOMER #2 Take me in to the Fakahatchee. Show me a ghost in bloom, and it's yours.
+C: LAROCHE
+D: Cool.
+N: CUSTOMER #3 Mr. Laroche, would you be able to -- Laroche picks up a ringing phone. Customer #3 continues to try and get his attention while he talks.
+C: LAROCHE
+D: Bromeliad Tree. Hey, Dora! Good, good. Well, sure, you gotta watch the temperature. Don't want an odontoglossum above seventy-five. Uh-huh, that should be fine. Yeah, damp it down. Oh, I'm doing well. She's fine, too. Sure...
+S: INT. VAN - NIGHT
+N: Laroche drives. Orlean looks out at the dark night.
+C: LAROCHE
+D: I believe some folks'd call me up to talk and just talk because they were lonely.
+N: Orlean looks at him. After a long silence, Laroche muses: LAROCHE (cont'd) You know why I love plants? Because they're so mutable, so adaptable. Adaptation is such a profound process. (beat) Adaptation means you figure out how to survive in the world. People aren't too good at that sometimes.
+S: INT. AGENT'S OFFICE - DAY
+N: Kaufman sits with his agent Jerry in a glass-walled office.
+C: KAUFMAN
+D: I don't know how to adapt this. I should've just stuck with my own stuff. I don't know why I thought I could --
+C: JERRY
+D: See her? I fucked her up the ass.
+N: Jerry waves at a passing beauty. She waves back, keeps walking. Kaufman follows the girl's ass with his eyes.
+C: JERRY
+D: Just kidding. Hey, maybe I can help. What's the problem, buddy?
+N: Kaufman looks at Jerry. Will he accept help from an agent?
+C: KAUFMAN
+D: It's about flowers.
+C: JERRY
+D: It's not only about flowers. It's got that crazy plant nut guy. He's funny, right?
+N: Kaufman pulls out a folded newspaper clipping, reads:
+C: KAUFMAN
+D: "There is not nearly enough of him to fill a book," blah blah blah, so Orlean "digresses in long passes" blah blah blah "no narrative really unites these passages." Blah blah blah blah blah.
+E: looking up defiantly MORE
+N: KAUFMAN (cont'd) New York Times Book Review. I can't structure this. It's that sprawling New Yorker shit. Jerry gets distracted by another sexy woman walking by.
+C: JERRY
+D: Oh man. I'd fuck her up the ass.
+C: KAUFMAN
+D: There's no story. The book has no story.
+C: JERRY
+D: So make one up. The book's a jumping off point. No one in town can make up a crazy story like you. You're the king.
+C: KAUFMAN
+D: I didn't want to do that this time. It's someone else's material. I have a responsibility... Anyway, I wanted to grow as a writer, do something profound and simple. Show people how amazing flowers are.
+C: JERRY
+D: Are they amazing?
+C: KAUFMAN
+D: I don't know. I think they are.
+C: JERRY
+D: Look, what I tell a lot of guys is pick another film and use it as a model. I always thought this one could be like Apocalypse Now. The journalist spends the whole movie searching for the crazy plant nut guy -- what's his name?
+C: KAUFMAN
+D: John Laroche.
+C: JERRY
+D: She has to travel deep into the darkest swamps to find the mysterious "Laroche."
+C: KAUFMAN
+D: I need you to get me out of this.
+C: JERRY
+D: Charlie, at the end of the day, I think it would be a terrible career move.
+N: MONTAGE Jumble of images: Laroche talking, flowers, Indians, Orlean, the trial. The rapid fire click-click of typing.
+C: KAUFMAN
+D: Okay, okay, we open with Laroche. He's funny. Okay, he says, okay, he says, I love to mutate plants, he says, mutation is fun... Okay, we show flowers and, okay, we have to have the court case. Okay we show Laroche, okay, he says, I was mutated as baby, that's why I'm so smart...that's funny. Okay we open at the beginning of time...no, okay, we open with Laroche driving into the swamp...
+E: V.O.
+S: INT. EMPTY BEDROOM - NIGHT
+N: Kaufman awakes with a start. Enthusiastic off-screen typing. Kaufman peers through the darkness at the books, papers coffee cups, and dirty plates all around.
+S: EXT. SWAMP - DAY
+N: Black and white. It's dark, tangled with foliage, and foreboding. Two pioneers slog waist-high through the water. Alligators regard them menacingly.
+C: ORLEAN
+D: The pioneer-adventurers in Florida had to travel inward, into a place as dark and dense as steel wool. They had to confront what a dark, dense, overabundant place might have hidden in it.
+E: V.O.
+N: The scene turns into color. The men turn into mannequins. The floor is covered with black cellophane representing swamp water. The swamp turns to cardboard, with real orchids hanging from the trees. A guy carrying some orchids walks on top of the cellophane, past the mannequins.
+S: INT. LAROCHE'S LIVING ROOM - NIGHT
+N: The room is dark, lit only by the light of the TV Laroche's father watches. Laroche and Orlean sit on the couch.
+C: LAROCHE
+D: The nursery was going well, but sometimes bad things happen. Darkness descends.
+N: Laroche glances at his father, who just stares at the TV. On the TV set are two framed photos: one of Laroche's sister and one of Laroche's mother.
+S: INT. LAROCHE'S LIVING ROOM - DAY
+N: SUBTITLE: NORTH MIAMI, NINE YEARS EARLIER Laroche ushers his wife, mother, and uncle out of the house. His father watches TV. There's only a photo of Laroche's sister on the TV set now.
+C: LAROCHE
+D: Sure you don't want to come, dad?
+N: His father doesn't respond.
+S: INT. LAROCHE'S CAR - A FEW MOMENTS LATER
+N: They pile into a nice new American car, his wife in front, his mother and uncle in back. Laroche pulls into traffic.
+C: UNCLE JIM
+D: Nursery business good, Johnny?
+C: LAROCHE
+D: Everything's good, Uncle Jim. This last year's been a dream, I'm telling you. We're finally pulling out of this debt.
+C: MOTHER
+D: Amen, honey. Praise Allah, Buddha, Vishnu. And all the rest of 'em.
+N: Laroche smiles back at his mother. A screech of tires and another car crashes head on into theirs. Laroche's face smacks against the steering wheel, his front teeth fly in all directions. His mother rockets forward smashing through the windshield. His uncle hits Laroche's wife in the head, jerking her forward and landing on top of her.
+S: EXT. CEMETERY - DAY
+N: Banged-up and missing his front teeth, Laroche stands amidst a group of mourners at a double funeral.
+S: INT. HOSPITAL ROOM - DAY
+N: Laroche, in his mourning suit, sits by his comatose wife.
+S: EXT. SEMINOLE DISCOUNT CIGARETTE STORE PARKING LOT - DAY
+N: It's a busy street full of discount cigarette stores. Laroche and Orlean step from his van, head toward the store.
+C: LAROCHE
+D: She divorced me soon after she regained consciousness. Then the hurricane destroyed my greenhouse. Everything. I knew it would break my heart to start another nursery, so when the Seminoles wanted a white guy, an expert, to get their nursery going, I took it.
+S: INT. DISCOUNT CIGARETTE STORE - CONTINUOUS
+N: Laroche pulls about ten Marlboro cartons off the shelf.
+C: LAROCHE
+D: But I wasn't gonna give them a conventional little potted-plant place. So I came up with the "ghost" plan. I was gonna give them something amazing.
+S: INT. PARTY HOUSE - NIGHT
+N: Kaufman, beer in hand, stands off in the corner of a room crowded with young Hollywood types. He talks nervously to a pretty young woman
+C: KAUFMAN
+D: ... see, Laroche researched it and found that Indians have the legal right to take endangered plants off state lands.
+C: WOMAN
+D: What an amazing opening! So then it's a courtroom drama. A Few Good Men! And all those Indian rights issues are so complex. There are valid arguments on both sides. I mean we took their land! We gave them smallpox!
+C: KAUFMAN
+D: Well, actually, there wasn't much of a trial. Florida got 'em on a technicality, about cutting down non- endangered trees. Even the Indians aren't allowed to do that. They all plead no contest. Laroche got fined five hundred bucks and banned from the Fakahatchee for six months.
+C: WOMAN
+D: Oh, wow. So, like, then what happens?
+C: KAUFMAN
+D: Nothing much. That's what I like. I mean, most people's lives don't include a lot of drama and I wanted to sort of be compelling without having to resort to big, um... Y'know what I mean?
+C: WOMAN
+D: Absolutely. I absolutely do.
+E: glancing distractedly around
+C: KAUFMAN
+D: It's, like, Blake talked about seeing the world in a grain of sand and heaven in a wild flower. Y'know? Or like Hegel?
+N: The woman smiles, but she's somewhere else entirely.
+S: INT. EMPTY BEDROOM - BEDROOM
+N: Kaufman stares at his typewriter. There's a big pile of papers next to him.
+C: KAUFMAN
+D: I am a failure. I'm a poseur. I have no ideas. I wanted to do something great. There's no story. I'm fat. I'm repuls--
+E: V.O.
+N: The phone rings.
+C: KAUFMAN
+D: What?
+E: CONT'D
+C: VALERIE
+D: Charlie? It's Valerie.
+E: PHONE VOICE
+C: KAUFMAN
+D: Oh, hi. Hi. Hey! Hi!
+C: VALERIE
+D: Sorry to bug you. We were just talking about you, how excited we are.
+E: PHONE VOICE
+C: KAUFMAN
+D: Yeah, me too.
+C: VALERIE
+D: So it's coming along good?
+E: PHONE VOICE
+C: KAUFMAN
+D: It's good. It's complicated what I'm trying to do, but it's going very well.
+S: INT. ORLEAN'S APARTMENT - EVENING
+N: Orlean looks at a book called The Native Orchids of Florida. She comes to a photo of the ghost orchid glowing white on the page. Orlean's husband walks by with a cup of coffee, caresses her shoulder. She tenses slightly, smiles up at him apologetically. He smiles back sadly. She returns to the photo. A line of text catches her eye: "Should one be lucky enough to see a flower all else will seem eclipsed." Orlean closes the book, sits there. She dials the phone.
+C: LAROCHE
+D: Yeah.
+E: PHONE VOICE
+C: ORLEAN
+D: Hello, John? It's Susan.
+C: LAROCHE
+D: Susie-Q!
+E: PHONE VOICE
+C: ORLEAN
+D: So I was thinking it'd be good for the article for me to go into the Fakahatchee to see a ghost. Would you take me?
+C: LAROCHE
+D: I'd love to, but, hey, I'm banned for the next six months. Goddamn crucified me. Get one of them monkey-suited rangers to take you. 'Course, they wouldn't be able to locate a ghost, if it climbed off a tree and shoved itself up their ass. Hey, put that in the article.
+E: PHONE VOICE
+S: INT. EMPTY BEDROOM - MORNING
+N: A hollow-eyed Kaufman is zipping up a suitcase.
+C: KAUFMAN
+D: Travelling into the Fakahatchee, Donald, is a perfect metaphor for writing. I'm stepping into the confusion of the unknown. I'm taking the big risk here.
+E: calling off-screen
+S: INT. EMPTY LIVING ROOM - CONTINUOUS
+N: Donald types cheerily on a lap-top computer at an ergonomic desk. Kaufman descends the stairs with his suitcase.
+C: KAUFMAN
+D: It's dark, dangerous, as dense as steel wool. I don't know if I'll come out alive, but if I do, I'll have something true to give the world. That's the difference between writing and aping some moron's "principles."
+N: Donald looks up from his work. He hasn't been listening.
+C: DONALD
+D: Hey, Charles, I'm thinking of putting a song in. Y'know like when characters sing pop songs in their pajamas and dance around. I thought it might be a nice way to break the tension. So, try to think of a song about split personality...
+S: INT. AIRPLANE - MORNING
+N: Orlean sits in her seat and addresses the camera.
+C: ORLEAN
+D: You would have to want something very badly...
+S: INT. AIRPLANE - NIGHT
+N: Kaufman reads The Orchid Thief.
+C: ORLEAN
+D: ... to go looking for it in the Fakahatchee Strand.
+E: V.O.
+N: He can't concentrate, closes the book and watches a stewardess tending to another passenger.
+S: INT. STUDIO APARTMENT - NIGHT
+N: Kaufman fixes a salad in the kitchenette. The door opens and the stewardess enters dragging her luggage on a little cart.
+C: KAUFMAN
+D: Hey! How was Denver?
+C: STEWARDESS
+D: Oh, God, sweetie, I'm so glad to be home.
+N: She kisses him, looks lovingly at him. STEWARDESS (cont'd) Can I get you something to drink?
+S: INT. AIRPLANE BATHROOM - NIGHT
+N: Kaufman finishes jerking off, stands, pulls up his pants, adjusts himself, and exits the bathroom.
+S: INT. AIRPLANE - CONTINUOUS
+N: Kaufman steps out of the bathroom. The stewardess is there talking to another stewardess. She regards Kaufman blankly, then goes back to her conversation. He heads up the aisle. One of the stewardesses laughs. He tenses, takes his seat.
+S: INT. AIRPLANE - MORNING
+N: Orlean watches the hundreds of square miles of black, wet Florida swampland pass by below.
+C: ORLEAN
+D: An early surveyor made this entry in his field notes...
+E: V.O.
+S: EXT. SWAMP - DAY
+N: SUBTITLE: FAKAHATCHEE, ONE HUNDRED AND FIFTEEN YEARS EARLIER A surveyor scribbles in a notebook. The pond is alive with alligators.
+C: SURVEYOR
+D: A pond surrounded by bay and cypress swamp, impracticable. Full of monstrous alligators, counted fifty and stopped.
+E: V.O.
+S: INT. HOTEL - NIGHT
+N: Orlean lies in bed, wide awake and anxious.
+C: ORLEAN
+D: Whatever isn't wet in the Fakahatchee is blasted. The grass gets so dry that the friction from a car can set it on fire, and the burning grass can engulf the car in flames. A 1940's botanist noted:
+E: V.O.
+S: EXT. PRAIRIE - DAY
+N: A botanist, in a hot, arid field, writes in a notebook.
+C: BOTANIST
+D: Most impressed by the area's variety of squirrels...
+E: V.O.
+N: A car drives by on the dirt road. It begins smoking. The driver jumps out of the car just as it bursts into flames. BOTANIST (cont'd) ... and charred automobiles. We pull back to see the area filled with abandoned, burned-up old cars.
+S: INT. MIAMI AIRPORT CAR RENTAL BOOTH - DAY
+N: Kaufman watches the pretty clerk working on the computer. She looks up, he looks down, studies his road map.
+S: INT. RENTAL CAR - EARLY MORNING
+N: A charmingly bedraggled Orlean drives on a road surrounded by swamp. She talks to us.
+C: ORLEAN
+D: The swamp's darkness and denseness can rattle your nerves. A sailor on a pluma- collecting expedition wrote in his diary:
+S: EXT. SWAMP - DAY
+N: SUBTITLE: FAKAHATCHEE, ONE-HUNDRED AND THREE YEARS EARLIER A luggish sailor sits in the distance on a stump, crying.
+C: SAILOR
+D: The place looked wild and lonely. About three o'clock it seemed to get on Henry's nerves. We saw him crying, he could not tell us why, he was just plain scared.
+E: V.O.
+S: EXT. STATE ROAD 29 - EARLY MORNING
+N: Orlean drives onto the dirt road past the Fakahatchee sign and talks to us.
+C: ORLEAN
+D: The swampy part of the Fakahatchee is hot and wet and buggy and full of cottonmouth snakes and diamond back rattlers and...
+S: INT. RENTAL CAR - MORNING
+N: Kaufman drives down the same road surrounded by swamp.
+C: ORLEAN
+D: ... alligators and snapping turtles and poisonous plants and wild hogs and...
+E: V.O.
+S: EXT. RANGER SHACK - MORNING
+N: Orlean gets out of the car, knocks timidly on the shack door. Ranger Mike Owen answers.
+C: MIKE OWEN
+D: Charlie?
+N: It's Kaufman standing there.
+C: KAUFMAN
+D: Yes. Hi.
+E: tremulous
+S: EXT. SWAMP - MORNING
+N: The sky is overcast. Mike Owen leads Kaufman through a cool swamp, which is completely dry. The two men walk easily on peaty ground. Kaufman, slathered with sun screen and covered head to foot in unnecessary protective clothing, tries to be interested in Owen's lecture.
+C: MIKE OWEN
+D: So the whole ecosystem is six thousand years old. Five to six thousand years old. About that. Five or six.
+C: KAUFMAN
+D: Okay.
+C: MIKE OWEN
+D: Now the Fakahatchee is the largest of all the cyrpess strands, probably in the world. I don't know of any cypress strand bigger. It's about twenty miles long, or nineteen, nineteen to twenty, nineteen... and right here it's about five miles wide, four and a half, five. So, again, it's twenty miles long, three to five miles wide. And over here --
+S: EXT. SWAMP - LATER
+N: Mike Owen holds a handful of peat. Kaufman looks at it.
+C: MIKE OWEN
+D: The oldest carbon dating they've done on any of the peat out here is fifty-seven hundred years. That's with carbon-14.
+E: MORE
+N: MIKE OWEN (cont'd) That's in the right age where you can really date things accurately with carbon- 14, because it's half-life is fifty-five hundred years, so they must have found have of it gone and figured that...
+C: KAUFMAN
+D: Why isn't it wet? Orlean wrote about wading through black, corrosive water. She said it was the scariest experience of her life. And when I spoke to you on the phone, you said wear heavy boots, long pants and...
+C: MIKE OWEN
+D: There's usually water. We've been going through a bit of a drought. Say, have you seen that movie, Medicine Man? That's a good movie about protecting nature. It shows there could be something important in a rain forest we don't even know about, like a cure for cancer.
+C: KAUFMAN
+D: It's not even hot. I was expecting it to be awful. Sun beating down, wading through water, looking out for snakes, wild hogs. I was thinking it would be dramatic. Alligators. Something!
+C: MIKE OWEN
+D: The alligators are over by the lakes. The temperature's a blessing for us. This time of year can get uncomfortably hot. Green anole. Florida's most common.
+E: pointing excitedly
+N: Kaufman looks down and sees a plain-looking little lizard hanging on a tree. Mike Owen jots it down in his notebook. MIKE OWEN (cont'd) I try to keep a log of sightings.
+S: INT. TRUCK - DAY
+N: Mike Owen drives. Kaufman stares out the window at boring trees.
+C: ORLEAN
+D: It had been a hard day and I hadn't seen what I'd come to see. Maybe the ghost orchid was a ghost after all.
+E: V.O. MORE
+N: ORLEAN (V.O.) (cont'd) There are certainly ghosts in the Fakahatchee -- ghosts of rangers who were murdered years ago by illegal plume hunters, and of loggers who were cut to pieces in fights, and for years there has been an apparition wandering the swamp, the Swamp Ape, which is said to be seven feet tall and seven hundred pounds and have the physique of a human, the posture of an ape, and the body odor of a skunk.
+S: EXT. RANGER SHACK - DAY
+N: Kaufman and Owen stand by Kaufman's car.
+C: MIKE OWEN
+D: What Laroche did was wrong. Those flowers belong to all of us, all 250 million of us -- 250? I think it's up to 270 now -- And belonging to all of us means they belong to none of us. Nobody has a right to take them. Not me, not you, not John Laroche, not...
+N: Kaufman is desperate for something else. He blurts:
+C: KAUFMAN
+D: Listen, um, Susan Orlean wrote about a legendary creature called a Swamp Ape. Have you ever heard stories or --
+C: MIKE OWEN
+D: Tourist garbage! I don't know why people need to invent silly creatures to make nature fascinating. Isn't nature amazing enough?
+E: pissy
+C: KAUFMAN
+D: I just asked because she mentioned it.
+E: shamed
+S: INT. HOTEL ROOM - NIGHT
+N: Orlean, still dirty from the swamp, holds a phone to her ear and talks to us. She has cute little dirt smudges on her face.
+C: ORLEAN
+D: That night I called Laroche.
+C: ORLEAN
+D: I didn't see anything but bare roots.
+E: into phone MORE
+N: ORLEAN (cont'd) And I had this thought. Maybe the ghost orchid only blooms in the minds of people who've walked too long in the swamp.
+S: INT. ORLEAN'S APARTMENT - NIGHT
+N: Orlean types. It's pouring and sheets of rain beat against her window. She glances at her husband, across the room reading a book. She sighs, continues typing.
+C: ORLEAN
+D: What I didn't say to him is that life seemed to be filled with things that were just like the ghost orchid -- wonderful to imagine and easy to fall in love with but a little fantastic and fleeting and out of reach.
+E: V.O.
+S: INT. RENTAL CAR - EVENING
+N: Kaufman drives down a Florida strip-malled highway. He passes a Barnes and Noble, a Burger King, a Starbucks. He parks in front of a California Pizza Kitchen.
+S: INT. CALIFORNIA PIZZA KITCHEN (FLORIDA) - EVENING
+N: Kaufman watches the waitresses. One approaches his booth. Her name badge reads: Caryn, Tampa, FL. She smiles at Kaufman as she looks right through him.
+S: INT. HOTEL ROOM - NIGHT
+N: A morose Kaufman sits on the bed reading The Orchid Thief.
+C: KAUFMAN
+D: What I didn't say to him was that life seemed to be filled with things that were just like the ghost orchid -- wonderful to imagine and easy to fall in love with but a little fantastic and fleeting and out of reach.
+E: V.O.
+N: Kaufman is deeply moved. He hi-lites the passage, then looks at the smiling photo of Orlean. He finds himself lost in it.
+S: INT. HOTEL ROOM - NIGHT
+N: Orlean, dirty from the swamp, is on the phone.
+C: LAROCHE
+D: Jesus Christ, of course there are ghost orchids out there! I've stolen them!
+E: PHONE VOICE beat,clears throat MORE
+N: LAROCHE (PHONE VOICE) (cont'd) (beat, a cleared throat) You should have gone with me. CLOSE-UP OF MAGAZINE The line: "... then he cleared his throat and said: 'You should have gone with me.'"
+C: VALERIE
+D: Beautifully written. A really unique piece.
+E: O.C.
+N: PULL BACK TO:
+S: INT. RESTAURANT - MIDDAY
+N: Busy lunch crowd. Valerie sits at a table with Orlean and an open New Yorker magazine.
+C: ORLEAN
+D: Thank you. Thanks very much.
+C: VALERIE
+D: We're big fans.
+C: ORLEAN
+D: Oh, thank you.
+C: VALERIE
+D: And Laroche is such a fun character.
+C: ORLEAN
+D: Yeah, John's a character all right.
+C: VALERIE
+D: It's funny and fresh. And sad in a way.
+C: ORLEAN
+D: Well, thanks. Thank you.
+C: VALERIE
+D: So we were wondering, what's next?
+C: ORLEAN
+D: Oh, um, Random House wants me to expand it into a book. So I'll be doing that.
+C: VALERIE
+D: And there'll be more of Laroche?
+C: ORLEAN
+D: Yeah. More John, more orchids.
+C: VALERIE
+D: Y'know, we'd really like to option it.
+C: ORLEAN
+D: You want to make this into a movie?
+E: laughing
+C: VALERIE
+D: Laroche is such a fun character. So...
+S: INT. VAN - DAY
+N: Laroche, wearing a Cleveland Indians T-shirt, drives crazily thorugh the Hollywood Seminole reservation. Orlean holds on.
+C: LAROCHE
+D: No shit I'm a fun character. Who's gonna play me?
+E: beat
+C: ORLEAN
+D: I've got to write it first. Someone's gotta write the screenplay. Most things never get made. It's premature to --
+C: LAROCHE
+D: I think I should play me.
+N: Laroche swerves into a parking space in the nursery lot.
+S: EXT. SEMINOLE NURSERY - DAY
+N: Laroche and Orlean get out of the van.
+C: LAROCHE
+D: I've got all the right qualities. While you write, I'll take an acting class.
+N: A few young Indian guys are hauling bags of potting soil. They look at Laroche sourly. Laroche indicates the giant cartoon Indian on his T-shirt.
+C: LAROCHE
+D: I wear this just to screw with 'em.
+S: INT. TRAILER - CONTINUOUS
+N: Laroche enters his office, looks at some papers on his desk.
+C: LAROCHE
+D: Most of them don't even bother calling me John anymore. It's "Crazy White Man" now.
+E: MORE
+N: LAROCHE (cont'd) "Crazy White Man" is a good title for the movie. Call the book "Crazy White Man." Or, I don't know, "Collector of Hearts" or something. Before Orlean can respond, Laroche picks up the phone and dials an impossibly long number. He waits, gestures for Orlean to sit on a chair piled high with junk. LAROCHE (cont'd) You won't hurt anything. Orlean moves the junk over, shares the seat with it. LAROCHE (cont'd) (Yelling into phone) Hello? Hello? Hi? This is John Laroche from the Seminole Nursery. Sem-ih-nole! (to Orlean) How do you say Seminole in Spanish? (into phone) That's right, yes! Yeah, I want to order some more of those pink string beans! Pink string beans! (yelling) Pink String Beans! Pink String Beans! Buster appears in the door. LAROCHE (cont'd) (into phone) I'll call back. (hangs up) Hey, Buster.
+C: BAXLEY
+D: John.
+C: LAROCHE
+D: I was trying to order some pink string beans from Argentina.
+C: BAXLEY
+D: No kidding.
+C: LAROCHE
+D: I figure just because Project Ghost Orchid is dead, we're not closing shop.
+C: BAXLEY
+D: Listen, John --
+C: LAROCHE
+D: We'll get into plant multiplication. Buy little ones, turn 'em into big ones, sell 'em at a profit. Simple plant multiplication for the masses.
+C: BAXLEY
+D: John, we're thinking maybe now's a good time for you to take a few weeks.
+C: LAROCHE
+D: I don't need a vacation, Buster.
+C: BAXLEY
+D: It's a good time. Things are slow.
+N: Laroche stares at Buster. Buster stares back.
+C: LAROCHE
+D: Y'know, the guys on my crew here, all they do is smoke weed all day. I been meaning to talk to you about that. So if it's a question of productivity --
+S: INT. VAN - A FEW MINUTES LATER
+N: Laroche weaves through traffic. Orlean holds on.
+C: LAROCHE
+D: They're gonna fire me. Goddamn politics. Crazy White Man's bad publicity. I can't believe I'm dealing with this! Like I could give a damn. If they fire me, I'll sue. I already did some legal research on this when I was doing the other shit. They can't fire me. And I ain't going to quit.
+E: pounds steering wheel pounds steering wheel
+N: MONTAGE Gray skies. Kaufman drives his rental car: he looks at the Seminole Nursery, the Collier County Courthouse, Laroche's house. He drives through swampy terrain. He walks around at an orchid show, he attends a slide-show orchid lecture. It's all dull. He ends up sitting on a bench on an empty beach, staring out at the ocean.
+S: INT. HOTEL ROOM - DAY
+N: Orlean dials the phone. It rings for a long time. Finally:
+C: LAROCHE
+D: Yeah?
+E: PHONE VOICE groggy
+C: ORLEAN
+D: John, it's Susan. Orlean. So, I was just wondering if you might be willing to talk some more.
+E: waits for response waits
+C: LAROCHE
+D: What about?
+E: PHONE VOICE
+N: Orlean rolls her eyes.
+C: ORLEAN
+D: C'mon, John, I'm trying to put together a book. Don't just abandon me down here.
+C: LAROCHE
+D: I'm no longer interested in orchids. I'm pursuing other avenues. I apologize for any inconvenience this might cause you.
+N: Orlean is silent, taps her fingers on the bedside table.
+C: LAROCHE
+D: Thank you for your time.
+N: Laroche hangs up. Orlean sits there for a moment, flips through her list of orchid collector names.
+S: EXT. EMPTY BEACH - DAY
+N: Kaufman sits on the bench, looking out at the ocean. An attractive, spandexed couple skate by, chatting in German. He watches the woman, hoping for a look, for something. He doesn't get it. They're gone. A tan older man sits on the bench, lights a cigarette. Kaufman continues to look at the ocean, even though he feels the guy's eyes on him. He doesn't want to engage.
+C: GUY ON BENCH
+D: We could use the rain, huh?
+N: Kaufman nods, looking at the ocean. Pause. GUY ON BENCH (cont'd) So you from around here? Kaufman shakes his head "no." Pause. GUY ON BENCH (cont'd) So where then?
+C: KAUFMAN
+D: California.
+C: GUY ON BENCH
+D: Yeah? I'm moving to L.A. I just wrote a screenplay. I sent it to a lot of agents. But if they turn me down, I'll go there and market it myself. I used to be in marketing in New York, so I know exactly how to sell this thing. Where's a nice place to live if you don't have a car?
+E: excitedly beat
+C: KAUFMAN
+D: You kind of need a car. I guess West Hollywood would be okay.
+C: GUY ON BENCH
+D: So you recommend West Hollywood then.
+C: KAUFMAN
+D: I'm not recommending it.
+N: Pause.
+C: GUY ON BENCH
+D: I moved down here for a change, and I wrote the screenplay. Just like that. It's a great idea.
+N: The old guy waits for a response. He gets none. GUY ON BENCH (cont'd) It's about a mob guy, but it's not your regular mob story. There's a twist. A cop tells this mob guy's wife that the mob guy's cheating on her. But the truth is, the cop's lying because he wants her for himself. See, they used to go together in high school. (waits for response, then:) You know anything about screenplays? Kaufman shakes his head. GUY ON BENCH (cont'd) Well, the object is to make people think you're going in one direction, then you twist it to keep 'em surprised. I came up with all these amazing twists out of nowhere. Well, not nowhere. (beat) I'm a born again Christian. (beat) You have faith?
+C: KAUFMAN
+D: No. Not really.
+C: GUY ON BENCH
+D: You don't believe in anything?
+N: Kaufman shrugs. GUY ON BENCH (cont'd) I don't know how you can look out at this beautiful ocean and not believe there's an intelligence that created it.
+C: KAUFMAN
+D: I don't know.
+C: GUY ON BENCH
+D: Well, you can't know until you experience it. That requires accepting Jesus Christ as your Lord and Savior. Believe me. Lookit, if I was to show you a bottle of clear liquid and told you it was vodka, how would you know if it really was or if it was water? There's only one way.
+C: KAUFMAN
+D: I'd smell it.
+C: GUY ON BENCH
+D: No. You can't smell vodka. You'd have to taste it, right?
+E: annoyed
+C: KAUFMAN
+D: It could be poison. I don't know you.
+C: GUY ON BENCH
+D: Look, let's go with the analogy I'm drawing here. It's not poison. Okay?
+E: angry resuming control MORE
+N: GUY ON BENCH (cont'd) So you'd have to taste it to know. Right? That's my point.
+C: KAUFMAN
+D: Right.
+C: GUY ON BENCH
+D: That's all I'm saying. So West Hollywood, huh? I think I'll make it out this year. Because how long can you look at an ocean, y'know?
+E: beat
+N: MONTAGE Susan Orlean talks to various orchid enthusiasts, visits nurseries, sits in lecture halls, attends orchid shows, sits in the library reading orchid books. She is bored and distracted.
+S: INT. AIRPLANE - NIGHT
+N: A stewardess places a cup and an airline-sized bottle of vodka down in front of a lost Kaufman. He smiles at her. No response. He opens the bottle and smells the vodka.
+S: INT. LIMO - NIGHT
+N: Kaufman sits in the back seat and stares out the window. The driver looks at him a couple of times in his rearview mirror.
+C: KAUFMAN
+D: I have failed. I have nothing to say. I am fat. I am not a writer.
+E: V.O.
+C: DRIVER
+D: Mr. Kaufman, do you mind if I ask what type of work you do for Sony?
+C: KAUFMAN
+D: I'm a writer.
+C: DRIVER
+D: A song writer?
+E: impressed
+C: KAUFMAN
+D: No, I'm a screenwriter.
+C: DRIVER
+D: Oh, wow! Good for you. You mind if I ask what your movie's about?
+C: KAUFMAN
+D: It's about flowers.
+N: No response. Kaufman tries to make it interesting. KAUFMAN (cont'd) It's about this poacher who steals orchids out of a swamp.
+C: DRIVER
+D: I heard about that! Drug flowers, right?
+C: KAUFMAN
+D: Yeah. That's it.
+C: DRIVER
+D: I heard about that! That's great! Action-adventure is my favorite genre.
+S: INT. EMPTY HOUSE - NIGHT
+N: Kaufman enters with his bags and heads to the stairs. Donald, typing furiously at his desk, looks up.
+C: DONALD
+D: How was Florida, man?
+C: KAUFMAN
+D: Okay.
+E: climbing the stairs
+C: DONALD
+D: Cool! Hey, my script's going amazing! Right now I'm working out an Image System. Bob calls it an invaluable asset. Because of my multiple personality theme, I've chosen the motif of broken mirrors to show my protagonist's fragmented self. Bob teaches that an Image System greatly increases the complexity of an aesthetic emotion.
+C: KAUFMAN
+D: You sound like you're in a cult.
+N: Kaufman disappears upstairs.
+C: DONALD
+D: No, it's just good writing technique.
+E: types, then: MORE
+N: DONALD (cont'd) Oh, I made you a copy of McKee's Ten Commandments. I've posted one over both our work areas.
+S: INT. EMPTY BEDROOM - CONTINUOUS
+N: Kaufman tears down MCKEE'S TEN COMMANDMENTS. Donald appears backlit in the doorway and seems oddly threatening.
+C: DONALD
+D: You shouldn't have done that.
+N: They look at each other. Donald breaks the tension, smiles. DONALD (cont'd) 'Cause it's extremely helpful. (lies down on floor) Hey, any sign of that Swamp Ape?
+C: KAUFMAN
+D: There is no Swamp Ape. It was invented for people who can't find the actual world fascinating. Y'know?
+C: DONALD
+D: Oh, okay. I didn't know that. Sorry. Hey, I got a song! "Happy Together." I was worried about putting a song in a thriller, but Bob says, Casablanca, the greatest screenplay ever written, did exactly that. Mixed genres.
+C: KAUFMAN
+D: I need to go to bed, Donald. I haven't slept in a week.
+C: DONALD
+D: Okay.
+N: Donald remains on the floor. MONTAGE SEQUENCE Mishmash of images: alligators snapping, Laroche jabbering, Orlean typing, 19th century orchid poachers slogging, orchids blooming, Mike Owen lecturing.
+C: KAUFMAN
+D: ... so we open the swamp... okay, flashback to young Laroche had turtles... Okay, Susan says What Is Passion? And okay we open on a swamp and suddenly a white van comes tearing around...
+E: V.O.
+S: INT. EMPTY BEDROOM - NIGHT
+N: Kaufman lies half-awake in bed, sweating, his eyes darting back and forth. He looks over at the clock. It's 3:32.
+C: KAUFMAN
+D: Damn it.
+N: Donald snores happily off-screen. Kaufman switches on a lamp, pulls The Orchid Thief from his bag, flips through it. There are now many yellow hi-lited passages. He reads one.
+C: KAUFMAN
+D: There are too many ideas and things and people, too many directions to go. I was starting to believe the reason it matters to care passionately about something is that it whittles the world down to a more manageable size.
+E: V.O.
+C: KAUFMAN
+D: Such sweet, sad insights. So true.
+N: Kaufman flips to the glowing, smiling author photo.
+C: KAUFMAN
+D: And you're... I like looking at you.
+N: He stares at the photo. Its smile broadens. It talks.
+C: ORLEAN PHOTO
+D: I like looking at you, too. Charlie.
+N: The photo smiles warmly at him. Kaufman begins to jerk-off. He closes his eyes. Then: Kaufman and Orlean are in his bed together, making love. She smiles at him throughout. They finish. Then: Kaufman is alone in bed, heaving. He looks at the still smiling photo. It somehow seems sleepy now.
+C: KAUFMAN
+D: I don't know how to do this. I'm afraid I'll disappoint you. You've written a beautiful book. I can't sleep. I'm losing my hair. I'm fat and repulsive --
+C: ORLEAN PHOTO
+D: Shhh. You're not. Whittle it down, focus on one thing in the story, find the thing you care passionately about and write about that.
+N: Kaufman studies her delicate, melancholy face. He's in love. ORLEAN PHOTO (cont'd) (sweet, flirty smile) I figured there might be something...
+S: INT. KITCHEN - MORNING
+N: Kaufman paces and talks animatedly into his mini-recorder.
+C: KAUFMAN
+D: We see Susan Orlean, delicate, fragile, beautiful, haunted by loneliness, typing at her desk. She looks at the camera and talks to us: "John Laroche is a tall guy, skinny as a stick, pale-eyed, slouch- shouldered..."
+N: Donald enters in his underwear, pours coffee.
+C: DONALD
+D: Morning.
+C: KAUFMAN
+D: Hey, hey.
+C: DONALD
+D: You seem chipper.
+C: KAUFMAN
+D: I'm good. I have some new ideas.
+C: DONALD
+D: Cool. Me too. I'm putting in a chase sequence now. The killer flees on horseback with the girl. The cop is after them on a motorcycle. It's like a battle between motors and horses.
+C: KAUFMAN
+D: They're all still one person, right?
+C: DONALD
+D: Yeah, hey, that's the big pay-off.
+C: KAUFMAN
+D: Well, it sounds exciting.
+E: nice
+C: DONALD
+D: Thanks, man. Thanks.
+S: INT. CAR - DAY
+N: Orlean drives through swampy landscape. She talks to us.
+C: ORLEAN
+D: I suppose what I'd been doing in Florida was trying to understand how people found order and contentment and a sense of purpose in the universe by fixing their sighs on one single desire. Now I was also trying to understand how someone could end such intense desire without a trace.
+N: Orlean stops at a payphone and dials. It rings for a while.
+C: LAROCHE
+D: Yeah what?
+E: PHONE VOICE groggy
+C: ORLEAN
+D: Hello, John, it's Susan.
+C: LAROCHE
+D: Yeah hi.
+E: PHONE VOICE
+C: ORLEAN
+D: So, how's everything going?
+C: LAROCHE
+D: Great! I'm training myself on the internet. It's fascinating. I'm doing pornography. It's amazing how much these suckers will pay for photographs of chicks. And it doesn't matter if they're fat or ugly or what.
+E: PHONE VOICE
+C: ORLEAN
+D: That sounds good.
+C: LAROCHE
+D: It's great is what it is.
+E: PHONE VOICE
+C: ORLEAN
+D: So I've been meeting a lot of orchid people, going to shows, I thought you might want to hear about it.
+C: LAROCHE
+D: Sorry. I am officially no longer interested in orchids or the losers who are still interested in them. The end.
+E: PHONE VOICE
+N: Laroche hangs up. Orlean looks off into the flat distance.
+C: ORLEAN
+D: If you really loved something, wouldn't a little of it always linger?
+N: She turns to the camera.
+S: INT. EMPTY BEDROOM - NIGHT
+N: Kaufman holds The Orchid Thief open with one hand and types with the other.
+C: KAUFMAN
+D: Susan Orlean drives. The golden light of the afternoon sun caresses her sweet face. She talks to us. "Florida is a landscape of transition and mutation, a hybrid of ..."
+E: V.O. copying from book
+N: Kaufman's hand slips, the book shuts. He opens it to the wrong page and sees an About The Author paragraph. The last line jumps off the page: "She now lives in New York City with her husband."
+S: EXT. L.A. STREET - NIGHT
+N: Kaufman wanders the street, distraught. A passing woman snickers.
+S: INT. EMPTY BEDROOM - NIGHT
+N: Kaufman types.
+C: KAUFMAN
+D: Susan and her husband eat dinner in silence. A dying relationship. Husband: You want to do something tonight? Susan: I should work. Y'know. I got stuff...
+E: V.O.
+S: INT. EMPTY LIVING ROOM - DAY
+N: Kaufman and Orlean move furniture into the room. It now looks warm and inviting. Orlean wears a bandana kerchief.
+C: KAUFMAN
+D: I'm so thrilled I get to adapt your book, get to merge my thoughts with yours. I love that. It's intimate, like a marriage.
+C: ORLEAN
+D: Not like a marriage.
+C: KAUFMAN
+D: Maybe what marriage could be.
+N: Her eyes tear up. She kisses him.
+C: ORLEAN
+D: Isn't it ironic? You adapting my book? My three years in Florida meditating on my inability to experience passion resulted in my finding it with you.
+S: INT. EMPTY BEDROOM - MORNING
+N: Kaufman paces with his mini-recorder. Off-screen typing.
+C: KAUFMAN
+D: ... and in the final sequence Susan as a young girl swings alone in the backyard. From high in the air she sees her parents in separate rooms staring blankly in opposite directions. This symbolizes the profound scarring their waning passion has had on the girl's psyche, how she became afraid to ever really love something because it would go away.
+N: Kaufman is immensely pleased. He smiles at Orlean's photo. KAUFMAN (cont'd) This is good. I'm finding you. The phone rings.
+C: KAUFMAN
+D: Yallo?
+C: VALERIE
+D: Hi, Charlie. It's Valerie. Just bugging you again. How's everything going?
+E: PHONE VOICE
+C: KAUFMAN
+D: Good. I think really good now.
+C: VALERIE
+D: Great. So I spoke to Susan yesterday.
+E: PHONE VOICE
+C: KAUFMAN
+D: Oh. Uh-huh, uh-huh.
+E: beat
+C: VALERIE
+D: I told her you were making terrific progress and she's really excited to read the script.
+E: PHONE VOICE
+N: Sweat appears on Kaufman's brow.
+C: KAUFMAN
+D: Oh. Good.
+C: VALERIE
+D: And she said she'd love to meet you.
+E: PHONE VOICE
+N: All color drains from Kaufman's face.
+C: KAUFMAN
+D: Um, well, y'know, for me it's distracting to... or confusing to discuss what I'm exploring in the screenplay at this point... before I finish... it. So...
+C: VALERIE
+D: That's fair. I'll let her know.
+E: PHONE VOICE
+C: KAUFMAN
+D: Tell Susan I'd be very happy to meet her at a future date. As she sees fit.
+C: VALERIE
+D: Okay. Good enough.
+E: PHONE VOICE
+C: KAUFMAN
+D: And tell her how much I love her book. Say I think she's such a great writer.
+N: VALERIE (cont'd) Will do. Just keep us posted, Charlie.
+C: KAUFMAN
+D: Okay. Nice talking to you. Okay then.
+N: Kaufman hangs up and looks at the photo of Orlean. It's still smiling, but not at him. It's not glowing. Maybe it's even smirking. Kaufman paces frantically, holding his stomach. Donald's off-screen typing grows louder.
+S: INT. EMPTY LIVING ROOM - CONTINUOUS
+N: Donald types at his desk on his computer. Kaufman storms in.
+C: KAUFMAN
+D: You can sit here and pretend to be a writer, mocking the seriousness of what I do, like some kind of fucking funhouse mirror version of me! But let me tell you, you don't know what writing is!
+N: Kaufman grabs his stomach, doubles over.
+S: INT. EMERGENCY ROOM - DAY
+N: Kaufman is on a gurney and hooked up to an IV. He watches a slightly haggard woman with a bandaged head sitting in a small room across the hall. She glances over in his direction. He smiles. She looks through him.
+C: KAUFMAN
+D: She thinks I'm repulsive.
+E: V.O.
+N: He lies there for a moment, then his eyes light up.
+S: INT. EMPTY BEDROOM - DAY
+N: Kaufman types passionately on his computer.
+C: KAUFMAN
+D: Movie opens.: Charlie Kaufman, fat, old, bald, paces the room. His voice-over carpets the scene. "I am old. I am fat. I am bald. My toenails have turned strange. I am repulsive. How repulsive? I don't know for I suffer from a condition called Body Dysmorphic Disorder."
+E: V.O.
+S: INT. AGENT'S OFFICE - DAY
+N: Kaufman, looking tired and wild-eyed, sits with his agent.
+C: JERRY
+D: ... we need to talk about the orchid script. Valerie called yesterday. They're getting antsy.
+C: KAUFMAN
+D: I think I've got it on track now.
+C: JERRY
+D: Good. She said you sounded weird.
+C: KAUFMAN
+D: No Hollywood bullshit. Just raw truth. Sometimes that takes a while to find.
+C: JERRY
+D: Okay. What's the time frame here?
+C: KAUFMAN
+D: It's goddamned honest, Jerry. It's true.
+C: JERRY
+D: Oh, hey, my friend sent me this fucked- up internet thing. It's a girl taking a shit, but a trout comes out. You got e- mail yet? I'll send it to you.
+C: KAUFMAN
+D: This is more honest than anything anyone's ever done before in a movie, I'll tell you that. The only truth we can offer is the truth that's our own experience of the world. "The great poet, in writing himself, writes his time." T.S. Eliot.
+C: JERRY
+D: It sounds good, buddy. But we do need to give Valerie a ballpark --
+C: KAUFMAN
+D: I'm sick of their constant harassment!
+S: EXT. SWAMP - DAY
+N: Black and white shot of Laroche and the Indians slogging through Fakahatchee. The camera swoops down and the scene turns into a mannequin version.
+C: ORLEAN
+D: On December 21, 1993 John Laroche and three Seminoles illegally removed one hundred and thirty rare plants from the Fakahatchee Strand State Preserve.
+E: V.O.
+S: INT. MIAMI CONVENTION CENTER - DAY
+N: It's an enormous hall filled with people setting up elaborate displays. Martin Motes and his assistant work on the Laroche display. Orlean watches them. Motes looks up.
+C: MOTES
+D: You've been checking out the displays?
+C: ORLEAN
+D: Yeah.
+C: MOTES
+D: It's the Miami centennial, we're supposed to illustrate something about Florida history.
+C: ORLEAN
+D: Right. Now Laroche is part of Florida history. As a mannequin.
+C: MOTES
+D: It's a world of words to the end of it./In which nothing solid is its solid self. You'll have to forgive me, I'm a reformed poetry professor.
+N: Orlean is moved by the quote.
+C: ORLEAN
+D: Who is that?
+C: MOTES
+D: Wallace Stevens.
+S: INT. BARNES AND NOBLE - NIGHT
+N: Orlean stands in the poetry section and reads a Wallace Stevens book.
+C: ORLEAN
+D: The greatest poverty is not to live/In a physical world, to feel that one's desire/is too difficult to tell from despair.
+E: V.O.
+S: INT. EMPTY BEDROOM - NIGHT
+N: Kaufman is on the floor typing. His mini-recorder is on.
+C: KAUFMAN'S VOICE
+D: Kaufman sits across from Valerie, a pretty film executive. He eyes her as she picks at her salad. She looks up and he looks down. He sweats. She compliments him on his work. She rubs her nose. He pulls at his nostrils. He tries to sound like he knows what he's talking about. He's full of shit.
+E: ON RECORDER
+S: INT. HOTEL ROOM - NIGHT
+N: Orlean dials the phone.
+C: LAROCHE
+D: Yeah.
+E: PHONE VOICE
+C: ORLEAN
+D: John, it's Susan.
+C: LAROCHE
+D: I know.
+E: PHONE VOICE
+C: ORLEAN
+D: I went to the Orchid Society Show a couple of days ago.
+C: LAROCHE
+D: I'm not interested.
+E: PHONE VOICE
+C: ORLEAN
+D: There was a display of you stealing the ghost orchids. You're famous.
+C: LAROCHE
+D: I'm not involved in that world now.
+E: PHONE VOICE
+C: ORLEAN
+D: So, look, John, I still haven't seen a ghost. And I was wondering --
+C: LAROCHE
+D: Yeah, yeah. I'll take you in.
+E: PHONE VOICE
+C: ORLEAN
+D: Really? Thank you so much! I just...
+C: LAROCHE
+D: Tomorrow. Pick me up at 5:30 am or it'll get too hot. I'll buy all the supplies we'll need.
+E: PHONE VOICE
+S: INT. EMPTY BEDROOM - NIGHT
+N: Kaufman types.
+C: KAUFMAN
+D: Kaufman jerks off to the book jacket photo of Susan Orlean.
+E: V.O.
+N: Donald appears in the doorway with a script.
+C: KAUFMAN
+D: What?! What do you want?
+C: DONALD
+D: I finished. My script. I'm done.
+N: Kaufman stares at his typewriter, doesn't say anything. DONALD (cont'd) So would you show it to your agent? Kaufman grabs Donald's script and throws it on his bed. DONALD (cont'd) Thanks. Also, I wanted to thank you for your idea. It was very helpful. I changed it a little. Now the killer cuts off body pieces and makes the victims eat them. It's, like, I once saw this picture of a snake swallowing it's tail -- Kaufman collapses, puts his head in his hands.
+C: KAUFMAN
+D: Ourobouros.
+C: DONALD
+D: I don't know what that means.
+C: KAUFMAN
+D: The snake is called Ourobouros.
+C: DONALD
+D: I don't think so. But it's cool for my killer to have this modus operandi. Because at the end when he forces the woman, who's really just him, to eat herself, he's also eating himself to death.
+C: KAUFMAN
+D: I'm insane. I'm Ourobouros.
+C: DONALD
+D: I don't know what that is.
+C: KAUFMAN
+D: I've written myself into my screenplay. It's eating itself. I'm eating myself.
+C: DONALD
+D: Oh. That's kinda weird.
+C: KAUFMAN
+D: It's self-indulgent. It's narcissistic. It's solipsistic. It's pathetic. I'm pathetic. I'm fat and pathetic.
+C: DONALD
+D: I'm sure you had a good reason, Charles. You're an artist.
+C: KAUFMAN
+D: The reason is I'm too timid to speak to the woman who wrote the book. Because I'm pathetic. Because I have no idea how to write. Because I can't make flowers fascinating. Because I suck.
+C: DONALD
+D: Hey, am I in the script, too?
+C: KAUFMAN
+D: I'm going to New York. I'll meet her. That's it. That's what I have to do.
+C: DONALD
+D: Don't get mad at me for saying this, Charles, but Bob's got a seminar in New York this weekend. So if you're stuck --
+N: Kaufman shoots Donald a look.
+S: INT. HOTEL ROOM - LATER
+N: The lights are off. Orlean is in bed, sleeping fitfully.
+S: INT. PLANE - NIGHT
+N: Kaufman reads Ann Landers's column in a paper dated July 4th.
+C: KAUFMAN
+D: Give yourself a reality check. Phoniness is transparent, and it is tiresome. Take pleasure in the beauty and wonders of nature. A flower is God's miracle.
+E: V.O.
+N: Out the window he sees colorful fireworks far down below, like small flowers blooming on the black earth. His eyes well with tears.
+S: INT. HOTEL ROOM - NIGHT
+N: Kaufman sleeps fitfully.
+S: EXT. SWAMP - DAY
+N: Orlean walks through alone, panicked. All the vegetation is greener and crazier-looking than we've seen before. Things slither by in the water, brush up against her. She tenses, steps into a sinkhole, flails, gets tangled in a vine, which wraps around her leg as she attempts to extricate herself. She falls face forward into the black water.
+S: INT. HOTEL ROOM - CONTINUOUS
+N: Orlean snaps awake, bedcovers tangled around her legs. She heaves, looks at the clock. It's 3:30. She stares at the ceiling. She looks at the clock again. It's 3:30. She looks at the clock again. It's 4:10. She closes her eyes. She opens them, looks at the clock, the room is filled with murky water, the bed an island of dryness. An alligator pokes its nose out of the water, begins to climb onto the bed. Orlean jumps back, hits her head on the headboard. The room is back to normal. The clock reads 4:23. She closes her eyes. The alarm goes off.
+S: EXT. LAROCHE'S HOUSE - EARLY MORNING
+N: Orlean pulls up to the curb where Laroche stands, dressed in a short sleeve shirt, thin pants, and his Miami Hurricanes hat. He opens the door and climbs in.
+C: ORLEAN
+D: Where are our supplies?
+C: LAROCHE
+D: Got everything I need right here.
+N: Laroche pulls a new pack of cigarettes out of his pocket. Orlean turns off the ignition and stares at the steering wheel. Laroche shrugs. LAROCHE (cont'd) Look, don't worry about it. We'll get crap at the Indian trading post on Alligator Alley. Hey, want me to drive?
+S: INT. CAR - A BIT LATER
+N: The sun has come up strong. It looks hot. Laroche speeds along with one finger on the wheel, paying little attention to the road. The car veers onto the shoulder, he lazily corrects it. Orlean is tense.
+C: LAROCHE
+D: I remember one time when I was a kid, fifteen or so, my mother and I came to the Fakahatchee to look for a ghost to photograph. We walked for hours, through the most intense heat I'd ever felt. We couldn't find one. I wanted to turn back. But my mom said, no.
+E: MORE
+N: LAROCHE (cont'd) She said, John, if you keep searching for something past doubt, past hopelessness, past the absolute certainty that you'll never find it, if you keep searching past that, there it'll be. So we walked. I had goddamn bloody blisters on my feet. And we found ourselves in this charred prairie, desolate, sun blasted, y'know. And there in the middle of it was this one gorgeous, snowy Polyrrhiza lindenii. They drive in silence for a little while. She watches him.
+S: INT. OFFICE - DAY
+N: Orlean types at her desk. She turns to us and talks.
+C: ORLEAN
+D: He made it sound like a Bible story, the hopeful journey through darkness into light. I never thought many people in the world were like John, but I was realizing more and more that Laroche was an extreme, not an aberration -- most people in some way or another do strive for something exceptional, something to pursue, even at their peril, rather than abide an ordinary life.
+S: EXT. MIDTOWN NEW YORK CITY STREET - DAY
+N: Kaufman, sweaty and anxious, walks along. He arrives at the New Yorker building and enters with steely determination.
+S: INT. BUILDING - A FEW MINUTES LATER
+N: Kaufman waits for the elevator, sweating even more profusely. The elevator doors open. People get off, people get on, the elevator doors close. Kaufman still stands there.
+S: EXT. SWAMP - MORNING
+N: Laroche and Orlean step off the levee into black water. They sink to their knees. The ground is soft; it's a struggle to pull their feet up to walk. Things slither past in the water. Something big runs by in the distance. Bees, and dragonflies hover. Gnats and mosquitoes bite. Birds screech. Frogs croak. Laroche points to a yellow flower.
+C: LAROCHE
+D: Here we go. Encyclia tempensis.
+N: Laroche lights a cigarette. LAROCHE (cont'd) Nice little sucker, isn't it? Orlean examines it from a distance.
+C: ORLEAN
+D: Cute.
+N: Laroche continues walking and Orlean attempts to keep pace. He points at a tiny orchid on another tree.
+C: LAROCHE
+D: Clamshell orchid. You know that.
+C: ORLEAN
+D: Uh-huh.
+C: LAROCHE
+D: See, I found you two already. I'll show you every orchid you want today. I'll find you a fucking ghost if it kills me. Rigid Epidendrum. That's an ugly-ass orchid. But I'm no snob. I'm interested in all orchids. Not just pretty ones.
+E: pointing to another orchid
+S: INT. COFFEE SHOP - A FEW MINUTES LATER
+N: A miserable Kaufman sits in the window, sipping coffee and watching the New Yorker building across the street. He steels himself, exits the coffee shop.
+S: INT. ELEVATOR - A FEW MINUTES LATER
+N: Kaufman rides up in the crowded elevator. It stops a few times; people get off and on. Kaufman sweats. The doors open. The New Yorker logo is painted on the wall opposite the elevator. Nobody gets off or on. The doors close. The elevator continues up. Kaufman hates himself. Soon the elevator is emptied out with the exception of Kaufman. It begins its descent and stops once again at the New Yorker. This time Orlean gets on. Kaufman is absolutely panicked. Orlean looks at him blankly, presses "lobby", and faces front. Kaufman sweats, studies the back of her head. The elevator arrives at the lobby. Orlean gets out. Kaufman hesitates, then follows.
+S: EXT. NEW YORK CITY STREET - DAY
+N: Orlean walks along. Kaufman follows her.
+S: EXT. SWAMP - LATE MORNING
+N: The sun is much higher in the sky. Orlean is a sweaty mess, frizzed hair, anxious, scraped, dirty.
+C: LAROCHE
+D: They're right nearby. Just follow me.
+E: peppy
+S: INT. RESTAURANT - DAY
+N: Orlean sits by herself, reading Vanity Fair. Kaufman sits a few tables away. He scribbles in his notebook.
+C: KAUFMAN
+D: Reads Vanity Fair. Funny detail: New Yorker writer reads Vanity Fair. Use!
+E: V.O.
+N: A waitress brings a tuna sandwich and an ice tea to Orlean. KAUFMAN (V.O.) (cont'd) Likes tuna, drinks ice tea. Good character details. Good stuff! Orlean looks up from her magazine and smiles at the waitress.
+C: ORLEAN
+D: Thanks. Could I get some lemon please?
+N: The waitress nods and leaves. Kaufman scribbles.
+C: KAUFMAN
+D: Likes lemon in tea and her voice is not at all what I imagined. Interesting!
+E: V.O.
+S: EXT. SWAMP - NOON
+N: Orlean follows Laroche. She watches him start off in one direction, stop, start off another direction, then go straight ahead. Orlean seems depressed.
+C: ORLEAN
+D: Laroche, can I ask you a personal question?
+N: Laroche turns and scowls at her.
+C: LAROCHE
+D: We're not lost.
+S: EXT. NYC STREET - DAY
+N: Orlean window shops at a shoe store. Kaufman takes notes.
+C: KAUFMAN
+D: Eyeing Stuart Weitzman pumps. Okay.
+E: V.O.
+N: Orlean heads down the street. Kaufman follows. She enters the New Yorker building. Kaufman waits outside.
+S: EXT. SWAMP - DAY
+N: The sun is hot. Laroche is twenty feet ahead of Orlean. She watches him march forward with great authority. She massages her eyebrows, leaving a residue of dirt on her face.
+S: INT. HOTEL ROOM - NIGHT
+N: Kaufman reviews his notes. He is sweaty and wild-eyed.
+C: KAUFMAN
+D: I have nothing. I am nothing. I am fat. I am over. I am lost.
+E: V.O.
+S: EXT. SWAMP - LATER
+N: The sun is high. Orlean and Laroche sit on dry ground. She stares at him. Laroche won't look at her. He busies himself opening the backpack and pulling out food. Finally, Laroche speaks without looking up.
+C: LAROCHE
+D: We're not lost.
+N: Laroche takes out a cigarette, lights it. LAROCHE (cont'd) I'm just turned around a little. He looks up at her, sees her staring at him. He pokes around on the ground for something, comes up with a straight twig. LAROCHE (cont'd) A sundial. I'll just set this up, wait a few minutes, and we'll be able to tell which way the sun is moving. We want to be heading southeast. Laroche sticks the twig into the ground, stares at it. LAROCHE (cont'd) This is no big deal. You should eat something. Orlean takes a cracker. This relaxes Laroche. He stretches his legs, knocks over the twig. Without looking at Orlean, he puts the twig back. LAROCHE (cont'd) So do you collect anything?
+C: ORLEAN
+D: Not really.
+E: non-responsive
+C: LAROCHE
+D: Well, y'know it's not really about collecting the thing, it's about --
+C: ORLEAN
+D: The sundial isn't working.
+N: Laroche looks down at it.
+C: LAROCHE
+D: It is so working.
+N: Orlean stares at the twig in the ground. She looks at Laroche. Laroche smiles sheepishly at Orlean. Rage and panic sweep across her face, her fists clench into balls. Her eyes become wild, some dark fantasy plays out in her brain. Laroche seems unaware. LAROCHE (cont'd) The thing about computers. The thing I like is that I'm immersed in it but it's not a living thing that's going to leave or die or something. I prefer having the minimum number of living things to worry about in my life. Orlean's anger softens. She looks sadly at Laroche.
+C: ORLEAN
+D: So, John...
+C: LAROCHE
+D: Okay, fuck the sundial. We'll just go straight and eventually we'll get there.
+N: They rise. LAROCHE (cont'd) What I mean is we'll get somewhere. Out of here. I mean, logically, we have to get out as long as we walk straight. Laroche points them in a direction and they walk.
+S: INT. HOTEL ROOM - MORNING
+N: Kaufman is sleeping. It looks like it's been a rough night. The phone rings. He reaches for it.
+C: KAUFMAN
+D: Hello?
+C: JERRY
+D: Hey, it's Jerry. I woke you?
+E: TELEPHONE VOICE
+C: KAUFMAN
+D: No, it's okay.
+C: JERRY
+D: How's it going? Has it been helpful to talk to the writer? What's her name?
+E: TELEPHONE VOICE
+C: KAUFMAN
+D: Yeah. Susan Orlean.
+C: JERRY
+D: Well, I mean, are you making headway? Valerie's breathing down my neck.
+E: TELEPHONE VOICE
+C: KAUFMAN
+D: You can't rush inspiration. Y'know?
+C: JERRY
+D: Okay, fine. Um, the other reason I'm calling is to tell you Me, Myself, and I is just amazing.
+E: TELEPHONE VOICE
+C: KAUFMAN
+D: What the hell is Me, Myself, and I?
+C: JERRY
+D: Your brother's script. It's tight, inventive. A smart, edgy thriller. The best spec script I've read this year.
+E: TELEPHONE VOICE
+C: KAUFMAN
+D: Oh. Good.
+C: JERRY
+D: I'm gonna sell it for a shitload. Two fucking talented guys in one family. Y'know, maybe you could bring Donald on to help you finish the orchid thing.
+E: TELEPHONE VOICE
+C: KAUFMAN
+D: Jerry, don't say that. I mean --
+C: JERRY
+D: Just a thought, buddy. He's really goddamn amazing at structure.
+E: TELEPHONE VOICE
+C: KAUFMAN
+D: Jerry, I gotta go. I have an appointment. I gotta go.
+C: JERRY
+D: Adios, buddy. Finish! Finish!
+E: TELEPHONE VOICE
+S: EXT. NYC STREETS (MONTAGE) - MORNING
+N: Kaufman wanders. He eyes other sad-looking, balding, overweight men wandering the streets also.
+C: KAUFMAN
+D: I am fat. I can't write. I am repulsive. I am old. I have accomplished nothing. I am just one more old, fat, bald man on the street.
+E: V.O.
+S: EXT. SWAMP - DAY
+N: Laroche leads the way. There's a sadness, a sense of defeat and humiliation that he tries to conceal. Orlean is stony.
+C: LAROCHE
+D: I've done this a million times. Whenever everything's killing me, I just say to myself, screw it, and go straight ahead.
+N: Laroche leads Orlean back into the brush.
+S: EXT. NYC STREET - MORNING
+N: Kaufman sees a white school building ahead, glowing in the sun. He walks toward it.
+S: INT. LOBBY - MORNING
+N: The lobby of an auditorium, crowded with enthusiastic people signing up for something. Kaufman waits in line. He watches the handsome guy ahead of him flirt with an attractive female registrar. The guy moves on and the attractive registrar looks without interest at Kaufman.
+C: REGISTRAR
+D: May I help you?
+N: Kaufman averts his eyes from her cool gaze; they come to rest on a pile of McKee's book Story next to her.
+S: INT. AUDITORIUM - A BIT LATER
+N: Kaufman sits in the packed room. McKee paces the stage with a mic clipped to his lapel.
+C: MCKEE
+D: Years from now you'll be standing around a posh cocktail party congratulating yourself on how you spent an entire weekend locked in a room with an asshole, an opinionated arrogant asshole, for your art.
+N: The audience laughs, except for Kaufman who looks pained.
+C: KAUFMAN
+D: I am pathetic. I am a loser. I am fat.
+E: V.O.
+C: MCKEE
+D: So... what is the substance of writing? Nothing as trivial as words is at the heart of this great art, my friends.
+N: McKee continues to talk but his voice goes under.
+C: KAUFMAN
+D: I have failed. I am panicked. I am fat. I have sold out. I am worthless. I...
+E: V.O.
+C: MCKEE
+D: Literary talent is not enough. First, last, and always, the imperative is to tell a story.
+N: Kaufman watches with disdain as people take notes.
+C: MCKEE
+D: Twenty three hundred years ago, Aristotle said, when storytelling goes bad in a society, the result is decadence. Well, just look around you.
+E: deadpan
+N: Everyone, except Kaufman, laughs giddily at McKee's joke. MCKEE (cont'd) Aristotle also said: A story must have a beginning, a middle, and an end. The students nod in appreciation at this profundity.
+S: INT. AUDITORIUM - LATER
+N: McKee scribbles a diagram onto a transparency in an overhead projector. It's some kind of complicated time-line with act- breaks and corresponding page numbers indicated. The audience members take copious notes. Kaufman sweats.
+C: KAUFMAN
+D: It is my weakness, my ultimate lack of conviction that brings me here with all these desperate idiots lapping up everything this bag of wind spouts. Easy answers. Rules to short-cut yourself to success. And here I am, because my jaunt into the abyss brought me nothing. Well, isn't that the risk one takes for attempting something new. I should leave here right now. I'll start over -- I need to face this project head on and --
+E: V.O. starts to rise
+C: MCKEE
+D: ... and God help you if you use voice- over in your work, my friends.
+N: Kaufman stops, looks up, startled. McKee seems to be looking at him.
+C: MCKEE
+D: God fucking help you! It's flaccid, sloppy writing. Any idiot can write voice-over narration to explain the thoughts of a character. You must present the internal conflicts of your character in image, in symbol. Film is a medium of movement and image.
+N: Kaufman looks around at people scribbling in notebooks. "Any idiot..." writes the guy on one side of him. "Flaccid..." writes the guy on the other side. MCKEE (cont'd) Okay, one hour for lunch.
+S: EXT. NYC STREET - A FEW MINUTES LATER
+N: Students exit onto the street in small groups. Kaufman wanders by himself. His face is troubled. There is no sound.
+S: INT. AUDITORIUM - LATER
+N: McKee lectures. Kaufman sits and listens. A copy of Aristotle's Poetics sits on his lap. The book features a bust of Aristotle on the cover.
+C: MCKEE
+D: You want your writing to be original. You want to have an original voice like Neil Simon or Nora Ephron. Well, let me tell you something, my friends. The key to originality is not eccentricity.
+N: A guy behind Kaufman gives an appreciative "mmmm."
+T: DISSOLVE TO:
+S: INT. AUDITORIUM - LATER
+N: It's late. The audience is tired, but still attentive. Now Kaufman takes serious notes. McKee, energetic as ever, wears his sweater tied around his shoulders. We stay firmly planted on his face as he talks and talks.
+C: MCKEE
+D: Long speechs are antithetical to the nature of cinema. The Greeks called it stykomythia -- the rapid exchange of ideas. A long speech in a script, say a page long, requires that the camera hold on the actor's face for a minute. Look at the second hand on your watch as it makes one complete rotation around the clock face and you'll get an idea of how intolerable that would be for an audience. The ontology of the screen is that it's always now and it's always action and it's always vivid. Life is rarely vivid. And that's an important point. We are not recreating life on the screen. Writers are not tape recorders. Have you ever eavesdropped on people talking in a coffee shop? Then you know how dull and tedious real conversation is. Real people are not interesting. There's not a person in this world -- and I include myself in this -- who would be interesting enough to take as is and put in a movie as a character.
+T: DISSOLVE TO:
+S: INT. AUDITORIUM - LATER STILL
+N: McKee faces the audience, holding a cup of coffee.
+C: MCKEE
+D: Someone asked me recently, Bob, do you think Michelle Pfeiffer is pretty.
+N: He pauses theatrically, sips his coffee, then: MCKEE (cont'd) (deadpan) Michelle Pfeiffer is proof, my friends, that there's a fucking God. The overtired audience breaks into uproarious laughter. Kaufman, with dark circles under his eyes, giggles a little. MCKEE (cont'd) Okay. That's it for tonight. Remember, there'll be a Q and A tomorrow morning before class starts.
+S: INT. HOTEL - NIGHT
+N: Kaufman tosses and turns in bed.
+T: DISSOLVE TO:
+S: EXT. DREAM-LIKE FIELD - DAY
+N: The daguerreotype Darwin, the Aristotle sculpture, the Hegel engraving, and the Orlean book jacket photo are alive and in the middle of brutal and bloody fist fight.
+S: INT. AUDITORIUM - MORNING
+N: Kaufman, bleary-eyed, sits in the back. McKee paces.
+C: MCKEE
+D: Anyone else?
+N: Kaufman timidly raises his hand. MCKEE (cont'd) Yes?
+C: KAUFMAN
+D: You talked about Crisis as the ultimate decision a character makes, but what if a writer is attempting to create a story where nothing much happens, where people don't change, they don't have any epiphanies. They struggle and are frustrated and nothing is resolved. More a reflection of the real world --
+C: MCKEE
+D: The real world? The real fucking world? First of all, if you write a screenplay without conflict or crisis, you'll bore your audience to tears. Secondly: Nothing happens in the real world? Are you out of your fucking mind? People are murdered every day! There's genocide and war and corruption! Every fucking day somewhere in the world somebody sacrifices his life to save someone else! Every fucking day someone somewhere makes a conscious decision to destroy someone else! People find love! People lose it, for Christ's sake! A child watches her mother beaten to death on the steps of a church! Someone goes hungry! Somebody else betrays his best friend for a woman! If you can't find that stuff in life, then you, my friend, don't know much about life! And why the fuck are you taking up my precious two hours with your movie? I don't have any use for it! I don't have any bloody use for it!
+C: KAUFMAN
+D: Okay, thanks.
+S: EXT. NYC STREET - NIGHT
+N: The last of the students are filing out. Kaufman waits, leaning against the building. McKee emerges, carrying his brown leather bag. A shaky, tired Kaufman approaches him.
+C: KAUFMAN
+D: Mr. McKee?
+C: MCKEE
+D: Yes?
+C: KAUFMAN
+D: I'm the guy you yelled at this morning.
+C: MCKEE
+D: I need more.
+E: trying to recall
+C: KAUFMAN
+D: I was the one who thought things didn't happen in life.
+C: MCKEE
+D: Oh, right, okay. Nice to see you.
+C: KAUFMAN
+D: I need to talk.
+C: MCKEE
+D: I make it a rule not to give private tutorials to my seminar students. It wouldn't be fair to the others.
+C: KAUFMAN
+D: Mr. McKee, please. My even standing here is very scary. I don't meet people well. I'm self-conscious and timid. But what you said this morning shook me to the bone. What you said was bigger than my screenwriting choices. It's about my choices as a human being. Please.
+N: McKee hesitates for a moment, then reaches out and puts his arm around Kaufman.
+C: MCKEE
+D: I could use a drink, my friend.
+S: EXT. SWAMP - DAY
+N: Laroche and Orlean slog through the water with purpose, looking only straight ahead. As they walk the sounds and colors become subdued. Soon there is silence.
+C: ORLEAN
+D: We turned to the right and saw only more cypress and palm and sawgrass
+E: V.O.
+N: They turn left and see metal flashing in the sunlight. ORLEAN (V.O.) (cont'd) So we turned to the left, and there, far down the diagonal of the levee, we could see the gleam of a fender. We followed it like a beacon all the way to the road. Orlean and Laroche walk toward the car.
+S: INT. BAR - NIGHT
+N: Kaufman and McKee sit at a table with beers. Kaufman reads from his copy of The Orchid Thief.
+C: KAUFMAN
+D: ... We followed it like a beacon all the way to the road.
+N: Kaufman closes the book. There's a pause.
+C: MCKEE
+D: Then what happens?
+C: KAUFMAN
+D: That's the book. I wanted to present it simply, without big character arcs or sensationalizing the story. I wanted to show flowers as God's miracles. I wanted to show that Orlean never saw the blooming ghost orchid. It's about disappointment.
+C: MCKEE
+D: I see. That's not a movie. You must go back and put in the drama.
+C: KAUFMAN
+D: I've got pages of false starts and wrong approaches. I'm way past my deadline. I can't go back.
+E: pause
+C: MCKEE
+D: Ah, the everpresent deadline. Yes, I was doing a Kojak once and... it was hell.
+N: McKee sips his beer, eyes Kaufman. MCKEE (cont'd) Tell you a secret. The last act makes the film. You can have an uninvolving, tedious movie, but wow them at the end, and you've got a hit. Find an ending. Use what you've learned this weekend. Give them that and you'll be fine. Tears form in Kaufman's eyes.
+C: KAUFMAN
+D: You promise?
+N: McKee smiles. Kaufman hugs him. McKee recognizes his bulk.
+C: MCKEE
+D: You've taken my course before?
+C: KAUFMAN
+D: My brother did. My twin brother Donald. He's the one who got me to come.
+C: MCKEE
+D: Twin screenwriters. Julius and Philip Epstein,who wrote Casablanca were twins.
+C: KAUFMAN
+D: You mentioned that in class.
+C: MCKEE
+D: The finest screenplay ever written.
+S: INT. HOTEL ROOM - NIGHT
+N: A drunken Kaufman paces, tries to read Story. McKee's Ten Commandments are taped to the wall. As is a photo of Michelle Pfeiffer ripped from a magazine.
+C: KAUFMAN
+D: Climax. A revolution in values from positive to negative or negative to positive with or without irony -- a value swing at maximum charge that's absolute and irreversible.
+E: V.O.
+N: Kaufman is lost. He rubs his temples. He dials the phone.
+C: DONALD
+D: Great writers residence.
+E: PHONE VOICE
+C: KAUFMAN
+D: Donald.
+C: DONALD
+D: Hey, how's the trip? Gettin' it on with that lady journalist? You dog you!
+E: PHONE VOICE
+C: KAUFMAN
+D: Yeah. Listen, I'm calling to say congratulations on your script.
+C: DONALD
+D: Isn't that cool? Jerry says he can make me, like, high-sixes against a mill-five.
+E: PHONE VOICE
+C: KAUFMAN
+D: That's great, Donald.
+C: DONALD
+D: I want to thank you for all your help.
+E: PHONE VOICE
+C: KAUFMAN
+D: I wasn't any help.
+C: DONALD
+D: C'mon, you let me stay in your place and your integrity inspired me to even try.
+E: PHONE VOICE
+C: KAUFMAN
+D: Well, look, I've been thinking, maybe you'd be interested in hanging out with me in New York for a few days.
+C: DONALD
+D: Oh my God, yes! I'm flattered!
+E: PHONE VOICE
+S: INT. HOTEL ROOM - MORNING
+N: Donald lies on his back on the floor intently reading the script. Kaufman paces. Donald finishes, is quiet.
+C: KAUFMAN
+D: So, like, what would you do?
+C: DONALD
+D: Script kind of makes fun of me, huh?
+C: KAUFMAN
+D: Sorry. I was trying something. I --
+C: DONALD
+D: Hey, I don't mind. It's funny.
+C: KAUFMAN
+D: Okay. So, what would you do?
+C: DONALD
+D: You and me are so different, Charles. We're different talents.
+C: KAUFMAN
+D: I know. Just for fun. How would the great Donald end this script?
+C: DONALD
+D: The great Donald. Well, I mean... do you need the whole court case?
+E: giggling serious
+C: KAUFMAN
+D: Uh, it's what happened to Laroche. It's kind of important.
+C: DONALD
+D: It's boring. No offense. A courtroom scene should be dramatic. Stick the ruling in a line of dialogue, maybe.
+C: KAUFMAN
+D: Um. Okay.
+C: DONALD
+D: Too much about orchids. Get rid of it. Pare that stuff down to a minimum. Frankly, I'd focus more on the relationship between the brothers. I think that's the gold here. No one cares about orchids.
+C: KAUFMAN
+D: The book's about orchids.
+C: DONALD
+D: That's a problem. But don't let it ruin the movie. I mean, for example, use the orchids in a more dramatic way. Have some kind of bang-up, crazy action sequence in the swamp. Use the swamp better. It's a tremendous fictional world. A setting of great dramatic possibility.
+C: KAUFMAN
+D: That's true. But --
+C: DONALD
+D: And put some twists in. Reveal some surprising thing about Laroche. God, what am I doing giving suggestions to you? I mean you're like a seasoned professional. You're an artist.
+C: KAUFMAN
+D: C'mon, you're the "mill-five" kid.
+C: DONALD
+D: Shut up! I love the Laroche porno web-site stuff. Is that real? Maybe make a bigger deal of that. I don't know.
+E: enjoying this thinks
+C: KAUFMAN
+D: I think it's real. I haven't actually seen the site.
+C: DONALD
+D: It's sex, man! Incorporate it.
+S: INT. HOTEL ROOM - NIGHT
+N: The front door opens and Kaufman enters. The lights are off, but the room is aglow with light from Donald's laptop computer. Kaufman sees a silhouetted Donald masturbating in front of the computer. Donald looks up, caught.
+C: DONALD
+D: Oh, hi, I was doing some research. I found Laroche's site and... I'm embarrassed.
+C: KAUFMAN
+D: Jesus, Donald.
+N: Kaufman passes Donald, glances at the grainy nude on the screen. He's stunned. It's Orlean smiling at him.
+C: DONALD
+D: What? She's kinda cute. You don't like her? I dunno, I think she's okay. It's not like I'm marrying her.
+N: Kaufman shows Donald Orlean's book jacket photo. DONALD (cont'd) Oh, wow. That's kind of a twist, huh?
+C: KAUFMAN
+D: Jesus. Jesus!
+C: DONALD
+D: I think this is maybe a good thing for the script. Go ask her about this.
+C: KAUFMAN
+D: I'm not gonna ask her about this.
+C: DONALD
+D: You want me to? I don't mind.
+C: KAUFMAN
+D: No, I don't want you to.
+C: DONALD
+D: I could easily pretend I'm you.
+C: KAUFMAN
+D: No! No!
+S: INT. NEW YORK OFFICE BUILDING - DAY
+N: Donald, dressed like Kaufman, waits by the elevators. Orlean emerges. He's about to talk to her, when she pulls out a cell phone and dials. Donald decides to be a spy and follows her out of the building.
+S: EXT. NEW YORK OFFICE BUILDING - CONTINUOUS
+N: Orlean talks on the phone. Donald trails close behind her.
+C: ORLEAN
+D: So you'll pick me up? Yeah, tomorrow.
+N: Orlean stops to look in a shoe store window. Donald stops and looks in the window also. Orlean doesn't notice him. ORLEAN (cont'd) Ten-twenty. TWA. Yes, of course I will. Donald walks off.
+S: INT. HOTEL ROOM - NIGHT
+N: Donald is focused on the computer. Kaufman sits in a chair in the corner. Both men are in pajamas.
+C: KAUFMAN
+D: What was she wearing?
+C: DONALD
+D: I don't know. Like a dress maybe.
+C: KAUFMAN
+D: Did she look at me? At you?
+C: DONALD
+D: Finally! Da-da-da-daaaaah! S. Orlean, TWA flight 651. Arriving Miami 10:20 tomorrow morning.
+N: Donald turns and smiles across the room to Kaufman.
+C: KAUFMAN
+D: I don't want to do this, Donald.
+C: DONALD
+D: We'll go together. It'll be good.
+N: Kaufman looks squeamish. Donald picks up a hairbrush, holds it to his mouth. He starts to sing "Happy Together." Kaufman smiles sheepishly, shrugs Donald off. Donald persists. Finally Kaufman joins in. They do the whole number and fall laughing into each other's arms.
+S: EXT. MIAMI INTERNATIONAL AIRPORT - DAY
+N: Orlean waits with a suitcase outside the terminal. The beat- up white van pulls up. Orlean gets in, the van speeds off. Another car pulls away from the curb and follows it.
+S: INT. CAR - A BIT LATER
+N: Donald drives, keeping up with the van, which speeds and swerves through traffic. Kaufman is sweaty, nervous.
+C: KAUFMAN
+D: It's so weird to actually see that van in real life.
+C: DONALD
+D: So you want to build the symbolic charge of the story's imagery from the particular to the universal. Okay?
+C: KAUFMAN
+D: Okay, but when you're creating an image system, how do you know --
+S: EXT. SUBURBAN STREET - LATER
+N: The van pulls into the driveway of a neat, middle-class house. Kaufman and Donald drive by, in time to see Orlean and Laroche emerge from the van. Orlean seems different now: more exotic. She's wearing some kind of sexy sarong. Donald drives up the street, parks, gets out of the car, and watches as Laroche lugs Orlean's suitcase into the house.
+C: DONALD
+D: I'll get a closer look. You wait here.
+C: KAUFMAN
+D: No, I want to go. I should go. I mean, it should be me, right? I mean...
+E: momentously
+C: DONALD
+D: Go for it, bro. You the man.
+N: Kaufman gets out of the car. Donald gets in, peruses Kaufman's script. Kaufman walks past the house, trying to peer in windows. He sees nothing. He slinks around back. In the yard, Kaufman finds a greenhouse. It's filled with row upon row of ghost orchids.
+C: KAUFMAN
+D: Holy...
+N: There's movement in a window in the house. Kaufman ducks.
+C: LAROCHE
+D: Darlin', I dunno what's come over you!
+E: O.S.
+N: Kaufman crawls over to the house, lifts his face to the window. Orlean and Laroche are laughing, kissing, groping, and undressing each other. Kaufman is heartbroken but transfixed. Suddenly Laroche locks eyes with Kaufman.
+C: ORLEAN
+D: Don't stop, Johnny.
+N: Laroche jumps up and runs naked to the back door.
+C: ORLEAN
+D: Johnny! Where are you going?
+E: CONT'D
+N: Kaufman makes a mad dash around the side of the house. Laroche cuts him off, grabs him, drags him into the house.
+S: INT. HOUSE - CONTINUOUS
+N: Laroche throws Kaufman down into a chair. The chair slides across the floor, tips over. Orlean seems uninterested. She kisses Laroche's leg.
+C: LAROCHE
+D: Who the hell are you?
+N: Kaufman notices Laroche has a set of beautiful, white teeth.
+C: KAUFMAN
+D: I just... nobody, I just --
+N: Laroche shakes Orlean off his leg, kicks Kaufman in the gut.
+C: LAROCHE
+D: Who the fuck are you?
+C: KAUFMAN
+D: Um. I'm just. I was at the wrong house. I'm looking for the Johnson family.
+C: LAROCHE
+D: I got your Johnson family right here.
+N: Laroche kicks Kaufman in the head. Orlean kisses Laroche's back. Kaufman whimpers.
+C: ORLEAN
+D: Honey, come back to bed.
+C: LAROCHE
+D: Who the hell sent you? Rudy?
+C: KAUFMAN
+D: I'm not --
+N: Again Laroche kicks Kaufman in the head. His scalp bleeds. KAUFMAN (cont'd) I'm the screenwriter.
+C: LAROCHE
+D: What the fuck does that mean?
+C: KAUFMAN
+D: I'm the guy adapting her book. Her book about you.
+N: This registers with Laroche.
+C: LAROCHE
+D: Jesus Fucking Christ. Why the fuck were you in my backyard?
+E: then, trying to make sense
+C: KAUFMAN
+D: I was, um, trying... I don't know.
+N: Orlean is unforgiving.
+C: ORLEAN
+D: Who's the bloody fat guy?
+C: LAROCHE
+D: This is the fellow adapting your book for the movies, darling'.
+C: ORLEAN
+D: Really? I wanted to meet -- Oh. What does he know?
+E: excited realizing
+C: KAUFMAN
+D: I don't know anything. I swear.
+C: LAROCHE
+D: He knows about the greenhouse. We can't have this appear on the silver screen.
+E: to Orlean
+C: KAUFMAN
+D: It won't. I don't even under --
+C: ORLEAN
+D: Johnny, I'm so tired now.
+N: Orlean lies down. Laroche paces. Donald peers, unseen, into the back window.
+C: LAROCHE
+D: He needs to be gotten rid of.
+C: KAUFMAN
+D: What?!
+N: Donald's eyes widen. Laroche paces. Orlean watches Laroche, fascinated by his every muscle movement.
+C: LAROCHE
+D: Small article in newspaper.
+N: Orlean snaps out of her muscle fixation, becomes fixated on his voice, his lips. LAROCHE (cont'd) Screenwriter doing research for movie about notorious orchid poacher was found drowned in the Fakahatchee after accidentally slipping and hitting his head on a rock. End of story. Is that credible from a journalistic standpoint?
+C: ORLEAN
+D: Johnny, come lie on top of me.
+C: LAROCHE
+D: Focus, darling'. Is this credible?
+C: ORLEAN
+D: Um, oh... this screenwriter was killed doing research in Jamaica a few years ago. Screenwriter, you have a car?
+E: concentrates to Kaufman
+C: KAUFMAN
+D: I, um, no, I --
+N: Laroche gets ready to kick him again. KAUFMAN (cont'd) A rental, a rental.
+C: ORLEAN
+D: We drive his car there, leave it on the side of the swamp. That works.
+C: LAROCHE
+D: Good. I like that.
+C: ORLEAN
+D: Sorry.
+E: to Kaufman
+C: KAUFMAN
+D: Please.
+N: Donald disappears from the window.
+S: INT. RENTAL CAR - BEFORE DAWN
+N: Kaufman drives. The headlights shine on Laroche's van ahead. Orlean, no longer stoned, sits next to him, holding a gun. She skims Kaufman's screenplay.
+C: KAUFMAN
+D: I thought I had a sense of you from your book. I had a little crush on you, to tell the truth. You're different than I thought.
+E: beat
+C: ORLEAN
+D: Huh.
+C: KAUFMAN
+D: Look, I don't care what you two are you doing. Please don't kill me.
+C: ORLEAN
+D: Hey, here's one of my lines. "Isn't it ironic? You adapting my book? My three years in Florida meditating on my inability to experience passion resulted in my finding it with you."
+E: mockingly reading from screen
+C: KAUFMAN
+D: I was trying to do something.
+C: ORLEAN
+D: Well, it's kind of pathetic, dontcha think?
+N: They drive in silence. Orlean reads more of the screenplay.
+C: ORLEAN
+D: Here's me! Here's me again! "I wanted to know what it's like to care about something passionately."
+E: mocking
+N: Orlean laughs derisively.
+C: KAUFMAN
+D: You can laugh, but I didn't make that line up. That's a quote from your book.
+C: ORLEAN
+D: Yeah, I know, Charlie-boy. Chill. I'm laughing at who I used to be. It's sad.
+C: KAUFMAN
+D: So now you learned about passion. From Weirdo Laroche. Bully for you.
+E: jealous
+C: ORLEAN
+D: You can't learn about passion. You can be passion. And it wasn't John who made me passion. It was orchids.
+C: KAUFMAN
+D: I thought you didn't even like orchids.
+C: ORLEAN
+D: I lied about what happened at the end of the book. On the way out of the swamp...
+S: EXT. SWAMP - DAY
+N: Laroche leads Orlean through the swamp. He spots something on a tree, circles it, and stands there, awestruck. Orlean comes around and sees a beautiful ghost orchid hanging from the tree.
+C: LAROCHE
+D: The jewel of the Fakahatchee.
+N: Orlean looks at it, tries to feel some passion for it, can't.
+C: ORLEAN
+D: I still don't get it. I mean, there it is. I can see it's pretty, but --
+C: LAROCHE
+D: You'll get it.
+N: Laroche pulls a saw from his bag and cuts the branch.
+S: INT. BASEMENT - DAY
+N: There's a makeshift lab. Laroche is extracting some gooey substance from the nectary.
+C: ORLEAN
+D: Back in John's basement he explained his real plans for the ghost. He'd discovered a chemical inside with psychoactive properties. His plan had always been to clone the flower and make a fortune marketing this drug. It was Laroche's kind of plan, it wasn't a controlled substance because the government didn't know it existed.
+E: V.O.
+S: INT. LAROCHE'S LIVING ROOM - NIGHT
+N: Orlean nervously snorts some green powder off the coffee table while Laroche watches. She talks to the camera.
+C: ORLEAN
+D: The first time I tried it, the split second it took effect, I understood orchids. I loved them with a passion I'd never felt for anything. For anyone.
+N: The drug takes effect and Orlean turns away from us, becomes fixated on the ghost orchid sitting on the table before her. She smells it, caresses it, cries at its beauty.
+S: INT. RENTAL CAR - BEFORE DAWN
+C: ORLEAN
+D: Isn't it curious? An orchid made me passionate about orchids.
+C: KAUFMAN
+D: You're throwing the truth away for a chemical confusion of your synapses --
+C: ORLEAN
+D: With this powder I am passionate about everything.
+E: MORE
+N: ORLEAN (cont'd) I'm alive in a profound world now. It sizzles with beauty and horror and sex. Now writing is -- words are -- a way to remove yourself from passion. So I'm done with writing. John and I are making a fortune with this extract. It's big in the Miami club scene. We call it "Passion." (giggles)
+T: Isn't that cute?
+N: Up ahead, Laroche turns off the road at the Fakahatchee sign. ORLEAN (cont'd) Follow him, please.
+S: EXT. JANES SCENIC DRIVE - A LITTLE WHILE LATER
+N: Laroche parks. Kaufman parks behind him. Orlean gestures with her gun for him to get out. As Kaufman comes around the car, he sees Donald on the floor of the back seat. Laroche emerges from his van with a flashlight and a rifle slung over his shoulder. Orlean prods Kaufman to follow him. Kaufman shakes and whimpers as they all step down into the thigh-high water. They slog through silently. Laroche stops.
+C: LAROCHE
+D: This spot looks good. Now how do we do this? Hit him in the head with a rock first? Keeping in mind we can only hit him once and only with as much force as would be created by him slipping and falling onto the rock.
+E: thinking aloud
+N: Laroche paces. Orlean finds a place to sit on a hammock. She unwraps a small square of paper and snorts something out of it. Kaufman shivers. Orlean's drugs kick in.
+C: ORLEAN
+D: Holy Jesus. Holy... Hey, baby, hey...
+N: Orlean trails off. Laroche talks to the spaced out Orlean.
+C: LAROCHE
+D: Should we drown him, then hit him on the head? Uh-uh. A body bleeds different if the heart's stopped. These new forensic guys are very smart. We really have to know our corpses to stand a chance: rigor mortis, lividity, putrefecation, ocular changes.
+E: MORE
+N: LAROCHE (cont'd) Maybe you think we hit him on the head and force water into his lungs after he's dead? No, darlin'. They'll know he didn't drown. See, contrary to popular belief, the lungs do not -- do not -- fill with water in a drowning. What happens is, choking causes an irritation of the mucous membranes. This creates a shitload of mucus in the windpipe. Efforts to breathe turn the mucus into a sticky foam which may or may not mix with vomit. It's the presence of this white foam that indicates drowning. There's a lot to be aware of, Susie. Shoeprints, hair, microscopic fibers. Tire tracks. They all tell a tale to today's forensic scientists. (to Kaufman) What do you think? You're a writer. How would you do it? What's a good way to kill somebody?
+C: KAUFMAN
+D: I don't write this kind of bullshit.
+C: LAROCHE
+D: Don't get all huffy, I was simply --
+N: Suddenly Laroche gets whacked in the back, flies forward into the water. Orlean looks up, spaced. She's confused by a second Kaufman standing there with a bag of potting soil. Donald grabs Kaufman and they run back toward the road. Laroche pulls himself from the water. LAROCHE (cont'd) Fuck!
+C: ORLEAN
+D: Yeah, let's, baby.
+E: receptively
+N: She staggers moonily toward Laroche. He pushes her away.
+C: LAROCHE
+D: Not now. We got to kill that guy. And now I guess that other guy as well.
+C: ORLEAN
+D: Ohhh.
+E: disappointed
+S: INT. CAR - CONTINUOUS
+N: Kaufman and Donald speed along the swamp road.
+C: KAUFMAN
+D: For Christ's sake, why didn't you do something while we were in the car?
+C: DONALD
+D: My back had seized. I couldn't move.
+N: Laroche's van pulls close to them and rams them from behind.
+C: KAUFMAN
+D: Shit!
+N: It rams them again, this time sending them down into the swamp. The van stops. Donald tries to back the car onto the road; the wheels just spin. Laroche steps out of the van.
+C: DONALD
+D: We've gotta ditch this thing.
+C: KAUFMAN
+D: It's a rental! It's a rental!
+E: hysterical
+C: DONALD
+D: Now!
+N: Kaufman and Donald climb from the car, make their way deep into the swamp. Laroche follows them in on foot, dragging Orlean, who is admiring all the plant life.
+C: ORLEAN
+D: That's beautiful! What's that, Johnny? What's that one called? I just so want to fuck that flower, don't you?
+C: LAROCHE
+D: Asclepias lanceolata. Red milkweed. Extremely fuckable. But we don't have time.
+N: Laroche shoots at the brothers. Kaufman whines.
+C: LAROCHE
+D: What's his name?
+E: to Orlean
+C: ORLEAN
+D: Um, y'know... Charlie or something.
+C: LAROCHE
+D: Charlie! Listen, let's talk! This pie is big enough for four people! Why are there two of him?
+E: to Orlean
+N: Orlean shrugs.
+C: ORLEAN
+D: Identical twigs? Did I say twigs? I meant twins.
+E: laughs crazily
+N: Kaufman and Donald run through a colony of sawgrass. It slices them like razor blades. Kaufman yells in pain. Blood oozes through their shirts and pants.
+C: LAROCHE
+D: Cladium jamaicense, guys. Sawgrass. You want to watch out for that. That's some evil shit. Cut you up.
+C: KAUFMAN
+D: Fuck you, Laroche!
+C: LAROCHE
+D: Just tryin' to be helpful. Walk with us and I'll be sure you avoid all the pitfalls. I know these swamps forwards and backwards. There's alligators and poisonous snakes, fellas. Wild hogs.
+N: Kaufman and Donald are stopped by a large body of water. Nowhere to go. Laroche and Orlean close in. The brothers run along the periphery of the lake. Donald stops.
+C: DONALD
+D: Wait. Do you hear something?
+N: Kaufman stops, hears a distant galloping and squealing.
+C: KAUFMAN
+D: Donald, that sounds bad.
+N: The brothers run in the opposite direction. The galloping gets louder. It's wild pigs. Donald spots an airboat on the shore. They jump onto it, search hysterically in the dark for bow to start it. The pigs get closer. Laroche and Orlean get closer. Donald finds a button, presses it, the engine starts. They pull away from the shore just as the pigs catch up. One pig leaps on board, squealing. Kaufman kicks at it as Donald attempts to steer the boat. A kick connects and the pig flies into the water. Laroche stands at the shoreline and fires his rifle. It nicks the boat. Donald looks back and the boat heads for a cypress stand.
+C: KAUFMAN
+D: Watch out, watch out, watch out!
+N: Donald gets the boat back on course. Laroche and Orlean have been left far behind. Donald slows the boat.
+C: DONALD
+D: I think we're okay.
+N: Suddenly Laroche's van comes tearing around a corner and speeds along the road at the water's edge. Orlean shoots at the boat from the van window. DONALD (cont'd) Hold on! Donald speeds up. The van keeps up, the shooting continues. Bullets whiz. Kaufman puts his head in his hands. A bullet hits the airboat's gas tank. It explodes in a ball of flame, illuminating the whole swamp. Kaufman and Donald are thrown, along with flaming pieces of debris. Donald treads water, looks all around for Kaufman. DONALD (cont'd) Charles?! Charles?! Where are you? Underwater. A dazed Kaufman tries to get his bearings. The murky lake bottom is lit a dim orange by the fire on the surface. An alligator appears. Kaufman panics, surfaces. On the surface, Donald spots Kaufman pop out of the water, then get jerked back down. Donald dives. Underwater. The alligator violently shakes Kaufman by the leg. Donald surfaces, comes back down with a broken propeller blade. He hacks the alligator's head off, grabs Kaufman, and brings him to the surface. Donald swims to shore with Kaufman in tow. Another shot is fired. It skims the water near Kaufman.
+C: KAUFMAN
+D: Fuck! Fuck, Donald, we're dead.
+C: DONALD
+D: We're okay. How's your leg?
+C: KAUFMAN
+D: I don't know. How's your back.
+C: DONALD
+D: It's fine. My back is fine.
+N: Laroche and Orlean circle the lake in the van, shooting. Mike Owen, in pajamas, leaves his house, jumps in his truck and agitatedly drives toward the noise and flames. Donald makes it to shore. He climbs out and is helping Kaufman, when he gets hit by a bullet and falls.
+C: KAUFMAN
+D: Donald!
+N: Kaufman sloshes to shore. His right leg is bloody and mangled. He lifts his brother's head onto his lap.
+C: KAUFMAN
+D: You're gonna be okay.
+C: DONALD
+D: No. But don't let them get you, too. You got a fucking awesome third act.
+E: weak smile
+C: KAUFMAN
+D: Donald, this is an awful, bizarre thing to say and an awful time to say it, but I'm sorry I didn't get to know you better. I'm so sorry. I'm so sorry.
+E: crying
+C: DONALD
+D: It's really... You've been really nice.
+C: KAUFMAN
+D: See, it's just I thought I knew you already. I thought you were me. And I hated me.
+N: Donald touches Kaufman's face. Kaufman looks at his brother. Donald's face glows radiantly in the fire light.
+C: DONALD
+D: Well, don't do that anymore. Okay?
+C: KAUFMAN
+D: Okay.
+N: Donald dies. Kaufman screams heavenward. The van appears out of the bush, barreling for them. Kaufman rolls his brother out of the way, and limps off into a slough. The van follows, smashes into a tree, and comes to a halt. Smoke pours from the grill and is lit by the headlights. Out of the smoke, Laroche and Orlean appear with guns. They follow Kaufman into the swamp. Mike Owen pulls next to the disabled van. He gets out, surveys the mess, sees bloody Donald on the ground.
+C: MIKE OWEN
+D: Jesus, that writer guy.
+N: Owen grabs his C.B., tries to radio for help. It's broken. He lifts Donald into the back of the truck and speeds off. Kaufman limps through the dark water. Laroche and Orlean follow the sound of his sloshing.
+C: ORLEAN
+D: Water sounds so sparkly. Like lemon plastic jewels plopping onto a silver trampoline! Dontcha think?
+C: LAROCHE
+D: Darlin', please.
+C: ORLEAN
+D: Can we fuck now, baby? Fuck like lemons?
+N: Owen tears along the dirt road. Up ahead, Kaufman limps out of the swamp, into the truck's headlights. Owen is confused. He checks the back to see if Donald's body is still there and skids off the road into the swamp. Kaufman hurriedly limps over to the disabled truck. Owen climbs out.
+C: KAUFMAN
+D: You gotta help me. You gotta help me.
+C: MIKE OWEN
+D: What the hell is going on here?
+C: KAUFMAN
+D: They're after me. They've got guns. They killed my brother.
+C: MIKE OWEN
+D: Who's got guns? What are you --
+N: Before Owen finishes, his truck is flipped over. Donald's body flies into the water. There, staring Kaufman and Owen down, is a giant man-like beast. It's repulsive, covered in algae-matted fur. MIKE OWEN (cont'd) Holy shit. The two men turn and run. MIKE OWEN (cont'd) It's real! I can't believe it, I never -- The creature grabs Owen and snaps his neck like a toothpick. Kaufman screams as he runs, watches over his shoulder. He runs right into the arms of Orlean.
+C: ORLEAN
+D: Hey, it's the screenwriter!
+C: KAUFMAN
+D: There's a thing back there! You don't want to be here.
+N: Kaufman, Orlean, and Laroche look back. Nothing there.
+C: LAROCHE
+D: You're right, I don't want to be here. I'm tired, let's get this over with.
+N: Laroche puts the gun to Kaufman's head. Kaufman tenses. Orlean studies Laroche's gun. Her nose is practically touching the barrel.
+C: ORLEAN
+D: I love your gun, baby. Can we trade?
+C: LAROCHE
+D: Stand back, sweetness.
+N: Laroche reaches for Orlean's arm to pull her away. Suddenly the creature grabs Laroche, pulls him into the swamp. LAROCHE (cont'd) Susie! Susie! Orlean looks around.
+C: ORLEAN
+D: Where'd Johnny go?
+C: LAROCHE
+D: Susie!
+E: O.S.
+N: Orlean, agitated and disoriented, fires repeatedly into the darkness. Something slumps forward in the water. Orlean steps cautiously over, keeping her gun on Kaufman. The creature is dead, so is Laroche.
+C: ORLEAN
+D: Oh, Johnny.
+E: crying softly
+N: She sits next to Laroche and pets his head. Kaufman watches her. The sun is coming up.
+C: KAUFMAN
+D: I'd just stare at your picture, and you looked so sweet. I read your words and I thought you were smart and maybe lost and lonely like me. And the way you wrote about Laroche. You said he was handsome even though he had no front teeth --
+C: ORLEAN
+D: Oh, Johnny. Johnny's teeth. Oh...
+C: KAUFMAN
+D: I figured you could look at me and see something, even with all my flaws you could look at me and find something, you could maybe someday write a description of me that would be nicer than the one I write day in and day out in my head. Would it be?
+E: hopefully
+N: Kaufman takes Orlean's chin in his hand and directs her gaze to him. She stares at him for a long while, then:
+C: ORLEAN
+D: You're really so wonderful.
+C: KAUFMAN
+D: Really?
+C: ORLEAN
+D: So wonderful. I can see inside your soul. It glows with orange sadness. It's raining inside you. I want to run through your dripply dripples. It's so beautiful. I love you. I do.
+N: Kaufman lets go of her face and sits on a rock.
+C: KAUFMAN
+D: It's the drugs.
+N: Orlean stands and walks toward Kaufman.
+C: ORLEAN
+D: No, it's me. It's the real me. Look at you. I just want to hold you and -- Oh, crap, it's wearing off. Crap!
+N: She paces, unfolds her little square of paper. ORLEAN (cont'd) I'm out. I'm fucking cleaned out. Kaufman watches her for a moment.
+C: KAUFMAN
+D: Okay, bye.
+C: ORLEAN
+D: I can't let you go, fatty. I can't let you make this public.
+N: Kaufman keeps walking. ORLEAN (cont'd) You hear me? You pathetic, fat, bald... You don't even know how to write! You're not even... You're not leaving here! (screaming, crying) I need a fix! Everything's so ugly! Orlean screams in anguish. Kaufman keeps walking. Orlean shakily aims the gun at his back. She shoots. Kaufman falls, gets up, keeps walking. She aims again through her tears. Suddenly she's pounced on by a bloody, soaking wet figure. Kaufman turns.
+C: KAUFMAN
+D: Donald!
+N: Kaufman limps back. Donald and Orlean roll on the ground.
+C: DONALD
+D: My brother is not fat. He's not bald. My brother is a great writer! He was trying to do something important!
+N: The gun fires. Orlean slumps over Donald. Kaufman arrives. Both Donald and Orlean are dead. Kaufman falls to his knees.
+S: EXT. SWAMP - MORNING
+N: The sun is high. Fires smoulder. A tow-truck extricates one of the crashed vehicles. State police cars, ambulances, ranger trucks abound. Kaufman is wrapped in a blanket. He is with a cop and pointing to the bodies spread on a black plastic tarp.
+C: KAUFMAN
+D: That's Mike Owen. John Laroche. Susan Orlean. I don't know what that is. I think it might be a Swamp Ape. And that's Donald, my twin brother. He saved my life.
+N: Kaufman cries a little. The cop waits sympathetically, then:
+C: POLICE OFFICER
+D: You two really look alike.
+C: KAUFMAN
+D: Yeah. Yes, we do.
+E: proudly
+S: INT. CALIFORNIA PIZZA KITCHEN - DAY
+N: Kaufman sits in a booth, working longhand on a legal pad. He's a little scraped-up, a little tougher. A copy of Story by McKee is among his reference material. Alice, the waitress, walks by and glances at the table.
+C: ALICE
+D: Oh, I love McKee! Oh, hi. Haven't seen you in a while.
+E: recognizes Kaufman, gets reserved
+C: KAUFMAN
+D: Hi. Yeah, I've been away.
+C: ALICE
+D: So you studying screenwriting?
+C: KAUFMAN
+D: I'm actually finishing one up.
+C: ALICE
+D: Good for you! Me too. God, it's so hard to get in, huh? Everyone and their brother is writing a screenplay.
+C: KAUFMAN
+D: Yeah. Actually I'm writing this one for Sony Pictures.
+C: ALICE
+D: Really? Wow. Really? That's so cool.
+E: beat MORE
+N: ALICE (cont'd) Wow! So what's it about, if you don't mind my asking?
+C: KAUFMAN
+D: That's tough. Let's see... about being yourself, maybe. It's about learning that if you can't love yourself, you can't really love anyone.
+C: ALICE
+D: That's true. God, that's so true. It's such an important message, y'know?
+C: KAUFMAN
+D: See, my twin brother was murdered recently --
+C: ALICE
+D: Oh God! I'm sorry. That's so horrible.
+C: KAUFMAN
+D: Thanks. Like part of me ripped away. Forever. It was a wake up call.
+C: ALICE
+D: I'm so sorry. You poor man.
+C: KAUFMAN
+D: Anyway, it helped put things in perspective. Life is a miracle. All life, from the flower to the human being. You. Me. And I want to show people that. For my brother. For everyone.
+N: There's a pause. Alice just stares at him, in awe.
+C: ALICE
+D: Listen, do you mind if I sit for a sec?
+C: KAUFMAN
+D: But you're working.
+C: ALICE
+D: It's a stupid job, y'know. I'm Alice.
+E: shrugs
+C: KAUFMAN
+D: Charlie.
+C: ALICE
+D: I like that name. Charlie. I've always really liked that name. Charlie.
+N: Alice smiles, sits. The two of them begin to talk.
+S: EXT. SPACE - NIGHT
+N: SUBTITLE: HOLLYWOOD, CALIFORNIA, FIVE BILLION AND FORTY YEARS LATER An enormous chunk of rock, dimly lit by faraway stars, floats by. Silence.
+T: FADE TO BLACK.
+S: WHITE TEXT ON BLACK SCREEN:
+N: "Let me have men about me that are fat; Sleek-headed men and such that sleep o' nights." - William Shakespeare In Loving Memory of Donald Kaufman THE END

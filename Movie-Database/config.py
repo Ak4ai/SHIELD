@@ -1,0 +1,1 @@
+tmdb_api_key = "3fe6d185392ba999d9b62c6377636b6e"

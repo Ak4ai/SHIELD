@@ -1,0 +1,6 @@
+CHAZ STANDARD,=>Captain.................A leader and a politician. Believes that any action is better than no action.
+MARTIN ROBY,=>Executive Officer.......Cautious but intelligent -- a survivor.
+DELL BROUSSARD,=>Navigator...............Adventurer; brash glory-hound.
+SANDY MELKONIS,=>Communications..........Tech Intellectual; a romantic.
+CLEAVE HUNTER,=>Mining Engineer.........High-strung; came along to make his fortune.
+JAY FAUST,=>Engine Tech.............A worker. Unimaginative.

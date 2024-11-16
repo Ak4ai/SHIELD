@@ -1,0 +1,1454 @@
+M: Crouching Tiger, Hidden Dragon
+M: by
+M: Wang Hui Ling, James Schamus, Tsai Kuo Jung
+M: based on the novel by
+M: Wang Du Lu
+S: EXT. YUAN COMPOUND - DAY
+N: Security men and porters are loading wagons for a convoy. As they work, we see across the lake a lone horseman entering the village. One of the men recognizes him.
+C: WORKER
+D: Master Li is here!
+N: ANGLE ON: Li Mu Bai, thirties, powerful and handsome. In the background, old Aunt Wu, at the sight of Li Mu Bai, drops her parcels and runs excitedly into the building.
+S: INT. YUAN HALLWAY - DAY
+N: Aunt Wu runs hurriedly through the halls.
+C: AUNT WU
+D: Shu Lien!
+S: INT. YU'S ROOM - DAY
+N: Yu, a beautiful woman in her early 30s, is finishing packing for the convoy, wrapping a few small items in a linen wrapper, as Aunt Wu bursts in.
+C: AUNT WU
+D: Li Mu Bai is here!
+S: INT. YUAN PRACTICE HALL - DAY
+C: LI
+D: How's everything?
+C: AUNT WU
+D: Fine. Please come in.
+N: Yu sits, composed, as Aunt Wu ushers Li in. Li carries a large object, wrapped in silk. Yu smiles.
+C: YU
+D: Mu Bai...It's been too long.
+C: LI
+D: It has. How's business?
+E: he glances around the room
+C: YU
+D: Good. And how are you?
+C: LI
+D: Fine.
+N: An awkward pause.
+C: YU
+D: Monk Zheng said you were at Wudan Mountain. He said you were practicing deep meditation.
+C: LI
+D: Yes.
+C: YU
+D: The mountain must be so peaceful... I envy you. My work keeps me so busy, I hardly get any rest.
+C: LI
+D: I left the training early.
+C: YU
+D: Why? You're a Wudan fighter. Training is everything.
+C: LI
+D: During my meditation training... I came to a place of deep silence... I was surrounded by light... Time and space disappeared. I had come to a place my master had never told me about.
+C: YU
+D: You were enlightened?
+C: LI
+D: No. I didn't feel the bliss of enlightenment. Instead... I was surrounded by an endless sorrow. I couldn't bear it. I broke off my meditation. I couldn't go on. There was something... pulling me back.
+C: YU
+D: What was it?
+C: LI
+D: Something I can't let go of. You are leaving soon?
+C: YU
+D: We're preparing a convoy for a delivery to Peking.
+C: LI
+D: Perhaps I could ask you to deliver something to Sir Te for me.
+N: Li unwraps the object. It is an ancient, astonishingly beautiful sword.
+C: YU
+D: The Green Destiny Sword? You're giving it to Sir Te?
+C: LI
+D: I am. He has always been our greatest protector.
+C: YU
+D: I don't understand. How can you part with it? It has always been with you.
+C: LI
+D: Too many men have died at its edge. It only looks pure because blood washes so easily from its blade.
+C: YU
+D: You use it justly, you're worthy of it.
+C: LI
+D: It's time for me to leave it behind.
+C: YU
+D: So what will you do now?
+N: Li doesn't reply.
+C: YU
+D: Come with me to Peking. You can give the sword to Sir Te yourself. It'll be just like old times.
+C: LI
+D: First I must visit my master's grave. It's been many years since Jade Fox murdered him. I have yet to avenge his death. And yet I'm thinking of quitting. I must pray for his forgiveness.
+C: YU
+D: Join me once you have finished. I can wait for you in Peking.
+C: LI
+D: Perhaps.
+S: EXT. THE GATE TO PEKING. DAY
+N: Customs officials have just finished checking the contents in a row of carriages bearing the Sun Security insignia. The caravan slowly passes through the checkpoint into the boundaries of Peking. Yu, riding a handsome horse and clearly the leader, watches as her crew clears inspection.
+C: GUARDS
+D: Ok. Pass.
+C: YU
+D: Thanks. Let's go into the city.
+S: EXT. OUTSIDE A DEPOT. DAY
+N: Workers are busy unloading the contents from the carriages. Boss Giao is checking off the merchandise -- a cargo of medicinal herbs.
+C: GIAO
+D: Everything got here safely. I'm much obliged.
+C: YU
+D: Just doing my job.
+C: GIAO
+D: Sun Security has been the best since your father started it. You're a credit to his memory.
+C: YU
+D: Thank you.
+C: GIAO
+D: I mean it.
+S: EXT. DAY. PEKING
+N: From a gray tiled roof, we can see Peking's magnificent grid of houses extending miles and miles out, freshly painted by the morning sun.
+S: EXT. PEKING STREET. DAY
+N: Dusty and congested as always, people, horses, and carriages are fighting to get through the boulevards. A group of jugglers perform at a corner. Yu surveys the busy street from on top of her horse.
+S: INT. TE'S GREAT HALL - DAY
+N: Yu presents the sword to Sir Te.
+C: SIR TE
+D: This is Li's personal sword, a great hero's weapon! He is the only one in the world worthy of carrying it. It's too fine a gift. I cannot accept it.
+C: YU
+D: Sir Te! It has brought him as much trouble as glory. Help him to leave these troubles behind. Otherwise, he'll never be able to start anew.
+C: SIR TE
+D: All right. I'll act as the sword's custodian.
+N: De Lu, the head servant, enters.
+C: DE LU
+D: Governor Yu has arrived.
+C: SIR TE
+D: I must change.
+C: YU
+D: You've always been so good to Li Mu Bai and me. Please accept our thanks.
+E: getting up
+C: SIR TE
+D: Please do not be such a stranger. You'll stay the night as my guest. Now, Shu Lien... tell me something. And forgive me for prying. Your father was a great friend to me, and I think of you as my own daughter.
+C: YU
+D: Please, Sir Te, what is it?
+C: SIR TE
+D: Li Mu Bai giving up his sword and his warrior days... maybe he's trying to tell you something?
+C: YU
+D: I don't know...
+C: SIR TE
+D: Don't be coy. I've always known about your feelings for each other. All these years, it's a shame... neither of you is brave enough to admit the truth to the other. You're both wasting precious time.
+C: YU
+D: I beg your pardon. Li Mu Bai and I aren't cowards.
+C: SIR TE
+D: When it comes to emotions, even great heroes can be idiots. Tell me if Li Mu Bai is not more open the next time you see him. I'll give him an earful!
+S: INT. TE'S STUDY - DAY
+N: Yu and De Lu approach the study.
+C: DE LU
+D: Sir Te said to leave the sword in here.
+N: De Lu opens the door and is startled to find a young woman inside. The woman is studying the sheets of calligraphy hanging on the walls.
+C: DE LU
+D: Who are you?
+C: JEN
+D: I'm your guest today. I am Governor Yu's daughter.
+C: DE LU
+D: This is Sir Te's study. You are here to...
+C: JEN
+D: I was looking for a quiet corner.
+C: DE LU
+D: I am Sir Te's head servant. And this is another of our guests.
+S: INT. TE'S STUDY - DAY
+N: Yu gently lays the sword, still in its sheath, in Jen's hands.
+C: JEN
+D: It's heavy for such a thin piece of metal!
+C: YU
+D: The handle is heavy. And the blade is no ordinary metal. Still, the sword is the lightest of weapons. You're just not used to handling it.
+C: JEN
+D: But I have had much practice. As a child in the West, a platoon lived with us. They'd let me play with their weapons. The scabbard is so beautiful.
+C: YU
+D: Beautiful but dangerous. Once you see it tainted with blood, its beauty is hard to admire. It's 400 years old.
+C: JEN
+D: Exquisite! You said it belongs to...
+C: YU
+D: My friend Li Mu Bai. He's given it to Sir Te as a gift.
+C: JEN
+D: Li Mu Bai! The famous warrior? Why would he give his sword to Sir Te?
+C: YU
+D: You're too young to understand.
+C: JEN
+D: You're a sword fighter too?
+N: Yu yanks the sword out of the sheath. An eerie sound resonates within the study. Jen is even more impressed.
+C: YU
+D: Yes, I am. But I prefer the machete. Certain moves, however, call for a sword.
+C: JEN
+D: Really?
+N: Yu puts the sword back in the case.
+C: JEN
+D: It must be exciting to be a fighter, to be totally free!
+E: longingly
+C: YU
+D: Fighters have rules too: friendship, trust, integrity... Without rules, we wouldn't survive for long.
+C: JEN
+D: I've read all about people like you. Roaming wild, beating up anyone who gets in your way!
+C: YU
+D: Writers wouldn't sell many books if they told how it really is.
+C: JEN
+D: But you're just like the characters in the stories.
+C: YU
+D: Sure. No place to bathe for days, sleeping in flea-infested beds... They tell you all about that in those books?
+C: JEN
+D: You know what I mean. I'm getting married soon, but I haven't lived the life I want.
+C: YU
+D: So I heard. Congratulations. It's the most important step in a woman's life, isn't it?
+C: JEN
+D: You're not married, are you?
+C: YU
+D: What do you think?
+C: JEN
+D: No! You couldn't roam around freely if you were.
+C: YU
+D: You're probably right.
+N: Yu studies Jen. The room falls silent for a moment.
+S: EXT. SIDE COURT YARD - DAY
+N: It's dusk and the sky is beautiful orange and purple. Jen is leaving the study escorted by her maid. She turns to Yu for a final good-bye. Yu seems intrigued by the encounter.
+S: EXT. SIR TE'S COMPOUND - NIGHT
+N: Two lighted lanterns are raised up.
+S: INT. TE'S STUDY - NIGHT
+N: Sir Te hands the sword to Governor Yu.
+C: SIR TE
+D: Go ahead, Governor Yu.
+N: Governor Yu is impressed by the opulence and elegance of the sword. He closes his eyes to guess the weight of the sword. Te snubs out the flame from a candle, then slides the sword out from its sheath. The sword gives off a luminous blue glow in the dark.
+C: SIR TE
+D: Two feet 9 inches long. 1 inch wide. The handle is 1 inch deep, 2.6 inches wide. Seven-tenths of an inch thick. With seven rubies missing from the hilt. You can tell the design dates back to before the Chin era. Engraved with a technique lost by the time of the Han Dynasty.
+C: GOVERNOR YU
+D: Your knowledge is remarkable, Sir Te.
+C: SIR TE
+D: A sword by itself rules nothing. It comes alive only through skillful manipulation.
+C: GOVERNOR YU
+D: I see your point. Please continue.
+C: SIR TE
+D: The Imperial Court isn't the problem. With royalty and officials everywhere, the Royal Guard keeps security tight. But Peking is not like the West. Here, you'll find all sorts of characters. Proceed with caution in your quest for law and order. Don't depend only on the court. Contacts in the Giang Hu underworld can ensure your position. Be strong, yet supple. This is the way to rule.
+S: INT. JEN'S ROOM - NIGHT
+N: A maid warms her hands in a basin of hot water for Jen, then walks over to Jen and helps remove her earrings. Someone knocks and the maid goes to answer the door.
+C: MAID
+D: Governess...
+C: GOVERNESS
+D: Let me do it.
+N: The maid leaves as the governess enters the room.
+C: JEN
+D: Please sit.
+C: GOVERNESS
+D: I've made you silk pajamas. Do you want to change into them?
+C: JEN
+D: Put them down.
+C: GOVERNESS
+D: I heard you met Shu Lien today.
+C: JEN
+D: Do you know her?
+C: GOVERNESS
+D: She's one of those. Your mother would not want you consorting with her kind.
+N: Jen shoots her an angry look.
+C: JEN
+D: I'll socialize with whomever I please.
+C: GOVERNESS
+D: Don't invite danger into your father's house.
+N: She's about to say something, then thinks better of it.
+C: JEN
+D: I'm tired now.
+C: GOVERNESS
+D: Go to bed then. Miss has grown up, and is getting married soon. God knows what the future will bring.
+C: JEN
+D: It will be just the same. Enough! I'm tired.
+C: GOVERNESS
+D: Autumn is coming. I'll shut the windows for you.
+N: The governess leaves. Jen sits on the side of her bed, thinking.
+S: EXT. TE'S COMPOUND - NIGHT
+N: A wide shot of the compound. A patrol man greets Master Bo, Sir Te's head of security. The place is serene.
+C: MASTER BO
+D: Chilly, eh?
+C: NIGHTMAN
+D: Yes, Master Bo.
+N: As Bo walks on, shadows rustle in a treetop in the background.
+S: EXT./INT. INSIDE AND OUTSIDE OF TE'S STUDY - NIGHT
+N: A masked figure silently opens the window and enters the room. It moves swiftly to the sword case, opens it, and wraps the sword. Bo enters, sees the thief, who leaps up to the ceiling. The thief steps over Bo and out into the courtyard. Bo tries to stop the thief, who easily outwits him, jumping onto the roof as Bo yells out.
+C: BO
+D: Someone help! Stop him! He's on the roof! The sword's been stolen! Stop thief! Stop him!
+N: The thief skips a few times and jumps off to a side street. Bo grabs a pole and runs, as gongs begin to sound, alerting people to the theft. People rush outside, Yu Shu Lien among them.
+S: EXT. PEKING STREET - NIGHT
+N: Bo runs through the streets. The thief is nowhere in sight. Suddenly, there are sounds of weapons clashing. Bo hurries towards the source.
+S: EXT. AN ALLEY OUTSIDE GOVERNOR YU'S COMPOUND - NIGHT
+N: Bo is surprised to see the hooded figure battling with two other fighters -- Tsai (male, 40s) and May, his daughter.
+C: TSAI
+D: It's Jade Fox!
+C: MAY
+D: We must avenge mother!
+N: The hooded figure does a gravity defying flip and soars over a wall, just as Bo arrives.
+C: BO
+D: Do something! He's getting away!
+S: EXT. PEKING ROOFTOP - NIGHT
+N: The thief runs atop a roof -- right into Yu. Yu and the hooded figure face off.
+C: YU
+D: Return the sword, and I'll let you go.
+N: The figure just regards her, slightly shifting weight. Yu attacks, but the figure repels her.
+C: YU
+D: You've been trained at Wudan?
+N: The figure answers by leaping to another rooftop. Yu catches up, and resumes her attack with a relentless series of lightning-quick blows.
+S: EXT. ALLEY OUTSIDE GOVERNOR YU'S COMPOUND - NIGHT
+N: Bo follows Tsai and May, who are quickly walking away.
+C: TSAI
+D: You're mistaken. We're just street performers. We were rehearsing.
+C: MAY
+D: Father!
+C: BO
+D: You were rehearsing? Who are you trying to fool?
+N: May wants to respond but is again cut off by Tsai. They run off.
+C: BO
+D: Where did that thief go?
+N: Bo looks around and discovers he had chased the thief into Governor Yu's compound.
+C: BO
+D: Governor Yu's house!
+S: EXT. ROOF TOP
+N: Yu and the Black Figure continue to fight.
+C: YU
+D: Get down here! Give back the sword!
+S: EXT. GOVERNOR YU'S - NIGHT
+N: Yu slowly gets the upper hand in her fight with the thief. A small arrow cuts across the night and flies toward Yu. She catches it, but the masked figure takes the opportunity to get away. Yu pauses to feel the arrow in her hand, standing in the empty courtyard.
+S: EXT. TE'S SIDE ENTRANCE - DAY
+N: De Lu escorts Yu into Te's.
+C: DE LU
+D: Sir Te awaits you.
+S: INT. TE'S GREAT HALL - DAY
+N: Men are standing at attention. Bo is giving his account of what happened, as Yu enters.
+C: BO
+D: I'm sure the thief is in the Yu household.
+C: SIR TE
+D: How dare you imply?
+C: BO
+D: But I say --
+C: SIR TE
+D: -- Enough.
+N: The men hustle out. Bo can barely contain his frustration.
+C: YU
+D: Has Governor Yu ever seen the sword?
+C: SIR TE
+D: Yes, though I doubt he's involved in this.
+C: YU
+D: But the sword could be in his compound.
+C: SIR TE
+D: Then someone's trying to set him up. We should inform Li Mu Bai.
+S: EXT. OUTSIDE GOVERNOR YU'S COMPOUND - NIGHT
+N: Madam Yu is returning from temple. The governess is helping her out of the carriage. Servants are peeling bills off a wall across the street.
+C: MADAM YU
+D: What is it?
+C: MAID
+D: Madam Yu, someone's put up posters.
+N: A partially torn flyer with the words "Jade Fox will not escape justice!" is seen on the ground.
+C: MADAM YU
+D: Let me see.
+C: GOVERNESS
+D: Someone is after Jade Fox. Preposterous, looking for her here!
+N: Madam Yu nods and walks inside, as the Governess tosses the flyer away and follows her. A hand scoops up the flyer -- it is Yu. She studies it, then puts it in her pocket, and moves on.
+S: EXT. BRIDGE - DAY
+N: Bo is searching for the Tsais. The bridge is full of jugglers. But the two are nowhere to be found.
+S: EXT. PEKING STREET - DAY
+N: Bo quizzes a homeless man.
+C: BO
+D: Where are they?
+C: HOMELESS MAN
+D: I don't know. I haven't seen them in two days.
+N: Bo is about to give up when he looks up and sees May walking quickly into an alley. Bo follows her.
+S: EXT. IN FRONT OF TSAI'S HOUSE
+N: May walks into a dilapidated house surrounded by a broken- down bamboo fence. Bo inches closer and sees May and Tsai oiling their weapons.
+S: INT. BO'S ROOM - DAY
+N: Jen practices calligraphy. The governess is by her side embroidering and throwing occasional glances at Jen. The maid enters.
+C: MAID
+D: There is a Miss Shu Lien here to see you.
+N: Jen stops and looks up at them.
+C: GOVERNESS
+D: Miss is busy right now.
+C: MAID
+D: I'll tell her.
+C: JEN
+D: Show her in.
+N: The governess shoots her a look.
+C: GOVERNESS
+D: This spells trouble.
+C: JEN
+D: I have a guest.
+N: The governess gets up to leave just as the maid shows Yu in.
+C: MAID
+D: This way please.
+N: The governess and Yu exchange quick glances. The governess bows slightly and departs.
+C: JEN
+D: I've missed you.
+C: YU
+D: How so?
+C: JEN
+D: I'm bored.
+N: Yu sees the calligraphy.
+C: YU
+D: You're doing calligraphy?
+C: JEN
+D: I'll write your name. Just for fun.
+N: Jen writes Yu's name with great confidence and swiftness.
+C: YU
+D: I never realized my name looks like "sword."
+N: Jen freezes slightly.
+C: YU
+D: You write gracefully. Calligraphy is so similar to fencing.
+C: JEN
+D: Maybe it is. I wouldn't know.
+N: The maid enters with tea.
+C: JEN
+D: Please.
+C: YU
+D: Thank you for seeing me. I hear your wedding day is near. You must be overwhelmed by the preparations.
+C: JEN
+D: I'm hardly doing a thing. The less I think of it the better. My parents are arranging everything. The Gous are a very powerful family. My marrying one will be good for my father's career.
+C: YU
+D: You are fornuate to marry into such a noble family.
+C: JEN
+D: Am I? I wish I were like the heroes in the books I read. Like you and Li Mu Bai. I guess I'm happy to be marrying. But to be free to live my own life, to choose whom I love... That is true happiness.
+C: YU
+D: Do you think so? Let me tell you a story.
+C: JEN
+D: About you and Li Mu Bai?
+C: YU
+D: Yes. Did you know I was once engaged to be married?
+C: JEN
+D: No, really?
+C: YU
+D: His name was Meng Si Zhao. He was a brother to Li Mu Bai by oath. One day, while in battle, he was killed by the sword of Li Mu Bai's enemy. After, Li Mu Bai and I went through a lot together. Our feelings for each other grew stronger. But how could we dishonor Meng's memory? So the freedom you talk about, I too desire it. But I have never tasted it.
+C: JEN
+D: Too bad for Meng, but it's not your fault, or Li Mu Bai's.
+C: YU
+D: I am not an aristocrat, as you are... but I must still respect a woman's duties.
+C: JEN
+D: Don't distance us. From now on, let's be like sisters.
+C: YU
+D: Then as a sister, let me wish you happiness in your marriage.
+S: EXT. YU'S GARDEN - DAY
+N: The maid escorts Yu out. Yu pauses, looks around, and sees the profile of the Governess peering at her from around a corner.
+S: INT. JEN'S ROOM - NIGHT
+N: Moonlight spills into the room, as Jen rises sleeplessly from bed and looks out the window. A light breeze stirs her hair. The sound of the wind rises, and slowly her face
+T: dissolves, into...
+S: INT./EXT. CARRIAGE/MONGOLIAN DESERT - DAY
+N: ...the face of a younger, less sophisticated Jen, as she lets the dry desert air flow through her hair. She sits in a carriage, part of a caravan, with guards on horseback, that is traveling through the spectacular desert. Across from her sits her mother, of whom she is barely cognizant.
+C: MADAM YU
+D: What a godforsaken place! Can't your father be appointed closer to civilization? Jen... are you listening to me?
+N: Jen is still looking out the side of the carriage, at a beautiful mountainside.
+S: INT. JEN'S ROOM - NIGHT
+N: Jen sighs, and turns back toward her bed.
+S: EXT. STREET OUTSIDE GOVERNOR YU'S COMPOUND - NIGHT
+N: Tsai and May have been sitting, hidden in the branches of a tree, watching Jen.
+C: TSAI
+D: Let's go!
+N: They drop down silently and walk away. From another rooftop, Lo looks silently on.
+S: EXT. TSAI'S HOUSE - NIGHT
+N: Tsai and May enter the house.
+S: INT. TSAI'S HOUSE - NIGHT
+N: Inside the tiny house, they discover a hooded figure going through their belongings. Immediately Tsai throws a knife, which rips off the figure's mask -- revealing Bo. Tsai has another long knife at his throat.
+C: TSAI
+D: Who are you?
+C: BO
+D: Wait! I'm a friend!
+N: Tsai pauses.
+S: INT. TSAI'S HOUSE - NIGHT (LATER)
+N: May fans a small coal-fired grill that is boiling a sizzling pot of vegetable and meatball soup. Her father and Bo are now friendly dinner companions, much to May's delight.
+C: TSAI
+D: I don't care about your sword.
+C: BO
+D: Why were you spying on the Yus?
+C: TSAI
+D: I'm looking for someone. Jade Fox. I'm a police inspector from Shaan Xi, Gen Su district. Jade Fox is a master criminal. I hear she infiltrated the Yus. She must have come with them when they transferred here. But with Yu's reputation, I can't just go in and accuse her.
+C: BO
+D: This Jade Fox is a woman?
+C: TSAI
+D: Yes.
+C: BO
+D: Then leave her to me.
+C: TSAI
+D: Pardon me, but I doubt you can handle her. My wife was quite a martial arts expert. Jade Fox killed her. So you see, this is personal. Leave her to me.
+C: MAY
+D: It's ready!
+E: re: the soup
+C: BO
+D: I'm ready for anything!
+N: Bo fishes into the pot with his chopsticks. May intercepts him with her own chopsticks.
+C: MAY
+D: Father gets first dip.
+N: Tsai stiffens and snaps his chopsticks, not to pick up a meatball but to catch an incoming dart. A dart wrapped with a note. Bo jumps up.
+C: TSAI
+D: They're gone.
+C: MAY
+D: What does it say?
+C: TSAI
+D: "We'll settle this at midnight on Yellow Hill." Good, the fox is out of her hole.
+S: INT. TE'S STUDY - NIGHT
+N: Yu is ushered into the room, to discover Sir Te talking to another man, whose back is to her.
+C: SIR TE
+D: Shu Lien, look who's here.
+N: The man turns around -- it's Li Mu Bai.
+S: EXT. TE'S HALL - NIGHT
+N: Yu and Li Mu Bai sit together.
+C: LI
+D: Sir Te believes it's a ploy cast suspicion on Governor Yu.
+C: YU
+D: But something is going on at the Yu household.
+C: LI
+D: What have you discovered?
+N: From her sleeve, Yu removes the flyer. Li takes it, his face darkening.
+C: LI
+D: Jade Fox? Impossible.
+C: YU
+D: You always suspected she'd fled to the West.
+C: LI
+D: I didn't think she'd dare come back to Peking!
+C: YU
+D: Is there any place safer than under the nose of Governor Yu?
+C: LI
+D: So I shall avenge my master's death after all.
+C: YU
+D: Be careful. Sir Te requires discretion. Official business is difficult enough. Don't let personal feelings make it worse. And I don't know... even this poster... could be some sort of trap.
+C: LI
+D: Did you see who posted it?
+N: Yu pauses.
+C: YU
+D: No.
+C: LI
+D: It says Jade Fox is hiding at Yu's. On the night of the theft there was a brawl near Yu's. Were you involved?
+C: YU
+D: It was Bo, Sir Te's man. I hear he followed the thief to the Yus'.
+C: LI
+D: Have you questioned him yet?
+C: YU
+D: No, not yet...
+C: LI
+D: But your men are watching over Yu's compund?
+C: YU
+D: No, I'd already sent them home. You can blame me for losing the sword, but please trust that I'll get it back soon using my own methods.
+C: LI
+D: That's not what I meant. I don't care about the sword.
+C: YU
+D: What do you mean? Didn't you come back here for it?
+C: LI
+D: I don't know it was stolen until I got here.
+C: YU
+D: Then, why did you come?
+C: LI
+D: Well, we had talked...
+N: De Lu enters.
+C: DE LU
+D: Pardon my intrusion. Master Li, your room is ready.
+C: LI
+D: Thank you. Please lead the way.
+S: EXT. YELLOW HILL - NIGHT
+N: Tsai, Bo, and May wait under an ancient tree. Bo stifles a yawn.
+C: BO
+D: The fox doesn't care much for punctuality. Still no sign of her.
+N: An old lady struggles up the hill, wearing a floppy hat over her face, holding a cane. The three exchange glances.
+C: TSAI
+D: Enough! Show yourself.
+N: The old woman shrinks in fear, but then throws off her disguise and unveils herself -- the Governess.
+C: FOX
+D: Tsai... you dog! You will pay for your stubbornness.
+C: BO
+D: That's what you think, old witch!
+C: TSAI
+D: If you surrender now, you'll suffer less. But if you resist, I won't stop until you're dead.
+C: MAY
+D: Father! Let me avenge my mother's death.
+C: FOX
+D: You'll soon end up like her, you little whore!
+C: BO
+D: You'll pay for that!
+N: A fierce battle begins, the main fighting between Tsai and Fox, with May and Bo getting a stab in occasionally, when the opportunity presents itself.
+C: TSAI
+D: She's going to paralyze you!
+E: to Bo
+N: Using acupressure, Fox disables Bo. May shoots an arrow at her, but she catches it and flings it back, hitting May.
+C: TSAI
+D: May!
+N: Fox then disables Tsai, but just as she goes for the kill, Li Mu Bai flies down from the treetops and steps between them.
+C: FOX
+D: Tsai, you filthy mongrel! An ambush!
+C: MAY
+D: Father, are you all right?
+N: Li addresses Fox.
+C: LI
+D: Wudan should have gotten rid of you long ago. It's been a long time, Jade Fox! You don't remember me... But you should remember my master. You infiltrated Wudan while I was away. You stole our master! Now it's time for you to pay!
+C: FOX
+D: Your master underestimated us women. Sure, he'd sleep with me, but he would never teach me. He deserved to die by a woman's hand!
+C: LI
+D: You stole the secrets of Wudan's highest martial arts. But after ten years of training, your moves are still undisciplined. And today, under a Wudan sword... you will die!
+N: Li easily brings Fox to the ground. Li raises his sword to the prostrate Fox. A figure masked in black appears next to Fox, sword extended, saving her.
+C: FOX
+D: Disciple, we'll kill them all!
+C: FIGURE IN BLACK
+D: Let's go!
+C: BO
+D: Another one!
+C: FOX
+D: I must get rid of Tsai!
+N: Fox fights Tsai, Bo, and May, as Li addresses the masked figure.
+C: LI
+D: Who are you? Why is the Green Destiny in your possession?
+C: FIGURE IN BLACK
+D: What's it to you?
+C: LI
+D: My name is Li Mu Bai. The Green Destiny is mine. Jade Fox can't be your master. Where did you learn that "Xuan Piu" move?
+C: FIGURE IN BLACK
+D: I'm just playing around.
+C: LI
+D: Tell me, who is your master?
+C: FIGURE IN BLACK
+D: Let's go!
+C: FOX
+D: We must kill them!
+N: Tsai throws his blade at Fox, who catches it and throws it back, hitting him in the head. Fox and the masked figure leap away. May drops to the ground, cradling her dead father's head. Bo kneels beside her.
+C: MAY
+D: Father!
+S: EXT. TE'S - DAY
+N: Te and a group of his men look down as a cloth is removed from over the body of Tsai. Bo and May stand before them.
+C: TE
+D: This is Tsai?
+C: MAY
+D: My father. Police Inspector from Shaan.
+C: TE
+D: This should be reported to Governor Yu. The victim is an officer. You believe the killer is hiding out in his compound.
+C: YU
+D: I'd bet my life on it!
+C: TE
+D: Come with me.
+E: to Li and Yu
+N: He exits the room.
+S: INT. TE'S STUDY - DAY
+N: Te, Li, and Yu are seated.
+C: SIR TE
+D: This needs to be resolved, and quickly.
+C: LI
+D: I'll get into the Yu household and get her. I'll ferret out Fox and her gang.
+C: YU
+D: We must be careful. Governor Yu is a court official, and in charge of security. Any disturbance will cast suspicion on him. It might get Sir Te in trouble.
+C: SIR TE
+D: This is a delicate matter.
+C: YU
+D: Sir Te, can you find some excuse to invite Madam Yu and her daughter?
+C: SIR TE
+D: What do you have in mind?
+C: YU
+D: The best way to trap a fox is through her cubs.
+N: Sir Te and Li look puzzled.
+S: EXT. SIR TE'S GARDEN - DAY
+N: Yu sits with Madam Yu and Jen. They busy themselves with various items for her trousseau.
+C: MADAM YU
+D: Madam Te is certainly spoiling us with these wedding gifts. She's being so considerate.
+C: YU
+D: I'm sorry she's not feeling well enough to receive you today.
+C: MADAM YU
+D: I heard Sir Te lost something. And now Madame Te's not feeling well...
+N: Jen sits silently reading.
+C: YU
+D: We know who stole the missing item. If the thief returns it, I'm sure Sir Te will pursue the matter no further.
+C: MADAM YU
+D: That's good. Sometimes the help can't keep their hands to themselves. It's very embarassing.
+C: YU
+D: Sir Te knows that even well-meaning people can make mistakes... that can bring ruin to themselves and their families.
+C: MADAM YU
+D: But don't be too lenient.
+C: YU
+D: No mercy will be shown toward the murderer who turned up in Peking.
+C: MADAM YU
+D: A murderer?
+C: YU
+D: Yes. The very killer of Li Mu Bai's own master. Last night, she killed a policeman who had tracked her down.
+C: MADAM YU
+D: A female criminal! Now that's news!
+N: Jen becomes visibly upset.
+C: JEN
+D: You say she killed a policeman?
+C: YU
+D: Yes, from the West. He went undercover and and followed her here,
+C: MADAM YU
+D: Maybe the murderer and the thief are one and the same.
+C: YU
+D: I doubt it. This thief... it very unusual...
+N: As Yu speaks, she lifts the tea pot to pour Jen some tea. As she finishes speaking, she looks into Jen's face and the pot slips from her hand. Without even looking down, Jen instinctively catches the pot with a lightning-fast move.
+C: YU
+D: ...And most likely smarter than a mere killer.
+N: Sir Te and Li Mu Bai walk by.
+C: JEN
+D: Greetings, Sir Te.
+E: formal
+C: SIR TE
+D: Hello, Madam Yu. This is Li Mu Bai, the renowned swordsman.
+C: LI
+D: Delighted to meet you.
+N: Li sizes Jen up.
+C: TE
+D: Miss Yu is soon to be married.
+C: LI
+D: Congratulations.
+S: EXT. TSAI'S HOUSE - NIGHT
+N: May opens her door, only to find Bo standing guard.
+C: MAY
+D: Why don't you come in?
+C: BO
+D: I'm standing guard.
+C: MAY
+D: Come in. It's cold.
+N: She turns back inside, hesitates, then turns back to him.
+C: MAY
+D: Come in. We don't have to fear Jade Fox if we're together.
+S: EXT. TE COMPOUND - NIGHT
+N: A still, dark night.
+S: EXT. TE'S STUDY - NIGHT
+N: Something moves in the moonlight. A hooded figure jumps down. Li Mu Bai, who had been hiding in the shadows, comes forward.
+C: LI
+D: Isn't it a bit too late to be out? You've brought me the sword?
+C: FIGURE
+D: I do as I please.
+N: The masked figure lunges away, but Li Mu Bai leaps with incredible speed and grabs the sword from her.
+C: LI
+D: Where's your master?
+C: FIGURE
+D: What's it to you?
+N: The figure floats away. Li chases after her.
+S: EXT. PEKING STREET - NIGHT
+N: The two fly over houses and bounce off of rooftops, displaying amazing floating skills.
+S: INT. ABANDONED MONASTERY - NIGHT
+N: The figure bounces into an old monastery. Li is already there.
+C: LI
+D: Had enough flying? You've got potential. You've studied the Wudan Manual but you don't understand it. You need a real master.
+N: The figure doesn't respond, but we sense the pride in her eyes.
+C: FIGURE
+D: Do you think you are a real master?
+C: LI
+D: Like most things, I am nothing. It's the same for this sword. All of it is simply a state of mind.
+C: FIGURE
+D: Stop talking like a monk! Just fight!
+C: LI
+D: Then tell me where Jade Fox is.
+C: FIGURE
+D: On guard!
+C: LI
+D: Real sharpness comes without effort.
+S: EXT. MONASTERY - NIGHT
+N: The figure leaps into the garden, but again, Li is ahead of her. The figure attacks Li, who uses his agility to evade her. Frustrated, the figure intensifies her attack. The figure, losing composure, attacks wildly. Li gets even more elusive, using a branch to repel her.
+C: LI
+D: No growth without assistant. No action without reaction. No desire without restraint. Now give yourself up and find yourself again. There is a lesson for you.
+N: Li now holds the stick to her mask, gently raising it slightly.
+C: FIGURE
+D: Go ahead.
+C: LI
+D: Why should I? You need practice. I can teach you to fight with the Green Destiny, but first you must learn to hold it in stillness.
+C: FIGURE
+D: Why do you want to teach me?
+C: LI
+D: I've always wanted a disciple worthy of Wudan's secrets.
+C: FIGURE
+D: And if I use them to kill you?
+C: LI
+D: That's a risk I'm willing to take. Deep down, you're good. Even Jade Fox couldn't corrupt you.
+N: The figure's eyes cloud with tears.
+C: FIGURE
+D: Wudan is a whorehouse! Keep your lessons!
+N: The figure swirls and takes off, leaving a rueful Li standing alone in the monastery.
+S: INT. JEN'S ROOM - NIGHT
+N: Jen slips in through the window. She pulls off her mask, as she spots the Governess/Fox sitting and sewing.
+C: FOX
+D: You're home late... or should I say early?
+C: JEN
+D: Why are you still here? You killed a policeman. You should leave! You'll bring ruin on my whole family.
+C: FOX
+D: They wouldn't have found me if you hadn't stolen the sword. Like a little girl, you thought stealing would be fun? You, too, are responsible for that death. Come with me. You don't want to waste your life as the wife of some bureaucrat. Denied your talent... As a master and disciple we will rule.
+C: JEN
+D: I'll never live as a thief!
+C: FOX
+D: You're already a thief.
+C: JEN
+D: That was just for fun. How can I leave? Where would I go?
+C: FOX
+D: Wherever we want. We'll get rid of anyone in our way. Even your father.
+C: JEN
+D: Shut up!
+C: FOX
+D: It's the Giang Hu fighter lifestyle... kill or be killed. Exciting, isn't it?
+C: JEN
+D: I owe you nothing.
+C: FOX
+D: Yes, you do! You are still my disciple.
+N: Jen lunges at the Governess, and the two exchange a few blows. Jen presses her finger against one of the Governess's pressure points, disabling her. Jen pushes her across the room.
+C: JEN
+D: You think you've been teaching me all these years from the manual? You couldn't even decipher the symbols!
+C: FOX
+D: I studied the diagrams. But you hid the details!
+C: JEN
+D: You wouldn't have understood, even if I had tried to explain. You know... you've gone as far as you can go. I hid my skills so as not to hurt you.
+C: FOX
+D: If I hadn't seen you fight with Li Mu Bai, I'd still be ignorant of all you've hidden from me.
+C: JEN
+D: Master... I started learning from you in secret when I was 10. You enchanted me with the world of Giang Hu. But once I realized I could surpass you, I became so frightened! Everything fell apart. I had no one to guide me, no one to learn from.
+C: FOX
+D: Believe me, I've a lesson or two left to teach you!
+N: Fox exits.
+S: EXT. GOVERNOR YU'S GATE - DAY
+N: The Governess leaves, a small sack over her back.
+S: EXT. TE'S COURTYARD - DAY
+N: Li practices fluently with Green Destiny in hand, beautifully at ease with the weapon. He spins around to find Yu standing in the doorway.
+C: YU
+D: The sword is back... are you happy?
+N: Li smiles.
+C: LI
+D: I admit, getting it back makes me realize how much I'd missed it.
+C: YU
+D: But it's not your sword anymore. You gave it to Sir Te.
+C: LI
+D: True. But I must borrow it for one last mission. Jade Fox must die at its edge. Did you know what you were hiding when you covered for that girl?
+C: YU
+D: My job was to get the sword back, without embarassing anyone. I wasn't about to ruin her life, or her father's.
+C: LI
+D: You did your job well. But, this girl... I saw her last night.
+C: YU
+D: I knew she would intrigue you.
+C: LI
+D: She needs direction... and training.
+C: YU
+D: She's an aristocrat's daughter. She's not one of us. In any case, it will all be over soon. You'll kill Fox, and she'll marry.
+C: LI
+D: That's not for her. She should come to Wudan and become a disciple.
+C: YU
+D: But Wudan does not accept women.
+C: LI
+D: For her, they might make an exception. If not, I'm afraid she'll become a poisoned dragon.
+C: YU
+D: It's not our affair. Even if Wudan accepts her, her husband might object.
+C: LI
+D: I thought by giving away the sword, I could escape the Giang Hu world. But the cycle of bloodshed continues.
+C: YU
+D: I wish there were something more I could do to help you.
+C: LI
+D: Just be patient with me, Shu Lien.
+S: INT. JEN'S ROOM - NIGHT
+N: Jen is asleep. A noise awakens her. Lo opens the window and sneaks in -- right into the point of Jen's waiting sword. Jen's sword drops to the ground.
+C: JEN
+D: Lo?
+C: LO
+D: Jen!
+N: Lo grabs her by the wrist.
+C: JEN
+D: You shouldn't have come.
+C: LO
+D: With all the traffic on your rooftop these days... it took me a while to get in here. I can't wait any longer. I was wrong to let you go. Come back with me. You'll be happy in the desert. You'll be free there.
+N: Jen turns back to him and rests herself briefly in his arms again.
+C: JEN
+D: You've been looking for me all this time?
+N: FLASHBACK: FOUR YEARS EARLIER
+S: INT./EXT. CARRIAGE/MONGOLIAN DESERT - DAY
+N: Jen holds up a comb, with daylight shining through it. Jen admires the piece, her most prized possession. Madam Yu sits opposite her.
+C: MADAM YU
+D: Jen... stop playing with it.
+N: Jen looks out over the desert, as the wind picks up and the sky darkens.
+C: JEN
+D: I won't break it.
+S: EXT. CARRIAGE/MONGOLIAN DESERT - DAY
+N: Lo and a group of armed bandits descend on the caravan.
+C: GUARD A
+D: It's Dark Cloud! Dark Cloud is coming!
+N: His warning is useless. From Jen's pov, we see the guards slaughtered in a hail of arrows and swords.
+C: MADAM YU
+D: Lower the shade, don't let them see you!
+C: DARK CLOUD
+D: Don't touch the women!
+E: LO
+N: Though unharmed, Madam Yu immediately faints. Lo approaches the carriage and grabs the comb from Jen's hand. She bolts from the carriage, and, once outside, bends down and grabs a lance from the body of a dead guard, whose horse flails beside him. She looks up to see the gang of bandits already making their escape on horseback.
+C: LO
+D: Let's go!
+S: EXT. DESERT - DAY
+N: Jen and Lo ride across the desert floor at breakneck speed.
+C: LO
+D: Come get your comb.
+N: She tries to jab him with the lance, but he grabs it and flings her off her horse.
+C: LO
+D: Hurry back to your mother.
+N: Lo rides on as she charges after her horse.
+S: EXT. DESERT BLUFF - DAY
+N: A group of bandits is dividing up the loot, as Jen rides up, keeping a respectable distance. They notice her and rise as she dismounts. One of them saunters over to her and stands, grinning, a few feet away. In a second, she's slammed his balls into his stomach and knocked his nose into his face. He crumples to the sand. The other bandits stop laughing, quickly exchange glances, and charge her at once. In a matter of seconds, they're either on the ground or dragging their fallen comrades back. Lo calls out and stops the fight.
+C: LO
+D: She's mine.
+S: EXT. DESERT - DAY
+N: Lo and Jen ride, if not side-by-side, then parallel, about 20 feet apart. Their pace has slowed considerably. In fact, they're dead tired.
+C: LO
+D: Let's stop a moment.
+C: JEN
+D: Give it back!
+C: LO
+D: You're tired. You need rest. Your horse needs water. There's a creek up here.
+E: shouting a bit
+N: He dismounts, looks down at the dry creek bed.
+C: LO
+D: Well, there used to be! What's your name? I'm Lo. The Hans call me Dark Cloud. I'm not that tall or big, but I'm quick as lightning.
+C: JEN
+D: My comb!
+N: She kicks him. They fight ferociously until Lo, exhausted, collapses. She kicks him a few times, then collapses too.
+S: INT. CAVE - DAY
+N: Jen comes to and finds herself wrapped in a blanket of animal fur. She sits up with a start and checks her clothes. Looking around, she realizes she's in a cave. Next to her are a lamp, some hunting equipment, and a neat row of sharp arrows. She quickly grabs one of the arrows.
+C: LO
+D: If you like that arrow, I can make you a bow. Great for hunting wild chicken. They're delicious.
+N: Jen raises one of the arrows, going on the attack again, but her legs betray her and she falls.
+C: LO
+D: You need to eat, understand? Then you'll have the strength to fight. Understand?
+N: He helps her up, then pours her some horse milk from a sac. He hands her a small chunk of food, which she first accepts grudgingly, then, her hunger getting the better of her, she starts to wolf it down.
+C: LO
+D: You're eating too fast. Slowly.
+S: EXT. CAVE - DAY
+N: Lo walks out into a barren mountain landscape. A chicken roasts over a fire. Lo whistles. Jen appears suddenly with a rock and knocks it over his head. Lo passes out as Jen scurries away.
+S: EXT. MOUNTAINSIDE AND DESERT - DAY
+N: Jen tries to find her way among the treacherous stony terrain, her lips chapped and fingers bloody and blistered. But soon she passes out.
+S: INT. CAVE - NIGHT
+N: Jen again awakes inside the cave. Lo tries to feed her some water, but she chokes, and tries to push him away, only to find that her legs and hands are tied up.
+C: LO
+D: You've got quite a temper. It's better this way.
+C: JEN
+D: You coward!
+C: LO
+D: Still in a bad mood? At least you're speaking. What's your name?
+N: Jen spits at Lo.
+C: LO
+D: I didn't think the Hans had names like that.
+N: Later: She weaves in and out of consciousness. In the flickering lights, she sees Lo sharpening his arrows. Later, he pulls back an opaque curtain to reveal a makeshift bathroom -- a water-filled cavity serves as a tub. He rises as Jen sobs at the sight of her imprisoned and dishevelled body. He comes over and unties her.
+C: LO
+D: Relax. If I had wanted to, I would already have done it. You must be dying for a bath. Fresh water's hard to get here. But I managed to bring some up. You can wear my clothes when you're done. They're clean. Don't worry. I'll sing, so you'll know where I am. After the bath, you'll be calmer.
+N: Jen nods and the bandit releases her. He starts to sing as he walks out. Jen waits until the sound recedes before closing the curtain behind her and dipping into the pit. While she bathes, she listens to his singing, a loud rendition of a tribal song. Lo apparently doesn't remember all the lyrics, and la-las his way through more than a few passages. Jen smiles.
+S: INT. CAVE - NIGHT
+N: Jen grimaces as Lo pulls the last of some cactus needles from the soles of her feet.
+C: LO
+D: No more hitting on the head! All this trouble for a comb?
+C: JEN
+D: It's mine. It means a lot to me. A barbarian like you wouldn't understand.
+C: LO
+D: Not true. I can use it to pick fleas from my horse.
+C: JEN
+D: By the way, I'm a real Manchurian.
+C: LO
+D: I'm sorry... I guessed wrong. I though you were a Han.
+C: JEN
+D: Give me back my comb.
+C: LO
+D: I don't take orders from anyone.
+C: JEN
+D: Give it back.
+N: Jen impulsively grabs an arrow and stabs Lo, drawing a little blood from his chest. Furious, Lo lunges at her and they tussle briefly. Finally, Lo gets on top of Jen, and the scuffling becomes more like foreplay. Violence turns into unleashed passion.
+S: EXT. DESERT OASIS - DAY
+N: Lo and Jen ride across the desert. Jen holds tightly to him.
+S: EXT. CAVE - NIGHT
+N: Lo and Jen lie in the bath together.
+C: LO
+D: When I was a boy, one night, I saw a thousand shooting stars. I thought, where did they all go? I'm an orphan. I used to look for stars alone. I thought if I rode to the other end of the desert, I'd find them. I've been riding in the desert ever since.
+C: JEN
+D: And so, the little boy became a fearsome bandit. He couldn't find the stars, so he stole my comb.
+N: Lo pauses.
+C: LO
+D: Out here, you always fight for survival. You have to be part of a gang to stand a chance. Slowly, your gang becomes your family. All that Dark Cloud stuff is just to scare people and make my life easier.
+C: JEN
+D: So you're still that little boy looking for shooting stars.
+C: LO
+D: I am a man. And now I've found the brightest star of all.
+S: EXT. DESERT - DAY
+N: Lo sees uniformed men through his binoculars.
+C: LO
+D: Your father's men are looking for you.
+N: Jen doesn't respond.
+S: EXT. DESERT - DAY
+N: Lo and Jen ride through a mountain pass.
+S: EXT. CLIFF - DAY
+N: Lo and Jen stand at the crest of a cliff. Lo looks over, viewing the desert valley below, as Jen joins him. They see a troop of uniformed men riding by in the distance.
+C: LO
+D: Your father's men are still looking for you. They're still out there, circling closer.
+C: JEN
+D: Let them look.
+C: LO
+D: It is trouble for me.
+N: Jen bites her lip.
+C: JEN
+D: Don't send me back!
+C: LO
+D: You must decide. You might get tired of this life. You might begin to miss your family. If it were our daughter, we'd look for her too. She would miss us. Jen... I want you to be mine forever. I will make my mark on the world. I will earn your parents' respect. We have a legend. Anyone who dares to jump from the mountain, God will grant his wish. Long ago, a young man's parents were ill, so he jumped. He didn't die. He wasn't even hurt. He floated away, far away, never to return. He knew his wish had come true. If you believe, it will happen. The elders say, "A faithful heart makes wishes come true."
+S: INT. TENT - DAY
+N: Jen and Lo kiss. Jen takes the jade comb out of her hair and presses it into his palm. Jen starts to cry. They embrace.
+C: JEN
+D: Keep it safe. Return it to me when we are together again.
+C: LO
+D: I will.
+C: JEN
+D: If you don't, I'll come after you. And I won't let you off so easy.
+E: smiling painfully
+S: EXT. TENT - DAY
+N: Jen quietly walks out and stands sadly in the early morning light. End of flashback.
+S: INT. JEN'S ROOM - NIGHT
+C: LO
+D: Wherever I went, someone always recognized me. I really tried. Later, I heard you came to Peking. I was afraid I'd never see you again. So I came. I can't let you marry.
+N: Jen is about to respond when a servant's voice is heard from outside the door.
+C: JEN
+D: Go.
+E: whispering
+C: LO
+D: Jen...
+C: JEN
+D: Don't ever come back.
+E: through her tears
+N: Lo hovers at the window frame.
+C: LO
+D: So it's over?
+N: Jen pauses.
+C: JEN
+D: Yes.
+N: Lo thrusts a small object in her hand. He lifts his legs through the window, and drops out of sight, just as Jen's door is opened from the hall.
+C: MAID
+D: We heard noises.
+C: JEN
+D: It was just a cat.
+N: The maid pauses, then dutifully exits, closing the door. Jen opens up her palm; gasping, she sees the comb that Lo has given her.
+S: EXT. WEDDING PROCESSION - DAY
+N: The noise and color of a wedding procession. A marching band heralds the occasion, as throngs of onlookers fight to get a glimpse of the groom, Gou Jun Pei, who trots by on a handsome white horse.
+S: INT. WEDDING CARRIAGE - DAY
+N: Jen's head is completely covered in red cloth, as she rides silently in the bride's carriage.
+S: EXT. BALCONY OVERLOOKING WEDDING PROCESSION - DAY
+N: Li and Yu watch the festivities from a balcony of the city gate.
+C: YU
+D: You think Jade Fox will show up?
+C: LI
+D: She's out there, but I doubt she'll show herself. We'll keep our eyes open. Sooner or later, she'll come for the girl.
+S: INT. WEDDING CARRIAGE - DAY
+N: A small arrow flies into the carriage. Jen calmly lifts the red cloth from her face and pulls the arrow out of the panelling inside the carriage. We hear Lo's voice from outside the carriage, but Jen doesn't seem to notice.
+C: LO
+D: Jen! Come with me! You're mine!
+E: v.o.
+N: Lo runs wildly into the crowd.
+C: LO
+D: Come with me to the desert! Jen! Come with me to Xin Jiang!
+N: The guards surround Lo, but he escapes.
+S: EXT. BEIJING STREET - DAY
+N: Lo leaps and lands right in front of Li Mu Bai, his fingers pressed against Lo's neck. Yu comes running around the corner and sees them.
+C: LI
+D: Where is Jade Fox?
+N: Yu jumps in and pushes Li away.
+C: YU
+D: Come with me! Hurry!
+E: to Lo
+S: INT. CITY OUTSKIRTS - DAY
+N: Lo sits dejectedly, having told his story to Yu and Li, who look him over.
+C: YU
+D: You thought she'd give it all up and go back West with you?
+E: to Lo
+C: LO
+D: She's mine.
+C: LI
+D: Either way, you are no good to her dead. With the Gou and Yu clans hunting you, you'll soon be in their hands.
+C: LO
+D: I don't care anymore.
+C: LI
+D: If you truly loved her, you wouldn't say that.
+C: YU
+D: Don't you want to see her again.
+C: LI
+D: All right. I'll write you an introduction. Take it to Wudan. Wait there for news from me.
+C: LO
+D: All right.
+S: EXT. TE COMPOUND - NIGHT
+N: Yu and Li enter, as other men and women race through the compound, a sense of panic in the air. Yu gives Li a look. Li shrugs.
+S: INT. TE'S HALL - NIGHT
+N: A crowd, including Li and Yu, stand by as Te opens the empty sword case, his voice rising.
+C: SIR TE
+D: When will this end? They take it, they put it back, they take it again. My home is turning into a warehouse.
+N: Bo bursts into the hall, bows to Te.
+C: TE
+D: Speak!
+C: BO
+D: Jen has run away! Gou found the wedding chamber empty. Governor Yu requests your assistance. You know the Giang Hu underworld. He wants to find her, and keep her from harm.
+C: LI
+D: Sir Te, leave this to us. Don't worry.
+S: INT. TEA STALL - DAY
+N: Jen arrives at the tea stall. She places her sword on the table, which catches the attention of a couple of Giang Hu martial arts characters sitting nearby.
+C: WAITRESS
+D: What can I serve you?
+N: As the waitress turns to leave, Jen grabs her by the arm.
+C: JEN
+D: The cup is dirty.
+N: The flustered waitress apologizes and takes the cup away. The men approach Jen.
+C: GANGSTER A
+D: Hello. What is your name?
+C: JEN
+D: Long.
+E: without lifting her eyes
+C: GANGSTER B
+D: It's young Master Long. My apologies. I'm Iron Eagle Sung and this is my brother in arms, Flying Cougar Li Yun. What brings you to Huai An, and where are you headed, Master Long?
+C: JEN
+D: Anywhere there's action.
+N: The two men exchange glances.
+C: GANGSTER A
+D: In that case, perhaps we could be of assistance.
+C: JEN
+D: Don't bother.
+C: GANGSTER A
+D: You don't seem to understand.
+C: JEN
+D: So what if I don't?
+C: GANGSTER B
+D: We have ways of helping you understand.
+N: The two pull out their weapons which are immediately chopped into scraps by Jen.
+C: GANGSTER A
+D: Are you related to Li Mu Bai?
+E: stunned
+C: JEN
+D: He is my defeated foe!
+S: EXT. WOODS - DAY
+N: Li and Yu pass a cup back and forth as Bo tends to the horses in the background.
+C: YU
+D: Have some tea.
+N: As Yu passes the cup to Li, their fingers touch. Embarrassed, Li pulls back.
+C: LI
+D: Shu Lien... The things we touch have no permanence. My master would say... there is nothing we can hold on to in this world. Only by letting go can we truly possess what is real.
+C: YU
+D: Not everything is an illusion. My hand... wasn't that real?
+C: LI
+D: Your hand, rough and callused from machete practice... All this time, I've never had the courage to touch it.
+N: Li takes Yu's hand and presses it to his face.
+C: LI
+D: Giang Hu is a world of tigers and dragons, full of corruption... I tried sincerely to give it up but I have brought us only trouble.
+C: YU
+D: To repress one's feelings only makes them stronger.
+C: LI
+D: You're right, but I don't know what to do. I want to be with you... just like this. It gives me a sense of peace.
+N: Li Mu Bai smiles.
+S: INT. STAR RESTAURANT - DAY
+N: Jen walks upstairs. A waiter greets her.
+C: WAITER
+D: Please follow me.
+C: JEN
+D: I want a clean room.
+C: WAITER
+D: We have plenty. Your order?
+N: Jen again sets her sword on the table as she sits down.
+C: JEN
+D: Steamed whole cod, bite-size meatballs, a little starchy, but keep the sauce light, shark fin soup, mixed vegetables, and some warm wine.
+C: WAITER
+D: I have to order from a bigger restaurant.
+E: dazed
+C: JEN
+D: Hurry then.
+N: The waiter gauges Jen for an instant before bouncing off to place the orders. Jen checks her pouch and sees there's not much money left. A large group of Giang Hu characters enters. They survey the restaurant and quickly find Jen upstairs.
+C: GIANG HU A
+D: That's him.
+C: MI BIAO
+D: I am Iron Arm Mi. I heard a true master has arrived. I have come to seek a lesson.
+N: Jen ignores him.
+C: MI BIAO
+D: You asked for it!
+E: bristles
+N: Mi charges and attacks Jen, who is still sitting sipping tea. Jen barely lifts a finger and disposes of Mi with a poke at a sensitive pressure point. This provokes a reaction from the other men.
+C: JEN
+D: What kind of Iron Arm are you?
+C: FLYING MACHETE CHANG
+D: You have amazing technique! I am Flying Machete. Are you related to Southern Crane?
+C: JEN
+D: Southern Duck? I don't eat anything with two feet. Who could remember such long-winded names?
+C: GOU JUN SIHUNG
+D: Li Mu Bai is your defeated foe, and you don't know his master, Southern Crane?
+C: JEN
+D: Who are you?
+C: GOU JUN SIHUNG
+D: I'm Shining Phoenix Mountain Gou.
+C: JEN
+D: Gou? I hate that name. It makes me puke! Too bad you're named Gou. You'll be the first to feel my sword today.
+E: furious
+N: Jen leaps up and dives into battle. The men all use different kinds of weapons, but they all succumb to the powerful Green Destiny.
+C: MONK JING
+D: Hold it! Don't you know Monk Jing?
+C: JEN
+D: A monk, in a place like this? You need a lesson!
+C: MONK JING
+D: Who are you?
+N: She smiles, and leaps again into action after unsheathing the Green Destiny.
+C: JEN
+D: Who am I? I am... I am the Invincible Sword Goddess. Armed with the Incredible... Green Destiny. Be you Li or Southern Crane... lower your head... and ask for mercy. I am the desert dragon. I leave no trace. Today I fly over Eu-Mei. Tomorrow... I'll kick over Wudan Mountain!
+N: Jen is in a frenzy, slashing and maiming as she speaks.
+S: INT. STAR RESTAURANT - DAY
+N: Yu and Li are surrounded by the variously bandaged men who battled with Jen.
+C: FLYING MACHETE CHANG
+D: We politely asked for a friendly match, but she showed no respect, and attacked us. Everyone came by to teach her a lesson.
+C: MI BIAO
+D: Her sword was just too powerful.
+C: MONK JING
+D: I've traveled everywhere, but never met anyone so uncivilized.
+C: SHINING PHOENIX MOUNTAIN GOD
+D: She kept accusing me of being Gou Jun Pei's brother. Who is this Gou, anyway?
+E: heavily bandaged
+C: YU
+D: Her husband.
+N: The men all nod their heads.
+S: EXT. OUTSIDE HWAI AN - DAY
+N: Li and Yu ride together.
+C: LI
+D: We're close to your headquarters. Go home and check in.
+E: to Yu
+C: YU
+D: What about you?
+C: LI
+D: I'll look around and catch up later.
+C: YU
+D: Not a bad idea. Tonight we'll get a good night's sleep at headquarters.
+N: Yu takes a fork off the road. Thunder can be heard in the darkening sky.
+S: EXT. SUN COMPOUND - DAY
+N: A group of security men are practicing Kung Fu in the front yard of Sun Security. They stop when Yu enters.
+C: SECURITY MAN A
+D: Mistress, you're back.
+C: YU
+D: It's you! How's everything here?
+C: CAPTAIN
+D: Fine. You've been gone a while.
+C: YU
+D: Yes, and I leave again tomorrow. Your wife was due?
+C: AH WAI
+D: Yeah, a baby girl.
+C: YU
+D: Good!
+C: AH WAI
+D: I'll be happy if she's half as strong as you.
+C: YU
+D: Mrs. Wu...
+C: AUNT WU
+D: You're back!
+C: YU
+D: How's the arm? Still sore?
+C: AUNT WU
+D: Much better. You've been gone so long.
+C: YU
+D: Li Mu Bai is coming to stay the night.
+C: AUNT WU
+D: I'll go and make up his room!
+E: excited
+N: Aunt Wu hustles out. Yu goes into her own room.
+S: INT. HALL OF ANCESTRAL WORSHIP
+N: Yu lights incense for her former fiancé Meng. Hearing something, she turns to see a dishevelled Jen standing outside downstairs.
+C: JEN
+D: Sister Shu Lien...
+S: INT. YU'S ROOM - DAY
+N: Yu eases her guard, then opens a drawer, and takes out some clothes. Jen, wearing just white underclothing, sets herself on the edge of Yu's bed. Yu brings over the clothes.
+C: YU
+D: Here you must be in proper attire.
+C: JEN
+D: I'm just borrowing some clean clothes. I'm not staying.
+C: YU
+D: I'll give them to you.
+C: JEN
+D: I was just passing by and wondered how you were.
+N: Jen tries to hide her anxiety but finally breaks down on Yu's shoulder in tears.
+C: JEN
+D: You, sister...
+C: YU
+D: Look at the trouble you've caused. Now you know what Giang Hu life is really like. If you think of me as your sister, let me give you some sisterly advice. You can run from marriage, but not your parents.
+C: JEN
+D: They forced me to marry!
+C: YU
+D: Go back to them first. Then you can decide about Lo.
+C: JEN
+D: You know about Lo?
+C: YU
+D: He really loves you. Come back to Peking with me. We'll find a solution.
+C: JEN
+D: Where is he now?
+C: YU
+D: Li Mu Bai has made arrangements. He sent him to Wudan Mountain.
+C: JEN
+D: You're working together to set me up! I'm leaving!
+C: YU
+D: How dare you accuse us? I always knew you had stolen the sword! I've done nothing but protect you and your family. And you're repaid me with nothing but contempt. Li Mu Bai himself spared you, and all you do is insult him. We wanted some peace and you've ruined it all! You're no sister of mine!
+C: JEN
+D: What do I care? You were never a real friend anyway. But I wonder, how long could you last as my enemy?
+N: Jen gets up to leave. Yu intercepts her.
+C: YU
+D: Put the sword down!
+N: Jen jumps out.
+S: INT. YUAN COURTYARD - DAY
+N: Jen soars out to the front courtyard where the guards are still practicing. They raise their weapons at the sight of an intruder.
+C: YU
+D: Jen!
+E: calling out
+N: Jen greets Yu with the Green Destiny.
+C: YU
+D: Everyone out. Shut the doors.
+N: The men leave.
+C: YU
+D: Fine... the friendship is over.
+N: Yu scoops up a weapon from one of many lying around and begins her battle with Jen. Yu uses every weapon that's available against Jen but none are any match for the Green Destiny. After slicing through another set of Yu's weapons, Jen looks admiringly at the Green Destiny in her hands.
+C: YU
+D: Don't touch it! That's Li Mu Bai's sword.
+C: JEN
+D: Come and get it if you can.
+C: YU
+D: Without the Green Destiny, you are nothing.
+C: JEN
+D: Don't be a sore loser. Go ahead. Take your pick. I'll wait. Go ahead.
+N: Yu picks up a huge broad sword and attacks. Just as the Green Destiny slices it in half, Yu holds the broken blade at Jen's neck. She pauses before hurting Jen, then pulls back.
+C: YU
+D: Give me the sword.
+N: Jen, taking advantage of Yu's trust, slices her arm.
+C: JEN
+D: Take it!
+N: Yu, her shoulder bleeding, falls back as Li Mu Bai jumps in.
+C: LI
+D: Stop it! You don't deserve the Green Destiny.
+E: enraged
+C: JEN
+D: Not another lecture! On guard!
+C: LI
+D: Let's end this here.
+C: JEN
+D: Only the sword will settle this.
+N: Jen soars up to the rooftop, with Li right on her tail.
+S: EXT. LAKE - DAY
+N: Jen floats over the lake, Li close behind.
+S: EXT. BAMBOO FOREST - DAY
+N: Jen runs into a sea of bamboo. She appears to have lost Li but is not slowing down. Her white clothes are now stained with blood and mud. The wind had picked up and every breeze sounds like an air attack by Li. The two leap onto the tips of the bamboo trees and begin their dances and dodges. They glance off bamboos and each other while staying afloat. Finally Jen lands on the same stick of bamboo as Li. The two hold their positions for a while, as the bamboo bends.
+C: LI
+D: I only let you go because I wanted to see the real you.
+N: Jen tries to shake Li off the bamboo but Li recovers nicely.
+C: JEN
+D: What do you know about a true heart?
+N: Li suddenly leaps off the bamboo tree. The bamboo straightens up and throws Jen toward the ground. Jen quickly pulls herself up and charges at Li. Jen chases after Li, into a clearing, out of the bamboo forest.
+S: EXT. RIVER - DAY
+N: Jen finally catches up to Li, who is standing on a rock about a few feet wide amid the rapids. Jen vaults onto the rock and scuffles with Li. Jen loses her balance.
+C: JEN
+D: What do you want?
+C: LI
+D: What I've always wanted, to teach you.
+C: JEN
+D: All right. If you can take back the sword in three moves, I'll go with you.
+N: Li takes the sword back.
+C: JEN
+D: Give it back!
+C: LI
+D: Kneel!
+C: JEN
+D: Never!
+C: LI
+D: Then you have no use for the sword.
+N: Li throws the sword into the rapids. Jen dives in to retrieve it. He follows Jen downstream by hopping from one rock to another. Jen recovers the sword but is herself drowning. Suddenly Jade Fox swings into the rapids and fishes Jen out. Jade Fox carries the unconscious Jen away. Li gives chase, but loses them.
+S: INT. ABANDONED FACTORY - DAY
+N: It's raining. Inside an old factory, Fox heats some medicine paste and then dips a needle in the paste. She burns the needle point, causing a blue smoke. She lights some incense and puts it in a burner near Jen, who is barely conscious.
+C: FOX
+D: Sooner or later, they'd drag you back to Peking. Your parents will never accept you again. But why go home? We've gone this far, we won't stop now. You'll always be my lady. At last, we'll be our own masters. We'll be happy. That's the most important thing. All we have left is each other, right? Lie down and rest.
+N: Jen is too weak to respond. Fox leaves Jen clutching the Green Destiny.
+S: EXT. ABANDONED FACTORY - DAY
+N: Fox scurries ahead in the rain. Her eyes catch something, but she keeps moving.
+S: INT. YUAN COMPOUND - DAY
+N: Aunt Wu finishes bandaging Yu.
+C: AUNT WU
+D: She's crazy. You should have killed her.
+C: YU
+D: I didn't have the heart.
+C: AUNT WU
+D: Well, Li Mu Bai can do it.
+N: Yu senses movement at the window. Looking out, she sees Jade Fox in the distance.
+S: INT. ABANDONED FACTORY - DAY
+N: Jen wakes up, flushed from fever. She takes a sip from a cup of water -- it's empty. She tosses the cup, gets up, and walks into the rain.
+S: EXT. ABANDONED FACTORY - DAY
+N: Jen walks out, raises her face into the rain, and drinks the raindrops. Thirst quenched, she turns around and finds Li standing there. Jen limps towards him while mumbling.
+C: JEN
+D: Is it me or the sword you want?
+N: Jen falls into Li, who checks her pulse and looks at her eyes.
+C: LI
+D: You've been drugged!
+N: Li carries her inside, kicking away the incense burner.
+S: INT. ABANDONED FACTORY - DAY
+N: Li lays his hands on Jen's back; she slowly comes to.
+C: LI
+D: Where is Jade Fox?
+N: Jen gestures that she doesn't know. Yu and Bo enter. Yu looks at Jen.
+C: YU
+D: What happened?
+C: LI
+D: Jade Fox drugged her. How did you get here?
+C: YU
+D: We followed Jade Fox.
+N: Instantaneously, a flurry of darts flies directly in Jen's direction. Li and Yu swipe miraculously at them all, sending them flinging hither and thither. Fox shows herself. Li attacks her. She falls back, bleeding to death.
+C: LI
+D: And so you die.
+N: Li touches his neck.
+C: FOX
+D: And so shall you!
+N: Li pulls a single needle from his neck.
+C: YU
+D: A poisoned needle!
+C: FOX
+D: You deserve to die, but the life I was hoping to take... was Jen's. Ten years I devoted to you. But you deceived me! You hid the manual's true meaning. I never improved... but your progress was limitless! You know what poison is? An eight-year-old girl, full of deceit. That's poison! Jen! My only family... my only enemy...
+N: Jade Fox dies.
+C: YU
+D: You can't die! Tell us what poison you used! You can't die! Tell us the antidote! You can't let Li Mu Bai die!
+C: JEN
+D: She used Purple Yin... Purple Yin poison. It goes straight to the heart.
+C: LI
+D: My blood will soon reverse its flow. It's the same poison she used to kill my master. There is no antidote.
+C: YU
+D: That can't be! Everything has an antithesis! Why not this?
+C: JEN
+D: The antidote exists. She taught it to me. The formula is simple, but it takes time to prepare. Trust me. As you have helped me, let me help you.
+C: LI
+D: All right. Hurry. I will hold on as long as I can.
+C: YU
+D: Take my horse and go to the compound. Give this to Mrs. Wu. She'll help you. Hurry!
+E: takes the comb from her hair
+C: JEN
+D: Spare your energy. I'll be back!
+S: EXT. ABANDONED FACTORY - NIGHT
+N: Bo is burying Fox in the rain.
+S: EXT. YUAN COMPOUND - NIGHT
+N: The guards surround Jen. She pushes past them.
+C: JEN
+D: Where is Mrs. Wu?
+N: Aunt Wu comes running out.
+C: AUNT WU
+D: Stop it!
+N: Jen pulls out Yu's comb.
+C: JEN
+D: Shu Lien told me to show you this.
+C: AUNT WU
+D: Let her in.
+S: INT. ABANDONED FACTORY - NIGHT
+N: Yu sits across from Li, whose pose is almost meditational, eerily calm.
+C: YU
+D: Mu Bai, hold on. Give me some hope...
+C: LI
+D: Shu Lien...
+C: YU
+D: Save your strength.
+C: LI
+D: My life is departing. I've only one breath left.
+C: YU
+D: Use it to meditate. Free yourself from this world as you have been taught. Let your soul rise to eternity with your last breath. Do not waste it... for me.
+C: LI
+D: I've already wasted my whole life. I want to tell you with my last breath... I have always loved you. I would rather be a ghost, drifting by your side... as a condemned soul... than enter heaven without you. Because of your love... I will never be a lonely spirit.
+N: Yu cries. She kisses him lightly. He closes his eyes.
+S: EXT. PATH - DAY
+N: As the sun rises, Jen rides speedily, clutching the medicine in her hands.
+S: INT. ABANDONED FACTORY - DAY
+N: Li is in Yu's arms. They're holding hands. The sun shines in. Yu slowly releases Li's stiff fingers -- he is dead. Jen is at the door.
+C: JEN
+D: He's gone?
+N: Bo peeks over Jen's shoulder. Yu rises and picks up Green Destiny. Jen kneels. Yu raises the sword, but doesn't kill her.
+C: YU
+D: Bo... please take this sword back to Sir Te.
+N: He takes the sword from her.
+C: YU
+D: Now you must go to Wudan Mountain. Lo awaits you there. Promise me one thing, whatever path you take in this life... be true to yourself.
+E: to Jen
+S: EXT. WU TAN TEMPLE - DAY
+N: Jen climbs up toward the temple, finally reaching the temple gate, and sees Lo standing there. He runs to her. She greets him.
+S: INT. WU TAN TEMPLE - MAGIC
+N: Jen and Lo make love.
+S: INT. WU TAN TEMPLE - DAY
+N: Lo wakes up to find the jade comb on the pillow beside him, Jen gone.
+S: EXT. WU TAN MOUNTAIN - DAY
+N: Lo catches up to Jen, who stands on a bridge. The gorges below are shrouded in clouds. She looks back at him.
+C: JEN
+D: Do you remember the legend of the young man?
+C: LO
+D: "A faithful heart makes wishes come true."
+C: JEN
+D: Make a wish, Lo.
+N: Lo pauses.
+C: LO
+D: To be back in the desert, together again.
+E: closing his eyes
+N: Jen smiles, turns, and leaps into the clouds. They seem to catch her gently, before she disappears into them. Lo remains standing, a smile on his face, tears rolling down his cheeks. THE END.

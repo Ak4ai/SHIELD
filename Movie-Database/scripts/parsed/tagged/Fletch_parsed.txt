@@ -1,0 +1,2471 @@
+M: Fletch - by Phil Alden Robinson from a draft by Andrew Bergman. May 4, 1986 draft
+M: <b>
+M: </b>body{
+M: font-family: "Courier New", Courier, monospace; font-size: 10pt;
+M: <b>
+M: </b><b>}
+M: </b>
+M: May 4, 1986
+M: PRODUCERS:PETER
+M: DOUGLAS
+M: ALAN GREISMAN
+M: DIRECTOR:MICHAEL RITCHIE
+M: FLETCH
+M: Final Draft
+M: Screenplay
+M: by
+M: PHIL ALDEN ROBINSON
+M: From a Draft
+M: by
+M: ANDREW BERGMAN
+M: Based on the novel
+M: by
+M: GREGORY MC DONALD
+M: FLETCH
+T: FADE IN
+S: EXT.CALIFORNIA BEACH –
+N: DAY 1Seagulls squawk, and the waves pound, but we’re not talking about Malibu Colony, here. This is a fairly rundown beach area, catering to lower-echelon surfers, vagrants, and strung out druggies of all ages, several of whom stand or sit on their haunches by a dilapidated old hamburger stand. Over the stand is a faded sign: "FAT
+C: SAM’S HAMBURGERS".
+D: A simple but haunting electronic melody plays in the b.g.
+S: INT. "FAT
+N: SAM’S" – DAY 2Seated just inside the stand on a folding aluminum chair is a chubby man in his late thirties. He’s wearing a stained valor sweat suit and a cap. This is Fat Sam. He’s a dealer. Seated on the sand next to him is Fletch, a rangy man, early thirties, in jeans and a Magic Johnson T-shirt, nodding idly on a battered Casio music machine which he treats lovingly. This is the source of the title music.
+C: FLETCH
+D: So what do you figure?
+C: FAT SAM
+D: No idea.
+C: FLETCH
+D: No idea at all?
+C: FAT SAM
+D: Okay. Some idea.
+C: FLETCH
+D: Like when?
+C: FAT SAM
+D: Like tonight.
+C: FLETCH
+D: For sure?
+C: FAT SAM
+D: No, not for sure. When it comes, it comes. You gonna want some $hit?
+C: FLETCH
+D: I think I’d rather have drugs.
+N: CONTINUED FAT SAM (shakes head and smiles) Fletch… FLETCH Sorry. I find a little humor really brightens things up around here, don’t you? A young junkie with a black eye – Gummy – passes. GUMMY Hi Sam. Hi Fletch. FLETCH Hi Gummy. How’s the eye? GUMMY It’s okay. The cops did it. FLETCH I know. GUMMY They busted me last week. FLETCH They bust you every week. GUMMY I know. I got bad luck or something. Gummy exits. Fletch and Fat Sam watch him go. FLETCH That kid spends any more time in jail He’ll have to start paying rent. WIDER ANGLE THROUGH BINOCULARS Fat Sam and Fletch conclude their conversation. Fletch walks back among the drifters, the nervous, expectant junkies. He stops to talk to a young man propped up on his elbows on a towel. Creasy. 4 CREASY AND FLETCH
+C: FLETCH
+D: Maybe tonight?
+C: CREASY
+D: Whaddyamean 'maybe'?
+C: FLETCH
+D: That's what he said.
+C: CREASY
+D: He doesn't know? How come he doesn't know?
+E: getting desperate
+C: FLETCH
+D: I don't know how he doesn't know. He doesn't know.
+C: CREASY
+D: Sonofabitch.
+C: FLETCH
+D: Wonder who his supplier is.
+C: CREASY
+D: I have no idea.
+C: FLETCH
+D: I wasn't asking.
+C: CREASY
+D: He never leaves the beach, Fat Sam. Never leaves. Sits in that chair, he's outta junk. Then he suddenly gets up, he's got junk. So where does it come from? Through the sand?
+C: FLETCH
+D: I think that's highly unlikely, Creasy.
+C: CREASY
+D: I ought to get some sleep.
+E: rolls over
+C: FLETCH
+D: Creasy, how old are you?
+C: CREASY
+D: Nineteen.
+C: FLETCH
+D: You're not taking real good care of yourself.
+E: a touch of sadness
+N: WIDER - BINOCULARS AGAIN ---Fletch takes his Casio and starts off the beach. The binocular angle follows ---him. A pelican crosses the water. The binoculars move off Fletch and ---follow the flight of the pelican as it swoops low over the ocean. BEACH PARKING LOT - DAY ---Fletch emerges into view, walking towards camera, when a Man steps into the ---immediate f.g., the binoculars at his side large in frame. Fletch Stops.
+C: MAN
+D: Excuse me. I have something I'd like to discuss with you.
+C: FLETCH
+D: What?
+N: REVERSE ---A trim man of approximately Fletch's age, wearing a perfectly tailored grey ---suit, is standing across from Fletch. This is Alan Stanwyk.
+C: STANWYK
+D: We can't talk about it here.
+N: MASTER
+C: FLETCH
+D: Why not?
+C: STANWYK
+D: Because we can't.
+C: FLETCH
+D: Are you on a scavenger hunt of some kind?
+C: STANWYK
+D: I want you to come to my house. Then we'll talk.
+C: FLETCH
+D: I think you've got the wrong gal, fella.
+C: STANWYK
+D: I'll give you a thousand dollars cash just to come to my house and listen to the proposition. If you reject the proposition, you keep the thousand, and your mouth shut.
+C: FLETCH
+D: Will this proposition entail my dressing up as Tina Turner?
+C: STANWYK
+D: It is nothing of a sexual nature I assure you. One thousand, just to listen.I don't see how you could turn that down Mr...
+E: unsmiling, all business Takes a thousand in cash from his pocket
+C: FLETCH
+D: Nugent. Ted Nugent.
+C: STANWYK
+D: Alan Stanwyk.
+E: shakes his hand
+C: FLETCH
+D: Charmed.
+S: 9 EXT.
+N: BERMAN STREET - BEVERLY HILLS - DAY ---A Jaguar XJ sedan goes up Berman Street, a dead end. Fletch's hand reaches out ---of the passenger window and empties sand out of a sneaker.
+S: 10 INT. JAGURE - DAY
+C: FLETCH
+D: I always liked this part of town.
+S: 11 EXT. BERMAN STREET
+N: - DAY ---The Jaguar continues on up Berman Street, stopping before massive iron gates ---marked PRIVATE PROPERTY -- NO TRESPASSING -- STANWYK. The gates open ---electronically.
+S: 12 EXT. STANWYK HOUSE
+N: - DAY ---The jaguar goes up the center of the drive toward a white-pillared mansion. The ---lawns and planting are spectacular.
+S: 13 INT. JAGUAR - DAY
+N: ---Fletch stares out the window.
+C: FLETCH
+D: What a coincidence.
+N: ---The car stops before the house.
+C: STANWYK
+D: What?
+S: 14 EXT. HOUSE - DAY
+N: ---as they get out of the car.
+C: FLETCH
+D: I came this close... ...to buying this place
+E: holds fingers slightly apart
+N: ---Stanwyk ignores Fletch and starts toward the house. Fletch follows.
+C: FLETCH
+D: Then I found out Hopalong Cassidy had shot himself in the game room. That just blew it for me.
+C: STANWYK
+D: Who?
+C: FLETCH
+D: Hopalong Cassidy. Killed himself here. Bow and arrow. Strange.
+N: ---Stanwyk stops before the front door, stares at Fletch
+C: STANWYK
+D: What are you, doped up or something?
+N: ---Fletch abruptly changes gears, stares at Stanwyk
+C: FLETCH
+D: I don't work for you yet, assface. Don't talk to me like that.
+C: STANWYK
+D: Come inside.
+E: after a beat
+S: 15 INT. HOUSE - DAY
+N: ---Stanwyk and Fletch enter. A Mexican Maid crosses.
+C: STANWYK
+D: Buenas dias.
+C: MAID
+D: Buenas dias.
+N: She disappeared.
+C: FLETCH
+D: I commend you on your Spanish.
+N: ---Stanwyk doesn't reply, keeps on walking. He opens a set of double doors to the ---left of the winding staircase, then stands to one side, indicating that Fletch ---should enter.
+S: 16 INT. LIBRARY - DAY
+N: ---Massive fireplace. Everything built in teak. Fletch enters, and Stanwyk closes ---the door behind them.
+C: FLETCH
+D: Ahh, the library. Masculine but sensitive.
+N: ---Stanwyk wordlessly goes behind the desk
+C: FLETCH
+D: Really, I love what you've done with the place. Must have cost you...hundreds.
+N: ---Stanwyk turns, looks out a pair of French doors behind his desk, then turns ---back.
+C: STANWYK
+D: Here's my proposition, Mr. Fletcher.
+C: FLETCH
+D: I'm all ears.
+C: STANWYK
+D: I want you to murder me.
+N: thru OMITTED 20 FLETCH ---Even garrulous Fletch is stopped in his tracks by this remark, uttered in the ---most business-like manner. 21 STANWYK
+C: STANWYK
+D: Here. On Thursday. I'd like you to shoot me dead.
+N: 22 FLETCH ---He just stares, barely breathing. 23 STANWYK
+C: STANWYK
+D: The reason I ask you to do me this service is that I am facing a long, painful, and most certain death. You see, I have bone cancer. I don't know if you know anything about bone cancer.
+N: 24 FLETCH ---He shakes his head. 25 STANWYK
+C: STANWYK
+D: It doesn't get any worse than that. Just eats you up, bit by bit.
+N: FLETCH ---Finally regains the gift of speech.
+C: FLETCH
+D: You don't look sick, Mr. Stanwyk.
+N: 27 MASTER
+C: STANWYK
+D: I don't feel sick. Not yet. They tell me it'll start getting bad in about a month. After that... well, I'd rather not be around for it.
+C: FLETCH
+D: Why don't you try suicide?
+C: STANWYK
+D: My company has taken out a very large insurance policy on me. And I have a wife. Suicide would nullify my insurance. Murder does not.
+C: FLETCH
+D: So why pick me?
+C: STANWYK
+D: You're a drifter, a -- pardon the expression -- beach bum. No one would notice if you disappeared. I've watched you for a couple weeks.
+C: FLETCH
+D: Maybe I'm just on vacation.
+C: STANWYK
+D: Not with the scum you hang out with. I've watched. I've thought. Its a perfect scheme. I even have a perfect escape plan for you.
+C: FLETCH
+D: Did it ever occur to you that I might not want to kill you?
+C: STANWYK
+D: I've got fifty thousand dollars says you will.
+N: 28 FLETCH ---He chews his lip. 29 STANWYK
+C: STANWYK
+D: Fifty thousand and a guarantee you won't get caught.
+N: ---Stanwyk searches Fletch's face carefully for a reaction. After several beats....
+C: FLETCH
+D: I'm still here.
+C: STANWYK
+D: I want it done Thursday evening, around eight PM. My wife will be off to the club for a committee meeting. It's the staff's night off. These will be open.
+E: turns and goes to the French doors pushes doors open
+N: 30 FLETCH
+C: FLETCH
+D: Wouldn't they normally be locked?
+N: 31 MASTER
+C: STANWYK
+D: Sometimes yes, sometimes no. The staff usually forgets.
+C: FLETCH
+D: I have the same problem with my help.
+C: STANWYK
+D: I will be here in the room, waiting for you. The safe will be open and there will be fifty thousand dollars in it. You will be wearing rubber gloves. Do you own rubber gloves?
+E: goes on, unresponsive
+C: FLETCH
+D: I rent them. Monthly lease, with an option to buy.
+C: STANWYK
+D: In this drawer....
+N: ---He opens the top drawer of his desk 32 INSIDE THE DRAWER ---an enormous .357 Magnum. 33 MASTER ---Stanwyk holds up the gun. 34 FLETCH
+C: FLETCH
+D: A .357.
+N: 35 MASTER
+C: STANWYK
+D: Very good. My .357. Use it and no one can trace it to you. The room will be in some disarray.
+C: FLETCH
+D: So it looks like a burglary attempt. You catch me. I get the gun, and shoot you.
+C: STANWYK
+D: Precisely. Are you a good shot?
+C: FLETCH
+D: What's the difference? The noise'll kill you first.
+E: looking at the huge gun
+C: STANWYK
+D: Get me on the first shot, if you can.
+C: FLETCH
+D: I don't think you'll have to worry about that.
+N: ---A beat. Stanwyk stares at Fletch.
+C: STANWYK
+D: Do you have a passport?
+C: FLETCH
+D: Sure, all drifters do.
+C: STANWYK
+D: Fine. After you kill me, take the Jaguar. The keys will be in the glove compartment.
+C: FLETCH
+D: Take it where?
+N: ---Stanwyk starts to write down the information on a note pad.
+C: STANWYK
+D: LAX. Go to the Pan Am desk. There will be a ticket waiting for you.
+C: FLETCH
+D: Where am I going?
+C: STANWYK
+D: Rio. Flight 306. Departs at eleven PM.
+E: hands Fletch the note
+C: FLETCH
+D: They serve dinner on the flight?
+C: STANWYK
+D: It'll be a first class-ticket. I'm sure you'll enjoy the ride. I would recommend staying down there at least a year, Mr. Fletcher.
+C: FLETCH
+D: You've certainly thought this out, haven't you?
+C: STANWYK
+D: I am not someone who leaves a great deal to chance, Mr. Fletcher.
+C: FLETCH
+D: You sure those doors will be open?
+C: STANWYK
+D: Yes. All you provide are the gloves, the passport, and the aim. I'll take care of everything else.
+C: FLETCH
+D: The gun, the money, the tickets, and the dying.
+C: STANWYK
+D: That's right.
+C: FLETCH
+D: You sure got the hard part.
+C: STANWYK
+D: What do you say, Mr. Fletcher? You'll be doing me and my family a great service.
+N: 36 FLETCH ---thinking it over. 37 STANWYK
+C: STANWYK
+D: Will you kill me?
+N: 38 FLETCH
+C: FLETCH
+D: Sure.
+S: 39 INT. NEWSPAPER
+N: BUILDING - DAY Fletch pushes through the double glass doors, still dresses in a beach mufti -- the jeans and Magic Johnson shirt, Puma sneakers.
+S: 40 INT. L.A. NEWS
+N: OFFICE - DAY Fletch is greeted ad-lib by several people as he walks through the cavernous newspaper City Room.
+C: REPORTER
+D: Whoa, check out the beach boy!
+C: SECOND REPORTER
+D: Looking very good, Fletch.
+C: FLETCH
+D: Thank you so much Hey, Larry!
+E: to someone else
+N: Larry, the young "morgue" researcher, hurries over and walks with Fletch. She is fun and flirty, and her feelings for Fletch fall just short of idolatry.
+C: LARRY
+D: Yo!
+C: FLETCH
+D: Can I steal you for a minute?
+C: LARRY
+D: Only if you promise not to return me.
+C: FLETCH
+D: Deal.
+C: LARRY
+D: 'Magic' today, huh?
+E: pointing to Fletch's T-shirt
+C: FLETCH
+D: Kareem's in the wash. I need a favor.
+C: LARRY
+D: Shoot.
+C: FLETCH
+D: Don't say shoot, okay.
+N: They pass the office of the city editor Frank Walker, fiftyish. Hold on Walker's office. Upon noticing Fletch, he jumps from his seat, edges his way past the two reporters in his office and runs outside.
+C: WALKER
+D: Fletch. Fletch!
+N: 40-A FLETCH AND LARRY They continue their walk.
+C: FLETCH
+D: Did you hear something?
+C: LARRY
+D: Not me.
+C: FLETCH
+D: Me neither. See what we've got on a guy named Alan Stanwyk, okay? I need it right away.
+C: WALKER
+D: Fletch, I take it by your presence here that the story is done. Tell me I'm right.
+E: running up to them
+N: Fletch hold up a hand.
+C: FLETCH
+D: W-Y-K no 'c.' I'll be down in a minute.
+C: LARRY
+D: No problem, boss.
+N: Larry peels off and Fletch now talks to Walker without breaking stride for his office.
+C: WALKER
+D: Fletch.
+C: FLETCH
+D: Frank, you look a little peaked. Wanna vomit?
+C: WALKER
+D: No, I want an answer, Is the story done?
+C: FLETCH
+D: Uh, almost.
+C: WALKER
+D: 'Uh, almost' is not an answer. 'Yes Frank, it's all done': that's an answer.
+C: FLETCH
+D: And a damn fine one, I might add.
+E: as he enters his cubicle
+S: 41 INT. FLETCH'S
+N: CUBICLE - DAY A pile of mail is on his desk. On the walls are a team portrait of the Lakers, plus a couple of blow-ups of his column. Fletch writes under the name of Jane Doe. An unused word processor is on his desk, but the keyboard has been moved aside to make room for an old, much-used Royal typewriter. He bounces some waste paper off the monitor into a strategically placed waste can. (A lot of crumpled papers lie on the floor all around the can.)
+C: FLETCH
+D: Two....
+C: WALKER
+D: Irwin....
+C: FLETCH
+D: Oh, I hate it when he calls me that.
+C: WALKER
+D: Irwin, professional journalism time, now. Go back to the goddamn beach and finish the goddamn story!
+C: FLETCH
+D: I will, Frank, I will. Something came up, okay?
+C: WALKER
+D: No it's not okay. You have to have this in by tomorrow. Did you see the ad we ran Sunday?
+C: FLETCH
+D: I never read the paper.
+C: WALKER
+D: ...never reads the paper...
+N: Walker goes through a pile of unread newspapers on Fletch's desk, finds the Sunday paper.
+C: FLETCH
+D: What's the spread on the game tonight?
+C: WALKER
+D: I don't know. Look!
+E: holds up paper
+C: FLETCH
+D: Looks great.
+N: 42 INSERT - AD A full-page ad.
+S: NEXT WEEK
+N: A "JANE DOE" SPECIAL REPORT: DRUGS ON OUR BEACHES - SHAME OF THE CITY 43 MASTER
+C: FLETCH
+D: 'Shame of Our City' is so good.
+C: WALKER
+D: Now, Irwin, try to follow me. You can't run the ad and then not run the story.
+C: FLETCH
+D: Why not? Oh $hit...really?
+N: Walker just stares at him.
+C: FLETCH
+D: Just kidding, Frank. You'll have the story and you'll be damn proud of it.
+C: WALKER
+D: You broke it? You know the source?
+C: FLETCH
+D: Practically.
+N: 44 WALKER ready to kill.
+C: WALKER
+D: What's 'practically'? Is it Fat Sam? You said you had pictures of him....
+N: 45 MASTER
+C: FLETCH
+D: I have pictures of him. Dealing....
+C: WALKER
+D: So let's go! We run the pictures.
+C: FLETCH
+D: He's not the story! There's a source behind him.
+C: WALKER
+D: Who?
+C: FLETCH
+D: Well, there we're in a gray area.
+C: WALKER
+D: How gray?
+C: FLETCH
+D: I'd say charcoal.
+C: WALKER
+D: I'm going to bite out your eyeballs, you know that?
+E: straining for control
+C: FLETCH
+D: Frank, you animal, I love it. I'll have the story by Thursday night, I swear to God. I hope.
+E: to himself as he exits
+N: INSERT - NEWSPAPER CLIPPING
+C: ALAN STANWYK NEW V/P
+D: BOYD AVIATION
+N: A photograph of Stanwyk; a head shot. Hands turn the clipping paper. Next clipping: a social page spread on the wedding of Alan Stanwyk. ("GAIL BOYD WED TO ALAN STANWYK.")
+C: LARRY
+D: Everything's recent.
+E: V.O.
+N: 47 FLETCH AND LARRY Fletch and Larry examine the file.
+C: FLETCH
+D: 'Mr. Stanwyk, of Provo, Utah, is a former commercial pilot.'
+C: LARRY
+D: Married Boyd Aviation. He's no dummy, that's serious coin.
+N: 48 INSERT - CLIPPING - TIGHTER ANGLE
+C: FLETCH
+D: 'Stanwyk's parents, Marvin and Velma Stanwyk, also of Provo, were unable to attend the wedding.'
+E: V.O.
+N: 49 FLETCH AND LARRY
+C: LARRY
+D: Not our kind of people, you understand.
+E: affected accent
+C: FLETCH
+D: Spot right here.
+E: points to his back
+N: She scratches.
+C: FLETCH
+D: Thanks.
+C: LARRY
+D: You doing a story on this guy?
+C: FLETCH
+D: Maybe.
+N: He pours over some more clippings, then stops at one. 50 INSERT CLIPPING headlined: "CANCER SOCIETY BENEFIT". A photograph of Alan and Gail Stanwyk, with a gray haired man and his wife.
+C: FLETCH
+D: '...Stanwyk, blahblahblah, with internist Doctor Joseph Dolen.
+E: V.O.
+N: 51 FLETCH AND LARRY
+C: FLETCH
+D: I wonder if that's his doctor.
+C: LARRY
+D: Only one way to find out.
+S: 52 INT. DOCTOR'S
+N: EXAMINING ROOM - DAY Fletch, stripped to the waist. is being examined by Dr. Joseph Dolen, a rather imperious physician.
+C: DR. DOLEN
+D: So where do you know Alan from?
+C: FLETCH
+D: We play tennis at the club.
+C: DR. DOLEN
+D: Really. The California Racquet Club?
+C: FLETCH
+D: Yes.
+C: DR. DOLEN
+D: That's my club too. I haven't seen you there.
+C: FLETCH
+D: Well, I haven't played in a while because of these kidney pains.
+C: DR. DOLEN
+D: Right, and how long have you had these pains, Mr. Barber?
+C: FLETCH
+D: That's Babar.
+C: DR. DOLEN
+D: Two bs?
+C: FLETCH
+D: One. B-a-b-a-r.
+C: DR. DOLEN
+D: That's two.
+C: FLETCH
+D: But not right next to each other. I thought that's what you meant.
+C: DR. DOLEN
+D: Arnold Babar. Isn't there a children's book about an elephant named Babar?
+C: FLETCH
+D: I don't know. I don't have any.
+C: DR. DOLEN
+D: No children?
+C: FLETCH
+D: No books. No elephants either. No really good elephant books.
+C: DR. DOLEN
+D: Still, it'd an odd name. I don't remember seeing it on the club registry.
+E: eyes Fletch curiously
+N: Fletch's eyes drift to Dolen's side table with its unnerving assortment of medical paraphernalia.
+C: FLETCH
+D: Oh, I don't belong formally. I've gone with my aunt.
+C: DR. DOLEN
+D: Your aunt?
+C: FLETCH
+D: Mrs. Smith.
+C: DR. DOLEN
+D: Joan or Margaret Smith.
+C: FLETCH
+D: Right.
+C: DR. DOLEN
+D: Well, which one?
+C: FLETCH
+D: Margaret.
+C: DR. DOLEN
+D: Funny old bird.
+C: FLETCH
+D: Is she ever. I've got some stories....
+C: DR. DOLEN
+D: I'll bet. Shame about Ed.
+C: FLETCH
+D: It was. Really a shame. To go so suddenly.
+E: vamping
+C: DR. DOLEN
+D: Oh, he was dying for years.
+C: FLETCH
+D: Sure, but the end was so sudden.
+C: DR. DOLEN
+D: He was in intensive care for eight weeks.
+C: FLETCH
+D: Yes, but the very end, when he actually died, that was extremely sudden. You know, Alan and I were recently speaking of dying. Told me Boyd Aviation took out a lot of insurance on him. You must have to be in some kind of perfect health to get that kind of policy.
+E: quickly
+C: DR. DOLEN
+D: Bend over and drop your pants, Mr. Babar.
+C: FLETCH
+D: Oh really, there's no need to -- we don't want to do that....
+C: DR. DOLEN
+D: Just relax....
+C: FLETCH
+D: Honest, I feel fine. You better be married.
+N: Fletch looks alarmed as Dolan pushes him into position. Dolan puts on a plastic glove. 53 CLOSE - FLETCH
+C: FLETCH
+D: Did I say 'kidneys'? I meant my ear. Maybe I should see an ear dahhh -- Ever serve time?
+E: as Dolan starts to probe from behind
+C: DR. DOLEN
+D: Breathe easy....
+C: FLETCH
+D: Anyway, I'm surprised Alan got the policy so easily. I know there's a history of cancer in the family.
+C: DR. DOLEN
+D: There is?
+E: noncommittally
+C: FLETCH
+D: Whoa, look out there. You really need the whole fist?
+C: DR. DOLEN
+D: Just relax.
+C: FLETCH
+D: Gee, Alan's been looking kind of sick lately. Is he all right?
+E: reacts to a poke
+C: DR. DOLEN
+D: I can't discuss another patient. You know that. Well, I can't find anything wrong with you.
+E: rising into frame and washing up
+C: FLETCH
+D: I'm sure it's not for a lack of looking. Maybe I should get a real complete physical. You give Alan an annual, don't you?
+C: DR. DOLEN
+D: Yeah, we check you into Mt. Hebron for a few days, run lots of tests, charge a bundle. You can pull your pants up now.
+C: FLETCH
+D: I hope they still fit. Do I get to keep the glove?
+C: DR. DOLEN
+D: Tell the nurse when you've got a few free days. She'll make all the arrangements.
+C: FLETCH
+D: Thanks, Doc. Maybe I'll come back with a date. Or an elephant.
+S: 54 INT. HOSPITAL
+N: RECEPTION AREA - DAY Fletch is dressed in shorts, a clean shirt, and is carrying a doctor's bag. He is wearing a stethoscope around his neck , has a beeper on, a lot of pencils and other doctor gadgets. He's standing at the directory 55 DIRECTORY Combing it with his eyes, he sees the directory: PATHOLOGY - THIRD
+C: FLOOR B. ROSENSTIEN, M.D. H. ROSENBLATT, M.D.
+D: P. ROSENWOHL, M.D.
+N: Fletch goes to a door marked "Stairs."
+S: 56 INT. STAIRWELL -
+N: DAY Fletch abruptly empties his doctor's bag and puts on a long green gown, a cap and a face mask. He plugs the stethoscope in his ears, removes miscellaneous file folders filled with papers, closes the bag, and heads for Pathology.
+S: 57 INT PATHOLOGY
+N: DEPARTMENT - DAY It's at the end of a long hall, and adjacent to the Autopsy Room and the Pathology Records Room. Over his shoulder we can see into the autopsy room where a gowned doctor is happily performing an autopsy.
+C: RECORDS NURSE
+D: Identification please.
+E: to Fletch
+N: Fletch hastily fumbles through his wallet, deftly dropping and picking up the papers he has brought with him.
+C: FLETCH
+D: It's me doctor Rosenpenis. I just have to take another peek at Alan Stanwyk's file. What have they done with this place?
+C: RECORDS NURSE
+D: Nothing. They're still there.
+E: confused at all his activity
+C: FLETCH
+D: Right. Fine.
+N: Still dropping and picking up, shuffling and collating, Fletch starts toward the Files Room, when the doctor performing the autopsy yells at him.
+C: PATHOLOGIST
+D: Hey you!
+N: Fletch stiffens and turns around.
+C: PATHOLOGIST
+D: Give me a hand for a second would you doctor?
+N: Fletch hesitates.
+C: PATHOLOGIST
+D: Come on, come on.
+N: Reluctantly, he goes to the autopsy table, and the cadaver thereon, which is covered by a sheet, except for the mid-section. 58 TWO SHOT - FLETCH AND PATHOLOGIST (Note: from here on we never see the body.)
+C: PATHOLOGIST
+D: Have you ever see a spleen this large?
+E: poking around
+C: FLETCH
+D: Not recently.
+E: trying not to look
+C: PATHOLOGIST
+D: Grab this, will you?
+C: FLETCH
+D: Uh, I'm not really prepared. My hands aren't sterilized.
+C: PATHOLOGIST
+D: You're not going to make this guy any sicker.
+N: We hear a squishing noise as he grabs something large and wet and plops it into Fletch's hand. Fletch stands there holding something icky out of frame, looking uncomfortably up at the ceiling, the floor, anywhere but at the cadaver or at the stuff in his hand. Meanwhile, we hear sounds of further incisions, and the deflating of an organ.
+C: PATHOLOGIST
+D: You never really get used to the smell, do you?
+N: Fletch's eyes roll up, and he falls to the floor in a dead faint.
+S: 59 INT. RECORDS
+N: ROOM - DAY - MINUTES LATER Fletch is on a couch, beginning to regain consciousness. The Records Nurse hovers over him.
+C: RECORDS NURSE
+D: Are you all right, Doctor?
+C: FLETCH
+D: Where am I?
+C: RECORDS NURSE
+D: You're in the Records Room.
+C: FLETCH
+D: I'm fine.
+C: RECORDS NURSE
+D: Can I get you something?
+C: FLETCH
+D: Have you got a make-shift plywood pillory? Heh Heh, just kidding.
+C: RECORDS NURSE
+D: Doctor Holmes went to get you some smelling salts. He was quite surprised that you fainted.
+C: FLETCH
+D: Well, I didn't want to say anything, but I thought the dead man was my brother.
+C: RECORDS NURSE
+D: Oh my God!
+C: FLETCH
+D: It's all right. It wasn't him but that spleen was a splitting image.
+N: He sits up and sees that just outside the glass is none other that Dr. Joseph Dolen, talking with the pathologist.
+C: FLETCH
+D: Oh, God, I think I'm about to hyperventilate. Have you got a paper bag, or something.
+C: RECORDS NURSE
+D: Yes, right away.
+N: She goes to get the paper bag, and Fletch turns his back on Dr. Dolen to go through the file cabinet. By the time the Nurse returns, he's got Stanwyk's file.
+C: RECORDS NURSE
+D: Here you are, Doctor.
+C: FLETCH
+D: Thank you.
+N: He puts the bag over his mouth and breathes deeply as he continues the conversation with her. (From time to time, we see Dr. Dolen in the b.g. looking over, but does not come into the records room or question what's happening).
+C: RECORDS NURSE
+D: Is there anything particular you're looking for?
+C: FLETCH
+D: My associates did a biopsy on this man recently. He's supposed to have a melanoma, or a carcinoma, some kind of noma. Hmmm. I can't seem to find any record of it.
+E: thumbs through file
+C: RECORDS NURSE
+D: Well, if he had one, it would certainly be in here. Wait. Here it is. Yep. Surgical removal of two moles. Tissue was benign.
+E: taking the file searches
+C: FLETCH
+D: That's it?
+C: RECORDS NURSE
+D: That's it.
+E: shows him the file
+C: FLETCH
+D: This was last month. So Alan Stanwyk does not have cancer.
+E: reading it
+C: RECORDS NURSE
+D: I guess not.
+C: FLETCH
+D: He'll be so relieved.
+E: very puzzled
+S: 60 EXT. SANTA MONICA
+N: STREET - LATE AFTERNOON Fletch pulls up in front of his building, a 1970's cinderblock apartment complex. Fletch parks his car halfway up the curb, gets out and spots a Mercedes coupe. He starts running toward the rear of his building.
+S: 61 EXT. REAR OF THE
+N: BUILDING - DAY Fletch starts climbing up the fire escape of his building. 62 FIRE ESCAPE - DAY Fletch reaches the second floor. He's huffing and puffing.
+C: FLETCH
+D: Christ.
+N: 63 REVERSE Attorney Charles Gillett is waiting for him on the second floor fire escape. Gillett smiles.
+C: GILLETT
+D: Refusal to pay alimony is a jailable offense, Fletch.
+N: 64 MASTER
+C: FLETCH
+D: What about breaking and entering? Are you wearing anything under that?
+E: points to Gillett's coat
+C: GILLETT
+D: I did not break nor enter. I simply chose an advisable location to await my client's delinquent husband.
+C: FLETCH
+D: I hate to conduct business on the lanai. Why don't we step inside.
+N: Fletch takes out a credit card and jimmies open the lock on the window.
+S: 65 INT. FLETCH'S
+N: APARTMENT - DAY Fletch climbs in through the window, followed by Gillett. His small apartment is just barely furnished. A low basketball hoop is attached to the wall. Fletch takes a ball, offers it to Gillett.
+C: FLETCH
+D: One on one?
+N: Gillett shakes his head. Fletch does a reverse shot and misses, sending a plastic globe lamb crashing to the floor.
+C: FLETCH
+D: And the foul.
+N: Fletch takes a second, successful shot.
+C: GILLETT
+D: You owe Wendy nine hundred and eighteen dollars.
+C: FLETCH
+D: She doesn't need the money, for crissakes. She's living with Monty. I know it.
+E: still playing b-ball
+C: GILLETT
+D: I don't know what you're referring to. Wendy maintains her own residence.
+C: FLETCH
+D: It stinks. I thought woman were independent now.
+C: GILLETT
+D: Until she remarries, Fletch.
+C: FLETCH
+D: Hey, shut up, okay? I just hate this.
+C: GILLETT
+D: I empathize with your plight, Fletch. However, you threw her out.
+C: FLETCH
+D: She was sleeping with everybody. The cable TV guy. You can't get lower than that....
+C: GILLETT
+D: You should have proved that in a court of law.
+C: FLETCH
+D: My lawyer was a bum.
+C: GILLETT
+D: I agree.
+E: smiles
+N: Fletch puts down the basketball, picks up a stack of mail and rifles through it.
+C: FLETCH
+D: I think he was sleeping with Wendy, too.
+C: GILLETT
+D: You may be right.
+C: FLETCH
+D: Are you serious?
+C: GILLETT
+D: That's history, Fletch. You owe us nine hundred and eighteen dollars.
+E: shrugs
+C: FLETCH
+D: Wait a minute! Our problems might be solved.
+N: Fletch holds up an envelope with Ed McMahon's picture on it.
+C: FLETCH
+D: I think I just won a million dollars!
+E: continuing
+N: He opens it and looks inside, feigning disappointment.
+C: FLETCH
+D: Damn...lost again. Sorry.
+E: continuing
+C: GILLETT
+D: This is no joke. If some kind of payment isn't made, we're going to have to contact the paper and garnish your wages.
+N: Fletch sighs, takes out the envelope given to him by Stanwyk. He hands a thousand dollars to Gillett.
+C: GILLETT
+D: Cash. I'm impressed.
+C: FLETCH
+D: Found it in a cab. That's a grand. Apply the difference to next month.
+C: GILLETT
+D: Till then.
+N: Gillett smiles and exits. 66 KITCHEN - DAY Fletch opens the fridge. Inside are tow six-packs of Coors, a jar of Miracle Whip, a half a cucumber, and a brown head of lettuce. Fletch takes a beer and slams the door shut with such force that we hear breakage inside. 67 MASTER - APARTMENT - DAY In a foul mood, Fletch leaves the kitchen, and wanders into the living room. It has the personality of an Abbey Rents. He picks up the TV remote control. The television clicks on. Chick Hearn is with Jabbar, during a Laker pregame warmup.
+C: FLETCH
+D: Thank God.
+N: Fletch settles back. 68 TELEVISION Hearn is gushing over Jabbar. 69 FLETCH He watches contemplatively. He is bone tired. 70 TELIVISION
+C: HEARN
+D: How about Fletch?
+C: JABBAR
+D: Well, Fletch has been great. He's super-strong, really clogs the middle for us, boxes out, gets the bounds....
+N: 71 FLETCH He smiles and nods, deep in fantasy. 72 TELEVISION
+C: HEARN
+D: Now here's a key play in Tuesday night's game....
+N: Hearn and Jabbar look down at a television monitor. 73 FLETCH He's half asleep.
+C: JABBAR
+D: Here I am dishing off to Fletch....
+E: V.O.
+N: Fletch raises an eyebrow. 74 TELEVISION There's Fletch, his hair in an Afro, dressed in Laker gold. He's on the receiving end of a Jabbar pass, making an easy layup.
+C: HEARN
+D: Gosh, he makes it look so easy!
+E: V.O.
+N: 75 FLETCH asleep, smiling. 77 PRICATICE COURT - DAY Gail Stanwyk is on the other side of the net, loading tennis balls into the automatic serve machine. She is in her late twenties and quite attractive., but in a much more natural way than other women we see here. She is good natured and effervescent. Fletch steps up to the entrance of the court.
+C: FLETCH
+D: Gail Stanwyk!
+N: She looks up. He enters the court with great delight.
+C: FLETCH
+D: I haven't seen you since the wedding, Jeez, you look great.
+E: continuing
+C: MRS. STANWYK
+D: I do? Oh, isn't that sweet, thank you. I have to confess something to you. I must have been pretty plowed at your wedding. I really don't have the faintest idea who you are.
+E: genuinely pleased
+C: FLETCH
+D: Huh? No, not my wedding. Yours.
+C: MRS. STANWYK
+D: Oh, mine! Thank God. Actually, that doesn't make it any better, does it? Are you a friend of Alan's?
+E: furrows her brow
+C: FLETCH
+D: We used to fly together. I'm...John.
+C: MRS. STANWYK
+D: John! You used to fly together!
+E: snaps her fingers in happy recognition
+N: Her smile segues right into an "I'm sorry, bit I give up" expression.
+C: MRS. STANWYK
+D: John who?
+C: FLETCH
+D: John Ultrarelamensky.
+C: MRS. STANWYK
+D: Oh, I'm sorry. It's a beautiful name, really.
+E: bursts out in laughter
+C: FLETCH
+D: It's Scotch-Rumanian.
+C: MRS. STANWYK
+D: That's a strange combination.
+E: still loading tennis balls
+C: FLETCH
+D: So were my parents.
+C: MRS. STANWYK
+D: Mind if I keep practicing? I need to work on my ground stroke a little.
+C: FLETCH
+D: Please.
+N: As Mrs. Stanwyk crosses to the other side of the net, a waiter approaches Fletch.
+C: WAITER
+D: Excuse me sir. Are you a guest of the club?
+C: FLETCH
+D: Yes, I'm with the Underhills.
+C: WAITER
+D: They just left, sir.
+C: FLETCH
+D: They'll be back. He had to go in for a urinalysis.
+C: WAITER
+D: Would you care for a drink while you're waiting? I can put it on the Underhill bill.
+C: FLETCH
+D: Great. I'll have a Bloody Mary and a steak sandwich.
+C: WAITER
+D: Very good sir.
+N: The Waiter leaves, and Fletch watches as Mrs. Stanwyk tries to return the serving machine's serves. She swings so goofily that she can't even get the racket on the ball. She has clearly never taken a lesson in her life, and it is doubtful if she will ever make contact with a tennis ball in this century.
+C: MRS. STANWYK
+D: Damn, I thought I had that one.
+C: FLETCH
+D: You should play with much larger tennis balls. So how's Alan?
+C: MRS. STANWYK
+D: What are you asking me for? He's so busy lately I hardly see him. And he's been so preoccupied.
+C: FLETCH
+D: Preoccupied with what?
+C: MRS. STANWYK
+D: Oh, personal stuff. Look! I hit one!
+N: Indeed, she has. Strait up. She and Fletch crane their necks upward to follow it's flight.
+C: FLETCH
+D: Good. Lobs are a very important part of the game.
+N: She completely misses the next one.
+C: FLETCH
+D: Why do you keep doing this?
+C: MRS STANWYK
+D: I love the outfits.
+N: The next one she hits with the handle.
+C: FLETCH
+D: Try stepping into the ball with your left foot.
+N: He demonstrates a swing. She puts on a determined face, makes an awkward step and swings at the next ball, missing it completely, and letting the racket fly.
+C: FLETCH
+D: There, much better.
+N: Mrs. Stanwyk laughs happily and dodges the machine-served balls to walk over to Fletch. When she's almost up to him, she turns back to the serving machine and points a finger at it, as if addressing a pet dog.
+C: MRS STANWYK
+D: Stay! I must be having an off day. I'm really a fabulous player.
+E: to Fletch
+C: FLETCH
+D: I have this effect on lots of women.
+C: MRS STANWYK
+D: I bet you do.
+C: FLETCH
+D: Say, the reason I asked about Alan is that I bumped into him this morning and you know what I can't figure out?
+C: MRS STANWYK
+D: Alan's in Utah.
+E: catching him in his lie
+C: FLETCH
+D: I can't figure out why I went to Utah for the morning.
+E: after a beat
+C: MRS STANWYK
+D: Okay. I'm delighted to have someone to talk to, and you're very cute, so I'm very flattered, but I'm also very married so you may as well forget -- You are trying to hit on me, aren't you?
+C: FLETCH
+D: I'm such a heel. How'd you guess?
+E: thinks, then nods
+C: MRS STANWYK
+D: If I had a nickel for every one of Alan's flyboy buddies who tried to pick me up, I'd be a rich woman.
+C: FLETCH
+D: You are a rich woman.
+C: MRS STANWYK
+D: See what I mean?
+N: She trots back to her ball machine. Fletch calls after her.
+C: FLETCH
+D: What's he doing in Utah?
+C: MRS STANWYK
+D: None of your business, now go away. You're throwing my game off.
+N: Fletch chuckles -- he likes this woman -- and exits. 78 BOYD AVIATION - DAY - ESTABLISHING A sprawling, Hughes-like complex.
+C: FLETCH
+D: ...then who walks in but George Bush. He took one look around the room...
+E: O.S.
+S: 79 INT. JOHN BOYD'S
+N: OFFICE - DAY A Secretary is serving coffee to Fletch (now dressed in a three piece suit) and John Boyd, Gail Stanwyk's father. At seventy, he is probably Chairman Emeritus now; no longer running the day-to-day operations of the company, and thus somewhat grateful from the company.
+C: FLETCH
+D: ...and said 'Sorry Mr. President, I thought it was Saturday.'
+E: continuing
+N: Boyd Laughs.
+C: FLETCH
+D: I thought I was going to die.
+C: SECRETARY
+D: Sugar, Mr. Poon?
+C: FLETCH
+D: Thank you.
+N: Fletch notices a framed wedding photograph on the credenza behind Boyd. It is of Alan and Gail Stanwyk, Alan beaming a $hit-eating grin and holding a happy thumbs-up. Fletch waits as the Secretary leaves the room, then begins speaking confidentially.
+C: FLETCH
+D: Okay.
+N: He opens his attache case, allowing Boyd to see an airline ticket, a Washington Post, and a file stenciled "Confidential/S.E.C. Use only."
+C: FLETCH
+D: First of all, let me just reiterate that this is not a formal investigation. I'm not going through formal channels here, because if Alan Stanwyk is not involved in any improprieties, then nobody has to know I was even ---
+C: BOYD
+D: Alan Stanwyk is not involved in improprieties. Where the hell does the S.E.C. come off ---
+N: Fletch is nodding sympathetically and holds up a quieting hand. Boyd stops in mid-tirade, and watches as Fletch reaches into his briefcase and seemingly turns off a tape recorder.
+C: FLETCH
+D: Look. You know that and I know that, but somebody's bucking for a promotion. I think it's that bozo, Hanrahan, I can't be sure. Anyway, unless I go back there with something, you and your son-in-law are next week's scapegoats.
+C: BOYD
+D: Unbelievable.
+C: FLETCH
+D: I feel like dirt. They even want to know what he's doing in Utah?
+C: BOYD
+D: Utah? Jesus Christ! First of all, Alan Stanwyk does not own one share of stock.The three million dollars for the ranch in Provo comes from my daughter who converted some of her personal holdings, not company holdings. Now if anybody in DC wants to make something of that, bring 'em on. Until then, get the hell out of my face.
+E: laughs
+C: FLETCH
+D: God I admire you.
+E: stands and closes briefcase
+C: BOYD
+D: By the way: what kind of name is Poon?
+C: FLETCH
+D: Comanche Indian.
+N: 80 ALAN STANWYK'S OFFICE - DAY Fletch breezes in, right up to the Secretary, whose nameplate reads MADELINE TURNER.
+C: FLETCH
+D: Oh, Margie, sorry, Frieda lost the number of Alan's realtor in Provo. Can you give it to me real quick?
+E: rapidly
+C: MARGIE
+D: Jim Swarthout?
+C: FLETCH
+D: Yeah.
+N: She writes it out for him.
+C: MARGIE
+D: And, I'm sorry, who are you again?
+C: FLETCH
+D: Frieda's boss.
+E: grabbing the paper
+C: MARGIE
+D: Who's Frieda?
+E: calling after him
+C: FLETCH
+D: My secretary.
+E: out the door
+S: 81 EXT. BEACH - DAY
+N: Pan across the beach....
+C: FLETCH
+D: Larry, it's me....
+E: O.S.
+N: Fletch is in a phone booth on the sidewalk next to the beach, keeping an eye on "Fat Sam's."
+C: FLETCH
+D: See if you've got anything in Stanwyk's background from when he lived in Utah. Also check on a realtor in Provo named Swarthout. And tell Frank I'm crazy about him and I'd like to discuss his maybe moving in with me.
+N: We hear police sirens. Fletch looks O.S.
+C: FLETCH
+D: Later.
+N: He hangs up.
+S: 82 FLETCH'S POINT OF
+N: VIEW - FOUR SQUAD CARS have pulled up to the beach, lights flashing. The druggies are dispersing. Creasy is running towards Fletch.
+C: CREASY
+D: Fletch! Take off!
+N: 83 FLETCH He steps out onto the beach, and starts towards the cops. 84 MASTER
+C: CREASY
+D: What are you doing?
+N: 85 MASTER Everyone is scattering. The cops run past everyone, and approach Gummey. 86 FLETCH AND CREASY
+C: FLETCH
+D: They're after Gummy again. It's weird.
+N: Fletch keeps moving toward the police.
+C: CREASY
+D: Fletch, slow down.
+E: out of breath
+N: 87 GUMMY AND THE COPS Gummy trips and falls in the sand. A Cop kicks him in the head. COP #1 Let's go, Gummy. 88 FLETCH AND CREASY still running toward the cops.
+C: FLETCH
+D: Hey, what are you doing?
+C: CREASY
+D: Fletch, this is dumb.
+C: FLETCH
+D: You don't have to run with me, Crease.
+N: 89 MASTER The cops drag Gummy toward a squad car. 90 ANGLE - "FAT SAM'S" Fat Sam peers out, watching the action. 91 MASTER Fletch approaches the cops.
+C: FLETCH
+D: Why are you beating up on that kid?
+N: No responce from the cops.
+C: FLETCH
+D: He's defenseless, and you kick the crap out of him. What do you want from ---
+N: One of the cops turns and, in one smooth motion, kicks Fletch in the balls. Fletch sinks to the ground. 92 SQUAD CAR Gummy is packed into the squad car. 93 FLETCH He rises slowly from the sand. He is in great pain. He starts after the cops again. 94 CREASY
+C: CREASY
+D: Fletch!
+N: 95 MASTER
+C: FLETCH
+D: What goddamn right do you have to take him?
+N: The cop car starts off. Fletch picks up a rock, hurls it at the cop car. It smashes the rear window. 96 CREASY
+C: CREASY
+D: Fletch!!!
+N: 97 MASTER The cop cars go off. Fletch bends over. He's hurting. Creasy comes over to him.
+C: CREASY
+D: Hey you're really nuts.
+C: FLETCH
+D: They didn't do anything.
+E: breathless
+C: CREASY
+D: What? What are you talking about?
+C: FLETCH
+D: I busted their window, they didn't do anything.
+C: CREASY
+D: You're lucky.
+C: FLETCH
+D: Not luck. They don't want me.
+N: 98 POLICE CARS In a caravan, they head down the highway. 99 FLETCH He turns and looks towards "Fat Sam's." 100 "FAT SAM'S" Fat Sam watches the police cars go down the road, then turns and looks towards the ocean. He pulls his Angels cap down over his head. 101 CLOSE - FLETCH He is focusing on something, but has not figured it out yet.
+C: FLETCH
+D: Gummy and two cops....
+N: and OMITTED
+S: 104 INT. FRANK
+N: WALKER'S OFFICE - DAY
+C: FLETCH
+D: Cool your tool, Frank, I need a little more time. I think I'm really on to something here.
+C: WALKER
+D: Your onto something. That's good. What?
+C: FLETCH
+D: I really don't want to spoil your surprise, Frank. Why don't you read it tomorrow?
+N: Larry, knocks on the door.
+C: WALKER
+D: What do you want?
+N: Larry points to Fletch.
+C: WALKER
+D: Speak, don't point!
+C: LARRY
+D: I need Fletch for a second.
+C: FLETCH
+D: She needs me, Frank.
+N: Fletch turns to Larry. Push to two shot.
+C: LARRY
+D: Nothing on Gail Stanwyk, nothing on Jim Swarthout. But I did ---
+C: FLETCH
+D: That's okay, Lar. I gotta put this on the back burner for a while.
+N: Larry starts to exit.
+C: WALKER
+D: Just give me a hint, all right?
+C: FLETCH
+D: All right. Maybe there are some crooked cops involved in all this.
+C: LARRY
+D: Did you say cops?
+E: stopping in the doorway
+C: FLETCH
+D: Yeah.
+C: LARRY
+D: That's one thing I did find. It's from Last month, so it was in the unsorted pile.
+N: She hands Fletch a clipping. 105 INSERT - CLIPPING It is an article and photograph of the newly-appointed citizens on the Police Advisory Board. One of them is Alan Stanwyk.
+C: WALKER
+D: What's that?
+N: 106 MASTER Fletch pockets the photo.
+C: FLETCH
+D: More cops. I think I gotta go to Utah, Frank.
+E: puzzled then
+C: WALKER
+D: Utah?
+C: FLETCH
+D: Yeah. It's wedged in between Wyoming and Nevada. I'm sure you've seen pictures.
+C: WALKER
+D: What about finding the source?
+C: FLETCH
+D: I have some ideas.
+C: WALKER
+D: Who? Donnie and Marie?
+C: FLETCH
+D: Very possibly. Come on, say yes. I'll buy you a shirt.
+C: WALKER
+D: Go to transportation, get a ticket.
+C: LARRY
+D: My hero.
+E: to Fletch as he exits
+C: FLETCH
+D: Nothing to it.
+S: 107 EXT. PROVO, UTAH
+N: - AIRPORT -DAY A Western Airlines flight arrives.
+S: 107-A EXT. HIGHWAY -
+N: DUSK Fletch's rented Fairmont speeds down the highway.
+S: 107-B INT. FAIRMONT -
+N: FLETCH wearing a polyester brown suit -- fiddles with the radio. Snatches of programs are heard: "easy listening" music; country-and-western; a revival show; a call in show -- "Hi, you're on the air." "Hello, Bob, I'd like to discuss the death penalty. As you know, Jesus was in favor of it --" Fletch whistles and switches the radio off. He turns the car off the interstate.
+S: 108 EXT. TRAVELODGE -
+N: LATE AFTERNOON - ESTABLISHING SHOT as Fletch drives up.
+S: 109 INT. TRAVELODGE
+N: MOTEL ROOM Fletch dials the phone in the small, sparsely furnished room.
+C: FLETCH
+D: Hi, Jim Swarthout, please. Oh, hello, my name is Igor Stravinski and I'm looking for some ranch property.
+S: 110 INT. SWARTHOUT
+N: REALTY Jim Swarthout is a rugged-looking man in his forties. He sits in the den/office of his house talking on the phone, surrounded by pine-paneling, property tract maps and wall-mounted animal heads.
+C: SWARTHOUT
+D: Good, Mr. Starinski, what'd you have in mind? Uh huh. Oh are you a friend of Alan's?
+E: pause
+S: 111 INT. FLETCH'S
+N: MOTEL ROOM
+C: FLETCH
+D: No, I just heard some people at the club talking about the property you sold him, and the way it was described, three million sounded like a pretty good price. What?
+E: pause
+N: Fletch pauses again to listen, flummoxed over what he has just heard.
+C: FLETCH
+D: Are you sure? Of course. I guess I was misinformed. Listen, I'd love to come out and see you anyway. When are you available?
+E: pause
+S: 112 INT. SWARTHOUT
+N: REALTY
+C: SWARTHOUT
+D: Well, I'm about to close up shop and go out for the evening. How about first thing in the AM? Great. See you tomorrow.
+E: pause
+S: 113 INT. FLETCH'S
+N: MOTEL ROOM
+C: FLETCH
+D: Tomorrow.
+N: Fletch hangs up, very interested. 114 OMITTED
+S: 115 EXT. SWARTHOUT
+N: REALTY - NIGHT Fletch stops his car in front of the ranch-style house. A lighted sign in the yard indicate that this is indeed Swarthout Realty, but the house is dark; no one appears to be home. Somewhere in the yard a dog barks viciously, frantically. 116 DOG A killer Doberman is tied up behind a chain link fence. At the sight of the intruding Fletch, the dog's lip is practically over his nose, his fangs are poised and gleaming. 117 FLETCH
+C: FLETCH
+D: What's your name fella? Fluff? Pom-pom?
+E: getting out of his car
+N: 118 DOG completely bananas. 119 FLETCH Fletch reaches the front door and looks around. He rings the bell. The dog yowls even louder. Fletch waits. And waits. He rings again. Satisfied that no one is home, he tries the front door. Of course, it is locked. He takes out a credit card, starts to jimmy the lock, and actually seems to be making progress when his credit card snaps in half.
+C: FLETCH
+D: Sh*t.
+N: He pockets the broken credit card, steps back and looks over the house for another possible point of entry.
+S: 120 FLETCH'S POINT OF
+N: VIEW - AN UPSTAIRS WINDOW Double-hung. Slightly warped, so that the upper half does not exactly true with the lower half. 121 FLETCH looks around to see how to climb up to it. 122 MASTER There's only one way. Climb up the side of the chain link fence which separates him from the murderous dog. Fletch approaches it warily. The dog is practically foaming. Fletch reaches out a hand to get a hold of the fence, and the dog just about rips the fence apart.
+C: FLETCH
+D: Sit-tuh!
+E: in his best Barbara Woodhouse
+N: This has no effect, so Fletch backs up a few yards, take a deep breath for courage and makes a headlong running start for the fence, using his momentum to get to the top before the dog eats him. He grabs hold and scrambles wildly for the top. He makes it.
+C: FLETCH
+D: Roll over. Play dead. Good boy.
+N: Fletch now grabs hold of the eave on the side of the house, and very carefully pulls himself onto it. It's only about ten feet from there to the vulnerable window, but the angle of the eave is rather steep, and the going is treacherous. As he makes his way, he keeps a wary eye on the dog who keeps leaping up, seemingly getting closer and closer to taking a giant bite out of Fletch's backside.
+C: FLETCH
+D: You any relation to Doctor Dolan?
+N: Now he's at the window. He tries to open it, but despite it's warped appearance from the ground, it is locked. Fletch looks at the lock and can't believe it. He sighs. He shakes his head. He smashes the window with his elbow.
+C: FLETCH
+D: I hate this.
+N: He climbs into the darkened house, leaving the enraged dog to run furiously around the fenced in yard that surrounds the house.
+S: 123 INT SWARTHOUT'S
+N: HOUSE - UPSTAIRS - NIGHT Fletch tiptoes though the upstairs bedroom and down the stairs. From outside, he can still hear the dog snarling and barking.
+S: 124 INT. SWARTHOUT'S
+N: HOUSE - DOWNSTAIRS - NIGHT As Fletch passes through the living room he sees the dog snarling at him through the living room window.
+S: 125 INT. SWARTHOUT'S
+N: DEN - NIGHT Fletch enters and looks around. The dog is now outside the den window.
+C: FLETCH
+D: Make sure nobody comes in, okay?
+N: He goes to the file cabinet and opens it. He flips through the "S" section. "Stanwyk". He pulls it. He thumbs through various documents until he finds what he's looking for. A copy of a deed. He pulls it out. 125-A INSERT - DEED - CLOSE ON THE PURCHASE PRICE Three Thousand Dollars.
+C: FLETCH
+D: So much for your three million dollar ranch.
+E: O.S.
+N: 126 FLETCH takes out a tiny document camera -- the kind spies use in the movies -- and loads it fumblingly. Then he props the deed up on top of the file cabinet, and moves a lamp into position to light it. Just as he snaps his first shot, we hear a terrible crashing sound. 127 WINDOW The murderous Doberman has made a crashing leap right through the den window, sending glass flying everywhere, and he streaks across the room to rip Fletch into bite-sized shreds. 128 MASTER Fletch bolts and the dog flies into the file cabinet, knocking it over, scattering all the files over the floor. Fletch dashes for the nearest door, and runs through it just as the dog slams into it.
+S: 129 INT. KITCHEN
+N: Fletch is now holed up in the kitchen, panting to catch his breath, feeling the full course of adrenaline pumping through his terrified veins. He sees that he can get to his car by climbing through the window. But in order to get to the window he has to let go of the door, and that would allow the dog to get in. Looking around frantically, holding the door shut against the furious slamming of the dog, he reaches for and finally grabs a mop which he props under the door knob, thus keeping the door shut. Letting go of the door gingerly, he satisfies himself that the dog cannot get in, and he makes his break for the window. He vaults up onto the counter top and is just about to break the window when he sees that the dog's continued efforts are about to result in opening the door. Fletch knows he has only seconds. Standing on top of the counter, he opens the door of the restaurant-sized refrigerator next to him, and just as the snarling dog bursts into the room Fletch starts hurling food at it. A pot roast, sliced turkey with stuffing, a couple of filet mignons. The dog is momentarily distracted. Fletch pours a large bucket of cranberry sauce on the dog.
+C: FLETCH
+D: Suck on this Cujo!
+N: Then he dumps an equally large bucket of mashed potatoes. With the dog temporarily vision-impaired, Fletch bolts.
+S: 130 EXT. SWARTHOUT
+N: HOUSE - NIGHT Fletch runs as fast as humanly possible towards his car, fishing for his keys as he goes. The dog -- having shaken off the people-food from his hateful face -- is seconds behind and closing. Fletch makes it to his car, hops inside, and slams the door just as the dog leaps furiously at the windshield.
+S: 131 INT. FLETCH'S CAR
+N: Fletch makes it to his car, huffing and puffing. The dog jumps across the closed window, snarling and bug-eyed with hatred. Fletch smiles, waves at the dog, and starts taking its picture with his little camera.
+C: FLETCH
+D: Gimme a smile! There you go...oh, that's a nice one... Everything's fine, now...go take a little nap....
+E: starting the car
+N: Fletch is ready to pull out, but the dog is still leaping madly at the window. Fletch points back to the house.
+C: FLETCH
+D: Look! Defenseless babies!
+N: The dog turns to look and Fletch guns it.
+C: FLETCH
+D: That dog is such an A**hole.
+S: 132 EXT. FLETCH'S
+N: APARTMENT HOUSE - DAY Fletch parks his car halfway up on the curb, steps out carrying a small overnight bag. He is unshaven and looks beat.
+S: 133 INT. APARTMENT
+N: HOUSE - CORRIDOR Fletch comes down the hall signing "Billie Jean" is an excruciating falsetto.
+C: FLETCH
+D: 'Bil-lie, Bil-lie...'
+N: He opens the door to his apartment and is immediately thrown to the ground.
+S: 134 INT. APARTMENT
+N: Fletch is spread-eagled on the floor. Two huge Cops are over him, one holding a gun to his head, the other going through his clothes. COP #1 (feeling the inseam of Fletch's trousers) Oh, what's this?
+C: FLETCH
+D: If I took that out, you guys couldn't fit in here.
+N: COP #1 Funny boy. Look at this.... He produces a heroin bag.
+C: COP#2
+D: Looks like heroin, Gene.
+C: FLETCH
+D: You just planted that.
+N: Cop #1 kicks Fletch in the ribs.
+C: COP#2
+D: What'd you say?
+C: FLETCH
+D: Read me my rights.
+N: COP #1 Okay. You have the right to remain silent. You have the right to be kicked in the face by me. You have the rights to have your balls stomped. You have the ---
+C: FLETCH
+D: Hold it! I'll waive my rights.
+S: 135 EXT. PRECINT
+N: HOUSE Fletch is lead into the precinct house.
+S: 136 INT. PRECINT
+N: HOUSE The Sergeant at the desk checks Fletch out.
+C: SERGEANT
+D: Who we booking here, gentlemen?
+N: COP #1 No booking. Chief wants a talk with the boy.
+C: SERGEANT
+D: Oh Yeah? You'll like the Chief. Nice man.
+E: smiles at Fletch
+C: FLETCH
+D: I hear he's mellowed a lot since he came out of the closet.
+C: SERGEANT
+D: I find he gets real mellow after he hits somebody a lot.
+N: 137 DOOR TO CHIEF'S OFFICE - CHIEF'S OFFICE The cops open the door, pull Fletch inside. Chief Cummings, looking like a modern executive, looks up from his paperwork. COP #1 Here he is Chief. They roughly throw Fletch into a chair. The Chief -- seemingly oblivious to this brutality -- smiles sincerely.
+C: CUMMINGS
+D: Easy fellas. Be with you in just a second.
+E: To Fletch friendly
+N: The two Cops leave. As Chief Cummings continues with his paperwork Fletch looks around the office, which is decorated tastefully -- no guns on the wall, no American flags. On one wall there is a Matisse, and on another, various photos of the Chief with local celebrities.
+C: FLETCH
+D: You decorate this yourself or did Mrs. Chief of Police help you?
+C: CUMMINGS
+D: You should have seen what she wanted to do with the place. Mauve. So what's your name?
+E: laughs shakes his head and pushes his papers aside
+C: FLETCH
+D: Fletch.
+C: CUMMINGS
+D: Full name.
+C: FLETCH
+D: Fletch F. Fletch
+C: CUMMINGS
+D: I see. And what do you do for a living, Mr. Fletch?
+E: skeptical but patient
+C: FLETCH
+D: I'm President of the International Fletch Corporation.
+N: Cummings just stares at Fletch.
+C: CUMMINGS
+D: Why are you doing this Mr. Fletch?
+C: FLETCH
+D: Frankly sir, you look a little like my father. Probaly explains the curious feeling of love I have for you.
+C: CUMMINGS
+D: For a gentleman who was just found holding a bag full of heroin....
+C: FLETCH
+D: It was planted on me, sir.
+C: CUMMINGS
+D: We're looking at five years, maybe ten. Is that what you want...Jane Doe?
+N: He suddenly kicks Fletch's chair out from under him. Fletch falls to the floor.
+C: CUMMINGS
+D: Your editor called me yesterday to respond to allegations you're about to print about police involvement in narcotics dealing.
+N: Fletch starts to get up, but Cummings plants his foot on Fletch's chest, forces him back down.
+C: CUMMINGS
+D: I'm about to break that beach wide open, and I don't need some pennyante Woodward and Bernstein getting in the way of my men.
+C: FLETCH
+D: 'Your men' might just be involved in all this.
+C: CUMMINGS
+D: You idiot. Off the record, deep background: I've got that beach crawling with undercover cops.
+N: Cummings picks Fletch up, and holds him by the lapels.
+C: CUMMINGS
+D: If you keep nosing around, you make the bad guys just a little bit more cautious. That makes my job harder. And if you print your story this week, you might get some of my men killed. I can't let that happen, Mr. Fletch.
+N: He throws Fletch against the wall of celebrity photos, some of which fall to the floor.
+C: CUMMINGS
+D: You go back to that goddamn beach, I swear to God I'll make you regret it.
+C: FLETCH
+D: Hey, you and Tommy Lasorda. That's great.
+E: picks up a picture
+N: Fletch takes the picture and hurls it across the room. It smashes into the opposite wall and shatters.
+C: FLETCH
+D: I don't like Tommy Lasorda.
+N: and OMITTED 140 JAIL CORRIDOR Fletch is tossed into an empty cell by the two Cops who brought him in. Cummings watches. The two Cops leave, and we see that all the cells in this corridor are empty.
+C: FLETCH
+D: You can't keep me here.
+C: CUMMINGS
+D: Maybe I'm not going to keep you here. Maybe I'm gonna blow your brains out.
+E: takes out a gun
+C: FLETCH
+D: I'm no lawyer, but I do believe that's a violation of my rights.
+N: The Chief takes a knife out of his pocket, holding it with a handkerchief.
+C: CUMMINGS
+D: After I shoot you, I stick the knife in my arm, then place it in your dead hand. Self-defense. We don't do this very much anymore...but we have. Got rid of a lot of minorities that way.
+C: FLETCH
+D: My God, you're serious.
+C: CUMMINGS
+D: Ask anybody.
+C: FLETCH
+D: Can I ask anybody now?
+N: Cummings looks down the corridor. Deserted.
+C: FLETCH
+D: Can I call my Mom? I'd like to tell here how much I've always loved her.
+C: CUMMINGS
+D: What'll it be Fletch?
+E: cocks the gun
+N: Fletch looks in Cummings' eyes. They are steely and cold. He is quite serious.
+C: FLETCH
+D: I hate the beach. Wouldn't go there if you paid me. Besides, I'm way overdue on my story about off-track betting in the Himalayas. You don't think it's the mafia, do you?
+C: CUMMINGS
+D: Its been very nice meeting you. I enjoy your column.
+E: opening the cell
+N: Fletch walks out of the cell. Cummings walks with him through the empty corridor to the exit.
+C: CUMMINGS
+D: Speaking of which, you're not going to print anything before my investigation is through, are you?
+E: very chummy
+C: FLETCH
+D: Not a prayer.
+C: CUMMINGS
+D: That a boy.
+N: The emerge into the main hallway of the police station, which is filled with officers and civilians. Cummings makes a show of cordially shaking Fletch's hand as if they were old friends.
+C: CUMMINGS
+D: Thanks for coming down to see us.
+C: FLETCH
+D: Not at all, Chief. But next time...no tongue, okay?
+N: Exit Fletch. thru OMITTED
+S: 148 INT. NEWSPAPER
+N: OFFICE Fletch is railing at Frank Walker.
+C: FLETCH
+D: How could you call him?
+C: WALKER
+D: It's called journalism, Fletch. It's called getting both sides of the story. Something you apparently don't know anything about.
+C: FLETCH
+D: It's also called getting me this close to being murdered.
+C: WALKER
+D: Get out of here.
+C: FLETCH
+D: He threw me in a cell, took a gun and a knife and threatened to kill me right there if I didn't promise to give up the story.
+C: WALKER
+D: You know, I've had it up to here with your bullsh*t. I need a story from you by tomorrow.
+C: FLETCH
+D: You'll have it.
+C: WALKER
+D: But not unsubstantiated charges about dope-dealing cops, and not horse sh*t paranoid fantasies about homicidal police chiefs.
+C: FLETCH
+D: Thanks for the vote of confidence, Frank.
+E: exiting
+C: WALKER
+D: I want something I can print!
+E: calling after him
+C: FLETCH
+D: Print this Frank.
+E: giving him the finger
+N: Exit Fletch. thru OMITTED
+S: 153 EXT. RAQUET CLUB
+N: Fletch again appears in his tennis whites and walks familiarly toward the patio. Rich people are having lunch. Fletch stops the waiter.
+C: FLETCH
+D: Hi, where's Mrs. Stanwyk?
+C: WAITER
+D: In her cabana, sir.
+C: FLETCH
+D: Oh, that's right. She told me to meet her there. That's cabana six?
+C: WAITER
+D: Cabana one.
+C: FLETCH
+D: One.
+C: WAITER
+D: Would you be caring for something to eat or drink, sir?
+C: FLETCH
+D: I would, actually.
+C: WAITER
+D: Charged to the Underhills, sir?
+C: FLETCH
+D: Right. Tell you what -- have you caviar?
+C: WAITER
+D: Yes, sir. Beluga. But it is eighty dollars the portion.
+C: FLETCH
+D: I'd better only get two. How about the lobster thermidor?
+E: whistles
+C: WAITER
+D: I recommend it.
+C: FLETCH
+D: Fine. And a couple of bottles of Dom Perignon. To cabana one.
+C: WAITER
+D: Very good, sir.
+N: The waiter leaves. Fletch looks around, takes a deep breath.
+C: FLETCH
+D: This is just the nicest place.
+N: 154 OMITTED and
+S: 156 EXT. CABANA ONE
+N: A little Spanish bungalow-type affair. Old California money-style elegance. Fletch rings the bell.
+C: MRS. STANWYK
+D: Who is it?
+E: V.O.
+C: FLETCH
+D: It's John. John... Znhcneelsky.
+E: forgets name
+C: MRS. STANWYK
+D: John Ultramalensky?
+N: She opens the door, clad only in a towel. A towel is wrapped around her head. She seems surprised, but not displeased, to see Fletch. She also seems a little at a loss for words.
+C: FLETCH
+D: Hi.
+C: MRS. STANWYK
+D: Hi.
+E: finally
+C: FLETCH
+D: I was hoping you'd say that.
+N: They have just shaken hands, and Fletch notices his hand is now sopping wet.
+C: MRS. STANWYK
+D: Uh...I'm just out of the shower.
+C: FLETCH
+D: Can I borrow your towel for a minute?
+N: She laughs a nervous little laugh. There is a bit of sexual tension here.
+C: MRS. STANWYK
+D: I'm sorry, I'm just surprised to see you. I didn't think...What do you want?
+C: FLETCH
+D: I ordered lunch.
+C: MRS. STANWYK
+D: You ordered it here?
+C: FLETCH
+D: Well, I knew this is where my mouth would be.
+C: MRS. STANWYK
+D: Down boy.
+N: With a nervous glance in both directions, she lets him in and closes the door behind them.
+S: 157 INT. CABANA
+N: They stand there for a few seconds looking at each other.
+C: MRS. STANWYK
+D: I really should change.
+C: FLETCH
+D: No, I think you should stay the same wonderful person you are today.
+C: MRS. STANWYK
+D: I mean put clothes on.
+C: FLETCH
+D: Here, take mine.
+N: He starts to take off his shirt. She is amused, and responds playfully, but firmly.
+C: MRS. STANWYK
+D: Stop that!
+N: He does.
+C: MRS. STANWYK
+D: Have you gotten cuter since I last saw you?
+C: FLETCH
+D: Yes.
+N: She stands there, looking around, trying to act as if her heartbeat weren't speeding up. SFX: Knock at door.
+C: FLETCH
+D: Lunch....
+C: MRS. STANWYK
+D: God....
+N: She goes sprinting into the bathroom.
+C: FLETCH
+D: Come on in.
+N: The door opens. A second Waiter, Mexican, solemnly wheels in a cart bearing the goodies ordered by Fletch. The twin bottle of Dom Perignon juts from a silver ice bucket.
+C: WAITER
+D: You want I set up?
+C: FLETCH
+D: No thanks, I'll do it. Give yourself twenty dollars. Underhill.
+C: WAITER
+D: Muchas gracias.
+C: FLETCH
+D: Sierra del fuego.
+N: The waiter bows, leaves, shuts the door. Mrs. Stanwyk scampers back in, gazes at the cart as Fletch takes a bottle of Dom Perignon and pops the cork.
+C: MRS. STANWYK
+D: All this goes on Underhill's bill?
+C: FLETCH
+D: I saved his life during the war.
+E: offering her a glass
+C: MRS. STANWYK
+D: You were in the war?
+C: FLETCH
+D: No. He was. I got him out.
+N: She laughs and sighs, knowing she's getting into something she probaly shouldn't.
+C: MRS. STANWYK
+D: I can't believe I'm doing this. Well, lets eat.
+N: She tucks a napkin in her towel like a bib and sits at the table.
+S: 158 EXT. RAQUET CLUB
+N: - DAY The Underhills have just been handed the bill run up by Fletch.
+C: MR. UNDERHILL
+D: Four hundred bucks for lunch???
+C: WAITER
+D: Your guest, sir.
+C: MR. UNDERHILL
+D: We have no guest here today. Two bottles of Dom Perignon, hundred bucks a pop. Jesus H. Christ! Where is he?
+E: reading the bill
+C: WAITER
+D: I believe he's with Mrs. Stanwyk.
+C: MRS. UNDERHILL
+D: Gail Stanwyk. Tom, if he's with Gail Stanwyk ---
+C: MR. UNDERHILL
+D: I don't care who he's with! This is criminal.
+C: MRS. UNDERHILL
+D: Tom....
+C: MR. UNDERHILL
+D: She's where, cabana one?
+C: WAITER
+D: Yes sir.
+N: Mr Underhill stalks off.
+S: 159 INT. CABANA - DAY
+N: Fletch and Mrs. Stanwyk are having lunch. Fletch sings while he opens the champagne. She is looking at his back which is turned to her.
+C: FLETCH
+D: 'I've been so many places in my life and times. I've sung a lot of songs, I've made some bad rhymes....'
+C: MRS. STANWYK
+D: It's amazing.
+C: FLETCH
+D: 'I've acted out my life on stages, with ten thousand people watching....'
+C: MRS. STANWYK
+D: Your bone structure, shoulders, neck....
+C: FLETCH
+D: 'But we're alone now, and I'm singing this song for you.'
+C: MRS. STANWYK
+D: Just like Alan. It's freaky.
+C: FLETCH
+D: Can I ask you a question?
+C: MRS. STANWYK
+D: Depends on the question.
+C: FLETCH
+D: Are you still in love with Alan?
+C: MRS. STANWYK
+D: No. I mean, 'no you can't ask me that.' I mean, ask me something else.
+E: quickly
+C: FLETCH
+D: Why'd you let me in?
+C: MRS. STANWYK
+D: Because I'm bored. Oh, that sounds terrible, doesn't it. I'm sorry. If it makes you feel any better, I also let you in because I'm hungry.
+C: FLETCH
+D: Thanks, I feel much better. Listen, if you're so bored, why didn't you go to Utah with Alan?
+C: MRS. STANWYK
+D: Utah is not exactly a cure for boredom.
+C: FLETCH
+D: Good point.
+C: MRS. STANWYK
+D: Oh, listen to me. I've never even been there and look what I say about it. Anyway, I know there'd be nothing for me to do. I don't even know anybody there.
+C: FLETCH
+D: What about his parents?
+C: MRS. STANWYK
+D: He never sees them and I never met them.
+C: FLETCH
+D: How come?
+N: SFX: Insistent knock at door. Fletch and Mrs. Stanwyk freeze.
+C: MRS. STANWYK
+D: Yes?
+C: MR. UNDERHILL
+D: Mrs. Stanwyk, I hate to disturb you. Tom Underhill here...I'm a new member.
+E: V.O.
+N: Fletch rises.
+C: FLETCH
+D: Thanks for the great time.
+C: MRS. STANWYK
+D: What is this?
+E: sotto voice
+C: FLETCH
+D: Long story.
+C: MR. UNDERHILL
+D: Apparently, someone of your acquaintance has charged the most extraordinary lunch to my bill.
+E: V.O.
+C: MRS. STANWYK
+D: John!
+E: hissing
+N: Fletch starts pushing the lunch table towards the bathroom.
+C: MRS. STANWYK
+D: You don't know the Underhills?
+C: MR. UNDERHILL
+D: I'd appreciate an opportunity to discuss this with you.
+E: V.O.
+C: MRS. STANWYK
+D: I just stepped out of the shower! Can you give me a minute?
+C: MR. UNDERHILL
+D: Of course.
+E: V.O.
+N: Mrs. Stanwyk follows Fletch into the bathroom.
+S: 160 INT BATHROOM
+N: Fletch jams the cart into the bathroom.
+C: FLETCH
+D: Take one end.
+N: Mrs. Stanwyk lifts one side of the cart. They lift it and put it up into the bathtub. There's a window in the bathroom. Fletch opens it.
+C: FLETCH
+D: I'll be leaving now, Mrs. Stanwyk.
+C: MRS. STANWYK
+D: I think you should call me Gail, now.
+C: FLETCH
+D: Gail. I hope this won't embarrass you in any way. I think Underhill's a yutz, you won't have any trouble with him.
+C: MRS. STANWYK
+D: Why did you do it?
+N: Fletch shrugs, smiles.
+C: MRS. STANWYK
+D: A four hundred dollar lunch tab!
+C: FLETCH
+D: Yeah.
+C: MRS. STANWYK
+D: I'll cover it. You have any other surprises?
+C: FLETCH
+D: Yeah. My name's not John Ultramalensky and I wasn't at your wedding.
+E: after a beat
+N: She stares at him.
+C: MRS. STANWYK
+D: Who.
+C: FLETCH
+D: Irwin Fletcher. I write a newspaper column under the name Jane Doe.
+N: A long beat.
+C: MRS. STANWYK
+D: So?
+C: FLETCH
+D: So, your husband hired me to kill him. That's the truth.
+C: MRS. STANWYK
+D: What are you talking about?
+C: FLETCH
+D: That's what I want to know.
+S: 161 EXT. CABANA
+N: Mr. Underhill knocks again.
+C: MR. UNDERHILL
+D: Mrs. Stanwyk!
+S: 162 INT. BATHROOM
+C: MRS. STANWYK
+D: In a minute!
+C: FLETCH
+D: He told me he was dying of cancer. Not True. That ranch you thought you were paying for in Utah? Not true.
+C: MRS. STANWYK
+D: How do you know about that?
+C: FLETCH
+D: He's a bad guy, Mrs. Stanwyk. Gail. I think he's involved in something very big and very bad.
+C: MRS. STANWYK
+D: What does all this mean?
+C: FLETCH
+D: Have you ever heard the name Jim Swarthout?
+C: MRS. STANWYK
+D: Swarthout. Yes. He's the man who sold us the ranch in ---
+C: FLETCH
+D: Wrong. He sold you $3,000 worth of scrub brush.
+C: MRS. STANWYK
+D: But I've seen the deed.
+C: FLETCH
+D: You saw a forgery.
+N: He takes out his photographs.
+C: FLETCH
+D: That's the real deed.
+N: 162-A INSERT - PHOTO OF DEED It's is so fuzzy, shaky, and poorly framed that there's no way we can read the price on it.
+C: FLETCH
+D: Now, if this were at all legible, you'd believe me.
+E: O.S.
+N: 162-B MASTER Fletch shows her more of the photos.
+C: FLETCH
+D: Here's this dog that tried to eat me. Here's my motel. Here's the car I rented....
+C: MRS. STANWYK
+D: Stop it. Are you saying my husband is defrauding me?
+E: angry and concerned
+C: FLETCH
+D: I don't know. All I know is that he told me a lot of things and so far not one of them has been true.
+N: Mrs. Stanwyk stares at Fletch. She gets a little teary.
+C: FLETCH
+D: I'm really sorry I have to tell you all this.
+C: MR. UNDERHILL
+D: Mrs. Stanwyk?
+E: O.S.
+C: MRS. STANWYK
+D: Just wait, all right?!? I'm going to call my father. He'll know what ---
+E: really screams to Fletch
+N: Fletch stops her.
+C: FLETCH
+D: No. You can't. Look, I know you don't know me from Adam, but you've got to trust me.
+C: MRS. STANWYK
+D: Trust you? I may seem a little goofy at times, but I'm not a complete Bozo, you know.
+C: FLETCH
+D: Just give me twenty-four hours. Please. Someone almost killed me today. People are not being nice lately, and I don't want you getting hurt. I think you're terrific. Are you a Laker fan?
+N: Gail is now teary, confused, and scared.
+C: MRS. STANWYK
+D: No...I've got to go to Mr. Underhill....
+C: FLETCH
+D: I'll take you to a game.
+C: MRS. STANWYK
+D: What are you talking about?
+C: FLETCH
+D: I'm talking about how much I'd like to take you to a Laker game.
+C: MRS. STANWYK
+D: Wait a second. What am I supposed to do for twenty-four hours?
+C: FLETCH
+D: Act natural.
+E: climbing out window
+C: MRS. STANWYK
+D: I was afraid you'd say that.
+C: FLETCH
+D: If you need me, call the paper. Hand me that extra bottle okay?
+S: 163 EXT. CABANA
+N: Gail opens the door where Mr. Underhill has been waiting.
+C: MRS. STANWYK
+D: Sorry. Here. Thanks. Bye.
+E: grabs the bill from his hand
+N: She closes the door in his face. 164 OMITTED
+S: 165 EXT. BOYD
+N: AVIATION - PARKING LOT Alan Stanwyk crosses the parking lot and gets into his Jaguar. He starts the engine, backs out of his reserved space, and pulls out of the lot. 166 ANOTHER ANGLE - PARKING LOT Fletch is reading a copy of Sports Illustrated. He puts it down, starts his car, and pulls out of the lot. 167 SANTA MONICA BOULEVARD Stanwyk's Jaguar tools down Santa Monica Boulevard. Fletch's car follows, several discreet car lengths behind.
+S: 168 INT. JAGUAR
+N: Stanwyk checks his watch, and makes a turn. 169 MASTER Stanwyk has pulled into a service station. He gets out of his car and opens the trunk. 170 FLETCH He pulls into a fast-food joint on the west side of the street. He opens the Sports Illustrated and peers over it. 171 STANWYK He takes a gas can from the trunk, goes to the pump, fills it, and pays the attendant in cash. 172 FLETCH Curious. 173 STANWYK He puts the gas can back in the trunk, gets into the car, and starts off. 174 FLETCH follows suit. 175 SANTA MONICA BOULEVARD We are getting into the increasingly rundown section of Santa Monica. The Jaguar turns off. Hold: Several beats later, Fletch turns off. 176 OVERPASS A freeway overpass. Stanwyk stops his car. 177 FLETCH'S CAR He pulls off behind a liquor store, in view of the overpass. Fletch waits. 178 OVERPASS A second car pulls up behind Stanwyk's. A cop steps out and says something to Stanwyk. Stanwyk gets out of his car and walks over to the unmarked police car, and gets in. 178-A FLETCH takes out his binoculars.
+C: 178-B FLETCH'S POINT
+D: OF VIEW
+N: Because he's looking through the reflection of sunlight on the back window of the unmarked police car, Fletch's point of view is fuzzy, but we can just make out the form of someone else in animated conversation with Stanwyk. 178-C FLETCH A moment of possible recognition. He focuses intently.
+C: 178-D FLETCH'S POINT
+D: OF VIEW - THE OTHER MAN IN THE CAR
+N: with Stanwyk...is Police Chief Cummings. 179 FLETCH
+C: FLETCH
+D: Jesus.
+N: He starts up his car and backs out.
+T: DISSOLVE TO
+S: 180 EXT. FLETCH'S
+N: APARTMENT HOUSE Fletch pulls up to his house and stops the car.
+S: 181 INT. CAR
+N: Fletch looks around.
+S: 182 EXT. HOUSE
+N: Fletch doesn't leave the car.
+S: 183 INT. CAR
+N: Fletch sits put, drumming his fingers on the steering wheel. He just has a feeling. He starts the car up, and pulls out.
+S: 184 EXT. HOUSE
+N: Two cop cars, concealed in driveways, scream out, heading after Fletch's car.
+S: 185 INT. FLETCH'S CAR
+N: Fletch sees them in the rearview and stomps on the gas.
+C: FLETCH
+D: Should've known. Goddamn it.
+S: 186 EXT. STREETS
+N: Fletch floors it.
+C: FLETCH
+D: Great. First I'll get a speeding ticket, then they'll shoot me. Terrific.
+T: Fletch cuts through
+N: the parking lot of a drug store/dry cleaning complex. The cop cars follow suit. Shopping wagons are tossed about. He turns a corner and realizes he has a few seconds before they're on top of him again. He screeches up next to a teenager in a sports car.
+C: FLETCH
+D: All right, fella, smog check. Move over.
+N: Before the guy can say "who?", Fletch is in the guy's driver seat and tears out, hell bent for leather. 187 ENTRANCE TO FREEWAY Fletch peels off onto the Santa Monica Freeway. 188 FREEWAY Fletch hits about ninety. So do the cops. Now a motorcycle cop joins the chase. 189 OMITTED
+S: 189-A INT. SPORTS CAR
+C: TEENAGER
+D: Holy sh*t!
+C: FLETCH
+D: Sorry, youngster, but we have to see what kind of fluorocarbons this thing puts out at ninety-five.
+C: TEENAGER
+D: Holy sh*t!
+C: FLETCH
+D: Don't worry about the speed limit. That's what the police escort's for.
+S: 190 EXT. FREEWAY
+N: Indeed, behind them is a gaggle of speeding cop cars and motorcycles.
+C: TEENAGER
+D: Holy sh*t!
+E: O.S.
+T: Fletch cuts across
+N: two lanes of traffic and gets off the freeway. He loses the motorcycle cop who goes past the exit. The squad cars are thrown behind a bit, but still chase.
+S: 191 INT. SQUAD CAR
+N: COP #1 Sh*t! He'll kill us if we lose him.
+S: 191-A INT. SPORTS CAR
+N: The teenager is sweating bullets.
+C: TEENAGER
+D: Okay, okay, just stop, will you. I admit it. I stole it. I was just taking it for a little joy ride, that's all....
+C: FLETCH
+D: Holy sh*t.
+S: 191-B EXT. CAR
+N: Fletch squeals around a corner, runs a light, and booms into the parking lot of a large Holiday Inn. He's a few seconds ahead of the cops.
+C: FLETCH
+D: Okay, kid. Just stand here with your hands on the car and wait for the cops. I gotta pee. Here, take my hat.
+N: Fletch pops his hat on the kid's head, and runs off.
+S: 192 EXT. HOLIDAY INN
+N: Fletch runs into the kitchen entrance of the Holiday Inn.
+S: 193 INT. HOLIDAY INN
+N: KITCHEN Fletch picks up a case of vegetables and walks through as if he belonged there. Moments later, two cops enter. 194 THE COPS can't see him because of the crate.
+S: 195 INT. HOLIDAY INN
+N: - BANQUET ROOM A testimonial dinner is in progress. A sign on the wall reads:
+C: TRB SYSTEMS SALUTES FRED DORFMAN
+D: 40 YEARS OF SERVICE
+N: Thirty tables of conservatively dressed, older men and women are enjoying lunch. Fletch enters from the kitchen followed by several waiters and busboys. He looks over his shoulder.
+S: 196 FLETCH'S POINT OF
+N: VIEW - KITCHEN Two cops are in hot pursuit. 197 FLETCH moves into the middle of the tables as a florid fat Speaker at the dais drones on.
+C: SPEAKER
+D: ...and he can truly be called the Father of Internal Bushings.
+N: A round of applause which Fletch joins heartily, as he quickly sits in the audience at an empty seat at a table in the center.
+C: FLETCH
+D: Hello. I'm with the hotel catering. Are you enjoying your meal? Carrots overcooked?
+E: to his table
+N: Fletch looks to the kitchen entrance and sees two cops scanning the crowd. One signals to the opposite door. 198 DOOR Four more cops converge, looking for Fletch. Distant sirens indicate even more. 199 MASTER
+C: SPEAKER
+D: And now a man who needs no further introduction....
+N: The police spot Fletch and start moving forward. Fletch stands up. A spotlight swings onto him.
+C: FLETCH
+D: Thank you, Tony, thank you. As a lifelong friend of.... ...Fred Dorfman, I'm thrilled to be here.
+E: looks at banner
+N: 200 DIAS Fred Dorfman turns to the people on either side of him and whispers, obviously wondering who the hell this guy is. 201 FLETCH The cops are hesitant to move in. They wait for Fletch to finish and get out of the light.
+C: FLETCH
+D: Many of you are probably not aware of Freddie's lifelong commitment to honoring a profession that frequently goes unsung -- the police. Many times Fred used to forsake a night with his wife and children to go out an sell tickets for the Policemen's Benevolent Association.
+N: 202 POLICE look at each other, sensing a trick, and start to move in. 203 FLETCH going for broke.
+C: FLETCH
+D: Our men in blue are with us today, and I think we should all extend a shake of the hand, a slap on the back and a 'howdy' to them.
+N: 204 POLICE moving faster, but impeded by the crowd which rises and follows Fletch's suggestion. 205 FLETCH out of the crowd, still encouraging the crowd.
+C: FLETCH
+D: When was the last time you hugged a cop? Do it for my good friend Tommy Lasorda. Doesn't it feel good? Don't you wish you'd done it long ago?
+N: one cop raises his gun towards Fletch, but the crowd is too close, too busy. Fletch shakes his hand and slugs him so hard on the back that he falls over into the crowd.
+C: FLETCH
+D: Let them know how we feel, with a song. For every cop on every beat in every city of this great nation. 'For he's a jolly good fellow....' Everybody! 'For he's a jolly good fellow....'
+E: singing calls out sings
+N: The crowd sings along the rest of the verse. Fletch looks back to the kitchen entrance at the police who are swallowed in a sea of congratulations and singing. Fletch takes his time strolling out of the kitchen.
+S: 206 INT. LAX - DAY
+N: Fletch is at the Pan Am counter, talking with a reservation Clerk.
+C: CLERK
+D: Yes sir, you are confirmed on Flight 306 to Rio tomorrow evening at 11 PM. First Class.
+C: FLETCH
+D: You're kidding.
+C: CLERK
+D: Would you like me to change anything?
+C: FLETCH
+D: So he's going. Uh...are there any other tickets charged to the same account?
+E: to himself
+C: CLERK
+D: We'd have no way of knowing that, sir.
+C: FLETCH
+D: Hmm. It's just that there are some other people from my office going on this trip and...is there anyone in the seat next to me?
+N: The clerk checks the computer.
+C: CLERK
+D: Yes, there is. Cavanaugh.
+N: Fletch shakes his head. He's never heard of him.
+C: FLETCH
+D: Never heard of him. Thanks anyway.
+C: CLERK
+D: You mean her.
+C: FLETCH
+D: What?
+C: CLERK
+D: Sally Ann Cavanaugh. Oh wait, she couldn't work in your office, she's not from around here.
+C: FLETCH
+D: Oh, thanks.
+N: Fletch walks off and we follow him.
+C: CLERK
+D: She's from Utah.
+S: 207 EXT. PROVO
+N: AIRPORT - DAY as Fletch emerges from the Rent-A-Car office and drives off.
+S: 208 EXT. PROVO STREET
+N: - DAY A lower-middle-class area, one that seems to be sliding fast -- the plans are scraggly, the houses need paint. Fletch's rental pulls up over the curb onto the sidewalk. Fletch gets out, checks a piece of paper, and goes up the steps to a dark-shingled two-story house. 209 TOP OF STEPS Fletch looks at the name over the doorbell. 210 CARD written in smeared ink: "CAVANAUGH". 211 FLETCH rings the doorbell. It sounds like a fire alarm in the quiet. Nobody answers. Fletch tries the door. It opens. Fletch hums the old "Dragnet" theme.
+S: 212 INT. HOUSE
+N: still humming the theme.
+C: FLETCH
+D: 'Bom-ba-bom-bom...bommmm.'
+N: Fletch enters. 213 FLETCH's POINT OF VIEW - LIVING ROOM The shelves are bare. Furniture is in place. 214 MASTER Fletch enters the kitchen, and opens the refrigerator. Inside is a can of coffee, and some vegetables. Fletch leaves the kitchen and heads for the bedroom. We follow him as he enters the bedroom.
+S: 215 INT. BEDROOM
+N: Fletch opens the closet. It's bare. He pulls open the drawers. Nothing. Fletch gets down and looks under the bed.
+C: VOICE
+D: Who the hell are you?
+N: In his surprise, Fletch bangs his head as he starts up. 216 REVERSE At the door stands a gruff-looking Man in a red and black hunter's jacket, overalls, and a hat with earflaps. He holds a rifle.
+C: MAN
+D: Get up.
+N: 217 MASTER Fletch gets up.
+C: FLETCH
+D: The door was unlocked.
+C: MAN
+D: Lock's busted.
+C: FLETCH
+D: No wonder.
+C: MAN
+D: I work for the landlord. He told me to watch out for the place.
+C: FLETCH
+D: I commend him on his choice.
+C: MAN
+D: What?
+C: FLETCH
+D: I commend him on his choice
+N: The Man stares at him, holding the gun. He's not the brightest guy in the world, and Fletch has already caught on to that.
+C: FLETCH
+D: I was supposed to meet Mrs. Cavanaugh.
+C: MAN
+D: Who are you?
+C: FLETCH
+D: Don Corleone. I'm a cousin of Mrs. Cavanaugh's.
+N: The Man just stares at Fletch. Fletch starts to move ever so slightly, testing his freedom of movement.
+C: FLETCH
+D: Where is she?
+C: MAN
+D: Moved out.
+C: FLETCH
+D: She moved out?
+N: The Man nods and cocks the weapon. Fletch stops his tentative movements and just looks around the room
+C: FLETCH
+D: I spoke to her last week. She didn't say anything.
+C: MAN
+D: She moved out.
+C: FLETCH
+D: So you're saying she moved out.
+C: MAN
+D: This morning.
+C: FLETCH
+D: This morning? Christ. We had so much to talk about. Moe Green is out of the Tropicana, and my sons, Michael and Fredo, are taking over.
+N: The Man continues to gaze unblinkingly at Fletch, holding the rifle.
+C: MAN
+D: What did you want under the bed?
+C: FLETCH
+D: Mattress police. There are no tags on the mattress. I'm going to have to take you downtown. Please give me your weapon.
+C: MAN
+D: I'm calling the cops. This is for the cops.
+C: FLETCH
+D: I'm her cousin.
+C: MAN
+D: Tell the cops.
+C: FLETCH
+D: Go ahead. Call them. Better tie your shoelaces first.
+N: The man looks down at his shoelaces. Fletch kicks the gun out of his hand and runs through the house.
+S: 218 EXT. HOUSE
+N: Fletch runs out of the house and jumps into his car.
+S: 219 INT. CAR
+N: Fletch pulls out. The rear window is suddenly blown away.
+C: FLETCH
+D: I'm getting real tired of all this hostility.
+S: 220 EXT. PROVO PIG
+N: FARM Fletch pulls up, gets out of the car and addresses the couple sitting on the porch of the house.
+C: FLETCH
+D: Evening. They oughta recall these things. One bump,the whole window goes.
+E: nods toward car
+N: 221 PORCH Sitting on the porch is a couple in their late sixties, whom we are about to learn are Alan Stanwyk's parents -- Marvin and Velma.
+C: FLETCH
+D: Are you Mr. Marvin Stanwyk?
+E: approaching the steps
+N: Marvin nods
+C: FLETCH
+D: I'm Harry S. Truman from Casewell Insurance Underwriters.
+C: MARVIN
+D: Harry S. Truman?
+E: smiles
+C: FLETCH
+D: My parents were great fans of the former President.
+C: MARVIN
+D: Isn't that nice. Good man. Showed the Japs a thing or two.
+C: FLETCH
+D: Sure did. Dropped the big one on them.
+C: MARVIN
+D: Dropped two big ones. Real fighter. You're in the insurance line, Harry?
+C: FLETCH
+D: Right.
+C: MARVIN
+D: Well, I'm fully covered.
+C: FLETCH
+D: I don't doubt it, Mr. Stanwyk. Actually, my company is the sub-insurer of the subsidiary carriers of a policy held by Alan Stanwyk, who I believe is your son.
+C: MARVIN
+D: Yes. Where you from, Harry?
+C: FLETCH
+D: California. San Berdoo. Utah's part of my route. Can I ask you a few questions?
+C: MARVIN
+D: Come on in.
+S: 222 INT. MARVIN AND
+N: VELMA'S LIVING ROOM Fletch and the Stanwyks face each other on couches that flank the fireplace. Fletch has a clipboard on which he will take notes.
+C: FLETCH
+D: First, a couple of routine things: are you and you wife currently alive?
+N: Marvin just stares at him.
+C: FLETCH
+D: Regulations, Mr. Stanwyk. And you and your wife, named....
+C: MARVIN
+D: Velma.
+N: Velma smiles.
+C: FLETCH
+D: Velma. You and Velma are the parents of Alan Stanwyk, Beverly Hills, California, executive vice president of Boyd Aviation?
+C: MARVIN
+D: Check.
+C: FLETCH
+D: Okay. Now, the last time you saw your son was when?
+E: makes notation
+C: MARVIN
+D: Oh, about ten days ago.
+N: Fletch is taken aback.
+C: FLETCH
+D: Ten days ago?
+C: MARVIN
+D: That's right. Alan comes by every three weeks or so.
+N: This is all news to Fletch, but he covers his surprise.
+C: FLETCH
+D: Isn't that nice. Since when?
+C: MARVIN
+D: Since he moved to L.A.
+N: Fletch is very interested in all this.
+C: FLETCH
+D: Forgive me now for seeming personal, but we understand that there is a lady friend he sees here in Provo.
+C: MARVIN
+D: What the hell does this have to do with insurance?
+C: FLETCH
+D: Trust me, sir. It's a comprehensive policy.
+C: MARVIN
+D: Well, you can forget about that lady friend business, Alan's the most loyal husband a girl could have. He dotes on that bride of his.
+C: VELMA
+D: Cute young thing, too.
+C: FLETCH
+D: I'm sorry?
+C: VELMA
+D: His bride. Cute as a button.
+C: FLETCH
+D: You've met her?
+C: MARVIN
+D: Well, of course we have. He brings her with him.
+N: Fletch is getting very puzzled and very concerned about all this.
+C: FLETCH
+D: Has Alan ever mentioned the name Sally Ann Cavanaugh?
+N: Marvin and Velma exchange the oddest of glances between them.
+C: FLETCH
+D: Has he?
+C: MARVIN
+D: Boy, what the hell's the matter with you?
+C: FLETCH
+D: Then he has.
+C: MARVIN
+D: Course he has. That's his wife.
+N: You could knock Fletch over with a straw. Again, he quickly recovers.
+C: FLETCH
+D: Of course, his wife's name is Sally Ann Cavanaugh?
+C: VELMA
+D: Cute thing.
+C: FLETCH
+D: Do you happen to have a picture of Alan and his wife?
+E: starting to sweat a little
+C: VELMA
+D: Oh, we've got lots of pictures. Let me show you some.
+N: Velma rummages through a family album on a side table as Fletch tried to sort all this out in his mind. She brings a photo over to him. He looks at it. 223 INSERT - PHOTO It's a wedding photo of Alan and a woman we have not seen. She is brunette and quite unlike Gail. Alan wears a similar sh*t-eating grin, and makes a similar thumbs-up gesture to the wedding photo with Gail that Fletch saw in Boyd's office. 224 FLETCH He sighs.
+C: FLETCH
+D: And they're still married...Alan and Sally Ann.
+C: MARVIN
+D: Of course they are.
+C: VELMA
+D: She's cute as a button.
+C: FLETCH
+D: How long have they been married?
+C: MARVIN
+D: Lets see, it was before he moved to L.A...four years April.
+C: FLETCH
+D: Mrs. Stanwyk, may I borrow this picture. I promise to send it back to you. It's routine, really. The actuarial people need to ---
+C: VELMA
+D: Oh, that's all right, I've got lots more. Want to see the reception?
+C: FLETCH
+D: No, thank you.
+E: rising
+C: VELMA
+D: How about Marvin's sixty-fifth birthday party?
+N: Exit Fletch.
+S: 225 INT. PROVO MOTEL
+N: ROOM Fletch is on the phone.
+C: FLETCH
+D: Frank told you that?
+S: 226 INT. NEWSROOM -
+N: MORGUE Larry is on the phone.
+C: LARRY
+D: I overheard it. He thinks you're completely out of control, he said he was gonna can you as soon as he got the story. If I were you, I'd just chuck it, Fletch. Screw him. Let him eat three full pages on Sunday.
+N: 227 MOTEL ROOM
+C: FLETCH
+D: You kidding? I got an unbelievable story here, Lar. Un-believable. Jesus. It's the cops, I know it. The Chief! And they're all over Frank.
+N: 228 MORGUE
+C: LARRY
+D: I just thought...sure. Sally Ann Cavanaugh.
+E: takes out pad and starts writing
+N: 229 MOTEL ROOM
+C: FLETCH
+D: Check every hotel in L.A. Start with the ones near the airport. Yeah. He's about to leave the country with her. Thanks, Lar.
+S: 230 INT. MOTEL
+N: BATHROOM - LATER Fletch is in the shower, lipsynching to the radio. Elvis is singing, "All Shook Up."
+C: FLETCH
+D: 'welluh bless my soul whatsuh wrong with me? I'ma itchin' like a man Inuh fuzzy tree....'
+N: The phone rings. Fletch gets out, throws on a towel and picks up a phone mounted over the crapper.
+C: FLETCH
+D: Yeah...No kidding. The Marriott at LAX. Sonofabitch...Checked in this morning. Great. Thanks a million. And call Gail Stanwyk at the Racquet Club. Tell her I have to meet her tonight. Eight o'clock at the club. Urgent and confidential. Thanks.
+S: 231 INT. PLANE -
+N: NIGHT Fletch is sitting in a semi-deserted flight on his way back home. He is hunched over an airline meal, eating with his right hand and turning in his mini recorder with his left.
+C: FLETCH
+D: Question:
+N: But as he pushed the button down, the tape pops out. He fumbles it back in, and then pushes another button.
+C: FLETCH
+D: Question....
+C: TAPE RECORDER
+D: Day three on the beach. Fat Sam still hasn't moved, and ---
+E: Fletch's voice playing back
+C: FLETCH
+D: What's wrong with my life?
+E: stopping the machine
+N: He starts it right this time.
+C: FLETCH
+D: Question: Why does a man marry a millionaire's daughter in Beverly Hills if he is already married to a girl who lives in a crappy one bedroom apartment in Utah? Answer: Three million dollars. Big Question: What's with Stanwyk and Cummings? I don't know. Bigger Question: Why does Stanwyk want me to kill him?
+N: He takes a spoonful of airline food, chewing meditatively.
+C: FLETCH
+D: Biggest Question: Why do I eat this sh*t? Miss, I believe this has already been eaten.
+E: continuing to passing stewardess
+S: 232 EXT. MRS.
+N: STANWYK'S CABANA - NIGHT Fletch knocks on the door, and a tensely white-faced Mrs. Stanwyk quickly lets him in and shuts the door behind him.
+C: MRS. STANWYK
+D: I want you to know that dramatic phone calls about secret meetings scare the sh*t out of me.
+N: He can sense she is unusually upset.
+C: FLETCH
+D: What's wrong, Gail?
+C: MRS. STANWYK
+D: I decided I was going to tell my husband about you today.
+C: FLETCH
+D: No.
+C: MRS. STANWYK
+D: But first I called the Hall of Records in Provo. They checked on the deed. You're telling the truth. A minute later Alan came in the room and asked me why I was shaking.
+N: Fletch waits anxiously to hear if she told Alan about him.
+C: MRS. STANWYK
+D: So I told him...I told him I was just cold or something.
+N: Fletch sighs with relief.
+C: MRS. STANWYK
+D: I've never lied to him before. It's the first time he's ever lied to me. He was just as convincing as when he says 'I love you.'
+E: chokes back a sob
+C: FLETCH
+D: I think you better sit down.
+C: MRS. STANWYK
+D: Oh God, I hate things that start like that....
+C: FLETCH
+D: Gail, please.
+N: She sits in a chair. he hands her the wedding photo.
+C: FLETCH
+D: I got this from Alan's parents. By the way, they see him all the time.
+N: First she looks at Fletch with puzzlement. Then, she looks at the photo and can't seem to decide what to think of it. But she knows it's bad.
+C: MRS. STANWYK
+D: What is this....
+C: FLETCH
+D: I checked. There was no divorce.
+C: MRS. STANWYK
+D: Are you telling me my husband is a bigamist???
+C: FLETCH
+D: I'm telling you he's not your husband at all.
+N: She is stunned.
+C: FLETCH
+D: And they're leaving the country tomorrow night.
+C: MRS. STANWYK
+D: Bastard.
+E: rocked
+C: FLETCH
+D: I don't have all the pieces yet, but I'm close. I'll know tomorrow.
+C: MRS. STANWYK
+D: I'm calling the police. Right now.
+C: FLETCH
+D: You cant do that.
+C: MRS. STANWYK
+D: Don't tell me I can't ---
+C: FLETCH
+D: They're trying to kill me!
+N: She is taken aback by that, but there is a determination in her eyes.
+C: MRS. STANWYK
+D: Your twenty-four hours are up, Fletch.
+N: She starts for the phone, but he stops her.
+C: FLETCH
+D: You're going to have to trust me, Gail. You have to. Now listen to me: he's expecting you to go to your meeting tomorrow night. Do it. Stay out of the house.
+N: There is a long beat.
+C: MRS. STANWYK
+D: I'm terrified.
+C: FLETCH
+D: Come here.
+N: He puts his arms around her and holds her tight against him. After a few seconds she raises her head and turns the hug into a kiss. Then the kiss turns passionate.
+T: DISSOLVE TO
+N: 233 FRISBEE sails across the surf.
+S: 234 EXT. BEACH - DAY
+N: - WIDER The usual scene-- a mix of teeny-boppers, junkies and surfers. Into the f.g. step a couple of "surfers." They're wearing wet suits and carrying surfboards, but they're obviously cops. They sit down. Across the beach, a Sufi, dressed in a turban and flowing garments, crosses the sand.
+C: SURFER COP
+D: A Sufi junkie.
+N: The cops laugh derisively and turn their attention else-where. 235 CLOSER ON SUFI It's Fletch. he's got a beard pasted on, and nervously scans the beach.
+S: 236 FLETCH'S POINT OF
+N: VIEW - GUMMY is seated on a towel. 237 MASTER Fletch sits near, but not next to, Gummy.
+C: FLETCH
+D: Gum?
+N: Gummy looks around.
+C: FLETCH
+D: I'm the Sufi.
+C: GUMMY
+D: Fletch?
+C: FLETCH
+D: Don't call me Fletch. Don't look at me. Lie back down. We'll talk.
+C: GUMMY
+D: What?
+C: FLETCH
+D: Cops are here. I can smell them. They're after me. Lie down, Gum.
+N: Gummy lies back down.
+C: GUMMY
+D: Why are they after you?
+C: FLETCH
+D: Because I'm a newspaper reporter and I'm nailing Chief Cummings as the source for drugs on the beach. You're in big trouble, Gummy.
+N: Gummy sits up.
+C: FLETCH
+D: Sit back down.
+N: Gummy lies down again.
+C: FLETCH
+D: Fat Sam is turning state's evidence.
+C: GUMMY
+D: What's that?
+C: FLETCH
+D: He wrote me a nice deposition. He says he just received the drugs. You did the selling.
+C: GUMMY
+D: I didn't sell nothing! I didn't sell nothing! I just carried the drugs from the Chief to Sam.
+C: FLETCH
+D: Sure you did.
+C: GUMMY
+D: Fletch, I never sold nothing.
+C: FLETCH
+D: Twenty years.
+N: Fletch gets up and adjusts his flowing robes.
+C: FLETCH
+D: Can't do a thing with this robe. One more question, Gum...don't look at me.
+N: Gummy lies back down.
+C: FLETCH
+D: Where does the Chief get the drugs?
+C: GUMMY
+D: I dunno. Somewhere in South America, I forget.
+C: FLETCH
+D: Rio de Janeiro, maybe?
+C: GUMMY
+D: Maybe, Fletch. Is that Brazil?
+C: FLETCH
+D: That's Brazil.
+C: GUMMY
+D: Yeah. Maybe.
+C: FLETCH
+D: Wait here for me, Gummy.
+N: Gummy looks questioningly at him.
+C: FLETCH
+D: It's the only way you'll be safe. Believe me.
+N: Fletch crosses the sand, heads for "Fat Sam's". 238 "FAT SAM'S" Sam is reading the National Review. He looks up, sees Fletch approaching, and grins.
+C: FAT SAM
+D: Jesus.
+C: FLETCH
+D: You don't know me.
+C: FAT SAM
+D: My pleasure.
+E: smiling
+C: FLETCH
+D: I'm serious, Sam.
+C: FAT SAM
+D: What, the heat here?
+C: FLETCH
+D: Affirmative.
+C: FAT SAM
+D: The two surfer boys?
+C: FLETCH
+D: Affirmative.
+C: FAT SAM
+D: Thought so. What for?
+C: FLETCH
+D: For me. I'm a reporter, Sam. I'm breaking the drug story and I got the chief red-handed. Gummy game me a deposition.
+C: FAT SAM
+D: You gonna nail the chief?
+E: smiles
+C: FLETCH
+D: I'm gonna nail the chief. And you can help or ---
+C: FAT SAM
+D: Oh, I'll help, Fletch. I'm a slave to that sonofabitch. He busted me, third offense, gave me a choice: Work for him or do fifteen long. All I get out of this is free snort.
+C: FLETCH
+D: You don't have a piece of the action?
+C: FAT SAM
+D: Noooo. Free snort. That's it.
+C: FLETCH
+D: Wait five minutes, and go to my office. You'll get federal protection after that.
+E: hands him a card
+C: FAT SAM
+D: Gonna need it. That boy is dangerous. Fletch?
+C: FLETCH
+D: What?
+C: FAT SAM
+D: You find the source?
+C: FLETCH
+D: Gum thought Brazil.
+C: FAT SAM
+D: Rio. Know how he gets it in the country? Some big shot airline executive flies it in on company jets. Very impressive operation, Fletch. Very impressive.
+N: and OMITTED
+S: 241 INT. NEWSPAPER -
+N: CITY ROOM Fletch parades through the city room, still in his Sufi getup. He takes off the beard and heads for Frank Walker's office. Fat Sam and Gummy, looking like fish out of water, follow him. 242 WALKER'S OFFICE Fletch marches in with Sam and Gummy. Walker gawks at him.
+C: WALKER
+D: Fletch....
+N: Fletch takes off the turban.
+C: FLETCH
+D: I'm quitting, Frank. As of midnight tonight.
+C: WALKER
+D: What? Who the hell are they?
+E: stares at Fat Sam and Gummy
+C: FLETCH
+D: This is Fat Sam, and this is Gummy.
+E: hands two sheets of paper to Walker
+C: WALKER
+D: What....
+C: FLETCH
+D: Their statements, naming Chief Cummings as the numero uno drug pusher from here to Oxnard. I want them to have federal protection under the paper's sponsorship.
+N: Walker just stares at the sheets.
+C: WALKER
+D: Jesus H. Christ. Fletch, this is the greatest.
+E: smiles
+C: FAT SAM
+D: He's some reporter, this guy.
+C: FLETCH
+D: I'm out, Frank. You lost faith in me.
+C: WALKER
+D: Fletch, I got nervous. Please....
+C: FLETCH
+D: Forget it.
+N: Fletch takes off his robe and drops it to the floor. Beneath the robes he's wearing cutoffs and a Bob McAdoo t-shirt.
+C: FLETCH
+D: I'm going to write the story. Just hold the last couple of paragraphs till ten o'clock tonight.
+N: Fletch leaves the office.
+C: FLETCH
+D: Make yourselves comfortable, guys, but don't leave the office.
+E: to Fat Sam and Gummy
+N: 243 CORRIDOR Fletch heads for his office. Walker follows.
+C: WALKER
+D: Fletch!
+N: Fletch doesn't answer. 244 FLETCH'S OFFICE Fletch enters the office and kicks his door closed. Walker opens it.
+C: WALKER
+D: Fletch, you want an apology?
+C: FLETCH
+D: You were going to can me, right?
+C: WALKER
+D: Not really.
+E: fumbles
+C: FLETCH
+D: Not really?
+C: WALKER
+D: I was upset.
+C: FLETCH
+D: I'm sick of this place. I'm going to try out for the Lakers. They need a power forward.
+C: WALKER
+D: Fletch.
+N: Fletch sits down and turns on his word processor, ignoring Walker.
+S: 245 EXT. STANWYK
+N: HOUSE - NIGHT Fletch parks his Olds halfway up on the sidewalk, and gets out. He climbs over the gates of the Stanwyk home, and drops down inside. He lands on the grass, trots around the shrubbery, heads toward the garage, and checks his watch. 246 WATCH It's five minutes before eight.
+S: 247 INT. STANWYK'S
+N: GARAGE The jaguar is parked just where it is supposed to be, and the key is in the ignition. Fletch thinks for a moment and looks around. He sees a pile of torn rags on the ground. He removes the key from the ignition and opens the trunk.
+S: 248 INT. TRUNK.
+N: Six large gasoline cans and more rags. 249 FLETCH Another piece of the puzzle fits in place.
+S: 250 EXT. HOUSE
+N: Fletch reaches the rear of the house. He peers inside.
+S: 251 FLETCH'S POINT OF
+N: VIEW - STANWYK is in the library, sitting patiently at his desk. 252 FLETCH approaches the French doors and enters. and OMITTED
+S: 255 INT. LIBRARY
+N: Alan rises from his desk to greet him. His hair is combed like Fletch's. We can see that beneath his sports jacket he is wearing a Magic Johnson t-shirt and jeans.
+C: MR. STANWYK
+D: Good evening.
+C: FLETCH
+D: I like your outfit. You got the fifty grand and the plane ticket?
+C: MR. STANWYK
+D: Of course.
+N: Stanwyk nods toward a small briefcase in the corner. Fletch eyes it quickly, and just as quickly looks back at Stanwyk who just stands there by his desk.
+C: MR. STANWYK
+D: Why don't you check it out for yourself, Mr. Nugent?
+C: FLETCH
+D: Because I trust you, Alan. By the way, the name's Fletcher. I.M. Fletcher. I write a newspaper column under the name Jane Doe.
+E: smiles
+C: MR. STANWYK
+D: What?
+N: Fletch holds out an envelope.
+C: FLETCH
+D: Read this, please.
+C: MR. STANWYK
+D: Wait a second ---
+C: FLETCH
+D: Cut the crap and read it.
+N: Stanwyk unfolds the paper.
+C: FLETCH
+D: Unless my people hear differently, this letter goes out at midnight.
+E: continuing
+N: 256 INSERT LETTER We see that it is addressed to:
+C: JOHN BOYD CHAIRMAN OF THE BOARD
+D: BOYD AVIATION
+N: 257 STANWYK
+C: MR. STANYK
+D: 'Dear Sir: Alan Stanwyk murdered me tonight. The charred remains found by the police in the Jaguar are mine, not his. Mr. Stanwyk, using my name and passport, boarded Pan Am Flight 306 for Rio, where he intends to establish residence with ---'
+E: reading
+N: He stares at Fletch. 258 FLETCH He is lifting Stanwyk's two attaché cases.
+C: FLETCH
+D: Pretty hefty. Keep reading.
+N: 259 STANWYK
+C: MR. STANWYK
+D: '...with his legal wife, the former Sally Ann Cavanaugh.'
+E: reading
+N: Stanwyk stops. He's stunned, and not about to read anymore of this.
+C: GAIL'S VOICE
+D: Keep reading, Alan.
+E: O.S.
+N: Stanwyk spins to the doorway. 259-A GAIL STANWYK standing in the doorway.
+C: MRS. STANWYK
+D: Don't worry, I can take it.
+N: 260 MASTER
+C: FLETCH
+D: You shouldn't be here.
+C: MRS. STANWYK
+D: I want to hear this.
+N: Fletch takes the letter from Alan.
+C: FLETCH
+D: He doesn't read my stuff well. 'Sally Ann and Alan were married four years ago and never divorced, making Stanwyk a bigamist even in Utah. Stanwyk is also traveling with three million dollars in cash, the result of Gail Stanwyk's conversion of Boyd Aviation stock. Mrs. Stanwyk believed the money was to be used to purchase property in Utah, but it wasn't; a fact that can be confirmed by realtor James Swarthout of Provo.' That was stupid, Alan.
+E: reads aside
+C: MR. STANWYK
+D: I'd have been long gone.
+C: FLETCH
+D: Ahem. 'Sally Ann can confirm all this when the police pick her up at the Airport Marriott.'
+E: continues reading
+N: Mr. Stanwyk blanches. Fletch continues.
+C: FLETCH
+D: 'By the way, Alan is a very big drug smuggler, but you can read all about that in tomorrow's paper. Sincerely yours, I.M. Fletcher. P.S. Have a nice day.'
+N: Alan mulls over all this for a few seconds, then smiles wistfully.
+C: MR. STANWYK
+D: Bravo, Mr. Fletcher.
+C: FLETCH
+D: The thing that really tipped it off for me was something your wife said to me while we were in bed together.
+N: Stanwyk shoots a surprised look at Gail. She returns it with an innocent shrug.
+C: MR. STANWYK
+D: And what was that?
+E: to Fletch
+C: FLETCH
+D: How similar in build you and I are. then I figured it. You bump me off, throw me in the car, and burn me up.
+C: MRS. STANWYK
+D: My God, Alan, you really are and a**hole, aren't you?
+N: Now it is Alan's turn to shrug innocently.
+C: MR. STANWYK
+D: Sorry, darling.
+C: MRS. STANWYK
+D: You sonofabitch.
+C: MR. STANWYK
+D: Yes, I suppose I am. But I'm not a stupid sonofabitch.
+N: Mr. Stanwyk reaches into his desk and pulls out his gun, and levels it at Fletch.
+C: MR. STANWYK
+D: I was already prepared to commit one murder. What makes you think I won't commit two?
+C: FLETCH
+D: Whoops.
+C: MRS. STANWYK
+D: 'Whoops?' What do you mean 'whoops?' Don't say 'whoops.'
+E: her bravado deflated
+C: MR. STANWYK
+D: I mean, by the time your story gets published, I'll be on the beach. I understand extradition from Rio is very complicated. I'll bet for two murders it's even more so.
+C: FLETCH
+D: That is a lighter, isn't it?
+N: Just then, the French doors swing open, and Chief Cummings enters.
+C: CUMMINGS
+D: Greetings, everyone.
+C: FLETCH
+D: Thank God, the police.
+E: dryly
+C: MR. STANWYK
+D: What the hell are you doing here?
+C: CUMMINGS
+D: Put the gun down, Alan. I'll take care of them.
+N: Stanwyk lowers the gun.
+C: MRS. STANWYK
+D: I thought you had this all figured out. Good going 'Irwin.'
+E: to Fletch
+C: FLETCH
+D: Don't ever call me 'Irwin,' okay?
+C: MRS. STANWYK
+D: I've got it all under control, Jerry. You can go now.
+E: to Cummings
+C: CUMMINGS
+D: Under control? You idiot. You didn't know who he was?
+E: laughs
+N: During the following dialogues, Fletch starts nudging the fireplace's gas lighter jet key with his foot.
+C: CUMMINGS
+D: Fat Sam left the beach today. So did Gummy. It began to occur to me that some things are beginning to happen that maybe I should be aware of.
+C: MR. STANWYK
+D: I said I'll take care of it. Now, a man of your position shouldn't be a part of what's about to go down. So go home and I'll call you tomorrow.
+C: CUMMINGS
+D: What, 'long distance?' I couldn't help but hear you say something about Rio, Alan. You're not leaving with the eight hundred thousand dollars I staked you for the next load, are you?
+C: FLETCH
+D: Whoa. Well, you two obviously have a lot to talk over, so we'll go catch the last ten minutes of Dynasty.
+N: Fletch and Gail actually start to leave, but Cummings draws his gun and fires over their heads. They dive for the floor, landing on the side of the fireplace. Fletch palms a Zippo lighter from his pocket.
+C: MR. STANWYK
+D: Jerry, you're simply going to have to trust me. I've got a foolproof way to get rid of this guy and now you're jeopardizing everything.
+C: CUMMINGS
+D: Your 'foolproof' way is going to land my a** on the front page while you're basking in Rio.
+C: FLETCH
+D: ...with your money.
+N: Cummings turns his head momentarily to consider what Fletch has said, and Stanwyk takes advantage of the distraction to go for his gun. But he is too slow. Cummings shoots once, striking Stanwyk in the chest, killing him instantly. Gail screams in horror. Cummings turns to Fletch.
+C: CUMMINGS
+D: This one's going to be even more fun.
+C: FLETCH
+D: Go ahead. Make my evening.
+E: striking the Zippo
+N: Fletch hurls the lighter into the fireplace, causing a great whoosh of flames. Cummings throws his hands up in front of his face and Fletch leaps at him, wrestling him to the ground. Cummings is the stronger of the two, and just as he starts to gain dominance over Fletch, Gail Stanwyk staggers to her feet, picks up her husband's tennis racket in it's wooden brace, and slams it against Cummings' head with all her might. The Chief is knocked out. Fletch lies there, panting, trying to catch his breath. He looks up at Gail, still holding the racket, and staring at Alan's body. Fletch hustles her out of the room. 260-A HALLWAY
+C: FLETCH
+D: I'm calling the police. Then I'm leaving. You wait here for them.
+C: GAIL
+D: Where are you going?
+C: FLETCH
+D: Away. I think it might take you a while to get your life back together. You don't need me around. Don't go back in there.
+E: indicates the library
+N: He starts to leave. She calls after him.
+C: GAIL
+D: I really creamed the sonofabitch, didn't I?
+E: still holding the racket
+C: FLETCH
+D: You sure did.
+E: smiles
+N: Fletch exits.
+T: DISSOLVE TO
+S: 261 EXT. RIO DE
+N: JANEIRO - DAY With Sugarloaf Mountain in the b.g., Fletch lies in a lounge chair, sipping an exotic drink, watching the cavorting lovelies and playing his battered Casio. This is obviously at some very expensive beach club or hotel, as witnessed by the uniformed servant who brings a telephone.
+C: WAITER
+D: Your call is come through.
+E: Brazilian accent
+C: FLETCH
+D: Far out. Larry? It's Fletch. Well, it's not 'Fat Sam's', but...any port in a storm. Oh, tell Frank I need a couple of months. The fifty grand's lasting longer than I thought.
+E: to the phone pause, looks around pause
+N: He pauses again to listen to Larry, but sees something O.S. that takes over his attention. he doesn't wait for Larry to finish what she's saying.
+C: FLETCH
+D: I gotta go, Lar.
+N: He hangs up and stands. We see that Gail has just walked up to him. The way they look at each other indicates they have not seen each other for awhile, and her arrival is a surprise to Fletch.
+C: GAIL
+D: John Ultramalensky, right?
+C: FLETCH
+D: Right.
+C: GAIL
+D: God, I haven't seen you since the wedding.
+C: FLETCH
+D: Gee, I must have been sh*t-faced at your wedding, I don't ---
+C: GAIL
+D: Not mine, stupid. Yours.
+C: FLETCH
+D: What are you doing here?
+E: big smile
+N: They start walking down the beach. We stay right with them.
+C: GAIL
+D: I couldn't sit home and play the mournful widow anymore, and the police didn't need me, so I tried watching a Lakers game on TV, but the announcer talked to fast and I couldn't understand a lot of what was happening, so I figured if I came down here maybe you could explain the rules to me, and besides, I missed you.
+C: FLETCH
+D: No problem.
+N: He puts his arm around her, as we watch them leave us behind and walk off down the beach.
+C: FLETCH
+D: Basketball, of course, was invented in France, and is played with a large ball, two tongue depressors and a fish....
+N: Fletch ad-libs just like Chevy Chase would as they walk further away down the beach until we....
+T: FADE OUT
+N: THE END

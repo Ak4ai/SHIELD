@@ -1,0 +1,2102 @@
+M: "AFFLICTION"
+M: Screenplay by
+M: Paul Schrader
+M: Based on a novel by
+M: Russell Banks
+M: SHOOTING DRAFT
+M: CREDITS
+N: Still-life tableaus. Lawford, N.H., a town of fifty buildings on a glacial ridge, neither mountain nor plateau. Developed as 1880's forestland, discarded in the Depression. Winter has set in. Halloween day. Snowy fields yield to overcast skies: oppressive, horizonless, flourescent. -- Wickham's Restaurant. Where Route 29 bends. 24-hour diner. Margie Fogg works here. -- Trailer park in shadow of Parker Mountain. Home of Wade Whitehouse. -- Toby's Inn. Roadhouse three miles from town on the river side of Route 29. Everything not tied down ends up here. -- Glen Whitehouse farm. White clapboard. -- First Congregational Church. North on the Common from City Hall. -- LaRiviere Co. Ramshackle well-digging firm embarrassingly near the town center. Wade works here. -- Merritt's Shell Station. Cinder-block. -- Alma Pittman's house. Like so many others. -- Town Hall. ROLFE WHITEHOUSE'S VOICE, thirtiesh, articulate, speaks over credit tableaus:
+C: ROLFE
+D: This is the story of my older brother's strange criminal behavior and disappearance. We who loved him no longer speak of Wade. It's as if he never existed. By telling his story like this, as his brother, I separate myself from his family and those who loved him. Everything of importance -- that is, everything that gives rise to the telling of this story -- occurred during a single deer-hunting season in a small town in upstate New Hampshire where Wade was raised and so was I. One night something changed and my relation to Wade's story was different from what it had been since childhood. I mark this change by Wade's tone of voice during a phone call two nights after Halloween. Something I had not heard before. Let us imagine that around eight o'clock on Halloween Eve, speeding past Toby's, Route 29, comes a pale green eight-year-old Ford Fairlane with a police bubble on top. A square-faced man wearing a trooper's cap is driving the vehicle. Beside him sits a child, a little girl with a plastic tiger mask covering her face. The man is driving fast --
+E: V.O.
+N: -- Route 29 tableau dissolves to night. A pale green police Ford Fairlane drives past. END CREDITS
+S: INT./EXT. POLICE CAR - NIGHT
+N: WADE WHITEHOUSE, driving, sits beside JILL, his daughter, ten years-old, wearing a black-and-yellow tiger plastic mask.
+C: WADE
+D: I'm sorry for the screw-up. But I couldn't help it it's too late to go trick-or-treating now. I couldn't help it I had to stop at Penny's for the costume. And you were hungry, remember.
+C: JILL
+D: Who's fault is it then if it's not yours? You're the one in charge, Daddy.
+C: WADE
+D: Yeah.
+E: shakes cigarette from pack
+C: JILL
+D: Look. Those kids are still trick-or- treating. They're still out.
+N: Wade watches boys in the headlights, lights cigarette.
+C: WADE
+D: Those are the Hoyts.
+C: JILL
+D: I don't care. They're out.
+C: WADE
+D: Can't you see... look out there. Nobody's got their porch lights on anymore. It's too late. Those Hoyt kids are just out to get in trouble. See, they put shaving cream all over that mailbox there. They chopped down Herb Crane's new bushes. Little bastards. Jesus H. Christ.
+N: Wade grimaces, holds his jaw. The Fairlane swerves around broken pumpkins under a caution light.
+C: JILL
+D: Why do they do that?
+C: WADE
+D: Do what?
+C: JILL
+D: You know.
+C: WADE
+D: Break stuff?
+C: JILL
+D: Yeah. It's stupid.
+C: WADE
+D: I guess they're stupid.
+C: JILL
+D: Did you do that when you were a kid?
+C: WADE
+D: Well, yeah. Sort of. Nothing really mean. Me and my pals, me and my brothers. It was kind of funny then. Stealing pumpkins, soaping windows. Stuff like that.
+C: JILL
+D: Was it funny?
+C: WADE
+D: To us it was.
+C: JILL
+D: But it's not funny now.
+C: WADE
+D: It's not funny now. I'm a cop and I gotta listen to all the complaints people make. I'm not a kid anymore. You change.
+C: JILL
+D: I bet you did lots of bad things.
+C: WADE
+D: What are you talking about?
+C: JILL
+D: I just think you used to be bad.
+C: WADE
+D: No. I didn't used to be bad. No sir. Where do you get this stuff? From your mother?
+C: JILL
+D: No. She doesn't talk about you anymore.
+N: Wade looks at her, wanting to lift her mask, see her face.
+T: CUT TO:
+S: EXT. TOWN HALL - NIGHT
+N: The Fairlane approaches Town Hall, a square two-story building on the north side of the Common. Exhaust billows from idling cars as parents and children come and go.
+T: CUT TO:
+S: INT. TOWN HALL - NIGHT
+N: Clowns, tramps, angels and vampires fill the brightly lit room. Parents watch from the walls as GORDON LARIVIERE, a beefy fiftiesh man with a silver flat-top, announces the costume contest. Wade nods to various townspeople.
+C: LARIVIERE
+D: We're looking for the funniest costume! And the scariest! And the most imaginative! And the best costume of all!
+C: WADE
+D: Got here just in time. Go ahead. Jump in line. Maybe you'll win a prize.
+E: nudges Jill
+N: Jill steps forward, retreats. Wade looks at her flaxen hair, her blue sneakers protruding from her pathetic costume. His heart aches he loves her so.
+C: WADE
+D: Go on, Jill. Some of those kids you still know.
+C: JILL
+D: I don't want to.
+C: WADE
+D: Why? Why not? You know these kids from when you went to school here. It hasn't been that long.
+C: JILL
+D: It's not that.
+C: WADE
+D: What then?
+C: JILL
+D: It's stupid.
+C: WADE
+D: It's fun.
+C: JILL
+D: I want to go home. I don't like it here.
+E: voice breaking Wade kneels down
+C: WADE
+D: Oh, Jesus, come on, will you? Don't mess this up anymore than it's already been messed up. Join the other kids. Do that and before you know it you'll be as happy as a goddamned clam.
+N: Wade inches her toward the circle of children. Gordon spots them:
+C: LARIVIERE
+D: Wade! And who's that tiger? Is that Jill? Come and join us.
+N: Jill in the spotlight, joins the costumed children. A former classmate calls her name. Wade, relieved, watches, then steps outside for a smoke.
+T: CUT TO:
+S: EXT. TOWN HALL - NIGHT
+N: Wade steps outside, lights a cigarette. JACK HEWITT, 23, clean-cut, handsome, cocky, stands with CHICK WARD and FRANKIE LACOY, local boys.
+C: WADE
+D: What are you boys up to?
+C: CHICK
+D: Same old shit.
+C: FRANKIE
+D: You see the damage these little sons- of bitches been raising tonight?
+C: WADE
+D: You're going to have to move your pickup.
+E: to Jack
+C: JACK
+D: I know.
+C: CHICK
+D: Take a bite.
+E: offers whiskey pint
+C: WADE
+D: Don't mind if I do.
+C: JACK
+D: LaRiviere's having a hell of a time in there. Master of fucking ceremonies.
+C: WADE
+D: Where's that gun you were bragging on today?
+N: Jack stops over to his double-parked burgandy pickup, removes a Browning BAR .30/06 with a scope, hands it to Wade.
+C: JACK
+D: No brag. Just fact.
+C: WADE
+D: Got you for -- 450, 500 bucks?
+E: admires gun passes it to Frankie
+C: FRANKIE
+D: Nice.
+C: JACK
+D: See you got Jill tonight. How'd you manage that?
+E: to Wade
+C: WADE
+D: Don't forget to move your truck.
+E: turns walks inside
+T: CUT TO:
+S: INT. TOWN HALL - NIGHT
+N: On stage, LaRiviere arranges the contest winners. A fairy godmother with a wand beams while, nearby, a hobo writhes in his mother's grip -- a hard loser. Wade looks for Jill, first among the winners, then among the losers; she's nowhere to be found. He heads toward a hall leading to the restrooms. Jill stands alone in the corner next to the pay phone, tiny, forlorn. Wade realizes at once he was wrong to leave her before she had found a friend.
+C: WADE
+D: Some party, huh? Sorry I lost sight of you. I had to step outside for a smoke. You find anybody you know here? There must be some kids you used to know from school. You want to go tomorrow? See your old teachers? Be more fun than hanging out with me all day.
+C: JILL
+D: No.
+C: WADE
+D: No what?
+C: JILL
+D: No I didn't see anybody I know. No I don't want to go to school here tomorrow. I want to go home.
+E: lifts mask atop head
+C: WADE
+D: You are home. There are lots of kids you still know here.
+C: JILL
+D: I don't want to be here. Don't worry, I love you, Daddy, I do. But I want to go home.
+C: WADE
+D: Jesus. Listen, Jill, tell you what. Tomorrow morning, you still want to go home, I'll drive you down. I'll get off work or something.
+E: sighs
+C: JILL
+D: I called Mommy.
+E: pause
+C: WADE
+D: What? You called Mommy? Just now?
+C: JILL
+D: Yes.
+C: WADE
+D: Jesus, why?
+C: JILL
+D: I... because I want to go home. She said she'd come and get me.
+C: WADE
+D: Come and get you! Shit! It's a damn half hour drive each way. Why didn't you talk to me about it first?
+C: JILL
+D: See, I knew you'd be mad.
+C: WADE
+D: Yeah. Yeah, right, I'm mad. What'd you tell her, for Christ sake?
+C: JILL
+D: I told her I wanted to come home. Daddy, don't be mad at me.
+C: WADE
+D: Well, I guess I am. I planned this, I planned all this, you know. I mean, it's sort of pathetic, but I planned it. You shouldn't have called your mother. C'mon, we're gonna call her before she leaves.
+E: takes her arm
+T: CUT TO:
+S: EXT. POLICE OFFICE - NIGHT
+N: Wade leads her to a frosted-glass door reading "POLICE", enters. Inside, he flips on flourescent light, dials the desk phone. More utility room than office. He waits. There's no answer. Jill looks down.
+C: WADE
+D: She's gone already! Gone already! Couldn't wait.
+E: hangs up
+C: JILL
+D: Yes.
+C: WADE
+D: That's all you got to say? "Yes".
+C: JILL
+D: Yes.
+C: WADE
+D: She won't be here for a half hour. Think you can stand it that long?
+C: JILL
+D: Yes.
+C: WADE
+D: Where do you expect to wait for her? Obviously downstairs with the other kids isn't good enough.
+N: Jill sits in a chair facing the dark window pane.
+C: WADE
+D: Sit right there by yourself if you want. Wait for her by yourself. That's fine with me. Just dandy. I'm going downstairs.
+C: JILL
+D: That's fine with me too. When Mommy comes, tell her I'm up here.
+N: Wade Whitehouse stalks out.
+T: CUT TO:
+S: EXT. TOWN HALL - NIGHT
+N: Wade steps outside, notices Jack Hewitt and his kewpie-doll girlfriend HETTIE, 20, sitting in the cab of his double-parked pickup, sharing a joint, talking to LaCoy alongside.
+C: WADE
+D: I thought I told you to move that truck!
+C: JACK
+D: Relax, Chief. We're leaving. You wanna toke?
+C: WADE
+D: You gotta be more careful about that shit. Gordon or one of those guys sees you smoking that wacky tabacky around me they'll expect me to bust you. And I'll be outta a job.
+E: steps over
+C: JACK
+D: Some job. Here, have a hit. Don't be such a hardass. I know you got problems, but everybody's got problems.
+E: offers joint
+C: WADE
+D: Not here.
+N: LaCoy laughs: that Jack Hewitt, some guy. Wade holds his aching jaw. He looks at Jack's young athletic body, his pretty girlfriend, envies him.
+C: JACK
+D: Well, c'mon, then. Get in and we'll take a little ride, my man.
+N: Wade looks up to the window where Jill waits, walks around the front of the truck, gets in.
+T: CUT TO:
+S: INT./EXT. JACK'S TRUCK - NIGHT
+N: Jack's high-bodied pickup growls in low gear as it drives past Merritt's Shell station toward Saddleback Ridge. Jack lowers the radio as Wade asks him about deer season; Hettie leans forward to hear the music.
+C: JACK
+D: Got a job first thing in the morning, first day of season. Saturday I'll hunt for myself. Twombley something. - Er --
+C: WADE
+D: Evan. He's a mucky-muck union official from Massachusetts. You're lucky.
+C: JACK
+D: Don't know about lucky. The guy's a full-blown asshole. Pay's good, though. $100 a day. I got to guarantee a kill, of course. Which I can do. There's some monster bucks hiding out up there.
+C: WADE
+D: How'd you get the job?
+C: JACK
+D: Gordon, he's always got some angle working. He wants to keep Twombley happy, I'm his boy.
+N: Wade grimaces as he passes the joint back.
+C: HETTIE
+D: What's wrong with you?
+C: WADE
+D: Toothache. You should get close to him. Make yourself irreplaceable. Guy's loaded.
+E: to Jack
+C: JACK
+D: Like you and Gordon?
+C: WADE
+D: Right. The sonofabitch couldn't get along without me.
+C: JACK
+D: Yeah, he'd go broke tomorrow if you quit him.
+E: laughs
+C: WADE
+D: Right!
+E: laughs
+N: A car flashes past.
+C: JACK
+D: Bastard's got his high beams on.
+C: WADE
+D: Shit.
+E: watching
+C: HETTIE
+D: What?
+C: WADE
+D: My ex-wife Lillian and her husband. That was them in the Audi that just passed us.
+C: JACK
+D: Audi's a good car.
+C: HETTIE
+D: What's she up here for?
+C: WADE
+D: Aw, shit, she's here to get Jill. Me and Jill had a little argument. Jack, I got to get back, get back to town. Move this thing, will you? See if you can get back to the Town Hall before they get there, okay?
+C: JACK
+D: Piece of fucking cake.
+N: Jack brakes, wheels the 4x4 around, heads back to town.
+T: CUT TO:
+S: EXT. TOWN HALL - NIGHT
+N: Most parents have left or are leaving with their costumed children. Hewitt's burgundy pickup breaks alongside the Audi. Wade swings open the passenger door, jumps to the ground:
+C: WADE
+D: Lillian!
+C: LILLIAN
+D: Where's Jill?
+N: LILLIAN, 40, attractive in an ankle-length hooded coat. Whatever pose Wade strikes, she strikes the opposite. Her dress and demeanor set her apart.
+C: WADE
+D: Me and Jill, we just had a little spat. She felt kind of left out, I guess, from not knowing some of the new kids --
+C: LILLIAN
+D: Where is she now? Is she in the truck with your friends?
+N: Jack and Hettie neck inside the cab.
+C: WADE
+D: She told me she wanted to wait for you. Inside.
+N: Jill at the window in her tiger mask. Lillian waves; Jill motions she'll be down.
+C: LILLIAN
+D: While you went off for a few beers with your friends? Is that Hettie Rodgers there, with whatzizname?
+C: WADE
+D: Yeah.
+C: LILLIAN
+D: She's grown up some, hasn't she?
+C: WADE
+D: Oh, Jesus, lay off, will you? It looks like you've won this fucking round already, so lay off a little, for Christ's sake.
+N: HORNER, 45, Lillian's new husband, thin with thinning hair and a Tyrolean hat, sees Jill at the entrance and heads toward her.
+C: WADE
+D: Horner! Leave her be. This's got nothing to do with you, so just act like the chauffeur. Got it?
+C: HORNER
+D: Wade. Nobody wants any trouble.
+N: Horner greets Jill, walks her to the silver Audi. Passing parents, listening, give Wade a wide berth.
+C: WADE
+D: I don't want her to go, Lillian.
+C: LILLIAN
+D: Don't cause a scene. No one's trying to win any 'rounds'. Don't make it any worse.
+C: WADE
+D: I'm not making it any worse. You are. Me and Jill could've worked this thing out. It's normal, it's even normal for me to get a little touchy about it. Believe it or not. How do you think this makes me look, treating her like some tragic victim or something?
+N: Horner opens the car door for Jill, shuts it. Wade shoves him:
+C: WADE
+D: Just wait till we're through, goddamnit!
+N: Horner's hat falls. Lillian, icy, stares at Wade. He backs off. Wade sometimes wonders: how'd Lillian Pittman of Lawford, N.H., get so much class?
+C: WADE
+D: Don't you say a word. I didn't hit him. I'm not going to hit anybody.
+N: Horner sits behind the wheel. Lillian silently stares Wade up and down, gets in the car beside Jill. The automatic locks latch as the Audi drives away. Its taillights merge with vanishing traffic. Wade looks down, picks up Horner's dark green Tyrolean hat, examines it, as if unsure of its function. Wade walks toward Town Hall. MARGIE FOGG, exiting, greets him:
+C: MARGIE
+D: New hat? Jill's up, I see.
+E: no answer
+C: WADE
+D: For a while.
+E: vague
+C: MARGIE
+D: How's she doing?
+C: WADE
+D: Okay. She's fine.
+C: MARGIE
+D: You two want to do anything tomorrow and need a third party, give me a call, okay? I'm off.
+N: NICK WICKHAM, 45, Marg's boss, passes by:
+C: WICKHAM
+D: Like hell you are. Tomorrow's first day of deer season. I'll need you at least in the morning.
+C: MARGIE
+D: Well, that's that.
+E: shrugs
+C: NICK
+D: Take care, Wade.
+E: walks off
+C: WADE
+D: You be careful of that little bastard. He's dying to get in your pants, you know.
+C: MARGIE
+D: Don't worry. I can protect my virtue. I mean, c'mon, Wade, give me a break.
+E: laughs
+C: WADE
+D: See you tomorrow, maybe.
+C: MARGIE
+D: You okay?
+C: WADE
+D: Yeah.
+N: Wade, lost in thought, continues toward Town Hall. At the door, LaRiviere, one of the last to leave, eyes him. Wade tosses Horner's hat inside.
+C: WADE
+D: Tomorrow, Gordon.
+C: LARIVIERE
+D: Watch this snow. It's coming down tonight.
+N: Wade nods as he lights a cigarette. Alone, he watches the last cars pull out. He holds his jaw.
+T: CUT TO:
+S: EXT. WADE'S TRAILER HOME - DAWN
+N: Pre-dawn light silhouettes a dozen weather-beaten mobile homes set off Route 29. Snow continues to fall. A sheet of white stretches down Parker mountain.
+T: CUT TO:
+S: INT. WADE'S TRAILER - DAWN
+N: 6:40. A clock radio pierces the silence with classic rock. Wade Whitehouse rolls over, runs his tongue across mossy teeth, shuts off the music. He looks out the window, grunts: "Shit!" He steps over to the phone by the frayed plaid couch, dials. Wade's trailer is surprisingly neat, considering its owner smokes too much, drinks too much, eats take-out and rarely cleans up.
+C: WADE
+D: Lugene? Wade. Hoya doin? Look, I was wondering, with the snow and all, if you got school today? How the hell do I know? You're the principal. All I'm supposed to do is direct traffic from 7:30 to 8:30. Yeah, okay, I'm sorry -- I only just now saw it was snowing, that's all. My whole day is fucked. I gotta plow all day. If I don't get over to LaRiviere's early enough, I'm stuck with the grader. I was just hoping you'd have called school off. You check the weather bureau? Okay, I hear you. I'll be over in a bit.
+E: on phone fumbles for cigarette lights cigarette listens beat acquiesces hangs up
+T: CUT TO:
+S: EXT. WADE'S TRAILER HOME EARLY - MORNING
+N: Jack Hewitt's 4x4 passes Wade's trailer, continues up 29. Tire chains splice the path.
+T: CUT TO:
+S: EXT. JACK'S TRUCK EARLY - MORNING
+N: Jack behind the wheel. Beside him EVAN TWOMBLEY, 60, fleshy, Irish, wearing brand new scarlet wool pants, jacket and cap. He feeds on the misfortunes of others.
+C: TWOMBLEY
+D: It's not enough snow, not for tracking the bastards. No advantage there, kid.
+C: JACK
+D: Don't worry, Mr. Twombley, I know where those suckers are. Rain or shine, snow or no snow. I know deer. We'll kill us a buck today. Guaranteed. Before ten.
+C: TWOMBLEY
+D: Guaranteed, eh?
+C: JACK
+D: Yep. Right about now the does are holing up in the brush piles. The bucks are right behind them and we're right behind the bucks. This gun gets fired before ten o'clock. Whether it kills a deer or not is more less up to you. I'll put you inside 30, 35 yards of a buck the first four hours of the season. That's what you're paying me for, ain't it?
+E: gestures to gun rack
+C: TWOMBLEY
+D: Damn straight!
+N: Hewitt looks at Twombley's rifle: a Winchester M-94 pump- action, custom carved stock and not a scratch on it. Never fired, at least not by Twombley.
+C: JACK
+D: Done much shooting with that rifle yet?
+C: TWOMBLEY
+D: Tell you what. You get me close to a big buck by ten, kid, there's another hundred bucks in it.
+E: eyes him
+C: JACK
+D: If you get it?
+C: TWOMBLEY
+D: Yeah.
+C: JACK
+D: You might not kill it.
+C: TWOMBLEY
+D: You think so.
+C: JACK
+D: You might gut-shoot it or cripple it for somebody else to find and tag. Can't guarantee that won't happen, especially with a new gun. I may have to shoot it.
+C: TWOMBLEY
+D: You take care of your end, kid, I'll take care of mine.
+C: JACK
+D: Mmm.
+C: TWOMBLEY
+D: You understand what I'm saying? I want a deer, a dead one, not a cripple or whatthefuck.
+C: JACK
+D: I get it. No sweat. You'll get yourself a deer and you'll get him dead. And you'll have him by coffee time.
+E: disdain
+C: TWOMBLEY
+D: And you'll get your extra hundred bucks.
+C: JACK
+D: Wonderful!
+E: smiles
+N: The pickup disappears behind a curve of pine and spruce trees.
+T: CUT TO:
+S: EXT. SCHOOL - MORNING
+N: Wade Whitehouse, wearing a reflective vest, waves a district school bus into the parking lot. Noisy, jostling grade schoolers emerge from the bus. Jill's former classmates. Straight as a statue, Wade holds back traffic. Cars and trucks are backed up on the unplowed road. Horns honk and bleat; a woman's voice yells, "Whitehouse, we 'ain't got all day!" Wade, daydreaming, seems oblivious to the commotion. Oblivious -- or just plum contrary. A shiny black BMW approaches, speeding, passing traffic on the shoulder. A man and a woman in a fur coat sit in front, two children in back. Whitehouse waves for it to stop. The BMW accelerates through the intersection, ignoring Wade and the traffic. It whizzes past, spinning Wade, and is quickly up the road, spewing ice and exhaust. Wade slips to one knee. Honking ensues; every car goes where it wishes. Wade, brushing off snow, follows the last bus as it pulls in. LUGENE BROOKS, 60, school principal, rushes over:
+C: LUGENE
+D: Are you okay, Wade? What was wrong? Why were you holding everyone up?
+C: WADE
+D: Did you see that sonofabitch in the BMW? He could've killed somebody.
+C: LUGENE
+D: Did you get his number?
+C: WADE
+D: I know who it is.
+C: LUGENE
+D: Good. Who?
+C: WADE
+D: Mel Gordon.
+C: LUGENE
+D: I still don't understand --
+C: WADE
+D: From Boston. Evan Twombley's son-in- law -- he was driving. I know where they're headed. Up the lake, Agaway. The old man's out deer hunting with Jack Hewitt, so they probably got some big weekend party planned.
+N: Wade sets his face, thinking.
+T: CUT TO:
+S: EXT. WOODS - DAY
+N: Snowprints lead from Jack's pickup to where he and Twombley walk, guns pointed skyward. They enter a line of trees. Jack watches Twombley walk ahead of him, wrapped like a huge infant in red bunting, crunching twigs underfoot. He looks from side to side, checks his gun, returns to watching Twombley. They're alone.
+C: JACK
+D: Safety on?
+N: Twombley nods, slips, thumps to the ground. His rifle lands silently. Jack sprints over, helps him up, safety latches the Winchester. Hands it back.
+C: TWOMBLEY
+D: I'm okay.
+C: JACK
+D: Follow close. We'll cross the next meadow.
+N: Jack finds a path, one eye on Twombley:
+C: JACK
+D: I used to play ball.
+C: TWOMBLEY
+D: Yeah?
+C: JACK
+D: Drafted by the Red Sox.
+C: TWOMBLEY
+D: You played for the Sox?
+C: JACK
+D: Double A. New Britain.
+C: TWOMBLEY
+D: Oh.
+C: JACK
+D: Pitcher. "Best ballplayer to come out of New Hampshire since Carlton Fisk."
+C: TWOMBLEY
+D: Really.
+C: JACK
+D: They said.
+C: TWOMBLEY
+D: Hmm.
+C: JACK
+D: The only difference between me and that Clemens on TV is luck, shit luck.
+C: TWOMBLEY
+D: What happened?
+C: JACK
+D: Ruined my arm. Brought me along too fast. Why'd it have to be my fucking arm, I used to think. Then I realized it had to be somebody's fucking arm.
+N: Jack waits for Twombley as they enter a meadow. Jack aims his rifle at Twombley as he approaches.
+C: TWOMBLEY
+D: Hey, Hewitt! Slow the fuck down!
+N: Jack aims away, following an imaginary bird. Twombley steps alongside.
+C: JACK
+D: Safety on?
+C: TWOMBLEY
+D: Yeah.
+C: JACK
+D: This way.
+C: TWOMBLEY
+D: Sun's gettin high.
+E: walking loudly
+C: JACK
+D: Deers have ears too.
+E: fingers to lips
+T: CUT TO:
+S: EXT. LARIVIERE CO. - DAY
+N: Milky sky flatters LaRiviere Co., a sprawl of well-digging, septic and snow plow equipment. Billboard declaimes: "LARIVIERE CO. -- OUR BUSINESS IS GOING IN THE HOLE!" a motto repeated on every truck and piece of equipment. Wade's green Fairlane is parked outside the office.
+T: CUT TO:
+S: INT. LARIVIERE CO. - DAY
+N: Wade, puffing a cigarette, passes ELAINE'S (LaRiviere secretary) desk, her large red "No Smoking" sign, eases into an office modum chair. He unzips his jacket, slaps his cap against his thigh, spraying drops of melted snow. Gordon LaRiviere, speaking on the phone past a glass partition, calls to Wade:
+C: LARIVIERE
+D: Told you the snow was coming down. Take the grader.
+C: WADE
+D: Where's the plow?
+C: LARIVIERE
+D: Jimmy took it. Jack's out hunting with Evan Twombley.
+C: WADE
+D: His son-in-law damn near killed me.
+C: LARIVIERE
+D: Huh?
+E: hangs up
+C: WADE
+D: At the school crossing. In his BMW. Coulda hurt some kids. I'm gonna bust his ass.
+C: LARIVIERE
+D: Don't go playing policeman.
+C: WADE
+D: What am I -- a security guard? You hired me, you and your Selectman friends.
+C: LARIVIERE
+D: You don't want the extra police pay?
+C: WADE
+D: I'm not saying that.
+C: LARIVIERE
+D: Get the grader. Go out 29 past Toby's. Don't let Lillian get to you. She didn't belong here. That's why she left.
+C: WADE
+D: Fuck you.
+C: LARIVIERE
+D: That's what I love about a small town. You know everybody.
+N: Wade exits toward the blue grader.
+T: CUT TO:
+S: EXT. WOODS - DAY
+N: Jack and Twombley walk through fresh snow. The hillside's thick with pine trees. Twombley, red-faced, puffing, leans to speak to Hewitt. Jack lifts a finger to his lips:
+C: JACK
+D: Stay here, stand where I am.
+N: Twombley peers over a slight cliff at a lumber trail twenty feet below. Jack points:
+C: JACK
+D: Fresh tracks. Deer shit. Big one. Here's your buck, Mr. Twombley. I'll circle around.
+E: sniffs
+C: TWOMBLEY
+D: You only got a little while if you want your hundred bucks.
+N: Jack zig-zags down the incline, while Twombley, gun poised, waddles along the edge. Jack stops fifty feet away, watches Twombley, a cartoon character. A stag pokes his nose through the pines, steps into a clearing. Jack aims his rifle, looks at Twombley. Twombley turns to see the buck, loses his footing, TUMBLES down the twenty-foot cliff.
+T: CUT TO:
+S: EXT. TOBY'S INN - DAY
+N: An open cab grader ("Our Business Is Going In The Hole") sits in the rutted lot outside Toby's, a beer joint with fake wood siding and 24-hour neon sign. A four-wheel drive plow with the LaRiviere motto pulls in, parks beside the blue grader. JIMMY DAME, 40, gets out, glances at the grader as he enters.
+T: CUT TO:
+S: INT. TOBY'S INN - DAY
+N: Jimmy joins Wade at the bar, calls for a beer. Frankie LaCoy bullshits with two long-haired locals at a nearby table; their conversation drifts in and out. Country music plays through a broken juke box speaker. Wade touches his tooth, grimaces.
+C: JIMMY
+D: How's it goin?
+C: WADE
+D: Cold. How you think?
+C: JIMMY
+D: Sorry about that. Why's it every year, come first snow, you get stuck with the grader?
+C: WADE
+D: School. Traffic crossing. I gotta quit these things.
+E: lights cigarette
+C: JIMMY
+D: What we doing after? Wells? Don't work too fast. Business the way it is, Gordon's probably looking to lay me off earlier than usual this year. He's got too much money as it is. Why's it always the little guy that gets kicked in the butt in hard times?
+E: Wade nods
+N: Wade shrugs. LaCoy's conversation has caught his ear. He turns to watch.
+C: LACOY
+D: ...That was no pisser. I'll tell you who was a pisser. Glen Whitehouse. There was a real pisser. He was mean normal, but when he drank it was like he burst on fire. Canadian Club. Always drank CC. One Christmas there's this cord of wood out back he forgot about and he decides to have his two boys stack it. Except it's been out back two months and it's snowed and rained and froze so now the wood's all iced in. He takes the boys. He was drunk, of course.
+N: Wade's face as the story comes to life:
+T: CUT TO:
+S: EXT. WHITEHOUSE FARM - DAY (1964)
+N: Thirty years before. GLEN WHITEHOUSE ("POP"), 42, pushes his boys, Wade (13) and Rolfe (10), toward snow-covered lumps of firewood behind the barn. He's drunk. The boys carry shovels and a pickaxe.
+C: POP
+D: Move it! Daylight in the swamps!
+C: ROLFE
+D: Pop, the kids are waiting for us.
+C: WADE
+D: Rolfe.
+E: reproving
+C: POP
+D: A lesson in work and its rewards. You'll thank me for this one day. Sally, turn off that TV!
+E: to house
+N: His sons chip at the wood. Hopeless. Frozen solid.
+C: WADE
+D: Just do it.
+E: to Rolfe
+C: POP
+D: Atta-go.
+C: ROLFE
+D: Please, Pop. Let's go back.
+N: Wade notices his mother, SALLY, watching from the window.
+C: POP
+D: What are you, a quitter?
+T: CUT TO:
+S: INT. TOBY'S INN - DAY
+N: LaCoy roars with laughter.
+C: LONG-HAIRED LOCAL
+D: So what happened?
+E: puzzled
+C: LACOY
+D: Beats me. That's all I heard. Wade would know more about it. Wade! We were just talking about your Old Man. "What are you, a quitter!"
+E: calls
+N: Wade grabs his keys, walks over. Jimmy follows.
+C: WADE
+D: Jesus, LaCoy, you got nothing better to do than sit around and tell stories. Pity is, some college student will come some day and believe this shit cause you're the only one dumb enough to talk to him. Take care.
+N: Wade and Jimmy head out.
+T: CUT TO:
+S: EXT. BACKROAD - DAY
+N: Wade, shivering in the open grader, plows a narrow winding road. He lights a cigarette, exhales steamy smoke. LaCoy's laugh triggers a memory:
+T: CUT TO:
+S: INT. WHITEHOUSE FARM - DAY (1964)
+N: The flashback continues: Glen Whitehouse pushes his sons inside. Sally steps from sight. Out back, the firewood lies frozen amid futile shovel marks.
+C: POP
+D: That was some job.
+C: ROLFE
+D: We'll work at it everyday, promise.
+C: POP
+D: I think we made the point.
+C: WADE
+D: You just needed a drink.
+E: mumbles
+N: Pop, swigging Canadian Club, turns:
+C: POP
+D: What was that? You got something to say, say it! Say it!
+E: no answer
+C: WADE
+D: Nothing.
+E: soft
+C: POP
+D: You no-good pup!
+N: Rolfe runs from the room screaming, "Mom!"
+T: CUT TO:
+S: EXT. WICKHAM'S - DAY
+N: The town's 24-hour restaurant. A bright new sign reads: "Home Made Cooking." Wade's grader out front.
+T: CUT TO:
+S: INT. WICKHAM'S - DAY
+N: Wade, eating lunch at the counter, talks with Nick Wickham:
+C: WADE
+D: It don't look right.
+C: NICK
+D: What?
+C: WADE
+D: The sign. It looks like it's spelled wrong or something.
+C: NICK
+D: Fuck. Wade Whitehouse. It's people like you that keep this fucking town from prospering. Whatever somebody does to improve things around here, you gotta find fault with it.
+C: WADE
+D: I'm not finding fault. It's a good idea, good for you, good for the town. Real modern too.
+C: NICK
+D: This town sucks.
+C: WADE
+D: Aw, c'mon, I was only saying there's something wrong with "Home Made Cooking", that's all. The sign's fine. What it says is wrong.
+N: Margie Fogg heads over, sits:
+C: MARGIE
+D: Who needs it? Everybody who comes here has been coming for years so what they need a sign for?
+N: Nick goes back to work.
+C: MARGIE
+D: You okay?
+C: WADE
+D: Yeah.
+C: MARGIE
+D: I'm sorry about what I said.
+C: WADE
+D: Said what?
+C: MARGIE
+D: About you and Jill and needing a third person. She went back to Lillian?
+C: WADE
+D: Forget it.
+C: MARGIE
+D: I'm sorry.
+E: touches his arm
+C: WADE
+D: I'm going to start one of those custody suits. I don't give a fucking shit. You know?
+N: Wade's eyes well up.
+C: MARGIE
+D: You don't mean that.
+C: WADE
+D: Yeah. I mean that.
+C: MARGIE
+D: No you don't. You're pissed, that's all. You ought to cool off for a few days then have a long talk with Lillian. You know? Work it out with her, tell her how you feel. Lillian's not out to get you.
+E: arm around his shoulders
+C: WADE
+D: The hell she isn't. Lillian's been trying to nail me to a cross since the day I met her. I'm gonna hire me a fucking lawyer from Concord and get this thing, this divorce thing, rearranged. I've been thinking about it a lot. It's like she owns Jill or something. Nobody owns nobody, especially not kids. And I pay her.
+C: NICK
+D: Marg!
+E: calls
+C: WADE
+D: That goddamned woman. Thinks she can cart Jill off and leave me alone like this. I'm more than pissed, Margie. I'm a whole lot more than pissed. I been that plenty and I know the difference. This is different.
+C: NICK
+D: Marg! You got orders!
+N: Wade and Margie stand. She wants to kiss him.
+C: MARGIE
+D: Call me.
+C: WADE
+D: Tonight. Let's get together.
+E: genuine
+C: MARGIE
+D: Okay.
+N: Wade meets Nick halfway to the door.
+C: NICK
+D: You talked to Jack?
+C: WADE
+D: Not since last night. He took a guy hunting.
+C: NICK
+D: The fucker shot himself. Ker-bang! That's what it sounds like. Not on purpose. I assume accidental.
+C: WADE
+D: Jack?
+E: shocked
+C: NICK
+D: The other guy.
+C: WADE
+D: Where... how'd you hear that?
+C: NICK
+D: CB. Little while ago. One of the boys on the way in picked up Jack on the CB calling for state troopers. I figured you'd know what really happened. The fucking guy kill himself? This Twombley, who the fuck is he, anyhow?
+C: WADE
+D: No, I... I've been out on the grader all morning. Twombley's summer people. Massachusetts. Friend of Gordon's. It was his idea for Jack to take him hunting. I gotta go.
+E: suddenly engaged
+N: Margie steps over as Wade exits.
+C: NICK
+D: He don't care for you.
+C: MARGIE
+D: Stop being jealous.
+T: CUT TO:
+S: EXT. LARIVIERE CO. - DAY
+N: Elaine looks up from her desk as Wade pulls the grader into the lot, jumps out, heads for his car. Laviviere stands outside.
+C: LARIVIERE
+D: What's the hurry?
+C: WADE
+D: A hunting accident. Jack and Twombley.
+C: LARIVIERE
+D: Huh?
+C: WADE
+D: I figured you already heard.
+C: LARIVIERE
+D: Twombley, Jesus. We got to get moving: I got to get up there. How would I know? C'mon, you drive. We'll take my truck.
+E: urgent
+N: They head for LaRiviere's blue 4x4 Dodge.
+T: CUT TO:
+S: INT./EXT. LARIVIERE'S PICKUP - DAY
+N: Gordon and Wade drive up the same road Jack took Twombley. Wade fiddles with the CB. No use: static.
+C: LARIVIERE
+D: Fuck. Turn it off. All you heard was there was some kinda accident?
+E: Wade does
+C: WADE
+D: Twombley's shot. I heard that. Not Jack. He's okay, I assume.
+C: LARIVIERE
+D: Fuck. You don't know how bad or anything?
+C: WADE
+D: You mean Twombley?
+C: LARIVIERE
+D: Yes, Wade, I mean Twombley. Put out that cigarette. Fuck. Fuck. Fuck.
+N: LaRiviere grunts disapproval as Wade slips the butt out his window.
+C: WADE
+D: He more than likely just shot himself in the foot or something. That's what usually happens.
+C: LARIVIERE
+D: I shoulda sent you instead of Jack.
+C: WADE
+D: I wish you had. I'd rather be deer hunting instead of freezing my ass on that fucking grader.
+C: LARIVIERE
+D: You ain't the hunter Jack is. And he can't drive the grader worth shit.
+C: WADE
+D: Like hell.
+N: Ahead, they see flashing lights and cars. A white emergency vehicle passes, jolting the pickup.
+C: LARIVIERE
+D: That must've been Twombley. Jesus. I bet that was Twombley.
+E: frightened
+C: WADE
+D: You want me to follow them to Littleton?
+C: LARIVIERE
+D: Let's get to the top and talk to Jack first. He'll know what happened. He fucking better. If this coulda been avoided, I'll put that kid's ass in a sling.
+T: CUT TO:
+S: EXT. ACCIDENT SCENE - DAY
+N: Wade pulls behind three state trooper cars. Jack stands joking with the TROOPERS, one of whom holds a German shepherd on a leash. LaRiviere and Wade jump out. Jack, suddenly serious, turns to LaRiviere:
+C: JACK
+D: You heard the news.
+C: LARIVIERE
+D: I hear Twombley got shot.
+C: JACK
+D: Yeah.
+N: Wade walks over to trooper ASA BROWN, pets the shepherd.
+C: BROWN
+D: Watch the dog, Wade. Takes a mind to, he'll tear your fucking head off.
+C: LARIVIERE
+D: Bad?
+E: to Jack
+C: BROWN
+D: Thirty-thirty at close range.
+C: LARIVIERE
+D: Jesus.
+C: WADE
+D: Will he make it?
+C: BROWN
+D: D.O.A. Blew the bastard wide open. Had a hole in back you could put your head into. Pretty big hole in front too. You could've put your fist into that one.
+E: shakes head
+C: LARIVIERE
+D: You see it?
+E: to Jack
+C: JACK
+D: Nope. Heard it. We wasn't far apart. I spotted this buck, then I heard the gun go off and Twombley was gone. I looked over the little cliff we was using for a stand and there the fucker was, deader'n shit. Called it right in.
+C: LARIVIERE
+D: This is gonna be one fucking mess to clean up. Twombley's son-in-law and daughter are up the weekend. Didn't you say you'd seen him, Wade?
+C: WADE
+D: I seen 'em. Near ran me over.
+C: BROWN
+D: You wanna tell 'em, Gordon? You knew the old man.
+C: LARIVIERE
+D: What the fuck. My day's already ruined. Give me the keys. You can go back with Jack. You still got a shitload of plowing to do.
+E: to Wade
+C: WADE
+D: It ain't done, if that's what you mean.
+C: LARIVIERE
+D: Something bugging you?
+C: WADE
+D: Yeah. A few things.
+C: LARIVIERE
+D: Well, right now we're not too interested. Finish up what you gotta do, then you can get bugged on your own time.
+N: Brown walks off with shepherd.
+C: LARIVIERE
+D: Might as well take the rest of the day off. You look sort of fucked up. You've been paid for the day, anyhow, right?
+E: to Jack
+C: JACK
+D: Not exactly. I mean, he never paid me.
+C: LARIVIERE
+D: You'll get your money. Don't talk to any newspapers about this. Twombley's a big deal down in Massachusetts, you know. Tell them your lawyer says you shouldn't comment.
+C: JACK
+D: Lawyer? I don't need no lawyer, do I?
+C: LARIVIERE
+D: No, of course not. Just say it, that's all.
+N: Wade watches LaRiviere get into his pickup, drive off.
+C: WADE
+D: Where'd Twombley get shot?
+C: JACK
+D: In the chest.
+C: WADE
+D: No, I mean whereabouts.
+E: offers cigarette
+C: JACK
+D: A half mile in, along the old lumber road.
+E: points
+C: WADE
+D: You bring him up yourself? That's a steep climb.
+C: JACK
+D: The ambulance guys lugged him up.
+C: WADE
+D: You stayed away?
+C: JACK
+D: Yeah.
+C: WADE
+D: Where'd you get the blood?
+C: JACK
+D: What blood?
+C: WADE
+D: On your sleeve.
+C: JACK
+D: Musta... How'd I know? What're you doing, playing cop?
+C: WADE
+D: I gotta make a report to Fish and Game. I was just wondering, that's all. What'd he do, to shoot himself, I mean?
+C: JACK
+D: Who the fuck knows? Musta slipped or something. I just heard the gun go off.
+C: WADE
+D: I never seen a man shot before. Not even in the service. Must be something.
+C: JACK
+D: Well, I didn't actually see him do it. Like I said.
+C: WADE
+D: Sure you did.
+C: JACK
+D: What?
+C: WADE
+D: Saw him do it?
+C: JACK
+D: What the fuck you telling me, Wade? I never seen the guy get shot, I told you that.
+C: WADE
+D: You musta seen him get shot. I know you did.
+C: JACK
+D: Let's get the fuck outta here. You're not making any sense, man.
+N: They walk over to Jack's burgundy pickup. Wade eyes the rifles in the gun rack.
+C: WADE
+D: There's your old twenty-gauge, and that there's the new Browning you was showing me last night. This must be Twombley's gun. Brand new. Very fancy tooling. Probably fired one time. It's a beautiful piece of work. But what the hell, Jack, I guess you deserve it. Right's right.
+E: touches it
+C: JACK
+D: Yeah.
+E: starts engine
+C: WADE
+D: Twombley sure as hell won't be shooting it again.
+C: JACK
+D: He sure as hell won't.
+T: CUT TO:
+S: INT. WADE'S TRAILER - NIGHT
+N: Late. Wade Whitehouse, lying in bed with an icepack on his cheek, talks on the phone:
+C: WADE
+D: Rolfe.
+C: ROLFE
+D: Wade?
+E: O.S.
+C: WADE
+D: Yeah, brother, look, I was calling cause -- has there been anything on TV in Boston about a hunting accident with a guy named Twombley, Evan Twombley?
+C: ROLFE
+D: There was something. It happened up your way.
+E: O.S.
+C: WADE
+D: Yeah, I know him -- the kid that was with him. Maybe you do too. Jack Hewitt. He works for LaRiviere with me. He's my best friend.
+C: ROLFE
+D: Wade, it's late. I know you're probably at Toby's, but I'm in bed reading. We got different habits.
+E: O.S.
+C: WADE
+D: No, not tonight. I'm in bed too. I'm calling because I need you to listen. You're supposed to be a smart guy. You're a professor. I got this theory. Jack says he didn't see Twombley shot but he did.
+T: CUT TO:
+S: EXT. ACCIDENT SCENE - DAY
+N: Wade's theory -- in black-and-white: Twombley's footing slips. Jack turns to watch. Twombley's gun hits frozen rocks, fires, blows a hole through his chest.
+T: CUT TO:
+S: INT. WADE'S TRAILER - NIGHT
+C: WADE
+D: It'll come out Jack lied and the kid'll get hung for it.
+C: ROLFE
+D: He was scheduled to testify for a committee investigating organized crime in New England and the construction business.
+E: O.S.
+C: WADE
+D: Who?
+C: ROLFE
+D: Twombley.
+E: O.S.
+C: WADE
+D: No shit.
+C: ROLFE
+D: You think Jack shot him?
+E: O.S.
+C: WADE
+D: Well, it was an accident.
+C: ROLFE
+D: They were out deer hunting, right? Jack probably heard the gun go off, then came back and found the body.
+E: O.S.
+T: CUT TO:
+S: EXT. ACCIDENT SCENE - DAY
+N: Another theory: Black-and-white. Jack sees a figure run from Twombley's body.
+T: CUT TO:
+S: INT. WADE'S TRAILER - NIGHT
+N: Wade shifts the phone from ear to ear:
+C: WADE
+D: Lillian was here. In Lawford.
+C: ROLFE
+D: Huh?
+E: O.S.
+C: WADE
+D: The night before the shooting.
+C: ROLFE
+D: How was she?
+E: O.S.
+C: WADE
+D: Picked up Jill. She was supposed to visit for the weekend for Halloween. She wanted to go home.
+C: ROLFE
+D: Who?
+E: O.S.
+C: WADE
+D: Jill. I was thinking of getting a lawyer. Maybe you can help me.
+C: ROLFE
+D: What happened?
+E: O.S.
+C: WADE
+D: A divorce lawyer. A custody lawyer. You know, 'cause of Jill.
+T: CUT TO:
+S: EXT. WADE'S TRAILER - NIGHT
+T: TIMECUT: mobile homes. CUT TO:
+S: INT. WADE'S TRAILER - NIGHT
+C: ROLFE
+D: Don't think about it. You're exhausted.
+E: O.S.
+C: WADE
+D: Yeah, I guess.
+C: ROLFE
+D: Get some sleep.
+E: O.S.
+C: WADE
+D: I get to feeling like a whipped dog some days, Rolfe, and some night I'm going to bite back. I swear it.
+C: ROLFE
+D: Haven't you already done a bit of that?
+E: O.S.
+C: WADE
+D: No, no, I haven't. Not really. I've growled a little, but I haven't bit.
+N: Sound of GUNSHOT.
+T: CUT TO:
+S: EXT. MOUNTAINS - DAY
+N: Wade's bubble-top Fairlane drives through snow covered hills.
+T: CUT TO:
+S: EXT. MEL GORDON'S HOUSE - DAY
+N: The Fairlane is parked outside a substantial summer house with a wide porch and frozen pond. The "speeding" BMW in the drive. Wade knocks on the front door. An 8 year-old boy answers the door. Wade speaks; the boy goes back inside. MRS. GORDON, 30, delicate, beautiful, wearing a dark green robe, comes to the door. Her eyes are red-rimmed. Wade has seen her before, but not this close. He feels awkward.
+C: MRS. GORDON
+D: Who are you?
+C: WADE
+D: I was... I'm Wade Whitehouse. I was wondering, is your husband here?
+C: MRS. GORDON
+D: He's asleep. We were up very late.
+C: WADE
+D: Well, yes, I'm... I want to say that I'm real sorry about your father, Mrs. Twombley.
+C: MRS. GORDON
+D: Mrs. Gordon. Thank you.
+C: WADE
+D: Well, yeah, I suppose. Sure. I just had a little business to settle with Mr. Gordon. I'm the local police officer.
+C: MRS. GORDON
+D: Something about my father?
+C: WADE
+D: Oh, no. No, it's a... it's a traffic thing. No big deal.
+C: MRS. GORDON
+D: Can't it wait, then?
+N: MEL GORDON, 40, dark-eyed, wearing a tartan robe, steps behind his wife.
+C: MEL GORDON
+D: Whitehouse. Next time, phone ahead.
+C: WADE
+D: How's that?
+N: Mel folds his arms. His wife goes inside.
+C: MEL GORDON
+D: I said, 'Next time, phone ahead.'
+C: WADE
+D: Jesus Christ. Mr. Gordon, when I come all the way to serve somebody a summons, I don't call ahead for an appointment.
+C: MEL GORDON
+D: What the hell are you talking about?
+C: WADE
+D: I'm issuing you a ticket. Moving violation.
+C: MEL GORDON
+D: Moving violation! I just got out of bed and you're telling me you're giving me a goddamn speeding ticket? Now? Are you nuts? Is that it, Whitehouse? You're nuts?
+C: WADE
+D: Yesterday morning, you passed a stopped school bus, which was flashing its lights, then you--
+E: writing
+C: MEL GORDON
+D: Hold on!
+E: stops Wade's arm
+C: WADE
+D: Don't ever put your hands on me, Mr. Gordon.
+E: wrenches hand free
+C: MEL GORDON
+D: You're talking about a goddamned ticket, from when I passed you at the school where you were deciding to hold up traffic while dreaming of becoming a traffic cop or something?
+C: WADE
+D: Don't give me a hard time, Mr. Gordon. I'm just --
+C: MEL GORDON
+D: Doing your fucking job. I know. I watch television too.
+C: WADE
+D: Yes. Here's your ticket.
+C: MEL GORDON
+D: You get the hell out of my house now, asshole. And know this -- you are going to be a lucky asshole if I haven't got you fired before the day is out. I can do it with one phone call, and I'm pissed enough to do it now!
+E: refusing ticket
+N: Mel Gordon moves Wade out of the door, slams it. Wade steps away, looks back at the house. Mrs. Gordon watches him from the window.
+T: CUT TO:
+S: EXT. MARGIE FOGG'S HOUSE - NIGHT
+N: A wood frame house off the main drag. Snowing.
+T: CUT TO:
+S: INT. MARGIE'S BEDROOM - NIGHT
+N: Wade and Margie, post-coital:
+C: MARGIE
+D: Jack's sort of sensitive, I guess. More than most. But he'll be okay in a few weeks.
+C: WADE
+D: There's something funny about that shooting. There's lots funny about it, actually.
+C: MARGIE
+D: I heard he was drunk at Toby's last night and got in a fight with Hettie. He drove off without her...
+C: WADE
+D: I'm sure, I'm positive it didn't happen the way Jack says it did.
+C: MARGIE
+D: ...Jack's turned into one of those men who are permanently angry. He used to be a sweet kid, but it's like, when he found out he couldn't play ball anymore, he changed. Now he's like everyone else.
+C: WADE
+D: I've been wondering if maybe Jack shot Twombley, instead of Twombley shooting himself. I've been wondering maybe Jack shot him on purpose.
+C: MARGIE
+D: Wade! How can you even think such a thing? Why would Jack Hewitt do that, shoot Twombley on purpose?
+T: CUT TO:
+S: EXT. ACCIDENT SCENE - DAY
+N: Black-and-white. A further theory: Jack bends over the fallen Twombley, holds a tarp to protect his chest from blood spray. He shoots Twombley with his own gun.
+T: CUT TO:
+S: INT. MARGIE'S BEDROOM - NIGHT
+C: WADE
+D: Money.
+C: MARGIE
+D: Jack doesn't need money.
+C: WADE
+D: Everybody needs money. Except guys like Twombley and that sonofabitch son-in-law of his. People like that.
+C: MARGIE
+D: Jack wouldn't kill for it. Besides, who would pay him?
+C: WADE
+D: Lots of people. Guy like Evan Twombley, Boston union official, probably got lots of people want to see him dead. The Government's been investigating his links with the Mafia.
+C: MARGIE
+D: The Mafia hire Jack Hewitt?
+E: laughs
+C: WADE
+D: No, I just know Jack's lying about what happened. He just seemed -- I know that kid, what he's like inside. He's a lot like I was at his age.
+C: MARGIE
+D: You wouldn't have done anything like that, shot someone for money.
+C: WADE
+D: No. Not for money. But, if somebody'd given me half a damned excuse -- I was pretty fucked up, you know.
+C: MARGIE
+D: But not now.
+E: smiles
+N: Wade sits on the edge of the bed, sighs. Lapses into thought. Margie caresses his back, kisses it. He winces.
+C: MARGIE
+D: When you gonna get that tooth fixed?
+N: Wade looks at her, brushes the hair off her face:
+C: WADE
+D: I can see what you looked like as a kid.
+C: MARGIE
+D: You knew me as a kid.
+C: WADE
+D: Yeah, but never what you looked like. Not really. Never really studied your face, like now. I was never able to see you as a kid when you were a kid until now, this way.
+C: MARGIE
+D: What way?
+C: WADE
+D: After making love. I like it. It's nice to see that in a grown-up person.
+C: MARGIE
+D: It's nice.
+N: Wade walks naked to the kitchen, returns with two beers, one for Marg. He gets in bed. She, thinking, sips:
+C: MARGIE
+D: Don't you think, do you still think it's a good idea to press this custody thing -- just now?
+C: WADE
+D: I'm her father -- supposed to be, but I'm not able to. Yes. Yes, I am. It may be the only thing in my life I've been so clear about wanting. Even if it takes a big fight.
+C: MARGIE
+D: Then... I guess you have to.
+C: WADE
+D: There's another thing I've been thinking about. I don't know how you feel about the idea, Margie, because we've never talked about it. But I've been thinking lately, I've been thinking we should get married sometime. You and me.
+E: silence
+C: MARGIE
+D: Oh, Wade.
+E: uncertain
+C: WADE
+D: I've been thinking about it, that's all.
+C: MARGIE
+D: You've been married twice --
+C: WADE
+D: It was to the same woman. I was just a kid... It's not like a marriage proposal or anything, just a thought. Something for you and me to talk about and think about. You know?
+E: Marg looks
+C: MARGIE
+D: Alright. I'll think about it.
+C: WADE
+D: Good.
+N: He kisses her. His jaw winces in pain.
+T: CUT TO:
+S: INT. WHITEHOUSE FARM - DAYBREAK (1964)
+N: THE FLASHBACK CONTINUES: Glen Whitehouse, plastered, yells at Wade, age 13:
+C: POP
+D: I've got sons, Goddamnit, oh my God, have I got sons! Wade? Rolfe? Elbourne? You love me boys? Do you love your Pop? Of course you do!
+N: Wade, frightened, retreats as Sally enters in her housecoat.
+C: SALLY
+D: Glen, stop --
+C: POP
+D: Oh, Jesus, Sally, you are such a Goddamned good person! Capital G. You are so much better than I am, I who am no good at all, you who are a truly good person, like a fucking saint! Beyond fucking com-pare.
+N: Glen reaches for the Canadian Club; Sally tries to block his hand. Glen pulls his arm from hers, clipping her cheek with the bottle. Sally gasps, grabs her cheek. Wade pushes between them, protecting his mother.
+C: POP
+D: My big boy bursting out of the seams of his jeans!
+N: Pop clenches his fist. Wade vainly looks Rolfe's direction for help.
+C: SALLY
+D: Don't!
+C: POP
+D: You little prick!
+N: Pop's fist comes crashing down. Wade raises his arms to protect himself. Wade's arm bone CRACKS with the blow. Wade grimaces in pain.
+C: SALLY
+D: Glen, stop!
+T: CUT TO:
+S: EXT. MARGIE FOGG'S HOUSE - DAY
+N: Margie gets into Wade's idling Ford.
+T: CUT TO:
+S: INT./EXT. WADE'S CAR - DAY
+N: Wade, washed and changed, drives; Marg sits beside him. They head north. Deer rifles echo from the woods.
+C: MARGIE
+D: Did you tell them? That we were coming?
+E: no answer
+C: WADE
+D: Don't you think it's proper for a fella to introduce his girl to his parents?
+C: MARGIE
+D: I know your parents.
+C: WADE
+D: I just want to pick up my divorce papers. For the lawyer. It won't take long.
+T: CUT TO:
+S: EXT. WHITEHOUSE FARM - DAY
+N: Sun slants over Parker Mountain; they pull up. The house, once white, is peeling. Polyurethane flaps over dark windows. The 1960 red Ford pickup sits long frozen in the open barn.
+C: MARGIE
+D: Are you sure they're home? Did you call?
+E: getting out
+C: WADE
+D: The truck's here. Looks like they've stayed inside since the snow started.
+N: They stamp their feet on the porch; Wade turns the knob. Locked. It seems abandoned.
+C: WADE
+D: Strange.
+C: MARGIE
+D: Think they're alright?
+C: WADE
+D: Of course! I would've heard.
+C: MARGIE
+D: How?
+C: WADE
+D: I don't know for Christ's sake!
+N: They round the house, try the back door. Wade knocks loudly. GLEN WHITEHOUSE, 70, opens the door, stands inside. He wears long underwear, stained woolen trousers, slippers.
+T: CUT TO:
+S: INT. WHITEHOUSE FARM - DAY
+C: WADE
+D: Pop, Pop, you okay?
+N: Glen shuffles toward the stove; they follow. He starts a fire.
+C: WADE
+D: Jesus, Pop, how can you stand the cold, dressed like that? Where's Ma?
+C: POP
+D: Sleeping.
+C: WADE
+D: You remember Margie Fogg?
+C: POP
+D: From Wickham's. Been a while. Like some coffee?
+C: WADE
+D: How you and Ma doing? Haven't seen you in town for a while.
+C: POP
+D: We're alright. Your Ma's sleeping. You want me to get her?
+C: WADE
+D: Yeah.
+N: Pop goes to the bedroom.
+C: WADE
+D: Jesus. Nothing's changed around here.
+E: to Marg
+N: Pop returns.
+C: WADE
+D: Where's Ma?
+C: POP
+D: She's coming.
+C: MARGIE
+D: Have you been heating the house? Not just with the stove.
+C: POP
+D: There's a furnace.
+C: MARGIE
+D: You're not using it today?
+C: POP
+D: It's broke I guess. There's an electric in the bedroom.
+C: MARGIE
+D: Maybe Wade should take a look at it. Your pipes'll freeze. Wade, would you do that?
+E: Pop nods
+N: Wade, concerned, pushes open the BEDROOM door:
+C: WADE
+D: Ma? It's Wade. Can I come in?
+N: He steps inside. On the bed, Sally Whitehouse, wrapped in blankets, lies dead. He walks over, beside the small electric heater, touches her forehead. Her skin is chalk white.
+C: WADE
+D: Oh, Lord.
+N: Margie steps into the doorway. Pop joins:
+C: POP
+D: Coffee's perked.
+C: MARGIE
+D: When did she die?
+C: POP
+D: Is...? She's dead then?
+C: WADE
+D: Yeah.
+C: POP
+D: I checked on her. She had the electric heater. Cold don't bother her as much as me. Which is why I give her the heater.
+C: WADE
+D: Is there something wrong with the phone?
+E: kneels over mother
+C: POP
+D: In the living room.
+C: WADE
+D: Why didn't you call and have the furnace fixed?
+C: POP
+D: Wade. I thought she was alright. Till this morning she was.
+N: Pop goes to the dresser, pours himself Canadian Club. Wade opens his mother's mouth, attempts respiration.
+C: POP
+D: It makes me sad.
+C: MARGIE
+D: Can --?
+C: POP
+D: Makes me sad it was her. Instead of me. I shoulda froze.
+E: sits
+T: CUT TO:
+S: EXT. ROLFE'S CAR - DAY
+N: ROLFE WHITEHOUSE, 38, drives his four-door Toyota west: through Massachusetts, toward New Hampshire. His face bespeaks tolerance, objectivity -- in short, education. It's also Wade's face.
+C: ROLFE
+D: Wade called me, as usual, late at night. I knew it was Wade -- no one else calls me at that hour -- and I was ready to listen to another chapter in one of his ongoing sagas. There was the detective story concerning the shooting of Evan Twombley and the family melodrama about Wade's custody fight with Lillian. But not this time.
+E: V.O.
+T: CUT TO:
+S: EXT. WHITEHOUSE FARM - DAY
+N: Rolfe's Toyota sits with other cars.
+C: ROLFE
+D: Wade was telling a different story, or so it seemed then, one in which I myself was a character. He had called to tell me that sometime the previous night our mother had died, and he had discovered the body when he'd gone over to visit her and our father with Margie Fogg. Pop was okay, but kind of out of it. Worse than usual, maybe, though no drunker than usual.
+E: V.O.
+T: CUT TO:
+S: INT. LIVING ROOM - DAY
+N: Friends and relatives gather in the living room: Wade, Rolfe, Glen, LaRiviere, Margie, an aging couple, REVEREND DOUGHTY, 30, thin, wearing glasses and an avocado-green suit.
+C: WADE
+D: Shouldn't we get this show on the road, now that Rolfe's here?
+E: finishing a beer
+N: No one moves. LaRiviere checks his watch. Wade shrugs:
+C: WADE
+D: Pointless to stand around in church with nothing to do, I guess.
+C: ROLFE
+D: What about Jill? Is Lillian bringing her?
+N: Margie's face tells Rolfe he's touched on a sensitive subject.
+C: MARGIE
+D: They'll be at the church and the cemetery.
+N: Wade opens the frig, takes out another beer:
+C: WADE
+D: Anyone else want one? Rolfe?
+C: ROLFE
+D: No thanks. I don't drink.
+C: WADE
+D: Yeah. I forgot.
+C: LARIVIERE
+D: How you holding up, Wade?
+C: WADE
+D: I'm fine, fine.
+C: LARIVIERE
+D: You Rolfe? I remember you from high school. You're a teacher now? Harvard?
+E: Rolfe nods
+C: ROLFE
+D: B.U.
+C: LARIVIERE
+D: I haven't seen you around. I don't suppose there's much reason for you to come this way.
+N: Rev. Doughty calls for Glen Whitehouse, who has been sitting, silent, drinking, to join the others:
+C: REV. DOUGHTY
+D: Come, Glen, join us. Let's kneel for a moment of prayer before the service. Wade? Rolfe?
+C: ROLFE
+D: Well...
+N: Wade, expressionless, looks at Rolfe. Rolfe, embarrassed, trying to do the right thing, helps his father kneel beside Rev. Doughty. The others join the circle.
+C: WADE
+D: This is nuts.
+C: MARGIE
+D: Wade.
+E: reproving
+C: REV. DOUGHTY
+D: Dear Heavenly Father, Lord of Hosts, we come to Thee to beseech Thy blessings and commend to You the soul of our beloved wife and mother, Sally Whitehouse, to be one with You and walk with You --
+N: Pop mutters something. Wade, Rolfe and Marg exchange glances. He mutters louder:
+C: POP
+D: ...goddamned hair on her head.
+N: He rises over LaRiviere, turns, exclaims:
+C: POP
+D: Not a one of you is worth a goddamned hair on that good woman's head!
+N: Doughty freezes.
+C: WADE
+D: Pop! Don't do this now, Pop.
+N: Pop knocks back a drink as the others stand.
+C: LARIVIERE
+D: Maybe I'll head on over to the church.
+C: REV. DOUGHTY
+D: This is a difficult time.
+N: Gordon and the couple file out. Doughty, Glen, Rolfe, Wade and Margie remain.
+C: WADE
+D: Listen, it's no big deal, Pop.
+C: POP
+D: Come on, smart guy. Tell how it's no big deal. Tell me how a single one of you is worth a single hair on that woman's head.
+E: raising fists
+C: REV. DOUGHTY
+D: Give up this demon.
+C: POP
+D: Go fuck yourself!
+N: Wade, eyes blazing, squares off. Son to father.
+C: ROLFE
+D: Wade, just leave it.
+C: POP
+D: Listen to your little brother. 'Wade, just leave it.' Candy-asses. All of you. That's what I've got for children. Candyasses. 'Wade, just leave it.' Praise the Lord! 'Just leave it!'
+E: mocking
+N: Wade stiffens. Pop cocks his fist. Marg, screaming, jumps between them as Pop swings. The old man bounces blows off Margie's arms and shoulders. Wade pushes Marg aside, grabs his father in a bear hug and walks him backwards, flat against the wall. Wade releases him. Pop, frail, collapses to the floor. Wade kneels over him:
+C: WADE
+D: If you ever touch her again, I'll kill you. I swear it.
+T: CUT TO:
+S: EXT. CEMETERY - DAY
+N: Townspeople and friends cluster around the gravesite: Pop, LaRiviere, Jack and Hettie, LaCoy, Chub Merritt, Nick, Jimmy, Lillian, Jill and Horner, Rolfe, Wade and Margie.
+C: ROLFE
+D: The day of the funeral was almost springlike. The snowline crossed New Hampshire west to east, retreating northward to Concord where it melted by midmorning.
+E: V.O.
+N: Rev. Doughty finishes. The mourners exchange farewells. Wade looks at Lillian. Margie and Rolfe, escorting Wade's father, let him be. He walks over, hugs Jill.
+C: JILL
+D: Dad.
+C: WADE
+D: I'm glad you're here. Can you stay for a while?
+E: to Lillian
+N: Lillian hesitates, shakes her head 'no.'
+C: WADE
+D: You ever come to your father's grave anymore?
+C: LILLIAN
+D: No, not anymore. It's too... it's too far.
+C: WADE
+D: We should talk.
+C: LILLIAN
+D: We've done all our talking, Wade.
+C: WADE
+D: It's just...
+C: LILLIAN
+D: Let the past be. I'm sorry about your mother. I liked her. You never know how much women like that suffer. It's like they live their lives with the sound turned off -- and then they're gone.
+E: beat
+C: JILL
+D: Mom.
+E: tugging at Lillian
+C: LILLIAN
+D: She has an ice-skating lesson at four.
+C: JILL
+D: I'm taking ice-skating, Daddy!
+N: He kisses Jill, says goodbyes, walks back to Rolfe and Margie. Ahead, LaRiviere walks with Jack.
+T: CUT TO:
+S: EXT. WHITEHOUSE FARM - DAY
+N: Wade and Rolfe leave Margie and Pop in the kitchen as they step out back.
+C: WADE
+D: Let's dig out Pop's truck before the skin of the snow freezes up.
+N: They grab snow shovels propped against the porch, walk to the barn. Firewood's stacked alongside.
+T: CUT TO:
+S: INT. BARN - DAY
+N: Shafts of light filter through the ramshackle structure. A snow drift nearly buries Glen's red truck. Wade and Rolfe break away the packed snow.
+C: ROLFE
+D: What about Margie?
+C: WADE
+D: What about her?
+C: ROLFE
+D: Well, do you still plan to get married?
+C: WADE
+D: Yeah. She'll probably quit her job and stay out here with Pop. We can't leave him alone here, he'll set the damn place on fire. With Jill here a lot, it'll be good to have Margie around. Things are going to change in that department, by the way. I got a custody lawyer in Concord. I'm gonna see him tomorrow. All hell's gonna break loose, but it's worth it.
+N: They finish clearing the snow. Wade gets in the truck, starts the engine. Rolfe waits for Wade.
+C: WADE
+D: I want to let the gas run out. I don't want the bastard driving drunk, and he's always drunk now. After, we'll hide the keys.
+C: ROLFE
+D: Anything new about the shooting? Twombley?
+C: WADE
+D: I guess it was an accident, like everybody thinks.
+E: reluctant
+C: ROLFE
+D: Want to know what I think happened?
+N: Wade opens the glove compartment, finds a bottle of Canadian Club. He unscrews the cap.
+C: WADE
+D: Find them everywhere.
+E: swigs
+C: ROLFE
+D: I think your first response to the Twombley shooting was the correct one.
+C: WADE
+D: Which is?
+C: ROLFE
+D: That it wasn't an accident.
+C: WADE
+D: Then who shot him?
+C: ROLFE
+D: Well, your friend, I think. Jack Hewitt.
+C: WADE
+D: Motive. You gotta have a motive.
+C: ROLFE
+D: Money.
+C: WADE
+D: Who'd pay him that kind of money? Not the mob. They got their own guys. Specialists.
+C: ROLFE
+D: They wouldn't deal with a guy like Jack. Who else benefits if Twombley is suddenly dead?
+E: agreeing
+C: WADE
+D: I don't know. You tell me.
+E: swigs
+C: ROLFE
+D: Okay. It's likely there are people in the union who don't want Twombley to testify. They probably include his son-in-law who's vice-president and will probably be the next president. I read that in the papers. What's his name, Mel Gordon?
+C: WADE
+D: Yeah, the guy with the BMW I told you about. I did, didn't I?
+C: ROLFE
+D: Here's my theory. Twombley, unaware of illegal union loans or whatever, starts nosing around cause of the investigation and finds out. Finds out his son-in-law is involved.
+C: WADE
+D: So Mel Gordon wouldn't want a professional hit. That'd make the feds dig deeper. He wants an accident.
+C: ROLFE
+D: A hunting accident is perfect.
+C: WADE
+D: Shit, around here, you shoot somebody in the woods, you say it was an accident, you get fined fifty bucks and your hunting license lifted. Jack's probably saying the guy shot himself cause he ain't got his deer yet and don't want his license pulled.
+N: The truck sputters, stops. Wade pulls the keys.
+C: WADE
+D: It's too neat. Things ain't that neat. It makes me mad. That somebody can pay to kill somebody, his own father-in-law, and not be punished for it. Don't that piss you off?
+C: ROLFE
+D: Not particularly.
+C: WADE
+D: Right's right, goddamnit! Don't you care what's right?
+C: ROLFE
+D: I care about what happened. The truth. I'm a student of history, remember?
+N: The sun is down. Wade tucks the keys in a knotted board.
+C: ROLFE
+D: I was thinking about that story you told me, about Pop and chopping the firewood out of the ice and after.
+C: WADE
+D: Yeah.
+C: ROLFE
+D: I hate to disappoint you, but I don't think it happened.
+C: WADE
+D: Of course it happened. Why would I lie about it?
+C: ROLFE
+D: It may have happened, but not the way you said.
+C: WADE
+D: You think I wouldn't remember a thing like that?
+C: ROLFE
+D: It wasn't me. I wasn't there, but I heard about it. When I heard about it, it was about Elbourne.
+C: WADE
+D: We'd have to go digging in Vietnam to ask him.
+C: ROLFE
+D: And Elbourne and Mom took you to the doctor and told him you fell from the hay loft.
+C: WADE
+D: Well, I never heard that one.
+E: laughs
+C: ROLFE
+D: I remember clearly cause when I heard I became real careful around Pop. I was a careful child and I became a careful adult, but at least I wasn't afflicted by that man's violence.
+C: WADE
+D: That's what you think.
+E: laughs again
+N: Rolfe looks out: the cobalt sky has turned black.
+C: ROLFE
+D: I gotta head back. It's a long drive.
+N: They walk toward the house.
+T: CUT TO:
+S: EXT. LARIVIERE CO. GARAGE - DAY
+N: Wade walks in as Jack and Jimmy prepare to head out, their drilling rig loaded with pipe. Gordon yells at Jack:
+C: LARIVIERE
+D: Put out that fucking cigarette!
+N: Jack opens the truck ashtray.
+C: LARIVIERE
+D: Not there, asshole. Flush it!
+N: Hewitt trudges to the john.
+C: WADE
+D: Morning, Gordon.
+N: LaRiviere smiles, goes to his office as Wade hangs his coat in his locker. Jack cruises over.
+C: JACK
+D: I'm fucking out of here.
+C: WADE
+D: Lawford?
+C: JACK
+D: Out of this fucking job. This job sucks. Working outside in the winter sucks.
+N: Jack gets in the cab of the drilling truck. Wade follows.
+C: JACK
+D: Open the door, will ya?
+C: WADE
+D: Why don't you quit now, you want out so bad?
+C: JACK
+D: Open the door. We're late.
+C: WADE
+D: I mean it -- you got enough money now. Head out for California. Surf's up, Jack, and you're digging wells in the snow.
+C: JACK
+D: What do you mean I got money? I'm as broke as you.
+N: Wade grins, goes to activate the door.
+C: WADE
+D: Looney Tunes, Jack. Fucking Looney Tunes!
+N: The drilling truck pulls out the garage, onto the road. From the opposite direction a black BMW slows, enters. Mel Gordon. Wade, all eyes and ears, watches. Mel Gordon parks in front of the office, gets out. Elaine calls:
+C: ELAINE
+D: Mr. Gordon!
+E: O.S.
+C: MEL GORDON
+D: The boss in?
+C: ELAINE
+D: Yes indeedy!
+E: O.S.
+N: Wade flips the door switch. Mel Gordon and LaRiviere talk. Yeah.
+T: CUT TO:
+S: EXT. CONCORD - DAY
+N: The South Main Street office of J. Battle Hand, lawyer. Concord is a real town, with traffic, stores, people with places to go.
+T: CUT TO:
+S: INT. LAWYER'S OFFICE - DAY
+N: J. BATTLE HAND, 60, sits in a wheel chair behind his desk. Wade, uncomfortable in work clothes, tries not to show it.
+C: WADE
+D: I screwed up the divorce. I agreed with everything she said. I wanted her to like me. I just want to be a good father.
+C: HAND
+D: It would help if you were married, if there was someone at home while you work.
+C: WADE
+D: I plan to. Soon.
+C: HAND
+D: How soon?
+C: WADE
+D: This spring.
+C: HAND
+D: Good. It would help if there were some drug or alcohol abuse on the part of your ex-wife. Sexual problems upsetting to the child.
+C: WADE
+D: It looks pretty hopeless, don't it?
+C: HAND
+D: No, not exactly. I'll look at the divorce decree, see if we can get it redrawn. Interview your daughter. Jill, right?
+C: WADE
+D: Yes.
+C: HAND
+D: Fine. I'll need a $500 retainer. You can mail it.
+C: WADE
+D: Jesus. How much... how much will the whole thing cost?
+C: HAND
+D: Hard to say. If we go for custody, depositions, psychiatric evaluations, it could drag on. Ten or twelve thousand dollars. She could win on appeal. If we just want to get the visitation rights redrawn, assuming they're unduly restrictive, it wouldn't be more than twenty-five hundred.
+C: WADE
+D: Oh.
+C: HAND
+D: You might be better off legally as well as financially to just go for the --
+E: sensing situation
+C: WADE
+D: Yeah. I know. The custody suit thing was just my getting back at her. I'm not as dumb as I look. Whatever you say. I love my daughter. I'll send you the five hundred.
+E: Hand nods
+N: Wade stands; Hand motors to the door. Wade puts his fingers in his mouth. His tooth throbs.
+T: CUT TO:
+S: EXT. LARIVIERE CO. - DAY
+N: Fairlane squad car in its customary spot.
+T: CUT TO:
+S: INT. LARIVIERE'S OFFICE - DAY
+N: Wade and Gordon speak. LaRiviere is relaxed, open: a "new Gordon."
+C: WADE
+D: Sorry about the long lunch. My clutch is going out again.
+C: LARIVIERE
+D: You ever think of getting a new car, Wade?
+C: WADE
+D: On what you pay me?
+C: LARIVIERE
+D: Elaine! Call Chub Meritt and have him pick up Wade's car, fix the clutch.
+C: ELAINE
+D: What!
+E: O.S.
+C: LARIVIERE
+D: Use the pickup. I'll bill it to the town. You're the town police officer and the town police officer should have a decent car. You want a new car or not?
+E: to Wade
+C: WADE
+D: What do I have to do for it?
+C: LARIVIERE
+D: Nothing, Wade, I've been thinking. You don't get enough appreciation around here and it's time we changed things a little.
+C: WADE
+D: I saw Mel Gordon in here this morning.
+C: LARIVIERE
+D: So?
+C: WADE
+D: He say anything about the summons I tried to give him? Sonofabitch wouldn't accept it.
+C: LARIVIERE
+D: Wade, that wasn't smart. Going out right after the man's father-in-law shot himself. Let it go. Call it a favor to me.
+C: WADE
+D: You? Why?
+C: LARIVIERE
+D: Mel's doing some business with me. It's nice to do favors for people you do business with. He was in a hurry. No big deal.
+C: WADE
+D: That was before Twombley was shot. Before he knew.
+C: LARIVIERE
+D: What's the difference? Take my truck, take a rest -- stop worrying about Mel Gordon. Have you decided what to do with your old man's place -- he going to stay there?
+C: WADE
+D: Want to buy?
+E: takes out cigarette
+C: LARIVIERE
+D: Don't light that in here. I'm allergic.
+C: WADE
+D: I won't. You interested?
+C: LARIVIERE
+D: Maybe.
+C: WADE
+D: You and Mel Gordon?
+C: LARIVIERE
+D: Could be.
+C: WADE
+D: Always count on old Wade for a good screwing. Why should I always pay more, sell cheap? Why should you guys make all the money. You and Mel and Jack. Right's right.
+E: voice rising
+N: Wade pulls out Bic, lights cigarette.
+C: LARIVIERE
+D: Out! Out!
+E: waving arms
+N: Wade smiles, exits.
+T: CUT TO:
+S: EXT. RT. 29 - NIGHT
+N: Wade, driving Gordon's 4x4 with running lights and roll bar, takes 29 toward Pop's farm. A pickup passes him: Jack Hewitt's burgundy Ford. Wade stops. Jack turns up Parker Mountain -- the road to the accident scene. Something's up. Wade turns and follows. Jack's fresh tracks lead the way. Hewitt is driving fast. Wade keeps up. Jack, far ahead, approaches the accident scene. Stops. Night has fallen. Wade comes over a low rise, spots Jack's pickup. He kills the lights, parks to block Jack's exit. Silence. Footsteps in the snow. Wade watches, listens. What's he doing? Looking for evidence? The burgundy pickup engine suddenly ROARS -- Jack's back and at the wheel -- the tires squeal, spit snow as he spins past Wade. Wade starts his engine, gives pursuit. The pickups gun their engines, bumper to bumper, down mountain roads, lumber roads, rocky trails. Wild headlamps their only guide.
+T: CUT TO:
+S: EXT. POND - NIGHT
+N: A trail turns sharply past a shallow beaver pond -- too sharply for Jack. He crashes through a stand of skinny birches straight out onto the pond. The pickup's momentum carries it across the pond. Wade drops into first gear, follows, his headlights reflecting ice. He drives directly to Jack, bumper to bumper, headlight to headlight. Jack sticks his head out:
+C: JACK
+D: You crazy sonofabitch! You'll sink us both! Get off the fucking ice! Get off!
+N: Wade doesn't budge. Jack backs away; Wade inches forward. Hewitt's trapped. Trees behind him. Neither truck has traction on ice. Jack steps out, swinging his fists wildly. Wade gets out. Jacks grabs his rifle, points it:
+C: JACK
+D: I'll shoot you, Wade, I swear it! I'll fucking shoot you dead if you don't move away from that truck!
+N: Wade backs off.
+C: JACK
+D: Don't move! I'll shoot you dead if you move!
+N: Jack gets back in his pickup, maneuvers it slowly around the Dodge, crosses the ice and is gone. Wade stands in darkness. The only sound his idling truck, the wind. Then a third sound -- the snap of ice. Ice cracks ripple from the middle of the pond. Ice planes tip around the truck. LaRiviere's snazzy Dodge slips, descends, disappears. Headlights glow under water, then go out. "Our Business Is Going In The Hole." Wade, alone in darkness, plops into the water, paddles to shore. Freezing, he finds Jack's tire tracks in the snow. He bangs his jaw.
+T: CUT TO:
+S: EXT. WICKHAM'S - NIGHT
+N: A car drops Wade off. "Home Made Cooking."
+T: CUT TO:
+S: INT. WICKHAM'S - NIGHT
+N: Wade enters the empty diner. His clothes frozen.
+C: NICK
+D: Your father's in back, Wade. Marg had to babysit him. She moved in with you, huh? What happened?
+E: looking closer
+N: Wade goes to the kitchen. Glen Whitehouse, washing dishes with Margie, looks up:
+C: POP
+D: Ah, the prodigal son.
+C: NICK
+D: About fucking time.
+C: POP
+D: Look, got me a new job, second cook and bottle washer!
+C: MARGIE
+D: What happened?
+C: WADE
+D: Jesus Christ, Pop, let's go home. I got waylaid. Sorry.
+C: POP
+D: The fuck you got waylaid. You follow your prick around like it was your nose.
+C: NICK
+D: Can it, Whitehouse. Get him out of here. It was funny at first, but I'm tired.
+E: enters to Wade
+C: MARGIE
+D: There's clothes in the back.
+N: Wade's old man talks as he dresses:
+C: POP
+D: Let's go home? What home is that? Your home? My home? Let's have a talk about that. You're fucking sly, Wade. Your mother's dead so she can't make any excuses for you anymore! You gotta deal with me! No more sugar tit, asshole.
+N: Wade, redressed, enters:
+C: WADE
+D: Pop, for Christ's sake!
+C: POP
+D: You think you can take me now? Come on, try.
+N: Margie and Nick guide pere et fils to MARG'S CAR. Nick speaks to her:
+C: NICK
+D: Marg, get out of this. Fast.
+C: MARGIE
+D: I can't.
+N: Marg drives off.
+T: CUT TO:
+S: INT. MARGIE'S CAR - NIGHT
+N: Wade leans close to his father, his breath on his:
+C: WADE
+D: I wish you would die.
+N: Pop spits directly into Wade's face, raises his arm. Wade catches it, twists it. Margie shrieks:
+C: MARGIE
+D: Stop it! Stop it! Just stop it!
+N: They do, glaring as they approach the farmhouse.
+T: CUT TO:
+S: INT. BATHROOM - NIGHT
+N: Wade looks in the bedroom, sees Margie sleeping, goes to the bathroom. He peers, stands before the sink, washes his hands slowly. Drying his hands, he looks into the mirror, startled by the image of his own face. A phone conversation plays over:
+C: WADE
+D: No shit, Rolfe, I glanced up and there he was, only it was me. But it was like I had never seen myself before. It was a stranger's face. Hard to explain. You fly on automatic pilot, like I was doing all night, and you disappear.
+E: O.S.
+T: CUT TO:
+S: INT. LIVING ROOM - NIGHT
+N: Wade sits alone in the darkened room, speaking on the phone. His cigarette glows.
+C: WADE
+D: Then you accidentally see your body, or your face, or whatever, and you don't know who the hell it belongs to. Strange. It's the business with the old man, I know, and how incredibly pissed I was at him, and also chasing Jack Hewitt like that, and the Goddamned truck going through the ice, not to mention Margie's being so upset -- one thing on top of another.
+C: ROLFE
+D: Wade, are you alright?
+E: O.S.
+C: WADE
+D: But you gotta hear this. You won't believe it. Mel Gordon had come by to visit LaRiviere and so now I'm in his office.
+T: CUT TO:
+S: INT. LARIVIERE'S OFFICE - DAY
+N: Wade's theory expanded: Jack and Gordon argue in the office. An extension of Scene 55. Like Wade's other theories, in black-and-white:
+C: LARIVIERE
+D: He's on to us!
+C: JACK
+D: Shit! What are we gonna do?
+C: LARIVIERE
+D: Maybe I can buy him off. I gotta talk to Mel.
+C: JACK
+D: You can't buy Wade off.
+C: LARIVIERE
+D: We bought you.
+C: JACK
+D: That was me.
+T: CUT TO:
+S: EXT. ALMA PITTMAN'S HOUSE - DAY
+N: Wade drives Margie's car toward LaRiviere's. In his rear view window he spots Chick Ward driving Chub Merritt's tow truck, lights blinking, pulling LaRiviere's pickup like a dead fish. He pulls over, lets it pass. He's parked in front of Alma Pittman's house. A sign on the lawn reads, "Alma Pittman, Town Clerk." He looks at the house, decides to go in. Wade walks up the shoveled steps, knocks on the door. ALMA, 60, wearing plaid shirt and slacks, greets him with a smile:
+C: ALMA
+D: Wade! Come in! Have a cup of coffee.
+T: CUT TO:
+S: INT. ALMA PITTMAN'S HOUSE - DAY
+N: They step into Alma's living room/office. She's been keeping the town secrets for as long as anyone can remember.
+C: WADE
+D: You got yourself a computer, Alma.
+C: ALMA
+D: Been putting my files into it. You take sugar and milk?
+C: WADE
+D: No. Black.
+N: They sit by her desk at the bay window. She studies him.
+C: ALMA
+D: Are you alright, Wade?
+C: WADE
+D: Yeah, sure. Why? I got this damned tooth, I got a few things bugging me, like everybody else. But I'm okay.
+C: ALMA
+D: Well, you look... sad. Upset. I don't mean to pry. I'm sorry about your mother. It was a nice funeral.
+C: WADE
+D: Alma, I think there's some dirty business going on in this town.
+C: ALMA
+D: Always has been.
+C: WADE
+D: This is maybe worse than you and I are used to. What I'm talking about, I'm talking about murder. Among other things.
+E: beat
+C: ALMA
+D: Who?
+C: WADE
+D: Evan Twombley, the union boss who got shot. Somebody murdered him.
+C: ALMA
+D: Who?
+C: WADE
+D: You know Jack Hewitt, the kid I work with?
+T: CUT TO:
+S: EXT. MERRITT'S STATION - DAY
+N: Gordon LaRiviere examines his damaged pickup outside the Shell station.
+T: CUT TO:
+S: INT. ALMA PITTMAN'S HOUSE - DAY
+N: Wade finishes:
+C: WADE
+D: ...if Jack told the truth, he could be free by the time he's my age.
+C: ALMA
+D: Sometimes things are simpler than you think. Let me ask you a question.
+C: WADE
+D: You don't believe me?
+C: ALMA
+D: About Jack? No. Have you checked out the tax bill on your father's farm lately?
+E: crosses to her desk
+C: WADE
+D: I know he's due for the last two years. I was thinking of paying it when the insurance comes in.
+C: ALMA
+D: Has anybody offered to buy it?
+C: WADE
+D: As a mater of fact, yes. LaRiviere.
+N: Alma punches her computer. Dozens of items flash up.
+C: ALMA
+D: This is all the real estate transactions in this town the last year. Most of it unused land. Most of it for little more than the back taxes owed.
+N: She punches again: only three items.
+C: ALMA
+D: This is from three years ago. Some difference, huh?
+C: WADE
+D: What is the Northcountry Development Association?
+E: looking
+C: ALMA
+D: I went down to Concord to check it out. The president is Mel Gordon. The vice-president and treasurer is Gordon LaRiviere. Those boys are buying up the mountain, Wade. $364,000 this year. I believe that's out of LaRiviere's league.
+C: WADE
+D: Twombley involved?
+C: ALMA
+D: No.
+C: WADE
+D: He musta found out. They had to get rid of him. And Jack'll get blamed.
+C: ALMA
+D: All the figures show is that Gordon LaRiviere is going to be a very rich man using his position as Selectman. In a year or two, you won't recognize this town.
+T: CUT TO:
+S: INT. LARIVIERE'S OFFICE - DAY
+N: Wade storms in, shouting. Jack and Jimmy choose donuts by the file cabinet. LaRiviere's behind his desk. Wade's tooth makes it hard for him to talk without pain:
+C: WADE
+D: You sneaky sonofabitch! I've got your number now, Gordon! All these years I actually thought you were a decent man. Can you believe that?
+E: pounds fists on desk
+N: Jack, combative, looks at Wade. Gordon stands before Jack can speak:
+C: LARIVIERE
+D: Wade, you're done. Let me have the shop keys.
+E: extends hand
+C: WADE
+D: You two, don't you get it? He's using you. You're his slaves. Jesus Christ, Jack, don't you see that?
+E: to Jack and Jimmy soft
+C: LARIVIERE
+D: The key, Wade.
+C: WADE
+D: Yeah, you can have the key. It's the key that's kept me locked to you all these years. I give it to you with pleasure. Now I'm free. See how easy it is, Jack? All you got to do is give back what the man gave you, and you're free of him. I've got to call my brother.
+E: passes key turns to leave
+N: Wade's phone conversation plays OVER as he goes to Margie's car.
+C: WADE
+D: I know what it means. I'm just running out of ways to use it.
+E: O.S.
+C: ROLFE
+D: For what?
+E: O.S.
+T: CUT TO:
+S: EXT. ROUTE 29/MERRITT'S - DAY
+N: Phone conversation continues as Wade drives to Merritt's Shell station.
+C: WADE
+D: To help, Jack, of course -- and to nail those sonsofbitches, the Two Gordons. That's what Alma calls them. Jesus, Rolfe, whose side are you on?
+E: O.S.
+C: ROLFE
+D: Take care of the little things first, the things that are distracting you from taking care of the big things. Call Chub Merritt, get your car back, call a dentist, for God's sake, and get your tooth pulled, don't trust the locals, get your facts straight and go straight to the state police. Let them work on this.
+E: O.S.
+N: CHICK WARD, 30, Chub Merritt's mechanic, greets Wade outside the station. We join their conversation:
+C: CHICK
+D: The good news is we haven't got to your car yet. The bad news --
+C: WADE
+D: Just tell me when you'll have it fixed.
+C: CHICK
+D: -- the bad news is there's a problem with Gordon's truck what somebody drove through the ice last night. Figured you'd know something about that, Wade.
+C: WADE
+D: Yeah. I know about that.
+E: beat
+C: CHICK
+D: LaRiviere says he ain't gonna pay for the fixin' of your car. A couple hundred for the clutch. I got some more bad news. Wanna hear it?
+C: WADE
+D: Tell me.
+C: CHICK
+D: Chub says you're fired.
+C: WADE
+D: He can't fire me. LaRiviere already did that this morning.
+C: CHICK
+D: He's a Selectman. The town. He said to tell you to turn your badge in and clean out your office. I'm supposed to pull the CB and police light out of your car. They're town property.
+T: CUT TO:
+S: INT. WHITEHOUSE FARM - DAY
+N: Wade, open phone book in hand, walks back and forth speaking into the receiver. Margie looks up from the KITCHEN table, an old newspaper in front of her.
+C: WADE
+D: What do you mean, you can't take me today? I told you --
+N: The other party has hung up. Margie stands, upset. Wade slams the phone down.
+C: MARGIE
+D: What on earth is happening to you? Why are you acting this way?
+C: WADE
+D: It's my tooth! My fucking tooth! I can't even think anymore because of it.
+C: MARGIE
+D: I heard you talking. You got fired this morning, didn't you?
+C: WADE
+D: Look, that's temporary, believe me. There's so much shit gonna hit the fan the next few days, my getting fired by LaRiviere and Merritt won't matter a bit.
+N: Pop enters from outside with firewood, passes.
+C: WADE
+D: I'll get another job. People are going to need me. After this is over, they'll make me into a Goddamned hero. You wait: you'll see, I'll deliver. I'll be the best father who ever lived. You need me, even Pop, for Christ's sake, he needs me. This town needs me. Maybe now they think they can send me howling into a corner like a kicked dog, but my God, it'll be different soon.
+N: Margie's face falls. She retreats from the room as he speaks, taking her coat and pocketbook. Wade and his old man, she thinks: just the same. Wade looks out the window and she gets in her car, drives off. Wade holds his inflamed jaw; he can hardly see straight. Pop turns on the TV in the living room, boosts the volume. Pop comes back in the room, gets the Canadian Club, pours himself a drink.
+C: WADE
+D: Leave the bottle out!
+N: Pop growls, goes back to wrestling on the TV. Wade walks to the cabinet, removes a pair of pliers from the tool drawer, goes toward the bathroom. In the BATHROOM, Wade opens his mouth -- it hurts -- takes a bite of whisky, sets the bottle on the toilet tank. He looks at the stranger in the mirror, reaches inside his mouth with the pliers. Prying his mouth open, Wade Whitehouse locks the pliers onto a large molar in the back, squeezes and pulls. He steadies himself, pulls again, yanking the pliers from his mouth. The bloody rotted tooth clatters in the sink. He takes another bite of whisky. Rolfe's voice plays over:
+C: ROLFE
+D: You will say I should have known terrible things were about to happen, and perhaps I should have. But even so, what could I have done by then? Wade never went inside. He lived almost wholly out there on his skin, with no interior space to retreat to, even in a crisis.
+E: V.O.
+N: Wade takes another swig, sets the whisky bottle in the LIVING ROOM beside the TV set. Wade and Pop exchange looks. Wade exits through the KITCHEN, snatching his coat.
+T: CUT TO:
+S: EXT. BARN - DAY
+N: Wade spits blood into the snow as he grabs a gallon can of gasoline from under the porch. He crosses to the barn, prepares to pour the gas into the beat-up red truck.
+T: CUT TO:
+S: EXT. CONCORD - DAY
+N: Wade's Ford pickup passes J. Battle Hand's office, keeps going. Grass peeks through the snow at this lower altitude.
+T: CUT TO:
+S: EXT. LILLIAN'S HOUSE - DAY
+N: Wade parks the truck, walks past leafless bushes to a charcoal- gray split-level with pink shutters. He pushes the door bell; the first notes of "Frere Jacques" play. Lillian opens the door; Jill's footsteps approach.
+C: LILLIAN
+D: Wait there. She'll be right out. Is there snow on the ground up in Lawford?
+E: looks back
+C: WADE
+D: Yeah, lots.
+C: LILLIAN
+D: See. Get your boots.
+E: to Jill
+C: WADE
+D: Hi honey.
+C: JILL
+D: Hi.
+E: going back inside
+C: LILLIAN
+D: Have her back tomorrow night by six.
+C: WADE
+D: No problem. Look, I...
+C: LILLIAN
+D: You make me sick. I can't believe you've sunk so low.
+C: WADE
+D: Low as what? What have I done? It's bad to want to see your own daughter?
+C: LILLIAN
+D: You know what I'm talking about. For what you're doing to me and to the child you say you love so much. Love. You won't get away with it.
+N: Jill returns, wearing parka and boots, heads out with her father.
+C: LILLIAN
+D: Bye, honey! Call me tonight if you want.
+N: Wade and Jill approach the truck.
+C: JILL
+D: Are we going in this?
+C: WADE
+D: Yeah. My car's in the shop. This'll be fine.
+C: JILL
+D: It's pretty old.
+C: WADE
+D: It belongs to Pop.
+C: JILL
+D: Pop?
+C: WADE
+D: Grandpa. My father. It's his.
+C: JILL
+D: Oh.
+N: Wade opens the truck door. Jill climbs in with her overnight bag, looks back to the door where Lillian watches.
+T: CUT TO:
+S: INT./EXT. WADE'S TRUCK - DAY
+N: The Ford heads north.
+C: WADE
+D: How about a Big Mac?
+E: winking
+C: JILL
+D: Mommy won't let me eat fast food. You know that. It's bad for you.
+C: WADE
+D: C'mon, we can always sneak a Big Mac. And a cherry turnover. Your favorite. What do you say?
+C: JILL
+D: No.
+C: WADE
+D: What do you want, then?
+C: JILL
+D: Nothing.
+C: WADE
+D: You can't have nothing, Jill. We need lunch. Mr. Pizza?
+C: JILL
+D: Same thing, Daddy. Mommy says --
+C: WADE
+D: I know what Mommy says. I'm in charge today, though.
+C: JILL
+D: Okay. So we'll get what you want. What do you want?
+N: They stop for a light. Silence.
+C: WADE
+D: Nothing, I guess. I guess I can wait till we get home. Maybe we'll stop by Wickham's for a hamburger when we get to Lawford. That suit you? You always like Wickham's.
+C: JILL
+D: Okay.
+E: looking ahead
+C: WADE
+D: Fine.
+N: Pause. Wade looks over at Jill and realizes she is crying.
+C: WADE
+D: Oh, Jesus, Jill, I'm sorry. What's the matter, honey?
+N: She shoves her clenched fists hard against her legs.
+C: WADE
+D: Please don't cry. Please, honey.
+C: JILL
+D: What are you sorry for?
+E: regains composure
+C: WADE
+D: I don't know. For the food business. I guess. I just thought, you know, we'd sneak a Big Mac on Mommy, like we used to.
+C: JILL
+D: I want to go home.
+C: WADE
+D: You can't.
+E: quick
+N: Jill looks away. Wade pulls a six-pack from under the seat, pulls off a beer, takes a swig.
+C: JILL
+D: That's illegal, you know.
+E: quiet
+C: WADE
+D: I know.
+C: JILL
+D: You're a policeman.
+C: WADE
+D: Nope. Not anymore. I'm nothing anymore.
+C: JILL
+D: Oh.
+T: CUT TO:
+S: INT. WICKHAM'S - DAY
+N: Wade and Jill enter Wickham's, crowded with out-of-state hunters at the end of the deer season.
+C: WADE
+D: Jillie, you want a cheese grilled sandwich?
+C: NICK
+D: It's called a grilled cheese sandwich, you dub.
+N: Wade, flaring, reaches across the counter and grabs Nick by the shirtfront! Nick's arm knocks over a cup of coffee. The diner goes silent. Hunters look up. Jill's face is white; she starts to cry. Wade looks over -- it takes him a moment to react -- bends down, comforting her. He wipes her nose with a napkin.
+C: WADE
+D: Jill, please, it's alright. Nothing happened.
+C: JILL
+D: I want to go home.
+C: WADE
+D: Okay, let's go home, then.
+E: rigid
+N: They head for the door. Nick eases over:
+C: NICK
+D: Wade, I got a message for you. Jack Hewitt, he's looking for you. Wants you to clear your stuff out of his office in Town Hall.
+E: delicate Wade turns
+C: WADE
+D: His office. You mean my old office.
+C: NICK
+D: Well, I guess -- that's what he said.
+C: WADE
+D: He got his deer yet?
+C: NICK
+D: No, he's out now. Somewhere on the mountain. I'd stay away from him if I were you. He's real pissed.
+N: Wade takes Jill's hand, exits.
+T: CUT TO:
+S: EXT. TOWN HALL - DAY
+N: Jill waits in the old red truck parked outside. Wade emerges with cardboard boxes of office miscellany, rifles laid across top. He shoves the boxes and guns into the back of the pickup, gets in and drives off.
+T: CUT TO:
+S: EXT. WHITEHOUSE FARM - DAY
+N: Wade and Jill pull up the drive, past Margie's car, into the barn. Her trunk and two side doors are open. Margie comes out back with a battered suitcase, goes to her car. She's leaving. A plastic bag of clothes sits in the trunk. Wade and Jill get out, approach:
+C: WADE
+D: Going somewhere, Margie?
+C: MARGIE
+D: I'm just cleaning out some of this stuff that's built up. For the rummage sale. And some things for the cleaners. And the laundromat.
+C: WADE
+D: Don't lie to me. You're leaving me, I can see that.
+C: MARGIE
+D: Don't be silly. Hi, Jill.
+N: Jill, suitcase in hand, looking pathetic, tries to smile. A sadness passes over Wade's face.
+C: WADE
+D: Marg.
+E: hurt
+N: Margie, watching him, quivers, starts to cry. She drops her suitcase, out of nowhere bawling like a baby. Wade goes over, puts his arms around her, pats her back. His face is racked. He, too, seems about to cry -- if he could. In his arms Margie feels trapped, overwhelmed by Wade's circumstances and terrible sadness. She pushes:
+C: MARGIE
+D: Leave me alone! Leave me alone!
+E: crying
+N: She struggles in Wade's grasp. Jill, frightened, wildly hits him from behind:
+C: JILL
+D: Leave her alone! Leave her alone!
+N: Wade moves back like a bear, covering his face and arms. Jill, near hysterical, keeps after him, arms and fists flying. Wade stumbles backwards into the snow. Jill still swings. Margie dashes to intervene as Wade swings his arms wide. Jill flies into Marg. Her nose is bleeding. Wade's caught her across the mouth and nose. She takes cover behind Margie, crying. Margie and Jill stand side by side, saying nothing. Wade looks up stunned, as if hit by a rock. Marg slowly backs away, her arms behind her holding Jill.
+C: MARGIE
+D: Get in.
+E: to Jill
+N: Marg eases Jill into the front seat, closes the door, edges around the car slamming the trunk and gets into the driver's seat. Wade stands.
+C: JILL
+D: I want to go home. Will you take me home?
+C: MARGIE
+D: Yes.
+N: She closes the front door, starts the car. She backs out the drive. In her rear view mirror she sees the image of Wade receding, standing frozen, staring down at the snow. Pop emerges from the house, looks at his son, grinning. Wade looks at his old man, that dumb devilish grin plastered on his father's face. Glen Whitehouse holds an empty whiskey bottle like a pistol. Hunters' gunshots echo in the distance.
+C: POP
+D: You! By Christ, you -- I know you. Yeah, you goddamn sonofabitch, I know you. You're a goddamn fucking piece of my heart!
+E: Satanic delight points bottle
+C: WADE
+D: You don't know me. You don't know me! So fuck you. Fuck you.
+E: dead beat
+C: POP
+D: Nah-nah-naw! You done done finally done it! Like a man done it. Done it right. I love you, you mean sonofabitch!
+N: Pop holds up the bottle, pretends to fire it at Wade.
+C: WADE
+D: Love! What the fuck do you know about love?
+C: POP
+D: Love! I'm made of love!
+C: WADE
+D: Call it what you want.
+C: POP
+D: Everything you know is from me.
+C: WADE
+D: Yeah.
+C: POP
+D: Bang!
+C: WADE
+D: You and me.
+N: Wade waves his old man off, trudges toward the barn.
+C: POP
+D: Where the Christ you going? You sonofabitch, you leave my fucking truck where it is! I need... Give me the Goddamn keys! I need to get me to town!
+C: WADE
+D: Crawl!
+C: POP
+D: Nothing in the fucking house to drink. Not a fucking thing. My house, my money, my truck -- stolen!
+C: WADE
+D: I don't know you. My goddamn father and I don't know you.
+N: Wade walks from the glistening snow into the dark barn.
+T: CUT TO:
+S: INT. BARN - DAY
+N: Wade unloads the cardboard boxes filled with his office belongings from the back of the truck and sets them on the ground. He gathers up his rifles. Suddenly! A whiskey bottle SLAMS against the back of his head. He drops to his knees, the guns scatter. He looks up with child's fear and guilt at his father. Glen Whitehouse hovers over him, huge and ferocious: a colossus, lifting the bottle like a jawbone. Wade cringes, scrambles for the dropped rifle. He grabs it by the barrel and, twisting around, swings it in a slow motion arc, smashing the edge of the wood stock against his father's head. A cold hard CRACK of bone. Glen Whitehouse -- shriveled again, no longer mythic -- flies back like a stuffed dummy. He collapses beside the empty C.C. bottle. Wade, bleeding from the head, stands, staggers off Pop's inert body, aims his rifle at the old man's face.
+C: WADE
+D: I know you now. I love you too.
+N: Wade bolts the rifle, flicks off the safety, fires -- a loud CLICK. The gun's empty.
+C: WADE
+D: Joke. You scared me.
+E: smiles
+N: He kneels down, lovingly touches the old man's face, caresses his lips, cheeks, nose, brows, smoothes back his stiff gray hair. Pop's eyes are clouded. Blood suddenly drips from his ear to the ground. Wade rests the rifle against the truck. He bends over, slips his hands under his father's body, lifts him up. He carries Pop over to the workbench, lays him out. Groping beneath the bench, Wade finds the kerosene lamp. He unscrews it, pours kerosene the length of Pop's body. Wade takes out his cigarette lighter, ignites it, holds it for a moment, places it to Glen Whitehouse. Fire spreads the length of Pop's body, bursting like a shroud of yellow flame. The oil-stained bench crackles; flames shoot up the old weathered wall. Burning flesh and heat drive Wade backwards.
+T: CUT TO:
+S: EXT. WHITEHOUSE FARM - DAY
+N: Wade stands in snow and sunlight. The entire barn is engulfed in flames. Black smoke billows through the clear winter sky. Inside Glen Whitehouse, a pyre, burns.
+C: ROLFE
+D: The historical facts are known by everyone -- all of Lawford, all of New Hampshire, some of Massachusetts. Facts do not make history. Our stories, Wade's and mine, describe the lives of boys and men for thousands of years, boys who were beaten by their fathers, whose capacity for love and trust was crippled almost at birth and whose best hope, if any, for connection with other human beings lay in an elegiac detachment, as if life were over.
+E: V.O.
+T: CUT TO:
+S: EXT. PARKER MOUNTAIN - DAY
+N: Pop's red truck is parked behind Jack Hewitt's 4x4 on a snow- banked road. Wade, hunting rifle pointed up, traces Jack's footsteps down the slope of the mountain.
+C: ROLFE
+D: It's how we keep from destroying in turn our own children and terrorizing the women who have the misfortune to love us; how we absent ourselves from the tradition of male violence; how we decline the seduction of revenge.
+E: V.O.
+N: Wade spots Jack poised in a spruce grove, watching for deer. Wade bolts his rifle, releases the safety, aims and FIRES. Jack, hit in the chest, falls bleeding between trees. Blood stains the snow.
+C: ROLFE
+D: Jack's truck turned up three days later in a shopping mall in Toronto. Even without the footprints, the bullet, Wade's utter disappearance seemed evidence enough of his guilt.
+E: V.O.
+T: CUT TO:
+S: INT. WHITEHOUSE FARM - DAY
+N: Camera glides from room to room, glimpsing details, fragments of former times, as if this were an historical site or memorial. The walls resonate: lives were molded here.
+C: ROLFE
+D: LaRiviere and Mel Gordon were indeed in business. The Parker Mountain Ski Resort is now advertised all across the country. Jimmy Dame tends bar at the lodge. Chub Merritt opened a snowmobile dealership, Nick Wickham runs the new Burger King. Margie Fogg moved to Littleton, nearer her mother; Lillian and Jill went with Bob Horner to a new job in Seattle.
+E: V.O.
+N: Out a window, workers gather charred timbers from the barn, throw them on a truck.
+C: ROLFE
+D: We want to believe Wade died, died that same November, froze to death on a bench or a sidewalk. You cannot understand how a man, a normal man, a man like you and me, could do such a terrible thing. Unless the police happen to arrest a vagrant who turns out to be Wade Whitehouse -- or maybe he won't be a vagrant; maybe he will have turned himself into one of those faceless fellows working at the video store and lives in a town-house apartment at the edge of town until his mailman recognizes him from the picture at the post office -- unless that happens, there will be no more mention of him and his friend Jack Hewitt and our father. The story will be over. Except that I continue.
+E: V.O.
+N: THE END

@@ -1,0 +1,1505 @@
+M: Pi
+M: by
+M: Darren Aranofsky
+M: Originally featured at: Screensource
+M: Shooting Script
+M: September, 1996
+M: TITLES EXPLODE TO WHITE
+T: SLOW FADE TO:
+N: EXTREME CLOSE-UP of MAXIMILIAN COHEN'S eyes popping open.
+S: INT. MAX'S APARTMENT -CHINATOWN FLAT  NEW YORK CITY - NIGHT
+N: Max jolts his head from his desk and tries to orient him-self in the darkness. He has intelligent eyes set in an exhausted, good-looking face. Then he notices the blood dripping from his nose. Max wipes it. Max's voiceover begins:
+C: MAX
+D: Monday, September first. Six-fifteen.
+E: V.O.
+S: INT. BATHROOM - DAWN
+N: A pull-string light flips on. Max examines his bloody nose in the mirror.
+C: MAX
+D: The alchemist awakes. "Turn lead into gold, Max, lead into gold." Today, I find it.
+E: V.O. Imitating
+N: TIGHT ON Max's hand as three unmarked, circular pills hit his palm. Then, he slams the pills into the back of his mouth. Max replaces the cap on a plastic bottle of unmarked prescription drugs. He drinks from the sink and splashes a generous amount of water onto his head and face, cleaning his nose. He wipes his nose and examines the last remnants of blood on his fingertip. Then, he dips his finger under the tap.
+S: INT. MAX'S APARTMENT - MAIN ROOM - DAY
+N: Max's room is constantly dark because the windows are blacked out. He flips on his desk lamp. A tiny ANT crawls across his desk. He looks at it for a moment before getting angry and squashing it. Sitting on the desk are three computer monitors, which Max flips on. Then he pops on more lights and more switches. We pull back revealing that Max's apartment looks more like the inside of a computer than a human's home. The room is knee-high in computer parts of all shapes and sizes. The walls are covered with circuit boards. Cables hang from the ceiling like vines in a Brazilian rain forest. They all seem to be wired together forming a monstrous homemade computer. This is EUCLID, Max's creation. The computer is alive with sounds and lights. Max works on Euclid with his solder and drill. He cares for the machine as if it were his dream car
+C: MAX
+D: Heat's been getting to Euclid. Feel it most in the afternoon when I run the set. Have to keep the fans on all night from now on. Otherwise, everything is running topnotch. The stack of 286's is now faster than Columbia's computer science department. I spent a couple hundred dollars. Columbia's cost? Half a million? Ha...
+E: V.O. Small snicker
+N: Max checks the peephole on His front door. No one is there. He unbolts the five lock and slides into the hall.
+S: INT. APARTMENJ HALLWAY - DAY
+N: As he secures his apartment, a Young girl named JENNA runs up to him. Her MOM, down the hall, looks apologetic. Jenna's eyes light up and she pulls out her Fisher Price calculator.
+C: JENNA
+D: Max, Max! Can we do one?
+C: MOM
+D: Jenna! Jenna!
+E: Over and over again
+C: MAX
+D: Oh, no.
+C: JENNA
+D: What's three hundred and twenty-two times four hundred and ninety-one.
+N: Jenna types it into her calculator. Max finishes locking his door.
+C: MAX
+D: One hundred fifty-eight thousand, a hundred two. Right?
+E: instantly
+C: JENNA
+D: Right.
+E: Eyes light up
+N: Max heads down the staircase.
+C: MOM
+D: Jenna...
+N: Jenna screams after him.
+C: JENNA
+D: Okay, seventy-three divided by twenty-two.
+C: MAX
+D: Three point three one eight one eight one eight...
+E: instantly again
+S: EXT. CHINATOWN - DAY
+N: Max watches people bustle through the busy intersections of Chinatown. The streets are clogged with people.
+C: MAX
+D: Somewhere in there. Somewhere. I know it's right in front of me. The pattern. They say it's chaos, it can't be understood, too much complexity.
+E: V.O.
+S: EXT. ELECTRONIC MEGADUMP - DAY
+N: Max scavenges electronic parts as he carefully navigates an endless dump for old and rotting computers.
+C: MAX
+D: History it's there. Lurking, shaping. structuring, hiding, right beneath the surface.
+E: V.O.
+N: He unscrews a random IBM Board from a keyboard and slides it into his pocket.
+S: EXT PLAYGROUND  DAY
+C: MOVE IN
+D: on Max looking up at something as he reclines on a public bench.
+C: MAX
+D: The cycling of disease epidemics, the wax and wane of Caribou populations in the Arctic, sunspot cycles, the rise and fall of the Nile and yes! the New York Stock Exchange, they are all the same.
+E: V.0.
+C: MOVE IN
+D: on a tree branch - shaking gently in the wind.
+N: SLOW DISSOLVE TO EXTREME CLOSE-UP OF STOCK TICKER Bright stock quotes drift across the screen.
+C: MAX
+D: I'll find this structure, this order, this perfection.
+E: V.O.
+S: INT. MAX'S APARTMENT - DAY
+N: Max stares intensely at the ticker on the small TV that sits next to his monitors.
+C: MAX
+D: Turn lead into gold. The first. Right here. Right here. With math. The numbers of the stock market are my lead. When I find the pattern, then I will find gold.
+E: V.O.
+N: Max watches the right edge of the screen where the numbers appear. He wants to see what's before that edge... Max slaps the RETURN button on his computer. The phone starts ringing. Max eyes it suspiciously. Just then, Euclid starts printing results on an old dot- matrix printer. Max suspiciously answers The phone.
+C: MAX
+D: Hello?
+C: WOMAN'S VOICE
+D: Maximilian Cohen, please.
+C: MAX
+D: Yeah?
+C: WOMAN'S VOICE
+D: Mr. Cohen?
+C: MAX
+D: Who's this?
+C: WOMAN'S VOICE
+D: Hi. my name is Marcy Dawson. I'm a partner with the predictive strategy firm Lancet-Percy. Can I speak with Mr. Cohen, please?
+C: MAX
+D: I told you...
+N: The printer finishes printing.
+C: MARCY DAWSON
+D: Mr. Cohen! How are you? It's been a long time. Sorry I haven't been in touch. But I was hoping you would allow me to take you to lunch tomorrow, say one o'clock?
+C: MAX
+D: Sorry, I can't.
+C: MARCY DAWSON
+D: We're very anxious to talk with you, sir
+C: MAX
+D: I can't.
+C: MARCY DAWSON
+D: I'm prepared to make you a generous...
+N: Max hurries to wrap up the conversation.
+C: MAX
+D: I don't take offers for my research. You know that. Sorry, I Couldn't help you.
+C: MARCY DAWSON
+D: Mr. Cohen, give me a moment...
+N: But before Marcy finishes, Max hangs up. He rips off the printout and heads to the front door. He checks the peephole, His landlady. MRS. OVADIA, is sweeping the hallway stairs humming a turn-of-the century (the last one, not this one) tune. Max waits a moment. He tousles his hair. Then he checks again. She's gone. He opens his locks and releases several bolts.
+S: INT.MAX'S BUILDING HALLWAY - DAY
+N: Max locks his front door. Meanwhile, his next-door neighbor, DEVI MINSTRY, a sexy young Indian woman, is just getting home. Max looks away and tries to get his door locked. She's weighted down by a bunch of bags filled with food.
+C: DEVI
+D: Max, good!
+C: MAX
+D: Hi, Devi.
+C: DEV1
+D: I grabbed you some somosas.
+C: MAX
+D: Great.
+N: Devi heads over to Max with her bags of food. She looks up at Max.
+C: DEVI
+D: Your hair.
+N: Devi hands the bags to Max. Then she goes to pat down his Hair. Max retreats.
+C: MAX
+D: What are you doing?
+C: DEVI
+D: Your hair, you can't go out like that. Don't worry.
+C: MAX
+D: It's fine. It's fine.
+N: Devi pats down his hair. Max is humiliated.
+C: DEVI
+D: You need a mom.
+N: Max hands back the bags and heads quickly for the stairs.
+C: MAX
+D: I have to go.
+C: DEVI
+D: Your somosas!
+N: An embarrassed Max takes the bag.
+C: MAX
+D: Thanks.
+S: INT. COFFEE SHOP - DAY
+N: At the counter, Max stirs cream into his coffee. Then he takes three pills from the plastic bottle and drops them in his coffee. Max flips past a full-page ad in the paper that reads LANCET-PERCY 86% ACCURACY (ONLY GOD IS PERFECT). Max flips the page before he or we can absorb it. He compares stock quotes in the Wall Street Journal against his printout.
+C: MAX
+D: Sixteen, twenty-seven. Results: Euclid shows tomorrow's Dow closing up by four points. Anomalies include PRONET at sixty-fire and a quarter, a career high. Possible explanations, either A, an error in the June fifth algorithm, or B, Euclid's main processor is running a recursion...
+E: V.O.
+N: Max marks up the paper with lines and diagrams as he ponders his bits and misses. Then a puff of cigarette smoke drifts by and succeeds in bothering Max. He fans it away when
+C: VOICE FROM OFFSCREEN
+D: Oh sorry, am I bothering you?
+N: Max shrugs and looks over. The voice belongs to LENNY MEYERa bearded man in his late 20s sucking on a cigarette. On closer inspection, something is off. It seems that Lenny is an Orthodox Jew. His yarmulke sticks out Slightly from his wide-brimmed hat and the fringes from his tsi-tsis hang out from the bottom of his untucked shirt.
+C: LENNY MEYER
+D: I'll put it out. The name's Lenny Meyer
+E: Which he does
+N: Lenny sticks out his hand. Max responds with a small nod.
+C: LENNY MEYER
+D: And you are?
+C: MAX
+D: Max.
+C: LENNY MEYER
+D: Max?
+C: MAX
+D: Max Cohen.
+C: LENNY MEYER
+D: Cohen! Jewish? Max shrugs and turns back to his work.
+E: Judging
+C: LENNY MEYER
+D: It's okay. I'm a Jew, too. Do you practice?
+E: Joking Serious
+C: MAX
+D: No, I'm not interested in religion.
+C: LENNY MEYER
+D: Have you ever heard of Kabbalah?
+C: MAX
+D: No.
+C: LENNY MEYER
+D: Jewish mysticism.
+C: MAX
+D: I'm sorry, I'm very busy.
+C: LENNY MEYER
+D: I understand...it's just that it's a very exciting time in our history. Right now is a critical moment in time.
+C: MAX
+D: Really?
+E: Sarcastic
+C: LENNY MEYER
+D: Yes, it's very exciting. Have you ever put on Tefillin?
+N: Max has no idea what Lenny's talking about. Lenny pulls a leather box with black leather straps from his pocket.
+C: LENNY MEYER
+D: Tefillin. You know Tefillin. I know it looks strange. But it's an amazing tradition that has a tremendous amount of power. It's a mitzvah for all Jewish men to do. Mitzvahs, good deeds, are spiritual food for our hearts and our heads.
+N: And then Max notices that his thumb is twitching He grabs it self-consciously.
+C: LENNY MEYER
+D: They purify us and bring us closer to God. You want to try it?
+N: Just then, Max pays his bill and prepares to leave.
+C: MAX
+D: I gotta go...
+C: LENNY MEYER
+D: Are you okay? Max? Max?
+C: MAX
+D: I'm sorry, bye.
+C: LENNY MEYER
+D: Well, maybe some other time.
+S: INT. MAX'S BATHROOM - NIGHT
+N: Max splashes water on his face.
+C: MAX
+D: Please God, Let it be a small one.
+N: He pulls a metal vaccinating gun out of the medicine cabinet. Then be loads it with a small bottle of medicine. He rolls up his sleeve, dabs alcohol on his arm, and fires the gun into his arm.
+C: MAX
+D: Sixteen thirty-five. Second headache in under twenty-four hours. They're getting more frequent now...more painful, too. Drugs don't work, just take the edge off of it. Just gotta wait for the nosebleed. Relief comes from my nose.
+E: V.O.
+N: Next door, he hears Devi and her boyfriend talking.
+C: FARROUHK
+D: So I gotta make this drop off in Harlem and on the way down there's these three kids hailing me.
+E: O.S.
+N: Max slaps himself in the face a few times.
+C: DEVI
+D: You stopped?
+E: O.S.
+C: FARROUHK
+D: I was tight, so...
+E: O.S.
+N: Max watches his thumb twitch. And then pain shoots through him. He grabs the right side of his head, massages it, and pushes it in with his fingers. In the mirror, he examines the right side of his scalp. He sees nothing
+C: MAX
+D: Ahh...
+N: Max walks back into the MAIN ROOM and sits down in a chair. The lamp is blinding so he snaps it off. Only the bathroom light lights the room. He takes a few breaths.
+C: MAX
+D: Leave me alone.
+N: His neighbors conversation begins to build in volume and distortion.
+C: FARROUHK
+D: So I drop them off in the Village and they dart.
+E: O.S.
+C: DEVI
+D: Oh God...
+E: O.S.
+N: Max gags and rubs his head.
+C: FARROUHK
+D: I get out, grab my bat and start running. One of the kids, maybe sixteen, I catch a block later he's cursing at me, calling me a Paki bastard. So I whacked him, right in the head.
+E: O.S.
+C: DEVI
+D: Farrouhk!
+E: O.S.
+N: The pain seems to disappear. Max looks at his hand that was rubbing his bead. Then he looks at the front door. The doorknob seems to move. Something begins knocking on Max's door. The knocking gets louder and louder then the locks begin to unlock. FARROUHK's words begin to overpower Max.
+C: FARROUHK
+D: I'm kicking the bastard in the ribs banging his ass, knocking his head against the curb, harder and harder, I fucking lost it. A hot dog guy starts screaming "You're cracking his skull, you're cracking his skull." So they pulled me off of him and calmed me down. Cops said he had it coming to him.
+E: O.S.
+N: Then something starts pounding the door. The doorknob quivers, the locks unbolt. The chains are the only thing keeping out the intruder. The door shakes and the chains are strained. MAX is paralyzed with terror.
+C: MAX
+D: No! No!
+N: And then the door smashes open. Blinding light fills the room and we crash into the BLINDING WHITE VOID A moment of silence, then we
+T: CUT TO
+S: INT. BATHROOM - DAWN
+N: A phone rings incessantly. Max's eyes pop open. He's scrunched up in a corner of the room, squashed beneath the sink. His nose is bleeding. Max, crawls into the MAIN ROOM and picks up the phone. He pinches his nose and tilts his head back.
+C: MARCY DAWSON
+D: Mr. Cohen. Marcy Dawson here again I was just looking over my schedule and I realized I'll be in your neighborhood tomorrow around three.
+N: Max heads to the FRONT DOOR and checks the locks. He is barely listening to Marcy
+C: MAX
+D: Who is...
+E: Groggy
+N: The locks seem secure.
+C: MARCY DAWSON
+D: Marcy Dawson from Lancet-Percy I'm so anxious to meet you. It will be worth itfor both of us I promise. See you at your house at three, okay?
+C: MAX
+D: My house...how do...
+C: MARCY DAWSON
+D: Oh, don't worry, I got your address from Columbia. So three it is. Looking forward to it.
+N: Max tries to stop her but, before he can Marcy hangs up. A bewildered Max slowly hangs up.
+C: MAX
+D: Damn.
+N: Max checks the peephole - all clear. Then, he opens his - CLOSET which is filled with random computer parts and boxes. He pulls a thick neuroscience book from a shelf in the back of the closet. He almost knocks over an old dusty brass microscope on the shelf. Max flips through the book. It contains old plates illustrating the brain. Max examines some of the diagrams. EXT. S0L'S HALLWAY - DAY Max rings the bell on an apartment door. A few moments pass, and then SOL ROBESON opens the door. Sol is a wise-looking man in his early 70's. He walks with difficulty, leaning out of breath on a wooden cane. His arms are covered with faded Russian prison tattoos and he speaks with a thick Eastern European accent, He's happy to see Max.
+C: S0L
+D: Max! How are you7
+N: Max is happy to see Sol, but he's a bit bashful and intimidated. MAX Okay.
+S: EXT. SOL'S STUDY - MOMENTS LATER
+N: TIGHT ON the Japanese game of Go being played. Sol is white and Max is black. Sol's moves are secure and controlled while Max is hesitant.
+C: SOL
+D: Stop thinking, Max, just feel. Use your intuition. It's the only way to get into the flow. What did you think of Hamlet?
+E: Beat
+C: MAX
+D: I didn't get to it.
+C: SOL
+D: It's been a month. You haven't taken a single break.
+E: Knowingly
+C: MAX
+D: I'm so close, Sol. I'm so close but I just can't grab it.
+N: Sol changes the subject. He feeds his goldfish and points to one of them.
+C: SOL
+D: Have you met the new fish my niece bought me? I named her Icarus. After you. My renegade pupil. You fly too high, you'll get burned.
+N: Max looks up at Sol.
+C: SOL
+D: The more I see you, the more I see myself thirty years ago. My greatest pupil. Published at 16, Ph.D. at 20.
+C: MAX
+D: We'll see.
+C: SOL
+D: But life isn't just mathematics. I spent forty years looking for patterns in Pi, I found nothing.
+C: MAX
+D: You found things...
+C: SOL
+D: I found things, but not a pattern.
+S: INT. MOVING TRAIL - DAY
+N: Max sits in the corner of a rickety New York City subway car. The train is almost completely deserted. Max looks down at his hand. He opens his palm and reveals a black Go chip.
+C: MAX
+D: Tuesday, September second, eighteen twelve. If Sol hadn't gotten sick who knows where math would be. He spent years in the numbers of Pi. Searching for meaning, for order.
+E: V.O.
+N: Max notices a SKINNY MAN in a business suit staring at him. The man catches Max's eye and looks away, but then he quickly looks back, making Max turn away. He looks down at his Wall Street journal and draws a circle with its diameter then he writes "A=pir2" and "C=2pir." Next he writes "pi=3.14159..."
+C: MAX
+D: Three point one four...off into infinity and maybe insanity. Somewhere in there he wanted sanity. Sanity like he found in the circles Pi represented. Simple, sane circles. If only the stock market had circles. Some type of sanity. Some type of form, of shape.
+E: V.O.
+N: Suddenly, Max hears someone singing. Max looks up. It is the Skinny Man and he's singing with passion. It's all very strange to Max, who nervously looks away. And then the singing stops mid-verse Max looks up and the man is gone. Vanished. Max looks aroundno one in Sight.
+S: INT. APARTMENT STAIRCASE - DAY
+N: Max heads up the stairs to his apartment. Just then, a toy SLINKY appears from nowhere marching down the stairs. Max stops and waits until the Slinky hits his foot. He picks it up and looks at it. He looks around wondering what's going on. Then Jenna leans out over a railing and starts laughing at Max.
+S: INT. COFFEE SHOP-DAY
+N: Max sits at the counter frantically looking at the Wall Street Journal. He plops three pills into his coffee. He draws circles and other shapes across the page. Max is interrupted by a puff of smoke. At the same time, someone touches his shoulder and says:
+C: LENNY MEYER
+D: Hey, Max, how you doing?
+C: MAX
+D: Oh, okay.
+C: LENNY MEYER
+D: Lenny Meyer. I'll put it out. So, what do you do?
+E: Motioning to the cigarette Which be does
+C: MAX
+D: Um, I work with computers ...math.
+C: LENNY MEYER
+D: Really? What type of math?
+C: MAX
+D: Number theory. Mostly research.
+C: LENNY MEYER
+D: Number theory? No way, I work in theory, too. Not traditional, though... I work with the Torah. Amazing.
+E: Points to his yarmulke Awed by the coincidence
+C: MAX
+D: Yeah...
+E: Passing it of as a coincidence
+C: LENNY MEYER
+D: Yeah. You know Hebrew is all numbers. It's all math.
+C: MAX
+D: Hm.
+N: Lenny pulls out a worn' dog-eared Bible from his pocket. There are paper slips marking what seems like every other page. When he opens it up, Max sees that the pages are marked up by highlighter pens, notes and diagrams. Lenny points to the text. EXTREME CLOSE-UP of Hebrew letters.
+C: LENNY MEYER
+D: Here, look...the ancient Jews used Hebrew as their numerical system. Each letter is a number.
+N: Lenny pulls out a pen and grabs Max's Journal. He writes on it as he talks.
+C: LENNY MEYER
+D: You see...The Hebrew "A," the number 1. The Hebrew "B," Bet, is two. You can take any Hebrew text and turn them into a long string of numbers.
+N: The waitress refills Max's coffee.
+C: LENNY MEYER
+D: The Torah is just a long string of numbers. Some say that it's a long code sent to us from God.
+N: Satisfied, Lenny lights up a cigarette and takes a drag.
+C: MAX
+D: Kind of interesting.
+E: Mildly impressed
+C: LENNY MEYER
+D: Yeah, like take the Hebrew word for, say, the Garden of Eden, Kadem. Kuf, Dalei Mem...Kuf is a hundred. Daled, four Mem, forty. They equal one hundred and forty-four. Then take the tree of knowledge...in the garden, Aat Ha Haim, it equals two hundred and thirty-three. Now you can take that number and...
+E: Proud of himself
+C: MAX
+D: They're Fibonacci numbers.
+C: LENNY MEYER
+D: Huh?
+C: MAX
+D: The Fibonacci sequence. Italian mathematician, thirteenth century. If you divide a hundred and forty-four into two hundred and thirty-three, it approaches theta.
+C: LENNY MEYER
+D: Theta?
+C: MAX
+D: The Greek symbol for the golden ratio. The golden spiral.
+N: Lenny exhales the smoke. Max quickly graphs the number on his Wall Street Journal.
+C: LENNY MEYER
+D: You're right, I never saw that before. That's the series you find in nature. Like the face of a sunflower.
+C: MAX
+D: Wherever there's spirals.
+C: LENNY MEYER
+D: You see, there's math everywhere.
+N: Lenny's smoke drifts by Max's eyes. SLOW MOTION: MAX'S POV of smoke spirals spinning in front of him.
+C: MAX
+D: Math everywhere...
+N: SLOW MOTION: Max looks down at his coffee cup. He pours cream into his coffee. It shoots up and mixes with the black coffee forming spirals in the mug.
+C: MAX
+D: Everywhere...
+E: Serious
+N: SLOW MOTION: Max looks at the spiral he just drew on the Wall Street Journal. NORMAL SPEED Suddenly, Max stands up.
+C: MAX
+D: Oh my God...
+S: INT. MAX'S APARTMENT - DAY
+N: Max draws spirals all over his Wall Street Journal. Then he takes a thick black marker and draws a giant spiral across the entire page. Max is ecstatic as he pounds code into the computer takes moments to wake up, drops pills, and drinks a Ginseng soda.
+C: MAX
+D: Simple shapes! Tuesday, September second. Twenty-twenty-two. Sol! Sol! Sol! Shapes in the market. Why not? And they're spirals! Spirals!
+E: V.O.
+N: Max traces a big circle on the journal. Then, he cuts it out with an X-acto blade. He cuts out the middle of the circle so that be has a thin loop like one of those futuristic frisbees. He tears part of the loop and stretches the circle out in front of him into a spiral.
+C: MAX
+D: A circle spread out overtime. It's open-ended. It has a beginning and it grows and changes through time. If I can find where it fits, if I can spin it and lock it into a group of numbers, then I can calculate the future. Lead into gold. Chaos into order Madness into sanity. Pain into bliss. Perfection.
+E: V.O.
+N: Max is about to slap RETURN but he stops himselfhe's nervous. Next door, Devi and her boyfriend are making love. He looks at the wall with disdain. Then he looks back at the screen, shrugs and confidently slaps RETURN on his keyboard. Stock prices float across the screen. Max can't believe his eyesthe quotes are absurd.
+C: MAX
+D: What the...
+N: And then, Euclid crashes. The electricity in Max's room flips off. The numbers on Max's screen fade to black. In near (minus streetlights) darkness:
+C: MAX
+D: Shit!
+N: TIGHT ON A FUSE BOX Max removes a fuse. He replaces it with a penny. MAX'S ROOM Max tries to reboot Euclid, but nothing happens. He tries a second time, but nothing happens. Devi and Farrouhk are still at it. Max puts on a pair of latex gloves. He dons a surgical mask. He climbs up to a loft above his monitors. A glass case, fed cool air by a vent tube, encases some computer parts. He carefully removes the front glass cover. Then he gets it off he's stunned. Not only have the chips melted down, but a strange flaky substance covers the board.
+C: MAX
+D: What the...
+N: Max grabs his face, frustrated. Deri and Farroakk are giggling, having a great time. Max stares at the wall. Then he angrily throws Euclid's mainframe onto the ground It lands with a SMASH! Under the mainframe is a small city of ANTS. They scramble for cover. Max furiously attacks them, stomping them out with his bands. Then he jumps on the smashed mainframe. He slides to the ground and covers his face.
+T: DISSOLVE TO
+S: EXT. PLAYGROUND - DAY
+N: TIGHT ON a tree branch shaking manically in the wind. Max sits on a park bench watching the branch shake. It terrifies him. He pulls out the printout of his picks and examines them.
+C: MAX
+D: Wednesday, September third, seven-fifteen. Results: AAR at fourteen and a halflow, very low. ABR at six and a halfjeez. Six and a half, ABR hasn't been beneath twenty in ten years. Conclusion: Simple. There is no pattern. No pattern. Chaos, chaos, all chaos.
+E: V.0.
+N: He crumples up his picks and tosses them into a public trash can.
+S: INT. SOL'S STUDY - DAY
+N: Sol and Max play Go. Sol is peaceful while Max is distant. Max plays a piece absently. Sol counters with a deafening atari. Max whispers:
+C: MAX
+D: Euclid crashed. I lost all my data, my hardware.
+C: SOL
+D: Your mainframe?
+C: MAX
+D: Burnt...
+C: SOL
+D: What happened?
+C: MAX
+D: I don't know, first I got these horrible picks. Then Euclid spits out some numbers. Never saw anything like it and then it fries. The whole machine just crashed.
+C: SOL
+D: You have a printout?
+C: MAX
+D: Of?
+C: SOL
+D: The picks, the number?
+C: MAX
+D: I threw it out.
+C: SOL
+D: What was the number it spit out?
+C: MAX
+D: I don't know, just a long string of digits.
+C: SOL
+D: How many?
+C: MAX
+D: I don't know.
+C: SOL
+D: What was it, a hundred and fifty, a thousand, two hundred sixteen!? How many?
+E: Intense
+C: MAX
+D: I don't know. Probably around two hundred. Why?
+E: Wondering
+C: SOL
+D: ... I dealt with some bugs back in my Pi days. I was wondering if it was similar to one I ran into.
+E: Beat
+N: Sol begins to feed his fish. He points to one.
+C: SOL
+D: Have you met Archimedes. The one with the black spot. You see?
+C: MAX
+D: Yeah.
+C: SOL
+D: Remember Archimedes of Syracuse? The King asks Archimedes to determine if a present he's received was actually solid gold. Unsolved problem at the time. It tortures the great Greek mathematician for weeks. Insomnia haunts him and he twists and turns on his bed for nights on end. Finally, his equally exhausted wife, she's forced to share a bed with this genius, convinces him to take a bath, to relax. While stepping into the tub he observes the bathwater rise as he enters. Displacement. A way to determine volume. And thus, a way to determine density, weight over volume. And thus, Archimedes solves the problem. He screams "Eureka!"Greek for "I found it!"and is so overwhelmed he runs dripping naked through the streets to the King's castle to report his discovery. Now, what's the moral of the story.
+C: MAX
+D: That a breakthrough will come...
+C: SOL
+D: Wrong. The point of the story is the wife. Listen to your wife, she will give you perspective. Meaning, you need a break, Max, you have to take a bath, otherwise you'll get nowhere. There will be no order, only chaos. Go home and take a bath.
+N: PUBLIC BENCH - MOMENTS LATER Max waits for his train on an empty platform. Just then, he hears a DRIPPING sound. Max looks up and notices something across the tracks on the other platform. He can't quite make it out because his vision is blocked by columns. He gets up and spots a Young Hasidic Man standing at him. Blood drips from the Man's hand. Max doesn't know what to make of it A TRAIN SWISHES BY -
+S: INT. MOVING TRAIN - LATER
+N: Max reads an ad that says In big block letters 'MOSHIAC IS COMING!' He checks out a few of the other passengers. Then he notices a man reading a newspaper across from him. The headline reads: 'MARKET TAKES NOSE-DIVE. Max jumps up and approaches the man.
+C: MAX
+D: Hey, excuse me, can I see that?
+N: The man hands Max the paper. Max scans the article. Then He quickly turns to the listings. His finger barrels down a column. It stops at ABR.
+C: MAX
+D: Six and a half.
+N: Max looks up the column for AAR.
+C: MAX
+D: Fourteen and a half. Oh, my...
+N: Max stumbles toward the doors. He looks out the window: into the darkness of the tunnel.
+C: MAX
+D: My God. My God. Yes! Yes!
+E: Out of breath Gets pumped to himself
+C: SKINNY MAN
+D: Hey, paper, please!
+E: V.O.
+N: Max hands the paper back and looks at the man for the first time. It is the Skinny Man he saw earlier. Max gets suspicious and moves into the next car.
+C: AT GRAND STREET
+D: Max exits. He notices that the Skinny Man gets off - one car down - as well.
+N: He hustles toward the exit. As he's about to turn a corner he looks back. The man seems to be following him. He dodges around a corner and heads up a staircase.
+S: EXT. TRAIN STATION - DAY
+N: He seems to have lost him, when he notices a business-woman with a pretty face heading right toward him. It is MARCY DAWSON.
+C: MARCY DAWSON
+D: Mr. Cohen! Perfect timing.
+N: Marcy sticks out her hand. Max, not knowing what else to do, shakes it.
+C: MARCY DAWSON
+D: I was just waiting for you. I thought you stood me up, so I was going to head home.
+C: MAX
+D: Who are you?
+C: MARCY DAWSON
+D: Oh...Marcy Dawson. From Lancet Percy. We were supposed to meet at three.
+C: MAX
+D: I'm sorry, I don't...
+N: Marcy hasn't let go of Max's hand. She guides him toward a large black street limo that's just pulled up.
+C: MARCY DAWSON
+D: I can't tell you what a pleasure it is to finally meet you. I've studied your papers for years.
+C: MARCY DAWSON
+D: I have something you won't be able to say no to. Why don't we take a spin in the limo?
+C: MAX
+D: No, no, no, really, I can't.
+C: MARCY DAWSON
+D: We're excited by your work. We can't wait to discuss...
+N: Max attempts to pull away but Marcy is firm on leading him to the car. Meanwhile, the Shinny man is heading right at them. The CHAUFFEUR reaches out to him. Max yanks his arm free and runs away. He whips around a corner.
+S: INT. BODEGA - DAY
+N: Max barrels into the grocery store and buys a Journal. He heads to the back of the store and lays the paper across the juice section. He checks the listing.
+C: MAX
+D: On the nose. On the damn nose.
+N: Max turns the page on the Journal and sees the Lancet-Percy ad. Then he notices one of the bodega owners staring at him.
+S: EXT. MAX'S APARTMENT - DAY
+N: Max scouts his front door. The coast is clear.
+S: INT. MAX'S APARTMENT - DAY
+N: Max examines the smashed Euclid mainframe. He uncovers some of the strange filo-like substance. He carefully touches it. Then he grabs a small pinch of it. He examines it near a light bulb. He can't guess what it is. He sniffs it. He carefully tastes it with the very tip of his tongue. He still doesn't have a clue. Max opens his closet. He pulls out his dusty brass microscope. He dusts it off. Next, he pulls out a slide Kit. Max places the instrument on the windowsill. He grabs an old glass slide and puts some of the flaky stuff on it. He slides it under the microscope. He looks into the lens, but doesn't see anything. He gets up quickly and heads for the HALLWAY where he looks at Devi's door, nervously. He gathers his courage and knocks on her door. Through the door hears.
+C: DEVI
+D: Farrouhk?
+E: O.S.
+C: MAX
+D: Um, no, it's Max from next door.
+N: Devi opens the door wearing a sexy nightshirt.
+C: DEVI
+D: Max, is everything all right?
+C: MAX
+D: Do you have any iodine?
+C: DEVI
+D: Iodine...did you cut yourself?
+E: concerned, she reaches for Max's hands
+C: MAX
+D: No. I just need it to stain a slide.
+E: Pulling his hands away
+C: DEVI
+D: Ah, science, the pursuit of knowledge. One second.
+N: She heads to her bathroom. Max waits impatiently.
+C: DEVI
+D: Here we are. What are you examining a potato!?
+E: O.S. At the door
+N: She hands Max a bottle of iodine.
+C: MAX
+D: Just something with my computer.
+N: MAX'S ROOM - MOMENTS LATER Max uses his pinky to drip a drop of iodine on the slide. Through the wall he hears Farrouhk arriving home.
+C: DEVI
+D: The neighbor's up to his old science...
+E: 0.S.
+C: FARROUHK
+D: What neighbor?
+E: O.S.
+C: DEVI
+D: Next door.
+E: O.S.
+N: Max listens to the conversation for a few moments.
+C: FARROUHK
+D: Why are you talking to that dork!
+E: O.S.
+C: DEVI
+D: Shh! I just helped ...
+E: O.S.
+C: FARROUHK
+D: Pounds on wall. Hey, dork, leave my girlfriend alone!
+E: O.S.
+C: DEVI
+D: Farrouhk!
+E: 0.S.
+N: Max shakes his bead. Then he finishes preparing the slide and slips the glass under the turret. Max catches the low-hanging sun in the microscope's mirror and reflects it through the sample and up the turret into his eye. MAX'S POV DOWN THE TURRET of some strange Substance. Max pulls out the slide and looks at it.
+C: FARROUHK
+D: I don't give a shit.
+E: 0.S.
+C: DEVI
+D: Shh! C'mon, Farrouhk.
+E: 0.S. Laughing
+C: FARROUHK
+D: I'll kill the dork. You hear me! I'll kill you. I'll fucking kill you!
+E: 0.S. Exploding again
+N: Then an idea comes to him. He takes out his brain book. He looks through it until he finds a picture of neurons. He compares the image to the view through the turret. They look different but there are similarities.
+C: DEVI
+D: Shh! Baby! Come here, baby!
+E: O.S
+N: Max rushes out.
+S: EXT. PLAYGROUND - LATE AFTERNOON
+N: Max sifts through the trash can where he threw his picks from yesterday. Frustrated, he dumps the trash onto the sidewalk and starts looking through it Mrs. Ovadia watches him. Max sees her and is embarrassed for a moment.
+C: MAX
+D: I just threw out something. I didn't realize I needed it.
+C: MRS. OVADIA
+D: Humph.
+C: MAX
+D: Just a printout. I, uh, lost my data...
+N: Max looks back at the trash And forgets about Mrs. Ovadia. Soon, Max gets up and kicks the trashcan. He heads home. IN FRONT OF MAX'S APARTMENT BUILDING Max watches Marcy get out of the limo and call to Mrs. Ovadia. Max backs away when he smacks into someone. It's Lenny Meyer - the young Jewish man. Max jumps back in fear.
+C: LENNY MEYER
+D: Max! How you doing? Lenny Meyer.
+C: MAX
+D: Oh, hey...
+N: Max tries to quickly pass him.
+C: LENNY MEYER
+D: Hey, where you going? You got a few moments to do Tefillin?
+N: Max turns around and notices Marcy talking to Mrs. Ovadia. Mrs. Ovadia points up the street toward him.
+C: LENNY MEYER
+D: I gotta car, we can cruise over to my...
+C: MAX
+D: You gotta car?
+C: LENNY MEYER
+D: Yeah, right there. That's Ephraim, my friend.
+N: We swing around with Max and see a station wagon. EPHRAIM sits in the passenger Seat. He's a big-boned, bearded, Orthodox Jew.
+C: MAX
+D: All tight, lets go.
+C: LENNY MEYER
+D: Great...
+N: They head for the station wagon.
+S: INT. BASEMENT SHUL - NIGHT
+N: The synagogue is a claustrophobic, fluorescent-lit room in general disarray. Two rows of imitation-wooden pews face a makeshift altar and Ark. Young Hasidic Men study texts. Some work alone, reading and dovening. Others are in small groups sharing in heated discussions. Lenny wraps the Tefillin around Max's arm. Max just wants to get out of there. Ephraim prays in the background.
+C: MAX
+D: Lenny, I don't really want to do...
+C: LENNY MEYER
+D: Do it for me? It means a lot, having someone of your stature performing a mitzvah in my presence. When you told me your name was Max Cohen, I didn't realize you were the Max Cohen. Maximilian Cohen.
+E: Beat
+C: MAX
+D: You know me?
+C: LENNY MEYER
+D: 0f course, I've followed your research since your Columbia days. It's revolutionary. You've inspired the work we do.
+C: MAX
+D: I have?
+C: LENNY MEYER
+D: Yes, very much so. The only difference is, we're not looking at stocks. We're searching for a pattern in Torah.
+N: Lenny finishes wrapping Max's arm. He reaches for another box and strap.
+C: MAX
+D: What kind of pattern?
+C: LENNY MEYER
+D: We're not really sure. Our calculations have shown us that there is a number encoded in the text.
+C: MAX
+D: What sort of number?
+C: LENNY MEYER
+D: We don't know. All we know is that it's two hundred and sixteen digits long.
+N: Max, stunned looks at Lenny.
+C: LENNY MEYER
+D: Don't worry. This one just goes over your head.
+N: Lenny places the other Teffilin over Max's head. Max collects himself.
+C: MAX
+D: Two sixteen?
+E: Coolly
+C: LENNY MEYER
+D: Yes. Now we have to say a small prayer, repeat after me.
+N: Bewildered, Max does. After the prayer...
+C: LENNY MEYER
+D: That's it. Wasn't so bad, was it? You feel anything?
+N: Lenny starts removing the Teffillin from Max.
+C: MAX
+D: What is it?
+C: LENNY MEYER
+D: It's a prayer about our dedication to our one and only God.
+C: MAX
+D: No, I mean the number, the two sixteen number? What is it?
+E: Attempting calmness
+C: LENNY MEYER
+D: Oh. We don't know. We just know that it's the most common number encoded in the text. It might be some type of linguistic pattern. If we could figure out what the number is we could maybe answer that.
+C: MAX
+D: Tell me more.
+S: EXT. SOL'S APARTMENT - DAWN
+N: Max firmly rings SOL's bell. In a few moments, Sol answers the door in his pajamas.
+C: SOL
+D: Max?
+C: MAX
+D: What's going on, Sol!?
+C: SOL
+D: Relax, it's early.
+S: INT. SOL'S KITCHEN - MOMENTS LATER
+N: Max sits at the kitchen table while Sol heats up a pot of tea. Max is shaking.
+C: SOL
+D: Now, what's up?
+C: MAX
+D: What's the two hundred and sixteen number, Sol?
+C: SOL
+D: Excuse me?
+C: MAX
+D: You asked me if I had seen a two hundred and sixteen digit number, right?
+C: SOL
+D: Oh, you mean the bug. I found it working on Pi.
+C: MAX
+D: What do you mean by "found it"?
+C: SOL
+D: What's this all about, Max?
+C: MAX
+D: Well, there's these religious Jews who have...
+C: SOL
+D: Religious Jews?
+C: MAX
+D: Well, you know, Hassidim. I met one in the coffee shop. The guy's a number theorist. The Torah is their data set. The thing is, they're searching for a two hundred and sixteen digit number in the Torah.
+C: SOL
+D: Really? What's it mean to them?
+C: MAX
+D: They say they don't know, but that's crazy. I mean what are the odds...
+C: SOL
+D: It's just a coincidence.
+C: MAX
+D: But hold on, there's something else. You remember those strange picks I got.
+C: SOL
+D: Yesterday's stock picks?
+C: MAX
+D: Right. Well, it turns out that they were correct. I hit two picks on the nose. Smack on the nose.
+C: SOL
+D: Hmmm.
+E: Surprised
+C: MAX
+D: Something's going on, and it has to do with that number. The answer is there.
+C: SOL
+D: Max, it's a bug.
+C: MAX
+D: No. it's a pattern. A pattern is in that number
+C: SOL
+D: Come with me.
+S: INT. SOL'S STUDY - MOMENTS LATER
+N: Sol and Max sit on either side of a half-played Go board.
+C: SOL
+D: Listen to me. The Ancient Japanese considered the Go board to be a microcosm of the universe. Although when it is empty it appears to be simple and ordered, in fact, the possibilities of game play are endless. They say that no two Go games have ever been alike. Just like snowflakes. So, the Go board actually represents an extremely complex and chaotic universe. That is the truth of our world, Max. It can't be easily summed up with math. There is no simple pattern.
+C: MAX
+D: But as a Go game progresses, the possibilities become smaller and smaller. The board does take on order. Soon, all moves are predictable.
+C: SOL
+D: So?
+C: MAX
+D: So, maybe, even though we're not sophisticated enough to be aware of it, there is an underlying order...a pattern, beneath every Go game. Maybe that pattern is like the pattern in the market, in the Torah. The two sixteen number.
+C: SOL
+D: That is insanity, Max.
+C: MAX
+D: Or maybe it's genius. I have to get that number.
+C: SOL
+D: Hold on, you have to slow down. You're losing it, you have to take a breath. Listen to yourself. You're connecting a computer bug I had, a computer bug you might have had, and some religious hogwash. If you want to find the number two sixteen in the world, you'll be able to pull it out of anywhere. Two hundred and sixteen steps from your street comer to your front door. Two hundred and sixteen seconds you spend riding on the elevator. When your mind becomes obsessed with anything, it will filter everything else out and find examples of that thing everywhere. Three hundred and twenty, four hundred and fifty, twenty-three. Whatever! You've chosen two sixteen and you'll find it everywhere in nature. But Max, as soon as you discard scientific rigor, you are no longer a mathematician. You become a numerologist. What you need to do is take a break from your research. You need it. You deserve it Here's a hundred dollars, I want you to take it. If ,you won't take it, borrow it. Either way, take a break. Spend it however you like as long as it falls in the category of vacation. Real world stuff, okay. No math.
+N: Max looks at his bands.
+C: SOL
+D: Just try it. In a week you'll laugh about this. C'mon, Max. Think about it!
+N: Max gives a half nod.
+S: EXT. SOL'S APARTMENT - MORNING
+N: Max rushes to the subway when a honking horn stops him. A limo pulls up next to him. Marcy Dawson jumps out of the car
+C: MARCY DAWSON
+D: Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?
+N: Max stops and faces Marcy.
+C: MAX
+D: Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!
+C: MARCY DAWSON
+D: I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...
+N: Marcy hands Max a metal stopwatch.
+C: MARCY DAWSON
+D: ...a stopwatch. Already ticking. Allow me the four and a half minutes left Let me tell you what I want. Let me tell you what I can offer you. Afterwards, if you don't want to talk to me, then fine, we part as friends and I promise that you will never see me again. That's fair, isn't it?
+C: MAX
+D: Go.
+E: After a moment, he looks at the stopwatch
+C: MARCY DAWSON
+D: Good. It's funny, even though we have different aims and different goals we're actually incredibly alike. We both seek the same thingperfection. I know... clearly we're seeking different types of perfection, but that is what makes us perfect candidates for a fruitful partnership. If you let me, I can be your greatest ally. Take the acacia tree...in East Africa. It is the most prevalent plant in all of Kenya because it has managed to secure its niche by defeating its major predator, the giraffe. To accomplish this, the tree has made a contract with a highly specialized red ant. The tree has evolved giant spores which act as housing for the ants In return for shelter, the ants supply defense. When a giraffe starts to eat the tree's leaves, the shaking branch acts like an alarm. The ants charge out and secrete an acid onto the giraffe's tongue. The giraffe learns its lesson and never returns. Without each other, the tree would be picked dry and the ants would have no shade from the brutal African sun Both would die. But with each other, they succeed, they survive, they surpass. They have different aims, different goals but they work together. Max, we would like to establish a mutually benefiting alliance with you.
+C: MAX
+D: I'm not interested.
+E: handing back the stopwatch
+C: MARCY DAWSON
+D: Allow me to dose.
+N: The chauffeur pulls a black suitcase out of the limo and brings it over.
+C: MARCY DAWSON
+D: As a sign of good faith we wish to offer you this.
+C: MAX
+D: I told you I don't want money.
+C: MARCY DAWSON
+D: The suitcase isn't filled with fifties or gold or diamonds. Just silicon. A Ming Mecca chip.
+C: MAX
+D: Ming Mecca. They're not declassified.
+E: Yeah right!
+N: Max starts to move away.
+C: MARCY DAWSON
+D: You're right. They're not. But Lancet-Percy has many friends. Come here, take a look.
+C: MAX
+D: What do...do...
+E: Stuttering
+N: But then, Max notices that his thumb is twitching.
+C: MARCY DAWSON
+D: Beautiful, isn't it? You know how rare...are you okay?
+C: MAX
+D: Yeah, I got to go.
+C: MARCY DAWSON
+D: But what about...
+C: MAX
+D: Let me think about it...
+N: Max trots off.
+C: MARCY DAWSON
+D: What? Mr. Cohen!?
+S: INT. SUBWAY STATION - PUBLIC BENCH - NIGHT
+N: The station is strangely silent. It is also extremely rundown. The tracks are rusted and fucked up. All we hear is the sound of DRIPPING WATER. The sound is warped and grows and morphs until it's downright scary. Max sits on a bench sucking down pills. His head begins to hurt. He touches the right side of his scalp and nubs it. As the blood surges through his head it brings him waves of pain. He gags several times. Then the pain lets loose and all Max wants to do is die. He smashes the side of his head with his fist. Across the tracks on the far platform he sees someone. For a moment Max's pain dissipates. His view is obscured by the columns. Max gets up and sees the Young Hasidic Man - from earlier - staring at him. The Man stares at Max without any emotion. Max notices blood dropping from the Man's right hand. Max looks at the Man's face and sees for a split second his own face staring back.
+C: MAX
+D: Hey!
+N: Max charges up a flight of stairs. He crosses a passage over the tracks and flies down the stairs to the other side of the platform. The Man is gone. A pool of blood sits where the Man was. Max touches it with his toe. It's sticky. He notices a trail of blood leading off from the pool. He follows it around a corner where it leads into a corner. He notices something strange in the shadows. He carefully advances on it. Hiding in the shadows is what looks like a small piece of brain. It seems to be moving slightly. Max uses a pen in his jacket to carefully touch it. Suddenly, Max hears a train's HONK HONK behind him. Max spins around. Nothing is there but silence. He turns back to the gray matter. He touches it again. Once again, he hears the deafening HONK HONK. Max spins around, but nothing is there. Frustrated, he pushes his pen deep into the brain - fiber ripping apart. Suddenly, a TRAIN is barreling down on Max. Seconds from impact, Max SCREAMS!!!
+T: DISSOLVE TO
+C: BLINDING WHITE VOID
+D: We hear two deep, long sleep-filled breaths and then we CUT TO:
+S: INT. SUBWAY TRAIN - DAY
+N: Max's eyes pop open. A TRANSIT COP is sticking him with a nightstick.
+C: TRANSIT COP
+D: Up, buddy Coney Island, last stop.
+N: Max sits up. His nose is bleeding. The cop hands him a tissue.
+C: TRANSIT COP
+D: Your nose.
+N: Max wipes his nose and looks around nervously. He sees the rides of Coney Island in the distance.
+S: EXT. CONEY ISLAND BEACH - DAY
+N: Max sits on a boulder on a Coney Island jetty. He watches the sea. Then Max sees an old man dressed like KING NEPTUNE scanning the shore with a rusty metal detector. The old man picks up something. He admires it for a moment before gently setting it back on the ground. Then Neptune continues his search. Max wanders over to the place where the old man exam
+S: INT. MAX'S APARTMENT - NIGHT
+N: MAX'S POV through the microscope. Max sees the brain structures. Just then, there's a KNOCK on the door. The knock startles him and his hand bumps the turret of the microscope. The lens moves and he realizes that the magnification can be changed. A KNOCK again. Max looks out the peephole and sees nothing. Confused, Looks down at his thumb. It's not shaking. He heads back to his microscope. There's a knock again. Max angrily unlocks the door and whips it open. IN THE HALLWAY is Jenna with her calculator.
+C: JENNA
+D: Max, Max, can we do one.
+C: MAX
+D: Jenna. I can't now, Jenna.
+C: JENNA
+D: Please, Max.
+C: MAX
+D: I'm working now, later okay?
+N: Max shuts the door and returns to the microscope. He changes the magnification. At a weaker magnification, the mathematician sees that the cells are grouped in spirals. Max is stunned, He grabs the phone and pulls a business card out of his pocket He quickly dials a number. Someone answers with a "Shalom" on the other end of the line. Max asks for Lenny Meyer and is put on hold.
+C: LENNY MEYER
+D: Hello, this is Lenny?
+C: MAX
+D: Lenny, it's Max Cohen.
+C: LENNY MEYER
+D: Max! How are you? You want to come down?
+C: MAX
+D: I've been thinking about our conversation earlier.
+N: Max looks into the microscope. He stares at the spirals.
+C: LENNY MEYER
+D: That's good...
+C: MAX
+D: I want to help.
+C: LENNY MEYER
+D: Excellent.
+C: MAX
+D: Do you have the Torah in digital form?
+T: DISSOLVE FROM TURRET TO:
+N: SATELLITE IMAGE OF SPINNING TORNADO Start in tight on the epicenter and pull out to reveal the entire storm.
+C: MAX
+D: Thursday, September fourth, sixteen forty-five. The alchemist awakes. All of my ideas, work and dreams are spinning together It all has to do with spirals. It began with spirals and the answers are thee.
+E: V.O.
+S: INT. MAX'S APARTMENT  DAY
+N: EUCLID'S INNARDS Max uses a drill to rip out some old parts. He lays new wire and does a bunch of soldering. He rips down a bunch of old papers and does a general housecleaning. He also goes to school on the ant population in his apartment. He plants some ant motels and sprays the room with. a pest killer.
+C: MAX
+D: The most I can remember about their significance is from Schneider's class. That bullshit core for majors. Schneider's fascination with mystical geometry made him a bit of a quack...but...then again, look at Kepler. He was really into Pythagoras. The leader of an ancient sect which believed the entire universe could be represented by numbers. Pythagoras' greatest contribution was the golden ratio, which ended up influencing art and science for thousands of years, arguably all the way up to today.
+E: V.0.
+N: TIGHT ON MAX writing a : b : : b : a + b. He draws it over a copy of Leonardo Da Vinci's famous drawing of man s anatomy.
+C: MAX
+D: The golden ratio, if I recall, is this unique relationship between the length and width of a special rectangle called the golden rectangle.
+E: V.0.
+N: TIGHT ON MAX carefully measuring out a golden rectangle. The rectangle fits perfectly over Leonardo Da Vinci's Man.
+C: MAX
+D: If you take the width of this rectangle and use it to form a square within the rectangle, the part left over is a rectangle that has the same ratio as the original rectangle. au can continue squaring the rectangle, over and over again, making the rectangles smaller and smaller to infinity.
+E: V.O.
+N: TIGHT ON MAX squaring rectangle after rectangle. Then he draws the golden spiral through the rectangles.
+C: MAX
+D: Then, if you connect a curve through these rectangles you get the golden spiral. The Pythagoreans loved this shape because they found it everywhere in nature.
+E: V.0.
+N: MONTAGE OF IMAGES The images mirror what Max talks about. We see NAUTILUS SHELLS, SUNFLOWERS, PLANTS, RAM HORNS, HUMAN FINGERPRINTS, THE MILKY WAY, and DNA STRANDS.
+C: MAX
+D: It really is amazing. In the sea, on land, in air, our basic building block DNA and even our home.
+E: V.0.
+S: EXT. CHINATOWN - DAY
+N: Max wanders through the crowded streets of Chinatown.
+C: MAX
+D: If we're built from spirals, while living within a giant spiral, is it possible that all of human behavior, if it could be quantified, is in the form of a spiral. Then, maybe, extensions of our behavior like the stock market. maybe even the writing of The Torah, is infused with the spiral pattern.
+E: V.O.
+T: DISSOLVE TO
+N: PAN ACROSS NEW EUCLID We start on the stock ticker and pull out to reveal a leaner, meaner and more exciting machine.
+C: MAX
+D: Friday, September fifth. Seven twelve. It's fair to say, I'm stepping out onto a limb. But I'm on the edge and that's where it happens.
+E: V.O.
+N: He holds two wires apart from each other as he contemplates what will connect them.
+S: EXT. ELECTRONIC MEGADUMP - DAY
+N: Max wanders helplessly through the dump. There's nothing but junk and more junk.
+S: EXT. PUBLIC PAY PHONE - DAY
+N: Max eyes Marcy Dawson's business card, suspiciously He dials the number. A man answers on the other line.
+C: MAN'S VOICE
+D: Three, eight, two.
+E: OS.
+C: MAX
+D: Marcy Dawson.
+C: MAN'S VOICE
+D: Who's calling?
+E: O.S.
+C: MAX
+D: Max Cohen.
+C: MAN'S VOICE
+D: Hold on.
+E: O.S.
+N: Max is put on hold. He notices a man in a business suit watching him. Max turns away.
+C: MARCY DAWSON
+D: Mr. Cohen? I'm so Happy...
+C: MAX
+D: Look what do you want for the chip?
+C: MARCY DAWSON
+D: You tech guys. I think you know what we want.
+C: MAX
+D: No, I don't.
+C: MARCY DAWSON
+D: C'mon, Mr. Cohen. We can work together We can both profit from this information. We both need each other to get it, so why not work with us?
+C: MAX
+D: I don't know if I'll find anything useful.
+C: MARCY DAWSON
+D: We're willing to take the risk.
+C: MAX
+D: Okay. First, I want you to call off the surveillance.
+C: MARCY DAWSON
+D: Done. Anything else?
+E: Beat
+C: MAX
+D: Yeah, I'm a very private person. Knock on my door and leave the suitcase outside. I don't want to talk to Anyone.
+C: MARCY DAWSON
+D: How do I know you're home?
+C: MAX
+D: I'll knock back.
+C: MARCY DAWSON
+D: Fair enough.
+S: INT. COFFEE SHOP - DAY
+N: Max sits at the counter. The POST headline in front of him reads MARKET DOOMED. PRESIDENT IN PANIC, WORLD LEADERS MEET. Max flips to the stock quotes. He can't believe how far things have dovetailed. He shakes his head in disbelief when an envelope appears in front of him. It belongs to Lenny Meyer.
+C: LENNY MEYER
+D: The Torah.
+C: MAX
+D: What is it?
+C: LENNY MEYER
+D: In Hebrew characters and numbers.
+C: MAX
+D: No, what is it? The two hundred and sixteen digits.
+C: LENNY MEYER
+D: I don't know. If you get it, maybe we can figure it out. Can you really find it?
+E: Beat Changing subject
+C: MAX
+D: If the number's in there, I'll find it.
+S: EXT. MAX'S APARTMENT - DUSK
+N: Max marches into his foyer when he's suddenly ambushed by Devi's boyfriend, Farrouhk. Farrouhk is a little guy with a big sadistic smile. He grabs Max by the collar and slams him against the wall. His fist butts up against Max's chin.
+C: FARROUHK
+D: There you go, dork. Been thinking about my girlfriend. Haven't you?
+C: MAX
+D: Wha...
+C: FARROUHK
+D: You want to fuck her, don't you?
+C: MAX
+D: No, no..
+C: FARROUHK
+D: You calling my girlfriend ugly!? Why don't you want to fuck her? You think she's ugly?
+C: MAX
+D: No, no, I just. It's that she's your girl...
+C: FARROUHK
+D: So you do want to fuck her. You think about fucking her in the mouth, don't you?
+C: MAX
+D: No, no, sir, please. I've never touched Devi...I never will.
+C: FARROUHK
+D: Give the fucking genius a Mars bar. Stay away, or I'll slice off your balls.
+N: Farrouhk tosses Max against the wall. Max whimpers off to his apartment. Farrouhk has enjoyed this and to end his game be gives Max a small slap on the butt. INSIDE HIS APARTMENT Max bolts the front door. At his desk he rips open the envelope Lenny Meyer gave him. He pulls out a BLACK DISK and eyes it expectantly. Next door, he hears Farrouhk and Devi talking.
+C: FARROUHK
+D: Damn dork.
+E: O.S.
+C: DEVI
+D: He's just a bit unique.
+E: O.S.
+C: FARROUHK
+D: Unique?! Unique?! He's a dork!
+E: 0.S.
+N: Then, Max carefully slips the DISK into Euclid's drive. Hebrew characters pop onto Euclid's screen. Max pounds in several strings of code lightning fast. The Hebrew letters suddenly switch to their numerical counterparts. Max toggles between Hebrew and numbers a few timesimpressed. Max nods. Then there's a knock at the door.
+C: MAX
+D: Okay.
+E: To himself
+N: Max peeks through the peephole. Two well-dressed large men, BRAD and ABE THE BABE, wait for the signal. MAX knocks and the suits leave. Then Max shyly opens up his front door and quickly grabs the black attaché case in front of his door Donning a surgical mask and latex gloves, Max opens the black attaché case. Sitting in foam is a tiny but beautiful chip. Max studies it with awe.
+C: MAX
+D: Friday, September fifth? Lots of work to be done. But I'm close, so close. Today is the day Might have cost me my soul, but down the line I'll work it out. Just keep them in the dark, let them beg. A damn Ming Mecca chip. It's like giving a desperate junkie a syringe filled with junk. Defense uses them to nun nuclear sub reactors. Me? I'm going to dissect the market.
+E: V.O.
+N: Max carefully carries the chip over to the new leaner Euclid. He welds it into Euclid's waiting wires.
+C: MAX
+D: Happy birthday, Euclid.
+N: Then he lifts his hand to slap the RETURN button, but a sudden wave of fear stops him. He gets up and grabs a Ginseng soda from the fridge He drops eight pills in the can. He calmly takes a sip from the soda and places it on the counter. Max can hear Devi and Farrouhk starting to make love. Their gentle sounds drift through the wall.
+C: MAX
+D: Eighteen thirty. Press return... Max darts over and smacks the RETURN. Moments later we see what Max sees
+E: V.O.
+N: ON THE SCREEN is a long string of zeros. At the bottom of the screen Euclid's cursor blinks, waiting for instructions. He smacks RETURN again Max gets the same empty result. Euclid's cursor blinks, waiting. Max starts to laugh. He laughs and laughs and laughs.
+C: MAX
+D: Oh God. Damn religious freaks. The holy Torah...
+E: Sarcastic
+N: But then he notices his thumb twitching. He rubs his scar.
+C: MAX
+D: Ah God...
+N: His neighbor's love sounds start to get rough. They're having fun. Max almost throws up. THE BATHROOM Max dry heaves in the sink. Then he forces himself to stand in front of the mirror.
+C: MAX
+D: Too much...too soon.
+N: He grabs the gun and tries to roll up his sleeve. He can't get it to roll up. Suddenly he's overwhelmed by pain. He quickly rips his shirt and fires the gun into his arm. Nothing happens. He checks the barrelits empty
+C: MAX
+D: Ohh...
+N: He grabs a bottle of medicine but knocks them an into the sink. He cuts his finger as be grabs one of the broken bottles. He loads the gun and fires the medicine into his arm. A wave of pain and nausea floods in. He grabs another bottle and fires it into his arm. Then he fires another and another. Frustrated he collapses into the mirror.
+C: MAX
+D: Stop, please, stop.
+N: Slightly sobbing he examines his scalp pulling his hair apart. He sees something.
+C: MAX
+D: What the?
+N: So he takes out a scissors and starts removing some hair. Meanwhile his neighbors' lovemaking gets more intense. Their screams carry into Max's head. Max finishes removing a patch of hair from the right side of his head. He has uncovered a light scar on his head. He examines it in the mirror.
+C: MAX
+D: What is it!? What is it!?
+N: Then his neighbors' lovemaking turns outright evil. It sounds like Sodom and Gomorrah next door and Max can barely stand it. A jolt of pain surges into his head. He grabs his scar as he vomits blood into the sink. He starts banging his head against the mirror. He bangs his head again and again until the mirror CRACKS! His neighbors are cumming and their cries of joy are twisted and agonizing. The mathematician looks at himself and begins to sob. He reloads the gun and fires it right into the scar on his head, where the pain is coming from. Max collapses to the ground in complete agony until the bare bulb in the bathroom starts blinking on and off. Suddenly the pain is gone. Then he hears something. It's Euclid, buzzing with life. He gets to his feet and head's into Euclid. The main monitor is screaming with numbers. The lights in the room flicker on and off like on a disco dance floor. A filo substance billows out of Euclid. And then a number pops onto the screen. Max estimates how many digits are on the screen.
+C: MAX
+D: Two...two hundred. That's it! That's it!
+N: Max grabs a piece of paper and a pencil. He starts writing down the number. He mumbles each digit as he sees it. But then be stops writing. Power surge! He stares at the number. Something clicks in his head. His eyes go wide. He barely musters a
+C: MAX
+D: Oh...
+N: We move closer and closer into the number, deeper and deeper into the screen. Until finally a single pixel fills the screen and we're in the BLINDING WHITE VOID where we hear several deep peaceful breaths. Then, a fuse blows and we cut to:
+C: BLACK
+D: A phone ringing...once... twice...then we hear
+C: MRS. OVADIA
+D: He's alive. His eyes are moving.
+E: O.S.
+C: DEVI
+D: Yes, hello?
+E: 0.S.
+N: FADE BACK INTO THE MAIN ROOM Max's eyes slowly open.
+C: DEVI
+D: He's busy right now I'm sorry. Max is sprawled out in front of Euclid. A large amount of blood, from his nose, is semi-dried on his chin and chest. Devi hangs up the phone.
+E: 0.S On the phone
+N: The landlady, Mrs. Ovadia, and Farrouhk, brandishing a crowbar, stand over him.
+C: MAX
+D: What happened?
+C: DEVI
+D: You were screaming...
+C: MRS. OVADIA
+D: Who told you you can put extra locks on the door.
+C: FARROUHK
+D: Shhh!
+E: To Mrs. OVADIA
+C: MAX
+D: The number, the number.
+E: Suddenly jolting up and remembering
+N: Max looks at Euclid. The screen is blank. He looks at the mainframe. It is covered with the filo substance. Then be looks at the piece of paper he wrote the number on. Only a few dozen numbers are on the page. The last number be wrote is barely a scribble.
+C: MRS. OVADIA
+D: You're out, you hear me, you're out. I've had enough of you. Look at all this junk.
+N: He starts reciting the numbers. Then Max suddenly realizes something. He continues reciting the numbers from memory.
+C: MAX
+D: Four...zero... seven...It's in my head, it's in my head. Somehow I memorized it. I got it up here!
+N: He points to his head.
+C: MAX
+D: But what is it?
+N: Mrs. Ovadia starts looking at all the junk in the room.
+C: DEVI
+D: Are you okay?
+C: MRS. OVADIA
+D: What is this stuff? What does it do?
+N: Max finally realizes that all these strangers are in his womb. He flips.
+C: MAX
+D: 0ut, out, you have to get out. Get out, get out it's my room!
+C: FARROUHK
+D: Let's go.
+E: To Devi
+N: The phone starts ringing again.
+C: MRS. OVADIA
+D: That's it, no way. You're the one out of here, mister.
+C: MAX
+D: Out! 0utt
+N: The three neighbors retreat to the front door.
+C: DEVI
+D: Are you okay?
+C: MAX
+D: Out! Get out!
+N: Max slams the door in their faces. Max rubs his chin and looks around the room. He starts saying the number to himself He gets more and more excited as he reads each digit.
+S: INT. COFFEE SHOP - NIGHT
+N: Max stirs cream into his coffee. Then he pulls out the Journal. A phone continues to RING. In the clouds of the Lancet-Percy ad - in The Journal Max writes down the two hundred and sixteen digit number. He studies it, examines it, draws on it, tries to figure out what it is.
+C: MAX
+D: Saturday? Dark outside. There was a moment there...when, I don't know...when I didn't exist. What? What?
+E: V.O.
+N: We hear a phone being picked up. The ringing stops. Silence, then:
+C: MARCY DAWSON
+D: Max, is that you? Max? Max, just talk to me. Things are a bit out of hand down here. People are getting desperate. We had a deal, Max. A deal. Talk to us, Max.
+E: O.S. Pleading Suddenly firm
+N: We hear the sound of a phone hanging up. At the coffee counter, Max pops a handful of pills and crumples the paper.
+S: INT. MAX'S BATHROOM - LATER
+N: Max stares at his BALD head in the mirror. All of his hair has been removed. A fleshy scar sits on his scalp above his right ear. Max ignores the incessantly RINGING phone. Max flips through an old neuroscience book. He examines a few illustrations and finds the part of his brain that's killing him.
+C: MAX
+D: Must be an explanation, must be a reason. Must.
+E: V.0.
+N: With a thick black marker, he carefully outlines the part of his head that is causing the pain.
+S: INT. MAX'S APARTMENT-LATER
+N: Max sits in his chair staring at the stock market monitor. The phone continues to RING. Numbers drift by. A single beam of sunlight leaks through the window and shines on the edge of the screen. Walking along the edge in the sunlight is a tiny ant.
+C: MAX
+D: Bastard.
+N: Max gets up to squash it. But as he gets closer he suddenly feels mercy. He looks at the ant in awe. And then, his attention switches to the ticker.
+C: MAX
+D: Two and a quarter, twelve and an eighth, six and two eighths.
+N: Max states the numbers right before they enter onto the screen.
+C: MAX
+D: I know these...Seven and a quarter. Two and a half ...oh...oh...
+N: Max strains to figure out what is going an. Suddenly, he's overwhelmed with fear.
+C: MAX
+D: My God. It's gonna crash, it's gonna fucking crash.
+S: INT. SOL'S APARTMENT - DUSK
+N: Max charges into the room. Sot is looking at his Go board. Sol looks up when Max comes in.
+C: SOL
+D: You're early. I was just studying our... What did you do to yourself?
+E: Noticing ,Max's head
+C: MAX
+D: You lied to me.
+C: SOL
+D: I thought you were going to take a break.
+C: MAX
+D: You found the two sixteen number in Pi, didn't you? You saw it.
+N: Sol doesn't respond.
+C: MAX
+D: I saw it, Sol. I don't know what happened, but I know things. The market is going to crash. It's going to crash. It hasn't yet, but I know it will. I saw it, Sol. What is it, Sol? What's the number?
+N: Sol sighs. He looks down at the board and collects himself.
+C: SOL
+D: You have it?
+C: MAX
+D: It's in my head!
+C: SOL
+D: Okay, sit down.
+E: Leveling with Max
+N: Max does.
+C: SOL
+D: I gave up before I pinpointed it. But my guess is that certain problems cause computers to get stuck in a particular loop. The loop leads to meltdown, but right before they crash they... they become "aware" of their own structure. The computer has a sense of its own silicon nature and it prints out its ingredients.
+C: MAX
+D: The computer becomes conscious?
+C: SOL
+D: In some ways...I guess...
+C: MAX
+D: Studying the pattern made Euclid conscious of itself. Before it died it spit out the number That consciousness is the number.
+E: To himself
+C: SOL
+D: No, Max, it's only a nasty bug.
+C: SOL
+D: A door in front of a cliff. You're driving yourself over the edge. You need to stop.
+C: MAX
+D: Stop? How can I stop? I'm this close.
+C: SOL
+D: The bug doesn't only destroy computers.
+C: MAX
+D: What are you saying?
+C: SOL
+D: Look what it did to your computer. Look what it's doing to you.
+N: Max doesn't respond.
+C: SOL
+D: It's killing you. Leave it unknown.
+C: MAX
+D: You were afraid of it. That's why you quit.
+E: Clarity
+C: SOL
+D: Max, I got burnt.
+C: MAX
+D: C'mon, Sol.
+C: SOL
+D: It caused my stroke.
+C: MAX
+D: That's bullshit. It's math, numbers, ideas. Mathematicians are suppose to be out on the edge. You taught me that!
+C: SOL
+D: Max, there's more than math! There's a whole world...
+C: MAX
+D: That's where discoveries happen. We have to go out there alone, all alone, no one can accompany us. We have to search the edge. We have to risk it all. But you ran from it. You're a coward.
+C: SOL
+D: Max, it's death!
+N: Max stands up and screams down at Sol.
+C: MAX
+D: You can't tell me what it is. You don't know You've retreated to your goldfish, to your books, to your Go, but you're not satisfied.
+N: Sol grabs his cane and whacks the Go board.
+C: SOL
+D: Get out! Max, get out!
+C: MAX
+D: I want to understand it. I want to know!
+N: Sol swings his cane as Max heads for the door.
+C: SOL
+D: Out!
+S: INT. SUBWAY - PORT AUTHORITY - NIGHT
+N: Max paces on a downtown train as it pulls into 42nd Street. Through the open doors, Max notices a YOUNG PHOTOGRAPHER in jeans and a leather jacket photographing him from the uptown platform. Max is enraged and screams at him. The man ducks behind a column, but a few moments later he's back snapping pictures. The doors start to shut, but Max uses his body to get off the train. The Photographer sees him coming and flees. Max follows the man's movement on his platform. When the young man shoots up the exit stairs, Max does so as well. Max catches a glimpse of his foe entering the catacombs heading toward Times Square. Max pursues. Max chases him down a looooong passage. But he loses him at an underground five-way fork in the road. One staircase is Uptown and Queens... another is Brooklyn...one other is unlabeled. Still enraged, Max marches forward Just then, he catches a glimpse of the Photographer exiting the station. SMASH TO
+S: EXT. TIMES SQUARE - NEON NIGHT
+N: In the heart of New York, Max spins around searching for his foe. His frustration mounts until out of the comer of his eye he sees a strange reflection. Not knowing what it's of, he turns around to see the source The reflection is from a giant, brilliant stock ticker - 50 yards long and luminous. Max stares at the quotes They are hypnotizing and Max is suddenly calm. Then, Max has a premonition. He turns and spots the Photographer in front of a porn shop on Eighth and 42nd.
+S: EXT. PORN SHOP - 42ND STREET - NIGHT
+N: Max whacks the Photographer against a back-lit image of a Hustler Centerfold. The man screams.
+C: MAX
+D: Who are you working for?
+C: PHOTOGRAPHER
+D: Here, here.
+N: The photographer hands Max his wallet.
+C: MAX
+D: I don't want your wallet. Who sent you?
+N: Max grabs the kid's camera.
+C: MAX
+D: Who the hell sent you!?
+C: PHOTOGRAPHER
+D: Wha...I'm sorry...
+C: MAX
+D: Who are you?!
+C: PHOTOGRAPHER
+D: I'm...a...student I've got an assignment for class.
+N: The Photographer pulls out his student ID. Max looks at it. Then he rips out the film-exposing it.
+C: MAX
+D: Leave me alone, damn it. Leave me alone.
+N: Max hands the man back his camera and leaves.
+S: EXT. MAX'S APARTMENT - NIGHT
+N: Max heads home in a furious state. Suddenly, he sees two of Marcy's men blocking his path. It's Brad and Jake, yet another tough guy, and they don't look happy. Max spins around and sees Marcy Dawson blocking his exit.
+C: MAX
+D: Marcy? What's up?
+N: Max retreats.
+C: MARCY DAWSON
+D: Let's take a ride, Max.
+C: MAX
+D: I can't, I got work...
+N: Max looks back at the tough guys who are almost on top of him.
+C: MARCY DAWSON
+D: We had a deal! NOW get in the limo!
+N: Marcy releases a vicious slap that nearly knocks Max down. Max whimpers.
+C: MAX
+D: Don't ever hit...
+N: He pushes Marcy aside and darts.
+S: EXT. CITY STREETS - NIGHT
+N: Max flees. Jake and Brad charge after him. They're right on him - he has a meter or so on them. He scurries through a construction site and over a footbridge. Then, he runs into an all-night BODEGA The tough guys chase after him and he gets a bit of a lead in the narrow aisles. He pleads with the owners for help - nothing doing. Jake heads him off and uses his body to block the aisle. But Max grabs a can of beans and slams it down on the tough guy's nose. The guy goes down and Max shoots out the exit.
+S: EXT. UNDERNEATH CAR - NIGHT
+N: Max dives under a car and crawls for terror. He sees two sets of feet nun by. Max starts to relax when he notices a pair of heels on the other side of the car. Marcy bends down and looks at him.
+C: MARCY DAWSON
+D: Enough, Max, c'mon out.
+C: MAX
+D: Leave me alone. I don't know anything.
+N: Max retreats in the opposite direction. Suddenly Jake and Brad grab him and drag him out.
+C: MAX
+D: Hey! Hey! Hey!
+N: They search him, taking his wallet, keys, everything. Marcy looks at the guys, who shake their heads. She walks over to Max and shows Max the front page of the Wall Street Journal. It reads, "MARKET CRACHES"
+C: MARCY DAWSON
+D: You're responsible for this.
+C: MAX
+D: I didn't do anything. I didn't play the market.
+C: MARCY DAWSON
+D: But we did.
+N: Marcy pulls out a folded, worn piece of paper. She opens it. It's Max's stock pick that he threw out. Part of THE number is on the page
+C: MARCY DAWSON
+D: You have to be careful where you throw out your trash.
+C: MAX
+D: How could you do that?
+C: MARCY DAWSON
+D: You gave us faulty information. You gave us the carrot, the right picks, but then you only gave us part of the code.
+C: MAX
+D: You selfish, irresponsible cretins. How could you be so stupid!?
+N: Marcy jabs Max in his stomach. Max falls to the ground. The tough guys sit on him.
+C: MARCY DAWSON
+D: C'mon, Max. This isn't a game anymore. We're playing on a global scale. We used your code. Foolish...I admit. But we can fix things if we make some careful picks. Give us the rest of the code so we can set things right.
+C: MAX
+D: C'mon! I know who you are. You're not gonna save the world.
+C: MARCY DAWSON
+D: Look, Max...
+N: Marcy nods to Jake, who pulls out a gun and points it at Max's head.
+C: MAX
+D: My God, what are you doing?
+C: MARCY DAWSON
+D: Information is the private language of Capital. We tried to establish a symbiotic relationship but if you choose to compete and enter our niche we are forced to comply with the laws of nature.
+N: Max thinks for a second. Max thinks hard. He realizes be can't give them the number.
+C: MAX
+D: You can't kill me!
+C: MARCY DAWSON
+D: C'mon, Max. You don't get it. I don't give a shit about you. I only care about what's in your fucking head. If you won't help us help yourself, then I'll have only one choice. Destroy the competition. I'll take you out of the game. Survival of the fittest, Max. And we've got the gun.
+N: Jake cocks the gun. Max starts to cry.
+C: MAX
+D: You bastards! You stupid bastards!
+N: Suddenly, Jake is whacked with a sawed-off baseball bat. He smashes into the sidewalk. It is Farrouhk, Max's neighbor, who's just pulled up in his taxicab.
+C: MAX
+D: Farrouhk!
+E: Spotting his savior
+N: Farroukh threatens Marcy and the other tough guy, who retreat in fear. Farroubk is afraid as well, so he doesn't quite leap on them. He just keeps swinging the bat.
+C: FARROUHK
+D: He's sick! He's sick!
+N: Max gets to his feet and runs behind Farrouhk. Just then a station wagon screeches up to the curb. Lenny Meyer, Ephraim, and a bunch of other his burly Jews jump out.
+C: LENNY MEYER
+D: Max!
+N: Max looks at Farrouhk and then he looks at Lenny. Ephraim grabs Max and pulls him toward the station wagon.
+C: MAX
+D: C'mon...
+E: To Farrouhk
+N: Farrouhk heads for his cab. Ephraim helps Max into the backseat of the wagon and climbs in after him. Lenny Meyer jumps into the passenger seat and the gray-bearded YISRAEL slams on the gas Pedal. Farrouhk jumps into his cab.
+S: INT. LENNY MEYER'S CAR - MOVING - NIGHT
+N: Yisrael yanks the steering wheel to the left, the old station wagon skids around a corner.
+C: MAX
+D: Farrouhk what about Farrouhk!?
+C: LENNY MEYER
+D: Stay down!
+N: Ephraim pushes Max's head down. Yisrael takes another corner sharp.
+C: MAX
+D: Go back!
+C: LENNY MEYER
+D: He's okay, he got in his cab. We've been looking for you.
+C: MAX
+D: What's going on?
+C: LENNY MEYER
+D: Do you have the number?
+C: MAX
+D: What's going on?
+C: LENNY MEYER
+D: Do you have the number?
+C: MAX
+D: Yeah, I have it!
+C: LENNY MEYER
+D: You have it. Where is it? You have it written down?
+C: MAX
+D: What is it?
+N: Lenny nods to Ephraim, who starts scanning through Max's pockets. Max resists. The other guys hold him down.
+C: MAX
+D: What are you doing!? What the hell are you doing!?
+C: LENNY MEYER
+D: We're not joking around, Max? Where's the number?
+C: MAX
+D: It's not on me. It's in my head.
+E: Pushing Ephraim away
+C: LENNY MEYER
+D: You memorized it? Did you give it to them?
+C: MAX
+D: Who?
+C: LENNY MEYER
+D: Who!? Those Wall Street bastards.
+C: MAX
+D: Why do you care?
+C: LENNY MEYER
+D: Just answer me!
+C: MAX
+D: Screw you!
+C: LENNY MEYER
+D: Hit him!
+E: In Hebrew
+N: Yisrael screeches the car to a halt. He spins around in his seat and looks Max in the face.
+C: LENNY MEYER
+D: You're dealing with something really big now, Max. I don't want to hurt you, so answer me. Did you give it to them?
+C: MAX
+D: They've got part of it Now get off me!
+C: LENNY MEYER
+D: Damn it! Damn it! They're using it.
+C: MAX
+D: Using what?
+C: LENNY MEYER
+D: Shut up!
+C: MAX
+D: Let go!
+N: Max chews into Ephraim's hand which is pinning him. Ephraim screams and lets loose a punch to Max's jaw.
+C: LENNY MEYER
+D: No, don't!
+N: But Lenny is late, and Max's world - as well as ours goes black.
+S: INT. MAX'S APARTMENT - NIGHT
+N: Max stares suspiciously at the bathroom. He slowly picks up his drill. Wielding it like a hammer, he carefully advances into the BATHROOM where he looks into the sink. He almost vomits when he sees a piece of human brain sitting above the drain. Ants swarm across its surface. Max becomes furious. He whacks it with the drill. Blood flies up into his face. In a wild rage, he smashes it and punches it. Then he drops the drill and uses his bare hands to shove it down the drain. Screaming like a madman, he jams it until it is gone.
+S: INT. BASEMENT SHUL - DAY
+N: A wise-looking, bearded Hasidic man with benevolent, piercing eyes stands tenderly over Max. He wears traditional black clothes. Lenny Meyer paces nervously in the background. As Max comes through, RAV COHEN speaks.
+C: RAV COHEN
+D: Max, Max. You're okay I'm Rabbi Cohen. Cohen like you. I'm sorry for what Lenny did, he's been reprimanded. It is not our way Are you okay?
+C: MAX
+D: Yeah, yeah
+C: RAV COHEN
+D: Everything will be fine, Max. You need to give us the number. Do you have it?
+C: MAX
+D: What is it?
+C: LENNY MEYER
+D: I told you we don't know
+E: Charging over
+C: MAX
+D: You wouldn't be so flipped out if you didn't know. What's happening to me?
+C: LENNY MEYER
+D: Give us the number!
+C: MAX
+D: Screw you!
+C: RAV COHEN
+D: Okay, okay! Lenny, easy! Max, I'll tell you what's going on. Just calm down. The Talmud tells us it began two thousand years ago, when the Romans destroyed the second temple.
+E: Deep breath, then
+C: MAX
+D: What are you...
+C: RAV COHEN
+D: Just give me a chance. You'll understand everything if you listen.
+N: Max takes out his pills and starts feeding himself some.
+C: RAV COHEN
+D: The Romans also murdered all of our priest- hoodthe Cohanimthe Cohens, and with their deaths they destroyed our greatest secret. In the center of the great temple was the holy of holies which was the heart of Jewish life. This was the earthly residence for our God. The one God. It contained the ark of the Tabernacle which stored the original Ten Commandments that God gave to Moses. Only one man could enter this space once a year on the holiest day of the year, Yom Kippur On the Day of Atonement, all of Israel would descend upon Jerusalem to witness the High Cohen's trip into the holy of holies. If the holy man was pure he would reemerge a few moments later and Israel was secured a prosperous year. It meant that we were one yea r closer to the messianic age. Closer to the return of the Garden of Eden. But if he was impure, he would die instantly and it meant that we were doomed. The High Cohen had a single ritual to perform in the holy of holies. He had to intone a single word.
+N: Rav Cohen takes a dramatic pause. Max is anxious to hear the end of the story.
+C: MAX
+D: So?
+C: RAV COHEN
+D: That word was the true name of God.
+C: MAX
+D: Yeah...
+C: RAV COHEN
+D: The true name, which only the Cohanim knew, was two hundred and sixteen letters long.
+N: A long beat.
+C: MAX
+D: You're telling me that the number in my head is the name of God!?
+E: Incredulous
+N: Wondrously, Max rubs the scar on his head.
+C: RAV COHEN
+D: Yes...it's The key into the messianic age. As the Romans burned the temple, the Talmud says, the High Cohen walked into the flames. He took his secret to the top of the burning building. The heavens opened up and took the key from the priest's outstretched hand. We've been searching for the key ever since. And you may have found it. Now let us find out.
+E: Passion building
+C: MAX
+D: That's what happened. I saw God.
+C: RAV COHEN
+D: No, no, Max. You're not pure. You can't see God unless you're pure.
+C: MAX
+D: It's more than God... it s everything. It's math and science and nature... the universe. I saw the Universe's DNA
+C: RAV COHEN
+D: You saw nothing.
+C: MAX
+D: I saw everything.
+C: RAV COHEN
+D: There's much more. We can unlock the door with the key. It will show God that we are pure again. He will return us to The Garden.
+C: MAX
+D: Garden? You're not pure. I'm the one who has the number
+C: RAV COHEN
+D: Who do you think you are? You are a vessel from our God. You are carrying a delivery that needs to be made to us.
+C: MAX
+D: It was given to me. It's part of me. It's changing me.
+C: RAV COHEN
+D: It's killing you. Because you are impure.
+C: LENNY MEYER
+D: It will kill you!
+C: MAX
+D: And what will it do to you?
+C: LENNY MEYER
+D: We're pure. Give us the number!
+C: MAX
+D: The number is nothing. You know that!
+C: RAV COHEN
+D: We can use it. We can wield it.
+C: MAX
+D: It's just a number. I'm sure you've written down every two hundred sixteen number. You've translated all of them. You've intoned them all. Haven't you? But what's it gotten you? It's not the number! It's the meaning. It's the syntax. It's what's between the numbers. If you could understand you would. But it's not for you! I've got it. I understand it. I'm going to see it! Rabbi...I was chosen.
+E: Whispers to Rav Cohen
+S: EXT. CITY STREETS - DAY
+N: Max races through the streets of New York. He is wide-eyed.
+C: MAX
+D: Suddenly, it's all there. It all makes sense. I can crack it. I can know it. I know what it is. Sol knows, too. I need to tell him. I need to show him. I need to bring him with me.
+E: V.0.
+N: People fly by. Max in a spiraling whirlwind.
+S: EXT. SOL'S APARTMENT - NIGHT
+N: A pumped and excited Max paces the hall as he rings the bell. The door opens. But it isn't Sol. It's a young, beautiful woman wearing a simple black dress. Her name is JENNY ROBESON and she is Sol's niece.
+C: JENNY ROBESON
+D: Can I help you?
+C: MAX
+D: Sol?
+E: Confused
+C: JENNY ROBESON
+D: Were you a friend?
+C: MAX
+D: What do you mean?
+C: JENNY ROBESON
+D: He had a second stroke.
+C: MAX
+D: Where is he?
+N: Jenny's eyes drop.
+C: MAX
+D: No.
+N: Max rushes into Sol s study. The room is covered with Sol's P, research books. It seems Sol had recently come out of retirement. Max looks at a few of Sol's books. Then he finds a piece of paper with Sol's handwriting on it. On the paper is THE number. Max slides it into his pocket. Max looks at the Go board. The pieces are arranged in a giant spiral across the board.
+T: DISSOLVE TO
+S: INT. MAX'S APARTMENT - DAY
+N: Max sits on his bed staring at Sol's handwritten number. Then he notices that his thumb is twitching. He drops Sol's note.
+C: MAX
+D: Stop it, please!
+N: He dumps the contents of the bottle of pills into his hand. Max stops as he prepares to shove the pills down his throat. He looks at the pills. Then he looks at Euclid around him. He throws the pills and the bottle to the floor. They fall to earth in SLOW MOTION. The room rushes in on Max and so does the pain. It throws him to the ground and he bashes his head against the floor.
+C: MAX
+D: No. No. I'm ready. I'm ready! Show me!
+E: Courageously
+N: Max recites THE number and uses it to get to his feet. The pain rips apart his voice. Max's pain and anger transform into violence. He attacks Euclid furiously. He recites the number with rage in his voice.
+C: MAX
+D: Three, seven, two...
+N: He smashes the old computer apart. He tosses his step stool through the mainframe. Then he goes to the window and tries to rip off the cardboard covering the glass panes. Nothing doing, so he yanks the entire window wide open. Sunlight floods the room and throws Max into the
+C: BLINDING WHITE VOID
+D: where Max looks around starry-eyed. The pain is gone. Everything is new to Max - even his hands. The stress leases from his brow and his shoulders sag.
+N: Max continues to recite the number His voice becomes tender and peaceful. As he starts to become part of the void, his voice turns into a whisper and his eyes start to close. Then he hears Devi.
+C: DEVI
+D: Max. Max! Are you okay!? Oh my God, Max!
+E: O.S.
+N: Her voice reaches into the void.
+C: DEVI
+D: Max! Breathe, Max. Breathe!
+E: O.S
+N: Max looks toward her voice.
+C: DEVI
+D: Yes, Max. Listen to me...
+E: O.S.
+T: We cut back to
+C: ...THE MAIN ROOM
+D: where Devi leans over Max. Max's eyes are open while he continues to recite the number.
+C: DEVI
+D: Breathe, Max! Breathe. Focus.
+N: Max turns away from Devi and we return to the
+C: BLINDING WHITE VOID
+D: where Max continues to recite the number.
+C: DEVI
+D: No, Max. No. Stay with me Max. Stay with me.
+E: O.S.
+N: And then we cut back to
+C: THE MAIN ROOM
+D: where Devi grabs Max's palm. Max's fingers wrap around her hand. We return to
+C: THE BLINDING WHITE VOID
+D: where Max stops reciting the number. He suddenly opens his fear filled eyes.
+C: MAX
+D: Where am I? What is this? This is wrong, Sol. Sol!
+N: Max lets out a 'SOL!, and reaches out into the void. We match
+T: cut back to
+N: THE MAIN ROOM where Max grabs Devi and hugs her. He gasps for air as he collapses into her arms, sobbing.
+C: MAX
+D: Sol! You were right Sol! He was right.
+C: DEVI
+D: That's right Max. That's Right. Breathe. Breathe.
+C: MAX
+D: He was right. I want to breathe. Breathe.
+C: DEVI
+D: Yes, breathe, Max. Breathe...
+N: Max sobs. He holds onto her for dear life And then be realizes that Devi is not in his arms. He is holding onto himself. Then Max notices Sol's note on the ground. He looks at the number. He collects himself and catches his breath.
+S: INT. MAX'S BATHROOM  DAY
+N: Max looks at Sol's note. He lights a match and burns it. Next, he prepares something in the sink. We hear the WHINE of a motor. Then it stops, Max looks at himself in the mirror, He smiles. Then he gets solemn. He takes a deep breath. Then we hear the motor again. Max lifts up his arm. He's holding a drill. He places the bit against the math section of his scalp. He applies pressure and drills into his brain. Max collapses as we quickly
+T: CUT TO
+S: EXT. CITY PLAYGROUND - DAY
+C: TIGHT ON
+D: a tree branch gently blowing in the wind.
+N: Max watches it with peaceful, understanding eyes. He wears a hat on his head. He listens to the wind in the trees. Just then, Jenna surprises him with her Fisher Price calculator on hand.
+C: JEHNA
+D: Max, Max!
+N: Max smiles at Jenna. He's glad to see her.
+C: JENNA
+D: Can we do one, Max, can we?
+N: Max shrugs, not able to say no.
+C: JENNA
+D: How about two hundred and fifty-five times a hundred and eighty-three.
+N: Jenna types m the number. Max is about to say "no" to Jenna, but then be decides to give it a shot. Max thinks, he really thinks. Jenna presses the EQUALS button.
+C: JENNA
+D: I got it! I got it! What's the answer?
+C: MAX
+D: I don't know. I really don't know. What is it, Jenna?
+E: Smiling and then laughing
+C: JENNA
+D: Forty-six thousand six hundred and sixty-five.
+C: MAX
+D: Oh.
+N: The trees blow gently in the wind as we slowly FADE TO WHITE which brings us to THE END

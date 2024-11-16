@@ -1,0 +1,2670 @@
+M: WONDER WOMAN
+M: Screenplay by
+M: Allan Heinberg
+M: Story by
+M: Zack Snyder & Allan Heinberg and Jason Fuchs
+M: based on characters from DC Comics
+M: WONDER WOMAN created by William Moulton Marston
+M: FINAL SHOOTING SCRIPT
+T: FADE IN:
+S: EXT. THE EARTH (FROM SPACE)
+N: The EARTH as seen from space, perfect and seemingly serene.
+C: DIANA
+D: I used to want to save the world...
+E: V.O.
+N: The distant SOUND OF TRIBAL DRUMS as we DESCEND planet- ward. CIRCLING the globe, CLOSER as the DRUMS BUILD.
+C: DIANA
+D: This beautiful place.
+E: V.O.
+N: LOUDER DRUMS SOARING OVER oceans and continents. CLOSER.
+C: DIANA
+D: But the closer you get, the more you see the great darkness simmering within.
+E: V.O.
+N: Finally, we arrive in PARIS, FRANCE.
+S: EXT. LOUVRE MUSEUM (PARIS) - EARLY MORNING
+N: The LOUVRE MUSEUM -- with its 16th-Century architecture and its I.M. Pei glass-and-metal PYRAMIDS -- a place where the past and the future meet. DIANA PRINCE (30), antiquities expert, strides towards the Louvre, passing ARMED MILITARY at guard and alert.
+C: DIANA
+D: And mankind? That's another story altogether.
+E: V.O.
+N: A TRUCK pulls up, blocking our VIEW. ARMED SECURITY OFFICERS exit, unloading a CRATE from WAYNE ENTERPRISES addressed to DIANA PRINCE: CURATOR.
+S: INT. LOUVRE MUSEUM - CORRIDOR - CONTINUOUS ACTION
+N: Diana walks down a HALLWAY with Assyrian bas-relief sculptures showing the good, and the bad, of humanity throughout history. She takes this in.
+C: DIANA
+D: What one does faced with the truth, is more difficult than you think.
+E: V.O.
+S: INT. LOUVRE MUSEUM - DIANA'S OFFICE - MINUTES LATER
+N: The CRATE is delivered to Diana -- a wall-mounted COLLECTION OF ANCIENT WEAPONRY and GREEK ANTIQUITIES behind her. She eyes the WAYNE ENTERPRISES LOGO warily. Now alone at her desk, Diana opens the crate and looks inside, stunned. REVEAL THE ORIGINAL DAGUERREOTYPE of Diana from BvS -- She's in her WONDER WOMAN ARMOR, surrounded by a band of SOLDIERS -- her friends -- from long ago.
+C: DIANA
+D: I learned this the hard way. A long, long time ago. And now I will never be the same.
+E: V.O.
+N: She holds up the unsigned note accompanying the photo: "I found the original. Maybe one day you'll tell me your story." She contemplates the faces of her friends long dead. Her eyes focus in on a man we'll soon know as STEVE TREVOR. She lingers on him, and then drifts to herself. Surrounded by HISTORY, Diana is overwhelmed by the memory of how this photo -- and Wonder Woman -- came to be --
+T: CUT TO:
+S: EXT. ARMY TRAINING GROUNDS (THEMYSCIRA) - DAY
+N: THE PAST. Flashes of AMAZONS as they train for COMBAT on VARIOUS PLATEAUS extending from the edge of the CLIFFS of Themyscira. The Amazons train with WEAPONS, CLASHING and TESTING one another to their limits. DOZENS of ARMORED FEMALE WARRIORS -- AMAZONS -- engage in a dazzling array of training exercises. Every Amazon is an ageless beauty, between 30 and 50. They spar with BO STAVES, KNIVES, SWORDS. Practice ARCHERY, SPEAR THROWING, and LASSO from HORSEBACK. It's breathtaking -- -- and YOUNG DIANA (8), Princess of Themyscira, watches it all from the edge of the field. Her eyes blaze with admiration. ANTIOPE, the demanding GENERAL, oversees the Amazons. She wears a distinctive HELMET. At her side, the Amazon PHILIPPUS (African, regal). Diana fixates on one Amazon in particular, FIERCE and POWERFUL -- ARTEMIS. She sends her opponent to the GROUND, then SPINS to face another!
+C: ANTIOPE
+D: Yes, the blow was strong, but Eliana's footwork betrayed her! A battle is like a river-crossing, every step must find a safe spot --
+N: Diana REHEARSES Artemis' moves, her young face set in a fierce scowl. She stabs at imaginary enemies, then looks up to find -- Antiope STARING AT HER from across the grounds. She's caught! But instead of hiding -- she looks back to Antiope: I'm ready to fight! LET ME TRY! Antiope shakes her head but smiles -- Diana smiles back.
+C: MNEMOSYNE
+D: Diana!
+E: O.S.
+N: Diana freezes, then BOLTS, before MNEMOSYNE (Diana's long- suffering tutor) can push through the crowd.
+C: MNEMOSYNE
+D: Diana, I see you!
+S: EXT. PUBLIC SQUARE (THEMYSCIRA) - CONTINUOUS ACTION
+N: Diana dashes through the crowded marketplace, hoping to lose Mnemosyne, but every Amazon whose path she crosses greets her with a smile or "Good morning, Princess!" "Hello, Diana!" We realize that Diana is the ONLY CHILD in this world. Diana races past a MURAL in the public square of QUEEN HIPPOLYTA, Diana's mother, triumphantly leading the Amazons.
+C: MNEMOSYNE
+D: Diana, come back!
+N: A young AMAZON GUARD sees Diana coming, holds out her hand, STOP! Diana sees up a narrow stairway, grins -- an escape! She darts up it and back down another straight into a DEAD END. Looking for a way out, she sees a long jump she just might make. There's a big fall, but Diana loves a challenge! She smiles mischievously, runs and LEAPS -- -- but she's NOT GOING TO MAKE IT! Diana stretches out, her face falling as she realizes she's missed the jump, when -- A hand grabs her wrist!
+S: EXT. OTHER BRIDGE (THEMYSCIRA) - CONTINUOUS ACTION
+N: Dangling, Diana's pulled up to see: QUEEN HIPPOLYTA, ethereally beautiful, holding Diana easily by one arm as if Diana weighed nothing. She sits HORSEBACK, the mounted QUEEN'S GUARD behind her. Diana twists uneasily, smiling up at her mother. YOUNG DIANA (8) (breathless; innocently) Hello, Mother. How are you today?
+C: HIPPOLYTA
+D: How many times, Diana?
+E: sighs
+N: YOUNG DIANA (8) I haven't actually counted. Quite a few?
+C: HIPPOLYTA
+D: Let's get you back to school before another tutor quits.
+E: smiles; nods
+N: YOUNG DIANA (8) But, Mother... Don't you think it's time to start my training?
+C: HIPPOLYTA
+D: Training? You are training.
+N: Hippolyta softens, she loves her daughter more than anything, and PULLS DIANA into an embrace.
+C: HIPPOLYTA
+D: Your mind is your most powerful weapon. All battles begin here -- -- before they end here --
+E: beat taps Diana's head
+N: Hippolyta motions to the world around them. Diana frowns. Antiope RIDES to meet them, PHILIPPUS at her side. Antiope catches Diana's hopeful eyes. YOUNG DIANA (8) Antiope thinks I'm ready.
+C: HIPPOLYTA
+D: Does she?
+E: eyeing Antiope
+N: Antiope approaches, Philippus respectfully keeping a distance.
+C: ANTIOPE
+D: I could begin showing her some things. She should at least be able to defend herself.
+E: off Hippolyta's silence
+C: HIPPOLYTA
+D: From whom?
+C: ANTIOPE
+D: In the event of an invasion.
+C: HIPPOLYTA
+D: Isn't that why I have an army at my command, General?
+C: ANTIOPE
+D: I pray a day will never come where she has to fight, but you, the wisest of us all, know that one cannot deny their inner nature. A scorpion must sting, a wolf must hunt --
+C: HIPPOLYTA
+D: She's a child. The only child on the island. Please, let her be so.
+C: ANTIOPE
+D: But, sister --
+N: YOUNG DIANA (8) But, Mother --
+C: HIPPOLYTA
+D: There will be no training.
+E: a final declaration
+N: Hippolyta rides a crestfallen Diana away. She looks back at Antiope, who nods at Diana pointedly.
+S: INT. HIPPOLYTA'S PALACE - DIANA'S BEDCHAMBER - NIGHT
+N: Hippolyta attempts to tuck a wide-awake Diana (8) into bed. YOUNG DIANA (8) What if I promised to be careful?
+C: HIPPOLYTA
+D: It's time to sleep.
+N: YOUNG DIANA (8) What if I didn't use a sword?
+C: HIPPOLYTA
+D: Fighting doesn't make you a hero.
+N: YOUNG DIANA (8) (not listening) Just a shield then! No sharp edges!
+C: HIPPOLYTA
+D: Diana... You are the most precious thing in this world to me. So much so, I sculpted you from clay and begged Zeus to give you life.
+N: YOUNG DIANA (8) (bored) You've told me that story. Hippolyta steps away and removes a GOLDEN-BOUND TRIPTYCH.
+C: HIPPOLYTA
+D: Then I will tell you a new one. One of our people, and my days of battle...
+N: Diana's face LIGHTS UP, but Hippolyta raises her voice to correct her mood.
+C: HIPPOLYTA
+D: So you will finally understand... why war is nothing to hope for.
+N: Hippolyta slowly unfolds the large TRIPTYCH, revealing an elaborate PAINTING illustrating the history of the Amazons.
+C: HIPPOLYTA
+D: Long ago, when time was new, and all of history was still a dream... the gods ruled the Earth, Zeus king among them.
+N: PUSH IN as the painting seems to come alive, subtly animates. Lightning and thunder herald the arrival of ZEUS atop Olympus, surrounded by the PANTHEON OF GODS.
+C: HIPPOLYTA
+D: Zeus created beings over which the gods would rule -- beings born in his image -- fair and good, strong and passionate. Zeus called his creation... man. And mankind was good. Another flash of lightning REVEALS MANKIND.
+E: O.S. beat
+C: HIPPOLYTA
+D: But one grew envious of Zeus' love for mankind -- and sought to corrupt his creation.
+E: O.S.
+N: The painting seems to come alive again -- ARES, features hidden in shadow beneath a fearsome, HORNED HELMET.
+C: HIPPOLYTA
+D: This was Ares. The God of War. The sky splits open and fire rains from the heavens. Men take up arms, falling in line around Ares and becoming his ARMY.
+E: O.S.
+C: HIPPOLYTA
+D: Ares poisoned men's hearts with jealousy and suspicion, vengeance and rage. He turned them against one another.
+E: O.S.
+N: The DYING and the DEAD litter a RAGING BATTLEFIELD.
+S: 8A INT. HIPPOLYTA'S PALACE - DIANA'S BEDCHAMBER - NIGHT 8A
+N: BACK TO Young Diana (8), her eyes WIDE.
+C: HIPPOLYTA
+D: And war ravaged the Earth.
+E: V.O.
+S: EXT. PALACE (THEMYSCIRA) - NIGHT
+N: YOUNG DIANA (8) sneaks out of the palace, past her GUARDS. Pleased with herself, she runs off into the night!
+S: EXT. SECRET TRAINING LOCATION 1 (THEMYSCIRA) - NIGHT
+N: Antiope and Young Diana (8), now dressed for training, raise their BO STAFFS. Antiope strikes, gently at first, but not for long. Diana works hard to defend herself. 11,12 OMITTED -- INCORPORATED INTO SCENE 8, 8A 11,12
+S: EXT. BATTLEFIELD (PAINTING)
+N: APHRODITE, Goddess of Love, stands beside Zeus and the other gods at the shore of a turbulent sea, waving her hands as the ocean churns. From out of the sea rises: HIPPOLYTA, ANTIOPE, and countless other figures -- WARRIOR WOMEN.
+C: HIPPOLYTA
+D: So the gods made us, the Amazons, to influence men's hearts with love and to restore peace to the world.
+E: V.O.
+N: Standing behind Aphrodite on the shore, MEN watch the women approach in awe, lowering their weapons.
+C: HIPPOLYTA
+D: For a brief time, there was peace, even a unity among the world, as the gods and man fought side-by- side against a great evil.
+E: V.O.
+N: An ancient war is subtly depicted, but not lingered on. If one looks close you'll see: THREE ARMIES -- The gods, Amazons, and Atlanteans battling JACOB. Each army in possession of a LOTUS. ARES cleaves Jacob, then he looks to the LOTUS the humans have discarded. He reaches for it --
+C: ANTIOPE
+D: But it did not last.
+E: V.O.
+N: ARES' ARMY OF MEN swing a barrage of weapons at Hippolyta and the Amazons, led by the God of War himself.
+C: ANTIOPE
+D: Ares refused to give up his hold on mankind. Tightening his grip, he turned them against us.
+E: V.O.
+N: ARES AND HIS ARMY OF MEN lead Hippolyta and the other Amazons out of a BURNING CITY in SHACKLES and CHAINS.
+C: ANTIOPE
+D: When Zeus led the gods to our defense, Ares killed them, one-by- one...
+E: V.O.
+N: Ares grabs Apollo from behind, slitting his throat -- elsewhere, he assassinates Aphrodite -- elsewhere, Hermes --
+C: ANTIOPE
+D: .... until only Zeus himself remained.
+E: V.O.
+N: HIPPOLYTA breaks the chains between her bracelets!
+C: ANTIOPE
+D: Your mother, the Amazon Queen, led a revolt that freed us all from enslavement.
+E: V.O.
+N: Hippolyta leads the Amazons in battle against Ares, swinging her sword, a feral CHEETAH fights at her side --
+S: EXT. WOODS (THEMYSCIRA) - DAY
+N: Young Diana (8) mimics her mother in battle, thrusting her WOODEN SWORD as she runs.
+C: HIPPOLYTA
+D: While Zeus used the last of his power to stop Ares...
+E: V.O.
+S: EXT. BATTLEFIELD (PAINTING)
+N: Ares and Zeus CLASH in the eye of a STORM, each at the edge of death. Zeus throws his last THUNDERBOLT, hitting Ares.
+C: HIPPOLYTA
+D: ... striking him such a blow, the God of War was forced to retreat.
+E: V.O.
+N: Ares staggers back, a large gash in his chest leaks VIOLENT, BLUE POWER! He's swallowed up by DARKNESS.
+C: HIPPOLYTA
+D: With Zeus' dying breath, he created this island to shield us from the outside world. Somewhere Ares could not find us.
+E: V.O.
+S: EXT. SECRET TRAINING LOCATION 2 (THEMYSCIRA) - DAY
+N: Antiope attacks! Young Diana (8) tries to keep up -- and to Antiope's surprise and satisfaction -- she does!
+C: ANTIOPE
+D: But in the event he did, Zeus left us a weapon, one powerful enough to kill a God... to destroy Ares before he could destroy mankind... and us... with an endless war.
+E: V.O.
+S: EXT. SCENIC OVERLOOK (THEMYSCIRA) - DAY
+N: Hippolyta and Young Diana (8) look across their island home. Hippolyta smiles, ending her story... But Diana looks out across the oceans, wondering if Ares is still out there...
+C: HIPPOLYTA
+D: We give thanks to the gods for this paradise.
+N: YOUNG DIANA (8) And the Godkiller? Hippolyta isn't sure what Diana is referring to...
+C: HIPPOLYTA
+D: The Godkiller?
+N: YOUNG DIANA (8) Yes. The weapon that can kill Ares if he ever finds us. May I see it, Mother? Hippolyta's conflicted by Diana's excitement. A beat. Then she nods, Diana elated.
+S: EXT. ARMORY - DAY
+N: Hippolyta and Young Diana (8) ride their HORSES to the ARMORY, a heavily guarded keep at the top of Themyscira's hillside. The QUEEN'S GUARDS follow. Diana's eyes drift up at a HIGH TOWER with a single window.
+S: INT. ARMORY - CONTINUOUS ACTION
+N: Young Diana (8) follows Hippolyta down a torch-lit tunnel and into the open-air center. One high window.
+C: HIPPOLYTA
+D: This is where we keep all the gifts the gods have given us.
+N: Diana's eyes drift past a dazzling array of items, including a glowing GOLDEN GIRDLE, LASSO, and at the center, an ornately-crafted SWORD. Diana gently touches the hilt of the sword, in awe. YOUNG DIANA (8) The Godkiller... It's beautiful... Hippolyta watches her carefully. YOUNG DIANA (8) Who would wield it?
+C: HIPPOLYTA
+D: I pray there will never come a time when it is called to arms. But only the fiercest among us even could... And that is not you, Diana. She takes Diana's hand away from the sword.
+C: HIPPOLYTA
+D: So you see, my daughter, you are safe. And it is nothing for you to concern yourself with.
+N: But Diana is determined to prove her mother wrong --
+S: EXT. SECRET TRAINING LOCATION 3 (THEMYSCIRA) - DAY
+N: SWORDS clash! Young Diana (now 12) continues to train with Antiope -- more skilled, stronger -- but not yet the warrior she will one day be. As Antiope pushes her --
+C: ANTIOPE
+D: You're doubting yourself.
+N: YOUNG DIANA (12) (defiant) No, I'm not. Antiope swings, the swords clashing! Young Diana (12) loses her footing, falling to the ground --
+C: ANTIOPE
+D: Yes, you are. But you're stronger than you believe...
+E: beat
+C: HIPPOLYTA
+D: Diana!
+E: O.S.
+N: Hippolyta rides towards them, her GUARDS follow. The Queen climbs down, furious. She checks her daughter for injury. YOUNG DIANA (12) Mother... I'm fine... I was just --
+C: HIPPOLYTA
+D: Training. It seems I am not the revered queen I should be. Disobeyed, betrayed, by my own sister --
+E: to Antiope
+N: YOUNG DIANA (12) Mother! It was me. I asked her to --
+C: HIPPOLYTA
+D: Take her to the palace.
+E: to her Guards
+N: Crestfallen, Young Diana (12) is led away by Hippolyta's guards. She locks eyes with Antiope as she leaves.
+C: ANTIOPE
+D: You left me no choice, Hippolyta. You neglect your duty if she cannot fight.
+C: HIPPOLYTA
+D: You speak of a time that may never come. He may never return! He could have died of his wounds.
+N: Antiope raises her voice to meet Hippolyta's for the first time in three thousand years.
+C: ANTIOPE
+D: You think I don't wish that were true?! You feel it in your bones, just as I do. Ares is still alive... He is out there... and it's only a matter of time before he returns.
+E: beat
+C: HIPPOLYTA
+D: The stronger Diana gets --
+C: ANTIOPE
+D: Nobody wants this less than I. I love her as you do. But this is the only way to truly protect her.
+E: beat
+N: Hippolyta's pained eyes look away, pause for a beat, and then return to meet Antiope's with a steely stare.
+C: HIPPOLYTA
+D: She is to never know the truth about what she is and how she came to be. You will train her harder than every Amazon before her.
+E: beat
+C: ANTIOPE
+D: Hippolyta --
+C: HIPPOLYTA
+D: Five times harder -- ten times harder. You will train her until she is unconquerable.
+E: beat
+N: A beat. Then Antiope nods.
+T: SMASH CUT TO:
+S: EXT. TRAINING GROUNDS (THEMYSCIRA) - DAY
+N: An AMAZON rolls across the ground with a BOW AND ARROW, rising up and letting an ARROW fly! It's DIANA! She's now fully grown, striking and formidable, with a sly smile -- the arrow HITS the target DEAD CENTER and she moves on -- Antiope nods to Diana to look across the audience of Amazons and up to the hillside -- where Hippolyta has arrived on HORSEBACK. Diana grins, drawing her sword. Diana moves THROUGH and OVER obstacles, where she faces off against one of ANTIOPE'S GUARDS (African), using her SHIELD, BRACELETS and SWORD -- then ARTEMIS joins. Diana now taking on TWO AMAZONS -- and excited for the challenge. Diana dispatches Antiope's guard. The Amazons' brawler -- Artemis -- bares her teeth and attacks with no mercy, striking Diana hard! Artemis is fierce, revered by the other Amazons. Diana blocks the next blow, then sends Artemis crashing to the muddy ground at the feet of the other Amazons! The Amazons step back from Artemis. Humiliated, Artemis scowls. Diana, grins -- Then Antiope and Diana go into battle! Warriors in violent, graceful combat. Antiope feels her holding back.
+C: ANTIOPE
+D: Come on, Diana. You're stronger than this.
+N: Diana attacks Antiope with strength previously unseen! The Amazons watch with awe. Even Hippolyta. Unrelenting, Diana strikes hard, AGAIN AND AGAIN, until she knocks Antiope's sword out of her hands! Cocky, Diana points the sword at Antiope, who holds up her hands in surrender, proud. Diana nods, lowering the sword -- she's won. Diana turns to her mother, looking for her approval but -- -- WHAM! Out of nowhere, Antiope sends Diana to the ground with a BRUTAL BLOW! Not so fun anymore. Diana takes a breath, recovering. Hippolyta watches from the hill --
+C: HIPPOLYTA
+D: Get up, Diana.
+E: under her breath
+N: Diana glances at Antiope -- it was a dirty move -- but Antiope faces off against Diana!
+C: ANTIOPE
+D: NEVER let your guard down! Your opponents will have no honor. They will strike at you from behind! They will attack without provocation!
+N: Antiope knocks Diana's sword aside!
+C: ANTIOPE
+D: Show me the Amazon you are! Or was I wrong to put such faith in you?
+E: pushing Diana
+N: Pushed to her limit, Diana brings both arms up -- then SLAMS her bracelets together! BOOSH! A FIELD OF ENERGY EMANATES FROM DIANA'S CORE. We get the sense that this is just the beginning of her true POWER. Still, it's powerful enough to knock Antiope off her feet. Diana stumbles back... Diana, amazed and elated, realizes that something unbelievable has happened. A tiny GOLDEN SPARK in her
+T: eye quickly fades.
+N: Diana's ecstatic, scared and confused. She looks to her mother: Did you see that? But Hippolyta is worried about the implications of Diana's power -- and Diana mistakes it for judgment.
+C: HIPPOLYTA
+D: What have you done?
+N: Diana looks to Antiope, blood streaming from a cut to the head. Diana rushes to her side.
+C: DIANA
+D: I'm sorry --
+N: But Antiope holds up her hand --
+C: ANTIOPE
+D: Stay back.
+N: Diana looks at the other Amazons, who all stare back in silence, even Artemis -- then back to her mother's forlorn face, filled with fear. Diana slowly takes a step away, feeling frightened, guilty, rejected -- And Diana runs -- A COLD WIND blows across the hill. Fear falls on Hippolyta's face, taking in Diana's actions.
+S: EXT. CLIFF (THEMYSCIRA) - CONTINUOUS ACTION
+N: Diana races up a grassy embankment to a CLIFF overlooking the ocean. She looks down at her open palms, clenches them shut. What was that? Then -- An UNFAMILIAR SOUND: a strange gnawing BUZZ. Diana looks upward, quickly spotting -- A SHAPE on the horizon, moving closer. Something she has never seen before: A GERMAN WARPLANE, a Fokker, out of control, trailing SMOKE. Diana's sharp gaze catches sight of SOMEONE IN THE COCKPIT, struggling to escape. The PLANE dives down, crashing into the water! Without hesitation, Diana DIVES off the cliff, hurtling hundreds of feet through the air and into the sea.
+S: EXT. UNDERWATER (AEGEAN SEA) - MOMENTS LATER
+N: The plane SINKS, its PILOT already underwater. He struggles to break free from the cockpit, but his MESSENGER BAG is caught! A loud CREEEEAAAK pierces the water. The PILOT looks up to see a deep FISSURE running along the tail. It BREAKS free and the engine and cockpit sink like stones. As he sinks, he loses breath, the light fading. Suddenly, out of nowhere, DIANA APPEARS ON THE PLANE'S TAIL, above the surface. The sun blazes, framing her, an epic vision -- like an angel. The PILOT blinks into the light one last time. The DARK DEPTHS closing in on his face as his eyes fall shut. Diana DIVES in and grabs the Pilot. She braces her feet against the plane and rips him away, kicking to the surface.
+S: EXT. SURFACE (AEGEAN SEA) - CONTINUOUS ACTION
+N: Diana surfaces with the Pilot, swimming effortlessly to shore, unaware that behind them a WWI GERMAN BATTLE-CRUISER and its THREE LANDING CRAFT head towards the island.
+S: EXT. GERMAN BATTLE-CRUISER - DECK - CONTINUOUS ACTION
+N: A GERMAN COMMANDER stares into the THICK FOG with FIELD GLASSES. His LIEUTENANT at his side, bewildered.
+C: GERMAN LIEUTENANT
+D: Where did this fog come from?
+C: GERMAN COMMANDER
+D: Find the plane.
+S: EXT. GERMAN LEAD LANDING CRAFT 1 - CONTINUOUS ACTION
+N: GERMAN SOLDIER #1 spots something, pointing -- GERMAN SOLDIER #1 (to ship's tillerman) It's there! Landing craft 1 steers through the FOG toward the Fokker's TAIL SECTION, still afloat.
+S: EXT. GERMAN LANDING CRAFT 1 - CONTINUOUS ACTION
+N: German Soldier #1 REACHES OUT over the side and HIS HAND disappears in a BLINDING REFLECTION, like fractal SHARDS of LIGHT hitting a mirror. He briefly sees a flash of a beautiful island -- startled, he jolts back, the image vanishing into fog. He leans back out and there it is again! Beyond the protective RING of FOG and reefs -- AN ISLAND! And Diana swimming the Pilot toward the beach! Stunned, he leans inboard, once again enshrouded in a foggy, cold, gray day. GERMAN SOLDIER #1 (stammering) The pilot. He's... there? The tillerman is skeptical but slowly turns the boat.
+S: EXT. BEACH (THEMYSCIRA) - CONTINUOUS ACTION
+N: Diana drags the Pilot onto the beach, his bag around his shoulder. She gently lays him on the sand and gets her first real look at the FIRST MAN SHE'S EVER SEEN. His mouth, lips, jaw, hair, stubble -- captivating. This is CAPTAIN STEVE TREVOR (30s), rugged, handsome. An American fighter pilot undercover for the British. Steve wakes, squinting in the sun, surprised to discover Diana's not a hallucination. He takes in the strange surroundings, blown back by her breathtaking beauty.
+C: STEVE
+D: Wow.
+E: PILOT
+N: She backs away as he sits up, surprised by the timber of his voice. Diana studies his eyes. They're so blue.
+C: DIANA
+D: You are a... man?
+C: STEVE
+D: Yes, I mean -- Yeah. Do I not look like a... where am I?
+E: lowering his voice
+C: DIANA
+D: You are on Themyscira.
+C: STEVE
+D: Thema-- say it again?
+C: DIANA
+D: Who are you?
+N: They're cut off by the ear-splitting SOUNDS OF SCRAPING METAL. Diana and Steve turn to see the GERMAN BATTLE-CRUISER running aground on the protective REEF around Themyscira.
+C: STEVE
+D: I'm one of the good guys, and those are the bad guys.
+N: The wounded battle-cruiser sinks, but her THREE GERMAN LANDING CRAFT steam towards the beach.
+C: STEVE
+D: Y'know... Germans.
+C: DIANA
+D: Germans?
+C: STEVE
+D: We gotta get out of here.
+C: HIPPOLYTA
+D: Diana!
+E: O.S.
+N: Diana and Steve look up to the cliffs to see -- Battle-ready HIPPOLYTA on HORSEBACK, with the QUEEN'S GUARD, all with ARROWS pointed directly at Steve.
+C: HIPPOLYTA
+D: Step away from her! NOW!
+E: to Steve; enraged
+C: STEVE
+D: Where are their guns?
+N: ANOTHER WAVE OF GUARDSWOMEN arrive behind Hippolyta on HORSEBACK, aiming ARROWS at the German ships.
+C: STEVE
+D: Do they only have arrows? We need guns. Because the Germans have guns. Lots and lots of --
+N: A torrent of FLAMING ARROWS sail from the cliff top, over Diana's and Steve's heads, hitting all three landing craft. The Germans FIRE back in retaliation!
+C: STEVE
+D: Get down!
+N: Steve pulls Diana behind a ROCK FORMATION, out of sight of the invading Germans now fanning out across the beach. MORE AMAZONS join the others on the cliff, led by ORANA. Orana shoots a GRAPPLING ARROW into the rock wall of the opposite cliff. She swings down the attached line toward the beach, firing ARROW AFTER ARROW at the Germans. ON THE BEACH: Diana and Steve watch her, stunned. Diana turns as a soldier lifts his rifle and FIRES. She sees the BULLET leave the gun, heading straight for her in SLOW MOTION -- Steve TACKLES DIANA, pushing her to the ground as the BULLET just misses her. Diana's heightened senses allow her to see the bullet sailing past -- she's confused by what she's seeing -- until it HITS ORANA! Diana is aghast as Orana falls slack on the grappling line, her lifeless body swinging against the cliff wall.
+C: DIANA STEVE
+D: NO! Keep your head down!
+N: The Germans continue to FIRE at the Amazons atop the cliff, several of whom plummet to their deaths on the beach below. Orana's slayer squints down his rifle's eyesight -- WHUNK! An arrow now sprouts from the rifle barrel. A STAMPEDE OF HORSEWOMEN ride through a massive STONE ARCHWAY onto the beach. The AMAZON CAVALRY, led by ANTIOPE. Antiope, MENALIPPE and ARTEMIS at her side, BLOCKS BULLETS with her SHIELD and cuts through Germans with her SWORD, trampling them beneath her horse's feet. Steve crawls out, seeing a soldier taking cover behind a rock nearby.
+C: STEVE
+D: Stay here!
+E: to Diana
+N: A GLINT of a KNIFE in Steve's hand as he leaps on the soldier, dragging him down -- then quickly reappearing, SHOOTING a RIFLE. Diana grabs the SWORD and SHIELD of a fallen sister and joins the battle. She's quickly surrounded, but holds her own, fending off a SWARM of Germans.
+C: ANTIOPE
+D: Omicron formation!
+E: shouting to her troops
+N: Antiope's team organizes into a formation, working together but still overwhelmed until -- HIPPOLYTA arrives on the beach, joining the battle in spectacular fashion. She slashes through the Germans like no other Amazon, proving why she is QUEEN! Diana is in awe of her mother -- it's the first time she's witnessed her fight. Antiope finds relief as Hippolyta joins her side -- the two sisters fight back-to-back, wiping out all but FIVE GERMANS.
+C: ANTIOPE
+D: SHIELD!
+E: to Menalippe
+N: Steve watches as MENALIPPE takes her SHIELD with both hands, holds it parallel to the ground. Antiope dismounts, runs at her, then jumps onto the SHIELD, springing HIGH INTO THE AIR! One of the five remaining Germans raises his rifle to fire at Antiope, but Steve SHOOTS him first, saving Antiope's life, which is not lost on Diana. At the height of her mid-air arc, Antiope FIRES THREE ARROWS AT ONCE, eliminating all but ONE remaining German who raises his gun at Diana.
+C: STEVE
+D: Diana!
+N: Steve aims at the soldier as he fires, but Antiope steps in front of her niece. TAKING THE BULLET, she falls to the ground. Steve fires and the German falls, too.
+C: DIANA
+D: Antiope!
+N: The noise, the battle, everything falls away as Diana races to Antiope's side.
+C: DIANA
+D: No! Please no!
+N: Diana races to Antiope, dying, struggling to speak --
+C: ANTIOPE
+D: Diana. The time has come... you... you must...
+C: DIANA ANTIOPE
+D: What!? Antiope!! The Godkiller, Diana, go --
+E: barely audible
+C: DIANA
+D: Go where? Antiope! No!
+E: uncomprehending
+N: Hippolyta rushes to Diana, falling to her knees in front of Antiope's lifeless body.
+C: HIPPOLYTA
+D: Sister!
+N: Antiope stills. Diana's devastated, her first experience of death. Philippus looks on, saddened. Hippolyta grabs her sword and turns to Steve.
+C: HIPPOLYTA
+D: You!
+N: Diana rushes between them.
+C: DIANA
+D: Mother, no! He fought at my side against the invaders.
+C: MENALIPPE
+D: Typical. The man fights against his own people.
+C: STEVE
+D: They weren't my people.
+C: MENALIPPE
+D: Then why do you wear their colors?
+C: ARTEMIS
+D: Tell us!
+N: Steve looks down at his German uniform.
+C: STEVE
+D: I -- I'm not at liberty to say.
+C: MENALIPPE
+D: What is your name?
+C: STEVE
+D: I can't tell you that, either.
+C: VENELIA
+D: We should kill him right now and be done with it.
+N: Philippus talks, calm despite her friend's death.
+C: PHILIPPUS
+D: He dies now and we know nothing about why they came here and who they are.
+C: STEVE
+D: Ladies, I'm sorry. I can only tell you one thing about me: I'll never talk.
+S: INT. PALACE - THRONE ROOM - LATER
+N: Steve's overcome by an unseen force. He struggles.
+C: STEVE
+D: My name's Captain Steve Trevor. Pilot... American Expeditionary Forces. Serial number 8121941. That's all I'm at liberty to s--
+N: REVEAL: Steve, bleeding from injuries sustained in battle, bound by a GLOWING GOLDEN LASSO controlled by Menalippe. Diana and Hippolyta, battle weary, watch him. With them the QUEEN'S GUARDS, what's left of ANTIOPE'S GUARDS and SENATOR ACANTHA (50s). Steve strains to keep his mouth shut. He can't.
+C: STEVE
+D: Seconded... to British Intelligence. What the hell is this thing, anyway?
+E: re: lasso
+C: DIANA
+D: The Lasso of Hestia compels you to reveal the truth.
+C: MENALIPPE
+D: It is pointless -- and painful -- to resist.
+C: HIPPOLYTA
+D: What is your mission?
+C: STEVE
+D: Whoever you are, you're in enough danger as it is. You shouldn't --
+C: HIPPOLYTA
+D: What is your mission?
+C: STEVE
+D: I'm a spy.
+E: exhales; caves
+T: CUT TO:
+S: FLASHBACK - EXT. MILITARY INSTALLATION (OTTOMAN EMPIRE) -
+N: DAY Steve, in his GERMAN PILOT'S UNIFORM, stands on an AIRSTRIP next to several other PILOTS and PLANES.
+C: STEVE
+D: British Intelligence got word that the leader of the German Army, General Ludendorff, was visiting a secret military installation in the Ottoman Empire.
+E: V.O.
+N: STEVE'S POV FOLLOWING GENERAL LUDENDORFF as he and his troops enter a large, nondescript WAREHOUSE.
+C: STEVE
+D: I posed as one of their pilots, then flew in with them.
+E: V.O.
+S: INT. MILITARY INSTALLATION - FACTORY/LABORATORY - DAY
+N: Steve follows the others into the warehouse.
+C: STEVE
+D: According to our intel, the Germans had no troops left, no money, no munitions of any kind...
+E: V.O.
+N: Steve discovers this is an immense MUNITIONS FACTORY manned by elderly men, women, and children, all of whom appear to be slave labor for the Germans in the mass production of BOMBS.
+C: STEVE
+D: ... but our intel was wrong. The Germans had the Turks making bombs for them. And not just bombs...
+E: V.O.
+N: Ludendorff approaches a SCIENTIST, wearing head-to-toe protective gear. Removing mask and goggles, we meet the STUNNINGLY BEAUTIFUL DR. MARU, 40s. She finishes writing a CHEMICAL FORMULA in a NOTEBOOK. She turns, greets Ludendorff with respect and confidence.
+C: STEVE
+D: New weapons. Invented by Ludendorff's chief psychopath. Dr. Isabel Maru.
+E: V.O.
+N: Steve can't help but stare admiringly... until Maru turns her head, revealing METAL PLATES on her face, hiding damage incurred by her own experiments.
+C: STEVE
+D: Boys in the trenches call her `Dr. Poison.'
+E: V.O.
+N: Maru leads LUDENDORFF to her lab, to a fully-enclosed TEST CHAMBER with a VIEWING WINDOW. In the chamber, Steve sees a gruesome site: A PRISONER, his terrified face covered by a GAS MASK, his wrists and ankles stretched out and restrained by CHAINS. Another CHAIN leads from the top of the prisoner's gas mask. Out of earshot, Steve watches as Maru shows Ludendorff the formulas in her notebook, explaining them. Maru closes the notebook and sets it down, then releases GLOWING GAS into the chamber. Panicked, the prisoner's terrified eyes widen, MUFFLED SCREAMS cry out behind his gas mask. Enraptured, Maru puts a hand against the window, her anxious eyes follow the SMOKE filling the chamber: It has to work this time. Ludendorff watches, waiting. Steve looks on in horror as the prisoner's gas mask begins to show slight signs of disintegration: thin cracks in the glass, wear on the straps, corrosion on the metal -- Maru isn't even aware she's grinning, but then -- The prisoner realizes the gas mask is resisting the gas, protecting him. He calms. Maru's face falls. Her eyes dart to Ludendorff who shows obvious signs of disappointment. Steve watches as a frustrated Dr. Maru pulls a LEVER -- and the chain connected to the prisoner's gas mask tears the mask off, exposing him to what's left of the gas! The panicked prisoner screams in pain as he breathes in, dying horribly! Steve can barely watch, he glances away -- and his eyes lock on Maru's notebook.
+C: STEVE
+D: From what I saw... if Dr. Maru was able to complete her work, millions would die. The war would never end. I had to do something...
+E: V.O. beat
+N: Steve makes a decision, knowing it could cost him his life -- he grabs the notebook.
+C: STEVE
+D: Dammit.
+N: Maru turns to see her notebook gone! She looks around just in time to see Steve leaving. They lock eyes briefly as he exits --
+S: EXT. MILITARY INSTALLATION - AIRSTRIP - CONTINUOUS ACTION
+N: An ALARM BLARES as Steve -- pursued by a dozen German soldiers -- runs to a FOKKER, props already rotating.
+S: EXT. SKY ABOVE THE MILITARY INSTALLATION - CONTINUOUS
+N: ACTION Steve's plane takes off, but he doesn't fly away. Instead, he doubles back toward the warehouse, where Ludendorff and Maru escape in a MILITARY VEHICLE.
+S: INT. STEVE'S FOKKER - CONTINUOUS ACTION
+N: Steve uses the Fokker's 12-BARREL ROTARY CANNON to FIRE on Ludendorff's vehicle -- but it gets away. Steve trains the gun on the evacuated military installation's glass roof, whose WORKERS have just evacuated. He STRAFES it, taking out all of the glass panes before dropping HAND-BOMBS into the complex. The factory EXPLODES in a fire ball as he flies off into the sky! END FLASHBACK.
+S: INT. PALACE - THRONE ROOM - DAY
+N: Steve tries to resist the lasso again, but can't --
+C: STEVE
+D: I was on my way back to London when the Germans shot me down...
+N: Steve's eyes firmly on his BAG at Hippolyta's feet. Diana removes Dr. Maru's notebook.
+C: STEVE
+D: But if I can get those notes to British Intelligence in time, it might make a difference... ... stop millions more from dying... Stop the war...
+E: emotional
+C: DIANA
+D: War? What war?
+C: STEVE
+D: ... The War to End All Wars. Four years, twenty-seven nations, twenty-five million dead -- soldiers... and civilians...
+N: Steve swallows hard, forced by the lasso to reveal all. Not just the facts, but also his feelings about them.
+C: STEVE
+D: ... Innocent people. Women and children. Slaughtered. Their homes -- villages -- looted, burned. Weapons deadlier, more horrifying than you can imagine. Like nothing I've ever seen... It's like... ... like the world is going to end.
+E: with difficulty absolute truth to him
+N: Steve's head hangs low, Diana looks at him with sympathy and sadness.
+C: HIPPOLYTA
+D: Take him to the infirmary.
+E: stoney-faced
+N: Diana tenses, clearly shaken by this.
+S: EXT. PALACE - COURTYARD - NIGHT
+N: Diana follows Hippolyta and the cortege into the courtyard, trying to lend voice to their debate.
+C: PHILLIPUS
+D: Should we let him go?
+C: HIPPOLYTA
+D: And risk him bringing more men to our shores. Phillipus...
+C: DIANA
+D: Mother -- ?
+E: quiet
+C: PHILLIPUS
+D: We can't hold him forever, my Queen.
+C: DIANA
+D: Excuse me, Mother. But after everything the man said... this must be Ares.
+N: They all stop and face Diana.
+C: SENATOR ACANTHA
+D: What are you talking about, child?
+C: DIANA
+D: Forgive me, Senator Acantha, but... the man called it a war without end. Millions of people already dead. Like nothing he's ever seen. Only Ares could do such a thing. We cannot simply let him go. We must go with him.
+E: then
+C: HIPPOLYTA
+D: We are not deploying our army and leaving Themyscira defenseless to go and fight their war!
+C: DIANA
+D: It is not their war. Zeus created man to be just and wise, strong and passionate.
+E: repeating the history lesson
+C: HIPPOLYTA
+D: That was a story, Diana. There is much you do not know. Mankind is easily corruptible.
+C: DIANA
+D: But Ares is behind that corruption. It is Ares who has these Germans fighting. And stopping the God of War is our foreordinance --
+C: HIPPOLYTA
+D: We must care to our wounded, honor our fallen!
+C: DIANA
+D: Themyscira has seen death for the first time, Mother. Ares must not be allowed to threaten us again. We know only too well what happens if he finds us -- and he will. Never again shall we be enslaved. And now mankind must be freed. As Amazons this is our duty!
+C: HIPPOLYTA
+D: You are not an Amazon like the rest of us, Diana.
+N: That strikes Diana in the heart. Hippolyta stops herself from revealing more, covering --
+C: HIPPOLYTA
+D: You don't know war like we do.
+C: DIANA
+D: You may be afraid to face Ares, Mother, but I am not.
+E: accusatory
+C: HIPPOLYTA
+D: Afraid? You know nothing of fear, child. Nothing of war. Nothing of pain. Nothing of sacrifice. So you will do nothing. Your Queen forbids it.
+E: angry; for her own good beat
+N: Diana leaves, brimming with anger -- Hippolyta with conflict.
+S: INT. INFIRMARY - EPIONE'S ROOM - NIGHT
+N: EPIONE, a skilled healer, stitches up a wound on Diana's ARM. Diana doesn't flinch.
+C: EPIONE
+D: Is it true you saved his life?
+C: DIANA
+D: Who told you that?
+C: EPIONE
+D: He did. What will the Queen do with him? Will she kill him?
+E: beat
+N: OFF Diana, wondering herself.
+S: INT. INFIRMARY - STEVE'S ROOM - LATER
+N: Diana enters to find Steve stepping out of a TUB -- his back to her -- NAKED. She studies his body as he towels himself dry. Steve's shoulder has been BANDAGED, but his body is covered with CUTS, BRUISES, SCARS from other battles. Diana touches her own wound, sympathetic. Steve finally turns, startled to see her there.
+C: STEVE
+D: Didn't hear you come in./Didn't hear you knock.
+N: Diana stares at him. Puzzled. Steve isn't enjoying the look on her face.
+C: DIANA
+D: Would you say you're a typical example of your sex?
+N: Steve raises an eyebrow, slightly offended, but he doesn't cover himself.
+C: STEVE
+D: I like to think of myself as... above average.
+C: DIANA
+D: What is that?
+N: Steve is relieved to see she means his POCKET WATCH on top of his clothes.
+C: STEVE
+D: It's a watch.
+C: DIANA
+D: A watch.
+C: STEVE
+D: My father gave it to me. Been through hell and back with him, and now me, and it's still ticking.
+C: DIANA
+D: Why?
+E: listening to it tick
+C: STEVE
+D: Because it tells time. So, I know when to wake up, work, eat, sleep.
+E: off her look
+C: DIANA
+D: You let this little thing tell you what to do?
+E: that's ridiculous
+N: Steve takes the watch from her, covers up.
+C: STEVE
+D: Do you mind if I ask you a couple hundred questions?
+N: Diana shrugs.
+C: STEVE
+D: What is this place?
+C: DIANA
+D: Themyscira.
+C: STEVE
+D: I caught that before. I mean what is this place? How come I've never heard of it? Who the hell are you people? How do you know English?
+C: DIANA
+D: We speak hundreds of languages. We are the bridge to a greater understanding between all men.
+C: STEVE
+D: Funny, because I understand even less now than before you walked in.
+N: The way Steve watches her makes Diana self-conscious.
+C: STEVE
+D: Hey, I didn't get to say it earlier... but thanks for dragging me out of the water.
+C: DIANA
+D: Thank you for what you did on the beach.
+C: STEVE
+D: So... Are you here to let me go?
+C: DIANA
+D: I'm sorry... It's not up to me. I tried. I even asked them to send me with you --
+N: Steve's eyes brighten. Diana backpedals in embarrassment.
+C: DIANA
+D: -- or anyone. An Amazon. The Amazons.
+C: STEVE
+D: The Amazons?
+C: DIANA
+D: It is our sacred duty to defend the world... and I wish to go. But my mother will not allow it.
+N: Which, from her tone, clearly disappoints Diana. Steve's surprised to find himself disappointed, too, though his better sense tells him not to be.
+C: STEVE
+D: Can't say I blame her. The way this war is going, I wouldn't let anyone I care about near it.
+E: off Diana's surprise
+C: DIANA
+D: Then why do you want to go back?
+N: Steve starts dressing.
+C: STEVE
+D: I don't think want is the word, but... I've gotta try. My father used to say.
+E: wistful; remembering his father MORE
+C: STEVE
+D: `You see something wrong in the world, you can either do nothing, or you can do something. And you already tried nothing.'
+E: CONT'D
+N: Moved, Diana takes that in. Determination on her face.
+S: EXT. ARMORY (THEMYSCIRA) - NIGHT
+N: On this still, MOONLIT night, the armory stands monolithic amongst the other buildings of Themyscira. Diana surveys from an opposing hillside. The building's face an impenetrable mountainside, accessible by only one main entrance, completely blocked by SEVERAL GUARDS who stand watch -- and even if she could take them all on, Diana doesn't want to hurt them. Studying the building further, she focuses on the SINGLE WINDOW in the HIGH TOWER. Diana's face darkens with fixed focus. She looks down at her feet, back at the space -- calculating it all. She turns to the hillside behind her, spots a distant branch twisting from a tree. It looks relatively equidistant to the armory. She takes a step towards it, then another -- and another -- and Diana leaps into the air, locked on the branch -- but she lands far before reaching it! As Diana jogs to a stop, her frown fades: I know that I can do this. Diana sets off in a dead sprint towards the cliffside -- she LEAPS over the abyss below. Her face calm as she SOARS through the night -- THE BUILDING BARRELS TOWARDS HER, her eyes widen. Thinking fast she GRASPS a SPUR and -- She SLAMS into the side, holding on. She revels in the moment briefly and then sobers: Now what? The window is at least 30 feet above her -- below, the abyss. The wind MOANS. Diana's GRIP TIGHTENS on the spur. Suddenly, the SPUR CRACKS! Diana falls -- She scrambles against the wall, her hands grasping at the stone face. SHARDS FLYING around her, she realizes she's strong enough to make her own handholds -- SLAM! Her hand catches and she YANKS to a stop! Shocked, she hangs there for a second, then grins fiercely. She begins to CLIMB her way straight up the stone wall, her fingers slamming into the tower, making her own ladder out of solid stone.
+S: EXT. ARMORY - ROOFTOP - CONTINUOUS ACTION
+N: Diana FLIPS herself up onto a tiny ledge outside of the window. She moves in --
+S: INT. ARMORY - CONTINUOUS ACTION
+N: In the moonlit darkness of the deserted armory, Diana moves towards the GODKILLER SWORD. She takes it from its SCABBARD, awed by its weight, its sheer power in her hands. She holds it tight. It feels right. As she leaves, she passes a suit of ancient armor and SNATCHES ITS SHIELD. Then the LASSO OF HESTIA disappears from its hook. Diana, now half-dressed in GREEK ARMOR, admires a glowing GOLDEN BELT-LIKE GIRDLE, then looks ahead to something that really catches her eye. BLURRY in our f.g., the silhouette of a woman's form GLOWS GOLD, RED, AND BLUE from its display. Diana's eyes widen with delight.
+S: INT. INFIRMARY - STEVE'S ROOM - MINUTES LATER
+N: Diana enters, waking Steve --
+C: STEVE
+D: Nice outfit.
+C: DIANA
+D: Thank you. Now I will show you the way off the island. And you will take me to Ares.
+E: without irony
+C: STEVE
+D: Deal.
+E: as she's a bit nuts
+N: Steve grabs his watch and bag.
+S: EXT. HARBOR (THEMYSCIRA) - DOCK - CONTINUOUS ACTION
+N: Diana and Steve on HORSEBACK emerge from the forest at the edge of a harbor. Diana and Steve turn to the front of a not-very-modern-looking (by 1918 standards) AMAZON SAILING VESSEL.
+C: STEVE
+D: I'm leaving in that?
+E: skeptical
+C: DIANA
+D: We are.
+C: STEVE
+D: We're leaving in that?
+C: DIANA
+D: Do you not know how to sail?
+C: STEVE
+D: Of course, I know how to sail. Why wouldn't I be able to sail? Just haven't since I was a kid -- She nods, motions to the boat with encouragement.
+E: a touch of bravado beat
+C: DIANA
+D: Then there's nothing to be afraid of.
+N: Steve hesitates.
+C: DIANA
+D: What?
+N: Steve nods at the valley behind them, where HIPPOLYTA and the QUEEN'S GUARD thunder in on their horses. Hippolyta raises her hand, ordering her GUARDS to halt. She approaches Diana ALONE. Diana takes a breath, reluctantly meeting her mother's eyes, dreading this.
+C: DIANA
+D: I can't stand by while innocent lives are lost. If no one else will defend the world from Ares, I must. I have to go --
+E: defiant; strong
+C: HIPPOLYTA
+D: I know.
+N: Diana finds not fury on her mother's face, but sadness.
+C: HIPPOLYTA
+D: Or at least I know that I cannot stop you. There is so much... so much you do not understand.
+C: DIANA
+D: I understand enough. That I'm willing to fight for those who cannot fight for themselves. Like you once did...
+C: HIPPOLYTA
+D: You know that if you choose to leave us, you may never return. Once you leave this island, its location will fade from your memory...
+N: Hippolyta relents, nodding. She climbs down from her horse, taking something from the saddle. She presents Diana with ANTIOPE'S HEADBAND.
+C: HIPPOLYTA
+D: This belonged to the greatest warrior in our history -- make sure you are worthy of it.
+C: DIANA
+D: I will.
+N: She hands it to her daughter.
+C: HIPPOLYTA
+D: Be careful in the world of men, Diana, they do not deserve you.
+N: Hippolyta tries to memorize her daughter's face, believing it's the last time she'll ever see it.
+C: HIPPOLYTA
+D: You have been my greatest love. Today you are my greatest sorrow.
+N: Diana WALKS AWAY from her mother, and the only home she's ever known, towards Steve and the ship. The weight of this good-bye doesn't go unnoticed by Steve.
+S: EXT. THEMYSCIRAN SAILING VESSEL (AEGEAN SEA) - NIGHT
+N: Diana looks back towards the island, her whole world until now.
+S: EXT. SHORELINE (THEMYSCIRA) - NIGHT
+N: Menalippe approaches, joining Hippolyta's side.
+C: MENALIPPE
+D: Should you have told her?
+C: HIPPOLYTA
+D: The more she knows, the faster he will find her.
+S: EXT. THEMYSCIRAN SAILING VESSEL (AEGEAN SEA) - NIGHT
+N: A BREEZE moves through Diana's hair as she takes a breath, watching the island drift away, and in a SUDDEN FLICKER of fog -- it is gone. Bittersweet. She eyes Steve at the TILLER. He looks at his WATCH, still ticking, then pockets it.
+C: DIANA
+D: How long until we reach the war?
+C: STEVE
+D: The war? Well, which part? The Eastern Front in France is 400 miles long -- from the Alps to the Atlantic. Then there's the Dolomites in Italy, Turks in Arabia -- there used to be a Russian Front but they quit last year so they could kill the Tzar and have a revolution.
+C: DIANA
+D: Where the fighting is the most intense then. If you take me there, I am sure I will find who I'm looking for.
+C: STEVE
+D: Who's that?
+C: DIANA
+D: Ares.
+C: STEVE
+D: Ares? As in the God of War?
+C: DIANA
+D: The God of War is our responsibility. Only an Amazon can defeat him. With this.
+N: Diana points the SWORD at Steve, he holds his hands up.
+C: DIANA
+D: And once I do, the war will end.
+N: Steve gently pushes the sword away from him. He would normally refute this outright, but after all he's seen today, he's turned upside down --
+C: STEVE
+D: Look, Princess, I like your spirit, and maybe you know something I don't, but this war is so sprawling, there's nothing the two of us can do about it. But we can try to get to the men who can.
+C: DIANA
+D: You're looking at the person who can. And after I find and destroy Ares, the German armies will be freed from his influence -- and they will be good men again.
+C: STEVE
+D: I'm starting to understand why your mother didn't want you to leave. How much do you really know about the rest of the world?
+E: as she's nuts beat
+C: DIANA
+D: The world of men? I know all there is to know about them -- from the great books.
+N: Steve can't tell whether she's joking or not.
+C: STEVE
+D: The great books. Those books explain why there are no men on that island? Or kids?
+C: DIANA
+D: I was raised on the island.
+C: STEVE
+D: Just you? Sheltered upbringing.
+E: off her nod
+C: DIANA
+D: My mother sculpted me from clay. I was brought to life by Zeus.
+C: STEVE
+D: Oh. Well, that's not how babies are made where I come from.
+N: Diana turns to Steve, moving closer. The tension between them palpable. Diana gets close --
+C: DIANA
+D: You refer to reproductive biology.
+C: STEVE
+D: I refer to more than that.
+C: DIANA
+D: Ah. The pleasures of the flesh.
+N: Steve gets closer.
+C: STEVE
+D: You know about that?
+E: pleasantly surprised
+C: DIANA
+D: Of course. I've read all twelve volumes of Clio's Treatises on Bodily Pleasure.
+C: STEVE
+D: All twelve, huh? You bring any of them with you?
+E: off her nod
+N: Steve moves closer to Diana. She grins --
+C: DIANA
+D: You would not enjoy them. They came to the conclusion that men are essential for procreation, but when it comes to pleasure... unnecessary.
+N: Steve gives Diana a look that seems to suggest he'd challenge that. Diana takes that look in for a split second, then turns away, self-conscious. Steve does the same. And they sail on...
+S: EXT. HANGAR (BELGIUM) - DR. MARU'S LABORATORY - DAY
+N: GENERAL LUDENDORFF marches toward a HANGAR that's become Dr. Maru's new FACTORY. He's followed by a CAPTAIN and his GUARDS. Ludendorff does not look happy, despite the hustle and bustle of workers.
+C: LUDENDORFF
+D: How long until we are operational?
+C: CAPTAIN
+D: Two days, sir.
+C: LUDENDORFF
+D: You have until tonight, Captain.
+C: CAPTAIN
+D: Sir, the men have had no food. No sleep.
+C: LUDENDORFF
+D: Do you think I've had food or rest, Captain? Do you hear me making excuses? Your men are weak. Complacent. You've spoiled them. You've let them forget that an attack can come at any time -- from any quarter -- so let's you and I remind them, shall we?
+N: Ludendorff SHOOTS the Captain, making an example of him. His body THUDS to the ground.
+S: INT. HANGAR - DR. MARU'S LABORATORY - CONTINUOUS ACTION
+N: Ludendorff walks into Maru's new lab in mid-construction. BARRELS of CHEMICALS and EQUIPMENT line the hangar.
+S: 48A INT. HANGAR - DR. MARU'S LAB - DAY 48A
+N: Maru furiously works, looking at the chemicals, her formulas, writing in a NEW NOTEBOOK -- she's at a crossroads. She stops, stuck -- when Ludendorff approaches.
+C: LUDENDORFF
+D: Doctor. Are you making progress?
+C: MARU
+D: Not enough... It is over, General. Germany is giving up.
+E: MORE
+C: 48A CONTINUED: 48A MARU
+D: Von Hindenburg has recommended the Kaiser sign the armistice. We have run out of time.
+E: CONT'D
+C: LUDENDORFF
+D: Once the Kaiser sees your newest weapon, he will never sign the armistice.
+C: MARU
+D: But without my book...
+N: Ludendorff turns to Maru, gazes at her.
+C: LUDENDORFF
+D: We will get your book. But I believe in you, not it. I KNOW that you CAN and you WILL succeed. It is what you were put on this Earth to do.
+E: beat
+N: The way he says it, as if he were God himself.
+C: MARU LUDENDORFF
+D: Something did come to me last night. For you... It has been a long journey. I need...
+E: ALT
+N: Doctor Maru pulls out a METAL CASE, produces a GLASS CAPSULE full of BLUE GAS.
+C: MARU
+D: A different type of gas. To restore your strength. General Ludendorff takes the capsule, examines it.
+E: beat
+C: MARU
+D: And make you into the god you are.
+N: He breaks the capsule under his nose, inhales -- his veins GLOW as he breathes in. He stands taller, re- energizes, confident, his hand holds a GUN -- and CRUSHES it. A STRANGE WIND BLOWS across Maru... she turns, as if she can hear a VOICE. Then she grins.
+C: MARU
+D: General... I have it. And if it is what I think... it's going to be... terrible.
+N: 48A CONTINUED: (2) 48A
+C: LUDENDORFF
+D: And our war will swallow this world... Forever.
+N: PRE-LAP -- The HORN and BELLS of a STEAMSHIP.
+S: EXT. THEMYSCIRAN SAILING VESSEL (OCEAN) - MORNING
+N: Diana wakes to find an enormous STEAM SHIP, its HORN BLARING, towing their boat into the harbor. She blinks, never having seen anything like it.
+C: STEVE
+D: Good morning. We got lucky, caught a ride. Made good time.
+E: O.S. beat
+N: Over Steve's shoulder, Diana gets her first eye-popping view of industrialized LONDON (circa 1918).
+C: STEVE
+D: Welcome to jolly ol' London.
+N: Diana, awestruck, takes in the city's skyline.
+C: DIANA
+D: It's hideous.
+C: STEVE
+D: Eh. It's not for everyone.
+S: EXT. PICADILLY CIRCUS (LONDON) - DAY
+N: Diana, eyes-wide, takes in the COBBLESTONE STREETS. OVER-DRESSED PEOPLE, a HORSE-DRAWN CARRIAGE, NEWSSTANDS shout out headlines of WAR and VOTES FOR WOMEN. These are all FIRSTS for Diana, and she seems fascinated by them -- to her this is the world of good men. She looks through various STORE WINDOWS with wonder. She moves past a BAKERY, breathing in the wonderful smell. A HORSELESS CARRIAGE HONKS, Diana watching it drive by, moving out of its way -- but with a smile.
+C: STEVE
+D: Diana!
+E: O.S.
+N: Steve is working to keep up with Diana. She sees something she can barely fathom -- a MAN and WOMAN holding hands, very much in love. It's captivating.
+C: DIANA
+D: Why are they holding hands?
+C: STEVE
+D: Well, because they're... together.
+N: Diana takes Steve's hand. He lets it go.
+C: STEVE
+D: No, we're not together... I mean, like that. Look, we need to go this way.
+C: DIANA
+D: Because this is the way to the war?
+C: STEVE
+D: Technically, that's the way to war.
+E: points the opposite way
+C: DIANA
+D: Then where are we going?
+C: STEVE
+D: I have to get this notebook to my superiors.
+E: pats his bag
+C: DIANA
+D: I let you go, you take me to Ares. We made a deal, Steve Trevor. A deal is a promise. A promise is unbreakable.
+C: STEVE
+D: Oh, boy. Okay... Dammit. Come with me to deliver this, then we'll talk about getting you a train ticket.
+E: almost finds that endearing stuck with her beat
+N: Someone glares at Steve's clothes -- the remains of a German pilot.
+C: STEVE
+D: I need to change. And you...
+E: to Diana
+N: People stare at Diana, her cloak open, revealing her armor. She smiles and nods, "Hello!," they back away. Steve tries to keep her cloak closed -- he can't help but take a second glance at her leg.
+C: DIANA
+D: What are you doing?
+C: STEVE
+D: We need to get you some clothes.
+E: sneaks a third glance
+C: DIANA
+D: Why?
+C: STEVE
+D: Because you aren't wearing any.
+N: Diana, confused, looks down at her armor, then looks around at the mostly overdressed women on the street.
+C: DIANA
+D: What do these women wear into battle?
+C: STEVE
+D: Well, women don't exactly --
+E: how to say it?
+N: Diana's eyes snap to a YOUNG MOTHER holding a BABY.
+C: DIANA
+D: A baby.
+N: The mother looks at Diana quite oddly. Steve takes Diana gently by the arm, nods to the mother, and keeps moving.
+C: STEVE
+D: And that one wasn't made out of clay.
+N: They move on, both unaware that they're being following by a MAN IN A SUIT.
+C: VOICE
+D: It's true! You're alive!
+E: V.O. pre-lap
+S: EXT. SELFRIDGE & CO. - DAY
+N: ETTA CANDY, Steve's loyal, cheeky, secretary spies Steve and Diana walking towards her.
+C: ETTA
+D: Well, thank God for that! I thought you were dead this time, I really did, then I got your call -- He was gone for weeks! Not a word. Very unlike him.
+E: to Diana
+N: Etta extends a hand to Diana. Diana just looks at it.
+C: ETTA
+D: Hello. I'm Etta Candy. Captain Trevor's secretary.
+C: DIANA
+D: What is a secretary?
+C: ETTA
+D: Well, it means I do everything. I go wherever he goes. Do whatever he tells me to do.
+C: DIANA
+D: Where I'm from, that's called slavery.
+E: glaring at Steve
+C: ETTA
+D: Ooh, I like this one. It does rather feel like that sometimes. But the pay's good and he's almost never here.
+E: to Steve; re: Diana to Diana
+N: Eyes Diana's clothing.
+C: ETTA
+D: We've got our work cut out for us.
+N: We FOLLOW Diana in --
+S: INT. SELFRIDGE & CO. - CONTINUOUS ACTION
+N: Diana examines a CORSET tight on a MANNEQUIN, Etta and Steve with her.
+C: DIANA
+D: Is this what passes for armor in your country?
+C: ETTA
+D: Of a sort. It's fashion. Keeps our tummies in.
+C: DIANA
+D: Why must you keep them in?
+C: ETTA
+D: Only a woman with no tummy would ask that question.
+N: Etta holds up an OUTFIT for Diana.
+C: ETTA
+D: Conservative, but not entirely... un-fun.
+N: Diana looks at Steve as if to say, "Do I have to?"
+C: STEVE
+D: At least try it on.
+N: Diana, sighs, then starts to take off her cloak. Etta's eyes go wide. She rushes to stop Diana from removing it.
+C: ETTA
+D: Oh, my! Aren't you terribly cold out here where everyone can see... everything? Let's get you into a nice, warm, private dressing room, shall we?
+N: Etta leads Diana off, looking to Steve as if to say, "Where did you find this woman?"
+S: INT. SELFRIDGE & CO. - WOMAN'S WEAR - MOMENTS LATER
+N: Diana, in OUTFIT #1 -- frilly and silly -- stands in front of the mirror, miserable. It's ridiculous. Diana pulls the dress up, wondering aloud --
+C: DIANA
+D: How can a woman possibly fight in this?
+C: ETTA
+D: We fight with our principles. It's how we got the vote.
+N: She winks at Diana, who relates to principled fighting.
+C: ETTA
+D: Not that I'm opposed to engaging in a bit of fisticuffs when the situation calls for it, mind you!
+S: 53A INT. SELFRIDGE & CO. - WOMAN'S WEAR - MOMENTS LATER 53A
+N: Diana in OUTFIT #2 -- a tight skirt and top. Etta admires it.
+C: ETTA
+D: There we are. Very nice.
+N: Diana tries to kick, impossible in this dress. It rips. She shakes her head at Etta. This dress won't do.
+S: INT. SELFRIDGE & CO. - WOMAN'S WEAR - MOMENTS LATER
+N: Diana, in OUTFIT #3 -- almost exactly what Etta wears - yanks at its high collar impatiently.
+C: DIANA
+D: So itchy. And it's choking me.
+C: ETTA
+D: I can't say that I blame it.
+E: exasperated
+S: INT. SELFRIDGE & CO. - MOMENTS LATER
+N: Steve walks up to Etta. He's now dressed in his SUIT.
+C: STEVE
+D: Where is she?
+C: ETTA
+D: Trying on outfit number two hundred and twenty-six.
+N: Diana emerges from the dressing room in FASHIONABLE WOMAN'S DRESS that, on any other woman, would be unremarkable. On Diana, it's spectacular.
+C: DIANA
+D: Why is everyone staring? Is it because I can barely breathe in this?
+N: Diana shifts uncomfortably, self-conscious, and disliking the restrictions. Steve, catching himself staring, snaps out of it.
+C: STEVE
+D: Etta, the whole point was to make her less conspicuous.
+E: to Etta
+N: Steve looks around the store, grabs a pair of GLASSES. He gently puts the glasses on Diana's face. Looks satisfied.
+C: ETTA
+D: Really, Steve? All it takes is a pair of specs, and suddenly she's not the most beautiful woman you've ever seen?
+N: Diana LOOKS into the mirror, takes a deep breath and settles into the dress. She smiles as she fixes her glasses.
+S: EXT. SELFRIDGE & CO./OXFORD ST. - CONTINUOUS ACTION
+N: Diana, HAIR UP, in her GLASSES and NEW OUTFIT pushes through the door as DIANA PRINCE. The MAN IN THE SUIT from earlier, holds it open for her.
+C: DIANA
+D: Thank you.
+N: Etta follows Diana and Steve out with the SHOPPING BAGS. Diana tucks the LASSO into the inside of her coat --
+C: ETTA
+D: Right then, I'll take the rest of this. Good luck, I'll take these back to the office and meet you both later.
+N: Etta goes for Diana's SWORD, but Diana yanks it back.
+C: ETTA
+D: It really doesn't go with the outfit.
+C: STEVE
+D: It'll be safe. You can trust her. I don't think we're going to run into Ares at the meeting.
+E: beat
+N: Diana reluctantly lets Etta take the sword along with the SHOPPING BAGS, presumably carrying her armor.
+C: DIANA
+D: Please. Protect it with your life.
+E: earnest
+C: ETTA
+D: ... Who wouldn't?
+E: raising an eyebrow
+S: EXT. STREET (LONDON) - CONTINUOUS ACTION
+N: Diana and Steve walk down the street, the SUITED MAN from earlier follows them. He's suddenly distracted by the reappearance of the Suited Man from earlier, who confers with A SECOND SUITED MAN (SM #2).
+C: STEVE
+D: Come on.
+C: DIANA
+D: What is it?
+C: STEVE
+D: Hopefully nothing.
+N: Steve leads Diana down a less-populated street. Diana sees SM #1 and SM #2 tracking them on opposite sides of the street. Steve, distracted, bumps right into SUITED MAN #3 and looks down to find a GUN aimed at his gut. SUITED MAN #3 Captain Trevor, I believe you have something that is the property of General Ludendorff.
+S: EXT. ALLEYWAY (LONDON) - CONTINUOUS ACTION
+N: SM #3 backs Steve and Diana into an ALLEYWAY where TWO MORE men wait. Now all FIVE of the SUITED MEN gather, THREE of them have their GUNS out on Diana and Steve.
+C: STEVE
+D: Quite a reception.
+N: SUITED MAN #3 Give us Dr. Maru's notebook. Steve steps in front of Diana, searching his jacket --
+C: STEVE
+D: Where did I put that thing?
+N: At which point -- Steve KICKS THE GUN OUT OF SM #3's HANDS, HITTING HIM INTO THE TWO OTHERS HOLDING GUNS. Steve holds his arm up, "protecting" Diana --
+C: STEVE
+D: Stay behind me!
+E: to Diana
+N: SM #2 FIRES! Steve pushes Diana out of the bullet's path, but Diana reaches out -- THE BULLET BOUNCES OFF HER BRACELET! EVERYONE FREEZES WITH ASTONISHMENT as Diana realizes her bracelets may be more than just symbolic.
+C: STEVE
+D: Or not.
+N: SM #2 and SM #3 FIRE! Diana RAISES BOTH BRACELETS, deflecting their bullets. Her technique is clumsy at first as she gets used to the torque, impact and SOUND. Steve takes out SM #1 while Diana grabs SM #3 as his LAST SHOT fires -- and lays him out with a blow. Diana deflects the last of SM #2's bullets as his gun runs EMPTY. Everyone is amazed, especially Steve --
+C: STEVE
+D: How'd you do that?
+N: She smiles as if to say, you ain't seen nothing yet -- The remaining THREE SUITED MEN rush Steve and Diana. Diana slams her fist into SM #2 while Steve takes on SM Diana grabs the dazed SM #2 -- swings him around, crashing him into SM #5 hard -- and they're both down. A spilt second later, Steve finishes taking out SM #4. The suited men run off, leaving only SM #1 behind. SM #1 stirs. Diana and Steve turn to see him make a run for it --
+C: ETTA
+D: I thought you looked suspicious.
+E: O.S.
+N: SM #1 is stopped in his tracks by Etta, wielding the GODKILLER, shopping bags at her feet.
+C: ETTA
+D: Where do you think you're going?
+N: SM #1 runs in the other direction, but Diana retrieves the LASSO from inside her coat and uses it to pull him off his feet, onto his back. As the lasso glows, Diana kneels at his side, compassionately placing her hand on his chest. In her mind, his actions are not his fault.
+C: DIANA
+D: I am sorry. You are clearly under his control. Let me help you get free. Tell me where he is... Where will I find Ares?
+N: But the suited man pops a CYANIDE pill between his teeth before she can get an answer.
+C: DIANA
+D: He's dead.
+N: Diana looks at Steve and Etta, horrified.
+S: INT. WAR OFFICE BLDG. - ASSEMBLY HALL - DAY
+N: Diana follows Steve into an ASSEMBLY HALL, where an unruly group of men, MILITARY LEADERS and MEMBERS OF PARLIAMENT, shout down SIR PATRICK MORGAN (40s), kindly faced, a CANE at his side. Diana gazes across the hall like a tourist.
+C: STEVE
+D: Stay here.
+N: Diana nods -- a beat -- then she proceeds to follow Steve down the aisle, running her hand across the rows of chairs, nodding and smiling to the dumbfounded men staring at her.
+C: SIR PATRICK
+D: Gentlemen! Germany is a proud nation who will never surrender. The only way to end this war and restore world peace is to negotiate an armistice.
+N: The ASSEMBLY ROARS objections at Sir Patrick as Steve finds COLONEL PHILLIP DARNELL (40s) in the crowd.
+C: STEVE
+D: Colonel!
+E: to Darnell; urgent whisper
+N: SIX COLONELS, who are not Darnell, turn their heads.
+C: STEVE
+D: Sorry. Phillip! Phil!
+E: to the Colonels another urgent whisper
+N: Darnell turns, amazed to see Steve there -- alive! Steve nods toward the door, then realizes the room has gone silent. Every eye in the hall is fixed on Diana, the only woman in a room that doesn't allow women. Diana, oblivious, looks up at Sir Patrick.
+C: SIR PATRICK
+D: Our only aim at this moment -- must be to achieve peace at any cost.
+E: distracted by Diana
+N: The crowd GRUMBLES again, about a woman's presence there as much as Sir Patrick's rhetoric. Steve takes Diana's arm and leads her out of the auditorium, Darnell follows.
+C: SIR PATRICK
+D: Gentlemen, I beg you, please, if you'll just hear me out --
+C: DIANA
+D: Why will they not let him speak? He's talking peace.
+C: STEVE
+D: That's why they won't let him speak.
+C: DIANA
+D: But if they want to stop the war, isn't that foolish? Are they fools?
+E: beat
+C: STEVE
+D: Most of `em.
+E: shakes his head "no"
+S: INT. WAR OFFICE BLDG. - LOBBY - CONTINUOUS ACTION
+N: An agitated and embarrassed Colonel Darnell makes his way to Steve and Diana, glancing at others watching him. Colonel Darnell makes his way to Steve and Diana.
+C: COLONEL DARNELL
+D: Trevor?! What the hell were you thinking bringing a woman into the council chamber?
+N: Diana looks at Steve, indignant. He holds his hand up, calming Diana --
+C: STEVE
+D: I'm sorry, sir, but the intel I've brought back is very time sensitive. We were attacked by men looking for it on the way here. One of Maru's notebooks.
+E: to Darnell
+C: STEVE
+D: We need to get it to Cryptography. And I need an immediate audience with the Generals --
+C: COLONEL DARNELL
+D: You don't just rush in here, like this, and demand an audience with the cabinet. Cryptography takes time and --
+C: SIR PATRICK
+D: Captain Trevor! Sir Patrick emerges from the auditorium, making his way over to the threesome.
+E: O.S.
+C: SIR PATRICK
+D: I'd heard you were lost on one of your missions, yet here you are. And you've brought a friend.
+N: Sir Patrick smiles sweetly at Diana, she smiles back, noticing his cane.
+C: COLONEL DARNELL
+D: Our deepest apologies for the interruption, sir --
+C: SIR PATRICK
+D: Nonsense.
+E: MORE
+C: SIR PATRICK
+D: Thanks to this young woman, the room was finally quiet enough for me to get a few words in. Sir Patrick Morgan, at your service.
+E: CONT'D a humble bow
+N: Diana bows her head in return.
+C: DIANA
+D: Diana, Princess of --
+C: STEVE
+D: Prince, Diana Prince. We... she and I... we work together. She helped me get this notebook here. From Maru's lab --
+E: over
+N: Steve presents the notebook. Sir Patrick takes it, understanding the implications immediately.
+C: SIR PATRICK
+D: `Dr. Poison' herself? My God... I suggest we assemble the war cabinet so they can tell us more.
+E: to Darnell
+N: Darnell hesitates, then nods. Steve and Diana grateful for the assist --
+S: 60A INT. HANGAR - DR. MARU'S LABORATORY - DAY 60A
+N: TIGHT ON: a GAS CANISTER. Maru turns a valve on it, adjusting the pressure. She screws the canister onto the side of a small GLASS CHAMBER containing a GAS MASK. She locks the canister in place, then releases the gas into the chamber. Ludendorff and Maru watch as the NEW GAS hisses in, creeping towards the gas mask, enveloping it. The mask begins to disintegrate -- thin cracks in the glass, wear on the straps, corrosion on the metal. It's just as it was before. Maru, filled with anticipation, wonders: Will it work this time? It does. The gas continues, eating away at the mask -- the glass cracks apart, the straps sever, the metal breaks. A sign of the pain and horror it will soon inflict. It is Maru's greatest achievement -- then even the glass chamber itself starts to shudder -- and crack! 60A CONTINUED: 60A Maru grins, waiting until the last possible second before unleashing a SINGLE SPARK into the chamber, causing the highly flammable gas to COMBUST in a burst of FLAME! Elated, Maru looks to Ludendorff. He nods with approval.
+C: LUDENDORFF
+D: Congratulations, Doctor.
+N: OFF the steaming, rotting gas mask...
+S: INT. WAR OFFICE - WAR ROOM - LATER
+N: Steve, Darnell, Sir Patrick, GENERAL DOUGLAS HAIG, and the BRITISH WAR CABINET crowd in a room, walls full of MAPS and PHOTOS of LUDENDORFF and DR. MARU (before her metal implants) and the notebook. A TERRAIN MAP in the center. Diana stands near the door watching, LISTENING. She walks to the wall of PHOTOGRAPHS.
+C: COLONEL DARNELL
+D: Cryptographers had no luck. It seems like a mixture of two languages.
+N: Diana hones in on the PHOTOS OF LUDENDORFF, even examining the PINS holding them to the board, then looks at THE NOTES.
+C: DIANA
+D: Ottoman and Sumerian.
+N: Everyone turns to look at her.
+C: DIANA
+D: Surely someone else in this room knew that.
+E: sincere
+C: GENERAL HAIG
+D: Who is this woman?
+E: incorrectly offended
+N: Darnell glares at Steve. He'd like to know that, too.
+C: STEVE
+D: She's my... secretary.
+N: Having learned what a secretary is, Diana doesn't like being called one.
+C: GENERAL HAIG
+D: And she speaks Ottoman and Sumerian?
+E: skeptical
+C: STEVE
+D: She's a very good secretary.
+C: GENERAL HAIG
+D: See her out.
+C: COLONEL DARNELL
+D: If this woman can read it, sir... we should hear what she has to say.
+E: reluctant, but practical
+N: General Haig takes a beat, then nods.
+C: DIANA
+D: Thank you. It's a formula... for a new kind of mustard...
+E: nods at Darnell beat
+N: Haig scoffs: mustard?
+C: DIANA
+D: Mustard gas. Hydrogen-based, instead of sulfur.
+N: They react gravely to this...
+C: DARNELL
+D: Gas masks would be useless against hydrogen.
+C: DIANA
+D: The book says they plan to release this gas at... the front... Front of what?
+E: unsure what it means
+C: STEVE
+D: General, you have to find out where they're making this gas. Burn it to the ground. Destroy it.
+E: alarmed; to Generals
+C: COLONEL DARNELL
+D: Ludendorff was last seen in Belgium --
+C: GENERAL HAIG
+D: We can't be seen sending troops into German-occupied Belgium when we're negotiating their surrender.
+E: dismissive
+C: STEVE
+D: Sir, I saw this gas with my own eyes. All the men on the front line could die on both sides unless you --
+C: GENERAL HAIG
+D: That's what soldiers do, Captain. Diana's shocked by the callousness. Sir Patrick looks at her apologetically.
+C: GENERAL HAIG
+D: What? Would you have us abandon the front altogether?
+C: STEVE
+D: Pull the troops out. Send me in. With some strategic support, I could take Ludendorff and his operation out myself.
+C: GENERAL HAIG
+D: Are you insane, Trevor? I can't introduce rogue elements this late into the game.
+C: STEVE
+D: But, General --
+N: Before Steve can argue further, Sir Patrick speaks up --
+C: SIR PATRICK
+D: Now more than ever, the armistice is of paramount importance, we must get it negotiated and signed. That is the surest way of stopping the war.
+C: GENERAL HAIG
+D: You will do nothing, Captain Trevor. That's an order.
+N: Diana expects Steve to defy the General like she defied her mother, but --
+C: STEVE
+D: Yes, sir. I understand, sir.
+N: Diana blinks, confused, astonished, disappointed.
+C: DIANA
+D: I don't.
+C: STEVE
+D: Diana. I know it's confusing --
+E: warning
+C: DIANA
+D: It's not confusing. It's unthinkable.
+C: GENERAL HAIG
+D: I'm sorry, who did you say this woman was?
+C: STEVE
+D: She's with me. With us.
+C: DIANA
+D: I am not with you. You would knowingly sacrifice all those lives? Do they mean less than yours? Where I come from Generals don't hide in their offices like cowards. They fight alongside their soldiers. They die with them on the battlefield.
+E: appalled
+C: STEVE
+D: Diana. Enough. My apologies, sir.
+E: to Haig
+N: Diana gapes at him, sickened, betrayed.
+C: DIANA
+D: You should be ashamed! All of you.
+E: to the room
+N: Diana storms out. Steve and Sir Patrick exchange a look --
+S: INT. WAR OFFICE - LOBBY - DAY
+N: Diana leaves the War Office in a rage. Steve follows.
+C: STEVE
+D: Diana, wait!
+N: She wheels on him, furious and confused.
+C: DIANA
+D: That's your leader? How could he say that? Believe that? And YOU! Was your duty to simply give them a book? You didn't stand your ground! You didn't fight!
+E: points at Steve
+C: STEVE
+D: Because there was no chance of changing his mind! Listen to me --
+C: DIANA
+D: This is Ares and he isn't going to allow a negotiation or a surrender. The millions of people you talked about? They will die. My people? They're next!
+C: STEVE DIANA
+D: If you just listen to me -- How can you call yourselves good men?
+C: STEVE
+D: WE'RE GOING ANYWAY!
+E: shouting
+C: DIANA
+D: What? You mean you were lying?
+C: STEVE
+D: Diana, I'm a spy. That's what we do. Now are you coming or not?
+C: DIANA
+D: How do I know you're not lying to me right now?
+N: Steve grabs hold of Diana's lasso, wraps it around his wrist and looks right into her eyes.
+C: STEVE
+D: I'm taking you to the front. And we're probably going to die.
+E: speaking the truth then
+N: Steve's surprised that last part came out. Diana's skeptical.
+C: DIANA
+D: You have no faith in yourself.
+C: STEVE
+D: This is a terrible idea... Come on. If we're going to get to the front on our own... we're gonna need reinforcements.
+E: keeps speaking the truth lets go of the lasso; frustrated
+S: EXT. PUB (LONDON) - NIGHT
+N: Steve and Diana move towards a shady PUB. Diana squints, doesn't like the look of this place.
+S: INT. BRITISH PUB - NIGHT
+N: Diana follows Steve into the seedy, dimly-lit pub. She gets a look at its rough `n tumble clientele and frowns.
+C: DIANA
+D: These are the reinforcements? Are these even good men?
+C: STEVE
+D: Relatively good.
+C: DIANA
+D: Relative to what?
+N: Steve and Diana move behind a GROUP of OFFICERS, out slumming. One of them, SAMEER (30s) dashing, exotic, has been holding court.
+C: SAMEER
+D: ... In Africa, gentlemen, we had no such luxuries...
+N: The OFFICERS laugh, agree, as Steve and Diana approach.
+C: SAMEER
+D: But the luxuries we have now. It's like we can't stop making money. My uncle, the Prince, and I would keep it all, but we want to extend the opportunity to a few good soldiers --
+C: STEVE
+D: Which Prince was that? I need to talk to you, Prince Madras Angora Cashmere...
+E: grabs Sameer
+N: Sameer turns and glares. Sameer smiles to the men around him -- Forgive my rude friend -- and excuses himself.
+C: SAMEER
+D: You bugger. I been greasing those peacocks all night... My goodness gracious, that's a work of art.
+E: to Steve sees Diana
+C: STEVE
+D: Sameer. This is Diana.
+N: Diana studies the man with suspicion. And rightly so. He, meanwhile, is infatuated with her, all charm and smiles.
+C: SAMEER
+D: Diana, call me `Sammy.' Please.
+C: DIANA
+D: Sammy. Please.
+N: YELLING O.S., TWO MEN are having an argument that threatens to boil over. They tune it out as:
+C: STEVE
+D: Sameer's a top undercover man. Can talk the skin off a cat in as many languages as you.
+N: Diana speaks Spanish.
+C: DIANA
+D: [He doesn't look that impressive to me?]
+C: SAMEER
+D: [You do to me. Your eyes, as soft as your smile...]
+N: Then in Chinese.
+C: DIANA
+D: [And your eyes look like they want something.]
+C: SAMEER
+D: [I know Chinese, too, tricky girl.]
+N: Then in Ancient Greek.
+C: DIANA
+D: [But can you recite Socrates in Ancient Greek?]
+N: Sammy blinks. He has no idea what she's saying. Diana's unimpressed.
+C: STEVE
+D: Where's Charlie?
+N: Sameer points at TWO MEN FIGHTING: a huge BRUISER beating the hell out of a smaller, younger man. Diana looks at the Bruiser and nods approvingly.
+C: DIANA
+D: At least this Charlie is good with his fists.
+C: STEVE
+D: That's not Charlie.
+N: The Bruiser lands a blow that knocks the smaller guy off his feet. Steve winces, nodding at the smaller guy.
+C: STEVE
+D: That's Charlie. The two GRUNT at one another in Scottish slang, but the Bruiser sees Charlie's got friends -- and quickly leaves. The surprisingly cheerful CHARLIE gets to his feet.
+E: 30s
+S: INT. BRITISH PUB - MOMENTS LATER
+N: Diana, Steve, and Sameer sit with bruised Charlie, Scottish and deeply drunk. A WHISKEY GLASS in each fist.
+C: STEVE
+D: All right, Charlie?
+C: CHARLIE
+D: Steven. May God put a flower on your head.
+N: Charlie downs the whiskey in a fluid sip. Gone.
+C: DIANA
+D: What were you fighting about?
+C: CHARLIE
+D: I mistook his drink for mine.
+N: Diana looks at Steve, clearly concerned by his choice of reinforcements.
+C: DIANA
+D: This man is no fighter.
+C: STEVE
+D: Charlie here's an expert marksman. He shoots people.
+E: off her look
+C: SAMEER
+D: From very far away.
+N: Charlie grabs a drink from a patron who isn't looking.
+C: CHARLIE
+D: They never know what hit `em.
+E: cheers
+N: There's a darkness behind Charlie's polite smile.
+C: DIANA
+D: How do you know who you kill if you can't see their face?
+C: CHARLIE
+D: I don't. Better that way.
+C: DIANA
+D: My aunt warned me about men like you.
+C: CHARLIE
+D: Ain't the first time I heard that, lassie.
+C: DIANA
+D: You fight without honor.
+N: Deep down, Charlie already knows that.
+C: CHARLIE
+D: Don't get paid for honor.
+C: SAMEER
+D: What's the job, Trevor?
+C: STEVE
+D: Two days tops. We need supplies and passage to Belgium --
+C: CHARLIE
+D: What's the going rate?
+C: SAMEER
+D: Better be good pay.
+E: MORE
+C: SAMEER
+D: [And perhaps a picture of your lovely face. Something to keep me alive.]
+E: CONT'D to Diana; in French
+N: Diana hides her disdain as best she can.
+C: DIANA
+D: [You won't need a picture. I'm coming with you.]
+T: Sammy's smile fades.
+C: SAMEER
+D: What is this?
+C: STEVE
+D: We're dropping her off at the front.
+C: SAMEER
+D: Dropping her off?
+C: CHARLIE
+D: No offense, cherie, but I don't wanna get killed helping a girl out of a ditch, ya know what I mean?
+E: to Diana
+N: The Bruiser that Charlie was fighting returns, this time with several ROUGH-LOOKING FRIENDS!
+C: BRUISER
+D: You got your friends. These are mine.
+E: lifts up a gun
+N: Charlie's knocked to the ground! He doesn't see Diana move fearlessly, grabbing the BRUISER -- as if he weighed nothing -- and tosses him across the room! The Bruiser smashes into the wall, crumpling to the floor. His friends make a quick exit. Sameer is smitten, helping Charlie up.
+C: SAMEER
+D: I am both frightened and aroused.
+C: CHARLIE
+D: When aren't you?
+E: to Sameer; unimpressed
+C: ETTA
+D: There they are.
+E: O.S.
+N: Etta arrives, flustered, a forced smile on her face.
+C: ETTA
+D: Hello, all! Sorry, I'm late. I got waylaid by --
+C: DIANA
+D: Sir Patrick!
+C: ETTA
+D: That's what I was going to mention.
+N: Steve, Sameer, and Charlie STAND out of respect. Steve glares at Etta. She shrugs apologetically, raises a hand: Just listen, you'll see.
+C: SIR PATRICK
+D: Sit, gentlemen. Please, sit.
+N: Sir Patrick pulls up a chair.
+C: SIR PATRICK
+D: I assume you're here planning something that's either going to get you court-martialed or killed.
+C: STEVE
+D: I assume you're here to stop us.
+C: SIR PATRICK
+D: No. Not that I like any of this. As one of your American authors, Thomas Paine, so eloquently put it, `I prefer peace. But if trouble must come let it come in my time, so that my children can live in peace.'
+E: beat
+N: Diana nods, liking the sentiment.
+C: SIR PATRICK
+D: Now nothing can jeopardize the armistice talks, but... I also believe in insurance. I'm here to help you. Unofficially, of course. What's your plan?
+C: STEVE
+D: If there is another weapons facility, find it and destroy it. Along with Ludendorff and Maru.
+N: A dark understanding passes between them. Sir Patrick nods.
+C: SIR PATRICK
+D: Etta will run the mission out of my office, to allay suspicion.
+C: ETTA
+D: Run the mission, sir?
+E: nearly wetting her pants
+N: He slides an envelope to Steve.
+C: SIR PATRICK
+D: It's enough for a few days.
+E: re: Charlie and Sameer
+C: STEVE
+D: Thank you, sir.
+N: Diana turns to Steve.
+C: DIANA
+D: The gas, Ludendorff, Maru... You realize they are all symptoms. Ares is the disease. And once I find him, none of this will matter.
+N: Steve looks at her, no time to argue.
+C: STEVE
+D: I'll take you to the front, but I can't make any promises about finding `your friend' any more than I can Santa Claus.
+C: DIANA
+D: You won't need to. I'll know him when I see him.
+S: INT. PADDINGTON STATION - MORNING
+N: Diana takes herself into the throng, OBSERVING all the DIFFERENT KINDS OF PEOPLE hustling and bustling in the station. The atmosphere is weirdly JUBILANT and GUNG HO. Two sikhs ride through the station on bicycles, a WILLFUL LITTLE GIRL runs away from her mother, NURSES and WOMEN FACTORY WORKERS board the train, solemnly and purposefully. Diana takes in an array of HUMAN EMOTION. Mothers CRYING, fathers PROUD, sons COMMITTED and BRAVE, going off to war. GIRLFRIENDS are swept passionately into BOYFRIEND'S ARMS. DOGS are scooped up and hugged goodbye. Diana's eyes well as Steve checks his WATCH.
+C: STEVE
+D: Train leaves in a few minutes.
+N: But Diana is engrossed with the joy around her. Steve looks around at what she's seeing, then back at her a beat longer than he would expect. Diana watches a MAN and his DAUGHTER walk away from an ICE CREAM VENDOR, eating an ICE CREAM CONE. Steve spots her eyeing the girl eating, curious.
+C: STEVE
+D: Hungry?
+N: Diana nods, smiling. Steve buys TWO ICE CREAM CONES. Hands her one. She examines it, delighted.
+C: DIANA
+D: It's cold.
+C: STEVE
+D: It's ice cream.
+N: Diana tastes it -- her eyes go wide, the best thing she's ever tasted in her life.
+C: DIANA
+D: It's wonderful. You should be very proud.
+E: to the ice cream vendor
+N: Steve pulls her away, sheepishly smiling and nodding at the confused vendor.
+C: STEVE
+D: Forget the countries or the territory or the Generals. This is what we're really fighting for.
+E: looks around
+N: Then Diana sees something odd as they board the train: a PUNCH & JUDY PUPPET SHOW, one puppet hitting the other -- people LAUGHING at the violence -- and to her, that's very strange. Almost ominous.
+S: EXT. DOVER DOCKS - HOURS LATER
+N: The train rolls into the station at the Dover Docks.
+S: EXT. DOVER DOCKS - HOURS LATER
+N: The train sits at the top of Dover Docks. Its STEAM engulfs HUNDREDS OF ALLIED SOLDIERS disembarking, among them, Diana, Steve, Sameer, and Charlie. The new recruits are jubilant, singing "It's A Long Way To Tipperary" as they walk toward the waiting STEAMSHIP. Steve checks his watch again --
+C: STEVE
+D: We've got to get a move on. Chief won't wait.
+C: DIANA
+D: Chief?
+C: STEVE
+D: Smuggler. Very reputable.
+N: Diana looks at the ragtag team Steve's assembled, shakes her head.
+C: DIANA
+D: A liar, a murderer, and now a smuggler?
+C: STEVE
+D: Careful, I might get offended.
+C: DIANA
+D: I wasn't referring to you.
+C: STEVE
+D: I went undercover and pretended to be something else, I shot people on your beach, and I smuggled a notebook. Liar, murderer, smuggler. You still coming?
+E: beat
+N: Diana's confusion only grows as Steve LEADS a reluctant Diana and the group away from the soldiers, down a different path. NURSES in the same uniforms as the clean and pristine ones who boarded the train are now soiled, stressed, wretched as they transfer the WOUNDED YOUNG SOLDIERS from a HOSPITAL SHIP to a TRAIN back to London. Steve purposely BLOCKS HER VIEW of the wounded men and women. Diana pushes him aside, taking in the horror and despair until she can look no longer. She grabs Steve's arm, firm. Steve looks at her, still thinking she's a bit crazy -- but right now, she's absolutely right. He doesn't know how to stop it, but he nods at her just the same. The team moves towards a PASSENGER BOAT.
+S: EXT. SHORELINE (BELGIUM) - DAY
+N: Diana looks around warily as she walks off the boat. She follows the team across the docks where workers load and unload HORSES, some of the animals wear GAS MASKS. Diana registers the bizarre sight.
+C: DIANA
+D: The gas will kill everyone... everything.
+N: Steve nods.
+C: DIANA
+D: What kind of weapon kills innocents?
+C: STEVE
+D: In this war? Every kind.
+S: EXT. CAMPFIRE - DUSK
+N: The sky grows DARK as the sun sets, Diana and the team walk up to a CAMPFIRE.
+C: THE CHIEF
+D: You're late.
+E: O.S.
+N: THE CHIEF (30), a bright-eyed Native-American, steps to the fire, dropping more WOOD into it. He smiles.
+C: STEVE
+D: Chief!
+N: He embraces Steve, then nods and smiles to Sammy and Charlie.
+C: SAMEER
+D: It's good to see you.
+C: CHARLIE
+D: Aye.
+N: The Chief looks at Diana and, for the first time in the world of men, a man looks her square in the eye.
+C: THE CHIEF
+D: Who is this?
+N: Chief extends a hand to shake. Diana grabs his wrist in a manner not unlike the Amazons. Chief responds, grabbing hers back, seemingly familiar with the gesture. Both Diana and Steve are surprised. Chief speaks his NATIVE TONGUE --
+C: THE CHIEF
+D: Niitangio, Napi.
+N: And Diana understands.
+C: DIANA
+D: I am Diana.
+N: Chief does not let go, still looking intensely in Diana's eyes. She grips tighter. Surprised, he steps back with one foot. To stay on balance, she does so with the opposite. Suddenly, Chief and Diana are arm wrestling, each trying to throw the other off balance. Then Chief laughs, letting go, conceding lest he find himself flat on his face.
+C: THE CHIEF
+D: Where did you find her?
+C: STEVE
+D: She found me.
+C: DIANA
+D: I plucked him from the sea --
+C: STEVE
+D: It's a long story.
+E: waving Diana to stop
+N: Diana looks at a pile of packages behind Chief, along with some GUNS --
+C: STEVE
+D: British tea for the Germans. German beer for the British.
+E: MORE
+C: STEVE
+D: Edgar Rice Burroughs novels for both sides.
+E: CONT'D
+C: CHARLIE
+D: And guns.
+N: Charlie grabs a RIFLE, looks through the SCOPE and gives it a kiss -- like a father reunited with his long-lost child. The others help themselves to GUNS. Steve, Sameer, and Charlie take BOTTLES OF BEER they pay The Chief for.
+C: THE CHIEF
+D: It's not even very good beer.
+E: whispering to Diana
+N: Charlie's the only one that doesn't seem to mind. Steve looks at a MAP.
+C: STEVE
+D: Ludendorff was last seen at the front -- -- near the Somme. Front's about three miles away. Chief will get us there.
+E: points on the map
+C: THE CHIEF
+D: Then it's another day to safely cross it.
+C: STEVE
+D: As soon as we have daylight, we move. I'll take first watch.
+C: CHARLIE
+D: No need. I'll take it. I never sleep on the job!
+S: EXT. CAMPFIRE - NIGHT
+N: Charlie FAST ASLEEP -- along with Steve and Sameer, around the fire. Chief is heating cans of food. Diana turns to RUMBLING in the distance.
+C: DIANA
+D: Strange thunder.
+C: THE CHIEF
+D: German seventy-sevens. Guns. Big ones.
+E: off her confusion MORE
+C: THE CHIEF
+D: That's the front out there. The evening hate.
+E: CONT'D points out
+N: Chief hands her a can of beans. She tries it, frowns. Not all the food here is good. Chief counts his money. Diana eyes him warily --
+C: DIANA
+D: So... who do you fight for in this war?
+N: Chief stuffs the money in his pocket.
+C: THE CHIEF
+D: I don't fight.
+C: DIANA
+D: You're here for profit then?
+C: THE CHIEF
+D: Nowhere better to be.
+C: DIANA
+D: Nowhere better to be than a war you don't take a side in?
+C: THE CHIEF
+D: I have nowhere else and no side left. The last war took everything from my people. We have nothing left. At least here, I'm free.
+C: DIANA
+D: Who took that from your people? Chief cocks his head to the side. How could she not know?
+C: THE CHIEF
+D: His people.
+E: motions to Steve; almost casually
+N: Before Diana can ask more about that, Charlie suddenly starts to murmur, suffering through some kind of terrible nightmare. Diana watches until -- Charlie CRIES OUT, waking himself and Steve and Sameer. Diana reaches out to Charlie, compassionately --
+C: DIANA
+D: You're safe. What did you see?
+E: trying to help
+N: Gruff, Charlie pulls away from Diana --
+C: CHARLIE
+D: I'm fine, `right? Bloody broad.
+E: mumbling
+N: Charlie gets up and grabs another BEER. Chief looks at Diana.
+C: THE CHIEF
+D: He sees ghosts.
+N: Steve takes a BLANKET --
+C: STEVE
+D: You're going to get cold. Here.
+C: DIANA
+D: No, I'm --
+N: She's not cold, but Steve places the blanket on her shoulders anyway. The gesture isn't lost on Diana. She nods, appreciative.
+S: INT. GERMAN OPERATIONS BUNKER - NIGHT
+N: SENTRIES patrol a fortified bunker deep in enemy territory. Ludendorff enters to find the GERMAN WAR COUNCIL, chief among them COMMANDER VON HINDENBURG.
+C: VON HINDENBURG
+D: You were absent at the council meeting, General.
+C: LUDENDORFF
+D: You've begun negotiating the terms of the armistice.
+E: frustrated
+C: VON HINDENBURG
+D: On the Kaiser's behalf.
+C: LUDENDORFF
+D: But on your insistence.
+E: accusatory MORE
+C: LUDENDORFF
+D: We can easily win this war still... If only you had faith in me.
+E: CONT'D to the council beat
+N: The way Ludendorff says it, he almost expects everyone to simply agree with him, but Von Hindenburg gets to his feet, angry --
+C: VON HINDENBURG
+D: We don't. There are shortages of food, medicine, ammunition. Every hour we delay costs thousands of German lives.
+C: LUDENDORFF
+D: One attack and the war is ours. As we speak, my chemist and her team are --
+C: VON HINDENBURG
+D: We stand against you and your witch, Ludendorff! Enough! Twenty-four hours from now this war will end. It is over.
+E: calming
+N: Ludendorff looks around, nods.
+C: LUDENDORFF
+D: For all of you.
+N: Ludendorff turns and exits --
+S: EXT. GERMAN OPERATIONS BUNKER - CONTINUOUS ACTION
+N: Ludendorff nods to Dr. Maru who throws a CANISTER OF GAS in. Maru watches curiously as Ludendorff then tosses a GAS MASK in. Von Hindenberg and the men look at the mask. Ludendorff closes the doors as the canister erupts. A COMMOTION within the room breaks out as the gas spreads. Unable to escape, the men desperately fight over the gas mask.
+C: MARU
+D: The mask won't help.
+C: LUDENDORFF
+D: Yes, but they don't know that.
+N: Ludendorff cracks open a CAPSULE of GAS, inhaling it. Again, it's a PAINFUL process -- again Ludendorff's veins BULGE and PULSATE. With heightened strength, Ludendorff presses against the doors -- the SCREAMS of the dying men in the bunker seep out. It's music to Maru. She can hear a HISSING as the gas scars the doors inside. Ludendorff pulls Maru away --
+C: LUDENDORFF
+D: It's time to stage our demonstration for the Kaiser.
+S: 74A EXT. DIRT ROAD (WOODS) - DAY 74A
+N: DIANA, CHARLIE, SAMMY, and THE CHIEF follow STEVE down a MUDDY ROAD in the woods, the SOUNDS OF BOMBS in the b.g. Diana takes in the bleakness of the world. A cluster of villagers runs past. Fleeing from something. A BABY cries in its mother's arms. Diana stares -- hears SCREAMS ahead. IN A DITCH on the side of the road, TWO HORSES pulling a CART OF MUNITIONS (that has tipped) are stuck in the MUD. A SOLDIER whips the horses, trying to get them out.
+C: DIANA
+D: Those animals. Why are they hurting them?
+C: CHARLIE
+D: Because they need to move. Like us.
+C: DIANA
+D: But I can help them!
+C: CHARLIE
+D: There's no time! C'mon, woman.
+N: Steve and the team jog down the road, Diana reluctantly following. A WAILING man is heard ahead. ON THE ROAD. Diana looks ahead to where a WOUNDED SOLDIER crying out in pain, surrounded by OTHER SOLDIERS trying to administer help (as best they can). 74A CONTINUED: 74A
+C: WOUNDED SOLDIER
+D: Oh, God. God, help me! Please.
+N: He continues to CRY OUT. Diana horrified.
+C: DIANA
+D: That man... He's injured.
+C: SAMEER
+D: There is nothing we can do about it, Diana. We must keep moving.
+N: AS THEY MOVED FORWARD, Diana looks ahead sees beyond the woods -- NO MAN'S LAND... PRE-LAP: The SOUNDS of RAIN and THUNDER, which BOOMS, then fades into the SOUNDS of GUNFIRE and EXPLOSIONS.
+S: EXT. RAIN-SOAKED COUNTRYSIDE (BELGIUM) - DAY
+N: Chief leads the team through the muddy Belgian countryside on their HANDS AND KNEES, bullets flying overhead. They stop at a DUGOUT ENTRYWAY to --
+S: EXT. ALLIED TRENCH (BELGIUM) - CONTINUOUS ACTION
+N: -- the ALLIED TRENCH at the BELGIAN FRONT. The team moves into the muddy trench, occupied by TOMMIES -- BRITISH SOLDIERS. Diana and the others get to their feet, bullets and shells whistling and EXPLODING overhead.
+C: DIANA
+D: Where are we?
+C: STEVE
+D: You wanted me to take you to the war. This is it. The front lines.
+C: DIANA
+D: But where are Ares' men -- the Germans?
+N: Charlie motions past the shelling and flying bullets.
+C: CHARLIE
+D: Couple hundred yards that way. In a trench like this one.
+N: Diana's dismay grows. She looks at the faces of the frightened, worn-down soldiers as they move through a seemingly endless, narrow passage carved deep into the earth, walled on either side by SANDBAGS and DIRT, which is quickly pooling into MUD at their feet.
+C: SENTRY
+D: Chief! Oi! Chief's back!
+E: shouting down the line
+C: TRENCH OFFICERS
+D: Chief!/Welcome back!/Nick of time!
+E: O.S.
+N: The Chief tosses out PACKS OF CIGARETTES, MATCHES, and other goods to grateful soldiers. Diana watches the MONEY exchange hands, then she hears the sound of anguished tears: A YOUNG MOTHER, MARIE (25), holds her DAUGHTER, NINA (6), sobbing to The Chief. Diana listens, though Steve can't understand:
+C: MARIE
+D: [The Germans took everything -- homes, food... the ones who couldn't escape... they took as slaves.]
+C: DIANA
+D: [Where did this happen?]
+N: Marie points: beyond the trench.
+C: DIANA
+D: We need to help these people.
+E: to Steve
+N: Steve looks across no man's land, shakes his head.
+C: STEVE
+D: We need to stay on mission.
+C: THE CHIEF
+D: And there's no safe crossing for at least a day ahead.
+E: nods to Steve
+N: Charlie takes a swig from his well-worn FLASK.
+C: CHARLIE
+D: Then what are we waitin' for?
+C: DIANA
+D: But these people are dying, they've nothing to eat. And in the village... Enslaved, she said. Women. Children.
+C: STEVE
+D: There's nothing we can do about that.
+C: DIANA
+D: How can you say that? What is the matter with you?
+C: STEVE
+D: This is no man's land, Diana. It means no man can cross it. This is the worst point on the entire front. This battalion has been here for nearly a year and they've barely gained an inch because on the other side are Germany's deadliest soldiers. Pointing machine guns at every square inch of this place. This is not something you can cross. It's not possible.
+C: DIANA
+D: So we do nothing?
+C: STEVE
+D: We are doing something. We can't save every person in this war. Besides, it's not what we came here to do.
+N: She steps away from the group, turning away from them. Steve thinks she's upset. But when Diana turns back to Steve, he sees her face of determination, wearing -- ANTIOPE'S TIARA -- AND FOR THE FIRST TIME -- WE REALLY SEE WONDER WOMAN!
+C: DIANA
+D: No, but it's what I'm going to do.
+N: Diana moves past the team, stepping over the top of the trench --
+C: STEVE
+D: DIANA, NO!!!
+S: EXT. WESTERN FRONT (BELGIUM) - CONTINUOUS ACTION
+N: -- onto the BATTLEFIELD. DIANA stands in her WONDER WOMAN ARMOR with THE GODKILLER SWORD in her hand, THE SHIELD on her back, and THE LASSO SHINING at her side. She surveys the battlefield. It's quiet. Empty. She takes a step forward... IN THE GERMAN TRENCH A SOLDIER takes AIM at Diana -- and FIRES! ON THE BATTLEFIELD The bullet moves towards Diana. With her heightened perception, she watches it in SLOW MOTION, swatting it aside with her bracelet. She blocks another -- IN THE ALLIED TRENCH Everyone watches Diana with awe. Even Charlie has to admit --
+C: CHARLIE
+D: How the hell'd she do that?
+N: ON THE BATTLEFIELD Diana continues walking across the battlefield, step-by- step, blocking bullets. Her pace begins to quicken -- and then she starts to RUN. IN THE ALLIED TRENCH Steve's heart pounds as he watches Diana. He motions to the team. He can't believe he's about to do this, but --
+C: STEVE
+D: She's drawing their fire! Let's go!
+N: Steve and his team climb over the trench, leaving the hesitant British soldiers behind! THROUGH A GERMAN SCOPE Diana races TOWARDS them, knocking bullets aside! IN THE GERMAN TRENCH GERMAN SOLDIERS react, unsure of who or even what Diana is. One of the soldiers motions to others -- they lift a MORTAR, bringing it forward as the others continue to FIRE. Soldier after soldier joins in. ON THE BATTLEFIELD Diana runs, more bullets ricocheting off her bracelets. IN THE GERMAN TRENCH They FIRE a mortar into the air! ON THE BATTLEFIELD Diana uses her SHIELD to bat aside the MORTAR SHELLS -- they EXPLODE around her! With her shield, Diana blocks the increasing barrage of bullets coming at her! ONE of TWO MACHINE GUN NESTS fires at Diana -- IN THE ALLIED TRENCH Inspired, the British soldiers SURGE OVER THE TRENCH WITH A CHEER! ON THE BATTLEFIELD The SECOND MACHINE GUN NEST fires at Diana -- She does her best to repel the machine gun fire, but together the two are SLOWING HER DOWN, taking a toll. Diana falls to one knee, then turns, grateful to see behind her -- Steve, the team -- and the allied soldiers! Steve raises his rifle and takes out some of the shooters, giving Diana some relief. Charlie lays down cover fire as The Chief tosses Sameer a GRENADE. Sameer lobs it at the NEST ON DIANA'S RIGHT. The EXPLOSION knocks the machine gun off its base. The second nest continues to fire on Diana! Diana leaps up into the air, jumping down into the second nest! She lands inside behind the soldiers, spinning around -- slamming into them. She raises her shield and smashes it onto the machine gun, breaking it apart! Steve, the team, and the Allies POUR INTO THE GERMAN TRENCH, battling the soldiers within! Diana looks at the village of Veld ahead of them. Grits her teeth.
+C: DIANA
+D: We're not finished yet.
+N: While the allies clear the trench, Diana takes off through the rain and the mud toward the village! The team heads after her!
+S: EXT. VELD - SECONDS LATER
+N: Diana and the team reach the village, taking cover as they're fired upon. Diana looks to Steve --
+C: DIANA
+D: Stay here. I'll go ahead.
+N: Before anyone can argue, she races towards the gunfire. Diana, sword at her side, shield on her back -- runs, avoiding gunfire and grenades! Steve leads the team, covering for them as they follow Diana. Steve fires --
+C: STEVE
+D: Go!
+N: Diana jumps onto the wall of a building, springing off it, SMASHING through a WINDOW of another building -- the source of more gunfire!
+S: INT. BUILDING (VELD) - CONTINUOUS ACTION
+N: Diana lands in the middle of a group of ARMED GERMAN SOLDIERS. She goes into action, kicking a TABLE -- smashing it into two soldiers! She deflects bullets with her bracelets, turning to the other soldiers -- sending them flying with her fists, her shield. She hits a SOLDIER, he FLIES through a window --
+S: EXT. TOWN SQUARE (VELD) - CONTINUOUS ACTION
+N: -- the soldier falls onto the street -- where we FIND Steve, Sameer, Charlie, and The Chief following Diana's trail. They watch as ANOTHER SOLDIER is thrown out of a window, then they round a corner -- and find themselves pinned down by gunfire. The Chief hands Steve a grenade -- he tosses it, blowing up the nearby shooters. As they continue to fight their way into Veld --
+S: INT. BUILDING (VELD) - CONTINUOUS ACTION
+N: Diana continues to fight her way through the building, breaking through a DOOR -- taking on more German soldiers inside! Diana rushes one, colliding into him -- using him as a shield as she crashes out of a LARGE GLASS WINDOW --
+S: EXT. TOWN SQUARE (VELD) - CONTINUOUS ACTION
+N: -- Diana lands on a nearby rooftop. Steve watches her run across it as he and the team head deeper into Veld, all in the same direction. Suddenly, Steve and the boys are pinned down from gunfire by a TANK. Charlie motions to a walkway between two buildings in front of the tank. The Chief throws a grenade -- Charlie shoots it, causing it to explode! The walkway falls, blocking the tank. Steve and the team make it to the center of the village to find a TANK surrounded by DOZENS OF SOLDIERS. Sammy throws more grenades, but it's not enough. The tank has them pinned down -- until -- Diana rushes the tank, BARRELING into its side like a bull -- the tank is thrown end-over-end across the town square! The soldiers react in shock. Steve and the team use the opportunity to push forward. As the team flanks up against a building, they see locals LOCKED inside, crying out for help from behind CHAINED DOORS. IN THE TOWN SQUARE: Diana blocks bullets with her bracelets, soldiers surrounding and firing on her from all sides. Steve throws two CONVENTIONAL GRENADES -- blowing German soldiers by Diana sky high. Diana turns to see Steve joining her. As more soldiers pour in, one starts climbing the ladder up the BELL TOWER. BACK TO THE VILLAGERS trapped in the building -- the team breaks open the doors, letting them out. ANOTHER ANGLE Diana tosses the German soldiers around like rag dolls. A German has Steve in his sights until -- Diana races in, breaking the German's gun and sending him to the ground. She takes out several soldiers around Steve. Diana continues to block bullets while Steve fires -- they work side-by-side, until -- BANG! The German in the bell tower starts firing down at them. The team scatters, trying to help the villagers. Steve motions up --
+C: STEVE
+D: Bell tower.
+N: Diana sees the SNIPER at the top of the bell tower. Steve motions to Charlie --
+C: STEVE
+D: Charlie!
+N: Charlie pulls out his rifle, AIMS UP -- peering through the site. But he's shaking. Sweats. Sameer watches as Charlie FIRES! The bullet ricochets off the bell and gives away their position. The sniper turns against Charlie, Chief, and Sameer. The three flank against the wall, Sameer looks at Charlie, who is devastated.
+C: SAMEER
+D: You don't miss.
+C: CHARLIE
+D: Bloody scope... lens is cracked.
+E: stammers; lies
+N: But the lens looks fine. Steve tries to take a shot at the bell tower, but he can't do so without exposing himself to the shooter.
+C: DIANA
+D: Is there a way inside?!
+N: Steve looks at Diana, an idea forming.
+C: STEVE
+D: There is if you jump!
+C: DIANA
+D: It's too high.
+N: He taps her shield. Diana looks at him, remembering Antiope's jump. Steve holds the shield PARALLEL TO THE GROUND. Diana runs toward Steve, JUMPS UP ONTO THE SHIELD -- and she launches herself high into the air! The sniper looks through his scope -- HIS POV Diana leaping up AT him, gritting her teeth, angry -- BACK TO SCENE Diana SMASHES into the sniper -- breaking apart part of the tower -- sending him flying to the neighboring rooftop below! UP ON THE TOWER: Diana stands, strong and powerful -- the definition of heroic. Then -- CHEERS! The TOWNSPEOPLE gather, emerging from hiding, celebrating this heroic victory! Diana looks down at them -- Steve among the villagers, in absolute awe of Diana.
+S: EXT. TOWN SQUARE (VELD) - DAWN
+N: A PHOTOGRAPHER takes a DAGUERROTYPE of Diana, Steve, Charlie, Sameer, and The Chief standing in the village. FLASH. The photograph sees our team imbuing a sense of pride and accomplishment. Steve's face is turned towards Diana's, with a look of something more than admiration. Moments later, Diana walks with Sameer. They look back at Charlie, head hung low, shaken. Charlie fumbles with his flask, dropping it.
+C: DIANA
+D: For all his talk of murdering people from afar, your shooter can't shoot.
+C: SAMEER
+D: Not everyone gets to be who they want to be all the time. Me, I wanted to be an actor, not a soldier. But I'm the wrong color.
+N: Diana considers this, then she turns, sees The Chief with a small group of BELGIANS from the trench, including Marie and her family. All of them ragged, sleep- deprived, and starving, but hopeful. The Chief dispenses bread and cheese. Diana notices that no money changes hands. Steve walks to her.
+C: DIANA
+D: He doesn't charge them?
+E: to Steve
+C: SAMEER
+D: Money isn't the only profit. Everyone's fighting their own battles, Diana. Just as you are fighting yours.
+E: beat
+N: Diana studies Chief with new eyes, touched by the man's generosity. Her previous opinion of these men continues to come into question. A CHEER goes up from the liberated TOWNSPEOPLE who are busying themselves in preparation for a party to celebrate their heroes.
+S: INT. INN (VELD) - FRONT DESK - DAY
+N: Diana comes in to find Steve behind the front desk of the inn, on the TELEPHONE.
+C: STEVE
+D: Veld. Tiny village. It's probably not even on the --
+E: into telephone
+T: INTERCUT WITH:
+S: INT. WAR OFFICE - SIR PATRICK'S OUTER OFFICE - DAY
+N: ETTA is on the other end of the call.
+C: ETTA
+D: Found it.
+N: Steve sees Diana standing on the stairs. He picks up an extension and offers it. Diana listens in (it's her first time using a phone):
+C: STEVE
+D: Have you found Ludendorff's operation?
+C: ETTA
+D: Not yet, but we've located him. And lucky you, he's only a few miles away -- at German High Command.
+N: At first thought, Steve thinks: That doesn't sound lucky.
+C: STEVE
+D: German High Command?
+N: SIR PATRICK enters the room, overhearing...
+C: ETTA
+D: Intel reports Ludendorff is hosting a gala -- a last hurrah before the Germans sign the Armistice. The Kaiser himself will be there. As will Dr. Maru.
+C: STEVE
+D: Actually, that gala's perfect cover --
+C: SIR PATRICK
+D: Captain Trevor, you are under no circumstances to attend that gala tomorrow night. We cannot risk jeopardizing the Armistice.
+E: not liking the sound of that
+C: DIANA
+D: You shouldn't be worried about upsetting the peace accord. Ares would never let that happen...
+E: to Steve
+N: Steve motions her to please stop talking about "Ares." Then Diana, a terrible realization.
+C: STEVE
+D: What is it?
+C: DIANA
+D: Of course... It makes complete sense. Ares developed a weapon, the worst ever devised.
+C: STEVE
+D: Ares? You mean Ludendorff.
+N: She turns and look at Trevor.
+C: DIANA
+D: No. I mean Ares. Ludendorff is Ares.
+N: Steve's not sure what to believe at this point.
+C: SIR PATRICK
+D: Steve?
+C: STEVE
+D: Sir, this is our chance to find the gas and learn how Ludendorff plans on delivering it. Maybe our only chance. Our last chance --
+C: SIR PATRICK
+D: I forbid it. Do you hear me? Steve?
+N: A beat of silence as Steve makes a decision...
+C: STEVE
+D: I'm sorry, sir, you're breaking up.
+C: SIR PATRICK
+D: Steve? Are you there -- ?
+N: But Steve has clicked off.
+S: EXT. PUB - COURTYARD (VELD) - NIGHT
+N: The tables are crowded with VILLAGERS and all the food the Germans left behind. Beer flows. Tea lights twinkle. A FEMALE PIANIST plays, singing as couples dance. The atmosphere is warm and jovial. Diana and Steve stand at the edge of the crowd, unable to put the urgency of their mission aside and join in. Sameer approaches them with two tankards of ale. Steve waves them off.
+C: STEVE
+D: Drinks later, Sameer. I need you to rustle up me a German uniform.
+N: Sameer puts the ale in front of Steve and Diana despite his protest.
+C: SAMEER
+D: Already done. Now you two need to relax. There's nothing we can do until tomorrow. You said it yourself, Steve.
+N: Sameer strolls off. Steve drinks. Diana does, too, surprised by the flavor.
+C: DIANA
+D: It's bitter.
+C: STEVE
+D: It's an acquired taste.
+E: agrees
+N: Diana smiles and nods, the world of men is an acquired taste.
+C: STEVE
+D: It has hints of different flavors, if you look for them.
+N: Steve and Diana drink in unison. She nods, seems to like it better. A young girl hands Diana a FLOWER. She's moved. So's Steve.
+C: STEVE
+D: You did this.
+C: DIANA
+D: We did.
+C: STEVE
+D: You have dancing on `Paradise' Island?
+C: DIANA
+D: Dance on Themyscira is more --
+C: STEVE
+D: Interpretive?
+C: DIANA
+D: Precisely. Perhaps you'd better show me.
+E: then
+N: Diana puts the flower behind her ear then moves out on to the dance floor.
+C: STEVE
+D: Excuse me?
+C: DIANA
+D: If I'm going to a gala, I'll need to know how to --
+C: STEVE
+D: You're not going to the gala.
+C: DIANA
+D: Of course, I am. Why wouldn't I?
+C: STEVE
+D: Because you don't know how to dance, for one thing.
+C: DIANA
+D: I would argue that they don't know how to dance.
+E: re: the other dancers
+N: Steve finally smiles and moves out onto the floor to join her. He takes her left hand and moves his arm around her waist. It's the first time they've touched. Which they're both keenly aware of.
+C: DIANA
+D: You're awfully close.
+N: Their faces are very near to one another's, neither makes a move to pull away.
+C: STEVE
+D: That's kinda the point.
+C: DIANA
+D: Ah. I see.
+N: Diana moves a bit closer to Steve, smiles. The music changes as a NEW PIANIST begins a beautiful melody, breaking into song with an incredible TENOR VOICE. Diana and Steve look towards the piano and see that it is CHARLIE WHO IS PLAYING AND SINGING. Diana can't help but be surprised once again by these men. Sameer and The Chief join the people crowding around Charlie, smiling, laughing, grateful. As the emotional song continues, they sway for a beat, holding each other and then a SINGLE SNOWFLAKE falls. Diana looks up as more and more white ice falls from the sky, sprinkling her hair. She holds out a palm, CATCHING A FLAKE and sniffing it.
+C: STEVE
+D: It's a snowfall.
+C: DIANA
+D: It's magical.
+N: Steve takes it in, seeing beauty where she does.
+C: STEVE
+D: You're right.
+N: Diana rests her head on Steve's shoulder. Steve can't remember loving anything as much as this feeling.
+C: DIANA
+D: Is this what people do when there are no wars to fight?
+C: STEVE
+D: This and other things.
+C: DIANA
+D: What things?
+C: STEVE
+D: I don't know. They... make breakfast.
+C: DIANA
+D: What else?
+C: STEVE
+D: Read the newspaper. Go to work -- They... get married. Maybe have babies, grow old together.
+E: carefully
+C: DIANA
+D: What is it like?
+C: STEVE
+D: No idea.
+N: But something in his eyes tells Diana he'd like to find out. Diana thinks she might, too. Steve pulls her in closer. She looks deep in his eyes.
+C: DIANA
+D: Maybe... once I defeat Ares and war ends forever... there will be time to learn about... all kinds of things.
+N: The way Diana says it -- that look in her eyes -- for the very first time in the film Steve finds himself believing her story -- desperately wanting to believe it.
+C: STEVE
+D: God, I hope you're right.
+E: wistful
+S: INT. INN (VELD) - BEDROOM - NIGHT
+N: Steve lays Diana gently down on the bed, brushing her hair from her neck and KISSING IT. Diana's eyes are wide and shocked by the ELECTRICITY of those LIPS ON HER SKIN. She looks up at him, runs her hands through his hair and pulls him to her, mouth-to-mouth, the most perfect, passionate FIRST KISS ever. ... Steve's TICKING WATCH on the nearby nightstand.
+S: EXT. TOWN SQUARE (VELD) - DAWN
+N: The morning sun looks brighter to Diana than normal. She smiles, turns to see the team, Steve dressed in a GERMAN UNIFORM. They're rounded up with HORSES.
+C: SAMEER
+D: The villagers gave them to us.
+C: THE CHIEF
+D: A gracious gift.
+C: SAMEER
+D: They called us heroes.
+C: DIANA
+D: You are.
+N: Everyone looks at Diana. The way she says it, Sameer and Chief believe it -- and it feels good. Sameer smiles at Charlie -- who forces a smile back, struggling to agree.
+C: STEVE
+D: Guys, I'm fully aware that I said this job was two days --
+E: to team
+C: THE CHIEF
+D: You would get lost without us.
+C: SAMEER
+D: Yeah, we know Diana's capable of looking after herself, but I'm worried you wouldn't make it.
+C: STEVE
+D: There's no more money, boys.
+N: Sameer pets his horse with a smile.
+C: SAMEER
+D: We've been paid enough. The Chief nods, but Diana spots Charlie's hesitation.
+C: DIANA
+D: If you're coming, Charlie, perhaps you'll sing more for us. I enjoyed it very much.
+E: then; the truth
+N: Charlie brightens at a rare compliment from Diana.
+C: SAMEER
+D: Ah! Don't encourage him!
+N: Despite Sameer's protests, Charlie starts to SING LOUDLY -- but joyfully -- as the team moves on. OFF Diana, moved by the continued goodness she's discovering within these unlikely men.
+C: CHARLIE
+D: She's a real life Amazon?
+E: V.O. pre-lap
+S: EXT. FOREST (BELGIUM) - DAY
+N: Diana leads the men on HORSEBACK. They trail behind. Diana turns, smiles, unaware Steve's just told them all about her.
+C: CHARLIE
+D: That's the craziest story I ever heard!
+E: to the boys
+C: SAMEER
+D: Wait. There's a whole island of women like her? And not a single man among them? How do we get there?
+E: beat
+C: STEVE
+D: You're not their type.
+C: CHARLIE
+D: You're all going daft.
+C: STEVE
+D: It's true... every word.
+C: SAMEER
+D: And she thinks Ludendorff is Ares? The God of War?
+C: CHARLIE
+D: And only by killing him will the war end?
+C: SAMEER
+D: You saw what she did out there. The way she charged that machine gun nest. The way she took out that tower. Maybe it's true!
+N: Chief nods in agreement.
+C: CHARLIE
+D: You don't really believe all this rubbish, do ye?
+E: to Steve
+N: Steve wishes he does, but deep down he doesn't...
+S: EXT. FOREST/CHÂTEAU (BELGIUM) - DAY
+N: Through the trees, still on HORSEBACK, Diana and the team see the WELL-GUARDED fortress that is German High Command. Steve uses FIELD GLASSES to survey the scene. Chauffeured LIMOUSINES go through a HEAVILY-GUARDED CHECKPOINT at the gate, behind it, a long line of cars delivering well-dressed GUESTS to the ENTRANCE of the château, a SINGLE SENTRY stationed there.
+C: STEVE
+D: How the hell are we gonna get in?
+C: THE CHIEF
+D: The way in is through the gate.
+C: CHARLIE
+D: Thank you, Chief, for that ancient tribal wisdom, that's very helpful.
+E: sarcastic
+N: The Chief gets off his horse, hands the reins to Sameer, then wanders off into the forest. Charlie looks through his scope: several guards at the gate, but only one at the door.
+C: CHARLIE
+D: If you could get through the gate I only see one guard at the door to distract.
+C: STEVE
+D: It won't look at all suspicious when I come sauntering out of the woods on foot --
+C: DIANA
+D: I could get in.
+C: STEVE
+D: You're not going in. It's too --
+C: DIANA
+D: Dangerous?
+C: STEVE
+D: I know how to do stealth -- been doing it my whole life. I'll follow them to wherever they're working on the gas or better yet find out where it is.
+E: MORE
+C: STEVE
+D: Plus, we can't make a scene.
+E: CONT'D beat
+C: DIANA
+D: I can be stealthy.
+C: STEVE
+D: Diana, what you're wearing doesn't exactly qualify as `undercover.'
+C: SAMEER
+D: I don't know, I'd say she was pretty under covered.
+E: attempting humor
+N: Only Charlie laughs.
+C: STEVE
+D: There's no way to get you in. Let me scout it and report back. Worse case, we follow Ludendorff when he leaves and you can use that magic lasso of yours to get him to tell us where it is.
+E: to Diana
+C: DIANA
+D: But as long as he's still alive --
+C: STEVE
+D: You can't go into German High Command and kill anyone! You have to trust me, Diana.
+N: Suddenly, a gleaming, ROLLS-ROYCE LIMOUSINE pulls into the forest, The Chief in the driver's seat.
+C: STEVE
+D: Where did that come from?
+E: to The Chief
+C: THE CHIEF
+D: Field over there is full of them.
+C: SAMEER
+D: Can I drive it? Lemme drive it. I'll be your chauffeur!
+N: Steve looks at Diana.
+C: STEVE
+D: Diana. Please, stay put.
+E: pointedly
+N: Steve climbs into the back seat and Sameer drives the limo off.
+C: CHARLIE
+D: We should scout the area. In case we need to beat a hasty retreat. What do you think, Diana?
+N: But when they look for her, Diana isn't there.
+C: CHARLIE
+D: Uh-oh.
+S: EXT. CHÂTEAU - GERMAN HIGH COMMAND - MOMENTS LATER
+N: A CAR rolls past the CHECKPOINT GATE, another stops. GUARDS take an INVITATION from the driver, then wave the car on.
+S: IN THE NEXT CAR
+N: Sameer, wearing a TEA TOWEL AS A TURBAN on his head, watches the exchange, alarmed.
+C: SAMEER
+D: Steve...
+E: talking through his teeth to Steve
+N: Steve in the back, decked out in his GERMAN UNIFORM.
+C: SAMEER
+D: ... they have invitations.
+N: Sameer has no choice but to pull up to the guards. One of them holds out his hand, waiting for an invitation -- but Sameer takes the surprised guard's hand with both of his!
+C: SAMEER
+D: Dhanyavaad, Sahib. The Colonel and I wish many blessings and all manner of other things to fall upon your head --
+N: Thinking fast, Steve belligerently yells at Sameer, startling the guards.
+C: STEVE
+D: And your head's empty! He wants my invitation, you idiot!
+N: Sammy grovels to the guard, kissing his hand. The guard tries to pull it away!
+C: SAMEER
+D: I must apologize a thousand thousand times, my masters, for my most horrid, wretched, and unworthy soul has lost the Colonel's invitation!
+N: Steve checks his WATCH.
+C: STEVE SAMEER
+D: We drive hours through this I am a snail! No, a bug! mud and filth! You're a No, the dung of a bug -- disgrace!
+N: The bewildered and uncomfortable guards shoo them on. As they drive, Sameer grins, glancing back at Steve.
+C: SAMEER
+D: Blessings be upon us.
+N: Steve's smile fades when he sees soldiers setting up a VIEWING PLATFORM with ROWS OF SEATS. Steve doesn't know why. AT THE FRONT OF THE CHÂTEAU Sameer opens the LIMO DOOR for Steve.
+C: STEVE
+D: Keep the car running, Sahib. And no joy riding.
+N: Sameer smirks, bows. Steve heads to the château, watching him bowing and blessing to Germans. Steve shakes his head as he enters...
+S: EXT. CHÂTEAU - GERMAN HIGH COMMAND - CONTINUOUS ACTION
+N: Diana, her cloak concealing her armor, watches from the shadows as Steve disappears inside. Frustrated, she searches the exterior of the château for another way in, but she's distracted by the insistent HONKING of a CAR HORN behind her. Diana turns to find a stunning, exquisitely dressed woman, FAUSTA GRABLES (30) in an extraordinary gown, leaning over her driver and honking the car's horn in a futile attempt to get the traffic moving again.
+C: FAUSTA
+D: I am not spending the entire evening out here, you idiots. Move your cars! I said, move!
+N: Infuriated, she marches up the long driveway toward the door. Diana steps out of the shadows and into Fausta's path.
+C: FAUSTA
+D: What are you supposed to be?! Ha! Out of my way.
+E: snorting at Diana's outfit
+N: But when Diana doesn't get out of her way -- and instead sidles up to Fausta to see if they're the same height...
+C: FAUSTA
+D: What are you doing? Guards -- ?!
+E: then; calling out
+N: Which is when Diana delivers a quick, judo-like CHOP to Fausta's neck -- where it meets her lovely shoulder -- causing Fausta to collapse and lose consciousness. Off Diana, catches Fausta as she falls... For the first time in her life, Diana enjoys her own roguishness. Like one of the boys.
+C: DIANA
+D: That was... fun.
+E: realizing
+S: INT. CHÂTEAU - FOYER - CONTINUOUS ACTION
+N: Steve walks up the stairs, spotting the KAISER at the head of the RECEIVING LINE atop them. Ludendorff is next to him, talking intensely to Dr. Maru. As much as they try not to, people can't help but stare at Maru.
+C: MARU
+D: They're starting to ask where Von Hindenburg and the others are.
+C: LUDENDORFF
+D: Soon it won't matter.
+C: MARU
+D: But, General --
+C: LUDENDORFF
+D: We continue as planned. Now go. I have people to tend to beyond you.
+N: Maru is taken aback by his firmness. Feels eyes staring at her. She's used to rejection, but not from him. She nods and breaks off, moving into the GRAND BALLROOM. An ORCHESTRA plays, COUPLES waltz, CHANDELIERS blaze. The room is full of OFFICERS, their WIVES and prominent CIVILIANS in formal wear. Maru moves to a FIREPLACE, staring at the fire.
+C: STEVE
+D: Excuse me.
+E: to Maru
+N: Maru turns to face Steve, holding TWO GLASSES OF CHAMPAGNE -- he offers her one.
+C: MARU
+D: I don't drink. Have we met?
+E: faintly recognizing him
+C: STEVE
+D: No, but I've been watching you. Following your career, I mean. You're Dr. Isabel Maru. The most talented chemist in the German Army. I'm a fan.
+N: Steve keeps one eye on Ludendorff. Maru notices. He covers --
+C: STEVE
+D: I hope I'm not crossing a line. I hear you and General Ludendorff are very close.
+C: MARU
+D: We work well together, yes.
+C: STEVE
+D: I'm sure he provides a great deal of support for you and your work, but having someone like me behind you -- I could provide a lot more.
+E: flirting
+N: She's not falling for the man, but there's something about him... a faint recognition --
+C: MARU
+D: And who are you?
+C: STEVE
+D: A man who would show you the appreciation a genius like yourself deserves.
+N: Maru stares into the fire, captivated.
+C: STEVE
+D: I love fire, don't you? It's like a living act of entropy. The ultimate weapon of destruction, reminding us that, in the end, everything returns to the ash it once came from. There's something reassuring about it. I see all of that in your eyes.
+E: stares into Maru's eyes
+N: Maru can't help but stare back deeply into Steve's eyes, surprised to find her heart racing. For a brief moment, she's unsure of what she's feeling.
+C: STEVE
+D: Perhaps you could show me what you're working on. I hear it's extraordinary.
+N: Steve's about to get the answers he needs when -- DIANA, in Fausta's gown, MAKES HER ENTRANCE, at the top of the stairs -- her uniform underneath, the GODKILLER peeking out from the back of her dress, the hilt looking like a piece of JEWELRY. Heads turn at the stunning Amazon. Steve's completely torn, does he stay and gets his answers from Maru -- or stop Diana from getting to Ludendorff? Maru makes the decision for him --
+C: MARU
+D: I appreciate your interest in my work, but I am loyal to General Ludendorff. Besides, I see now your attention is elsewhere.
+N: DIANA AND LUDENDORFF'S EYES MEET. It is an INTENSE moment. She examines him, trying to confirm with her own eyes that he is Ares. Steve desperately wants to get to Diana, the tension thick: What is she going to do? Seeing the most beautiful woman in the room, Ludendorff can't help but give Diana a courtly bow, kisses her hand.
+C: LUDENDORFF
+D: Enjoying the party?
+C: DIANA
+D: I confess, I'm not sure what we're celebrating.
+E: eyes narrow
+C: LUDENDORFF
+D: A German victory, of course.
+N: He offers her hand to dance. She takes it, sizing him up.
+C: DIANA
+D: Victory? When I hear peace is so close?
+C: LUDENDORFF
+D: `Peace is only an armistice in an endless war.'
+N: Diana understands, tenses.
+C: DIANA
+D: Thucydides.
+C: LUDENDORFF
+D: You know your Ancient Greeks. They understood that war is a god. One that requires human sacrifice. Her heart pounds.
+E: happily surprised
+C: LUDENDORFF
+D: And in exchange, war gives man purpose. A chance to rise above his petty, mortal little life and be better than he is.
+N: ON DIANA There's no question now: This is Ares.
+C: DIANA
+D: Only one of the many gods believed in that... and he was wrong.
+N: She desperately wants to reach for her sword, but he's still holding her.
+C: LUDENDORFF
+D: You know nothing about the gods --
+N: SOLDIER #1 (O.S.) General? Ludendorff looks over at a soldier. He checks his watch, relaxes his hold on her.
+C: LUDENDORFF
+D: My apologies. You'll excuse me. Enjoy the fireworks.
+E: beat
+N: Just as he turns his back on Diana, she reaches for her SWORD. She's about to draw it when -- Steve gets between them, facing her! He pulls Diana away from Ludendorff, taking her hand -- dancing with her as cover.
+C: DIANA
+D: What are you doing?
+N: The dancing is anything but what it was in last time.
+C: STEVE
+D: You agreed to wait.
+C: DIANA
+D: You agree to do things all the time then don't do them. Let me go --
+C: STEVE
+D: You can't kill Ludendorff inside German High Command. The Armistice won't be signed.
+C: DIANA
+D: It won't matter --
+C: STEVE
+D: What if you're wrong, Diana? What if there is no Ares?
+C: DIANA
+D: You don't believe me.
+E: realizes
+C: STEVE
+D: I can't let you do this.
+C: DIANA
+D: What I do isn't up to you.
+N: Reminding Steve of her strength, Diana uses only her fingers to PUSH Steve away -- as if he were nothing -- and he almost loses his footing. Diana looks for Ludendorff -- he's left! She runs out. Steve follows.
+S: EXT. CHÂTEAU - MOMENTS LATER
+N: Diana exits, looks around, spotting Ludendorff, Maru, and the soldiers entering one of the château's TOWER HOUSES, which is quickly secured behind him.
+C: STEVE
+D: Diana!
+N: Diana starts running towards it when -- the sound of a MISSILE launching from the guardhouse. Then another. And another.
+C: STEVE
+D: The gas.
+N: Their eyes follow the PATH OF THE MISSILES -- she understands, horrified, see the target is --
+C: DIANA
+D: The village.
+N: Diana runs off towards the village while the audience at the château behind her bursts into APPLAUSE and CHEERS.
+S: 90A EXT. FOREST - CONTINUOUS ACTION 90A
+N: Sameer has regrouped with Chief and Charlie. Chief and Sameer look up at SMOKING TRAILS in the sky, left by the missiles, while Charlie peers through his SCOPE at the château.
+C: SAMEER
+D: They're cheering.
+N: Suddenly, they spot Diana racing through the forest on her HORSE.
+C: SAMEER
+D: Diana!
+N: Steve rides up to the team, out of breath.
+C: THE CHIEF
+D: What did they fire?
+N: 90A CONTINUED: 90A
+C: STEVE
+D: It was Ludendorff.
+C: CHARLIE
+D: I see him.
+E: through scope
+C: STEVE
+D: Wherever he goes you follow him.
+N: Steve chases after Diana!
+C: SAMEER
+D: How will you find us?!
+E: calls after to Steve
+C: THE CHIEF
+D: I know how.
+S: EXT. OUTSKIRTS OF VELD - MINUTES LATER
+N: Racing through the woods in the distance, Diana now in her armor on horseback -- her torn off dress discarded, floating behind her. She arrives at the outskirts of the village, which is now entirely engulfed in a THICK, COLORED CLOUD OF GAS. She dismounts, enveloped by the gas. She can't see anything in front of her, but knows immediately that all the villagers have perished. She has trouble breathing, her EYES RED AND STINGING. BLISTERS on her skin.
+C: DIANA
+D: No. Oh, no, no, no.
+N: Tears fill her eyes.
+C: STEVE
+D: Diana.
+E: O.S.
+N: Diana walks out to see -- Steve arrive, dismounting. Diana points at Steve, her blisters HEALING before his eyes.
+C: DIANA
+D: They're dead. They're all dead. YOU DID THIS!
+E: a horrific betrayal
+C: STEVE
+D: Diana, I'm sorry --
+C: DIANA
+D: You stopped me from killing Ares when I had the chance. You murderer! You killed these people!
+C: STEVE
+D: No, I --
+E: reaching out for her
+C: DIANA
+D: STAY AWAY FROM ME!
+N: Steve freezes in his tracks.
+C: DIANA
+D: Everything you've said to me is a lie. But I see the truth now. It isn't just the Germans that Ares has corrupted. It's you, too. It's all of you.
+E: fury growing
+N: Steve is rattled --
+C: DIANA
+D: I will find Ares and I will kill him.
+E: determined; dark
+N: Steve sees a TRAIL OF SMOKE in the sky in the distance.
+C: STEVE
+D: It's a signal from The Chief. They followed Ludendorff --
+N: Diana rides off in a fury.
+C: STEVE
+D: Diana?!
+N: Steve starts to get his horse, then sees an abandoned MOTORCYCLE on the road into town and changes his mind.
+S: EXT. SECURITY POST (BELGIUM) - MOMENTS LATER
+N: Along the road, Diana comes upon a GERMAN SECURITY POST: THREE GERMAN SENTRIES but she refuses to stop. She KNOCKS the Germans aside like bowling pins.
+S: EXT. FOREST (BELGIUM) - CONTINUOUS ACTION
+N: Steve avoids the security post, tearing through the woods.
+S: EXT. COUNTRYSIDE (BELGIUM) - MOMENTS LATER
+N: The last wash of sunlight FADES as NIGHT takes over. Diana rides on horseback through the countryside at amazing speed -- driven, possessed by rage. She heads towards Charlie, Sameer, and The Chief -- who are all at a FIRE Chief has set, used to create the SMOKE SIGNALS. He points to the top of a hill. She rushes past them and up the hill! Cresting the hill, we see an AIRFIELD -- she heads down towards it. Steve isn't far behind her, racing past the team!
+S: EXT. OUTSIDE THE AIRFIELD (BELGIUM) - CONTINUOUS ACTION
+N: As Diana storms towards the airfield, her eyes land on the CONTROL TOWER, where she sees -- LUDENDORFF on the balcony, looking out over the airfield, a hive of activity. She charges the tower, flipping off her horse and over a BARBED WIRE FENCE -- she takes out more Germans -- slashes through a SECOND BARBED WIRE FENCE -- fights to the tower and -- Diana lassos a soldier on the balcony, yanking him down then leaping up to the tower herself! 96,97 OMITTED 96,97
+S: INT. CONTROL TOWER - CONTINUOUS ACTION
+N: Ludendorff turns as Diana arrives, wielding the GODKILLER. He smirks, scoffing --
+C: LUDENDORFF
+D: Nice to see you again. This is a surprise.
+N: He aims his GUN at her --
+C: LUDENDORFF
+D: But I have things to do.
+N: -- Ludendorff FIRES at Diana! She blocks the bullet with her bracelet, ricocheting it back at Ludendorff's gun! It explodes in his hand! He cries out in pain, shocked! Diana lowers her smoking bracelet, looking him in the eyes -- assuming he knows who she is now after that display of power.
+C: DIANA
+D: You know why I'm here. I am Diana of Themyscira, daughter of Hippolyta.
+N: Ludendorff turns away from Diana, cracking open a BLUE CAPSULE. He inhales -- it's painful but powerful, veins bulging.
+S: EXT. CONTROL TOWER - WALKWAY - CONTINUOUS ACTION
+N: Diana sees Ludendorff's veins bulging, almost supernatural -- her eyes widen with confirmation. Diana moves quickly, thrusting the Godkiller at him. He dodges it. She strikes him in the face with her fist. They trade blows. He grabs a BAYONETTED RIFLE mounted on the wall. Ludendorff uses the rifle as A GUN, A SPEAR, and A SWORD. He HITS Diana again and again -- but Diana strikes back with such FORCE that he flies backwards through the WINDOW and onto the narrow walkway outside. Ludendorff struggles to his feet --
+S: EXT. CONTROL TOWER - CONTINUOUS ACTION
+N: Diana CHARGES AGAIN. Ludendorff manages to escape being gored by CLIMBING UP TO THE TOWER ROOF. Ludendorff stands, holding his bayonet, as Diana LEAPS up on the roof to join him -- and the BATTLE RAGES on, SWORD AGAINST BAYONET, both so close to plummeting to the ground with every volley. But then Ludendorff lands a BLOW that sends Diana and his bayonet sliding over the roof's edge. She manages to grip the ledge but loses the Godkiller. Pulling herself back up with incredible effort she sees that LUDENDORFF HAS THE GODKILLER.
+C: LUDENDORFF
+D: As magnificent a creature as you are, you are no match for me.
+N: WITH VEINS PULSATING BLUE, LUDENDORFF SWINGS THE SWORD DOWN TO DELIVER THE KILLING BLOW -- But Diana BLOCKS it with her bracelets!
+C: DIANA
+D: We'll see about that.
+N: Ludendorff STRIKES AGAIN AND AGAIN until Diana grabs the blade with her BARE HANDS. It cuts deep, drawing blood, she CRIES OUT in pain. Summoning impossible strength, she grips the blade and SHOVES it back with such force that Ludendorff loosens his grip. For the first time we see that he is afraid. Diana stands over Ludendorff, raising the GODKILLER.
+C: DIANA
+D: I, daughter of Hippolyta, came here to complete the mission of the Amazons by taking your life, and ridding mankind and my people of you -- forever!
+N: Diana PLUNGES THE GODKILLER INTO LUDENDORFF'S BODY. His body crumbles to the ground, the blue in his veins fading away like a light going out! ARES IS DEAD! She breathes heavy, takes in the victory, reveling in it. Her mission accomplished. Her mother would be proud. Antiope. All of the Amazons. The battlefield is quiet. A storm begins to simmer in the sky. Then she hears a GERMAN COMMANDER screaming at his troops. Her brow knits with confusion. Diana looks out over the airfield -- her face falls. HUNDREDS of "HELLMEN" SOLDIERS wearing strange customized GAS MASKS emanate from Dr. Maru's lab, working with HUNDREDS OF GAS BOMBS. To Diana's horror, nothing has changed. Ares may be dead but -- WAR CARRIES ON.
+C: STEVE
+D: Diana!
+E: O.S.
+N: Steve is on the balcony below.
+C: STEVE
+D: Diana?
+N: Relieved she's okay, Steve sees Ludendorff's body on the edge. Diana turns to him, lost...
+C: DIANA
+D: I killed him. I killed Ares but nothing stopped. You kill the God of War, you stop the war.
+N: Steve registers her confusion, but follows her gaze to the growing threat below. No time to explain --
+C: STEVE
+D: Right... Then we've got to do something about it.
+N: She leaps down to Steve, eyes wide with shock.
+C: DIANA
+D: No! Steve. All of this should have stopped. The fighting. It should have stopped. So why are they doing this?!
+N: Steve sees the crisis on her face, forcing himself to slow down and tune into it -- sad knowing the reality Diana's about to face. His heart breaks for her.
+C: STEVE
+D: Diana, I'm sorry... I know you thought -- I hoped it, too -- but I knew --
+C: DIANA
+D: You knew what?!
+C: STEVE
+D: That it might not be that simple.
+C: DIANA
+D: But Ares is dead. They don't have to do this anymore. So why would they?!
+N: Steve finally says what he hasn't had the heart to say all along.
+C: STEVE
+D: Because maybe people aren't... just good, Diana. Ares or no Ares. Maybe it's... just them.
+N: She looks out at them. The truth slowly sinking in as she tries to understand -
+C: DIANA
+D: No... It can't be... Everything I saw? They were killing each other. Killing people they can't even see... Killing children. Like it was nothing... It had to be him!! It can't be them!
+C: STEVE
+D: Diana, sometimes people are complicated --
+N: Diana's disbelief begins to turn to anger.
+C: DIANA
+D: My mother was right. She said `the world of men don't deserve you.' That's why she left. They don't deserve our help.
+E: beat
+N: Steve knows they're out of time.
+C: STEVE
+D: It's not about whether they deserve it or not. It's about what you believe. You think I don't get it? All I've seen out there? I wish I could tell you that there was one `bad guy' to blame. Maybe we're all to blame. But that doesn't mean we shouldn't try to do better. And if you believe this war should stop, Diana, if you want to stop it, then help me stop it. Now.
+E: beat
+N: Diana still isn't there.
+C: STEVE
+D: If we don't, they're going to kill thousands more.
+E: MORE
+C: STEVE
+D: Don't give up on them. Don't give up on me.
+E: CONT'D beat
+N: Diana doesn't respond. She isn't there yet.
+C: STEVE
+D: Please. We gotta go... I have to.
+E: beat
+N: It kills Steve to release her hand, but he has no choice. He has to. He does and can only look back, hoping she'll follow. Diana's left alone, everything she ever believed in destroyed. She watches as Steve runs off --
+S: EXT. AIRFIELD - CONTROL TOWER - CONTINUOUS ACTION
+N: Steve joins the team as they arrive and regroup --
+C: SAMEER
+D: Where's Diana?
+E: to Steve
+C: STEVE
+D: We're on our own.
+N: Despite their hesitation and confusion about that, the team follows Steve towards the hangar --
+S: EXT. CONTROL TOWER - CONTINUOUS ACTION
+N: Diana takes in a breath, SMELLS the CHEMICALS in the air, HEARS the sounds across the AIRFIELD -- she has become hyper aware of the harshness of the world around her. Diana turns, seeing a FIGURE THROUGH the windows looking at Ludendorff's plans. For a brief moment, she thinks it's Steve.
+C: DIANA
+D: Steve?
+N: The figure pauses, then looks over at Diana. Diana wonders: Who is it?
+C: DIANA
+D: Who's there? What are you doing?
+E: beat
+N: The figure finally speaks --
+C: VOICE
+D: I've been waiting for you to see the truth.
+E: O.S.
+N: She looks closer, a shiver up her spine -- confusion overwhelms Diana as she sees it's --
+C: DIANA
+D: Sir Patrick?
+N: Sir Patrick is there, like a dream -- or a nightmare -- calmly gazing over at Diana THROUGH the glass.
+C: SIR PATRICK
+D: You're right, Diana. They don't deserve our help. They only deserve destruction.
+E: beat
+N: Diana freezes.
+C: DIANA
+D: You're him. You.
+C: SIR PATRICK
+D: I am. But I'm not what you thought I was. You blame me, but the truth is... ... all of this -- I did none of it.
+E: motions to the airfield
+N: Alarmed, Diana reaches for her sword -- but her hand grasps at nothing -- she quickly realizes it's still in Ludendorff! Diana leaps OUT OF FRAME to retrieve it!
+S: EXT. AIRFIELD - HANGAR - CONTINUOUS ACTION
+N: Steve and the team regroup, taking cover behind a hangar, Charlie scanning the area with his scope.
+C: CHARLIE
+D: I can't see where they're taking the gas.
+N: They duck behind CRATES as gas-masked soldiers march by. Sammy points out over the airfield at -- -- the enormous, modern PROTOTYPE BOMBER on the runway, being loaded up with bombs. The workers hurry as the storm continues to build around them.
+C: SAMEER
+D: Wherever Diana is, I think we're gonna need her.
+N: Steve watches as a soldier motioning to the crew to pick up the pace. Steve and the team see soldiers loading bombs in the back of the plane. Steve motions to the team and they head around the back of the hangar.
+S: INT./EXT. AIRFIELD - CONTINUOUS ACTION
+N: Diana leaps down from above, the GODKILLER back in her hands -- she circles the tower like a tiger, looking THROUGH the glass -- but Sir Patrick remains very calm.
+C: SIR PATRICK/ARES
+D: I am not your enemy, Diana. I am the only one who truly knows you. And who truly knows them as you now do. They have always been, and always will be weak, cruel, selfish, and capable of the greatest horror...
+N: As he speaks, Diana holds the sword with TWO HANDS, trying to regain her confidence but struggling. Stepping in the doorway, he vanishes. She looks around. Finds he's suddenly outside.
+C: DIANA
+D: I am Diana of Themyscira, daughter of Hippolyta... and I am here to complete her mission --
+E: to herself
+N: Diana cocks back her sword for battle when Sir Patrick disappears again -- reappearing behind her. She spins and plunges the GODKILLER into him -- Sir Patrick simply holds up his hand and the sword DISINTEGRATES INTO A CLOUD OF DUST, right down to the hilt! Diana can't believe it --
+C: DIANA
+D: The Godkiller...
+C: SIR PATRICK/ARES
+D: The Godkiller? Oh, child. That is not the Godkiller. You are. Only a god can kill another god.
+E: truly feels her shock
+C: DIANA
+D: I --
+C: SIR PATRICK/ARES
+D: Zeus left the daughter he had with the Queen of the Amazons as a weapon to use against me.
+N: Diana's mind reeling --
+C: DIANA
+D: You lie!
+N: Diana throws her LASSO around Sir Patrick, who doesn't try and avoid it. On contact with Sir Patrick, the lasso glows BRIGHTER than previously seen --
+C: DIANA
+D: I compel you to tell me the truth!
+N: Sir Patrick calmly looks into her eyes, the lasso's GOLDEN ENERGY courses between them.
+C: ARES
+D: I am.
+S: 107A EXT. AIRFIELD - HANGAR - CONTINUOUS ACTION 107A
+N: Steve and the team put on GAS MASKS and JACKETS pulled from a handful of UNCONSCIOUS SOLDIERS they leave behind as they creep around the hangar to the plane. Steve and the team blend in with the crew working on the plane.
+S: 107AA EXT. AIRFIELD - CONTINUOUS ACTION 107AA
+N: Sameer boards the plane while Steve moves to the front wheel, trying to get a better look at the plane's position. The Chief spots soldiers examining a MAP just inside the hangar. As they walk away, The Chief sneaks in --
+S: 107E INT. CONTROL TOWER - CONTINUOUS ACTION 107E
+N: The lasso is still tight around Sir Patrick, crackling. Diana holds it, still unsure what to think --
+C: SIR PATRICK/ARES
+D: I am not the God of War, Diana. I am the god of truth... All I ever wanted was to show my father how evil his creation was. But he refused.
+N: As Sir Patrick runs his finger along the lasso, a SURGE of energy runs from his hands and down towards Diana -- into her, causing her to see FLASHES OF THE PAST. Each is like a pulse that fades and returns us to the scene at hand.
+S: 107EA FLASHBACKS - EXT. NO MAN'S LAND - DAY 107EA
+N: We PUSH THROUGH the bleakness of the world.
+C: SIR PATRICK/ARES
+D: Mankind stole the world from us. They ruined it, day-by-day.
+E: V.O.
+S: 107EB EXT. MOUNT OLYMPUS - NIGHT 107EB
+N: Ares falling to the Earth... His armor falling off...
+C: SIR PATRICK/ARES
+D: And I, the only one wise enough to see it, was left too weak to destroy them myself...
+E: V.O.
+S: 107EC EXT./INT. TBD - NIGHT 107EC
+N: Somewhere dark, ARES shivering, powerless... the remnants of his armor CRACKING and BREAKING APART around him. 107EC CONTINUED: 107EC
+C: SIR PATRICK/ARES
+D: All these years, I've struggled. Whispering into their ears...
+E: V.O.
+S: 107ED INT. HANGAR - DR. MARU'S LAB - DAY 107ED
+N: Maru at her workbench. The SPECTRAL FORM of SIR PATRICK whispering silently to her, unseen by anyone. A STRANGE WIND passes as he does. Her eyes light up. She starts mixing chemicals frantically.
+C: SIR PATRICK
+D: Ideas. Inspiration. For weapons. Formulas. But I don't make them use them... they start these wars on their own.
+E: V.O.
+N: END FLASHBACKS.
+S: 107EF INT. CONTROL TOWER - NIGHT 107EF
+N: The FLASHBACKS FADE and we RETURN TO Diana's stunned face.
+C: SIR PATRICK/ARES
+D: All I do is orchestrate an armistice I know they will break, in the hope they will destroy themselves. But it's never been enough... When you first arrived I was going to end you, Diana. Then I felt something I haven't for thousands of years. Stronger.
+E: enjoying the revelation beat
+N: Sir Patrick clenches his fists. His neck pulses.
+C: SIR PATRICK/ARES
+D: It was your power. Healing me more than you could ever hurt me.
+N: Diana's eyes narrow, trying to understand. Sir Patrick's hands begin to FLICKER with FIRE --
+C: SIR PATRICK/ARES
+D: And I knew that if only you could see what the other gods couldn't...
+N: 107EF CONTINUED: 107EF Sir Patrick runs his finger along the lasso, energy arcing down the lasso and into Diana! As it hits her --
+S: 107EG VISION - EXT. NO MAN'S LAND - DAY 107EG
+N: -- they are transported to the barren, war-torn No Man's Land
+C: SIR PATRICK/ARES
+D: All the suffering. All the pain and destruction they create. You would join me.
+E: V.O.
+N: Diana looks around her. SIR PATRICK/ARES (V.O.) SIR PATRICK/ARES (V.O.) With out powers combined, (ALT) we could finally end this. With our powers combined, we could finally end them. The barren no man's land transforms into a lush, "Garden of Eden" -- like Themyscira itself!
+C: SIR PATRICK/ARES
+D: We could return the world to the paradise it was before them. And there would be absolute peace, Diana. Forever.
+E: beat
+N: CLOSE ON DIANA taking it in. Sir Patrick smiles, pleased. But Diana resists.
+C: DIANA
+D: No... No, I'd never be a part of that.
+E: struggling
+N: And like that --
+S: 107EH INT. CONTROL TOWER - NIGHT (REALITY) 107EH
+N: The VISION around Diana VANISHES, they are "back" in the control tower.
+S: 107D EXT. AIRFIELD - HANGAR - CONTINUOUS ACTION 107D
+N: Steve tries to pry open a panel on the plane, looking for a way to sabotage it somehow -- when a German soldier approaches Steve, suspicious. The German is about to yell when -- THUMP! Charlie lowers the butt of his rifle onto the German. Steve nods in appreciation then -- notices a CHILL as the wind starts to rise. Steve looks over, his face grows tense -- DR. MARU approaches the plane for inspection with MORE SOLDIERS. They retreat to the shadows!
+S: 107B INT. BOMBER PROTOTYPE - CONTINUOUS ACTION 107B
+N: Sameer moves past ROWS OF BOMBS already loaded. He spots something -- a TIMER wired to the bombs!
+S: 107C INT. AIRFIELD - HANGAR - CONTINUOUS ACTION 107C
+N: The Chief examines the map, horror covers his face when he sees the plane's target: LONDON.
+S: INT. CONTROL TOWER - CONTINUOUS ACTION
+N: Sir Patrick looks angered -- he almost had her. His eyes narrow.
+C: SIR PATRICK/ARES
+D: Oh, Diana... my dear sister... I don't want to fight you -- -- but if I must...
+E: beat
+N: He quickly GRABS the lasso -- and a VIOLENT ERUPTION OF ENERGY ERUPTS -- AND THE CONTROL TOWER EXPLODES!!!
+S: 107F EXT. AIRFIELD - CONTINUOUS ACTION 107F
+N: A DEAFENING explosion erupts across the airfield, demanding everyone's attention! It's overwhelming and chaotic, putting the soldiers in panic mode: They're under attack! Steve and the team react, unable to see what caused it, retreating to the shadows to find out -- 107F CONTINUED: 107F
+C: CHARLIE
+D: Hurry up! They're onto us!
+C: STEVE
+D: Sammy, let's go!
+N: Dr. Maru turns to A THREE-MAN CREW -- PILOT, CO-PILOT, and the BOMBARDIER. She calls out --
+C: DR. MARU
+D: Forget about them! Come on, move! Go now!
+E: they hesitate
+S: 107G EXT. CONTROL TOWER - CONTINUOUS ACTION 107G
+N: Diana lands on the ground, rolling across it.
+S: EXT. AIRFIELD - RUNWAY - CONTINUOUS ACTION
+N: Steve and the team race across the airfield, searching for cover.
+S: 107G EXT. CONTROL TOWER - CONTINUOUS ACTION 107G
+N: Diana pushes herself up off the ground, gazing over at Sir Patrick, who simply floats down -- burning debris all around them. Getting to her feet, Diana runs towards Sir Patrick. CLOSE ON SIR PATRICK calmly looking out at the DESTRUCTION and Diana, he flicks his hand -- through his sheer force of will, Sir Patrick lifts the TOWER DEBRIS around Diana! Girders rise, toppling over on either side of Diana as she races towards Sir Patrick! Diana dodges them, running through the gauntlet -- gazing up as a LIGHT shines down, toppling towards her -- Diana leaps out of the way!
+S: EXT. AIRFIELD - RUNWAY - CONTINUOUS ACTION
+N: Steve and the team take cover behind SEVERAL CRATES.
+S: 107G EXT. CONTROL TOWER - CONTINUOUS ACTION 107G
+N: Diana throws her lasso at Sir Patrick, but he holds his hands up and blasts it back!
+C: SIR PATRICK/ARES
+D: Oh, my dear. You have so much to learn.
+N: Diana lassos a GIRDER, swinging it back at Sir Patrick -- but he hovers above it! The debris smashes into a gas tank, exploding!
+S: EXT. AIRFIELD - CONTINUOUS ACTION
+N: Fighting through the growing storm, Diana races towards Sir Patrick -- he raises his hands like a conductor, ripping chunks of the tarmac up! Diana avoids one -- smashes through another -- then leaps in the air as a MASSIVE CHUNK OF THE EARTH rises -- Diana leaps into the air, towards Sir Patrick --
+S: 109A EXT. AIRFIELD - HANGAR - CONTINUOUS ACTION 109A
+N: Hidden behind the crates, Steve and the team remove their masks and see Diana and Sir Patrick battling! Steve reacts to Sir Patrick levitating!
+C: CHARLIE
+D: What are we going to do?
+C: STEVE
+D: There's not much we can do... if that's what I think it is.
+N: Steve looks to the plane.
+C: STEVE
+D: But we can stop that plane.
+S: 109AA EXT. AIRFIELD - CONTINUOUS ACTION 109AA
+N: Diana leaps at Sir Patrick, but she blasts her back under the hovering CHUNK OF EARTH! Sir Patrick motions, SENDING the chunk CRASHING DOWN TO THE GROUND -- but Diana zips out of the way -- in a blur, she slams into Sir Patrick, sending him flying -- 109AA CONTINUED: 109AA CLOSE ON SIR PATRICK catching himself, gazing up, crackling with LIGHTNING.
+S: 109B EXT. AIRFIELD - HANGAR - CONTINUOUS ACTION 109B
+N: Charlie peers through is SCOPE at the plane...
+C: CHARLIE
+D: If we radio ahead? We can ask Air Corps to shoot her down.
+C: STEVE
+D: No, if it crashes, it'll wipe out everyone for fifty square miles. We gotta ground it.
+C: SAMEER
+D: Bad news. It's on a timer. If we ground it here, same thing.
+N: Steve looks over at Diana then the plane -- and he realizes what he has to do...
+C: STEVE
+D: Is it flammable, Chief?
+C: THE CHIEF
+D: Yeah, she said it was hydrogen? It's flammable.
+C: STEVE
+D: I need you guys to clear me a path to that plane.
+C: CHARLIE
+D: No, Steve!
+C: SAMEER
+D: Steve!
+N: But Steve is already running towards it. The team go into action!
+S: 109C INT. AIRFIELD - HANGAR - CONTINUOUS ACTION 109C
+N: Diana grabs a LARGE WOODEN CRATE and throws it up at Sir Patrick. Sir Patrick raises his hand -- and the crate appears to hit an INVISIBLE WALL, breaking apart, revealing HUNDREDS OF GRENADES INSIDE! 109C CONTINUED: 109C The grenades hover for a SPLIT SECOND -- then Ares sends them down towards Diana! Diana grabs a LARGE BOMB nearby and THROWS it into the air towards the GRENADES -- causing a MASSIVE EXPLOSION! The explosion sends Diana and Ares FLYING backwards across the AIRFIELD!
+S: 109D EXT. AIRFIELD - HANGAR 109D
+N: Steve sees Diana smashing across the airfield. He rushes to her side! The team watches as the truck moves the plane forward. Charlie aims his gun -- shooting straight into the engine! The truck SMOKES and HALTS, the plane stopped for a brief moment as -- Steve helps Diana up -- He starts to talk, but Diana's ears are RINGING. She can see him, but not hear him.
+C: DIANA
+D: What?
+N: IN THE FIRE - CONTINUOUS ACTION ACROSS THE AIRFIELD, within the BURNING FIRE... CLOSE ON ARES' HAND awakening, clutching the EARTH.
+S: EXT. AIRFIELD - CONTINUOUS ACTION
+N: Steve talks to Diana, but her ears are still ringing. THROUGH CHARLIE'S SCOPE Watching as the truck moves the plane forward. ANOTHER ANGLE Charlie aims his gun -- shooting straight into the engine! The truck SMOKES and HALTS, the plane stopped for a brief moment as -- 109D CONTINUED: 109D Chief puts his hand on Charlie's gun, lowers it.
+C: THE CHIEF
+D: Don't shoot! The whole thing could go!
+N: The plane's blades start SPINNING! The team fights the airmen around it, clearing the path Steve asked them to. ANGLE ON DIANA AND STEVE struggling to say good-bye...
+C: CHARLIE
+D: Come on, this way! Steve!
+E: O.S.
+N: Steve looks at Charlie, who motions to the plane. Soldiers are firing at the team, others have unhooked the tow truck -- so the plane is moving forward again! He presses his WATCH into her hand. She looks at it, confused, then looks up to see him running away. One last look at Diana, lingering, his heart breaking -- then he races to the plane. Confused, Diana calls after him --
+C: DIANA
+D: Steve!
+N: Steve runs past the team, towards the plane.
+C: STEVE
+D: I have the plane.
+C: CHARLIE
+D: But, Steve --
+C: STEVE
+D: You destroy the lab! Go!
+N: The team hesitates for a second, looking at the hangar --
+C: SAMEER
+D: If we go in there, we're not coming back.
+E: to Charlie and Chief
+N: They share a look -- and then go anyway -- Steve leaps onto a ladder on the wing of the bomber, climbing up as the plane moves down the runway.
+S: EXT. AIRFIELD - RUNWAY - CONTINUOUS ACTION
+N: On the WING, Steve pulls himself to the DOOR, opens it. Steve's confronted by the BOMBARDIER as he enters. They grapple, Steve throws him out!
+S: 111A EXT. AIRFIELD - CONTINUOUS ACTION 111A
+N: Diana turns towards a burning fire. CLOSE ON DIANA gazing into the fire.
+S: INT. BOMBER PROTOTYPE - CONTINUOUS ACTION
+N: Steve fights with the BOMBARDIER, throwing him out of the plane. 111A IN THE FIRE - CONTINUOUS ACTION 111A SIR PATRICK SUMMONS scraps of METAL all around him. One piece slams against his body. Then another. And another. Faster and faster. ANGLE ON SIR PATRICK using the FIRE to FORGE the METAL on his body -- recreating ARES' ICONIC ARMOR he wore in "The History Lesson!" CLOSE ON ARES' HAND wrapped in metals, forming a FIST. CLOSE ON ARES' FINGERS digging into the MELTING METAL on his head, creating the shape of his HELMET.
+S: EXT. AIRFIELD - CONTINUOUS ACTION
+N: Walking out of the fire, WE REVEAL Sir Patrick now in his ARES ARMOR. Diana sees ARES -- and runs straight at him. 111A CONTINUED: 111A Ares calmly walks towards Diana. He creates TWIN SWORDS out of thin air -- his power growing thanks to Diana, Ares is able to conjure any MAN-MADE WEAPON at will -- and throws the swords at Diana! Diana blocks the swords, falling back to the ground. CLOSER ANGLE ON DIANA a BLOODY GASH at her side. ANOTHER ANGLE Ares charges Diana -- he conjures a SPEAR, throwing it at Diana. She blocks it, but again is thrown back as the weapon combusts -- slamming into a TRAIN CAR. Ares does not relent, conjuring TWIN SWORDS -- swinging them at her -- she dodges the blades, BLOCKS them with her bracelets -- 112-114 OMITTED 112-114
+S: INT. BOMBER PROTOTYPE - CONTINUOUS ACTION
+N: Steve moves deeper into the bomber to the PILOT and CO- PILOT. The CO-PILOT gets UP, pulling his GUN. The pilot cautions him, motions to the GAS BOMBS --
+C: PILOT
+D: You hit that, we all go up. The co-pilot nods, puts his gun away -- spots another weapon. The co-pilot rips a FIRE HATCHET off the wall, swinging it hard. Steve dodges the hatchet -- then slams his fist into the co-pilot, sending him back against the GAS BOMBS --
+N: Steve wrestles the hatchet away from the co-pilot. Steve slams his fist into the co-pilot -- and he crumples to the ground. Steve fights the Pilot, tossing him back, taking the controls. Steve pulls a lever -- 116,117 OMITTED 116,117
+S: EXT. AIRFIELD - RUNWAY - CONTINUOUS ACTION
+N: As the bomber lifts up off the runway into the air, BOMBER DOORS open, dumping out the Pilot and co-pilot.
+S: 118A INT. HANGAR - DR. MARU'S LABORATORY - CONTINUOUS ACTION 118A
+N: Charlie, Sameer, and Chief enter the hangar. GUNSHOTS ring out as Dr. Maru desperately gathers her NOTES, trying to save her work! The team looks out across the lab, seeing DIFFERENT DRUMS OF CHEMICALS -- ready to be MIXED to create the gas. They start kicking over the drums, dismantling the lab, setting CHARGES --
+S: 118AB EXT. AIRFIELD - RUNWAY - CONTINUOUS ACTION 118AB
+N: ARES conjures a HOOK and CHAIN, throwing it at Diana, wrapping it around her arm -- he throws her across the airfield! Diana slams into a tank, denting it. She stands up -- just as ARES swings a MASSIVE SWORD, the power of the blade SLICING everything in its path -- Diana dodges it as the power SLICES the TANK in two!
+S: 118AC EXT AIRFIELD - RUNWAY - CONTINUOUS ACTION 118AC
+N: Diana leaps up at Ares as he conjures a HATCHET, tackling him -- they crash onto the top of a HANGAR! Diana digs her hand into the roof, stopping herself.
+S: 118A INT. HANGAR - DR. MARU'S LABORATORY - CONTINUOUS ACTION 118A
+N: The team moves out across the lab, The Chief setting CHARGES -- -- while Dr. Maru escapes out of the hangar with her notebooks, turning back for one last look before disappearing.
+S: 118AD EXT. AIRFIELD - HANGAR - ROOF 118AD
+N: ON THE HANGAR ROOFTOP -- Diana THROWS HER LASSO around Ares' arm, yanking him forward -- 118AD CONTINUED: 118AD Diana throws her KNEE into Ares, knocking him UP -- and then throws her elbow, knocking him DOWN. Ares barely moves out of the way as Diana SMASHES her foot onto the roof, narrowly missing his head. Ares conjures a LARGE HAMMER, Diana dodging it as he swings. She wraps her lasso around him, tossing him over her head. CLOSE ON DIANA her rage growing. ANOTHER ANGLE Ares conjures a LARGE SWORD, stabbing the roof, stopping himself. Ares launches at Diana, grabbing her by the neck, lifting her into the air off the hangar.
+C: SIR PATRICK/ARES
+D: Is that all you have to offer me?
+S: EXT. AIRFIELD - CONTINUOUS ACTION
+N: Ares THROWS Diana across the airfield. She slams into TANKS and VEHICLES, springs back onto her feet. Ares uses his GROWING POWER to throw TANK TREADS at Diana. The tread wraps around Diana, slamming her to the ground! LIGHTNING CRACKLING across them as they TIGHTEN around her. Pinned, Diana is overwhelmed by a feeling of desperation.
+S: INT. HANGAR - DR. MARU'S LABORATORY - CONTINUOUS ACTION
+N: Charlie lights a trail of alcohol poured from his flask, leading to a STICK OF DYNAMITE. They run out --
+S: EXT. HANGAR - DR. MARU'S LABORATORY - CONTINUOUS ACTION
+N: Outside the lab, Charlie covers Sameer and Chief while they throw GRENADES in and -- THE LAB EXPLODES!
+S: INT. BOMBER PROTOTYPE - CONTINUOUS ACTION
+N: In the cockpit, Steve uses all his strength to fight the G-FORCE pulling against his body --
+S: EXT. HANGAR - DR. MARU'S LABORATORY - CONTINUOUS ACTION
+N: For a brief moment it's victorious, but DOZENS OF SOLDIERS come at the team from all directions! BULLETS whizzing by, the men take cover! The team returns fire!
+S: EXT. HANGAR - DR. MARU'S LABORATORY - CONTINUOUS ACTION
+N: Charlie fires and -- CLICK -- his face falls - he's out of ammo. They're all out. Trapped. They know it's over --
+S: EXT. AIRFIELD - CONTINUOUS ACTION
+N: Trapped by the treads, Diana turns, seeing the team on the ground, out in the open... Ares hovers over Diana, tightening the treads around her with the movement of his hand.
+C: SIR PATRICK/ARES
+D: It is futile, sister. But keep trying.
+N: Diana hears the sound of a plane and she looks up into the sky -- the plane soaring up into it...
+C: DIANA
+D: Steve...
+S: 124A INT. BOMBER PROTOTYPE - CONTINUOUS ACTION 124A
+N: Steve breathes, flying the plane high. He looks back at the burning factory, LAUGHS... soars higher into the air... then he looks back at the GAS BOMBS filling the plane. Steve pries his GUN from his holster, pointing it backwards towards the GAS BOMBS.
+S: 124B EXT. AIRFIELD - CONTINUOUS ACTION 124B
+N: Diana is suddenly overwhelmed by a feeling -- almost otherworldly -- a connection -- to Steve -- absolute dread on her face --
+S: 124C INT. BOMBER PROTOTYPE - CONTINUOUS ACTION 124C
+N: STEVE'S jaw is set, determined. He shuts his eyes... thinks of Diana... and then -- HE FIRES HIS GUN!
+S: 124D EXT. AIRFIELD - CONTINUOUS ACTION 124D
+C: DIANA
+D: Steve...
+N: -- and the BOMBER EXPLODES! Enveloped in a cloud of GLOWING GAS that burns itself up in the explosion. A HORRIBLE SCREAM, emanating from deep within Diana!
+C: DIANA
+D: NO!!!!
+N: CLOSE ON A LOW PROFILE OF DIANA struggling with the tank treads. She explodes with grief and anger -- freeing herself from Sir Patrick's hold. He stumbles back! IN A RAGE, Diana turns to Ares -- jumps into the air at Ares, slamming her foot down across him. Diana tackles him, leaps up -- they crash through a hangar, GERMAN SOLDIERS watching, scattering as Diana slides Ares across the ground. Ares punches Diana off him, motions towards a TANK -- it turns, FIRING at Diana! She rolls out of the way and catches the shell, throwing it back at the tank! As it explodes, German soldiers RUN -- until Ares sees them -- and using his growing power, takes them over. They all freeze in place. CLOSE ON A GERMAN SOLDIER THROUGH his GAS MASK we see his eyes turn black. ANOTHER ANGLE The soldiers AIM their guns at Diana, firing dozens and dozens of BULLETS -- she blocks them, charging towards Ares. As the soldiers move in all around her, blocking her way -- 124D CONTINUED: 124D CLOSE ON DIANA her eyes begin to DARKEN. She's lost in Steve's death, transformed into a VIOLENT MACHINE! In a brutal, stunning move, Diana attacks the soldiers in a fit of rage. She decimates the soldiers! One after the other! Tearing through them! She spins through the crowd, slamming into the soldiers -- building to a SUPER SPIN that blows them all back! Diana charges Ares, flipping over and around him, dodging his sword, kicking him, leaping away, landing, and throwing her LASSO around his leg. She wraps her lasso around her own leg, flipping him over her head, slamming him down onto the ground! Diana leaps into the air, smashing her elbow into his back. Breathing heavily, full of anger, Diana pulls Ares up, getting close enough to realize -- ARES IS SMILING. She's almost his.
+C: SIR PATRICK/ARES
+D: Yes, Diana. Don't stop...
+E: enjoying every second
+N: Diana pauses, breathing heavy like a wild animal. But resists. Ares blasts Diana back into a TANK. Trying to anger her into fighting.
+C: SIR PATRICK/ARES
+D: Do it... fight.
+N: Diana lifts up the tank!
+C: SIR PATRICK
+D: You came here with such hope and determination and look at you now. Mankind did this to you. Join me in the fight... and we can destroy them forever!
+N: But still Diana resists, the darkness in her eyes flickering, Ares sneers with disgust, he turns towards -- THE RUNWAY. -- using the winds to take hold of a MILITARY VEHICLE Maru is desperately trying to escape in. 124D CONTINUED: (2) 124D The vehicle SPIRALS towards Diana, spinning end-over-end and breaking apart. MARU tumbles out -- lying in front of Diana BENEATH THE UPHELD TANK.
+C: SIR PATRICK/ARES SIR PATRICK/ARES
+D: Look at her and tell me I'm WRONG. Take her. And then take them all...
+E: ALT
+N: Diana looks at Maru, the anger boiling in her. Maru cowers. Her METAL MASK FLAPPING OFF in the wind, grotesque and pathetic.
+C: SIR PATRICK/ARES
+D: She is the perfect example of these humans. And unworthy of your sympathy in every way.
+N: CLOSE ON DIANA her eyes BLACK as she struggles... she wants so badly to end Maru.
+C: SIR PATRICK/ARES
+D: Destroy her, Diana.
+N: Diana stands over the trembling, terrified woman -- about to crush her. But Diana hesitates...
+C: SIR PATRICK/ARES
+D: You know she deserves it, they all do!
+N: Diana snarls, her arms shaking with the weight of the tank over her head. Her anger threatening to overtake her. Ares uses his power on Diana's lasso, wraps it around her, holding it tight.
+C: SIR PATRICK/ARES
+D: See the truth for yourself!
+N: Maru looks up at Diana. Diana looks down at her...
+C: STEVE
+D: Diana...
+E: V.O. from far away
+N: She closes her eyes and in her mind... but it isn't the ugliness of mankind. 124D CONTINUED: (3) 124D
+S: FLASHBACK - EXT. AIRFIELD - NIGHT
+N: She sees STEVE. Their last moment together replaying, but this time she hears him --
+C: STEVE
+D: Diana! I have to go.
+C: DIANA
+D: What are you saying? Steve, whatever it is, I can do it. Let me do it --
+C: STEVE
+D: No. It has to be me. I can save today, you can save the world. I wish we had more time.
+E: beat
+C: DIANA
+D: What?
+N: He presses something into her hand. She looks at it, confused, then looks up to see him running away.
+C: STEVE
+D: I love you.
+N: Diana looks down in her hands at Steve's watch. END FLASHBACK.
+S: EXT. AIRFIELD - NIGHT
+N: A GOLDEN GLOW begins to emits from Diana, a warmth within her building. The lasso CRACKLES with power, building up a SURGE OF ENERGY that explodes, runs from Diana, running down the lasso and into Ares, blasting him backwards! Diana opens her eyes.
+C: DIANA
+D: You're wrong about them...
+N: Ares EXPLODES in a NASTY, SNARLING, VICIOUS rage! He raises his hand -- A MASSIVE STORM OF DEBRIS smashes down towards Diana and Maru! It strikes into the tank, but Diana doesn't move!
+C: SIR PATRICK/ARES
+D: NO!
+N: 124D CONTINUED: (4) 124D The debris combusts around Diana, unable to harm her! Diana HURLS what's left of the tank aside. As Diana turns to Ares, Maru runs away. She walks CALMLY towards Ares.
+C: DIANA
+D: They're everything you say, but so much more.
+C: SIR PATRICK/ARES
+D: LIES!
+N: Ares commands everything around him, bringing a MASSIVE SWIRLING STORM of DEBRIS AND WEAPONS TOGETHER -- he charges at her in a FURY! But she holds her ground, deflects the barrage and then -- absorbing the power -- sends Ares back! Ares falls back, his helmet blown off. Diana walks towards him. He stands, creating a MASSIVE LIGHTNING BOLT SPEAR.
+C: SIR PATRICK/ARES
+D: They do not deserve your protection.
+C: DIANA
+D: It's not about deserve...
+N: Diana stops, "catches" the massive lightning bolt in her gauntlets. The energy courses between them.
+C: DIANA
+D: It's about what you believe... and I believe in love --
+N: Ares CRACKLES WITH LIGHTNING, summoning EVERYTHING HE CAN from the STORM ABOVE!
+C: SIR PATRICK/ARES
+D: I WILL DESTROY YOU! THEN I WILL DESTROY THEM!
+N: Ares sends all of the lightning at Diana -- she raises her gauntlets "catching" it!
+C: DIANA
+D: Good-bye, brother.
+N: Diana runs towards Ares as he unleashes the very last of his power, erupting towards her. 124D CONTINUED: (5) 124D Diana LEAPS into the AIR over Ares' last blast. She crosses her bracelets midair. She sends the lightning BACK INTO Ares! Ares cries out as the lightning strikes him, overwhelming him! Ares EXPLODES! A HUGE ERUPTION of POWER creates a CRATER in the Earth! And the God of War is gone FOREVER. As the rain falls all around her, Diana's feet land softly onto the scorched earth below...
+S: 124E EXT. AIRFIELD - DAWN 124E
+N: The rain washes away the blackened smoke from the sky, DAWN breaking through the clouds. Diana looks around, the soldiers rousing, as if they were waking up from a nightmare, the better side of man returning. They pull their gas masks off. Dr. Maru has vanished. Diana gazes out over the battlefield, looking at the team, the Germans -- the last of the ASH swirling around her as the SUN RISES. The sunlight hits Diana's face... Diana looks at Steve's watch -- it's finally stopped ticking. SERIES OF SHOTS People all over Europe, explode in cheers. For them, the war is over.
+S: EXT. TRAFALGAR SQUARE - DAY
+N: Wonderful chaos in Trafalgar Square! CONFETTI, STREAMERS, FLAGS, people embracing with JOY. HORNS and BRASS BANDS. CHEERING SOLDIERS with CROWNS OF FLOWERS in their hair GRAB pretty NURSES for a kiss. DRUMS THUNDER BY. Diana and Etta walk towards the massive, wondrous celebration. Diana is dressed as Diana Prince, hair up, glasses on. Etta is dressed up, like everybody else partying in the streets. They take in the joy.
+C: ETTA
+D: You saved everyone.
+C: DIANA
+D: Steve did that.
+E: correcting her
+N: Charlie, Sameer, and The Chief, cleaned and scrubbed and wearing suits, join Diana and Etta.
+C: CHARLIE
+D: Did Etta tell you? That General whats-his-name, you know --
+E: to Diana; excited
+C: ETTA
+D: Haig.
+C: CHARLIE
+D: He only went and made us all spies! Oops. We're off to Petrograd! Oops.
+C: ETTA
+D: There's a revolution going on. Even Chief's coming. You should, too.
+C: DIANA
+D: I don't think so.
+E: touched
+N: Etta stops in front of a recently erected wall of WAR MEMORIAL PHOTOGRAPHS. Steve looks dashing, happy, and very much alive. Diana's already fighting tears.
+C: SAMEER
+D: Behind all beauty, all wisdom, there is pain. You must take your pain and make it beautiful.
+C: DIANA
+D: Where did you read that?
+C: SAMEER
+D: I didn't. You taught us that.
+E: beat
+N: She forces a smile.
+C: DIANA
+D: I used to want to save the world.
+E: V.O.
+S: INT. LOUVRE MUSEUM - DIANA'S OFFICE - AS BEFORE (PRESENT
+N: DAY) THE PHOTOGRAPH: Diana, in WONDER WOMAN ARMOR, and her TEAM.
+C: DIANA
+D: To end war and bring peace to mankind.
+E: V.O.
+N: She contemplates the faces of friends long dead, her eyes linger on STEVE TREVOR.
+C: DIANA
+D: But now I've touched the darkness that lives in between the light. Seen the terrible things men do to each other in the name of hatred... and the lengths they'll go to for love. And now I know that only love can truly save the world. So I stay and I fight and I give for the love I know can be. This is my mission now. Forever.
+E: V.O. beat beat
+N: Diana takes Steve's watch from her pocket, turns it over in her hand twice, feels its smoothness. The watch has stopped -- and has been stopped since the moment Steve died. She places the watch beside the photograph. AT HER COMPUTER: Diana is typing an e-mail, BRUCE WAYNE's name the recipient: "Thanks for bringing him back to me." Just as Diana presses SEND, a news alert pops up on her screen. A fire has broken out in a downtown building, people trapped.
+T: SMASH CUT TO:
+S: EXT. ROOFTOP - DAY
+N: Diana in her WONDER WOMAN ARMOR stands atop a building, smiles -- Then she leaps right AT us, into action!
+T: SMASH CUT TO BLACK. FADE IN:
+S: EXT. THEMYSCIRA - NIGHT
+N: POST-CREDITS SCENE. [NOTE: This is a POST-CREDITS SCENE, leading to JUSTICE LEAGUE.] On the SAME CLIFF where Diana saw Steve's plane, HIPPOLYTA stands on the shore, looking out over the ocean, thinking about her daughter. A beat. Then Hippolyta turns -- as if she hears something -- just as VENELIA rides up to her. Venelia dismounts.
+C: VENELIA
+D: My Queen --
+C: HIPPOLYTA
+D: I know. The Mother Box... it has awoken. Alert everyone.
+S: INT. PENETRALIUM - NIGHT
+N: In the center of the PENETRALIUM -- PUSH IN ON: THE MOTHER BOX... IT GLOWS.
+C: HIPPOLYTA
+D: Something terrible is coming. SMASH CUT TO BLACK.
+E: V.O.
+N: THE END

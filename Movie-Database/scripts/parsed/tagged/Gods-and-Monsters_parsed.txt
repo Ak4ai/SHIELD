@@ -1,0 +1,2755 @@
+M: "GODS AND MONSTERS"
+M: Screenplay
+M: by
+M: Bill Condon
+M: Based on the novel
+M: "Father of Frankenstein"
+M: by
+M: Christopher Bram
+M: May 30, 1997
+M: SHOOTING DRAFT
+N: NOTE: THE HARD COPY OF THIS SCRIPT CONTAINED SCENE NUMBERS AND SOME "SCENE OMITTED" SLUGS. THEY HAVE BEEN REMOVED FOR THIS SOFT COPY.
+T: FADE IN:
+N: MAIN TITLES BEGIN Writhing pools of light and dark, out of which emerge images from "The Bride of Frankenstein," directed by James Whale. Elsa Lanchester, as the Monster's Bride, looks up, down, left, right, startled to be alive. The Monster stares at her. "Friend?" he asks, tenderly, desperately.
+S: EXT. COUNTRYSIDE - NIGHT (B & W)
+N: Lightning splits the black-and-white sky, revealing a single shattered oak in a desolate landscape. Below, a HUMAN SILHOUETTE stumbles through the darkness, the top of his head flat, his arms long and heavy, his boots weighted with mud. Suddenly the storm fades. Light creeps into the scene, and
+T: color, as we DISSOLVE TO:
+N: THE PACIFIC OCEAN melting into a hazy morning sky. In a box canyon off the coast highway, we see row after neat row of trailer homes, a makeshift village for beach bums.
+S: INT. TRAILER - DAY
+N: CLAYTON BOONE opens his eyes. He is 26, handsome in a rough-hewn, Chet Baker-like way, with broad shoulders and a flattop haircut. He grabs a crumpled pack of Lucky Strikes, lights a bent cigarette. Clay stands and walks bare-assed across the single tin room, his head almost touching the ceiling.
+S: EXT. TRAILER PARK - DAY
+N: Clay goes a few rounds with a weatherstained speed bag that's set up behind his trailer.
+S: INT. TRAILER - DAY
+N: Clay towels off, glances at the morning paper. He moves aside a pile of paperbacks on a card table until he finds a calendar. His finger targets today's first appointment. "10 A.M. - 788 Amalfi Drive."
+S: EXT. TRAILER PARK - DAY
+N: Clay steps out of the trailer, clean-shaven and dressed in dungarees, a T-shirt with a fresh pack of cigarettes flipped into one sleeve. He weight-lifts a secondhand mower onto the bed of his rusty pick-up. Clay climbs into the truck, slides the key into the ignition. It takes a few tries but the engine finally turns over.
+S: EXT. PACIFIC COAST HIGHWAY - DAY
+N: Clay's truck sails down the road, "Hound Dog" blaring on the radio. MAIN TITLES END.
+S: EXT. COLONIAL-STYLE HOUSE - DAY
+N: Sprinklers twirl on a grassy slope outside a rambling clapboard house. Below, a swimming pool forms a perfect rectangle of still water. A title reads: SANTA MONICA CANYON. 1957. The pick-up drives past. Clay parks in the back, hops out. ANGLE - HOUSE A SHADOWY FIGURE stands at a window, watching Clay unload his red power mower.
+S: INT. HOUSE - LIVING ROOM - DAY
+N: The shadow is a man with dove white hair, wearing a dress shirt and seersucker jacket. This is JAMES WHALE, age 67.
+C: DAVID
+D: I'd have more peace of mind if the live-in nurse were still here.
+C: HANNA
+D: She was nothing but bother. I not like her, Mr. Jimmy not like her. We do better if you live-in again, Mr. David.
+N: In the dining room, visible through open double doors, DAVID LEWIS, 55, speaks softly with the housekeeper, HANNA. She is a squat, muffin-faced Hungarian woman in her late 50s, dressed in black, her hair cinched in a tight bun. She speaks with a thick accent.
+C: DAVID
+D: You'll contact me if there's an emergency?
+C: HANNA
+D: Yes, I call you at this number. Mr. Jimmy? More coffee?
+E: calls out
+C: WHALE
+D: What? Oh yes. Why not?
+N: He moves into the dining room, sits opposite David.
+C: WHALE
+D: Isn't Hanna a peach?
+N: Hanna ignores him, returns to the kitchen.
+C: DAVID
+D: She tells me you haven't been sleeping well.
+C: WHALE
+D: It's the ridiculous pills they prescribe. If I take them, I spend the next day stupid as a stone. If I don't, my mind seems to go off in a hundred directions at once --
+C: DAVID
+D: Then take the pills.
+C: WHALE
+D: I wanted to be alert for your visit today. Especially since I saw so little of you in the hospital.
+N: The remark hits its target.
+C: DAVID
+D: I'm sorry, Jimmy. But with this movie and two difficult stars --
+C: WHALE
+D: "The fault, dear David, is not in ourselves but in our stars."
+C: DAVID
+D: You remember how a production eats up one's life.
+E: too anxious to laugh
+C: WHALE
+D: Oh, David. There's no pleasure in making you feel guilty. You better go, my boy. You'll be late for that aeroplane.
+E: stands
+N: David extends his hand, but Whale draws him into a hug. As he starts out, David points to a framed painting.
+C: DAVID
+D: By the way, I like the Renoir.
+C: WHALE
+D: Thank you.
+C: DAVID
+D: Goodbye, Hanna.
+E: calls out
+N: Hanna runs out of the kitchen to escort David to the door. Whale drifts back to the window, watches as Clay revs up the lawnmower, creating a cloud of white smoke. We CUT TO:
+S: EXT. STREETS OF DUDLEY - DAY (1900)
+N: A bean-pole child with flaming red hair (WHALE at age 12) stares up at the coal smoke pouring from a seemingly endless row of chimneys. We're in Dudley, a factory town in the English Midlands region known as the Black Country.
+C: SARAH WHALE
+D: Stop lagging behind, Jimmy. We'll be late for church.
+E: O.S.
+C: YOUNG WHALE
+D: Yes, Mum.
+N: Whale runs to catch up to his six brothers and sisters. His father, WILLIAM WHALE, frowns at the boy's prissy trot.
+C: WILLIAM WHALE
+D: Straighten up, son.
+N: Young Whale's movements thicken into a dim imitation of manly reserve. The Whale family marches up a steeply mounting street to Dixon's Green Methodist Church.
+S: INT. WHALE'S HOUSE - LIVING ROOM - DAY
+N: Whale's eyes tighten. He focuses on Clay Boone as he peels off his T-shirt, revealing a tattoo on his upper right forearm.
+C: WHALE
+D: Hanna? Who's the new yardman?
+C: HANNA
+D: Bone? Boom? Something Bee. I hire him while you were in the hospital. He came cheap.
+N: Whale nods, chooses a walking stick. He emerges into the sunlight.
+S: EXT. WHALE'S HOUSE - DAY
+N: Whale moves jauntily onto the front lawn, singing to himself:
+C: WHALE
+D: The bells of hell go ting-a-ling For you but not for me. Oh death where is thy sting-a-ling? Grave where thy victory?
+N: Whale steps up next to Clay.
+C: WHALE
+D: Good morning.
+C: CLAY
+D: Mornin'.
+E: not looking up
+C: WHALE
+D: My name is Whale. This is my house.
+C: CLAY
+D: Nice place.
+C: WHALE
+D: And your name is --?
+C: CLAY
+D: Boone. Clayton Boone.
+C: WHALE
+D: I couldn't help but notice your tattoo. That phrase? Death Before Dishonor. What does it mean?
+C: CLAY
+D: Just that I was in the Marines.
+C: WHALE
+D: The Marines. Good for you. You must have served in Korea.
+N: Clay shrugs nonchalantly.
+C: WHALE
+D: Getting to be a warm day. A scorcher, as you Yanks call it.
+C: CLAY
+D: Yeah. I better get on with my work.
+N: Whale clears his throat behind the back of his hand.
+C: WHALE
+D: When you're through, Mr. Boone, feel free to make use of the pool. We're quite informal here. You don't have to worry about a suit.
+N: Clay glances warily at Whale.
+C: CLAY
+D: No thanks. I got another job to get to this afternoon.
+N: Whale holds Clay's look.
+C: WHALE
+D: Some other time, perhaps? Keep up the fine work.
+N: Whale heads off, smiling to himself. Pleased to be naughty again.
+S: INT. WHALE'S HOUSE - STUDIO - DAY
+N: The room is filled with unframed canvasses, many of them copies of paintings by the Old Masters. Whale rolls out the easel, lifts a half-painted canvas into position. He stares at the blotches of color, trying to remember what he intended to paint. Whale pulls out a heavy volume on Rembrandt, opens to a black-and-white plate of "The Polish Rider." We CUT TO:
+S: INT. WHALE HOUSE - DUDLEY - NIGHT (1908)
+N: A rough pencil outline of the same painting. Whale, age 16, sits on his bed, ignoring the roughhousing of the three younger BROTHERS who share the room. The door opens and Whale's mother SARAH enters.
+C: SARAH WHALE
+D: Jimmy. The privy needs cleaning.
+C: WHALE
+D: I have my class tonight.
+N: Both have Midlands accents, like head colds that flatten their speech. Whale holds up the sketch to show his mother.
+C: SARAH WHALE
+D: Don't get above yarself, Jimmy. Leave the drawring to the artists.
+N: Whale squeezes the pad behind the bed, jumps up.
+C: WHALE
+D: Quite so, mum. To the privy.
+N: And he heads cheerfully out of the room. His mother shakes her head.
+C: SARAH WHALE
+D: "Quite so." Jimmy Whale. Who are ya to put on airs?
+E: calls out
+N: But Whale is already out the door. We CUT TO:
+S: INT. WHALE'S HOUSE - BEDROOM - DAY
+N: Whale studies his face in the mirror. He gives his white hair a few final licks with his silver-backed brush.
+S: INT. WHALE'S HOUSE - KITCHEN - DAY
+N: Whale comes in from the bedroom.
+C: WHALE
+D: There is iced tea, Hanna? Cucumber sandwiches?
+C: HANNA
+D: Yes, Mr. Jimmy. An interview. After so many years. Very exciting.
+E: smiles
+C: WHALE
+D: Don't be daft. It's just a student from the university.
+N: The doorbell rings.
+S: INT. WHALE'S HOUSE - LIVING ROOM - DAY
+N: Whale settles into his club chair and opens a book, pretending to read until Hanna ushers in the visitor.
+C: HANNA
+D: Mr. Kay, sir.
+C: WHALE
+D: Yes?
+E: feigning surprise
+N: Whale looks up at EDMUND KAY, 22, a slim boy who rests his weight on one slouched hip, his arms twined behind him. There is a look of mild disappointment on Whale's face as he realizes that Kay is a baby poof.
+C: WHALE
+D: Ah, Mr. Kay. I'd almost forgotten. My guest for tea.
+N: Whale stands and holds out his hand.
+C: KAY
+D: Mr. Whale, this is such an honor. You're one of my favorite all-time directors. I can't believe I'm meeting you.
+C: WHALE
+D: No. I expect you can't.
+E: gently, teasing
+C: KAY
+D: And this is your house. Wow. The house of Frankenstein. I thought you'd live in a spooky old mansion or villa.
+E: looks around
+C: WHALE
+D: One likes to live simply.
+C: KAY
+D: I know. People's movies aren't their lives.
+N: He suddenly growls out an imitation of Boris Karloff.
+C: KAY
+D: Love dead. Hate living.
+N: Kay laughs, a high, girlish giggle. Whale fights a cringe with a polite smile.
+C: KAY
+D: That's my favorite line in my favorite movie of yours. "Bride of Frankenstein."
+C: WHALE
+D: Is it now? Hanna? I think we'll take our tea down by the swimming pool.
+N: It's clear from Hanna's frown that she doesn't approve of the idea. Whale ignores her, turns back to Kay.
+C: WHALE
+D: Will that be good for you, Mr. Kay?
+C: KAY
+D: Sure.
+C: WHALE
+D: After you then.
+E: opens the back door
+N: Whale inspects the boy from behind, noticing his wide hips and plumpish posterior.
+S: EXT. WHALE'S HOUSE - BACKYARD - DAY
+N: Kay's hands flap animatedly as Whale leads him down to the pool.
+C: KAY
+D: I love the great horror films. And yours are the best. "The Old Dark House." "The Invisible Man." They look great and have style. And funny!
+N: Whale points to a small shingled house near the pool.
+C: WHALE
+D: This is the studio where I paint.
+C: KAY
+D: Nice. And your lighting and camera angles. You're got to go back to German silent movies to find anything like it.
+E: refusing to be sidetracked
+S: EXT. WHALE'S HOUSE - UPPER PATIO - DAY
+N: Clay Boone gulps some water from the garden hose. He glances down at the pool, where Kay and Whale sit in cast-iron chairs.
+C: HANNA
+D: Time for you to leave.
+N: Clay turns to Hanna, who holds a tray loaded with finger sandwiches and a pitcher of iced tea.
+C: CLAY
+D: I'm on my way.
+N: She doesn't move until Clay starts off.
+S: EXT. WHALE'S HOUSE - POOLSIDE - DAY
+N: Kay flips open his steno pad.
+C: WHALE
+D: So, Mr. Kay? What do you want to know?
+C: KAY
+D: Everything. Start at the beginning.
+C: WHALE
+D: I was born outside London, the only son of a minister who was a master at Harrow. Grandfather was a bishop. Church of...Church of Eng...
+N: Whale's tongue trips on the word, his voice suddenly drowned out by the blast of a factory whistle. We CUT TO:
+S: INT. FACTORY SHOP FLOOR - DUDLEY - DAY (1908)
+N: Fiery melt is poured into molds on the shop floor of a machine parts factory. WHALE, 16, grips the hot casting with tongs. His father WILLIAM, his face blackened with grime, hammers away at the flaws. A heavy blow causes young Whale to drop the mold, prompting catcalls and sneers on the floor. There is a look of genuine fear in Whale's eyes as he looks up at his singed, beast-like father. We CUT TO:
+S: EXT. WHALE'S HOUSE - BACKYARD - DAY
+N: Kay clears his throat softly.
+C: KAY
+D: Mr. Whale?
+N: Whale smiles politely to cover his momentary disorientation.
+C: WHALE
+D: Yes?
+C: KAY
+D: Your father was a schoolmaster?
+C: WHALE
+D: Of course. I attended Eton -- it wouldn't do for a master's son to attend where his father taught. I was to go up to Oxford but the war broke out and I never made it. The Great War, you know. You had a Good War, but we had a great one.
+N: He glances to see if the boy smiles at the quip.
+C: WHALE
+D: You can't imagine what life was like after the Armistice. The twenties in London were one long bank holiday, a break from everything dour and respectable. I had a knack with pencil and paper, so I was hired to design sets for stage productions.
+N: Hanna comes down the path with the tray. She places it on the table.
+C: WHALE
+D: Thank you, Hanna. Very nice.
+N: Hanna remains planted next to the table.
+C: WHALE
+D: You can go now.
+N: She makes an audible sigh and starts back up the hill.
+C: WHALE
+D: There was one play in particular, a beautiful, grim study of war called "Journey's End". Every experienced director turned it down, so I offered myself, bullying and begging for the job. "Journey's End" made the careers of everyone associated with it. It was only a matter of time until Hollywood beckoned.
+C: KAY
+D: How much longer before we get to "Frankenstein"?
+C: WHALE
+D: Am I correct in assuming, Mr. Kay, that it's not me you're interested in, only my horror pictures?
+C: KAY
+D: Oh no, I want to hear everything. You made twenty pictures in all --
+C: WHALE
+D: Twenty-one. The romantic comedies and dramas were much more to my liking. The horror pictures were trifles. Grand guignol for the masses.
+C: KAY
+D: But it's the horror movies you'll be remembered for.
+N: An abrupt look of anger flashes across Whale's face.
+C: WHALE
+D: I am not dead yet, Mr. Kay.
+C: KAY
+D: No. I never said you were. Or will be soon.
+N: Kay leans over the steno pad, determined to be more worthy.
+C: KAY
+D: So. "Journey's End" brought you to Hollywood --
+N: Whale takes in the boy's blank, bored expression. He sighs.
+C: WHALE
+D: I have a proposal, Mr. Kay. This mode of questioning is getting old, don't you think?
+C: KAY
+D: I don't mind.
+C: WHALE
+D: Let's make it more interesting. I will answer any question you ask. But, for each answer, you must remove one article of clothing.
+N: Kay's mouth pops open.
+C: KAY
+D: That's funny, Mr. Whale.
+C: WHALE
+D: It is, isn't it? My life as a game of strip poker. Shall we play?
+C: KAY
+D: You're serious.
+C: WHALE
+D: Quite.
+C: KAY
+D: Then the rumors are true?
+C: WHALE
+D: What rumors might those be?
+C: KAY
+D: That you were forced to retire because, uh -- a sex scandal.
+C: WHALE
+D: A homosexual scandal, you mean? For me to answer a question of that magnitude, you'll have to remove both your shoes and your socks.
+N: Kay just sits there, squinting and grinning.
+C: KAY
+D: You're a dirty old man.
+N: Whale tilts his head as if brushing off a compliment. Kay kicks off his penny loafers, bends over to remove his socks.
+C: WHALE
+D: You are kind to indulge your elders in their vices. As I indulge the young in theirs.
+N: Two pale feet emerge. Whale leans forward to examine them. He leans back again.
+C: WHALE
+D: No. There was no scandal.
+N: And he reaches into his coat for a cigar. Whale's hand trembles as he slices a hole at the base, then lights the cigar with a wooden match, sucking and rotating until the tip is roundly lit.
+C: WHALE
+D: My only other vice. I suppose you'd like a fuller answer to your question.
+N: Kay nods.
+C: WHALE
+D: It will cost you your sweater.
+N: Kay hesitates a moment, then sets his pen aside to pull the sweater over his head, revealing a sleeveless T-shirt.
+C: KAY
+D: Too warm for a sweater, anyway.
+C: WHALE
+D: You must understand how Hollywood was twenty years ago. Nobody cared a tinker's cuss who slept with whom, so long as you kept it out of the papers. Outside of Hollywood, who knows who George Cukor is, much less what he does with those boys from the malt shops along Santa Monica?
+N: Kay stares at him in disbelief.
+C: KAY
+D: George Cukor? Who made "A Star Is Born"? I never guessed.
+C: WHALE
+D: Take off your vest and I'll tell you a story.
+N: Kay plucks at his T-shirt, glancing toward the house.
+C: WHALE
+D: Don't be shy. There's time to stop before you go too far.
+C: KAY
+D: I guess.
+N: Kay peels off the shirt and tosses it on his shoes and sweater.
+C: WHALE
+D: George is famous for his Saturday dinner parties. Great artists, writers, society folk, all rubbing elbows with Hollywood royalty. But how many of those oh-so-proper people know about the Sunday brunches that follow? Gatherings of trade eating leftovers, followed by some strenuous fun and frolic in the pool. If a goat like that can continue about his business, my more domestic arrangements could've raised very few eyebrows.
+E: flicks an ash
+N: The revelation seems to have left Kay a little shaken. he flips to a blank page.
+C: KAY
+D: Can we talk about the horror movies now?
+C: WHALE
+D: Certainly, Mr. Kay. Is there anything in particular you want to know?
+C: KAY
+D: Will you tell me everything you remember about making "Frankenstein"?
+N: He glances down at his few remaining articles of clothing.
+C: KAY
+D: Can that count as one question?
+C: WHALE
+D: Of course.
+C: KAY
+D: I can't believe I'm doing this.
+N: Kay stands to unbuckle his belt, glancing around the yard again. He unzips and steps out of his sharply creased flannel legs. His thighs are thin and pale.
+C: KAY
+D: Just like going swimming, isn't it?
+C: WHALE
+D: Maybe you'd like a swim when we're through. I never swim myself, so the pool tends to go to waste.
+C: KAY
+D: Okay. "Frankenstein." Tell me everything.
+C: WHALE
+D: Righto. Let me see.
+N: Whale swallows a wince, trying to block the pain pushing against his skull.
+C: WHALE
+D: Universal wanted me for another story, and wanted me so baldly -- I mean badly, not baldly. I was given the pick of stories being developed, and I picked that one.
+C: KAY
+D: Who came up with the Monster's makeup and look?
+C: WHALE
+D: My idea. Muchly. My sketches. Big heavy brow. Head flat on top so they could take out the old brain and put in the new, like tinned beef.
+C: KAY
+D: He's one of the great images of the twentieth century. As important as the Mona Lisa.
+C: WHALE
+D: You think so? That's very kind --
+N: Whale clutches at the air, suddenly notices that his hand is empty. He looks down and sees the cigar on the flagstones.
+C: KAY
+D: Boris Karloff. Where did you find him?
+N: Whale bends down to retrieve his cigar -- and the change of gravity drives a spike through his skull.
+C: KAY
+D: Karloff, Mr. Whale. How did you cast him?
+N: Whale turns toward the froggy voice.
+C: WHALE
+D: Please. Excuse me. I must go lie --
+N: He forces himself up with one hand. Kay finally looks up, notices Whale's colorless lips and desperate eyes.
+C: KAY
+D: Mr. Whale? Are you all right?
+C: WHALE
+D: I just need to -- lie down. Studio. Daybed in studio.
+N: Whale lurches from the table. Kay jumps forward, catching him under an arm.
+C: KAY
+D: Oh my God. What's wrong, Mr. Whale? Is it your heart?
+C: WHALE
+D: Head. Not heart.
+N: He leans against Kay, who leads him toward the studio.
+C: WHALE
+D: Forgive me.
+S: EXT. WHALE'S HOUSE - DAY
+N: Hanna runs down the path, clutching the front of her apron in two tight fists.
+S: INT. WHALE'S HOUSE - STUDIO - DAY
+N: Hanna swings open the screen door -- and grimaces when she sees Kay in his BVDs. He is kneeling next to Whale, who is stretched out on the daybed.
+C: HANNA
+D: Water. Glasses at the sink.
+N: She goes to Whale, scooping different bottles from the pocket of her apron.
+C: HANNA
+D: Which ones? I bring them all.
+C: WHALE
+D: Luminal.
+N: She empties a pill into her palm. Whale places it into his mouth and takes the glass of Water Kay passes over Hanna's shoulder. Whale swallows the pill, then glances up at Kay, feigning surprise.
+C: WHALE
+D: Mr. Kay. You're not dressed.
+N: Kay frantically crosses his arms over his chest and middle, turns to Hanna.
+C: KAY
+D: I was going to take a swim.
+C: WHALE
+D: I'm sorry I spoiled it for you. You should probably go home.
+C: KAY
+D: Right.
+N: Kay hurries outside to retrieve his clothes. Hanna undoes Whale's bow tie. She makes no attempt to be gentle.
+C: WHALE
+D: You must think I'm terrible, Hanna.
+C: HANNA
+D: I do not think you anything anymore. Just back from the hospital and already you are chasing after boys.
+C: WHALE
+D: Oh shut up. All we did was talk. My attack had nothing to do with him.
+C: HANNA
+D: Perhaps we should get you uphill before the pills knock you cold.
+C: WHALE
+D: No. Let me lie here. Thank you.
+N: Hanna nods, moves to the door. Whale closes his eyes, breathes deeply, trying to block the throbbing SOUND in his
+T: brain. We CUT TO:
+S: INT. FACTORY SHOP FLOOR - DUDLEY - DAY (1908)
+N: The noise is deafening -- the clank of chains, the screech of wheels and the endless banging of hammers. William Whale continues to knock away at the hot casting. The rhythmic sound blends into the insistent knocking of: A FIST which smashes against sheet metal.
+S: INT. CLAY'S TRAILER - DAY
+N: Clay Boone's eyes dart open.
+C: DWIGHT
+D: Boone! You awake? Eight o'clock.
+E: O.S.
+C: CLAY
+D: Fuck off!
+C: DWIGHT
+D: You told me to get you up, asshole.
+E: O.S.
+N: A baseball-capped head is visible through the louvered glass in the trailer's door. DWIGHT JOAD, 30, Clay's neighbor, squints to see inside.
+C: CLAY
+D: I'm up. Thanks.
+C: DWIGHT
+D: Hasta la vista, Boone. And give the jail bait a squeeze for me.
+N: Clay glances over, seems surprised to see a naked back facing him on the bare mattress.
+C: CLAY
+D: Hey, um...Rose --
+N: The girl stirs, turns to face him. She is 18 at most.
+C: DAISY
+D: Daisy.
+C: CLAY
+D: Huh?
+C: DAISY
+D: My name is Daisy.
+C: CLAY
+D: Time to go, Daisy.
+N: She presses her naked body against Clay's.
+C: DAISY
+D: You know. I could help you fix up this place real nice.
+N: Clay takes a deep breath, trying to clear the gumminess from his brain.
+C: CLAY
+D: Don't you have to be somewhere? Like high school maybe.
+C: DAISY
+D: I gave it up for Lent.
+N: Daisy smiles at her own joke. Clay frowns.
+C: CLAY
+D: Right. Time to hit the road, kid.
+E: jumps up from the bed
+S: INT. WHALE'S HOUSE - STUDIO - DAY
+N: Whale ponders the half-painted canvas, clearly distressed by his lack of progress. The stillness is punctured by the sound of Clay's lawnmower being dragged up the brick steps. Whale smiles, puts down his brush.
+S: EXT. WHALE'S HOUSE - BACKYARD - DAY
+N: Clay stops, turns around, feeling someone's eyes watching him.
+C: WHALE
+D: The bells of hell go ting-a-ling...
+E: O.S. singing
+N: The mower slips out of Clay's hands momentarily. he looks around, spots Whale inside the studio.
+C: WHALE
+D: Everything alright, Mr. Boone?
+C: CLAY
+D: Just got away from me. Sorry to disturb you.
+N: The screen door squeaks open, clatters shut. A leather slipper and rubber-tipped cane appear. Whale strolls into view, smiling.
+C: WHALE
+D: I was just about to ask Hanna to bring down iced tea. I'd like it very much if you'd join me.
+C: CLAY
+D: I stink to high heaven right now.
+C: WHALE
+D: The honest sweat of one's brow. I assure you I won't be offended. Let me tell Hanna to bring tea for two.
+N: Whale's cane trembles in his skeletal hand. His frailty chips away at Clay's resolve.
+C: WHALE
+D: Or would you prefer a beer?
+C: CLAY
+D: No. Iced tea's fine.
+C: WHALE
+D: Splendid.
+N: Clay hoses the crumbs of grass off his arms. He dries his hands and arms with his hat, then wads it up and stuffs it into his shirt to wipe out his armpits.
+S: INT. WHALE'S HOUSE - STUDIO - DAY
+N: Clay stands at the screen door.
+C: WHALE
+D: Come in, Mr. Boone.
+N: Whale sits on a daybed, next to a pile of newspapers. He gestures at a wooden armchair across from him.
+C: WHALE
+D: My workshop, my studio. Hardly somewhere in which a sweaty workman should feel out of place.
+N: Clay glances at the unframed canvases on the wall and stacked in the corners.
+C: CLAY
+D: These are your paintings?
+C: WHALE
+D: What? Oh yes.
+C: CLAY
+D: Excuse me, but -- are you famous?
+C: WHALE
+D: You know what they say. If you have to ask --
+C: CLAY
+D: I'm just a hick who cuts lawns. But some of these look familiar.
+C: WHALE
+D: They were familiar when I painted them. That one's copied from a Dutch still life done almost three hundred years ago. And that's a Rembrandt.
+C: CLAY
+D: They're just copies then. Gotcha.
+C: WHALE
+D: But before I retired, you might say I had a brief time in the sun. Fame, as it were. Tell me, do you like motion pictures?
+C: CLAY
+D: Sure, everybody does. When I was a kid I'd go with my sister twice a week. Why? Were you an actor or something?
+C: WHALE
+D: In my youth, yes, but never in Hollywood. No, I was merely a director here.
+C: CLAY
+D: Yeah? What were some of your movies?
+C: WHALE
+D: This and that. The only ones you maybe have heard of are the "Frankenstein" pictures.
+C: CLAY
+D: Really?
+N: Clay sits up, surprised, skeptical and impressed all at once.
+C: CLAY
+D: "Frankenstein" and "Bride of" and "Son of" and all the rest?
+C: WHALE
+D: I made only the first two. The others were done by hacks.
+C: CLAY
+D: Still. You must be rich. Making a couple of famous movies like those.
+C: WHALE
+D: Merely comfortable. Here's Hanna with our refreshments. Can you get the door?
+N: Clay jumps up to open the screen door. Hanna walks past, refusing to look at him. She sets the tray on a table very hard, ringing the glasses and silverware.
+C: HANNA
+D: How are you feeling, Mr. Jimmy? How is your mind today?
+C: WHALE
+D: My mind's lovely. And yours?
+N: Hanna flares her nostrils at him.
+C: HANNA
+D: You remember what the doctor tells us.
+C: WHALE
+D: Yes, yes, yes. I merely invited Mr. Boone in for a glass of tea. We'll have a brief chat and he'll finish the yard.
+C: HANNA
+D: I am not forgetting your last brief chat.
+C: WHALE
+D: Just go. We can manage without you.
+N: Hanna stares up at Clay.
+C: HANNA
+D: He looks plenty big. You won't need my help if anything goes flooey.
+C: WHALE
+D: Go.
+N: She shakes her head and marches out the door. Clay returns to his chair and sits down again.
+C: WHALE
+D: When they stay in your employ too long, servants begin to think they're married to you. Please, Mr. Boone. Help yourself.
+E: smiles at Clay
+C: CLAY
+D: What did she mean by going flooey?
+C: WHALE
+D: I returned recently from a stay in hospital.
+C: CLAY
+D: What was wrong?
+C: WHALE
+D: Nothing serious. A touch of stroke.
+N: Clay nods, chugs his tea. When he lowers the glass, he finds the old man watching him.
+C: WHALE
+D: You must excuse me for staring, Mr. Boone. But you have a marvelous head.
+C: CLAY
+D: Huh?
+C: WHALE
+D: To an artistic eye, you understand. Have you ever modeled?
+C: CLAY
+D: You mean, like posed for pictures?
+C: WHALE
+D: Sat for an artist. Been sketched.
+C: CLAY
+D: What's to sketch?
+E: with a laugh
+C: WHALE
+D: You have the most architectural skull. And your nose. Very expressive.
+C: CLAY
+D: Broke is more like it.
+C: WHALE
+D: But expressively broken. How did it happen?
+C: CLAY
+D: Football in college.
+C: WHALE
+D: You went to university?
+C: CLAY
+D: Just a year. I dropped out to join the Marines.
+C: WHALE
+D: Yes. You were a Marine.
+N: Whale's gaze deepens. He laughs lightly.
+C: WHALE
+D: I apologize for going on like this. It's the Sunday painter in me. Of course I can understand your refusal. It's a great deal to ask of someone.
+C: CLAY
+D: You mean -- you really want to draw me?
+C: WHALE
+D: Indeed. I'd pay for the privilege of drawing your head.
+C: CLAY
+D: But why?
+C: WHALE
+D: Even an amateur artist needs a subject to inspire him.
+C: CLAY
+D: And it's just my head you want? Nothing else?
+C: WHALE
+D: What are you suggesting? You'll charge extra if I include a hand or a bit of shoulder.
+C: CLAY
+D: You don't want to draw pictures of me in my birthday suit, right?
+C: WHALE
+D: I have no interest in your body, Mr. Boone. I can assure you of that.
+N: Clay takes a moment to size up Whale -- whose innocent, slightly befuddled smile makes him appear about as threatening as a box of cornflakes.
+C: CLAY
+D: All right then. Sure. I could use the extra dough.
+C: WHALE
+D: Excellent. We'll have a most interesting time.
+N: Whale lifts his glass, takes a small sip of tea.
+S: EXT. WHALE'S HOUSE - DAY
+N: Clay fetches a pair of hedge clippers from his truck. He can't help stopping by the side-view mirror to look at his face.
+S: INT. EXAMINATION ROOM - DAY
+N: Doctors and technicians flash lights into Whale's eyes... test his reflexes...inject him with radioactive isotope. Whale sits very still with his head behind a fluoroscope screen while two doctors murmur over the image.
+S: INT. DOCTOR'S OFFICE - DAY
+N: A pair of X rays are slapped wet on a light board. Two skulls, one facing forward, the other in profile. DR. PAYNE, a bland young neurologist, points to a smudge in the side-view X ray.
+C: DR. PAYNE
+D: This is the area of infarction. By which we mean the portion of brain affected by the stroke.
+N: The venetian blinds of the examining room are closed. Whale sits calmly, flanneled legs crossed at the knees, gazing at his own skull.
+C: DR. PAYNE
+D: You're a lucky man, Mr. Whale. Whatever damage was done by your stroke, it left your motor abilities relatively unimpaired.
+C: WHALE
+D: Yes, yes, Dr. Payne. But from the neck up? What's my story there?
+C: DR. PAYNE
+D: That's what I'm trying to explain.
+N: Payne turns off the light board and goes to the venetian blinds. The room is instantly full of sun.
+C: DR. PAYNE
+D: The central nervous system selects items from a constant storm of sensations. Whatever was killed in your stroke appears to have short-circuited this mechanism. Parts of your brain now seem to be firing at random.
+C: WHALE
+D: You're saying there's an electrical storm in my head?
+C: DR. PAYNE
+D: That's as good a way as any to describe it. I've seen far worse cases. You might even learn to enjoy these walks down memory lane.
+C: WHALE
+D: But the rest of it? The killing headaches. The phantom smells. My inability to close my eyes without thinking a hundred things at once. It's all nothing more than bad electricity?
+C: DR. PAYNE
+D: In a manner of speaking. I've never encountered the olfactory hallucinations, but I'm sure they're related.
+C: WHALE
+D: So what do I do?
+C: DR. PAYNE
+D: Take the Luminal to sleep, or whenever you feel an attack coming on.
+C: WHALE
+D: You seem to be saying that this isn't just a case of resting until I'm better. That my condition will continue to deteriorate until the end of my life.
+N: The doctor responds with a sympathetic gaze. Whale nods solemnly.
+S: INT. HALLWAY - DAY
+N: Whale makes his way toward the stairs. He passes a stoop-shouldered ELDERLY WOMAN who leans on the arm of her middle-aged DAUGHTER. Then an OLD MAN in a wheelchair, his eyes brimming with bewilderment and despair.
+S: INT. WHALE'S HOUSE - FOYER - DAY
+N: Hanna opens the door. Clay wears dungarees and a white dress shirt.
+C: CLAY
+D: Don't worry, you already paid me. I'm here because --
+C: HANNA
+D: The Master is waiting for you.
+N: She gestures him in, shuts the door.
+S: INT. WHALE'S HOUSE - KITCHEN - DAY
+N: Clay follows Hanna into the kitchen.
+C: HANNA
+D: He's down in his studio. Here. Take this with you.
+N: She thrusts a TV tray toward him. Two glasses, two bottles of beer, a bottle of Coke.
+C: CLAY
+D: It's your job, lady, not mine. I'm here so he can draw my picture.
+E: hands back the tray
+C: HANNA
+D: I'm keeping away. What you are doing is no business of mine.
+C: CLAY
+D: What're you talking about?
+C: HANNA
+D: What kind of man are you? Are you a good man?
+C: CLAY
+D: Yeah, I'm a good man. Something make you think I'm not?
+C: HANNA
+D: You will not hurt him?
+C: CLAY
+D: Gimme a break. I'm going to sit on my ass while he draws pictures. Is that going to hurt him?
+C: HANNA
+D: No. No. I am sorry. Forget everything I say. Here. I will take the tray.
+E: closes her eyes
+C: CLAY
+D: You do that.
+S: INT. WHALE'S HOUSE - STUDIO - DAY
+N: Clay opens the squeaking door and enters behind Hanna. Whale stands at a drafting table, sharpening a pencil. Hanna sets the tray down.
+C: WHALE
+D: Very good, Hanna. Now goodbye.
+N: She goes toward the door, wrinkling her forehead at Clay. The screen door bangs shut.
+C: WHALE
+D: I'm sure you'd like something to wet your whistle while I work.
+N: Whale opens a bottle of beer, pours it into a glass, hands it to Clay. He gestures to a chair.
+C: WHALE
+D: We'll go slowly today. Since this is your first time as a model.
+N: Clay sits. He pulls a "TV Guide" out of his back pocket.
+C: CLAY
+D: Did you see this? They're showing one of your movies tomorrow night.
+C: WHALE
+D: You don't say? Which picture?
+C: CLAY
+D: "Bride of Frankenstein."
+C: WHALE
+D: Hmmm. I much prefer "Show Boat" or "The Invisible Man." Shall we begin?
+N: Clay takes a swig of beer and sets the glass on the floor.
+C: CLAY
+D: Ready when you are.
+N: Whale stares at Clay.
+C: WHALE
+D: That shirt, Mr. Boone.
+C: CLAY
+D: It's new.
+C: WHALE
+D: I'm sorry. It's too white, too distracting. Would it be asking too much for you to take it off?
+C: CLAY
+D: I'm not wearing an undershirt.
+C: WHALE
+D: Pish posh, Mr. Boone. I'm not your Aunt Tilly.
+C: CLAY
+D: But it's just my face you want to draw.
+C: WHALE
+D: Oh if it's going to make you uncomfortable... Perhaps we can find something else for you to wear.
+E: sighs
+N: He lifts a drop cloth off a footlocker, revealing a stack of "Physique" magazines. Whale casually covers them with a newspaper.
+C: WHALE
+D: We could wrap this like a toga around your shoulders. Would that help you overcome your schoolgirl shyness?
+C: CLAY
+D: All right already. I'll take it off. Kind of warm in here anyway.
+N: He unbuttons the shirt and pulls it off.
+C: WHALE
+D: Yes. Much better. Here.
+E: steps forward
+N: Clay adjusts his belt buckle as Whale hangs the shirt on a wall peg. He moves back to the easel again.
+C: WHALE
+D: I think we'll have you sit slightly sideways, so you can rest one arm on the back of the chair. Yes. Just so.
+N: The arm with the tattoo faces the easel. Clay smirks.
+C: CLAY
+D: Take a picture, it lasts longer.
+C: WHALE
+D: That's exactly what I intend to do.
+N: A clatter of pencils in the easel's tray, followed by a moment of silence. Finally, a low, whistly scratch. Clay concentrates on keeping still, focusing on an open window.
+C: WHALE
+D: You seem to have no idea how handsome you are, Mr. Boone. It has to do with how snugly your face fits your skull.
+N: Clay wipes a thin line of sweat from his waist.
+C: WHALE
+D: Would you be more comfortable barefoot? Feel free to remove your boots and socks.
+C: CLAY
+D: No. I'm fine.
+C: WHALE
+D: It's a bit like being at the doctor, isn't it? You have to remain perfectly still while I examine and scrutinize you.
+N: Whale suddenly sniffs, as if smelling something. He sniffs several times more but continues to draw.
+C: WHALE
+D: Dripping? Do you ever eat dripping in this country? The fat from roasts and such, congealed in jars. Used like butter on bread.
+E: to himself to Clay
+C: CLAY
+D: Sounds like something you feed the dog.
+C: WHALE
+D: It is. Only the poorest families ever ate it. We kept ours in a crockery jar.
+C: CLAY
+D: Your family ate dripping?
+C: WHALE
+D: Of course not. As I said, only poor people --
+E: catching himself
+N: Whale stops. He lets out a bitter laugh.
+C: WHALE
+D: I'm sorry. I've just realized how terribly ironic it all is.
+C: CLAY
+D: What?
+C: WHALE
+D: I've spent most of my life outrunning my past. Now it's flooding all over me.
+N: Clay stares out blankly.
+C: WHALE
+D: There's something about the openness of your face that makes me want to speak the truth. Yes, my family ate dripping. Beef dripping and four to a bed, and a privy out back in the alley. Are you also from the slums, Mr. Boone?
+C: CLAY
+D: We weren't rich. But we weren't poor either.
+C: WHALE
+D: No, you were middle class, like all Americans.
+C: CLAY
+D: I guess you'd say we lived on the wrong side of the tracks.
+C: WHALE
+D: In Dudley there were more sides of the tracks than any American can imagine. Every Englishman knows his place. And if you forget, there's always someone to remind you. My family had no doubts about who they were. But I was an aberration in that household a freak of nature. I had imagination, cleverness, joy. Where did I get that? Certainly not from them.
+N: Whale's voice has changed, becoming more pinched and nasal.
+C: WHALE
+D: They took me out of school when I was fourteen and put me in a factory. They meant no harm. They were like a family of farmers who've been given a giraffe, and don't know what to do with the creature except harness him to the plow.
+N: Whale seems completely lost in the past by now.
+C: WHALE
+D: Hatred was the only thing that kept my soul alive in that soul-killing place. And among those men I hated was my own poor, dumb father. Who put me in that hell to begin with.
+N: Whale peers out from behind the square of paper. He pales when he sees his father William, his face covered with grime, glaring at him from across the room. Whale retreats behind the pad, takes a breath.
+C: CLAY
+D: Mr. Whale?
+E: O.S.
+N: Relief floods Whale's face. He looks out, smiles at Clay.
+C: WHALE
+D: You have to excuse me, Mr. Boone. Since my stroke, I am often overcome with nostalgia.
+C: CLAY
+D: I don't mind. I'm not crazy about my old man either.
+N: Whale rubs a hand across his eyes and steps into the open.
+C: WHALE
+D: Why don't we break for five minutes? You probably want to stretch your legs.
+N: Whale pulls the cover sheet over the pad to hide what he's drawn so far.
+C: DWIGHT
+D: So you just sat there while this old limey banged his gums?
+E: V.O.
+S: INT. HARRY'S BEACHCOMBER - NIGHT
+N: The place is dead. There's only Clay and Dwight sitting at the bar with the owner, HARRY, a balding hep cat with a scraggly tuft of beard. And, in a booth, KID SAYLOR, a cocky 20-year-old, necking with a pony-tailed TEENAGER.
+C: CLAY
+D: I liked it. You learn stuff listening to old-timers.
+C: DWIGHT
+D: You ever hear of this Whale fellow?
+E: to Harry
+C: HARRY
+D: Can't say that I have. Can't say I've heard of a lot of people though.
+C: CLAY
+D: If you don't believe me, let's watch this movie. See if his name's on it. How about it, Harry? Can I watch my damn movie?
+C: HARRY
+D: I told you. I don't turn on the TV except for the fights.
+N: BETTY CARTWRIGHT appears behind the bar, lugging a bucket of ice from the storeroom. She's an attractive woman in her early 30s, big-boned and almost as tall as Clay.
+C: BETTY
+D: A spooky movie. Just what this place needs tonight.
+C: DWIGHT
+D: Couldn't make it any deader, doll. Set me up.
+C: BETTY
+D: Sure. Your friend want one?
+N: Clay reacts to the silent treatment with a tight smile.
+C: DWIGHT
+D: Yeah, one for what's-his-name here.
+N: She sets down two bottles of Pabst without looking at Clay.
+C: CLAY
+D: Thanks, doll.
+C: BETTY
+D: I say let loverboy watch his movie. And be grateful Boone's not cutting Shirley Temple's lawn.
+E: to Harry
+C: CLAY
+D: Why is everybody giving me crap tonight?
+C: DWIGHT
+D: Jesus, Boone. You come in here proud as a peacock because some old coot wants to paint your picture. We're just bringing you back to earth.
+C: BETTY
+D: Sounds screwy to me. I can't imagine a real artist wanting to spend time looking at that kisser.
+C: CLAY
+D: This kisser wasn't so bad you couldn't lay under it a few times.
+C: DWIGHT
+D: Ooooh.
+N: Betty glares at Clay, who realizes he's gone too far.
+C: BETTY
+D: I bet this is just some fruit pretending to be famous. So he can get in the big guy's pants.
+C: DWIGHT
+D: Ooooh.
+C: CLAY
+D: What makes you say that?
+C: BETTY
+D: Just thinking out loud.
+C: CLAY
+D: Yeah, well keep your filthy thoughts to yourself.
+C: BETTY
+D: All right, then. He's interested in you for your conversation. We know what a great talker you are.
+C: CLAY
+D: Fuck you.
+C: BETTY
+D: Not anymore you don't. Doll.
+C: CLAY
+D: We're watching the movie, Harry. You got that! We are watching my fucking movie.
+E: explodes
+C: HARRY
+D: Calm down, Clay. Just calm down. We'll watch it.
+C: CLAY
+D: Good. Fine.
+N: Harry reaches up, turns on a battered Motorola. On the tv, a voice announces: "Tonight, Boris Karloff in 'The Bride of Frankenstein.'" The titles come on. Ending with the phrase "Directed by", which floats over a white blob. The blob jumps forward to form letters: "James Whale."
+C: CLAY
+D: Right there. What did I tell you? James Whale.
+N: The movie starts. The Monster being roasted alive in the flaming wreckage of a mill.
+C: BETTY
+D: This looks corny.
+C: CLAY
+D: Go wash glasses if you don't like it.
+N: In a flooded crater under the mill, the Monster kills an old man. He climbs up, flips the man's wife into the pit below. An owl blinks impassively.
+C: DWIGHT
+D: Not bad. Two down and it's just started.
+N: Minnie, a hatchet-faced woman with fluttering ribbons, is now alone with the Monster.
+S: INT. WHALE'S HOUSE - LIVING ROOM - NIGHT
+N: Whale and Hanna are in bathrobes and slippers, and there is a glass of milk and a plate of cookies on Whale's TV tray. On the tv, Minnie (played by UNA O'CONNOR) squeaks and whimpers and screams. Whale laughs.
+C: WHALE
+D: Wonderful old Una. Gobbling like an old turkey hen.
+N: But Hanna isn't amused. She unclenches her arms to close the bathrobe over her throat.
+C: HANNA
+D: Oh, that monster. How could you be working with him?
+C: WHALE
+D: Don't be silly, Hanna. He's a very proper actor. And the dullest fellow imaginable.
+N: Minnie flees in a bowlegged jig up the hill. Whale smiles again.
+S: INT. HARRY'S BEACHCOMBER - NIGHT
+N: On the tv, Dr. Pretorius (played by Ernest Thesiger) delivers a toast with inimitably ripe enunciation: "To a new world of gods and monsters!" Dwight and Harry and Betty all laugh.
+C: BETTY
+D: These old movies are such a hoot. They thought they were being scary, but they're just funny.
+C: CLAY
+D: Maybe it's supposed to be funny.
+E: defensively
+C: BETTY
+D: Funny is funny and scary is scary. You don't mix them.
+N: Suddenly the tinny tv soundtrack is drowned out by the voice of Elvis Presley. Kid Saylor bends over the jukebox, wagging his denim butt and tapping a high-top sneaker.
+C: CLAY
+D: Hey! Some of us are watching a movie!
+C: SAYLOR
+D: Go ahead. Free country.
+N: Clay jumps from his stool. Saylor sees him coming, steps aside.
+C: SAYLOR
+D: You want me to turn it down?
+N: Clay slams the heel of his hand against Saylor's chest. The boy staggers backward. Clay grabs the corner of the jukebox and jerks it from the wall; the needle scratches across the song. Saylor holds up both hands in a nervous surrender.
+C: SAYLOR
+D: Hey, I didn't know. It's your favorite movie. Sorry, okay?
+N: Clay returns to the bar and uprights the stool. Saylor escorts his girl to the door.
+C: HARRY
+D: You're like a dog with a bone over this movie, Clay.
+C: CLAY
+D: I just want to watch it, okay?
+N: On the tv, the blind man thanks God for sending him a friend.
+S: INT. WHALE'S HOUSE - LIVING ROOM - NIGHT
+N: Hanna's frown pops open.
+C: HANNA
+D: He is not going to kill the old man?
+C: WHALE
+D: No, Hanna. My heart isn't that black.
+N: In a crypt, the Monster meets Dr. Pretorius, who is having a midnight snack on top of a closed coffin. "Friend?" the monster asks. "Yes, I hope so," answers Pretorius, without batting an eyelash. He offers the Monster a drink, then adds: "Have a cigar. They're my only weakness."
+C: WHALE
+D: The cigars were my own brand. So that I could have the leftovers.
+N: On the tv, the Monster groans: "Love dead. Hate living." Whale's focus sharpens, prompted by the unexpected discussion of death.
+S: INT. HARRY'S BEACHCOMBER - NIGHT
+N: The Monster holds a skull in both hands and happily growls, "Wiiife." Betty, shudders, for real this time.
+C: HARRY
+D: Sick stuff. Necrophilia. I wonder if they knew how sick they were.
+C: CLAY
+D: The Monster's lonely and he wants a friend, a girlfriend, somebody. What sick about that?
+S: INT. WHALE'S HOUSE - LIVING ROOM - NIGHT
+N: Dr. Frankenstein and Pretorius make their final preparations. Frankenstein inquires where the fresh heart came from. "There are always accidental deaths occurring," Pretorius replies. "Always." Once again, Whale responds to the talk of death.
+S: INT. HARRY'S BEACHCOMBER - NIGHT
+N: Finally, the Bride comes to life. She looks up, down, left, right, uncertain who she is. The Monster stares tenderly. "Friend?" He timidly touches her arm and she screams.
+C: BETTY
+D: All right! You don't want him.
+N: The Monster is heartbroken. Nobody loves him, not even his Bride.
+S: INT. WHALE'S HOUSE - LIVING ROOM - NIGHT
+N: The Bride shrieks again.
+C: HANNA
+D: She is horrible.
+C: WHALE
+D: She is beautiful.
+N: The Monster's pain turns to anger. He tears through the lab, orders Frankenstein to escape with his wife. But he wants Pretorius and the Bride to stay. "We belong dead." Whale reacts sharply to the line. The Monster blows up the laboratory and the movie ends. Hanna shivers as she stands.
+C: HANNA
+D: Ugh. I am sorry, Mr. Jimmy, but your movie is not my teacup. Still, I am glad there is a happy ending. The bad people are dead and the good people live.
+N: She hits the button on the Magnavox with the flat of her palm.
+S: INT. HARRY'S BEACHCOMBER - NIGHT
+N: Betty turns off the Motorola.
+C: BETTY
+D: Weird movie. Weird, weird, weird.
+N: Harry stands up and stretches. Clay remains seated.
+C: CLAY
+D: So what did you think?
+C: BETTY
+D: Weird.
+C: DWIGHT
+D: I loved it. I want a switch like that in my trailer, so I can blow us to kingdom come when things don't go my way.
+N: He wobbles when he climbs off his stool.
+C: DWIGHT
+D: Damn but it's getting drunk in here. Late too. The bride of Dwight is going to bite my head off.
+N: He tilts toward the door.
+C: DWIGHT
+D: You coming, Boone?
+C: CLAY
+D: I think I'll hang around.
+C: HARRY
+D: Go home, Clay. We're closing up.
+C: CLAY
+D: I thought I'd give you a hand since I kept you open.
+N: He waits to see how Betty reacts. She shrugs. Harry takes his book and cash drawer to the back door.
+C: HARRY
+D: I'm next door if you need me.
+N: He gives Clay one last look and goes out to the breezeway and his apartment.
+C: CLAY
+D: You know what? I think you guys are all jealous.
+C: BETTY
+D: What's to be jealous of?
+E: laughs
+C: CLAY
+D: I've gotten to know someone who's famous.
+C: BETTY
+D: Not so famous any of us have ever heard of him.
+C: CLAY
+D: If he were that famous, he probably wouldn't give me the time of day. This way, he's like my famous person. Yeah, my own personal famous person. Who treats me like I'm somebody worth talking to.
+E: laughs at himself
+N: Clay leans down to plug in the jukebox.
+C: CLAY
+D: You want to go for a swim?
+N: She snaps her mouth open and imitates the Bride's furious cat hiss.
+C: CLAY
+D: What's that mean?
+C: BETTY
+D: It means it's too cold to go swimming. And I don't mean the water.
+C: CLAY
+D: I wasn't going to try anything.
+C: BETTY
+D: Yeah, and I'm never going to smoke another cigarette.
+N: He patiently waits by the door while Betty turns out the lights. She walks briskly through the glow of the jukebox, waving Clay outside with her hand.
+S: EXT. HARRY'S BEACHCOMBER - NIGHT
+N: Betty pulls the door shut and bends over to lock it. Clay catches a glimpse of skin in the side slit of her shirttail.
+C: CLAY
+D: Let's go for a walk at least. Walk and talk. I really feel like talking tonight.
+N: Betty's eyes blink in mock surprise.
+C: CLAY
+D: This old guy -- he's the kind of person I expected to meet when I moved out here. Someone who's done things with his life.
+C: BETTY
+D: Do you realize you're more interested in this old goober than you ever were in me?
+C: CLAY
+D: It's different. He's a man. And by the way you have no business calling him a homo.
+C: BETTY
+D: It never crossed your mind?
+C: CLAY
+D: He's an artist. Anyway, he's too old to think about sex.
+C: BETTY
+D: All the old men I know think about nothing but sex.
+N: She opens the door of her Chevy. Clay grabs it with both hands to keep her from getting in.
+C: CLAY
+D: C'mon. What's eating you tonight?
+N: Betty hesitates, then looks him sharply in the eye.
+C: BETTY
+D: You picked up that girl right in front of me.
+C: CLAY
+D: Hey, no strings, right? That's what you always said. Just good pals who have the hots for each other.
+C: BETTY
+D: It still hurt. A lot.
+C: CLAY
+D: I didn't mean to...
+C: BETTY
+D: No, I'm actually kind of glad it happened. It made me wonder what the hell I was doing with my life. Letting you pull me into bed whenever the spirit moved you.
+C: CLAY
+D: You liked it too.
+C: BETTY
+D: Sure. I loved it.
+C: CLAY
+D: If you enjoy it, you should do it.
+C: BETTY
+D: You know, I just can't do that anymore. I still have time to get things right. Get married again --
+C: CLAY
+D: You mean us?
+N: Betty bursts out laughing.
+C: BETTY
+D: The look on your face! You're not marriage material. You're not even boyfriend material. You're a kid. A big, fun, slightly irresponsible kid.
+C: CLAY
+D: I'm not a kid.
+C: BETTY
+D: What are you then? What will you be ten years from now? Still cutting lawns? Still banging horny divorcees in your trailer?
+N: Clay glares at her, his jaw working forward in anger.
+C: CLAY
+D: I like my life. I'm a free man.
+C: BETTY
+D: Sure you're free, for now at least. But how long before you're just alone? Pathetic and alone.
+N: Clay's anger jumps from his jaw into his shoulders and arms. He grabs the door handle.
+C: CLAY
+D: So you don't want to fuck. That's what you're telling me?
+C: BETTY
+D: Is that all this conversation means to you? Am I going to put out or not?
+C: CLAY
+D: Damn straight. I'm sick of playing games.
+N: Betty quickly gets into the car. before she can pull the door shut, Clay slams it on her, hard. Her hands leap in front of her face, as if he'd hit her. The look of fear in her eyes startles Clay out of his rage.
+C: CLAY
+D: Betty, look. This is coming out all wrong --
+N: She frantically turns the key in the ignition and the Chevy pulls out.
+C: BETTY
+D: From here on out, Boone, you're just another tired old face on the other side of the bar.
+N: The car screeches away. Clay stumbles across the highway.
+S: EXT. TRAILER PARK - NIGHT
+N: Clay comes to the dump at the end of the canyon. He climbs into it, kicking at loose cans.
+C: CLAY
+D: It's all shit! Shit on by women! Shit on by the Marines. Shit on by the world! Fuck!
+N: He shouts the word at the cliff, for the raw, sudden violence of shouting.
+C: CLAY
+D: Fuuuck!
+N: A dog in the carport starts to bark. The sound of Clay's pain echoes off the canyon as we CUT TO:
+S: INT. WHALE'S HOUSE - BEDROOM - NIGHT
+N: Whale is sitting up n bed when Hanna knocks. She enters with a tray loaded with bottles and vials.
+C: HANNA
+D: You will take them all, Mr. Jimmy?
+C: WHALE
+D: I'll be fine, Hanna. Thank you.
+C: HANNA
+D: Good night.
+N: Whale takes the pills, one by one, until he comes to the bottle of Luminal. He opens the pheno bottle to shake out a capsule and a dozen spill into his palm. He stares at them.
+S: INT. WHALE'S HOUSE - BEDROOM - DAY
+N: Hanna opens the door, gasps when she sees Whale lying motionless on the bed. She spots the empty bottle of Luminal.
+C: HANNA
+D: Oh no, Mr. Jimmy.
+N: Hanna kneels next to the body. She makes a Sign on the Cross, launches into a frantic "Hail Mary." We CUT TO:
+S: INT. WHALE'S HOUSE - BEDROOM - NIGHT
+N: Whale snorts at the imagined scene. One by one, he returns the capsules to their bottle, until a single pill remains. He places it on the table, then turns out the lamp and lies on his back in the dark, waiting for sleep. The distant sound of laughter invades the darkness. Whale sits up, straining to identify the voices. The bedroom wall opposite him melts away, revealing:
+S: INT. SPECIAL MAKEUP TRAILER - UNIVERSAL STUDIOS - DAY (1935)
+N: ELSA LANCHESTER and BORIS KARLOFF sit side by side in dentist chairs, cloths around their necks, heads tilted back. JACK PIERCE, the makeup artist, is patting the hair drawn over a cage on Elsa's head. He looks up, sees Whale, and breaks into a conspiratorial grin. Elsa's eyes are closed; she hasn't heard whale enter.
+C: ELSA LANCHESTER
+D: You done yet, love? I am absolutely dying for a fag.
+N: Whale tiptoes in for a better look. Karloff has a mouthpiece to help him breathe while the assistant adds another coat of green sizing to the still incomplete makeup.
+C: BORIS KARLOFF
+D: Goo' 'orning, 'ames.
+E: gurgles
+C: WHALE
+D: Good morning. And a very good morning to you.
+N: Elsa's eyes snap open. There are no mirrors on the walls.
+C: ELSA LANCHESTER
+D: Uh-oh. The way you look at me, James. What have you done this time?
+C: WHALE
+D: Bring a mirror. Let the Bride feast upon her visage.
+C: ELSA LANCHESTER
+D: Boris? Do I look a fright?
+N: Karloff shrugs, irked that she's getting all the attention. Jack Pierce lifts a large mirror.
+C: JACK
+D: Behold, the Bride of Frankenstein.
+E: nasal New Yorkese
+N: Elsa stares at the beautiful corpse in the mirror. She snaps her head left, right, up, down, startled by the sight of herself, electrocuted into frightened, spastic jerks.
+C: ELSA LANCHESTER
+D: Oh, James.
+N: As Whale observes his star we see her spasms through his eyes -- as a series of dissonant, line-jumping close-ups.
+C: ELSA LANCHESTER
+D: And you said there'd be some of me left. Nobody's going to know me in this getup.
+C: WHALE
+D: Nonsense, my dear. You look extraordinary. Today's script. Quick. And a pencil.
+E: to an assistant
+N: Whale scans the page of shooting script, the margin marked in pencil: CU, MS, MLS. Whale pencils in a bracket and scribbles: CU a,b,c,d---MOS.
+C: WHALE
+D: Jack, I want to get on this right away. Sorry, Boris, we won't get to you until this afternoon.
+C: BORIS KARLOFF
+D: I 'ish you 'old 'e 'ooner.
+N: The assistant removes his mouthpiece.
+C: BORIS KARLOFF
+D: I could have spent the morning tending to my roses.
+S: INT. SOUNDSTAGE - DAY
+N: The interior of Stage C is completely filled by the laboratory set. Electricians adjust the lights on the wooden tower beside the Bride's table. COLIN CLIVE (Dr. Frankenstein) and ERNEST THESIGER (Dr. Pretorius) sit off to the side, in full makeup and costume. Clive mumbles earnestly over his script. Thesiger pinches his face over the needle he dips in and out of an embroidery ring. Whale comes on the set with Elsa on his arm. She walks regally beside him, the train of her long white robe thrown over one arm. There's a wolf whistle from overhead, and applause, causing Elsa to curtsy to her admirers. Thesiger takes her hand, leans back to study her.
+C: ERNEST THESIGER
+D: My God. Is the audience to presume that Colin and I have done her hair? I thought we were mad scientists, not hairdressers.
+C: ELSA LANCHESTER
+D: Only a mad scientist could do this to a woman.
+C: ERNEST THESIGER
+D: Oh no, my dear. You look absolutely amazing. There's no way I can compete with you. The scene is yours.
+C: ELSA LANCHESTER
+D: In the sequel, James, two lady scientists should make a monster. And our monster would be Gary Cooper.
+C: ERNEST THESIGER
+D: I would've thought Mr. Leslie Howard would be more your line.
+C: ELSA LANCHESTER
+D: More your line.
+C: ERNEST THESIGER
+D: My line nowadays runs to Rin Tin Tin. Dogs are so much more dependable than men.
+C: WHALE
+D: Colin? Please. It's time. How is he today?
+E: softly, to Thesiger
+C: ERNEST THESIGER
+D: Stiff as a board. Yes, Colin. Come see what they've done to our Elsa.
+E: calls out
+N: Clive walks over, glumly.
+C: COLIN CLIVE
+D: I'm not at my best today, Jimmy. A touch of flu, you know.
+N: Whale sees through the excuse, rests an arm on Clive's shoulder.
+C: WHALE
+D: Relax, my boy. You could do this scene in your sleep.
+N: Clive grits his teeth and nods. Whale positions them in front of the upended table, Clive and Thesiger holding Elsa's robe out by the hems. The shadow of the sound boom passes back and forth while they rehearse.
+C: ERNEST THESIGER
+D: I gather we not only did her hair but dressed her. What a couple of queens we are, Colin.
+N: Elsa giggles. Clive looks distraught -- which brings some life to his stiffness. Whale sees this, decides to tune it higher.
+C: WHALE
+D: Yes, a couple of flaming queens. And Pretorius is a little in love with Dr. Frankenstein, you know.
+N: Clive's distress reads clearly now. He is twitchy and alive.
+C: WHALE
+D: Yes. I think it's coming together. Shall we have a go?
+N: He sits in the canvas director's chair, nods to the assistant director.
+C: ASSISTANT DIRECTOR
+D: Quiet on the set!
+N: The warning bell rings.
+C: ASSISTANT DIRECTOR
+D: Lights!
+N: The lights sizzle and blaze.
+C: ASSISTANT DIRECTOR
+D: Sound!
+C: SOUND MAN
+D: Okay for sound.
+C: ASSISTANT DIRECTOR
+D: Camera!
+N: A young man with a clapboard steps in front of the camera.
+C: CAMERA ASSISTANT
+D: Scene two-fifteen. Take one.
+C: WHALE
+D: Action.
+N: The Bride snaps her head in various directions. Thesiger slopes back, fingers splayed, intoxicated by his creation:
+C: ERNEST THESIGER
+D: The Bride of Frankenstein!
+N: Whale sits with his legs crossed, jogging his raised foot as if conducting the scene with his show. Fully engaged,
+T: intensely alive. We CUT TO:
+S: INT. WHALE'S HOUSE - BEDROOM - NIGHT
+N: Whale glances at the clock, sees that it is 3:15. He is wide awake. He reaches over, picks up the Luminal.
+C: WHALE
+D: Luminal. Illumine all.
+N: Whale reluctantly places the pill on his tongue and swallows. He rests his head on the pillow and stares at the ceiling, where the reflection of the window sheers casts an ever-shifting pattern of light and dark. We move down to reveal:
+S: INT. PRISON CELL - NIGHT (BLACK & WHITE)
+N: It's a cobblestone cell, a plaster set from "Bride of Frankenstein." Whale sits in a massive chair, straining against thick iron chains, as a lightning storm rages outside. In the distance, heavy footsteps, coming closer, until the cell door is filled with the silhouette of the Monster. Whale hardly dares to breathe as the Monster rips off the door and enters the cell. The Monster steps into the light, allowing us to see his face for the first time. It is Clay Boone, dressed in a Marine parade uniform. He uses his hedge clippers to cut the chains from around Whale's chest.
+C: WHALE
+D: Thank you. Thank you so much.
+N: Clay leans down and takes Whale in his arms, cradling him like a child. They move across the sound stage -- Clay carefully sidestepping the lights and cables on the floor -- until they reach the next set:
+S: EXT. COUNTRYSIDE - NIGHT
+N: Clay carries Whale past a painted backdrop of a stormy English countryside.
+S: INT. FRANKENSTEIN'S LAB - NIGHT
+N: Whale lies on the Bride's table. Clay pulls on a doctor's smock, picks up a scalpel from a table covered with various medical instruments. he carves a thin circle around the top of Whale's forehead. Then, with one deft movement, he pops off Whale's scalp and pulls out the brain. It is soot-covered, charred, used up. Whale watches with detached fascination as Clay tosses it on the floor, then takes a throbbing, luminous mass from a tray. Clay inserts the new brain into Whale's skull, sutures the scalp back into place. he fastens the conducting clamps around Whale's temples, then throws the heavy circuit breaker. Lights throb with bursts of energy...loose sparks crackle...rotary sparks create snapping circles of fire...as the energy of the raging storm is harnessed into the machinery. Clay steps back to take in his handiwork. A sudden look of panic fills Whale's face.
+C: WHALE
+D: It isn't working. The experiment is a failure.
+N: Clay glances down at Whale, whose breathing is slowing. Realizing that the new brain hasn't taken:
+C: CLAY
+D: Just go to sleep.
+N: A serenity suffuses Whale's features as he stares up at the pale flicker of lightning. His breathing finally stops, his face a tranquil mask of death. We CUT TO:
+S: INT. WHALE'S HOUSE - BEDROOM - DAY
+N: Whale wakes with a start. He checks the clock, sees that it's past nine. He presses an intercom button on the bedside table.
+C: WHALE
+D: I'm up, Hanna.
+N: Whale sits up, drinks in the sunlight. He notices some grass clippings and leaves scattered on the bedspread.
+C: WHALE
+D: What in God's name --
+N: Whale turns and sees Clay lying next to him. He gasps.
+C: CLAY
+D: I told you to sleep.
+E: angrily
+N: Clay's hands close around Whale's neck. We CUT TO:
+S: INT. WHALE'S HOUSE - BEDROOM - DAY
+N: Whale opens his eyes groggily. He scans the room in panic, clearly unable to get his bearings. Whale tries to stand but his legs give way beneath him.
+S: INT. WHALE'S HOUSE - BATHROOM - DAY (LATER)
+N: Whale and Hanna stare straight out as she reaches down and unbuttons the tiny buttons on his pajama fly. Whale supports himself with one hand on Hanna's shoulder as he relieves himself with the other.
+S: INT. WHALE'S HOUSE - BEDROOM - DAY (LATER)
+N: Whale sits up in bed, staring dumbly at the morning paper. Hanna reaches in to take away the breakfast tray.
+C: WHALE
+D: Does the yardman come today?
+C: HANNA
+D: Of course. This afternoon.
+N: A thin smile forms on Whale's face.
+S: EXT. WHALE'S HOUSE - DAY
+N: Clay prunes the roses on the front lawn. Hanna appears, frowning.
+C: CLAY
+D: Something I can do for you?
+C: HANNA
+D: The Master wants to know if you are free for lunch. I tell him you will be having other plans, but he insists I ask.
+C: CLAY
+D: Got a lawn this afternoon, but I'm free until then.
+C: HANNA
+D: Expect nothing fancy.
+N: Hanna goes inside. Clay rolls the mower down the path.
+S: INT. WHALE'S HOUSE - KITCHEN - DAY
+N: Clay knocks on the bottom of the Dutch door as he lifts the latch and walks in. He is wearing a fresh madras shirt.
+C: HANNA
+D: The Master is dressing. I am to offer you a drink. There is whiskey and there is iced tea.
+C: CLAY
+D: Tea is fine.
+N: He sits at the kitchen table.
+C: HANNA
+D: No. You are a guest now. You go in the living room.
+C: CLAY
+D: That's okay, Hanna. I'm more comfortable in here. It is Hanna, isn't it?
+N: She eyes him suspiciously, shrugs, pours a glass of tea. Clay notices a Bible on the counter.
+C: CLAY
+D: How long you worked for Mr. Whale?
+C: HANNA
+D: Long enough. Fifteen years.
+C: CLAY
+D: I bet you've seen a lot of famous people come and go? Movie stars?
+C: HANNA
+D: No. We live simply, Mr. Jimmy and I. People come to play bridge. And now and then, young men to swim. You have people, Boone?
+C: CLAY
+D: You mean family? All in Joplin, Missouri.
+C: HANNA
+D: Your wife?
+C: CLAY
+D: I'm not married.
+C: HANNA
+D: Why?
+C: CLAY
+D: Oh, I don't know. Because no girl in her right mind will have me?
+C: HANNA
+D: A man who is not married has nothing. He is a man of trouble. You need a woman.
+C: CLAY
+D: You proposing what I think you're proposing? Don't you think I'm a little young for you?
+N: Hanna twists her head around with such an indignant look that Clay bursts out laughing. She realizes that she is being teased.
+C: HANNA
+D: Men. Always pulling legs. Everything is comedy. "How very amusing. How marvelously droll."
+E: mimics an English accent
+N: Hanna stares at Clay until his smile fades. She resumes her chopping in silence.
+C: CLAY
+D: You ever been married, Hanna?
+C: HANNA
+D: Of course. I am married still.
+C: CLAY
+D: Yeah? What's your husband do?
+C: HANNA
+D: He is dead now, twenty years.
+C: CLAY
+D: Then you're as single as I am.
+C: HANNA
+D: No. I have children, grandchildren too. I visit when I can. But now that Mr. Jimmy cannot be left very long, I do not get away much. Poor Mr. Jimmy. There is much good in him, but he will suffer the fires of hell. Very sad.
+E: sighs
+C: CLAY
+D: You're sure of that?
+C: HANNA
+D: This is what the priests tell me. His sins of the flesh will keep him from heaven.
+C: CLAY
+D: Sins of the flesh? Everybody has those.
+C: HANNA
+D: No. His is the worse. The unspeakable. The deed no man can name without shame?
+E: worse
+N: She loses patience with Clay's blank look.
+C: HANNA
+D: What is the good English? All I know is bugger. He is a bugger. Men who bugger each other.
+C: CLAY
+D: A homo?
+C: HANNA
+D: Yes! You know?
+N: Clay slowly sits up.
+C: HANNA
+D: That is why he must go to hell. I do not think it fair. But God's law is not for us to judge.
+C: CLAY
+D: You're telling me Mr. Whale is a homo.
+C: HANNA
+D: You did not know?
+C: CLAY
+D: Well...no, not really --
+C: HANNA
+D: You and he are not doing things?
+C: CLAY
+D: No!
+C: HANNA
+D: Good. That is what I hope. I did not think you a bugger too. I fear only that you might hurt him if he tries.
+C: CLAY
+D: I'm not going to hurt anyone.
+C: HANNA
+D: Yes. I trust you.
+N: Off in the distance, a throat loudly trumpets itself clear.
+C: HANNA
+D: You must go in. Quickly. He will not like to think I have had you in the kitchen.
+N: Clay gets up slowly, reluctant to leave the room.
+S: INT. WHALE'S HOUSE - LIVING ROOM - DAY
+N: Whale comes forward as Clay enters, offering a hand at the end of a spindly wrist.
+C: WHALE
+D: How are you, Mr. Boone? So glad you are free for lunch.
+C: CLAY
+D: All right, I guess.
+C: WHALE
+D: I assume you worked up an appetite with your labor.
+N: A hesitant smile from Clay. Whale picks a stack of mail off the table, rifles through envelopes.
+C: WHALE
+D: Forgive my rudeness. At my age, the post is the cream of the day.
+N: He returns the stack to the table but holds on to a square envelope.
+C: WHALE
+D: Do you mind?
+C: CLAY
+D: Go ahead.
+N: Clay looks off while Whale opens the envelope.
+C: WHALE
+D: Hmmm? Princess Margaret?
+N: He is examining a folded card. He rubs a thumb over the printed lettering.
+C: WHALE
+D: Her Majesty's Loyal Subjects in the Motion Picture Industry... Cordially invited...Reception at the home of...Mr. George Cukor!
+N: His lips smack open in disgust.
+C: WHALE
+D: That pushy little -- horning in on the Queen's sister, then offering to share her with the whole damn raj? I live in this country to get away from this rubbish!
+N: He tosses the invitation on the table.
+C: WHALE
+D: Is this David's doing?
+C: CLAY
+D: This David's a friend?
+C: WHALE
+D: Yes. An old, useless friend. You must excuse me, Mr. Boone. This is a world I finished with long ago. I pay them no mind and expect them to return the compliment. Lunch should be ready. Shall we?
+E: a deep breath
+N: He holds out an open hand so that Clay can precede him into the dining room.
+S: INT. WHALE'S HOUSE - DINING ROOM - DAY
+N: Hanna sets down two steaming plates of omelettes. Whale hands a glass of red wine to Clay.
+C: WHALE
+D: Cheers.
+N: They both take a sip of wine.
+C: WHALE
+D: Smells lovely, Hanna.
+N: Hanna nods, steals a glance at Clay as she leaves.
+C: CLAY
+D: Saw your movie the other night. Watched it with some friends.
+C: WHALE
+D: Did you now?
+C: CLAY
+D: I liked it. We all did.
+C: WHALE
+D: Did anyone laugh?
+C: CLAY
+D: No.
+E: covering
+C: WHALE
+D: Pity. People are so earnest nowadays.
+C: CLAY
+D: Why? Was it supposed to be funny?
+C: WHALE
+D: Of course. I had to make it interesting for myself, you see. A comedy about death. The trick is not to ruin it for anyone who isn't in on the joke. But the Monster never receives any of my gibes. He is noble. Noble and misunderstood.
+E: a sip of wine
+N: Whale gazes pointedly at Clay, who eats with his elbows on the table, quickly bolting the hot omelette.
+C: WHALE
+D: In Korea, Mr. Boone?
+N: Clay looks up.
+C: WHALE
+D: Did you kill anyone?
+C: CLAY
+D: I don't like to talk about that.
+C: WHALE
+D: It's nothing to be ashamed of, in the service of one's country. That's something to be proud of.
+C: CLAY
+D: Proud? Any jerk with a gun can kill someone.
+C: WHALE
+D: Quite true. Hand-to-hand combat is the true test. Did you ever slay anyone hand-to-hand?
+C: CLAY
+D: No. I could have, though.
+E: defensive
+C: WHALE
+D: Yes, I believe you could. How free is your schedule this afternoon?
+E: a sip of wine
+C: CLAY
+D: Full up. I got the hedges to do here, then another lawn out by La Cienega.
+C: WHALE
+D: What is we say phooey to the hedges? Could you spare an hour after lunch? To sit for me?
+C: CLAY
+D: Can't today.
+C: WHALE
+D: I'll pay our going rate. Plus what you'd get if you did the hedges.
+C: CLAY
+D: Sorry. I don't feel like sitting still today.
+C: WHALE
+D: All righty. I understand.
+N: Whale tilts a scrutinizing eye at Clay.
+S: INT. WHALE'S HOUSE - PANTRY - DAY (LATER)
+N: Hanna carries the dirty dishes back to the kitchen.
+S: INT. WHALE'S HOUSE - DINING ROOM - DAY
+N: Clay starts to bite the tip off a cigar.
+C: WHALE
+D: Use this.
+N: Whale passes him a gold penknife.
+C: WHALE
+D: Just a trim. And mine while you're at it. Fingers are a bit stiff today.
+C: CLAY
+D: You ever been married, Mr. Whale?
+C: WHALE
+D: No. At least not in the legal sense.
+N: Clay hands a clipped cigar back to Whale.
+C: CLAY
+D: So you had a wife?
+C: WHALE
+D: Or a husband. Depending on which of us you asked. My friend David. He lived here for many years.
+N: The other cigar crunches faintly between Clay's fingers.
+C: WHALE
+D: Does that surprise you?
+C: CLAY
+D: No, I -- you're a homosexual.
+C: WHALE
+D: Oh dear. If one must have a clinical name.
+C: CLAY
+D: I'm not, you know.
+C: WHALE
+D: I never thought you were.
+C: CLAY
+D: You don't think of me that way, do you?
+C: WHALE
+D: What way might that be?
+C: CLAY
+D: You know. Look at me like -- like I look at women.
+C: WHALE
+D: Don't be ridiculous. I know a real man like you would break my neck if I so much as laid a hand on him. Besides, you're not my type.
+N: Clay suddenly laughs. Whale's smile deepens.
+C: WHALE
+D: So we understand each other?
+C: CLAY
+D: What you do is no business of mine. Live and let live, I say.
+C: WHALE
+D: I hope this has nothing to do with your refusing to sit for me today?
+C: CLAY
+D: No. I --
+N: Whale continues to smile, slyly.
+C: WHALE
+D: What are you afraid of, Mr. Boone? Certainly not a frail old man like me.
+N: Clay has no answer. He gives in with a sigh.
+S: INT. WHALE'S HOUSE - STUDIO - DAY
+N: Clay sits sideways on the chair again. Whale stands at the easel.
+C: CLAY
+D: Can I see what you did so far?
+C: WHALE
+D: It will only make you self-conscious. You'll have to remove your shirt.
+C: CLAY
+D: Sorry. Not today.
+C: WHALE
+D: But we have to match the other sketch.
+C: CLAY
+D: I just feel more comfortable keeping it on. You just said you didn't want me self-conscious.
+N: Whale steps forward.
+C: WHALE
+D: Perhaps if we open the shirt and pull --
+N: Whale's hands to in. Clay's flesh tightens; he shrinks back. The hands stop, palms raised.
+C: WHALE
+D: Oh dear. I have made you nervous.
+C: CLAY
+D: I'm fine. I'd just rather keep it on.
+C: WHALE
+D: Suppose we unbutton the top and pull it down around your shoulders? Two buttons. Is that so much to ask? Just two little buttons.
+N: Whale's thumb and fingers unpluck buttons in midair.
+C: CLAY
+D: No! Look. What you told me at lunch is still very weird for me. So either you sketch me like I am or I'll say forget it and go do your hedges.
+N: Whale takes a step back. His eyes are locked on Clay, fascinated by his temper.
+C: CLAY
+D: I don't mean to be a prick, but that's how I feel.
+C: WHALE
+D: Of course. I don't want to scare you off. Not before I'm finished with you.
+N: Whale glides behind the easel. The pencils rattle in the tray.
+C: WHALE
+D: Tell me more about yourself, Mr. Boone. You have a steady companion?
+C: CLAY
+D: Not at the moment.
+C: WHALE
+D: Why not?
+C: CLAY
+D: You know how it is. You have to kiss ass just to get a piece of it.
+C: WHALE
+D: Very well put.
+C: CLAY
+D: The world is just one kiss-ass game after another. A man has to make up his own life, alone.
+C: WHALE
+D: Ah. A philosopher.
+C: CLAY
+D: Thoreau with a lawnmower.
+C: WHALE
+D: I like that. But take care, Mr. Boone. Freedom is a drug, much like any other. Too much can be a very bad thing.
+E: smiles
+N: Clay glances out the window. Feigning a merely casual interest:
+C: CLAY
+D: Is that why you and your friend split up? Because you wanted to be free?
+C: WHALE
+D: In a way, yes. I suppose so. I know it's why I stopped making pictures.
+N: Whale backs away from the easel and stares at the paper with a sour frown.
+C: WHALE
+D: You might not think it to look at me now, but there was a time when I was at the very pinnacle of my profession. The horror movies were behind me. I'd done "Show Boat." Major success. Great box office. Now I was to do something important. "The Road Back." An indictment of the Great War and what it did to Germany. It was to be my masterpiece.
+C: CLAY
+D: What happened?
+C: WHALE
+D: The fucking studio butchered it. It was 1937, Hitler's armies were already massing -- and still the New York bankers stood in line to curry his favor. Anything to avoid losing the German market. They cut away the guts and brought in another director to add slapstick. The picture laid an egg, a great expensive bomb. For which I was blamed.
+N: A shadow passes over Whale's eyes. He presses two fingers against his temple.
+C: WHALE
+D: After that, I went out of fashion. I was no longer able to command the best projects, so I walked away. Why should I spend my time working in such a dreadful business?
+C: CLAY
+D: Do you miss it?
+C: WHALE
+D: It's so far in the past now. Over fifteen years --
+E: dismissive
+N: Whale stops himself. He smiles gently at Clay.
+C: WHALE
+D: Making movies was the most wonderful thing in the world. Working with friends. Entertaining people. Yes, I suppose I miss it. More so now that --
+N: Whale reaches into his pocket, takes out the bottle of Luminal.
+C: WHALE
+D: I think we all want to feel we've left our mark on the world. Yes. I wish I had done more work.
+C: CLAY
+D: You've done a helluva lot more than most people.
+C: WHALE
+D: Better work.
+N: Whale moves across the room to the screen door.
+C: WHALE
+D: But I chose freedom. David was still in the thick of it, his life full of anxiety and studio intrigue. I didn't fancy spending my golden years as merely "the friend." The dirty little secret of a nervous producer.
+C: CLAY
+D: How long were you...?
+C: WHALE
+D: Twenty years. Too long. We were like a play whose run outlasted the cast's ability to keep it fresh. So I finally decided to close down the show.
+N: Whale places a pill on his tongue and swallows. He fixes Clay with a pinched smile.
+C: WHALE
+D: When all fetters are loosened, a certain hedonism creeps in, don't you think? There was a period when this house was overrun with young men. Some even posed for me. Right where you're sitting now.
+N: Clay sits uncomfortably in his chair. His face flushes.
+C: WHALE
+D: Of course, they weren't nearly as bashful. No, this room was once filled with bare buttocks. And pricks. Hard, arrogant pricks --
+C: CLAY
+D: Cut it out!
+N: Clay explodes out of his chair, knocking over a small side table.
+C: CLAY
+D: Fuck it. I can't do this anymore.
+N: He looms over Whale, whose breathing starts to quicken.
+C: CLAY
+D: Isn't it enough you told me you're a fairy? Do you have to rub my nose in it?
+C: WHALE
+D: I assure you, Mr. Boone, I meant no --
+C: CLAY
+D: From now on, Mr. Whale, I cut your grass and that's it. Understand?
+N: Before Whale can respond Clay storms out, nearly ripping the screen door off its hinges. Whale sits on the daybed, takes a few quick breaths. Suddenly the air is filled with the sounds of people cavorting in the pool. Whale looks up, sees a young man standing outside the screen door. It is now dark outside.
+C: YOUNG MAN
+D: Come on, Jimmy. Watch me dive.
+N: Whale offers a melancholy smile.
+C: WHALE
+D: I think I'll just rest for a moment.
+N: The man shrugs, disappears into the shadows. We move across the room and through the door...
+S: EXT. WHALE'S HOUSE - NIGHT
+N: Whale sits in a director's chair, a martini in one hand, a cigar in the other, a harmless old uncle watching young men swagger and splash in the pool.
+C: WHALE
+D: I think we're ready to go.
+N: He glances over, sees Clay in plaid bathing trunks, sitting apart from the others. He is puffing on a Camel.
+C: WHALE
+D: You're up, Mr. Boone.
+N: Clay ignores him. Whale puts down his martini and cigar, picks up a Polaroid camera. He moves over to clay.
+C: WHALE
+D: The extras are in their places. Now we need the star. Wouldn't you like to get in the pool?
+C: CLAY
+D: You first.
+C: WHALE
+D: Oh no. I never swim.
+N: Whale removes Clay's cigarette, crushes it with his shoe. Behind him, the pool is now a pit full of naked shadows.
+C: WHALE
+D: You'll have to remove that shirt.
+N: Whale touches Clay's bare chest. Clay grabs hold of his wrist, causing the old man to yelp in pain. In the pool, the extras shriek in alarm. Clay's hands close tightly around Whale's throat.
+S: INT. WHALE'S HOUSE - BEDROOM - DAY
+N: Whale's hands fly to his throat. He opens his eyes and gasps greedily for air, the young men's screams lingering in the room. There is a look of genuine terror on his face.
+S: EXT. BRENTWOOD HOUSE - YARD - DUSK
+N: The sun goes down. Clay wearily pushes his lawnmower, struggling to concentrate on the darkened lawn.
+S: EXT. BRENTWOOD HOUSE - BACK DOOR - NIGHT
+N: The smug PROPERTY OWNER peers out at Clay from behind a screen door.
+C: CLAY
+D: Do you mind turning on a light? It's getting pretty soupy out here.
+C: OWNER
+D: Should have been here when you said you would. You whack off a tow, don't think about taking me to court.
+C: CLAY
+D: You're lucky I even squeezed you in today.
+C: OWNER
+D: Don't take that tone with me, bub. There's Japs in this town that work cheaper and do flowers too.
+N: Clay takes a deep breath. He can't afford to get angry.
+C: CLAY
+D: Will you just turn on the porch light? Sir?
+N: The owner flicks on the light.
+S: INT. HARRY'S BEACHCOMBER - NIGHT
+N: Clay presses through the Saturday night crowd. Clay cranes his neck to scan the crowd.
+C: CLAY
+D: Where's Betty?
+C: HARRY
+D: She took the night off. Heavy date. Some guy she's had her eye on for a while.
+N: Harry smiles pointedly at Clay, hands him the beer.
+C: CLAY
+D: Thanks a lot, pal.
+N: Clay turns his back on the bar. He sees Dwight moving through the crowd.
+C: CLAY
+D: Dwight!
+N: Dwight nods, a little coolly.
+C: DWIGHT
+D: Hey, Boone.
+C: CLAY
+D: Have a drink?
+N: Dwight's WIFE, a pert, steely-eyed brunette, places a firm hand on his shoulder. Dwight shrugs, heads toward the door. Clay turns. A pretty, too-tan BLONDE WOMAN in her early 30s is standing at the end of the bar, eyeing Clay. He lifts his glass and she responds with an open smile.
+S: EXT. CLAY'S TRAILER - NIGHT
+N: Clay and the woman go at it, their shadows visible through the glass louvers.
+S: INT. CLAY'S TRAILER - BATHROOM - DAY
+N: Clay tugs on a cord and the harsh overhead fluorescent buzzes to life. He splashes his face with water, then catches his reflection in the mirror.
+S: EXT. SANTA MONICA LIBRARY - DAY
+N: Clay parks outside the local branch of the public library.
+S: INT. READING ROOM - DAY
+N: Clay leafs through an oversized folio, bound copies of The New York Times. He glances at an article from 1936. "Interview With a Passing Whale." There is a picture of Whale, captioned "Famous British Director." A LIBRARIAN approaches with more leatherbound books.
+C: LIBRARIAN
+D: Here are the trade newspapers you wanted.
+N: Clay takes the books, opens one.
+S: INT. WHALE'S HOUSE - LIVING ROOM - DAY
+N: Whale eats lunch off a TV tray. His attention remains focused on "Queen for a Day" as Hanna clomps into the room behind him.
+C: WHALE
+D: Who was that at the door?
+C: HANNA
+D: A visitor.
+N: Whale turns. His face registers surprise when he sees Clay.
+C: WHALE
+D: Thank you, Hanna. That will be all.
+N: Hanna retreats toward the kitchen. Clay steps tentatively into the room.
+C: WHALE
+D: Mr. Boone. You're not due to cut the lawn until Wednesday.
+C: CLAY
+D: I'd like to sit for you again. But only if you ease up on the locker room talk. Okay?
+N: Whale holds up two fingers, affects an American accent.
+C: WHALE
+D: Scout's honor.
+N: Clay smiles.
+S: INT. WHALE'S HOUSE - STUDIO - DAY
+N: Whale and Boone are back in their familiar positions. An empty glass of beer sits on the floor next to Clay.
+C: WHALE
+D: I'm curious, Mr. Boone. What convinced you to come back?
+C: CLAY
+D: I don't know. I guess I like your stories.
+C: WHALE
+D: Everybody has stories to tell.
+C: CLAY
+D: Not me.
+C: WHALE
+D: What about your stint in Korea? I'm sure it was full of dramatic episodes.
+C: CLAY
+D: I told you. I don't like to talk about that.
+N: Whale nods, sensing that he's touched a sore spot.
+C: WHALE
+D: And the fear you showed at our last session? How did you overcome that?
+C: CLAY
+D: Not fear. More like disgust.
+C: WHALE
+D: Same difference, Mr. Boone. Disgust, fear of the unknown -- all part of the great gulf that stands between us. Am I right in assuming that you've had little experience with men of my persuasion?
+C: CLAY
+D: There's no people like you in my crowd.
+C: WHALE
+D: No teammates in football? No comrades in Korea?
+C: CLAY
+D: You must think the whole world is queer. Well it's not. War sure isn't.
+C: WHALE
+D: Oh, there may not be atheists in the foxholes, but there are occasionally lovers.
+C: CLAY
+D: You're talking through your hat now.
+C: WHALE
+D: Not at all. I was in the foxholes myself.
+C: CLAY
+D: You were a soldier?
+C: WHALE
+D: I was an officer.
+N: Clay breaks his pose to turn and look at Whale.
+C: CLAY
+D: This was World War I?
+C: WHALE
+D: No, my dear. The Crimean War. What do you think? The Great War. You had a Good War, while we had --
+N: Whale clears his throat, bored by his standard line.
+C: WHALE
+D: -- a war without end. There were trenches when I arrived, and trenches when I left, two years later. Just like in the movies. Only the movies never get the stench of them. The world reduced to mud and sandbags and a narrow strip of rainy sky. But we were discussing something else. Oh yes. Love in the trenches.
+E: a dry snort
+N: Now he's talking only to himself.
+C: WHALE
+D: Barnett. Was that his name? Leonard Barnett. He came to the front straight from Harrow. And he looked up to me. Unlike the others, he didn't care that I was a workingman impersonating his betters. How strange, to be admired so blindly. I suppose he loved me. But chastely, like a schoolboy.
+C: CLAY
+D: Something happened to him?
+N: Whale looks up at Clay, stares at him.
+C: WHALE
+D: I remember one morning in particular. A morning when the sun came out.
+S: EXT. TRENCHES - DAY (1917)
+N: LEONARD BARNETT, 19, boyish and handsome, peers into a periscope. Whale stands beside him, pointing out landmarks on the bleak landscape.
+C: WHALE
+D: Odd, how even there one could have days when the weather was enough to make one happy. He and I were standing on the fire step and I showed him the sights of no-man's land, through the periscope. It was beautiful. The barbed wire was reddish gold, the water in the shell holes green with algae, the sky a clear quattrocento blue. And I stood shoulder to shoulder with a tall apple-cheeked boy who loved and trusted me.
+E: V.O.
+N: Whale reaches over and lays his arm across Barnett's shoulder. Barnett smiles timidly at him. We CUT TO:
+S: INT. WHALE'S HOUSE - STUDIO - DAY
+N: Whale leans forward, completely disoriented. His eyes fix on Clay, the white eyebrows screwed down, until he is able to recognize the face.
+C: WHALE
+D: Don't do this to me again, Mr. Boone. I absolutely refuse.
+N: Whale stands, his legs shaky.
+C: WHALE
+D: You will not set me on another walk down memory lane. Not this lane. Not today.
+C: CLAY
+D: I didn't --
+C: WHALE
+D: Why do I tell you this? I never told David. I never even remembered it until you got me going.
+C: CLAY
+D: You're the one who started it.
+C: WHALE
+D: You're very clever, Mr. Boone. You just sit there and let me talk. What a sorry old man, you're thinking. What a crazy old poof. Why are you here? What do you want from me?
+E: comes closer
+C: CLAY
+D: You asked me to model. Remember?
+C: WHALE
+D: Of course I remember. Do you think I'm so senile --
+N: Whale stands over Clay. His pale face turns left, right, looking at Clay with one cold eye, then the other. Clay returns the gaze, worried for Whale.
+C: CLAY
+D: Mr. Whale? Are you okay?
+N: Whale turns away. He yanks out a handkerchief.
+C: WHALE
+D: Stupid. Very stupid. What have I been thinking?
+N: He sits on the daybed and bends over, covering both eyes with the handkerchief.
+C: WHALE
+D: Just go. Please. Why don't you go?
+C: CLAY
+D: I don't get it. First you creep me out with homo shit. Then you hit me with war stories. And now you're upset because I listen? What do you want?
+C: WHALE
+D: I want -- I want...
+N: His pained eyes focus on Clay, and soften.
+C: WHALE
+D: I want a glass of water.
+N: Clay gets up and goes to the sink.
+C: WHALE
+D: A touch of headache.
+N: Clay hands him the water.
+C: WHALE
+D: Thank you.
+N: Whale sets the glass down and sits with his head lowered, his body folded like a bundle of sticks.
+C: WHALE
+D: My apologies. I had no business snapping at you.
+C: CLAY
+D: No harm done.
+C: WHALE
+D: It was foolishness to attempt this portrait. You cannot force what will not flow.
+C: CLAY
+D: You don't want me to sit for you anymore?
+N: Whale shakes his head sadly. He gazes up at Clay, sees the disappointment on his face.
+C: WHALE
+D: How would you like to come to a party with me? A reception for Princess Margaret.
+N: CLAY I thought you weren't going.
+C: WHALE
+D: If you don't mind driving, I'd like to take you as my guest. There should be lots of pretty starlets to keep you amused.
+C: CLAY
+D: I'm game. Sure.
+C: WHALE
+D: Very good, Clayton. May I call you Clayton? Or do you prefer Boone?
+C: CLAY
+D: Clayton is fine.
+N: Whale smiles gently.
+S: EXT. OCEAN PROMENADE - DUSK
+N: The sun is setting over the Pacific. Clay stands in a phone booth on the strand.
+S: INT. PHONE BOOTH - DUSK
+N: Clay smiles anxiously as the call connects.
+C: CLAY
+D: Mom? Yeah, it's me.
+N: Clay pauses as his mother shoots questions at him.
+C: CLAY
+D: No, I'm not in jail...I don't want any money, no... Look, is Sis there? I want to tell her about this movie person I met out here. She'll get a kick out of it.
+E: louder, to be heard
+N: We hear the phrase: "She's out, Clay." Clay closes his eyes as his mother rambles on.
+C: CLAY
+D: No, I still...I'd give you my phone number if I had a phone --
+N: Clay tries to stay calm as his mother berates him for not staying in touch.
+C: CLAY
+D: How's the old man?
+N: Before Clay can protest we hear: "Hold on." Clay glances out at couples strolling up the promenade. An operator interrupts, says: "One dollar for the next three minutes." Clay deposits two quarters before his mother returns. "He's busy, Clay."
+C: CLAY
+D: Right.
+N: The operator comes on again, asking for fifty more cents. Clay stares at the quarters in his hand.
+C: CLAY
+D: Time's up. I better go.
+N: Clay listens as his mother prattles on, until the connection is broken and the phone goes dead. Clay steps out of the booth, takes a deep breath of ocean air.
+S: INT. WHALE'S HOUSE - BEDROOM - DAY
+N: Whale and Hanna go through the closet together.
+C: HANNA
+D: Mr. Boone. He is an interesting friend.
+C: WHALE
+D: I'd hardly call our yardman a friend.
+C: HANNA
+D: No. But someone you can talk to.
+N: Whale stops, turns to Hanna.
+C: WHALE
+D: Do you miss having someone to talk to, Hanna?
+C: HANNA
+D: I have my family. Also our Lord Jesus Christ.
+C: WHALE
+D: Of course. How is the old boy these days?
+N: The naughty remark is met with a solemn stare. Whale reaches up, chooses a lightweight blue suit.
+C: WHALE
+D: It needs a hat. There was a wide-brimmed cream fedora...
+C: HANNA
+D: It must be up in your old room. I will look.
+N: The phone rings. Hanna hurries to answer it.
+S: INT. WHALE'S HOUSE - MAIN HALL - DAY
+N: Hanna speaks softly in Hungarian. Whale points upstairs to let her know he will look for the hat himself.
+S: INT. WHALE'S HOUSE - MASTER BEDROOM - DAY
+N: Whale opens the closet door and takes down a stack of hatboxes from the overhead shelf. He opens the first box, takes out a rubbery wad of heavy fabric with two round windows like eyes. It's a gas mask. We CUT TO:
+S: INT. TRENCHES - NIGHT (1917)
+N: The night sky explodes with light and smoke. Whale moves calmly through the chaos, trying to maintain a modicum of order among the troops.
+C: WHALE
+D: Gas masks on. Gas masks on.
+N: At the end of the line, young Barnett is struggling with his straps. Mustard gas is starting to stream into the trench.
+C: BARNETT
+D: Don't mind me, Lieutenant. Save yourself.
+N: Whale slips the mask over Barnett's face, fastens it. He slides his own mask into position moments before the trench is obliterated by the yellowish smoke. We CUT TO:
+S: INT. WHALE'S HOUSE - MASTER BEDROOM - DAY
+N: Hanna stands in the door with a forlorn frown.
+C: HANNA
+D: Oh, Mr. Jimmy. You make a mess of it. Here.
+N: Hanna lifts the lid of an unopened box to show him the missing fedora.
+C: HANNA
+D: That is my daughter. She say she and her husband are coming to town this afternoon. I am sorry, Mr. Jimmy. I will make it short.
+E: stacking boxes
+C: WHALE
+D: I'll be out this afternoon, remember? Your family can visit as long as they like.
+C: HANNA
+D: No. I do not cook for them. My daughter's no-good husband will not take one bite of our food.
+N: Hanna holds out the box for the gas mask. Whale gives it a long, final look, then drops it in the box.
+C: WHALE
+D: You can toss this one in the trash.
+N: Hanna clamps the lid on the box.
+S: INT. WHALE'S HOUSE - FOYER - DAY
+N: Hanna has opened the door. At the end of the hall, silhouetted against the bright afternoon sky, is Clay. His shoulders fill the doorway. The top of his head is perfectly flat.
+C: WHALE
+D: Good afternoon, Clayton.
+C: CLAY
+D: Do I look okay?
+N: Clay steps into the light. His khaki pants are clean and pressed. A blue knit shirt fits his muscles snugly.
+C: WHALE
+D: You look splendid, my boy. Quite splendid.
+S: INT. WHALE'S HOUSE - GARAGE - DAY
+N: Whale crosses to the passenger side of the Chrysler.
+C: WHALE
+D: I suppose you'd like the top down.
+C: CLAY
+D: If that's okay?
+C: WHALE
+D: Nothing would please me more.
+N: Clay squeezes behind the wheel, shifts the seat back, explores switches. The vinyl top pops up and folds backward. Whale gets in. Clay starts the engine and backs out.
+S: EXT. WHALE'S HOUSE - DAY
+N: Hanna stands at the front door, hands tangled in her apron. Whale tugs his hat brim at her as the car swings around the driveway. Whale smiles at the wide open sky overhead. Clay steps on the gas and the Chrysler takes off.
+S: EXT. CUKOR HOUSE - DAY
+N: The party is clearly audible from the road, where Clay has squeezed the Chrysler into a long row of shiny cars nuzzling the high brick wall. Whale puts his dark glasses on.
+C: WHALE
+D: Stars, you know. The suns of other galaxies.
+N: They walk up the steep road to the gatehouse.
+C: WHALE
+D: Good old George. He loves to put on the dog. Only his dogs tend to have a bit of mutt.
+N: A WOMAN at the gate inspects the invitation, waves them through.
+S: EXT. CUKOR HOUSE - LAWN - DAY
+N: A sunny patio with hedges and statues. Wickets and stakes have been set up for a game of croquet, but only a handful of very tanned children strut around with mallets.
+C: WHALE
+D: What did I tell you? Listen.
+C: CLAY
+D: I don't hear anything.
+C: WHALE
+D: Exactly. Cukor was too cheap to hire music. There's nothing but chin-wag. The cold dreary custard of English chin-wag.
+N: Whale scans the crowd.
+C: WHALE
+D: Slim pickings. Well, it's early yet. Perhaps this is a good time to pay our respects.
+N: Clay follows Whale toward a trellis alcove covered in ivy. A handful of people grin at the mismatched couple who stand in the shade: a homely older man in glasses and a pretty woman in a white dress with polka dots. GEORGE CUKOR and PRINCESS MARGARET.
+C: WHALE
+D: Let's get this over with quickly.
+N: Whale forgets to remove his hat when he comes forward. Before he can give Cukor their names Princess Margaret's polite smile bursts open in a joyful display of teeth.
+C: PRINCESS MARGARET
+D: I had no idea you'd be here.
+N: She seizes Whale's hand in her little white gloves.
+C: PRINCESS MARGARET
+D: How are you?
+C: WHALE
+D: Fine. Quite fine. And Your Royal Highness?
+E: taken aback
+C: PRINCESS MARGARET
+D: Splendid. Now that I know you're around.
+N: Standing beside him, Clay is clearly impressed that Whale knows a princess.
+C: PRINCESS MARGARET
+D: Can we get together while I'm in town? I so badly want to sit for you again.
+C: WHALE
+D: Sit?
+C: PRINCESS MARGARET
+D: I've changed my hair, you see. Since our last session. Those old snaps look rather dowdy now.
+N: Whale realizes she's mistaken him for someone else. He tugs his sunglasses down his nose so she can see his eyes.
+C: PRINCESS MARGARET
+D: Oh dear. Have I made a blunder?
+C: WHALE
+D: Ma'am, the pleasure is all mine. James Whale.
+C: PRINCESS MARGARET
+D: I am such a goose. I mistook you for Cecil Beaton. It's the hat. You're wearing one of Cecil's hats, you know.
+E: laughs
+N: Whale attempts to chuckle while he fights a feeling of humiliation. He turns to Cukor for help.
+C: WHALE
+D: Hello, George. James Whale. David Lewis's friend. I once made pictures myself, Ma'am.
+C: GEORGE CUKOR
+D: Yes. Of course. One can't throw a rock in this town without hitting one of us old movie directors.
+N: Whale feels the sting. He turns to Clay.
+C: WHALE
+D: Ma'am, may I present Mr. Clayton Boone?
+N: Clay steps forward to shake hands.
+C: WHALE
+D: My gardener, who insisted I bring him today. He so wanted to meet royalty.
+N: Cukor's face goes blank with indignation.
+C: CLAY
+D: Pleased to meet you.
+C: PRINCESS MARGARET
+D: Quite. I adore gardens.
+N: Whale narrows his eyes at Cukor and sharpens his smile.
+C: WHALE
+D: He's never met a princess. Only queens.
+N: Cukor puffs out his chest, quivers a bulbous lower lip at Whale.
+C: WHALE
+D: George, Ma'am, this has been an honor. An occasion to remember for the rest of my days.
+N: He leads Clay away and an American couple promptly crowd in to take their place. Striding through the garden, Whale is obviously pleased with himself.
+C: CLAY
+D: What was that about?
+C: WHALE
+D: Nothing of importance. Just two old men slapping each other with lilies. Shall we have a drink?
+N: Whale leads Clay to a tented bar. Across the way, David Lewis has come through the gate with a WOMAN on his arm. People look discreetly, not at David but at the woman, lightly veiled in a scarf and sunglasses.
+C: CLAY
+D: Who's that?
+C: WHALE
+D: David. The friend I thought was in New York.
+C: CLAY
+D: No. The girl.
+C: WHALE
+D: Girl? Oh. Elizabeth Taylor.
+N: Clay watches in amazement as ELIZABETH TAYLOR waves to someone and pipes out a happy hello. She hurriedly unties her scarf, thrusts it at David and runs off on tiptoes to embrace a woman.
+C: CLAY
+D: Is that really her?
+C: WHALE
+D: David produced her last picture.
+N: David glances around while he slips the scarf into a coat pocket. He sees Whale looking at him. He puts on a tight smile and strolls across the patio.
+C: DAVID
+D: What are you doing here?
+C: WHALE
+D: Just what I was about to ask you. I thought you were in New York.
+C: DAVID
+D: I was, until last night. Publicity asked me to fly Miss Taylor in for today's reception.
+N: The waiter arrives with their drinks. Only when Clay takes his glass of beer does David see that Whale is not alone.
+C: DAVID
+D: David Lewis.
+C: CLAY
+D: Clay Boone.
+C: WHALE
+D: Our yardman. Who was kind enough to serve as my escort to George's little do.
+N: David freezes. Whale lifts his martini glass at Clay and takes a sip.
+C: DAVID
+D: Should you be drinking in your condition?
+C: WHALE
+D: Oh, David, stop being a nanny.
+N: Clay clears his throat, eager to escape this domestic squabble.
+C: CLAY
+D: I think I'll go look at Elizabeth Taylor.
+N: He hurries off.
+C: WHALE
+D: You should have seen Georgie's face when he met Clayton.
+C: DAVID
+D: You didn't, Jimmy.
+C: WHALE
+D: I did. But Princess Margaret was a doll. We're all equals in her eyes. As commoners, I presume.
+C: DAVID
+D: You only embarrass yourself.
+C: WHALE
+D: Oh dear. I'll never work in this town again?
+C: DAVID
+D: You know what I mean. Your reputation.
+C: WHALE
+D: But I have no reputation. I'm as free as the air.
+C: DAVID
+D: Well the rest of us aren't. Can't you remember that?
+C: WHALE
+D: No. I never could. You must regret having had the invitation sent.
+N: David is looking over Whale's shoulder.
+C: DAVID
+D: I didn't ask George to invite you.
+C: WHALE
+D: Then who did?
+C: DAVID
+D: Jimmy, there are people here I need to speak to. You'll be fine on your own?
+C: WHALE
+D: Yes. Perfectly.
+C: DAVID
+D: All right, then. I'll come by tomorrow for breakfast.
+N: Whale nods, watches David stroll over to the pool and greet a gaggle of executives. Whale drifts toward some deck chairs at the far end of the croquet lawn. He sits, takes a sip of his drink. Suddenly a high-pitched giggle pierces the air.
+C: KAY
+D: Mr. Whale!
+N: Whale looks out to see Edmund Kay, his interviewer from several weeks ago, marching across the lawn.
+C: WHALE
+D: Mr....Kay?
+C: KAY
+D: Bet you thought you'd never see me again. I didn't know if you'd be well enough to come to this party.
+C: WHALE
+D: You didn't?
+C: KAY
+D: I'm the one who got you on Mr. Cukor's guest list.
+C: WHALE
+D: You, Mr. Kay? How do you know George Cukor?
+C: KAY
+D: I interviewed him after I met you. I'm his social secretary now. Well, assistant to his secretary.
+C: WHALE
+D: I commend you. If you're going to pursue poofs, go after those who can do favors for you. You waste everybody's time when you court dinosaurs.
+C: KAY
+D: Don't think that, Mr. Whale. I love your movies. That's why I wanted you to come to this. So I could see you with your monsters.
+C: WHALE
+D: My monsters?
+C: KAY
+D: Don't go away.
+N: Whale tries to do just that, but finds himself caught in the chair. He is stumbling to his feet when Kay returns with Elsa Lanchester, 55, at his side.
+C: ELSA LANCHESTER
+D: Jimmy. How are you?
+C: WHALE
+D: Elsa?
+N: She takes Whale's hand, with a look of deep concern and sympathy. Kay races off again.
+C: ELSA LANCHESTER
+D: I saw Una O'Conner a few weeks ago. She said you'd been under the weather.
+C: WHALE
+D: Oh, nothing out of the ordinary. Growing old.
+C: ELSA LANCHESTER
+D: We're all getting a bit long in the tooth.
+C: WHALE
+D: But you appear quite fresh, my dear.
+N: She swats aside the compliment and gestures at the chair.
+C: ELSA LANCHESTER
+D: Please. You shouldn't stand on my account.
+C: WHALE
+D: Perfectly all right. But if you'd like to sit --
+C: ELSA LANCHESTER
+D: I'm fine, Jimmy. I can only stay a few minutes.
+C: WHALE
+D: Of course.
+C: ELSA LANCHESTER
+D: What's our pesky friend up to now?
+N: Kay returns, accompanied by a stopped, gray-haired man with a long rectangular face and wary, heavy-lidded eyes.
+C: ELSA LANCHESTER
+D: Is that Boris? Our little chum appears to be arranging a reunion.
+C: WHALE
+D: Oh dear.
+N: Karloff, age 70, comes reluctantly, followed by his niece ALICE, a bashful young woman who carried a blanket-wrapped bundle.
+C: ELSA LANCHESTER
+D: Boris, darling. I didn't know you were here. These public revels are hardly up your alley.
+C: BORIS KARLOFF
+D: I came for the sake of my visiting niece. Alice. And Miranda, my great-niece.
+N: His huge hand lifts the blanket in Alice's arms, revealing a bald infant with enormous blue eyes. Karloff gurgles and coos at the child.
+C: ELSA LANCHESTER
+D: And what do you make of our royal visitant?
+C: BORIS KARLOFF
+D: Perfectly charming. A real lady.
+C: ELSA LANCHESTER
+D: Of course she's a lady. What did you expect? A hussy in tennis shoes?
+N: Whale looks up and discovers Clay standing a few feet behind Karloff. He is ogling two bosomy actresses who are listening intently to the monocled British consul. Whale's eyes try to focus Karloff and Clay together, his once and future monsters. Kay shouts to a passing photographer carrying a bulky Speed Graphic.
+C: KAY
+D: Hey, you! With the camera! We got a historical moment here. Come get a picture of it.
+N: The man scans the scene for a famous face.
+C: KAY
+D: This is Mr. James Whale, who made "Frankenstein" and "Bride of Frankenstein." and this is the Monster and his Bride.
+N: Clay looks up when he hears Kay identify Karloff.
+C: PHOTOGRAPHER
+D: Oh, Karloff. Right.
+N: Karloff and Elsa drift into position next to Whale. The flash goes off, a snap and a crunch of light. Whale cringes in pain.
+C: ELSA LANCHESTER
+D: Don't you just love being famous?
+E: through clenched teeth
+N: Another flash. From Whale's perspective, the bulb resembles nothing so much as the translucent tube of electrical current from Dr. Frankenstein's laboratory. Whale concentrates on his smile as another snap of light stabs his brain. He clutches Elsa Lanchester's hand.
+C: ELSA LANCHESTER
+D: Are you all right, Jimmy?
+N: A sharp nod from Whale. The photographer motions to Karloff's niece.
+C: PHOTOGRAPHER
+D: Let me get one with Frankenstein holding the kid.
+N: Alice hands over the baby. Karloff gently cradles the child. Whale stands on his left, Elsa on his right. They all smile at the baby, who gurgles and points up. Whale follows the baby's gaze to the sky, where a large kite rocks and strains in a furious electrical storm. The camera flashes once, then again.
+C: PHOTOGRAPHER
+D: Got it!
+N: Whale glances up -- the kite is gone. Thunder rumbles as the group starts to disperse. Whale nods to the faces exchanging good-byes.
+C: BORIS KARLOFF
+D: So good to see you again, James.
+N: He strolls off, clucking and cooing at his baby.
+C: KAY
+D: Catch you before you go, Mr. Whale. I'll make sure everybody gets sent a print.
+N: He goes off with the photographer. Elsa kisses Whale on the cheek.
+C: ELSA LANCHESTER
+D: We'll be in touch, Jimmy.
+C: WHALE
+D: Good-bye. So nice to see you...
+N: Finally Whale is alone. He staggers to the deck chair and lowers himself sideways into the lawn chair.
+C: CLAY
+D: You okay?
+N: Whale gazes up at Clay.
+C: WHALE
+D: Tired. A bit tired.
+N: Clay nods. Whale smiles at him.
+C: WHALE
+D: Are you enjoying yourself?
+C: CLAY
+D: Actually, no. I feel a little out of place.
+C: WHALE
+D: Neither of us really belongs here.
+C: CLAY
+D: Must have been funny for you. Seeing your monsters again.
+C: WHALE
+D: Monsters? The only monsters... ...are here.
+E: closes his eyes
+N: Across the lawn, conversation has stopped. Birdlike shrieks come from all directions.
+C: CLAY
+D: Oh fuck. And we left the top down. You want to run for it?
+C: WHALE
+D: Run for what?
+C: CLAY
+D: Can't you see? It's raining!
+N: The rain is only a flickering of air, but people are jumping and shrieking, throwing coats over their heads as they dash toward the house.
+C: CLAY
+D: Here.
+N: He takes Whale under the arm, helps him up and escorts him to a small tent. On the patio, everyone shoves and squeezes to get through the one open door. Whale stares out, hypnotized by the deluge. From his POV, we see a young man step into the rain. Whale squints, is finally able to identify the man as Leonard Barnett. Whale's eyes follow Barnett as he emerges onto a new landscape, a scarred and barren battlefield. As the storm continues to rage:
+C: CLAY
+D: Mr. Whale?
+E: O.S.
+N: Whale shifts his gaze to Clay. He takes a moment to orient himself.
+C: WHALE
+D: Let's get out of this funk hole
+C: CLAY
+D: You don't want to wait it out? Rain should let up soon.
+C: WHALE
+D: We're not sugar. We won't melt.
+N: Whale adjusts the brim of his hat and steps into the downpour. Clay has no choice except to follow. They walk briskly, the minute splashes on Whale's hat forming a ghostly aura of spray.
+S: INT. CAR - DAY
+N: Whale opens the door and climbs in next to Clay. The roof slowly closes over them.
+C: CLAY
+D: I better get you home before you catch your death from pneumonia.
+C: WHALE
+D: Catch my death.
+N: Clay glances over, sees Whale sitting very wet and rigid, staring straight ahead.
+C: CLAY
+D: You all right, Mr. Whale?
+N: Whale blinks, slowly turns. There is a cracked look in his eyes.
+C: WHALE
+D: Jimmy. Please. Call me Jimmy.
+N: Clay smiles, starts to back the car out.
+S: INT. WHALE'S HOUSE - FOYER - DUSK
+N: The hallway is pitch-dark as Whale and Clay enter.
+C: WHALE
+D: Hanna! Bring us some towels. We're drenched to the bone!
+N: No response.
+C: WHALE
+D: Blast her. If we soil her holy floor, it's her own damn fault.
+N: Whale goes squashing down the hall. Clay remains just inside the open door, prying off his shoes and peeling off his socks. He follows Whale into:
+S: INT. WHALE'S HOUSE - KITCHEN - DUSK
+N: Whale stands over the table with his jaw open.
+C: WHALE
+D: I don't believe this.
+N: He slides a note to Clay.
+C: WHALE
+D: It's not like her.
+C: CLAY
+D: Just a night out. Sounds like she can't say no to her daughter.
+E: reading
+C: WHALE
+D: Certainly you have better things to do than babysit an old man?
+C: CLAY
+D: Good. Let's get dry.
+S: INT. WHALE'S HOUSE - BEDROOM - NIGHT
+N: Whale stands just inside the closet, buttoning a crisp white shirt. He reaches for a red bow tie, closes the closet door. In the mirror, Leonard Barnett stands behind him, in uniform. Whale's eyes twinkle in surprise. He drapes the tie around his collar.
+C: WHALE
+D: What do you think?
+N: Barnett smiles his approval.
+S: INT. WHALE'S HOUSE - UPSTAIRS HALLWAY - NIGHT
+N: Clay opens the bathroom door, calls out.
+C: CLAY
+D: Mr. Whale?
+N: No answer. He goes to the top of the stairs and calls out.
+C: CLAY
+D: Where's those clothes you promised?
+N: Again, nothing. Rain ticks against the windows. Clay goes down the stairs.
+S: INT. WHALE'S HOUSE - BEDROOM - NIGHT
+N: Whale fiddles with the knot of his tie.
+C: WHALE
+D: He trusts me, you know.
+N: Barnett sits on the edge of the bed now. He smiles, a bit sadly.
+S: INT. WHALE'S HOUSE - DOWNSTAIRS HALLWAY - NIGHT
+N: There's glow coming from the bedroom, and the sound of Whale's voice.
+C: CLAY
+D: Mr. Whale? Jimmy?
+N: Clay steps slowly toward the door, pushes it open. He peers in.
+S: INT. WHALE'S HOUSE - BEDROOM - NIGHT
+N: Whale pulls on a blazer.
+C: CLAY
+D: Mr. Whale?
+N: Whale jumps. He slaps a hand over his chest, twists around, sees Clay.
+C: WHALE
+D: Oh, of course. Clayton. You finished your shower already?
+C: CLAY
+D: Ten minutes ago. Didn't you hear me calling?
+C: WHALE
+D: I'm afraid not. Terribly sorry. I believe I promised you some clothes.
+E: stands
+N: Whale crosses to the closet. Barnett is nowhere to be seen.
+C: WHALE
+D: You're much wider than I am. You won't want to attempt to get into my pants.
+C: CLAY
+D: No. Definitely not.
+N: Clay chuckles. Whale smiles.
+C: WHALE
+D: Very good, Clayton.
+N: He takes a robe from a hook on the closet door. Clay tries it on but it won't close over the towel.
+C: WHALE
+D: I know.
+N: Whale opens a drawer, takes out a crewneck sweater.
+C: WHALE
+D: Absolutely swims on me, but should take care of your upper half.
+N: Clay pulls the sweater over his head.
+C: WHALE
+D: That only leaves the rest.
+C: CLAY
+D: You don't have any baggy shorts? Pajama bottoms?
+C: WHALE
+D: Sorry. My pajamas are tailored. Would it be too distressing to continue with the towel? No more immodest than a kilt, you know.
+C: CLAY
+D: Do I have any other choice?
+C: WHALE
+D: Very sporting of you, Clayton.
+N: Clay notices a framed drawing on the desk.
+C: CLAY
+D: Is that --?
+C: WHALE
+D: The only memento I ever kept. My original sketch for the Monster.
+E: nods
+N: He hands the sketch to Clay, who stares down at the famous flat head, hooded eyes, bolted neck of the Monster.
+C: WHALE
+D: Shall we?
+N: Clay puts down the sketch, starts into the hall. Whale turns back, sees Barnett standing by the window. Whale flips off the light and closes the door.
+S: INT. WHALE'S HOUSE - KITCHEN - NIGHT
+N: Clay sits at the kitchen table. Whale opens the refrigerator and brings out two plates wrapped in wax paper, and a bottle of beer for Clay. He pours himself a shot of Scotch from a decanter and sits down.
+C: WHALE
+D: After dinner, if Hanna isn't back? Can we try a few more sketches?
+C: CLAY
+D: I thought you'd given up on my picture.
+C: WHALE
+D: I'd like to try again. If you're game.
+C: CLAY
+D: Why not? Give us something to do while we wait.
+N: Clay munches on his sandwich. Whale pours himself another Scotch, takes a sip.
+C: WHALE
+D: Tell me something, Clayton. Do you believe in mercy killing?
+C: CLAY
+D: Never gave it much thought.
+C: WHALE
+D: Come now. I'm sure you came across such situations in Korea. A wounded comrade, or perhaps one of the enemy? Someone for whom death would be a blessing.
+N: Clay stops chewing. He stares down at his plate.
+C: CLAY
+D: I never went.
+N: He takes a deep breath, looks up at Whale.
+C: CLAY
+D: I never made it to Korea.
+C: WHALE
+D: But you said --
+C: CLAY
+D: -- that I was a Marine. Which is true. You filled in the rest.
+C: WHALE
+D: I see.
+N: Clay downs his beer, refills the glass.
+C: CLAY
+D: My old man was a Marine. He enlisted the day he turned seventeen.
+C: WHALE
+D: The Great War?
+C: CLAY
+D: By the time he was ready to ship out, the fighting was over. He missed out.
+E: nods
+C: WHALE
+D: A very lucky thing indeed.
+C: CLAY
+D: That's not the way he saw it. To him, it was like his life never got started. Nothing else really mattered. Definitely not his family.
+N: Whale gazes sympathetically at Clay.
+C: CLAY
+D: The morning after Pearl Harbor, he drove down to St. Louis to reenlist. He was so damn excited. World War II was going to be his second chance. They told him he was too old...fat ...nearsighted. Said he'd be more use to his country if he stayed home and looked after his family.
+E: sighs
+C: WHALE
+D: Is that why you joined the Marines? For your father's sake?
+C: CLAY
+D: I figured he'd think, you know -- it was the next best thing. Hey, I loved it too. A chance to be a part of something important. Something bigger than yourself.
+C: WHALE
+D: What happened?
+C: CLAY
+D: I didn't have the guts for it.
+N: A look of surprise crosses Whale's face.
+C: CLAY
+D: I mean, literally. My body screwed me up. Burst appendix. They gave me a medical discharge. All I thought about was, how am I going to tell the old man.
+N: He breaks into a crooked smile.
+C: CLAY
+D: You know what he did when I called him? He laughed. He laughed so hard he practically burst a blood vessel. Said it was a good lesson for me. Not to try to fill his shoes.
+C: WHALE
+D: I'm very sorry.
+C: CLAY
+D: Them's the breaks, right? No war stories for this pup.
+C: WHALE
+D: That's where you're wrong, Clayton. You've just told one. A very good story indeed.
+N: Whale lifts his glass in a toast. Clay empties his glass of beer. He motions toward the decanter.
+C: CLAY
+D: Do you mind?
+C: WHALE
+D: Not at all.
+N: He hands the decanter to Clay.
+S: INT. WHALE'S HOUSE - LIVING ROOM - NIGHT
+N: Clay sits in a straight-backed chair, smoking a cigarette and sipping his Scotch. Whale sketches from a wing chair across the room.
+C: CLAY
+D: Storm's getting worse.
+C: WHALE
+D: "A perfect night for mystery and horror. The air itself is filled with monsters."
+C: CLAY
+D: That's from your movie, right? "The only monsters are here."
+C: WHALE
+D: I don't remember that one.
+C: CLAY
+D: James Whale. This afternoon at the party.
+N: Whale looks up.
+C: CLAY
+D: I said it must be weird seeing your monsters again, and you said, "The only monsters are here." I was wondering which here you meant.
+C: WHALE
+D: I don't recall. Memories of the war, perhaps.
+C: CLAY
+D: But that was so long ago. It can't still bother you.
+C: WHALE
+D: Oh, but it does. Especially in light of the journey I'm about to make.
+C: CLAY
+D: You're planning a trip?
+N: Whale's gaze remains dreamy and preoccupied as SOUNDS of battle fill the room. A relentless rat-a-tat of gunfire. The whistling of bombs. The tortured wailing of dying men. Whale stands, moves over to the window.
+C: WHALE
+D: Barnett. Barnett on the wire.
+C: CLAY
+D: Your friend?
+N: Whale gazes out at the storm. From his POV, we see a scarred and barren landscape, illuminated by occasional flashes of lightning.
+C: WHALE
+D: He caught his one night coming back from the reconnoiter. I wouldn't take him out, but McGill did. Just to give the lad a taste. They were nearly home when a Maxim gun opened fire.
+S: EXT. TRENCHES - NIGHT (1917)
+N: We race along the open trench with Whale, the darkened sky intermittently punctured by bursts of gunfire. He reaches the periscope, pulls an enlisted man off it. From his POV, we see Barnett and McGill dodging bullets as they attempt to make their way back.
+C: WHALE
+D: Come on. Come on.
+E: through clenched teeth
+N: McGill leaps over the barbed wire of a forward trench. Barnett follows. Just as his feet leave the ground his chest is riddled by a fresh round of gunfire. Whale's eyes snap closed, trying to obliterate what they've just seen.
+C: WHALE
+D: Barnett's body fell in wire as thick as briers. It was hanging there the next morning, a hundred yards from the line, too far out for anyone to fetch it.
+E: V.O.
+S: INT. WHALE'S HOUSE - LIVING ROOM - NIGHT
+N: Whale stares out impassively.
+C: WHALE
+D: We saw him at morning stand-to and evening stand-to. "Good morning, Barnett," we'd say each day. "How's ole Barnett looking this morning?" "Seems a little peaky. Looks a little plumper." His wounds faced the other way and his hat shielded his eyes, so one could imagine he was napping on bedsprings. He hung there until we were relieved. We introduced him to the new unit before we marched out, speaking highly of his companionship.
+N: Clay's eyes are filled with pity.
+C: WHALE
+D: Oh, but we were a witty lot. Laughing at our dead. Telling ourselves it was our death too. But with each man who died, I thought, "Better you than me, poor sod." A whole generation was wiped out by that war. Millions and millions of young men.
+E: bitterly
+N: Whale begins to hum, a tune we have heard before:
+C: WHALE
+D: Oh death where is thy sting-a-ling? Grave where thy victory?
+C: CLAY
+D: You survived it. It can't hurt you now. It's no good to dig it up.
+C: WHALE
+D: Oh no, my friend. It's digging itself up. There is nothing in the here and now to take my mind off it. All my diversions have abandoned me. Parties. Reading. Painting. Work. Love. All gone to me now.
+N: Whale remains perfectly still, staring out the window. Clay deliberates a moment, then puts down his drink next to the decanter of Scotch. He stands and yanks the neck of the sweater over his face, then tosses it on the sofa. Whale blinks at the reflection in the glass, not yet understanding.
+C: CLAY
+D: You wanted to draw me like a Greek statue. All right, then.
+N: Clay pulls at the knot, lets go of the towel. He defiantly parks his hands on his hips.
+C: CLAY
+D: There. Not so bad.
+N: Whale continues to stare at the reflection, his back to Clay, his eyes wide and expressionless. He turns slowly, fully expecting the vision to evaporate. When he sees that Clay is truly naked he mutters softly under his breath.
+C: WHALE
+D: So it is going to happen after all.
+C: CLAY
+D: What'd you say?
+N: Whale doesn't respond. Finally he opens his mouth to take a breath.
+C: WHALE
+D: No. It won't do.
+C: CLAY
+D: What won't do?
+C: WHALE
+D: You are much too human.
+C: CLAY
+D: What did you expect? Bronze?
+C: WHALE
+D: Don't move.
+N: Whale moves abruptly across the room. He walks past Clay.
+S: INT. WHALE'S HOUSE - DINING ROOM - NIGHT
+N: Whale passes quickly through the dining room and out to the kitchen.
+S: INT. WHALE'S HOUSE - GARAGE - NIGHT
+N: Whale reaches for the hatbox, which sits on top of a garbage can. Suddenly a large hand appears on the box. Whale gasps when a flash of lightning reveals the face of the Monster. The Monster growls out an inarticulate greeting. He picks up the box and hands it to Whale.
+S: INT. WHALE'S HOUSE - LIVING ROOM - NIGHT
+N: Whale removes the lid, sets the hatbox on the sofa.
+C: WHALE
+D: I would like you to wear this?
+N: Whale steps back. Clay takes the box and covers his lap with it. He lifts out the gas mask.
+C: CLAY
+D: Why?
+C: WHALE
+D: For the artistic effect. The combination of your human body and that inhuman mask. It's quite striking.
+C: CLAY
+D: I don't know.
+C: WHALE
+D: Please, Clayton. Just for a minute. Long enough for me to see the effect.
+C: CLAY
+D: It's from the first World War, isn't it?
+C: WHALE
+D: There are straps in back.
+E: nods
+N: Clay fits the mask on the top of his head and draws it down. The living room turns brownish yellow in the thick glass goggles.
+C: WHALE
+D: Let me help you.
+N: Whale is suddenly behind him. Clay's vision is enclosed in two round windows, so he can't see Whale buckling the second strap.
+C: CLAY
+D: Now what?
+N: Mouth muffled by the inhalator, Clay hears his voice from inside his head. Whale comes around to stand in front of him. He grins as he steps back to examine Clay. Clay nervously taps his knees with his hands.
+C: CLAY
+D: All right. Let's take it off now.
+C: WHALE
+D: What was that?
+C: CLAY
+D: It's too tight.
+N: Clay raises his voice to make himself heard. He reaches back to undo the buckles.
+C: WHALE
+D: Allow me.
+N: Whale steps in past the goggles.
+C: WHALE
+D: We don't want to tear the straps.
+N: Clay drops his hands so Whale can undo the buckles. But nothing happens. Clay turns left and right.
+C: WHALE
+D: Oh yes. I am still here.
+N: Two hands grip Clay's shoulders.
+C: WHALE
+D: What steely muscles, Clayton.
+N: Whale's hands squeeze. Clay grabs the frame of his seat, to stop his arms from automatically swinging a fist. Whale's hand slides over Clay's shoulder to his arm, caressing the tattoo. Clay jerks his shoulder to shake Whale off.
+C: CLAY
+D: Just take off the fucking mask!
+C: WHALE
+D: Relax, Clayton. I can't hear you. I can't hear a word.
+N: Whale presses his lips to Clay's tattoo. Clay's muscles tense from head to toe.
+C: WHALE
+D: What a solid brute you are.
+N: Whale's tongue moves down Clay's arm.
+C: WHALE
+D: No? Maybe this, then?
+N: The hand slides over Clay's stomach toward his lap. The tattooed arm swings backward, slamming an elbow against Whale's skull. Clay jumps from the chair, knocking into an end table. The glass and crystal decanter fall to the floor. The lamp spills over and the room goes dark. Clay's ankle is caught by the sofa leg and he hits the floor, jamming the inhalator against his mouth. He quickly gets up, on his knees and elbows, pulling at the mask. Flashes of lightning strobe the room as Whale collapses over Clay's back and holds on.
+C: WHALE
+D: Oh yes. I have you now.
+N: A strap breaks. Clay rips the mask off.
+C: CLAY
+D: Get the fuck off!
+N: Whale's hand squeezes between Clay's legs.
+C: WHALE
+D: What will you do to get yourself back?
+N: Clay jabs with his elbow, flipping Whale on his back. His body straddles Whale's and pins him, face to face.
+C: CLAY
+D: I'm not that way. Get it through your fucking head. I don't want to mess with you.
+C: WHALE
+D: Oh, but you feel good, Clayton.
+N: His hands clasp Clay's hips. Clay's fist opens as it comes down; he slaps Whale across the face.
+C: WHALE
+D: That didn't even sting. You're not such a real man after all. Are you?
+N: Clay whacks Whale's face again.
+C: WHALE
+D: Wait until I tell my friends I had you naked in my arms. Won't they be surprised?
+C: CLAY
+D: I haven't done a damn thing with you!
+C: WHALE
+D: Oh, but you have. You undressed for me. I kissed you. I even touched your prick. How will you be able to live with yourself?
+N: Clay snatches Whale's wrist before it can touch his crotch. With his other hand he picks up the heavy crystal decanter.
+C: CLAY
+D: What the hell do you want from me?!
+N: Whale tilts his face up for another blow.
+C: WHALE
+D: I want you to kill me.
+N: Clay freezes. He stares down at the old man with white hair and wild eyes lying beneath him.
+C: WHALE
+D: Break my neck. Or strangle me. It would be oh so easy to wrap your hands around my neck and choke the life out of me. Please, Clayton. We've come this far.
+C: CLAY
+D: You're crazy.
+N: Whale's eyes glimmer in the sporadic bursts of lightning.
+C: WHALE
+D: Exactly, I'm losing my mind. Every day, another piece goes. Soon there will be nothing left. Look at the sketch I made of you.
+N: Clay turns to the sketch pad, which lies on the floor next to Whale. The page is filled with nothing but doodles and scrawls.
+C: CLAY
+D: Look, if you want to die do it yourself!
+C: WHALE
+D: No, I don't want to die alone. But to be killed by you -- that would make death bearable. They say you never see the one with your name on it. But I want to see death coming at me. I want it to be sharp and hard, with a human face. Your face. Think, Clayton. You'd be my second Monster. Almost as famous as the first. It would be the great adventure you've yearned for. A war story for both of us to share.
+N: Clay's breathing comes in quick, panicked bursts.
+C: WHALE
+D: You'd be fully exonerated, I've taken care of that. I wrote a note, I'll even leave you the house, the car...
+N: Clay's body starts to tremble.
+C: WHALE
+D: Do it now, Clayton. Make me invisible.
+N: Clay lets out a howl -- his shoulders heave and shake.
+C: CLAY
+D: I am not your monster.
+N: He climbs off Whale, crawls away, his body collapsing in wracking, anguished sobs. Whale opens his eyes, gazes at Clay.
+C: WHALE
+D: What have I done? Oh, selfish, selfish fool. I have lost my mind.
+E: sits up
+N: He forces himself to his feet.
+C: WHALE
+D: What was I thinking?
+N: Whale picks up the towel and moves over to Clay.
+C: WHALE
+D: You're a softhearted bloke. A bloody pussycat.
+N: Whale places the towel around Clay's shoulders.
+C: WHALE
+D: My deepest apologies. Can you ever forgive me?
+N: Clay doesn't look up.
+C: WHALE
+D: I suppose not. Good God, I am tired. I really must go to bed.
+E: a bone-crushing sigh
+N: Whale starts slowly down the hall.
+S: INT. WHALE'S HOUSE - BEDROOM - NIGHT
+N: Whale sits on the edge of the bed, tugs the bowtie from his collar. Clay taps on the door, opens it.
+C: CLAY
+D: You okay?
+C: WHALE
+D: Oh Clayton.
+C: CLAY
+D: Did I hurt you?
+C: WHALE
+D: Nothing I didn't deserve.
+C: CLAY
+D: Need some help?
+C: WHALE
+D: Pray you, undo this button.
+N: He lifts his chin and points to his collar.
+C: WHALE
+D: I can never manage it when I'm tired.
+N: Clay leans in to open the button. His face is only six inches from Whale's.
+C: WHALE
+D: Do you believe people come into our lives for a reason?
+N: Clay doesn't answer. Whale turns, breaking their shared gaze.
+C: WHALE
+D: I can undress myself, thank you.
+C: CLAY
+D: All right.
+E: steps back
+N: Whale hauls his legs up and stretches out on the bed.
+C: WHALE
+D: When you die...be sure your brain is the last organ to fizzle --
+C: CLAY
+D: You'll feel better tomorrow.
+C: WHALE
+D: Tomorrow and tomorrow and tomorrow...
+N: Whale smiles fondly at him.
+C: WHALE
+D: Goodnight, Clayton.
+N: Clay pulls the door shut and it clicks. He stands there a moment.
+S: INT. WHALE'S HOUSE - KITCHEN - NIGHT
+N: Clay shakes open a bedsheet and wraps himself in it.
+S: INT. WHALE'S HOUSE - LIVING ROOM - NIGHT
+N: Clay finds a pack of cigarettes on the floor and lights one, then sets the furniture back up. He picks up the gas mask from beside the sofa, shoves it into its box. Clay sits in the wing-back chair, props his feet on the hassock, adjusting the sheet around his shoulders. We CUT TO:
+S: INT. WHALE'S HOUSE - BEDROOM - NIGHT
+N: Whale bolts up in bed. An electrical storm flashes and cracks in the window. Whale gets out of bed, stares outside. From his POV, the lawn is a barren slope covered with stumps. Whale turns on the desk lamp, sits. He pulls out a piece of paper.
+S: EXT. BATTLEFIELD - NIGHT
+N: We're back to the scene that opened the movie, a flat-topped creature stumbling through the mud. A flash of lightning reveals Clay's face. He turns, signals for Whale to follow him. Whale joins Clay on a slight rise of ground, the rim of a crater. Clay points down into it.
+S: EXT. CRATER - NIGHT
+N: The crater is full of bodies gathered around a pool of water. Whale stumbles down, reaches the bottom and bends over the nearest corpse in khaki. It is Leonard Barnett. There are no wounds on his body, no rips or gaping holes. His eyes are closed in dreamless sleep. Whale looks up and sees that Clay is gone. The only other living creature is an owl, which blinks wearily at him. Whale lies down, finding a spot next to Barnett. He takes a last breath and closes his eyes. We CUT TO:
+S: INT. WHALE'S HOUSE - LIVING ROOM - DAY
+N: A roar of bells blasts Clay awake. The telephone is ringing. A hard pair of shoes thunder out to answer it.
+C: HANNA
+D: Hello? Oh, Mr. David!
+N: Clay blinks at the sight of Hanna in black dress and white apron, chattering on the phone by the far wall.
+C: HANNA
+D: No, no, he did not tell me. But no problem. I will make breakfast.
+N: She scoldingly cuts her eyes at Clay.
+C: HANNA
+D: Ten? Very good, then. Good-bye.
+N: She hangs up and faces Clay with a stern frown.
+C: CLAY
+D: It's not what you think.
+C: HANNA
+D: I have brought you your clothes. All I ask is that you get dressed and go. We are having a guest for breakfast.
+C: CLAY
+D: I need to talk to you about Mr. Whale.
+C: HANNA
+D: There is nothing you can say that will surprise me.
+C: CLAY
+D: Maybe. But I still need to talk. Do I have time for a cup of coffee before I go?
+C: HANNA
+D: I blame my daughter for keeping me out so late. I only hope you did not get him excited. It could give him a new stroke.
+N: She stomps into the kitchen. Clay gets up, slips on his undershorts. He's zipping up his chinos when she comes out again with a breakfast tray. She hands him a cup of coffee.
+C: CLAY
+D: Thanks. Why do you do it?
+E: quickly
+C: HANNA
+D: What do I do?
+C: CLAY
+D: Take care of Mr. Whale like he was your flesh and blood.
+C: HANNA
+D: It is my job. I did it when he was happy and it was easy. It is only fair I do it now when he is ill. Enough talk. I must wake up the master.
+E: picks up the tray
+N: She marches around the corner towards Whale's bedroom. Clay hears her knocking on a door.
+C: HANNA
+D: Mr. Jimmy? Morning, Mr. Jimmy.
+E: O.S.
+N: Clay pulls on his shirt. Hanna comes back around the corner.
+C: HANNA
+D: What have you done with him?
+C: CLAY
+D: I put him to bed. He's not there?
+N: She goes to the foot of the stairs and shouts:
+C: HANNA
+D: Mr. Jimmy! Mr. Jimmy!
+N: Hanna starts up the stairs.
+C: HANNA
+D: Look for him!
+N: Clay reaches for his socks when he notices an envelope on the floor next to the chair. He picks it up. On the front is scrawled the word 'CLAYTON'. Clay opens the envelope. Inside is Whale's original sketch of the Monster's head. He turns it over. There is a message written on the back.
+C: CLAY
+D: No.
+N: Clay drops the sketch, looks out. He sees something.
+S: EXT. WHALE'S HOUSE - BACKYARD - DAY
+N: Clay crosses the patio, hurtles down the slope.
+S: EXT. WHALE'S HOUSE - POOL - DAY
+N: Clay leaps headfirst into the water. Whale rests lightly on his back, with an upward sway of straight white hair. Clay hauls the body toward the side.
+C: CLAY
+D: Almost there. Almost there.
+N: He gets an arm around Whale's chest and heaves the body over the curb. he climbs out, drags the body forward to rest in the grass. He grabs the wrist. Nothing.
+C: CLAY
+D: Son of a bitch. You crazy son of a bitch.
+N: Clay straddles Whale's thighs and applies pressure on his rib cage. But it's no use. Clay sits up and takes a deep breath.
+C: HANNA
+D: Ohhh!
+N: Hanna comes down the path, her run slowing to a walk. She stares at Clay.
+C: CLAY
+D: I didn't do it. This wasn't me.
+C: HANNA
+D: Oh, Mr. Jimmy.
+C: CLAY
+D: He wanted me to kill him, but I didn't. He did it himself.
+C: HANNA
+D: He says here good-bye. I find it in his room. He is sorry, he says. He has had a wonderful life.
+N: She waves a folded piece of paper.
+C: HANNA
+D: You poor, foolish man. You couldn't wait for God to take you in his time?
+N: Clay slowly stands up. Hanna looks around in panic.
+C: HANNA
+D: You must leave. You were not here this morning.
+C: CLAY
+D: But I didn't do this!
+C: HANNA
+D: The police will not know that. They will want to investigate.
+C: CLAY
+D: We have his note.
+C: HANNA
+D: Do you want to be questioned about you and Mr. Jimmy? Please, Clayton. It will be better if I find the body alone.
+C: CLAY
+D: But how're you going to explain this? How did you get him out of the pool?
+E: points at the body
+C: HANNA
+D: You are right. Yes. We must put him back.
+N: They both hesitate, looking down at Whale. Then Clay drags the body parallel with the pool. Hanna stoops over to adjust the collar of Whale's shirt.
+C: HANNA
+D: Poor Mr. Jimmy. We do not mean disrespect. You will keep better in water.
+N: She nods to Clay. He rolls the body over and it splashes on its belly. It bounces a moment in the waves of the splash, then begins to sink. As it drops, the air in the chest slowly flips the body around. Looking up at them with open eyes, Whale sinks backward into the thickening light. His arms trail upward and the hands lightly flutter as if waving good-bye. The melancholy sound of a solo violin pierces the silence as we CUT TO:
+S: EXT./INT. BLIND MAN'S HUT - NIGHT
+N: A black-and-white scene from "Bride of Frankenstein." The old BLIND MAN plays a mournful lullaby on his violin while the MONSTER listens outside, moved by the music. He smashes open the door of the hut in an effort to get closer to the soul-soothing sound. The blind man stops playing, looks up.
+C: BLIND MAN
+D: Who is it? You're welcome, my friend, whoever you are.
+N: The Monster attempts to communicate, manages only a plaintive moan. The blind man stands.
+C: BLIND MAN
+D: I cannot see you. I cannot see anything. You must please excuse me. But I am blind.
+N: The Monster holds out his burned hands.
+C: BLIND MAN
+D: Come in, my poor friend. No one will hurt you here. If you're in trouble, perhaps I can help you.
+N: The old man touches the Monster, who recoils with a defensive growl.
+C: BLIND MAN
+D: Can you not speak? It's strange. Perhaps you're afflicted too. I cannot see and you cannot speak.
+S: INT. SUBURBAN HOUSE - NIGHT (1972)
+N: MICHAEL BOONE, 10, lies on the living room carpet, staring raptly at the movie playing on the large Zenith console. The house is small but tidy and comfortable.
+C: BLIND MAN
+D: It's been a long time since any human being came into this hut. I shall look after you. And you will comfort me.
+E: O.S.
+N: On the tv screen, the old man starts to cry, then collapses onto the Monster's chest. A thick tear rolls down the Monster's cheek. Clay Boone sits on the sofa, a baby on his lap. He's 40 now, his hair starting to thin but still closely cropped at the top and sides. On the tv, daylight fills the hut. The blind man and the Monster share a meal.
+C: BLIND MAN
+D: We are friends, you and I. Friends.
+C: MONSTER
+D: Friends.
+C: BLIND MAN
+D: Before you came, I was all alone. It is bad to be alone.
+C: MONSTER
+D: Alone, bad. Friend, good.
+N: He takes the old man's hand.
+C: MONSTER
+D: Friend, good.
+N: The blind man nods. On the sofa, Clay watches his son watch the movie.
+S: INT. LIVING ROOM - NIGHT (LATER)
+N: A color promo for "Chiller Theater" fills the screen. Clay turns off the set.
+C: CLAY
+D: Time for bed, sport.
+N: Michael groans, slowly stands.
+C: CLAY
+D: What'd you think of the movie?
+C: MICHAEL
+D: Pretty cool. Better than most monster movies.
+C: CLAY
+D: I knew the guy who made it.
+N: Michael glances skeptically at his father.
+C: MICHAEL
+D: Come on, Dad. Is this another one of your stories?
+C: CLAY
+D: Here.
+N: Clay unfolds Whale's sketch of the Monster, hands it to his son.
+C: CLAY
+D: It's his original sketch of the Monster.
+N: Michael turns over the sketch. On the back, scrawled in block letters: "TO CLAYTON BOONE -- FRIEND?"
+C: MICHAEL
+D: This is for real?
+N: Clay nods. At the same time, his wife DANA appears in the doorway. A pretty, cheerful woman in her mid-30s.
+C: DANA
+D: The trash, Clay. Before it rains.
+C: CLAY
+D: Okay.
+N: Clay kisses the top of his son's head.
+C: CLAY
+D: Off to bed.
+S: EXT. CLAY'S HOUSE - NIGHT
+N: Clay carries a large metal bin down the tidy lawn. The sky momentarily brightens with a silent flash of lightning. Clay gazes up at the electrical storm. He glances back at his house, sees Dana cradling the baby in an upstairs window. The skies open with a shattering crash of thunder. Clay tilts up his face, drinks in the cool rain. Then he extends his arms and staggers along the sidewalk, imitating the Monster's famous lurch. We PULL BACK, revealing a sleepy neighborhood of small houses and neat lawns, until Clay is only a small dot in the landscape.
+T: FADE OUT.

@@ -1,0 +1,2268 @@
+M: RKO 281
+M: Written by
+M: John Logan
+M: May 1,1997
+M: RKO 281 by John Logan
+S: INT LARGE, DARK ROOM NIGHT
+N: In the ebony shadows of a large room we can make out corners and edges, moldings and cornices; the phantoms of decaying Victorian wealth floating like disembodied ghosts in the darkness. It is May 6, 1924 The harsh flare of a match being struck A shadowy male figure lights a series of nine candles on a birthday cake. Beyond the cake we can see a bed. On the bed lies a woman in her early forties. She is ashen and sickly. Dying. The shadowy male figure finishes lighting the candles, blows out the match and disappears as the woman peers into the darkness.
+C: WOMAN
+D: Come into the light.. Come into the light
+N: A nine-year-old boy steps into the light. She pulls him close and whispers: WOMAN Never stand in the shadows --
+C: BOY
+D: Mother...
+C: WOMAN
+D: You are made for the light, Orson Now you must blow out your candles. But you must always remember, the cake itself is nothing. The flame, the lights, that is where your future lies. You must have a dream. A great dream worthy of you.
+N: The boy immediately spins to the cake and blows out the candles. A moment of darkness. He turns back to the bed. The woman and the bed are
+T: gone, faded into darkness.
+N: The solemn young lad stares and stares into the darkness And then, magically, the faint glimmer of twinkling stars fill his huge dark eyes. NEWSREEL The flickering images of an old newsreel, circa 1940 Under the MGM logo we see the title: BOY WONDER WOWS HOLLYWOOD! The first image after the title is the imposing figure of ORSON WELLES, climbing down from an airplane and surveying the world at his feet. Welles is 24 years old and somewhat handsome. Welles seems rather uncomfortable in his own body, as if it could not possibly contain his vast passions and appetites. Orson Welles is man who tears his way through life with incendiary energy. He is at once inspiring and ferocious; visionary and coldly ambitious. He is part artist, part fraud and all showman. A sonorous voice accompanies the newsreel. The voice is always grand, occasionally sardonic.
+C: NEWSREEL VOICE
+D: He came to the town of magic and dreams a flashing star blazing through the firmament of illusion. And he promised to devour the world in a single gulp. He was 24 years old and his name was George Orson Welles. Sound the trumpets! Unfurl the banners, Hollywood! The Boy Wonder has arrived!
+N: Images of Welles as a baby and his early life fill the screen: Welles in a crib; as a pampered schoolboy; at dance class; drama club; dressed up for a magic show. As we hear:
+C: NEWSREEL VOICE
+D: He made his debut on the world stage in Kenosha, Wisconsin, on the 6th of May, 1915. And on the 7th of May he spoke his first words, and unlike other children who say commonplace things like "momma" and "poppa", he proclaimed "I am a genius!"
+N: At three the genius was reciting Shakespeare and at eight he had taken up cigars and highballs and was learning magic from the knee of the great Houdini. Images of Welles' early theatrical career: the young man playing impossibly old parts; vaudeville magic shows; various regional theaters; endless tawdry rehearsal rooms Then images of Welles and JOHN HOUSEMAN in New York: the great, bustling city; Welles at work with John Houseman on a script; Welles directing a play. As we hear:
+C: NEWSREEL VOICE
+D: So how could the magic of the stage not call to this adventurous lad? Unstoppable and resolute, the Boy Wonder journeyed into the world of the legit theater. After a peripatetic beginning he found himself at last in New York where he joined forces with theatrical producer John Houseman under the august auspices of the WPA Federal Theater.
+N: A rehearsal room interview with John Houseman, who is in his 30's, thin-lipped and prim:
+C: HOUSEMAN
+D: Orson barreled in and took over. Orson's a real barreler.
+N: Images of Welles directing his famous "Fascist JULIUS CAESAR" and "Voodoo MACBETH" productions: auditions; rehearsals; perfecting a sword-fight; rejecting classical costume sketches for JULIUS CAESAR; supervising set construction; performing Brutus in the Albert Speer- like Nuremberg rally lighting of JULIUS CAESAR. As we hear:
+C: NEWSREEL VOICE
+D: Like Hannibal over the Alps, the Boy Genius invaded the Great White Way. He stunned the sedate elite of New York theatre with production after production. From MACBETH with an entirely colored cast to a Mussolini-inspired JULIUS CAESAR!
+N: More images of New York, Welles, Houseman and radio: Welles directing a radio play with sweeping energy; supervising the elaborate sound effects; editing the script; at odds with Houseman. As we hear:
+C: NEWSREEL VOICE
+D: Though he wowed the critics with his spectaculars the ticket sales left something to be desired. So, after founding the Mercury Players with Houseman, young Mr. Welles quickly set his sights on the airwaves. He quickly became the sonorous -' voice of "The Shadow." ''
+N: Newsreel footage of Welles at a standing radio microphone;
+C: WELLES
+D: Who knows what evil lurks in the hearts of men? The Shadow knows. . .
+N: Welles laughs his sinister Shadow laugh and we go to more images of radio and the dynamic Welles performing and directing as we hear:
+C: NEWSREEL VOICE
+D: With Lament Cranston in one pocket and his own radio show. The Mercury Theater of the Air, our Boy Wonder filled the night with his resounding tones. And on October 30th of 1938, he became what he felt destined to be: a household name.
+N: What started out as a roguish Halloween prank became the most famous radio show in the history of the galaxy! Images of the WAR OF THE WORLDS broadcast and panic: listeners huddling next to their radios; telephone switchboards lighting up; New Jersey State Motorcycle Troopers zooming down rural roads; cars clogging the highways. As we hear:
+C: NEWSREEL VOICE
+D: THE WAR OF THE WORLDS sent this nation spinning into a frenzy. Nine million listeners clasped their loved ones close and looked to the skies with horror. Unlucky listeners near the epicenter of the "invasion" -- rural New Jersey -- ran screaming into the night, sure a monstrous alien and a fiery death awaited them around every corner! The mischievous Boy Wonder had fooled us all!
+N: Newsreel footage of a packed press conference with Welles the day following the broadcast:
+C: WELLES
+D: Of course ... of course ... if I had known the panic the broadcast was causing -- well I would have stopped! I never meant for any of this to happen and I feel just horrible!
+E: contritely
+N: Quick newsreel clips of Welles leaving the press conference with Houseman. We see them slip into a taxi. Inside the taxi we can just glimpse Welles exploding with laughter.
+C: NEWSREEL VOICE
+D: How long, oh how long could it possibly be before the sunny land of dreams tried to harness the combustible power of this showman, this impresario, this best of all possible Boy Wonders?!
+N: Images of Welles posing and shaking hands with GEORGE SCHAEFER Schaefer is an intense, compact man in his early 50's. His nickname in Hollywood is "The Tiger" -- both for his admired tenacity and his feared temper. He is a moral and ethical man; John Adams in a Brooks Brothers suit. As we hear
+C: NEWSREEL VOICE
+D: The winner in the Welles derby was George Schaefer, the head of RKO Pictures. With a contract unimaginable before The Days Of Orson, Mr. Schaefer captured the whirlwind snared the beast, roped the tyrant!
+N: Images of Welles and Schaefer: Welles signing his contract; smiling to Schaefer; Schaefer making a speech; Welles joking with reporters. As we hear:
+C: NEWSREEL VOICE
+D: Eyebrows raised and jaws dropped all over Hollywoodland when the terms of the deal that lured The Great Orson came forth: the Boy Wonder could produce, write, direct and star in his own projects with budgets up to $500,000 a picture! He would have total control over the shooting of the picture and the finished product. The studio, well, they just paid the bills. Meanwhile, the insiders of filmland were skeptical.
+N: An interview with a Hollywood Insider, who looks like a bookie:
+C: HOLLYWOOD INSIDER
+D: John Ford doesn't have a deal like that. Cecil B. DeMille doesn't have a deal like that. No one has a deal like that! If ya ask me, George Schaefer is just plain nuts
+N: Images of Welles arriving in Hollywood and touring the town: Welles climbing down from a plane; posing with Schaefer before of the RKO gates; touring the studio; leaning over an editing machine; laughing with female extras in the commissary; posing in front of his Brentwood home. As we hear:
+C: NEWSREEL VOICE
+D: So Cometh Orson! He toured the RKO studio and met with the biggest of the big! He charmed his way through the town from the Brown Derby to the Copacabana, from the Pacific Palisades to the Hollywood Hills!
+N: More images of Welles in Hollywood: Welles touring the town; visiting all the nightclubs and dancing with beautiful women; he is seen everywhere about the town. As we hear:
+C: NEWSREEL VOICE
+D: Yes, the Boy Wonder had arrived! He even charmed those rival maidens of Hollywood gossip, those well- coiffured chroniclers of the dream factory: Hedda Hopper and Louella Parsons.
+N: Shots of Welles with LOUELLA PARSONS and HEDDA HOPPER Louella is a much-feared gossip columnist. She is a gorgon in her 60's; Margaret Dumont possessed by the devil and tanked up on gin. Her capricious cruelty is only matched by her fervent loyalty to all things Hearstian. Hedda is a gossip columnist in her 50's. She is given to elaborate hats and villainous intrigue. Louella's younger, smarter rival, Hedda probably spends her spare time eating children. Then a snippet of an interview with Louella:
+C: LOUELLA
+D: Orson is the sweetest boy. We're both from the midwest, you know. He's just a local fella making good, ya follow?
+N: More shots of Welles just after his arrival in Hollywood, blissfully touring the RKO facilities as:
+C: NEWSREEL VOICE
+D: So today, almost a year after his arrival in Hollywood, we leave the Boy Wonder still hard at work developing his much-anticipated first feature, preparing to dazzle us all again. We're waiting, Orson!
+N: Welles after his RKO tour, smiling mischievously, stands before a microphone:
+C: WELLES
+D: I'll tell you what, this is the best electric train set a boy ever had!
+N: "The End" and newsreel credits The newsreel sputters to a stop in a screening room. A shaft of light shines on a large MGM logo on one wall. Another shaft of light illuminates the sitting figure of LOUIS B. MAYER. Mayer is a short, crafty, bespectacled man in his 50's. His cloying, avuncular exterior only fleetingly disguises the film titan's outrageous barbarism. Another shadowy figure, a Mayer FLUNKIE, can be just glimpsed sitting elsewhere in the screening room. Mayer glowers at the darkened screen for a moment. A beat.
+C: MAYER
+D: Who does that cocksucker think he is?
+C: FLUNKIE
+D: They're laying bets over on the RKO lot that this great deal will end up with him never doing a picture. Back to New York he goes.
+C: MAYER
+D: Serves him right. I mean can you stomach the arrogance?
+C: FLUNKIE
+D: Inside skinny says the glory boy's finished, can't come up with a movie. Wants to do a biography now.
+C: MAYER
+D: After RKO boots him maybe we'll pick him up cheap. Have him do that WAR OF THE WORLDS crap as a feature.
+N: Meantime, shelve the newsreel. No one cares
+S: INT SAN SIMEON. WELLES' SUITE EVENING
+N: Orson Welles, elegant and impressive, is flourishing a cigarette and a coin in his magnificently expressive hands He is perfecting a magic trick. Welles is lounging on the bed of an enormous guest suite at San Simeon. He is wearing a tuxedo. In the bathroom beyond him we can see the writer HERMAN MANKIEWICZ ("MANK". ) Mank is a wonderful wreck of a human being. 43 years old, but looking considerably older, he is short and squat and bitter. A compulsive gambler and drinker, Mank still glimmers with wry humor that is equally wicked and corrosive. He is incomplete without the stub of a cigar clenched in his teeth. Mank, also dressed in a tuxedo, is looking at himself in the bathroom mirror as he struggles with his bow tie. He occasionally glances in the mirror to Welles. Title: JANUARY 3, 1940
+C: MANK
+D: I don't know what you expected with Joseph- fucking-Conrad for Chrissake. I mean this is Hollywood, pal.
+C: WELLES
+D: All right! Enough! I've heard this from Schaefer and RKO. I've heard it from everyone--
+C: MANK
+D: But you keep coming up with the same elitist crap - - HEART OF DARKNESS with a million dollar budget?! - - no one wants to see that.
+C: WELLES
+D: Nonsense
+N: Welles dramatically taps the cigarette on the coin, practicing his trick as:
+C: MANK
+D: What are movies about, Orson?
+C: WELLES
+D: Forget it-
+C: MANK
+D: What are movies about?
+C: WELLES
+D: Telling stories.
+C: MANK
+D: Nope.
+C: WELLES
+D: Showing life
+C: MANK
+D: Who the hell wants to see life?! People are sick to death of life! They want make-believe, pal. Fantasy. They want Tarzan and Jane, not Tristan and Isolde.
+N: Welles quickly makes the cigarette seem to completely pass through the coin. An astounding bit of slight of hand.
+C: WELLES
+D: Magic
+E: happily
+C: MANK
+D: Butts on seats. That's what movies are about. You got one job in Hollywood -- everyone has the same job, in fact -- putting the butts on the seats. You gotta sell 'em popcorn and Pepsi- cola. It's all about popcorn and Pepsi-cola.
+C: WELLES
+D: Not for me.
+C: MANK
+D: Then you better get ready to be the youngest never- was in Hollywood history.
+C: WELLES
+D: That's better than being the oldest has-been in Hollywood history.
+C: MANK
+D: You're a laugh-riot, kid.
+N: Welles laughs and goes to Mank in the bathroom.
+C: WELLES
+D: Here, turn around.
+N: Welles ties Mank's bow tie for him as:
+C: WELLES
+D: So, we've got to come up with our movie. Our biography.
+C: MANK
+D: Right-
+C: WELLES
+D: We find the man and then we dissect him-
+C: MANK
+D: Like a bug.
+C: WELLES
+D: But with compassion and insight--
+C: MANK
+D: Christ, we gotta go! The old man doesn't cotton to lateness.
+E: glancing at his watch
+N: Mank takes a quick swig from a flask of vodka, shoves it into his coat and scurries into the other room as Welles checks himself in the mirror. A beat. Welles smiles, confident and resplendent
+C: WELLES
+D: How do you do, Mr. Hearst? My name is Orson Welles.
+E: into the mirror
+S: INT SAN SIMEON. HALLWAY FOLLOWING
+N: Welles and Mank walk through an impressive upstairs hallway of San Simeon. Quick glimpses of the astounding grandeur everywhere around them as:
+C: WELLES
+D: How about Howard Hughes? We could do Hughes
+C: MANK
+D: I'm not fucking with Hughes. That shit-kicker would kill us dead, baby. Just like Jean Harlow
+C: WELLES
+D: Howard Hughes killed Jean Harlow?
+C: MANK
+D: Sure. Dropped her out of his Lockheed over Utah
+N: They disappear down a long stairway
+S: INT SAN SIMEON. DINING HALL EVENING
+N: An explosion of color and an immediate swirl of sound We are in the Grand Refectory -- the mammoth dining room -- at San Simeon. Five long tables are placed end to end. There are about fifty sumptuously dressed guests. WILLIAM RANDOLPH HEARST and MARION DAVIES preside, side by side, at the center table. Hearst is 76 years old. He is a fully commanding figure, towering in both height (six foot two) and personality. He is shaped rather like a pear and moves with a delicacy surprising for such a famously merciless man. Although the word ruthless does not begin to do justice to the press baron's animus, Hearst is endlessly polite and almost painfully soft-spoken. Marion is 43 years old, a shimmering and lively presence. In a word that might have been coined for her, she has moxie. While the ravages of alcoholism have left their subtle marks on the edges and attitudes of her face, she can still charm and captivate with almost effortless grace. Around Hearst's feet sit a collection of his beloved dachshunds. On the other side of the main table, and down a bit, sit Welles and Mank. We sweep around the table, hearing bits of overlapping dialogue and finally settle on Marion and Hearst. Marion is charming CAROLE LOMBARD and CLARK GABLE, who sit beside her. She tenderly rests one hand on Hearst's arm as she speaks. Marion speaks with an occasionally pronounced stutter.
+C: MARION
+D: And we would hear them scuttling around at night with their little red eyes and little yellow t-t- teeth and I'm just imagining plague lice jumpin' all over the damn place So we set t-t-traps everywhere. And every morning we would find the t-t-traps sprung but no mice!
+C: CAROLE LOMBARD
+D: Houdini mice.
+N: Laughter
+C: MARION
+D: Just wait. So one night I notice Pops getting outta bed and sneaking away. And he's got this little p-p- paper bag with him, right? Middle of the night. So I figure the old man's really up to no good this time and I follow him. Well I'll be g-g-goddamned if he's not springing all the traps and leaving cheese for the rats!
+C: MARION
+D: You and that freak Disney, in love with the damn rats!
+N: Laughter, even from Hearst
+C: HEARST
+D: They really are sweet little things
+N: Meanwhile, across the table Welles is rapaciously devouring his dinner as:
+C: WELLES
+D: Sigmund Freud?
+C: MANK
+D: Kid, you just got your ass kicked on Joseph Conrad and now you're gonna go to Schaefer and tell him you wanna do the id and the superego? Stop being so goddamn smart.
+N: Mank surreptitiously pours a huge shot of vodka from his flask into his glass as:
+C: WELLES
+D: Manolete?!
+E: suddenly inspired
+C: MANK
+D: Who the hell's Manolete?
+C: WELLES
+D: The great Spanish bullfighter
+C: MANK
+D: I don't wanna write about no spic.
+C: WELLES
+D: No, it's perfect! When in doubt, put on a cape! False noses and faux beards and flowing capes have been the life-blood of the actor's craft since the days of lrving and Booth. Imagine me in a glittering suit of lights on the dusky Andalusian plains--
+E: He flourishes his napkin like a bullfighter's cape.
+C: MARION
+D: Why Mr. Welles is attempting semaphore
+N: Welles smiles across the table. Laughter.
+C: WELLES
+D: Bullfighting, Miss Davies!
+C: MARION
+D: And is dear Mank your b-b-bull?
+C: WELLES
+D: My factotum, ally and comrade-in-arms
+C: MANK
+D: Writer, flunkie, pimp--
+C: CAROLE LOMBARD
+D: You fight many bulls there in New York, Orson?
+E: wry
+C: WELLES
+D: Ever met Walter Winchell?
+C: WELLES
+D: No, when I was but a tender lad--
+E: expansively, warming into a story
+C: CAROLE LOMBARD
+D: Last week would this be?
+N: Laughter. As Welles speaks the whole table gradually stops eating and listens to his tale:
+C: WELLES
+D: My father and I made a tour of the grand boulevards of antique Europe. And when we were in Iberia I had the chance to face the bulls. At the knee of the great Manolete I took up the cape and sword - -- across from me stood a mammoth bull reputed to have gored a full seven men to a grisly demise! So - - with Manolete shouting encouragement I flourished . . . I flourished again . . . and the bull charged! Across the golden dust it came, thundering like the great minotaur of legend, closer, ever closer, its calamitous hooves pounding into the dirt, shaking the earth as I held the crimson eye of the bull with my own, defying it -- it was almost upon me and I flourished one last time! -- the monster swept past! -- and my sword was gone -- buried in the bloody eye of the beast!
+E: he uses his napkin and knife to demonstrate he spins his napkin in the air and his knife is now gone, a magic trick
+N: Applause and laughter from around the table. Then:
+C: HEARST
+D: You are evidently a man who knows a great deal about bull.
+E: quietly
+N: Some nervous titters. A beat as Welles' smile fades and he stares at Hearst.
+C: HEARST
+D: Of all man's malignity -- of all his sadism -- none is more depraved than cruelty to animals.
+N: Silence Mank gives Welles a desperate warning look to keep quiet Welles cannot resist speaking:
+C: WELLES
+D: In Spain the cruelty would be in denying the beast a fighting end.
+N: A beat as Hearst rivets Welles with a cold, bland stare Deafening silence around the table. Then:
+C: HEARST
+D: Who are you, sir?
+C: WELLES
+D: My name is Orson Welles
+C: HEARST
+D: The actor
+C: WELLES
+D: And director.
+C: HEARST
+D: I see. And you are in California for what reason?
+C: WELLES
+D: To make pictures.
+C: HEARST
+D: And what pictures have you made?
+N: A beat.
+C: WELLES
+D: None.
+N: A beat. Hearst smiles
+C: HEARST
+D: Well, I wish you luck. It is a treacherous business.
+C: WELLES
+D: So I've been told.
+C: HEARST
+D: In Hollywood the fiercest bulls are the most brutally killed.
+C: WELLES
+D: I'll remember that.
+N: A tense beat. Marion quickly diffuses the situation;
+C: MARION
+D: Enough Hollywood talk! Can't anyone talk about anything else?
+C: MANX
+D: Heard some juicy gossip from Metro.
+C: MARION
+D: Ooh, dish.
+E: eagerly
+N: Laughter. Even from Hearst. Then the dinner chatter continues. Welles cannot keep his eyes off Hearst, the press baron draws Welles in like a siren. Marion gives Hearst a little kiss and grabs Carole Lombard and they leave the table. Hearst leans into Clark Gable to continue talking. Welles sits back and reaches for a cigar. Mank takes his arm and indicates he should stop, nodding his head in Hearst's direction.
+C: WELLES
+D: The man doesn't allow drinking or cigars? This is monstrous.
+E: quietly
+C: MANK
+D: The old man has his own way of doing things
+C: WELLES
+D: He's nothing but a hypocrite. He preaches morality every day in his sordid little papers for everyone else in the world but he lives openly with his mistress.
+N: Mank sneaks another shot from his flask
+C: MANK
+D: Buddy, when you own the largest publishing empire in the universe you can do whatever the hell you want. Think about it, pal. Every day one out of five Americans picks up a Hearst publication. 30 newspapers, a dozen magazines, a bunch of radio stations and the grand dragon of them all. Little Miss Louella Parsons. Tends to give you some of that ol' noblesse oblige.
+N: Welles studies Hearst across the table.
+C: WELLES
+D: Look at those hands. Those are the hands of an artist. A modern Caravaggio.
+C: MANK
+D: No, baby, those are the hands of a killer
+N: Hearst leans down and feeds his favorite pet dachshund, Helen, table scraps. He talks to her gently.
+C: HEARST
+D: There you are, honey. Aren't you a wonderful girl?
+S: INT SAN SIMEON. LADIES LOUNGE FOLLOWING
+N: Marion and Carole Lombard escape into an ornate ladies bathroom. Marion immediately goes to a cabinet and retrieves a bottle of Scotch hidden under some towels. She takes a swig and then hands the bottle to Carole Lombard. She drinks. Marion lights a cigarette.
+C: MARION
+D: God, these parties are the worst
+C: CAROLE LOMBARD
+D: You need to get outta here, Rapunzel
+C: MARION
+D: That's why he has the parties, he says it's like bringing the world to me.
+C: CAROLE LOMBARD
+D: Why don't you come down to LA? Stay with us for a while.
+C: MARION
+D: With about twenty of his spies on my tail. No thanks.
+N: Marion hands the cigarette to Carole Lombard A beat. A beat.
+C: MARION
+D: It's not so bad here. After all, what girl doesn't want to live in a castle?
+E: somewhat ruefully
+C: MARION
+D: Mr. Welles certainly is a caution
+C: CAROLE LOMBARD
+D: Yeah, Orson's a real piece of work. But deep down, he's a good kid. Real deep down.
+E: smiles
+C: MARION
+D: And attractive in a hammy sort of way.
+C: CAROLE LOMBARD
+D: Mm.
+N: A beat. Carole Lombard hands the cigarette back to Marion
+C: CAROLE LOMBARD
+D: Listen, you come down and stay with us for a few days. Just tell the old man that--
+C: MARION
+D: I can't
+C: CAROLE LOMBARD
+D: Sure you can, just--
+C: MARION
+D: He needs me here.
+N: A beat. Carole Lombard does not respond.
+S: INT SAN SIMEON. BALLROOM FOLLOWING
+N: In the cavernous ballroom, a dance band is playing "I'LL BE SEEING YOU." The guests mingle and dance Welles and Mank wander as Welles takes in the impressive surroundings.
+C: WELLES
+D: "In Xanadu did Kubla Khan a stately pleasure dome decree. . . "How big is it, all told? The estate?
+C: MANK
+D: The whole joint is half the size of Rhode Island.
+C: WELLES
+D: Jesus
+C: MANK
+D: Yeah, it's the place God would have built, if he'd had the money.
+N: Carole Lombard and Marion return, rather giggly
+C: MARION
+D: Mankie, Mankie d-d-dance with me
+C: MANK
+D: You've been naughty, haven't you, honey?
+C: MARION
+D: Shit, can you smell it? You got any sen-sen?
+C: MANK
+D: Sorry.
+C: MARION
+D: Mr. Welles, you got any--? Oh fuck it.
+N: She goes off in search of Hearst.
+C: CAROLE LOMBARD
+D: Meanwhile, Orson, I thought your bullfighting story was nifty. Let's cut a rug.
+N: She pulls Welles to the dance floor Mank wanders away and takes another swig from his flask. As Welles and Carole Lombard dance, Welles keeps an eye on Hearst and Marion who are dancing nearby.
+C: CAROLE LOMBARD
+D: So you ever gonna do a picture?
+C: WELLES
+D: Not you too
+C: CAROLE LOMBARD
+D: It's gonna be fine, Orson. You're gonna do great.
+E: smiles
+C: WELLES
+D: I wonder sometimes.
+C: CAROLE LOMBARD
+D: You're just scared.
+C: WELLES
+D: Am I?
+C: CAROLS LOMBARD
+D: Sure
+C: WELLES
+D: And what am I scared of?
+C: CAROLE LOMBARD
+D: Of being found out. Of not being a genius
+C: WELLES
+D: Oh, but haven't you heard? I'm the Boy Wonder. I've been a genius since the moment I was born.
+E: smiles
+C: CAROLE LOMBARD
+D: We've known each other too long, Orson. Sling the bullshit elsewhere.
+C: WELLES
+D: Carole, you wound me! As if I could hope to pacify you with evasions of--
+C: CAROLE LOMBARD
+D: Don't insult me with your cute press quotes Save it for Louella.
+N: She stops and looks at him firmly
+C: CAROLE LOMBARD
+D: You make your mark, Orson.
+N: Nearby Marion pulls away from Hearst sharply, drawing Welles' attention. He overhears:
+C: MARION
+D: Goddamn it. I gotta have some kinda life!
+C: HEARST
+D: There's no call for that language-
+C: MARION
+D: There certainly is I There certainly is! Aw, to hell with you!
+N: She storms off. Welles and Carole Lombard watch her go
+C: WELLES
+D: That poor woman.
+C: CAROLE LOMBARD
+D: She knew what she was signing on for After all, she took the money.
+E: sadly
+N: Welles watches as Hearst stands alone on the dance floor We hear the sound of a lion roaring in the distance
+S: INT SAN SIMEON. WELLES' SUITE NIGHT
+N: Welles, again dressed in a tuxedo, lies on his bed Through the open balcony doors he can hear the eerie sound of lions roaring and elephants trumpeting in the night. He stand and wanders to the balcony. Below him he can see bits and pieces of Hearst's private zoo in the moonlight: a lion pacing relentlessly back and forth; an alligator slipping into the water; a monkey slamming into the bars of its cage. The disquieting sounds of the menagerie float through the midnight air. Welles leaves his suite
+S: INT SAN SIMEON. HALLWAYS FOLLOWING
+N: Welles roams the seemingly endless hallways of San Simeon. In the half- light they begin to resemble his own cinematic dream-palace, Xanadu. He hears the ghostly echo of a song, "WHERE OR WHEN". He curiously follows the sound, taking in the fabulous castle everywhere around him. He passes by the door to the Assembly Room. Inside, shafts of light illuminate portions of huge, uncompleted jigsaw puzzles.
+S: INT SAN SIMEON. BALLROOM FOLLOWING
+N: "WHERE OR WHEN" is now clear. Welles stands in the shadows of a balcony overlooking the great ballroom. Below him a phonograph record spins lazily on a turntable standing of the floor of the deserted ballroom. And Hearst and Marion are enjoying a quiet dance together, her head nestled on his shoulder. Welles stares and stares at them And slowly smiles. We linger on Hearst and Marion as they dance
+S: EXT WELLES' HOUSE. POOL DAY
+N: Welles, wrapped in a bathrobe, is pacing quickly around the perimeter of his backyard pool. He is puffing on a cigar and grunting to himself as he scribbles down notes. Mank, wearing sunglasses and a battered fedora and looking decidedly hung-over, comes from the house to the pool. Welles roars up to him:
+C: WELLES
+D: Mank! You scoundrel! What took you so long?!
+C: MANK
+D: Orson, please ... it's too bright
+E: pained
+N: Welles takes Mank's fedora and flings it away.
+C: WELLES
+D: Here you are, up with the birds for once, you vampire!
+C: MANK
+D: Okay, boy wonder, what?
+E: settling into a deck chair
+C: WELLES
+D: Listen ... I've got it! It came to me like a thief in the night! Pure inspiration! Total magnificence!
+N: Mank takes a glass from a tray of orange juice and pours vodka from a flask into his juice as:
+C: MANK
+D: Oh for Christ's sake-
+C: WELLES
+D: I know who we're going to get I The great American biography! A journey into the soul of the beast.
+C: MANK
+D: This better be good
+C: WELLES
+D: Image a man that has shaped his time. A titanic figure of limitless influence. Think about empire. A man with an empire at his feet. A man, like a baron, living in a palace, a glorious palace on a hill, and controlling the permutations of everyone beneath him. Feudal.
+C: MANK
+D: Oh Christ...
+E: realizing
+C: WELLES
+D: Image the possibilities as this man controls the public perception of the nation through his--
+C: MANK
+D: Oh Christ
+N: A beat as Welles stands in triumph before Mank.
+C: WELLES
+D: Yes.
+C: MANK
+D: Please don't say this.
+E: quietly
+C: WELLES
+D: Mank-
+C: MANK
+D: Don't whisper it. Don't even think it
+C: WELLES
+D: How long have we spent casting our minds about the world when the answer to our prayers was right here under our noses -- every single day in the newspapers and on the radio -- waiting for us in that ridiculous castle! Waiting for--!
+C: MANK
+D: Orson. Stop. Just stop
+N: Welles quickly sits in a deck chair next to Mank as: Beat
+C: WELLES
+D: Now remember he's a public figure who sought out that publicity so legally he can't stop us from--
+C: MANK
+D: Listen to you. You child! Men like him don't bother with things like legality. They don't have to. You know why, boy-o? Power. Power like you couldn't even begin to imagine.
+E: laughs coldly
+C: MANK
+D: Howard Hughes, he would just kill us. Hearst he would kill us and fuck everything we ever loved.
+C: WELLES
+D: We're doing Hearst.
+N: A beat. Mank slowly removes his sunglasses and leans forward, dead serious. A beat.
+C: MANK
+D: You may think you know what you're talking about, kid, but believe me, you don't. You're talking about going into a battle you can never win on a battlefield so far above things like movies and Hollywood that Hearst won't even have to glance down when he crushes you. When he flicks you away with one finger. I'm talking about money and influence and evil beyond your capacity to imagine Hell.
+C: WELLES
+D: So speaks the court jester.
+C: MANK
+D: Fuck you
+C: WELLES
+D: I expected more from you.
+C: MANK
+D: Sorry to disappoint.
+C: WELLES
+D: How does it feel, Mank? Going up to the palace and making all the lords and ladies laugh as you tell your little stories and beg for crumbs at the table? How does it feel being the ugly little monkey they keep to amuse themselves--?!
+E: with building venom
+N: Mank leaps to his feet
+C: MANK
+D: It feels just fine, you pompous fuck-
+N: Welles blocks Mank's way. Mank retreats. Welles pursues him around the pool as:
+C: WELLES
+D: I remember a man who wrote I He was a brilliant writer who dazzled me time and time again with his wit and insight--
+C: MANK
+D: Don't do this
+C: WELLES
+D: Where did he go? He hasn't had a screen credit in four years--
+C: MANK
+D: Don't do this
+C: WELLES
+D: --Because he has been so furiously busy wasting himself. Amusing his keepers. Because he is a sycophant! Because he has been thrown out of every studio in Hollywood and no one will hire him because he's a drunk- -!
+E: savagely
+N: Mank spins on him:
+C: MANK
+D: AND YOU'RE NOTHING BUT A GODDAMN PHONY! What is all this "Orson Welles" bullshit?! This boy genius crap?! What the fuck did you ever CREATE? You're just another goddamn ACTOR!
+N: Welles shoves Mank violently. Mank goes sailing into the pool. Mank splashes to the surface and stands for a shocked moment and then wades to the edge of the pool. Miraculously, and like the true drinker he is, Mank is still holding his glass of juice and vodka, now supplemented with pool water. Welles stands above him, blocking his exit from the pool. From this low angle Welles suddenly looks startlingly Kane- like. A pause
+C: MANK
+D: Let me out.
+C: WELLES
+D: Listen to me-
+C: MANK
+D: Fuck you--
+C: WELLES
+D: I am giving you the last chance you will ever have to be yourself again!
+C: MANK
+D: I don't have it anymore?!
+E: suddenly
+C: MANK
+D: When I was a kid I wanted to scorch the world too - - I had all kinda dreams about making great pictures and telling great stories. But all that's finished for me--
+C: WELLES
+D: It doesn't have to be
+C: MANK
+D: And yeah, sure, Hearst's a great subject. Been keeping notes on him for years for my ... great American novel. But I can't do it anymore. No studio's gonna hire me and I - -
+E: he laughs bitterly
+C: WELLES
+D: I'll hire you -- right now-
+C: MANK
+D: I can't do it. okay?! I drink too much -- I drink all the fucking time and I don't have it anymore. All that is over for me--
+C: WELLES
+D: NOT UNLESS I. TELL YOU IT IS
+E: roars
+N: A tense pause Welles kneels by the edge of the pool, effortlessly switching gears.
+C: WELLES
+D: Look, Mank, this is our only chance
+E: deeply
+N: I know this is the story. And now is the time. And I cannot do it without you. Everything in my life -- all the promise and potential and dreams -- have led to this moment right now. To you and me. Right here. A pause. Welles gazes at Mank, imploring
+C: MANK
+D: He'll destroy us.
+C: WELLES
+D: Then let him. What have we got to lose, you and I?
+N: A long beat Welles leans close to him.
+C: WELLES
+D: Take my hand, Mank. And we'll dance one last time. We'll dance to the music of the angels. We'll make history. We'll scorch the earth. We will ... astonish them all.
+N: Silence as Welles offers his hand to Mank. Mank takes a sip from his glass of juice, vodka and pool water.
+C: MANK
+D: Thank God you don't write dialogue
+S: INT WELLES' LIVING ROOM DAY
+N: Mank is slowly sharpening a series of pencils with a pocket knife, blank pads waiting. Welles is standing across the room from him.
+C: WELLES
+D: So, who is he? We have to know him.
+C: MANK
+D: Everyone sees someone different. That's what we show.
+C: WELLES
+D: How?
+C: MANK
+D: Like a jewel. Turn it in the light and a different facet is illuminated.
+N: Mank finishes sharpening his last pencil and picks up a pad He smiles to Welles
+C: MANK
+D: Go
+N: And we leap into MONTAGE -- WELLES AND MANK BRAINSTORM A rush of jazzy. Gene Krupa percussion as Welles and Mank develop their story. We see images of feverish creativity. Welles raging, pleading, arguing, pushing. Mank responding, laughing, drinking, writing. It is a passionate dance of creation Welles' tennis court Mank and Welles are on the tennis court, but hard at work. Mank waits for Welles to serve. Welles bounces the tennis ball, but is too preoccupied to serve as:
+C: WELLES
+D: The key -- the key -- the clue -- what does this man recall on his death bed? Okay, Mank, you're dying. What's the last image that comes to you? Right now.
+C: MANK
+D: This girl on a dock. White dress. Never said a word to her.
+C: WELLES
+D: Why her?
+C: MANK
+D: She was . . . innocent
+N: A beat, Welles deep in thought. Mank watches Welles closely.
+C: MANK
+D: So when was our man innocent? Was there a moment early on -- of innocence and bliss? There must have been. Okay, you're dying - what do you think?
+N: Welles does not answer. He continues to bounce the tennis ball, deep in thought. A beat
+C: MANK
+D: Something you lost maybe?
+E: probing
+C: MANK
+D: Something you can never get back?
+N: Mank watches as Welles lets the tennis ball drop. It bounces and rolls -- for a fleeting moment in Welles' mind it seems to become the rolling snow globe from KANE -- we hear the sound of sleigh bells and a child's happy voice -- in the snow globe we seem to see a boy laughing and pelting his father with snowballs. . . Then more images, mad and outlandish and sedate and solemn; in the kitchen, in a car, around the pool, in a bar. Welles and Mank act out scenes and argue. They leap from character to character fearlessly. Emoting and laughing and writing. We see the twin joy and terror of walking the tightrope, of sheer creation. We see them having a ferocious argument. They scream back and forth angrily and then Mank storms out and slams the door. Welles stands alone in his living room, he catches a glimpse of his own reflection in a mirror and we hear:
+C: MANK'S VOICE
+D: Men like Hearst don't love..
+N: Welles' living room: Welles is slowly advancing on Mank. Mank sits, watching Welles approach. The living room is now filthy. Papers and sketches and gin bottles are discarded everywhere around them, a thick cloud of cigar smoke. It is very late at night and the room is in semi-darkness.
+C: WELLES
+D: All men love. But men like Hearst -- they don't bother with convention because--
+C: MANK
+D: They don't have to.
+C: WELLES
+D: He loves in his own way. On his conditions. Because those are the only conditions he has ever known.
+N: Welles is now standing over Mank, a dark figure in silhouette. Mank soaks in this somewhat ominous image. More music and images: eating and working; swimming and working; playing and working simultaneously. Then: Beach: Sunset. We see them walking along a deserted beach Welles is walking in the surf, his trousers rolled.
+C: WELLES
+D: Hearst looks down at the world at his feet Everything has always been beneath him.
+E: quietly
+C: MANK
+D: And what does he see?
+C: WELLES
+D: The people. When they pay him homage, he adores them. But when they have the ... audacity to question him. To doubt him. To embarrass him. Then he despises them.
+C: MANK
+D: And when he looks up? What does he dream about?
+N: Welles stops and looks up. A thousand stars twinkle above him. They are reflected in his eyes. A long pause as he does not answer Mank Then
+C: MANK
+D: I'm ready to write it, Orson
+N: Welles turns to him. You're sure? Yeah. Mank gazes at Welles. WELLES MANK I know him The clatter of an old typewriter is heard. EXT/INT + BUNGALOW. VICTORVILLE DAY Victorville is a rural desert community in San Bernadino County about 90 miles from LA. Mank and John Houseman are ensconced in a bungalow at Campbell's Guest Ranch, writing the movie. Mank, smoking a cigar, paces around the cacti and shrubs in the backyard reciting to their secretary. She pounds away on a typewriter as he orates. A huge stack of papers lies neatly by her typewriter. This is clearly the longest screenplay in the history of the world.
+C: MANK
+D: Leiand: "You talk about the people as if you owned them. As though they belonged to you. But you don't really care about anything except you." Craig: "A toast then, Jedediah, to all those people who didn't vote for me today and to love on my own terms. Those are the only terms anybody ever knows. . . "
+N: We float into the house as we continue to hear Mank's recitation... Inside, John Houseman is busy rifling through Mank's room as he listens:
+C: MANK'S VOICE
+D: "...because in the end a man looks into the mirror and sees one face looking back not humanity -- not "the people" -- one face. And he's got to be able to look at that one face and know he was true. "
+E: CONT.
+N: Houseman uncovers a bottle of vodka hidden under Mank's bed He pours the bottle down a bathroom drain as he calls out the window:
+C: JOHN HOUSEMAN
+D: That's too long. Tighten it up
+N: Outside, Mank snarls and then revises:
+C: MANK
+D: You're killin' me here, Housey. Okay, make that, Craig: "A toast, Jedediah, to love on my own terms. Those are the only terms anybody ever knows, his own."
+N: Houseman emerges from the house.
+C: JOHN HOUSEMAN
+D: Telegram from The Christ Child
+N: He tears open the telegram and reads: Beat.
+C: JOHN HOUSEMAN
+D: "Schaefer loves the idea. Stop. Start writing. Stop. Stop drinking. Stop. Did you work in the jigsaw puzzles. Question mark. Don't stop. Stop. Love you madly, Orson."
+C: MANK
+D: That man makes my brain hurt
+N: We fade to a beautiful drawing of a dark, cavernous room. Perhaps it is a perfect matte painting from KANE. Real or illusion? The image turns into...
+S: INT SOUND STAGE, RKO LOT DAY
+N: Welles is standing in the middle of an enormous sound stage, empty but for a table with some elaborate set models. He is;' slowly walking around the models, studying them, imagining' his movie. The sound stage door opens and a man enters, carrying a small black bag. He is cinematographer GREGG TOLAND. Toland is a quiet, efficient and slim man of 36. He is brilliant and fearless. Toland walks to Welles and, without a word, pulls an Oscar statue out of the bag and sets it down in the middle of one of the set models. He looks up at Welles as we hear:
+C: WELLES' VOICE
+D: And Gregg Toland plunks down his Oscar for WUTHERING HEIGHTS and says, "Mr. Welles, I want to shoot your picture. . . "
+S: INT THE BROWN DERBY DAY\NIGHT
+N: The chic Brown Derby restaurant is the unquestioned palace of Hollywood celebrities. The smug big-wigs and desperate hangers-on circulate and score points in the Great Game of Movie Gossip. In one corner booth sits Hedda Hopper, phoning in the latest salacious gossip to her newspaper. In the other corner booth Louella Parsons does the same. They occasionally glance back and forth at each other like ravenous hyenas eyeing the last bit of carrion. Welles circulates between them. In a scene reminiscent of the famous CITIZEN KANE breakfast table scene with Kane and Emily, we shoot back and forth as Welles applies his considerable charm to both women. Welles is dressed differently with each of them; breakfast with Hedda and dinner with Louella. With Hedda, morning:
+C: WELLES
+D: ... And I said, "Mr. Toland, you are the finest cinematographer in Hollywood, why would you desire to work with a stumbling neophyte?"
+E: CONT.
+N: With Louella, night
+C: WELLES
+D: And he replied, "Mr. Welles, the only way to learn anything new is to work with someone who doesn't know a damn thing."
+N: Louella screeches
+C: LOUELLA
+D: Priceless!
+E: scribbling on a pad
+N: With Hedda, morning:
+C: WELLES
+D: Hedda, this movie is going to look like no other picture ever made.
+N: With Louella, night:
+C: WELLES
+D: Tome it's a question of truth and illusion. Don't you get tired of the errant falsity in motion pictures?
+C: LOUELLA
+D: Huh?
+C: WELLES
+D: What we are going to do is shoot life -- in all it's joyous complexity.
+N: He takes out a coin and begins a magic trick
+C: WELLES
+D: Consider this quarter, my dear. You can touch it and feel it and were you to lean forward you could even smell it. Why is it that in the movies a simple bit of reality -- a quarter, a room, a man--
+N: With Hedda, morning:
+C: WELLES
+D: Becomes nothing but a lie? A trick. An illusion.
+N: He makes the quarter 'completely disappear. Hedda is charmed
+C: WELLES
+D: I will show the reality behind the trick.
+N: He makes the quarter appear again and shows the guts of the trick.
+C: WELLES
+D: I will use the illusions of Hollywood to show . . . the truth.
+C: HEDDA
+D: What does truth have to do with movies?
+N: With Louella, night
+C: LOUELLA
+D: So, what, it went into your other hand?
+E: confused
+N: With Hedda, morning:
+C: WELLES
+D: And so the dreamer awakens into the realms of reality. He has been given a rendition of the truth. He has been treated with respect.
+C: HEDDA
+D: Orson, that's all terribly interesting but what's all this about you and Dolores Del Rio? Do I hear love birds a'singin'?
+N: Welles sighs. With Louella, night:
+C: LOUELLA
+D: Now, Orson, you know I'm just dyin' to see your picture and I know it's gonna be boffo, but you're writing about a publisher, right?
+C: WELLES
+D: We're using-
+C: LOUELLA
+D: You're not doin' Hearst, are you?
+C: WELLES
+D: Good God no! The character is a delicious amalgamation of various press barons--
+C: LOUELLA
+D: A delicious amalgamation, is it?
+N: He leans forward to light her cigarette as:
+C: WELLES
+D: That's right. A symphony of those: vaunted and valued tellers-of-truth. Those heroic minutemen standing sentry on our liberties--
+S: EXT.
+C: LOUELLA
+D: Orson, hold on. Look into my eyes. Tell me you are not doing Hearst.
+C: WELLES
+D: I am not doing Hearst.
+S: INT BUNGALOW. VICTORVILLE DAY
+N: Mank and Houseman watch nervously as Welles reads the last page of their massive screenplay. The script, almost half a foot high, is piled on a table next to Welles. He sets down the last page and looks at Mank. A beat
+C: WELLES
+D: It's 350 pages long.
+C: MANK
+D: Yeah, but the margins are real wide.
+C: WELLES
+D: It is 350 pages of ... ABSOLUTE INSPIRATION!
+N: He leaps up and embraces Mank
+C: WELLES
+D: Housey, get us a drink.
+N: Houseman glances at Welles, surprised, but dutifully scampers inside.
+C: WELLES
+D: I told you you could do this! How could you have ever doubted me!? You must never doubt me again!
+N: Mank laughs
+C: MANK
+D: It's good, huh?
+C: WELLES
+D: Good?! Good?! Words fail you at last! It's terrific! Now I'll have to do some shaping, of course, and some of the scenes aren't exactly . . . exactly . . .
+C: MANK
+D: What?
+C: WELLES
+D: Short enough. But this is a grand start And I think we need to change the name.
+C: MANK
+D: The title?
+C: WELLES
+D: No, AMERICAN is a blessed title directly sent from God's soul to your mind. We shall never change that! I mean the name of the publisher. Charles Foster Craig doesn't have the knives-out poetry I need. I was thinking about "Kane" -- you like that?
+C: MANK
+D: Cain -- like the Bible guy?
+C: WELLES
+D: K-A-N-E. One strong syllable. Kane I
+C: MANK
+D: Craig is one syllable
+E: weakly
+C: WELLES
+D: But it's not a great syllable
+N: Houseman returns with a tray of drinks. Welles hands glasses all around as:
+C: MANK
+D: I --um-- I don't know if I should. I ain't been drinking since I started on this--
+C: WELLES
+D: To my invaluable comrade Drink up!
+E:  toasting
+N: Mank is stunned Welles smiles and drinks.
+S: INT CAR. DESERT ROADS DAY
+N: Welles sits in the back of his limo as his chauffeur speeds him back to Los Angeles. He goes through the script with a fervent intensity. He crosses out huge sections and tosses away entire pages. The' floor around his feet is littered with discarded pages. Mank sits drinking heavily as the sun sets in the distance Houseman is busy packing in the house behind him. Houseman notices Mank and goes to him They stare at the crimson of the setting sun for a moment
+C: MANK
+D: I'm out, aren't I?
+C: HOUSEMAN
+D: Welcome to the world of Orson Welles.
+N: We focus on Mank's glowering face. But the background is somehow different. We are at...
+S: INT MANK'S CAR NIGHT
+N: Late at night. Mank is sitting in his car, drinking from his flask and listening to period jazz music from the car radio. He is parked outside Welles' house, waiting and seething and very drunk. He sees Welles pulling into his driveway and climbing out of his car. Mank takes a final swig and then bolts after him, carrying a script. .
+S: EXT WELLES ' HOUSE FOLLOWING
+N: Mank roars unsteadily up to Welles:
+C: MANK
+D: YOU FUCK! YOU SELFISH FUCK!
+N: Mank flings the script in Welles' face. Welles recoils
+C: WELLES
+D: Jesus Christ --
+C: MANK
+D: YOU CAN'T DO THIS TOME -- THIS WAS OUR STORY, REMEMBER? -- YOU AND ME AND GODDAMN EVERYONE ELSE - - REMEMBER THAT?!
+N: Mank snatches up the script and thrusts it in Welles' face
+C: MANK
+D: Pal from the studio sent this -- you see that?! What does it say?! WHAT DOES IT SAY ORSON?!
+N: Welles bats the script away:
+C: WELLES
+D: Get away from me--
+N: Mank pushes the title page of the script toward Welles as
+C: MANX
+D: It says AMERICAN by Orson Welles. YOU TOOK MY NAME OFF THE FUCKING SCRIPT!
+C: WELLES
+D: It's obviously a mistake, Manki Some steno girl made a mistake, alright?!
+C: MANK
+D: You can't do this to me--!
+N: Welles spins on him:
+C: WELLES
+D: I fucking well can! I own your script and I can do anything I goddamn want. And don't forget for one minute that I took your 350 pages of drunken rambling and I made a movie out of them -- and now I've got to shoot the bastard. So thank you very much, I have all I need. And you can stop calling me.
+E: savagely
+N: He goes into his house and slams the door. Mank leans against the door in stunned exhaustion. Then he slides down the door and sits leaning against it.
+C: MANK
+D: I hope you choke on it. I hope it kills you.
+E: quietly
+N: Inside the darkened House, Welles is leaning against the front door. Silent.
+S: INT ,, SAM SIMEON. ASSEMBLY RQOM NIGHT
+N: The Assembly room is Hearst's private sanctum high in a tower at San Simeon. Marion is valiantly trying to piece together a huge jigsaw puzzle. Hearst enters and goes to her. He puts his hand gently on her shoulder.
+C: MARION
+D: This is supposed ta be Siam or some such. Some kinda lousy B-B-Balinese temple. This look like a temple to you? I can't see it myself--
+C: HEARST
+D: Darling, I talked to Millicent.
+E: quietly
+N: Marion stops working at the puzzle. She does not look up. Beat
+C: HEARST
+D: She said no
+N: A pause. Then: Marion slowly reaches out for the puzzle and delicately place a piece in the proper position.
+C: MARION
+D: There. That's right.
+C: HEARST
+D: She's a Catholic. She says it would put her soul in peril. Divorce is a very serious sin, apparently.
+C: MARION
+D: Nuts. She only cares about the money. She thinks I'll make you cut her out of the w-w-w-w... will.
+E: not looking up she clenches her fists
+N: A long, difficult pause
+C: HEARST
+D: I'm so sorry.
+N: Marion slowly stands and walks to a liquor cabinet and pours a stiff drink. Hearst watches sadly, but doesn't say a word
+S: INT SCHAEFER'S OFFICE. RKO LOT DAY
+N: Welles paces before Schaefer's massive desk with typical combustible energy. Behind the desk, huge picture windows show the bustling activities of the RKO lot.
+C: WELLES
+D: It's an awful title, of course, but I can't think of anything better. Someone came up with A SEA OF UPTURNED FACES -- which has a nice, grand ring to it -- and I thought of JOHN CITIZEN, USA but that strikes me as a bit Warner Brothers. Or, God forbid, Capraesque. I suppose AMERICAN will do for now but--
+C: SCHAEFER
+D: CITIZEN KANE
+C: WELLES
+D: Pardon?
+C: SCHAEFER
+D: CITIZEN KANE There's your title.
+N: Welles muses
+C: WELLES
+D: A "Z" and a "K" in the title. That would draw the eye. For the poster. I like that THE PRISONER OF ZENDA had a "Z" and a "P" and that worked--
+C: SCHAEFER
+D: Now look, Orson, let's not get ahead of ourselves. The budget projections on this--
+C: WELLES
+D: I know, I know! But what more can you expect of me?! I have pared this story down to the marrow to save money but to cut more would be to--!
+E: theatrically
+C: SCHAEFER
+D: Listen, get off your horse with me. You know I've stuck by you since the beginning of time it seems like, while the stockholders in New York were ready to cut and run and everyone else in Hollywood was set to toss me in a rubber room. But your contract stipulates a max budget of 500 thousand. This one's gonna come in at 750 thousand. What do we do about that?
+N: A beat
+C: SCHAEFER
+D: Now don't have a fit -- but I want you to think again about doing WAR OF THE WORLDS-
+C: WELLES
+D: Jesus
+C: SCHAEFER
+D: Do WAR OF THE WORLDS as a feature and everyone's happy. You make some money and New York's happy and you have a track record and then we'll move on to KANE.
+C: WELLES
+D: Please don't ask me to do this.
+C: SCHAEFER
+D: It's the safe bet, Orson. There's nothing wrong with that.
+N: A long pause as Welles leans against a wall, his head down He does not look at Schaefer as:
+C: WELLES
+D: George, I want you to let me make this movie because I need to make it. And I don't really know
+E: simply
+N: why. Afterwards there' II be all the time in the world to make money and sell popcorn. And I'll do that for you. For RKO and New York. But for now ... please let me tell this story. A beat. Welles finally looks up at Schaefer
+C: WELLES
+D: It's your decision, George. If you look into my eyes right now and say, go make WAR OF THE WORLDS, I will. I'll make it. And, yes, it'll make you money.
+N: And I honestly can't think of a reason in the world why you should let me do KANE other than that you should. A long pause as Schaefer studies Welles. Then
+C: SCHAEFER
+D: If it'll get you the hell out of my office, go ahead and make the picture.
+N: Welles drops his head, too moved to speak. Then he nods to Schaefer and begins to leave.
+C: SCHAEFER
+D: Say thank you, Orson.
+N: Welles glances at him.
+C: SCHAEFER
+D: For the title
+C: WELLES
+D: Ah, it's a grand title.
+E: smiles
+N: He sweeps out. Schaefer smiles and shakes his head.
+C: SCHAEFER
+D: Like it would kill him to say thank you
+S: EXT SOUND STAGE. RKO LOT DAWN
+N: The sun is just rising on the RKO lot. We note a sign on the wall by the sound stage door: CITIZEN KANE. RKO PRODUCTION #281. DIRECTOR: ORSON WELLES
+C: ABSOLUTELY NO
+D: ADMITTANCE.
+S: INT RKO SOUND STAGE FOLLOWING
+N: Absolute silence. Welles stands in the mammoth sound stage and looks around, it is as if he has entered a great cathedral. A few lights illuminate portions of the stage and giant lighting rigs and scaffolding soar to the unseen ceiling miles away. The Xanadu Great Hall set awaits. Welles slowly walks to the set and stands, surveying his domain, savoring the moment. Title: JULY 30, 1940 He clears his throat and speaks, rehearsing his first day speech to the cast and crew. His voice echoes.
+C: WELLES
+D: Today we - -
+N: He stops, surprised by the echo.
+C: WELLES
+D: Today we are going to break every rule in motion picture history...
+N: No . . We are going to shatter every rule in Today we are going to shatter the hallowed busts of Griffith and DeMille and Ford. We are going to show the world a new way of seeing. Together we will blaze a trail... As Welles continues to rehearse we slowly ascend the scaffolding and lighting rigs...
+C: WELLES' VOICE
+D: Together we will throw away all the maps and we will become -joyously lost in the wilderness. And the future cartographers of Hollywood will forever chart our course. Following our lead...
+N: We continue to ascend and finally discover two electricians on the upper catwalk, staring down in amusement, much like the two stagehands at the opera in KANE.
+C: WELLES' VOICE
+D: And do you know why we're going to do this?
+N: Again to Welles on the stage floor: A beat. Welles slowly smiles.
+C: WELLES
+D: We're going to do this because it's going to be fun.
+N: Above, one of the electrician's throws the switch on a huge spotlight. Welles is captured in the vibrant white light and Benny Goodman's immortal "SING, SING, SING" immediately explodes and we are into: THE MAKING OF CITIZEN KANE A camera crane sweeps dramatically to the ceiling of the sound stage and brilliant white lights flash on. A film clapper snaps: CITIZEN KANE. RKO PRODUCTION 281 DIRECTOR:
+C: ORSON
+D: WELLES.
+N: And we see Welles racing heroically into making his first movie: In varying KANE makeups he tears through scenes and actors: laughing with AGNES MOOREHEAD on the cabin set; charming RUTH WARRICK on the breakfast table set; berating DOROTHY COMMINGORE on the Great Hall set... He speeds back and forth and back and forth from the set to the camera in the Campaign Headquarters set, never happy with the shot. . . Gregg Toland watches, bemused, as Welles shifts tiny prop pieces on the set. . . Welles bullies and screams and pleads and seduces. Like an obsessed artistic tornado he is seemingly everywhere at once. We see him rejecting matte paintings and in makeup and rewriting the script and trying on costumes and selecting props and leaping into odd positions looking for the perfect camera angle. It is very important in this sequence that we see the pressure building ... building ... building ... on Welles. "SING, SING, SING" continues On the Xanadu stairway set Welles behind the camera, filming actor Paul Stewart
+C: PAUL STEWART
+D: "Rosebud? I'll tell you about Rosebud.
+C: WELLES
+D: Again.
+N: A film clapper: take 58
+C: PAUL STEWART
+D: "Rosebud? I'll tell you about Rosebud.
+C: WELLES
+D: Again.
+N: A film clapper: take 59
+C: PAUL STEWART
+D: "Rosebud? I'll tell you about Rosebud.
+C: WELLES
+D: Again
+N: "SING. SING, SING" continues... in a corner of the sound stage: Welles, in full Kane makeup, studies a miniature model of the Kane Campaign Headquarters set through a tiny periscope with cinematographer Gregg Toland.
+C: WELLES
+D: It needs a ceiling, Gregg. Real rooms have real ceilings.
+C: GREGG TOLAND
+D: You want a ceiling on this one too?
+C: WELLES
+D: You bet.
+C: GREGG TOLAND
+D: Gonna be tough
+C: WELLES
+D: No, it's gonna be impossible. That's why we're doing it.
+E: smiles
+N: SING, SING, SING" continues Back on the Xanadu stairway set: Poor Paul Stewart, now at his wit's ends, continues:
+C: PAUL STEWART
+D: "Rosebud? I'll tell you about Rosebud."
+C: WELLES
+D: Again
+N: The film clapper: take 112.
+C: PAUL STEWART
+D: "Rosebud? I'll tell you about Rosebud
+C: WELLES
+D: Again
+N: Paul Stewart screams and collapses. "SING, SING, SING" continues... On the Atlantic City nightclub set: Welles watches as the camera crane attempts the dizzying and difficult maneuver from the skylight at the top of the set down to Dorothy Commingore as Susan Alexander below. The camera crane goes out of control and crashes through some light fixtures and swings crazily down toward Dorothy Commingore. She yelps and leaps away as the camera barrels through the table and smashes to the floor. Welles stands next to Toland. A beat.
+C: WELLES
+D: Well, that didn't really work
+N: "SING, SING, SING" continues. Back on the, Xanadu stairway set Paul Stewart, dazed and shattered, is listening intently. Welles stands with his arms around Stewart, embracing him, whispering into his ear.
+C: WELLES
+D: It is the most important line of the picture. You will weave the magic of "Rosebud" in a single word - - you will say the word in such a way as to impart to us the mystery of it. It is a divine and sinister mystery worthy only of your talent. In this one word the movie soars or falls. Once more, I beg you.
+N: Stewart nods. The film clapper: take 178. The cameraman leans into the viewfinder. We see his black- and-white view of the shot through the lens then: In a cramped editing room we see Welles watching the scene on an old editing moviola. On the moviola we see Paul Stewart taking a deep breath and then, magnificently:
+C: PAUL STEWART
+D: "Rosebud? I'll tell you about Rosebud."
+E: On moviola
+C: WELLES' VOICE
+D: Print. ;'
+E: On moviola
+N: On the moviola we see Stewart laugh hysterically and dance away. In the editing room, Welles shakes his head
+C: WELLES
+D: Actors.
+N: "SING, SING, SING" continues. On the Campaign Headquarters set: Welles and Toland lie on the floor of the Campaign Headquarters set and gaze up through viewfinders. They squirm about on the floor and laugh to one another about their newest outlandish idea. Then Toland notices something in the catwalks high above the set. A redheaded ELECTRICIAN. TOLAND Orson, you see that electrician up there? The redhead. He was on GRAPES OF WRATH. He's a free- lance studio spy. Probably reports right back to the RKO boys in New York. Welles slowly stands and THUNDERS:
+C: WELLES
+D: STOP EVERYBODY STOP!
+N: All the flurried activity on the sound stage immediately stops. Every eye turns, terrified, to Welles. Welles glares up at the redheaded electrician
+C: WELLES
+D: YOU COME DOWN HERE!
+N: The electrician slowly climbs down from the rafters. Welles rivets him every step of the way. The electrician stops before Welles.
+C: ELECTRICIAN
+D: Mr. Welles...?
+N: A tense beat and then Welles fiercely and purposefully spits in the electrician's face. The electrician recoils, stunned.
+C: WELLES
+D: GET OUT
+N: Welles returns to Toland as the electrician slinks off "SING, SING, SING" continues as: We see the magnificent film emerging. Welles watching scenes in a screening room, his feet up, exhausted, almost asleep, a cigar dangling from his lips... We see rushes of Welles going through scenes with Dorothy Commingore as Susan Alexander. He is relentless with her off camera, driving her to the harridan outbursts he wants just before he steps into the shot... We see the crew observing, with great amusement, Welles' stumbling attempts to learn the "Charlie Kane" dance... We see Toland shifting lights to achieve deep-focus cross-fades. Welles rages as the difficult process eats up time... We see Welles growing increasingly manic. The long hours and the pressure are clearly taking a toll.. We return to the screening room. Welles is now fully asleep. His cigar falls from his mouth and begins smoldering on his suit. "SING, SING, SING" fades at... On a Xanadu set: Filming a scene. Welles, in old-Kane makeup, is sitting with Dorothy Commingore as Susan Alexander. He is curiously distracted. She is pouring tea in the scene:
+C: DOROTHY COMMINGORE
+D: "Charlie, you sure got the funniest ways of looking at things . "
+N: Welles does not respond. He breaks character
+C: WELLES
+D: No -- no -- I'll pour the tea. Sorry. I should pour the tea. Let's try that again.
+N: Toland stands behind the camera and watches Welles. There is obviously something wrong.
+C: WELLES
+D: Okay, here we go... Set. Action
+N: Welles pops into character and pours the tea in the scene as:
+C: DOROTHY COMMINGORE
+D: "Charlie, you sure got the funniest ways of looking at things . "
+N: Welles stops, breaks character again:
+C: WELLES
+D: No -- that's not right
+N: He clears his throat and glances at the enormous crew, all staring back at him expectantly.
+C: WELLES
+D: Urn. . . ah . . . yes -- you should definitely pour the tea. Okay, again. Sorry.... Set. Action.
+N: They start the scene again. She pours the tea
+C: DOROTHY COMMINGORE
+D: "Charlie, you sure got the funniest ways of looking at things . "
+N: A pause as she waits for his reply in the scene He sits, frozen.
+C: TOLAND
+D: Orson, you wanna take five?
+C: WELLES
+D: Five...? Yes. No. We're done today
+N: He slowly walks off the set as he nervously pulls at his tie, tearing it off. Toland watches him go.
+S: INT BROWN DERBY DAY
+N: Louella is at her usual corner booth, on the phone to one of her many spies. She is devouring a Cobb salad as she hears:'
+C: PHONE VOICE
+D: I don't know if this means anything but I just talked to a guy in the RKO art department They've got all these books and crap all over the place. Pictures of San Simeon.
+N: Louella instantly stops eating
+C: PHONE VOICE
+D: For the Welles picture.
+C: LOUELLA
+D: Pictures of the castle?
+C: PHONE VOICE
+D: Yeah
+C: LOUELLA
+D: Thanks, doll. Get me more.
+N: She hangs up, intrigued.
+S: INT WELLES' HOUSE
+N: Welles is standing, absolutely lost, in the middle of his living room. He is still in his old-Kane makeup which is just beginning to peel off his face. We hear a low, insistent drum beat, a Gene Krupa riff. We hear the sound of an ice pick chipping into a block of ice. Welles glances around. We are no longer in Welles' living room but at. . .
+S: INT MANK'S HOUSE. SANTA MONICA DAY
+N: A turntable spins in a corner, playing a Gene Krupa record. Ashtrays overflow with cigar butts and messy piles of pages are littered around a typewriter. Mank's beach house is tiny and on the edge of squalid Welles, still in his peeling old-Kane makeup, is standing in the middle of the living room and Mank is in the small kitchenette, chipping ice for drinks. A long pause
+C: WELLES
+D: And I'm looking at them -- and they're all looking at me and I don't know who should pour the tea. '
+C: MANK
+D: Uh huh.
+C: WELLES
+D: I just can't . . see it anymore
+N: Mank returns to the living room and thrusts a drink in Welles hand.
+C: WELLES
+D: I want you back
+C: MANK
+D: Fuck you. You wanted me out. I'm out.
+E: He sits.
+C: WELLES
+D: I'm sorry.
+C: MANK
+D: I don't care.
+N: Welles hands Mank a folded script from his jacket. Mank looks at it as:
+C: WELLES
+D: This is the shooting script we've been using every day.
+N: Sure enough, the title page of the script reads: CITIZEN KANE by Herman J. Mankiewicz and Orson Welles.
+C: WELLES
+D: It's just like we always said it would be
+N: Mank hands it back
+C: MANK
+D: Too late, kid.
+N: Welles sits.
+C: WELLES
+D: Did I ever tell you about my father?
+C: MANK
+D: I don't give a shit about-
+C: WELLES
+D: He was a drunk. And he was my father and I was ashamed of him.
+N: A beat. Welles proceeds quietly and with difficulty.
+C: WELLES
+D: He showed me the world, he took me with him everywhere -- Europe, China -- and he was so proud of me. But he would drink and he would get ...embarrassing. And I began to resent him Because I was so ... sparkling, you see.
+N: So I cut him dead. I turned my back and I walked away because I didn't need him. He was getting in the way of my "genius." And he would write me letters, and I never answered them, and he would call me, and I never took his calls, and he showed up at school and I wouldn't see him. Tears are beginning to inch down Welles' face
+C: WELLES
+D: When I finally saw him again, he was in a coffin. I was fifteen. And all of a sudden he wasn't that embarrassing drunk anymore ... he was the man who showed me the world.
+N: Welles looks up at Mank, tears now streaming down his face.
+C: WELLES
+D: Just like you, Mank.
+N: A long beat. Mank, despite himself, is moved. To cover his emotion Mank rises and goes into the kitchen to freshen his drink. We remain tight on Welles as we hear Mank's voice:
+C: MANK'S VOICE
+D: So you've lost it? Don't know who should pour the tea.
+C: WELLES
+D: Yeah
+N: A beat
+C: MANK'S VOICE
+D: Orson ... just cut the goddamn tea
+C: WELLES
+D: Okay
+N: A beat. Welles reaches for a cigar, tears still wet on his face.
+C: MANK'S VOICE
+D: I been thinking about the beach scene. You done that yet?
+N: WELLES No
+C: MANK'S VOICE
+D: Good -- cause I was thinking that we're starting the scene too late...
+N: Welles quickly bites off the end of his cigar -- his expression one of "Gotcha!" -- even as. his cheeks are still wet with tears.
+C: MANK'S VOICE
+D: Cause if we don't show Susan watching Kane more then we're not building the right tension into the scene. See, she's gotta know that...
+E: CONT.
+N: Welles slowly smiles as the record of Gene Krupa's percussion segues into the unmistakable rhythms of "SING, SING, SING" and eclipses Mank's voice... And we see Welles everywhere, more energized than ever: perilous on a high crane; stuck in a cramped corner behind the camera; doing magic tricks for the cast; sleeping as makeup is applied to his face... Mank is always at Welles' side: supporting; challenging; amusing; inspiring. . . We see Welles strutting, raging, boasting, dancing. And again towering. "SING, SING, SING" finally ends at.. Through the black-and-white viewfinder we see Welles, in full costume and makeup, carefully walking across the massive Kane Campaign Headquarters set toward us. We see the low angle black-and-white camera's perspective.
+C: TOLAND'S VOICE
+D: Closer ... closer ... closer -- stop. We just lost your head.
+C: WELLES
+D: Can you see my shoes?
+C: TOLAND'S VOICE
+D: Yeah, but we lose your head.
+C: WELLES
+D: Goddamn it Joe -- stand here
+N: JOSEPH COTTON, also in full costume and makeup, steps into the shot and takes Welles' position as Welles scurries out of the frame. . ..
+S: INT SOUND STAGE. RKO NIGHT. FOLLOWING
+N: Welles marches across the set and squirms into position at the camera, which is right on the floor, and peers up through the viewfinder. Toland lies next to him. Mank stands to one side and- watches.
+C: WELLES
+D: It's just not low enough. This is the scene. We have to look up at these two man as pillars soaring to the sky. As towering virtues in combat--
+C: TOLAND
+D: Spare me the aria, I know what you want--
+C: WELLES
+D: I need my shoes in total focus right here and also Joe back there--!
+C: TOLAND
+D: I know what you want but it can't be done!
+C: WELLES
+D: Take apart the fucking camera rig -- we could get a few more inches down and then tilt up--
+C: TOLAND
+D: Orson -- we can't get the fucking camera any fucking lower so find another fucking shot!
+N: Welles thinks for a moment and then bolts up. Toland watches, mystified, as Welles races to a sound stage fire station and grabs a fire axe. Welles storms back to the set and raises the axe high. Toland quickly rolls away. And Welles slams the axe into the wooden floor of the set. He continues to hack at the floor.
+C: WELLES
+D: Come on, Gregg! We'll tear out this floor!
+N: Welles and Toland and various grips hack at the floor Mank watches, bemused, and checks his watch Welles and Toland finally tear away the remnants of the wooden floor. They stare down, defeated. Under the wood is solid concrete. Welles and Toland stand and stare at the concrete
+C: TOLAND
+D: It's midnight, why don't we pick it up tomorrow?
+N: Welles does not answer. He continues to eye the concrete Then:
+C: WELLES
+D: Get me a jackhammer.
+N: We see a grip pounding away at the concrete with a jackhammer as Welles, always in motion, sweeps past Mank and Joseph Cotton.
+C: MANK
+D: There but for the grace of God, goes God.
+E: wryly, to Cotton
+N: Welles slams to a halt in front of the unit physician and thrusts out an arm. The physician injects him with a dose of B-12. Welles can barely wait for the injection before he speeds off. Welles supervises as Toland lowers the camera into the freshly dug hole in the middle of the sound stage. Mank checks his watch, 3:30 AM. Welles leaps into the trench to check the camera setup. Again we see the view through the black-and-white viewfinder. Joseph Cotton stands at a distance, at the far wall of the set.
+C: WELLES' VOICE
+D: Okay, Joe . . . come closer . . . closer
+N: We see Cotton approaching. He finally stops inches away from the camera. His shoes and the far wall of the set are both in total focus. It is a breathtaking, vertiginous shot. Then we see Welles and Joseph Cotton rehearsing and rehearsing and filming and filming the scene. Endlessly Finally we seem to be seeing the scene from the movie
+C: WELLES
+D: "Well, if you got drunk to talk to me about Miss Alexander, don't bother. I'm not interested. I've set back the sacred cause of reform, is that it? All right, if that's the way they want it, the people have made their choice. It's obvious the people prefer Jim Gettys to me."
+C: JOSEPH COTTON
+D: "You talk about the people as if you owned them. As though they belonged to you. As long as I can remember, you've talked about--" Orson, I am so goddamn tired--
+E: he breaks character
+N: We continue to watch the scene through the viewfinder:
+C: WELLES
+D: Keep filming.
+E: to the camera operator
+C: JOSEPH COTTON
+D: I can't remember the lines!
+C: WELLES
+D: Then make them up! You're drunk and you're angry.
+N: He shoves Joseph Cotton brutally
+C: WELLES
+D: This is the chance you've been waiting for, boy. Tell that son of a bitch just what you think of him!
+C: JOSEPH COTTON
+D: We're not all hopped up on benzedrine, Orson I Some of us humans need sleep!
+N: Welles shoves him again.
+C: WELLES
+D: You're not going to get another chance, boy! Look right at the monster and you tell him--
+C: JOSEPH COTTON
+D: "You don't care about anything except you. You just want to persuade people that you
+E: deeply
+C: JOSEPH COTTON
+D: love them so much that they ought to love you back. Only you want love on your own terms. "
+E: CONT.
+C: WELLES
+D: "A toast then, Jedediah, to love on my own terms. Those are the only terms anybody ever knows, his own."
+N: Welles/Kane drinks. A long pause.
+C: WELLES
+D: Cut. Print
+N: We jump out of the black-and-white viewfinder and into the scene as Welles turns to an assistant.
+C: WELLES
+D: How 'bout a real drink?
+C: TOLAND
+D: We done?
+C: WELLES
+D: Yeah.
+N: The crew members exhale and practically collapse Welles stands and looks around in satisfaction. He takes in the empty corners of the sound stage, the sets, the cameras Savoring the moment.
+C: WELLES
+D: It's finished.
+E: quietly
+N: He walks to the massive doors of the sound stage and pulls them open. Sunlight floods in. Outside it is a blazing morning and the dazzling sunlight silhouettes Welles. Welles squints and steps into the glorious sunlight. Mank and Toland follow. They stand and watch as RKO extras and crews bustle about on their way to work. The assistant brings a tray of martinis. They each take a glass. The RKO workers stare at them oddly as they pass. Welles toasts them.
+C: WELLES
+D: Good morning, good morning. . .
+N: He grabs a passing extra and dances with her as Mank and Toland laugh.
+S: EXT HEDDA'S MANSION. PATIO MORNING
+N: Hedda Hopper reclines on her patio. An extremely ugly pug dog sits in her lap. She has green goo all over her face and a cigarette dangling from her lips. Title: THREE MONTHS LATER. JANUARY 3, 1941 She is going through the trades. She stops at a particular item. She studies it and then reaches for the phone and dials.
+C: HEDDA
+D: Orson, Hedda here! You naughty boy! You told me that I would be positively the first human soul to see your masterpiece and here I read in the Reporter that there's a screening tonight for the magazines ... yes, advance deadlines, I understand . . . . . . oh, rough cut, uh-huh ... Been there, Orson, know the drill. See ya tonight!
+E: on phone she smiles
+N: She hangs up. Her hideous dog leaps on her and starts licking her face goo.
+C: HEDDA
+D: Get offa me, ya little prick
+S: INT OUTSIDE AN RKO SCREENING ROOM NIGHT
+N: Welles paces nervously outside the doors to the screening room. Schaefer stands leaning against a wall. From inside we can hear some of the final dialogue from CITIZEN KANE.
+C: WELLES
+D: This is an abomination There's no music and--
+C: SCHAEFER
+D: They've all seen a rough cut
+C: WELLES
+D: The magazines are one thing -- but Hedda! Why did we have to let her come?!
+C: SCHAEFER
+D: When Hedda says "I'm coming" you mix a lot of martinis and you pray.
+N: Silence from inside the screening room. The movie is over. An agonizing silent pause Then the doors swing open and the guests stream out. Totally neutral expressions. The bejeweled Valkyrie, Hedda herself, finally emerges. She stops before Welles. A beat. She reaches up and pinches his cheek, a bit too hard. And then she slaps his cheek, a bit too hard. And then she goes
+C: WELLES
+D: What the hell did that mean?!
+S: EXT HEDDA' S MANSION. PATIO MORNING
+N: Hedda paces and smokes as she waits on the phone. Finally, she is connected:
+C: HEDDA
+D: Why hello, Mr. Hearst! I'm so delighted you could take my call. I just wanted to let you know -- I saw this Orson Welles picture last night. First screening ever, don't cha know, and, Mr. Hearst, I don't understand something . . . ... I just don't understand why Louella hasn't told you it ' s all about you. . . Yes, oh yes . . . My pleasure, sir.
+E: brightly she smiles wickedly
+N: She hangs up
+C: HEDDA
+D: Take that, you old cow
+S: INT SCHAEFER'S OFFICE DAY
+N: Schaefer sits at his desk, going through some budget sheets. His intercom buzzes, he presses a button: SECRETARY'S VOICE Mr. Schaefer, Miss Parsons is here
+C: SCHAEFER
+D: Here? As in right outside the door?
+E: into intercom
+C: SECRETARY'S VOICE
+D: Yes, sir
+C: SCHAEFER
+D: Well, send her in!
+E: chipper, into intercom
+N: He releases his intercom button
+C: SCHAEFER
+D: Shit
+N: He bolts up and races to the liquor cabinet as Louella sweeps in like the Lusitania in fur.
+C: LOUELLA
+D: Schaefer, I gotta see this Welles picture
+C: SCHAEFER
+D: Louella, hello, I was just fixing a drink, would you like--?
+C: LOUELLA
+D: You drink at 10 am, do you?
+E: eyeing gossip
+C: SCHAEFER
+D: No -- no -- I mean--
+C: LOUELLA
+D: I wanna see the picture today
+C: SCHAEFER
+D: That might be a tad difficult because Orson is scoring the picture now and he's very particular about the music--
+C: LOUELLA
+D: Cut the malarkey, buddy. The boss himself wants me to see the picture today.
+C: SCHAEFER
+D: He personally asked you to?
+C: LOUELLA
+D: That's right
+N: Beat
+C: SCHAEFER
+D: Hearst?
+C: LOUELLA
+D: Uh-huh
+N: Beat
+C: LOUELLA
+D: I'll be back at noon. Set it up in screening room four.
+N: She sweeps out
+C: SCHAEFER
+D: Oh god
+S: INT RKO SCREENING ROOM DAY
+N: Louella watches CITIZEN KANE We watch her enormous face, grim and glowering, bathed in flickering blue light as we hear a bit of the dialogue: " KANE " "You'll continue with your singing, Susan. I don't propose to have myself made ridiculous. "
+C: "SUSAN ALEXANDER"
+D: "You don't propose to have yourself made ridiculous I What about me?! I'm the one that's got to do the singing! I'm the one who gets the razzberries!"
+N: With that, Louella bolts up and stomps out of the screening^ room... '
+S: INT OUTSIDE THE SCREENING ROOM FOLLOWING
+N: Welles and Schaefer are again nervously waiting in the hallway. Louella slams out the door and almost crashes into Welles A beat as she glares at him. If looks could kill She storms off Welles and Schaefer are too stunned even to speak as we hear:
+C: LOUELLA'S VOICE
+D: It is . . . assassination.
+S: INT SAN SIMEON. ASSEMBLY ROOM DAY
+N: Hearst sits with one of his dachshunds on his lap Louella sits across from him. Hearst does not move a muscle in the entire scene.
+C: LOUELLA
+D: It's all you. It has the political campaigns and the mining fortune and the war with Pulitzer and the castle. And ... Marion.
+E: CONT.
+C: HEARST
+D: How so?
+C: LOUELLA
+D: The jigsaw puzzles and the, urn, career -- the man spending a fortune to make her a star -- only it's opera and not movies. And...
+C: HEARST
+D: Yes?
+C: LOUELLA
+D: The drinking.
+E: quietly
+N: A beat
+C: HEARST
+D: So my life is a subject for mockery. All of it. Every detail. Every personal detail.
+E: very controlled
+N: Louella nods. A beat.
+C: HEARST
+D: Thank you for your time
+C: LOUELLA
+D: Thank you, sir. She begins to leave
+N: A beat A pause
+C: HEARST
+D: Miss Parsons, I have one additional question for you.
+C: LOUELLA
+D: Sir?
+E: stops
+C: HEARST
+D: Why did we not know about this sooner?
+C: LOUELLA
+D: Sir?
+C: HEARST
+D: I pay you a good deal of money to be my eyes and ears in Hollywood, do I not? If you cannot provide this simple service you are of no use to me.
+C: LOUELLA
+D: Sir, I-
+C: HEARST
+D: Please be quiet.
+E: lethally
+N: A young man has made a motion picture detailing my life. This motion picture was made at a not insignificant studio. And you knew nothing about it.
+C: LOUELLA
+D: He lied to me
+C: LOUELLA
+D: He looked into my face and told me it wasn't about you.
+C: HEARST
+D: And how do you feel when you are lied to?
+N: A beat.
+C: LOUELLA
+D: I want blood
+C: HEARST
+D: Good. Retain that feeling. Let it nourish you from this day forth. It shall nourish us both
+N: She nods and leaves the room We linger on Hearst, his expression dark and dangerous.
+S: INT SCHAEFER'S OFFICE EVENING
+N: Welles reclines on a sofa, smoking a cigar, orating, while Schaefer sits at his desk absently flipping through the evening edition of the LA EXAMINER.
+C: WELLES
+D: Give me one dinner with her and I'll sort it out. Woman of a certain age are woefully susceptible to a younger man's charm. I'll make myself so monumentally attractive that
+N: He is distracted by Schaefer flipping through the newspaper anxiously. Schaefer tears back and forth in the paper and then swivels around in his chair to grab another newspaper. He flips through it. And then stops.
+C: SCHAEFER
+D: Oh Christ...
+E: sickened
+N: Welles leaps up and goes to Schaefer's desk. Schaefer has placed the two newspapers side by side on his desk. He points to one
+C: SCHAEFER
+D: This is the morning edition of the EXAMINER.
+N: He points to the other
+C: SCHAEFER
+D: And this is the evening edition. Notice anything?
+C: WELLES
+D: The ad..
+N: Indeed, the morning edition contains a large ad for the RKO movie KITTY FOYLE. In the evening edition the ad has been replaced by innocuous copy.
+C: SCHAEFER
+D: They dumped our ad.
+N: He flips through the evening edition and then looks up at Welles.
+C: SCHAEFER
+D: They dumped all our ads.
+E: quietly
+S: INT MAYER'S OFFICE DAY
+N: Louis B. Mayer sits at his massive desk, taking notes Hearst sweeps in. Mayer is surprised.
+C: HEARST
+D: Louis
+C: MAYER
+D: Randolph!
+C: HEARST
+D: Hope you don't mind my popping in--
+N: MAYER No -- no -- sit down, please
+C: HEARST
+D: What a wretched place this is. I can't come to town without feeling filthy. You really must buy that parcel of land by the castle and come north.
+E: sitting
+N: I only wish I could. You know, business
+C: HEARST
+D: Quite. And this is why I came to visit. Have you heard about this CITIZEN KANE picture?
+C: MAYER
+D: Over at RKO?
+N: A beat.
+C: HEARST
+D: Mm. Not a very good picture I am told.
+C: MAYER
+D: Uh-hub.
+E: confused
+C: HEARST
+D: Apparently it details the exploits of a publisher like myself. Entirely too much like myself. Do you follow so far?
+C: MAYER
+D: Yeah
+N: A beat.
+C: HEARST
+D: I can't see how the release of that picture will do anyone any good, really.
+C: HEARST
+D: Say, while I'm in town why don't we play 18 holes at Bel Air? Or maybe just nine. Do you have time for a round today?
+N: He gazes at Mayer. Mayer looks at him, disquieted A pause. A beat
+C: HEARST
+D: And maybe we could get Mr. Warner and Mr. Goldwyn and Mr. Cohn and Mr. Selznick to play as well.
+C: MAYER
+D: You know that can't happen.
+E: quietly
+C: HEARST
+D: Oh, why is that?
+C: HEARST
+D: Why is that, Louis?
+C: MAYER
+D: Bel Air is restricted.
+C: HEARST
+D: Oh, that's right. How silly of me to have forgotten. I sometimes forget that you're all Jews. Lots of people forget that. If they ever knew it.
+N: A tense pause
+C: HEARST
+D: See what you can do about this CITIZEN KANE picture, won't you?
+C: MAYER
+D: Yeah
+E: quietly
+N: Hearst stands.
+C: HEARST
+D: And you'll come out to the castle soon, I hope Marion and I would love to see more of you.
+N: He smiles and goes. Mayer sits, shaken
+S: INT BROWN DERBY NIGHT
+N: Schaefer sits with Louella in her corner booth
+C: LOUELLA
+D: That's right, fella, no Hearst paper will run an RKO ad until you agree that CITIZEN KANE will never see the light of day.
+C: SCHAEFER
+D: Louella, please, be reasonable, I understand you have problems with Orson's picture but maybe we can work something out--
+C: LOUELLA
+D: Nix, sweetie. You shelve it
+C: SCHAEFER
+D: Oh for God's sake, Louella-
+C: LOUELLA
+D: And Mr. Hearst has authorized me to tell you that you're looking at the most beautiful lawsuit in history if you release this picture. He'll bleed your little studio dry and you can all go on back to New York and do Shakespeare with the Boy Wonder.
+C: SCHAEFER
+D: Can I talk to Hearst?
+C: LOUELLA
+D: You are talking to him.
+S: INT SAN SIMEON. ASSEMBLY ROOM DAY
+N: Hearst stands with his arms behind his back, very Kane-like, and surveys a collection of about 30 newspapers spread around the floor at his feet. His newspapers. Marion sits in a corner, doing needlepoint. Hearst picks up one of his papers
+C: HEARST
+D: The Journal was pretty harsh to Roosevelt today.
+C: MARION
+D: You oughta lay off him -- he is the p-p-president, after all.
+C: HEARST
+D: He is a Bolshevik. He will have us at war by the end of the year. I think I'm going to run that wheelchair picture.
+C: MARION
+D: Don't
+N: She holds up her needlepoint
+C: MARION
+D: Whaddaya think?
+N: It is a sampler reading: BLESS THIS CASTLE He laughs JOE WILLICOMBE, Hearst's private secretary, enters quietly. Willicombe is a serious and sensitive man in his 60's. He is unquestioningly loyal to the old man.
+C: WILLICOMBE
+D: Sir, we got the call.
+N: A moment. Hearst looks at him. Willicombe shakes his head sadly.
+C: HEARST
+D: Thank you, Joseph.
+N: Willicombe glides out A long pause as Hearst moves to a window and stares down at his domain. Marion watches him.
+C: MARION
+D: How bad is it?
+C: HEARST
+D: Nothing for you to worry about, darling
+C: MARION
+D: Pops
+N: A beat
+C: HEARST
+D: The S.E.C. has turned down my request for relief on the debts.
+C: MARION
+D: How much?
+C: HEARST
+D: It's not really--
+C: MARION
+D: How much?
+N: A -beat
+C: HEARST
+D: 125 million.
+N: She is absolutely stunned. A pause
+C: MARION
+D: We're 125 million dollars in debt?
+E: softly
+C: HEARST
+D: Yes.
+N: A pause Hearst continues to gaze out the window. Marion goes to him and holds him tenderly. ; They look down at the massive San Simeon estate spreading out like Wonderland below them. INT
+C: MARION
+D: How does one get 125 million dollars in debt?
+C: HEARST
+D: One . . . buys things.
+S: INT RECORDING STAGE NIGHT
+N: KANE composer BERNARD HERMANN stands before an orchestra, going over some of the music for KANE. He tries various measures and makes adjustments. A movie screen is ready to run sections of the film. Welles sits at the back of the room, talking quietly to Gregg Toland. Welles is bewitching, spinning a web:
+C: WELLES
+D: We open on Monument Valley. Those towering stalagmites reaching up like pleading fingers to God. A single figure treads the arid plains. The crimson sun is behind him so his shadow stretches toward us. He is a simple man wearing a simple robe. A profoundly quiet and sad man. Who is he?
+N: Bernard Hermann turns back to Welles and Toland
+C: BERNARD HERMANN
+D: Orson, please..
+C: WELLES
+D: Who is he, Gregg?
+E: whispering, to Toland
+C: TOLAND
+D: Oh, no--
+E: realizing
+C: WELLES
+D: Yes!
+C: TOLAND
+D: He's Christ?
+C: WELLES
+D: I'm Christ
+C: TOLAND
+D: You want to do the life of Jesus?
+C: WELLES
+D: Yes! Vibrant and modern and stark like a Picasso sketch drawn to flashes of lightning I We shoot the whole thing in the gallant American West--
+N: Mank joins them, carrying a newspaper.
+C: MANK
+D: Hey, kid. Gregg.
+C: WELLES
+D: Mank, sit down. You missed the opening of the new picture but I'll go back--
+C: MANK
+D: No, you gotta hear this-
+C: BERNARD HERMANN
+D: I'm trying to work here!
+E: snapping back at them
+C: WELLES
+D: Sorry, you keep at it, old boy.
+N: He leads Toland and Mank out of the stage and into the sound proof recording booth...
+S: INT. SOUND BOOTH
+N: A few sound engineers and mixers work over recording panels and watch Hermann and the orchestra as Welles, Toland and Mank enter.
+C: MANK
+D: You read Louella?
+N: Welles shudders
+C: WELLES
+D: No, but I can imagine. What am I today? A "puny upstart" or a "spoiled dilettante" -- no, she wouldn't know how to spell that
+C: MANK
+D: "And how is the country to feel when this industry continues to employ bedraggled foreigners and swarthy refugees instead of real Americans? Doesn't Hollywood know there's a Depression on? Don't real Americans deserve work?"
+E: reads
+C: WELLES
+D: Well, at least she's off KANE today
+E: laughs
+C: MANK
+D: No she's not. Don't you get it, ya lunk? She's using code language to the studio bosses. "Bedraggled foreigners and swarthy refugees" -- who the hell do you think she's talking about?
+C: WELLES
+D: Hedy Lamarr?
+E: playfully
+C: MANK
+D: Jews. She's talking about Jews.
+N: beat
+T: Welles' smile fades.
+C: MANK
+D: Who owns this town? Who runs every goddamn studio? The tribe, baby. These fuckers hear the word "Jew" and they start sweating. Like Ester Williams' pool they start sweating.
+C: WELLES
+D: So they're Jews. . .
+E: growing tense
+C: MANK
+D: This is just the first shot. Maestro. Sooner or later she's gonna use the word. And all those boys know that there is only one thing this country hates more than the coloreds and that's the Jews.
+C: WELLES
+D: Christ.
+C: MANK
+D: Me, I'm proud to be a Jew, I got no problem. You don't like it, fuck you. But with these guys it's like a dirty word. All they wanna be is good red- white-and-blue Americans, and the way they see it you can't be a good American and a Jew. So Sam Goldfish becomes Sam Goldwyn and David Selznick becomes David 0. Selznick -- like anyone's gonna think he's Irish for fuck's sake--
+C: WELLES
+D: What does this have to do with--?
+C: MANK
+D: Believe you me, they're gonna do anything -- and I mean absolutely anything -- to stop that word from gettin' out.
+E: dead serious
+C: WELLES
+D: What?! Are they going to kill me? Is that what they're going to do?!
+E: sharply
+N: One of the sound technicians turns to Welles: SOUND TECHNICIAN Sorry, Mr. Welles, I can't really hear Welles, Mank and Toland quickly decamp to a hallway outside the recording stage...
+S: INT HALLWAY FOLLOWING
+N: They emerge into the hallway. Mank lights a cigar.
+C: MANK
+D: Let me tell you a story, son So this was 1924, right? Hearst was throwing a birthday party for Thomas Ince, the old movie producer. They were all on the old man's yacht taking a nice jaunt from Pedro down to San Diego. Real foggy night it was. This was Hearst, Marion, Ince, Charlie Chaplin, Louella, the usual gorillas. So Hearst notices Marion slip off with Chaplin -- she was screwing everyone then -- and the old man goes nuts. Grabs his revolver and starts shooting. Just like Tom Mix, standing there blasting away through the fog. Boom - - boom -- boom -- and Thomas Ince takes a bullet through the head. So now there's this dead guy lying on the deck. You'll see how this could be quite an embarrassment. So the empire goes into action. Nice and quiet and Ince was cremated lickety-split. No inquest and no police. It was right after this that Hearst gives Louella her life-time contract. Just to keep her all hush-hush.
+E: quietly
+N: A beat as Mank gazes at Welles. A beat
+C: MANK
+D: If he had known about KANE before you made it, you'd be dead already.
+C: WELLES
+D: It's too late. The movie's made
+E: weakly
+C: MANK
+D: They won't let it out. Not Hearst. Not the other studio heads--
+C: WELLES
+D: You wrote the damn thing, Mank Aren't you going to fight for it?!
+C: MANK
+D: I told you this was going to happen! I told you he was going to come after us! So we took the chance anyway and we lost. That's how it goes, okay? I got my check, kid, and so did you -- and that's what it's all about -- so fuck it and move on.
+E: bitterly
+N: Welles leans forward in a sudden explosion of anger
+C: WELLES
+D: I WILL NOT MOVE ON! Let them do their worst! These petty tyrants! These monstrous, small men Do they think they can stop us? I Who are they?! Who are they?! THEY ARE . .. ACCOUNTANTS I
+N: Bernard Hermann appears at a doorway from the recording stage.
+C: BERNARD HERMANN
+D: We're ready. You want to hear it?
+N: Welles goes with Hermann into the stage. Toland and Mank stand in silence. Then:
+C: TOLAND
+D: His next picture ... he wants to play Christ.
+C: MANK
+D: Hope he's planning to start with the crucifixion.
+S: 76 INT RECORDING STAGE FOLLOWING
+N: Welles sits at the back of the stage, deep in thought Bernard Hermann raises his baton and prepares to conduct. The opening shots of KANE -- fog shrouded Xanadu -- are projected on the screen. Hermann conducts and the orchestra plays. We watch the first images of the film with the brilliant music. We pull back to reveal we are at
+S: INT SAN SIMEON. SCREENING ROOM NIGHT
+N: Hearst and Marion are sitting in the plush San Simeon screening room, surrounded by a passel of dachshunds. Five or six friends are also spread around the room. Joe Willicombe is also present. We watch their faces as they watch CITIZEN KANE During this sequence we hear bits and pieces of KANE as we watch Hearst and Marion react. We see Marion's initial amusement give way to a forced neutrality. We see Hearst becoming increasingly uncomfortable, reacting physically, almost writhing, as his soul is laid bare. Then his face grows cold. Drained. We see Joe Willicombe, offended. We see the other guests, horrified and afraid to even so much as glance at Hearst. Finally, we hear the ending of the movie:
+C: "RAYMOND"
+D: "Throw that junk in, too.
+N: We hear Bernard Hermann's closing music begin to play out Hearst abruptly stands, the final images of the film washing over his face.
+C: HEARST
+D: Switch it off SWITCH IT OFF
+N: The film suddenly stops and lights come up around the screening room. Silence No one looks at Hearst.
+C: HEARST
+D: Would everyone please leave
+E: quietly
+N: The guests and Joe Willicombe solemnly file out A pause
+C: MARION
+D: Well -- he got us, didn't he? She stands and goes quickly to pour a drink. A forced laugh
+C: MARION
+D: Nailed us, hub? The crazy old man and his whore.
+C: HEARST
+D: Marion--
+C: MARION
+D: Bought and p-p-paid for. Just like one of his goddamn statues. Well at least in the movie he married her!
+C: HEARST
+D: This picture--
+C: MARION
+D: I am not that woman.
+E: deeply
+N: A beat. I know what I could have been. I know what I gave up to stay with you.
+C: MARION
+D: I mean he's even got the goddamn jigsaw puzzles
+E: pained
+N: She dissolves into sobs. He cradles her in the empty screening room A beat
+C: MARION
+D: Why did he do that to us?
+S: INT SAN SIMEON. ASSEMBLY ROOM NIGHT
+N: Hearst is as we have never seen him before. He is in a titanic rage. He paces back and forth violently like a caged animal, becoming increasingly manic and uncontrolled, clenching his fists and barking to Joe Willicombe:
+C: HEARST
+D: And now of all times -- NOW -- when I am grasping on with my fingernails to live at all this Orson We lies -- this insect -- this reprehensible insect -- has the nerve TO CHALLENGE ME! To show my life as some cheap sideshow -- A FREAK SHOW -- A DYING, IMPOTENT OLD FREAK IN HIS CASTLE!
+N: He smashes a collection of figurines and sends them sailing across the room. Hearst's rage gives way to a darker passion:
+C: HEARST
+D: Mr. Willicombe -- you have seen me in adversity -- you have seen me take on the unions and the Congress and the railroads -- and we have risen above -- we have risen above. And if that dog Welles thinks he can strike at me now -- when he thinks I'm weak when he thinks I'm vulnerable -- then he does not fully comprehend the man is facing.
+E: intensely
+N: WILLICOMBE Mr. Welles can't know anything about the difficulties we're--
+C: HEARST
+D: Get me Louella Parsons, now!
+N: Willicombe picks up a phone and begins dialing as Hearst continues:
+C: HEARST
+D: This upstart -- this puny man -- how does he even dare to imagine he could comprehend my life and my world when he crawls with the other insects in the sewer -- in the dung -- when we control every moment of his life from the instant he is born to the instant we decide that he will die! Does he have no idea of the power that controls him?!
+C: WILLICOMBE
+D: Mr. Hearst, I have Miss Par'
+N: Hearst snatches the phone from Willicombe
+C: HEARST
+D: Miss Parsons, Mr. Hearst. Use the file
+E: on phone
+N: He slams down the phone
+C: HEARST
+D: Now get me J. Edgar Hoover
+N: WILLICOMBE It's very late in Washington-
+C: HEARST
+D: Then wake him up!
+N: Willicombe begins to dial
+C: HEARST
+D: That insect thinks he knows me! He thinks he knows my capabilities! When his neck is in my teeth and his blood is in my throat then he will know WILLIAM RANDOLPH HEARST!
+E: fervently
+S: INT MAYER'S OFFICE. MGM DAY
+N: Louis B. Mayor's eyes are blinking behind his glasses In his glasses we can see vague reflections of a series of grainy photographs showing sex acts and illicit assignations and corpses and mug shots. We pull back to reveal Mayer flipping through a stack of photos and notes. Louella sits, smoking and supremely confident, across from him. Mayer finally closes the file and removes his glasses. He rubs his eyes. He rises unsteadily and goes to a liquor cabinet and pours himself a stiff drink. He gulps it down and then returns to his desk. A pause and then he finally looks at Louella A beat A beat A beat. A pause
+C: LOUELLA
+D: So what do we got here, L.B.? We got faggots and commies and junkies. We got movie stars screwing niggers and little girls. We got killers and perverts and whores.
+C: LOUELLA
+D: We got MGM and Warner Brothers and Columbia and Disney and Fox.
+C: LOUELLA
+D: We got Jews
+C: LOUELLA
+D: We got Hollywood.
+C: MAYER
+D: What do you want?
+E: quietly
+C: LOUELLA
+D: Kill CITIZEN KANE.
+C: MAYER
+D: How?
+C: LOUELLA
+D: I don't give a shit.
+N: A beat
+C: LOUELLA
+D: The boss is working on some stuff and I'm working on some stuff. Now I want all you boys working on some stuff. Cause if it looks like this picture's ever gonna come out -- I start running down the street with these pictures like a screaming woman with my throat cut, you follow?
+N: J. EDGAR HOOVER'S OFFICE DAY Bulldog-like FBI Director HOOVER sits erect at his desk. Behind him an imposing FBI Seal catches the light. He presses a button on his intercom.
+C: HOOVER
+D: Agent McCabe, if you please.
+N: His secretary, clean-cut FBI agent McCABE, enters quickly with a note pad. Agent McCabe scribbles as Hoover dictates:
+S: EXT.
+C: HOOVER
+D: Open a new file. Heading: Welles, Orson. Native born. Communist.
+N: HILLS AROUND SAN SIMEON DAY Marion and Joe Willicombe sit in deck chairs under the blazing sun. Marion absently pets a dachshund in her lap. Servants stand behind them with lunch and trays of iced tea They watch Hearst riding a horse in the distance A pause. Then:
+C: MARION
+D: How bad is it?
+C: WILLICOMBE
+D: Miss Davies--
+C: MARION
+D: Come on Joe. How bad is it?
+N: A beat.
+C: WILLICOMBE
+D: It's finished
+N: Hearst gallops up to them. A servant helps him down from his horse. He strides briskly to Marion and Willicombe as:
+C: HEARST
+D: I've been thinking about the Tribune in Chicago. The Examiner just can't make any headway. Circulation is still down. I think we should buy the Tribune.
+N: Marion glances to Willicombe and then looks at Hearst with great tenderness.
+C: MARION
+D: Sure, Pops. That's a swell idea
+S: INT MANK'S HOUSE. SANTA MONICA DAY
+N: Manks pounding away at a typewriter in his tiny beach house. He grumbles to himself as he types:
+C: MANK
+D: ... and Rita Hayworth says: "You see, he truly was the Son of God" ... big Toland lighting effect ... blah, blah, blah ...
+N: A knock at the door. Mank answers it. Clean-cut FBI Agent McCabe stands outside. He flashes his badge. AGENT McCABE Mr. Mankiewicz, I'm Special Agent McCabe of the Federal Bureau of Investigation. Might I have a moment of your time?
+C: MANK
+D: Sure, kid, come in. I'm writing the crucifixion and it's a bitch. Sit down
+N: Agent McCabe sits and snaps open a note pad AGENT McCABE I would like to ask you a few questions about Mr. Welles.
+C: MANK
+D: You guys after Orson too?
+N: AGENT McCABE Mr. Mankiewicz.
+C: MANK
+D: Shoot
+N: AGENT McCABE Are you aware of Mr. Welles' Communist affiliations?
+C: MANK
+D: Shit, Orson's no pink. He's everything else under the sun, but he's no pink.
+N: AGENT McCABE Are you aware of Mr. Welles' Communist affiliations?
+C: MANK
+D: No, I am not
+N: AGENT McCABE Do you have any knowledge of Communists working within the motion picture industry? AGENT McCABE Do you have any knowledge of Communists working within the motion picture industry?
+C: MANK
+D: No
+N: AGENT McCABE Are you now or have you ever been a member of, or affiliated with, the Communist Party or any of its front organizations in the United States?
+C: MANK
+D: Stop it
+N: AGENT McCABE Are you now or have you ever been a member of--
+C: MANK
+D: I think you better leave
+N: AGENT McCABE Are you now or have you--
+C: MANK
+D: Get the fuck outta my house.
+E: grim
+N: Agent McCabe snaps his note pad closed and stands. AGENT McCABE (crisply) Thank you for your time, Mr. Mankiewicz. We'll be in touch. Agent McCabe leaves
+C: MANK
+D: Don't bother, you low-life prick
+E: calling after him
+N: Mank slams the door He stands for a moment, pale, and then goes to the kitchen and pours himself a stiff drink.
+S: INT SAN SIMEON, ASSEMBLY ROOM DAY
+N: Marion is pouring a drink as well. She quickly fills a glass of Scotch and then begins striding back and forth across the Assembly Room. Hearst sits quietly at one of the jigsaw puzzles He occasionally and absently puts a piece in place. She has clearly been at him for some time
+C: MARION
+D: Then you explain it to me?!
+C: HEARST
+D: There's nothing to explain
+C: MARION
+D: A million dollars a year on art and st-st-statues and there's nothing to explain?!
+C: HEARST
+D: I will not defend my life to you--
+C: MARION
+D: I'm not asking you to defend anything. But we're in a pickle and we gotta talk about it.
+C: HEARST
+D: We are in no "pickle" -- as you would euphemistically have it.
+C: MARION
+D: You gotta wake up now. Pops.
+C: HEARST
+D: There is nothing to discuss-
+C: MARION
+D: You don't have any money left, okay?! That's the truth. I don't wanna say it, nobody else will say it, but it's the truth. You spent it all. You can't buy the Tribune in Chicago -- you can't buy ^ g-g- goddamn thing. Now you better face up to it--
+C: HEARST
+D: You are being typically theatrical, Marion. I need the Tribune to--
+C: MARION
+D: You don't need it! That's the problem you always think you need everything--
+N: Marion spins to a medieval arras cloth hanging from one wall.
+C: MARION
+D: That -- did you need that? How much did that cost?
+C: HEARST
+D: It's 12th Century. From Deauville -- in France.
+C: MARION
+D: I know where Deauville is for C-C-Christ's sake.
+C: HEARST
+D: You needn't use that language with me
+C: MARION
+D: Did you need it? Did you need any of it?
+C: HEARST
+D: I wanted it
+C: MARION
+D: There's a different between want and
+C: HEARST
+D: Not for me.
+E: tightly
+C: MARION
+D: But why? Just so you can show it all off -- just so everyone can see what a b-b-big man you are?!
+E: frustrated
+N: He stands quickly
+C: HEARST
+D: That's right. You've captured me exactly. Goodnight.
+E: angrily
+C: MARION
+D: You will not walk out on me
+C: HEARST
+D: You are repellant when you drink.
+C: MARION
+D: Tough shit. We need to t-t-talk about this--
+C: HEARST
+D: You are slovenly and unattractive and I won't t-t-t-tolerate it.
+E: he mercilessly mimics her
+N: A cold beat A pause.
+C: MARION
+D: Fuck you, Mr. Kane.
+C: HEARST
+D: I will not have this in my home.
+E: darkly
+C: MARION
+D: I just want to understand--
+C: HEARST
+D: No, you don't. You want to condemn me, like everyone else. You want to point to the pathetic, old man grown lunatic with his spending -- trapped in his ridiculous
+E: suddenly
+C: HEARST
+D: castle -- still fighting old battles he will never win with Pulitzer and Roosevelt and Hollywood--
+E: CONT.
+C: MARION
+D: I don't want you to--
+C: HEARST
+D: There is nothing to understand but this: I am a man who could have been great, but was not.
+N: He leaves
+S: INT SAN SIMEOM. MARION'S BEDROOM DAY
+N: A silent scene as we see Marion rummaging through some drawers in her vanity table. A suitcase can be seen on the bed behind her. She removes various jewelry cases and pours an astounding array of gems into a black leather pouch.
+S: INT. ELIZABETH ARDEN SALON. BEVERLY HILLS DAY
+N: Marion sits with Carole Lombard in a secluded section of the luxurious salon. A quiet scene.
+C: MARION
+D: When I met him I was just 20. And he was 55. I saw the gold ring and just grabbed on. And he was going to make me a star.
+C: CAROLE LOMBARD
+D: And he did.
+N: A beat.
+C: MARION
+D: When I was making movies I kept begging him to let me do comedies. Silly stuff, you know. But Pops doesn't get comedy too well so he kept putting me in all those godawful p-p-period dramas.
+N: Carole Lombard smiles.
+C: MARION
+D: I did my best but, well, you know me
+C: CAROLE LOMBARD
+D: Sure
+C: MARION
+D: Thing that bothers me now, though, looking back is that I really think I could have been something ... special.
+C: CAROLE LOMBARD
+D: Thinking like that is only gonna drive you nuts You were a great star and you had a good run. That oughta be enough.
+C: MARION
+D: Yeah. But all of a sudden it's not
+C: MARION
+D: You know this CITIZEN KANE picture? About Pops and everything?
+C: CAROLE LOMBARD
+D: Uh-huh
+C: MARION
+D: The character that's supposed to be me, Susan Alexander--
+C: CAROLE LOMBARD
+D: Marion, everyone knows you're not like that--
+C: MARION
+D: But I am That's the killer, honey.
+N: This little girl comes from nowhere and gets discovered by this guy. And maybe she has some real talent way deep down. But he pays the bills and he makes the decisions. And somewhere along the way ... she gets lost.
+C: MARION
+D: It's hell when you gotta look back and say, goddamn, what I could have been.
+N: JEWELRY STORE. BEVERLY HILLS Marion enters a posh Beverly Hills jewelry shop. She is wearing sunglasses. She nervously goes to the counter and the SHOP OWNER glides to her. For Marion, the entire experience is humiliating. This results in her stutter becoming increasingly more pronounced.
+C: SHOP OWNER
+D: May I help you?
+C: MARION
+D: I, um, need an estimate on some jewelry I might wish to sell. But d-d-discretion is very important to me b-b-because I don't want anyone t-t-to, um, know that--
+C: SHOP OWNER
+D: Excuse me, I hope this isn't rude, but aren't you Marion Davies?
+C: MARION
+D: Yes.
+C: SHOP OWNER
+D: Well, this is a great pleasure. Miss Davies! I just saw that ENCHANTMENT is playing at a the Tivoli, the revival house in Santa Monica. That was a fine picture!
+C: MARION
+D: Thank you-
+C: SHOP OWNER
+D: Not one of them today has what you had, Miss Davies. Not one of them.
+C: MARION
+D: Thank you -- b-b-but I'd really like t-t-to--
+C: SHOP OWNER
+D: Of course, of course. How can we be of service?
+C: MARION
+D: As I said I have some j-j-j-j- that I might wish t-t-to sell and I wanted an estimate--
+E: she simply can't get the word out
+C: SHOP OWNER
+D: Surely My pleasure, Miss Davies..
+N: Marion removes the leather pouch from her purse and pours a stunning collection of jewelry on a black felt tablet on the counter.
+C: SHOP OWNER
+D: My Lord. . .
+E: awed
+N: Marion removes her sunglasses and looks at him. Her eyes are red.
+C: MARION
+D: How much for the lot?
+S: EXT RKO LOT DAY
+N: Welles is pursuing Schaefer as they stride through the bustling RKO backlot.
+C: SCHAEFER
+D: What do you want me to do, Orson? Radio City won't premiere the picture. Louella threatened them with some bullshit about
+C: WELLES
+D: Then find another theater
+C: SCHAEFER
+D: You don't think I've tried? No one is willing to open the picture
+C: WELLES
+D: Then we'll open it in Detroit or Dallas or Kalamazoo for God's sake! We'll show it in goddamn circus tents and--!
+N: Schaefer stops.
+C: SCHAEFER
+D: Listen to me. The press ban is killing us and the distributors won't book it. And meantime I'm dealing with the stockholders in New York who are scared shitless -- and I'm this far from getting fired myself -- and you don't have a friend in the world but me right now. So you have got to trust that I'll do what I can to--
+C: WELLES
+D: "Do what you can"?! That's not good enough I
+E: desperately
+C: SCHAEFER
+D: Well it' s all you've got !
+C: WELLES
+D: You're with them, aren't you? You're going to bury my movie. They bought you!
+E: suddenly
+C: SCHAEFER
+D: For Christ's sake, shut up--
+E: turning away
+C: WELLES
+D: Why don't you just have the guts to admit it
+C: SCHAEFER
+D: How dare you talk to me like that! Do you think I'm like all the rest of those pirates?! Like Mayer and Warner? Is that what you think--?!
+E: spinning on him
+C: WELLES
+D: It's just that my movie is so-
+C: SCHAEFER
+D: "Your movie" -- I am so sick of that! It's your movie -- but it's his life! Did you ever think about that?! Did you ever think about that old man and Marion having to watch as you tore them apart?!
+E: savagely
+N: WELLES I didn't--
+C: SCHAEFER
+D: Do you every think for one second that you might have some responsibility for what you're doing?! For cutting and slashing everything in your way so you can have your goddamn movie?!
+C: WELLES
+D: That soulless monster gets no tears from me.
+C: SCHAEFER
+D: Who the fuck are you trying to kid? You are that soulless monster.
+N: Schaefer turns and stomps away Welles stands, lost for a moment in the dream factory In a bit of a daze, Welles slowly begins walking through the backlot. A bustle of loud activity in a corner of the lot draws his attention. A bulldozer and a dozen workmen are busy tearing down the facade of a large white mansion. They strip the wood off and toss it into an incinerator. Welles sees Schaefer standing before all this activity, deep in thought. Welles goes to him and they stand together in silence for a moment as they watch the house being razed.
+C: SCHAEFER
+D: Recognize
+N: Welles shakes his head
+C: SCHAEFER
+D: It's Tara. From GONE WITH THE WIND
+N: Pause as they watch Scarlett O'Hara's dream mansion being torn apart.
+C: WELLES
+D: It's ... sad
+N: A beat.
+C: SCHAEFER
+D: Not really. It's only a set, after all Just lumber.
+C: SCHAEFER
+D: You know, we make all these pictures, we turn em out one after another, without thinking most of the time. Just like making toasters or Packards or toothpaste. But then sometimes ... something amazing happens and you get a GONE WITH THE WIND.
+E: quietly
+N: Or a CITIZEN KANE
+C: SCHAEFER
+D: And no one can ever take that away from you.
+E: CONT.
+N: They gaze at the destruction of Tara as we hear:
+C: RADIO ANNOUNCER
+D: ... and in financial news, rumors continue to swirl around the head of publishing baron William Randolph Hearst. . .
+E: VOICE OVER
+S: INT SAN SIMEON. ROMAN POOL NIGHT
+N: Hearst sits in a wicker chair by the shimmering in-door Roman Pool. But for Hearst and the single chair, the pool is deserted and has no other furniture. Hearst is staring at the gold and blue mosaic of tiles reflected in the water. As we hear: RADIO ANNOUNCER (VOICE OVER, CONT.) ... Sources report that the Hearst Empire is facing some rocky times ahead as the press lord is facing mounting debts and shrinking revenues due to over expansion and fiscal mismanagement that have resulted in... The radio voice fades to silence. The silence continues but for the haunting echo of a lion roaring in the distance. Then Hearst hears the sound of footsteps echoing on the tile. He looks up. It is Marion. She walks around the pool to him. Without a word she hands him a check. It is made out to William Randolph Hearst in the amount of one million dollars and is signed Marion Davies. A long pause. He looks up at her, profoundly moved.
+C: MARION
+D: I started out as a gold-digger, ya know But goddamn if I didn't fall in love with the guy.
+S: EXT MAYER'S ESTATE DAY
+N: A row of six shining limousines are lined up in front of Mayor's enormous house. The chauffeurs stand together and chat.
+S: EXT. MAYER'S ESTATE. BACKYARD
+N: Mayer sits in the glorious back garden of his house. Six other men are gathered around him. Mayer nods his head to each as we pan around the faces
+C: MAYER
+D: Mr. Zanuck ... Mr. Warner ... Mr. Cohn Mr. Disney .. . Mr. Goldwyn . . . Mr. Selznick.
+N: A beat. Thank you all for coming. You got my memo. What do we do? A beat
+C: JACK WARNER
+D: He's a fucking punk, why does Hearst give a shit?
+C: MAYER
+D: It's enough that he does
+C: SAM GOLDWYN
+D: Would Louella really do it?
+C: MAYER
+D: In a New York minute
+N: DAVID 0. SELZNICK I say to hell with Louella and to hell with Hearst! Bring 'em on. We can take em.
+C: HARRY COHN
+D: We all didn't make GONE WITH THE WIND, ya know. Some of us gotta look at this checkbook-wise.
+C: MAYER
+D: Who isn't hurting already? All this Jew talk and these Communist rumors. Look, he's boycotting RKO ads right now -- but how long before he takes on Warners or Fox or Columbia?
+C: HARRY COHN
+D: Goddamn right.
+N: A beat.
+C: MAYER
+D: And if Hearst goes public with all this filthy private lives stuff, Hollywood's sunk. He's got us nailed. Dates. Times. Photographs for God's sake.
+C: WALT DISNEY
+D: I don't mean to be funny, but what could he have on Mickey Mouse?
+C: MAYER
+D: He's got you so tied in with J. Edgar Hoover and America First that you might as well put on a brown shirt and kiss those happy little kiddies so-long.
+N: DAVID 0. SELZNICK (suddenly) Have any of you actually seen the movie? A beat. DAVID 0. SELZNICK I have. It's probably the greatest motion picture ever made. Nothing's going to be the same after this. With this one movie he's changed the way we see--
+C: JACK WARNER
+D: Who the fuck cares?
+N: DAVID 0. SELZNICK I do. And so should all of you--
+C: JACK WARNER
+D: Get off the soapbox--
+N: Selznick stands. DAVID 0. SELZNICK I want no part of this. We should be marching into George Schaefer's office and standing with him. He's one of us!
+C: MAYER
+D: David-
+N: DAVID 0. SELZNICK If I ever got into trouble I'd like to think that you all would be with me -- not planning to stab me in the back like a bunch of ... a bunch of ... producers! He storms off
+C: JACK WARNER
+D: Your son-in-law meshuaena.
+E: to Mayer
+N: A pause. Laughter A pause.
+C: DISNEY
+D: He's got me and Hoover?
+E: nervously
+C: JACK WARNER
+D: Relax, Walt, at least he don't have you screwing Snow White. I got fucking Errol Flynn on my payroll!
+C: SAM GOLDWYN
+D: You're a smart man, L.B. I suspect you would not have called us here without a plan. Give over.
+E: to Mayer
+C: MAYER
+D: We will buy the movie and we will destroy it.
+C: MAYER
+D: We will assemble a fund between us -- privately, 'not studio money -- we will assemble this fund and we will go to George Schaefer and we will buy the negative and every print of CITIZEN KANE and we will burn them.
+N: A long pause
+C: MAYER
+D: If I do not hear an objection to this agenda in the next five seconds I will assume the motion has carried.
+N: Five seconds tick by as we focus on the titans of Hollywood
+C: MAYER
+D: Very well, my associates will be in touch to arrange payment. Thank you for your time.
+S: INT RECORDING STAGE DAY
+N: KANE composer Bernard Hermann again stands before the orchestra, his arm poised, waiting to begin conducting. He is about to record some new music for the deep-focus Thatcher/Bernstein/Kane scene from CITIZEN KANE. Welles sits nearby, supervising everything. Welles nods and on a movie screen the scene from KANE begins and Hermann starts conducting. The orchestra plays. The music carries into and gradually fades during.
+S: INT SAN SIMEON. ASSEMBLY ROOM DAY
+N: In a scene eerily reminiscent of the Thatcher/Bernstein/Kane scene, Marion sits in the extreme foreground, a man we do not know sits at middle distance at a desk and Hearst stands far away. Hearst has his back to them and stares out a window. The new man is MR. LEWIS, a tight banker from New York, 50's. He looks over a thick legal document on the desk as he speaks: LEWIS You will retain some editorial control over the remaining newspapers but the actual ownership will go to the Conservation Committee and the banks. We will be immediately closing 12 of the papers and the wire services. And we will be liquidating other assets as soon as possible. Most of the land in Mexico as well as your collection of art and antiquities--
+C: MARION
+D: Mr. Hearst spent his life collecting that art.
+E: quietly
+C: LEWIS
+D: We've been in touch with Gimbels in New York and they've agreed to hold a special sale. They're giving over an entire floor for the merchandise. You'll have to go there in person to sign the bill of sale, by the way.
+E: ignoring her
+C: HEARST
+D: I'll have to sell the animals.
+E: softly, not turning
+C: LEWIS
+D: And we don't know whether we'll be able to retain the castle. The land has some capital and we might keep it on as an investment. Maybe break it up into smaller units for housing.
+N: A long pause Hearst finally turns and walks to them.
+C: HEARST
+D: When will it come out? When will the public know?
+E: to Lewis
+C: LEWIS
+D: We can't keep it a secret, sir. Once we announce the Gimbels sale and start liquidating the assets.
+C: MARION
+D: This is your whole life. Pops. Don't do it. We'll find another way..
+E: pained
+N: A long beat as he looks at her. Then he quickly signs the document on the desk. He puts down the pen and leaves the room without a word
+S: INT SAN SIMEON. STAIRWAY NIGHT
+N: Marion sits nestled on a sweeping marble stairway Weeping
+S: INT NIGHTCLUB. HOLLYWOOD NIGHT
+N: A swank benefit dinner is in progress A band plays A banner hangs over the nightclub stage: CHILDREN'S MILK FUND BENEFIT, We float through the elegant crowd and spy Louis B. Mayer and Louella; Clark Gable and Carole Lombard; all manner of movie stars and power brokers. We also spy Schaefer sitting with Mank and Toland and a few other men and women. The evening's EMCEE takes the stage
+C: EMCEE
+D: Next up we have a real treat. It's Orson Welles. Now, during the rehearsal for the benefit tonight Orson banished everyone from the club so he could proceed in utmost secrecy. But you all know how Orson is!
+N: Laughter from the crowd
+C: EMCEE
+D: So, lets give a big round of applause for Mr. Orson Welles and Miss Rita Hayworth.
+N: Polite applause as Welles bounds to the stage with RITA HAYWORTH and the band begins to play a buoyant tune. Schaefer practically drops his fork Welles is dressed in a padded costume and made up in a way that can suggest no one but William Randolph Hearst. Rita Hayworth is dressed in a manner mightily like Marion Davies. Louella glances to Mayer, daggers. Some knowing laughter from the audience. Particularly Mank A line of chorus girls hoof on and join Welles and Rita Hayworth as a row of harsh footlights snap on, giving the scene a resemblance to the "Charlie Kane" dance in CITIZEN KANE. And Welles launches into a jaunty song and dance version of "DISGUSTINGLY RICH" an almost unknown Rodgers and Hart song;'. Welles has wickedly changed some of the lines. '
+C: WELLES
+D: "I'll buy everything I wear at Saks. I'll print gossip and I'll call it facts
+C: RITA HAYWORTH
+D: "Swear like a trooper, Live in a stupor--
+C: WELLES AND RITA HAYWORTH
+D: "Just disgustingly rich!
+C: WELLES
+D: "I'll make money and I'll make it quick, Starting little wars I think are slick. Smother her in sables, Like Betty Grable's-- Just disgustingly rich. "I'll build a castle, That'll cost a passel. And as a resident, I will pan the president I'll aspire, Higher and Higher. "I'll get married and I'll buy a girl, So darn pretty that your head will swirl
+C: RITA HAYWORTH
+D: "Swimming in highballs-- Stewed to the eyeballs--
+C: WELLES AND RITA HAYWORTH
+D: "Just disgustingly rich!
+N: Welles, Rita Hayworth and the chorines do a nifty soft-shoe turn as Schaefer turns to Mank:
+C: SCHAEFER
+D: He truly doesn't care if he ever works again.
+E: seriously
+C: MANK
+D: Yeah, ain't it swell?
+N: Welles and Rita Hayworth conclude their little dance break and Welles resumes the song:
+C: WELLES
+D: "Ev'ry summer I will sail the sea, On my little yacht the Normandie, Pet my little dachshund friends, Kiss Louella's big rear end, Just disgustingly rich.
+N: About here Louella storms out. "I'll eat salmon, I'll play backgammon. Turn breakfast into brunch, I'll take Thomas Ince to lunch I'll aspire, Higher and Higher. About here Louis B Mayer and a few others storm out.
+C: RITA HAYWORTH
+D: "He'll be photographed with Myrna Loy, Just to prove he is a glamour boy.
+C: WELLES
+D: "Perfumed and scented, Slightly demented-- Just disgustingly rich
+C: RITA HAYWORTH
+D: "I'll get my capers, Into his papers. Hoping his folly would Lead me out to Hollywood. I'll aspire, Higher and higher.
+N: About here Schaefer buries his face in his hands
+C: WELLES AND RITA HAYWORTH
+D: "In the funnies and the valentines, We'll be pictured drinking Ballantine's. Dopey and screwy, Voting for Dewey. Just disgustingly-- Too, too disgustingly-- Riiiiich! "
+N: Welles and Rita Hayworth conclude the number with a big flourish. Some applause Mank stands and applauds loudly. Laughing. Welles bows solemnly to Mank
+S: EXT NIGHTCLUB FOLLOWING
+N: Later that night, Welles is about to climb into his limousine outside the nightclub with Rita Hayworth when Schaefer suddenly appears and grabs his lapel.
+C: WELLES
+D: George- -!
+E: happily
+N: Without a word, Schaefer pulls Welles roughly into an alley beside the nightclub. He slams Welles into the alley wall.
+C: SCHAEFER
+D: This isn' t some kinda fucking game! You know how many people RKO employs?! You know how many people depend on what we do for a living?!
+E: brutally
+C: WELLES
+D: I really think you're
+C: SCHAEFER
+D: You wanna commit suicide, fine! You got some death- wish, fine! But you will not drag this company down with you!
+C: WELLES
+D: It was a -joke, George
+N: Schaefer slaps Welles firmly across the face. Welles is stunned.
+C: SCHAEFER
+D: There are no jokes! There are people making a living. There is food on the table!
+N: Schaefer glares at him and then rages off Welles straightens his suit and then, with a shaking hand, reaches for a cigar. He tries to laugh, but cannot.
+S: INT SCHAEFER'S OFFICE. RKO DAY
+N: Schaefer sits at his desk, absolutely dazed. Speechless B. Mayer sits across from him.
+C: SCHAEFER
+D: Where did this money come from?
+N: beat
+C: MAYER
+D: It came.
+C: MAYER
+D: 800,000 dollars fully covers the production budget and a little more. Hell, George, you even make a profit on the deal.
+C: SCHAEFER
+D: Very generous
+C: MAYER
+D: And we gotta be clear here. I need the negative and every existing print.
+C: SCHAEFER
+D: To do what?
+C: MAYER
+D: That's for me to decide.
+C: SCHAEFER
+D: You're going to destroy it
+C: MAYER
+D: No, maybe put it on the shelf until the old man kicks it.
+C: SCHAEFER
+D: You're lying to me.
+C: MAYER
+D: We already made the same offer to the stockholders.
+N: Schaefer is stunned.
+C: SCHAEFER
+D: You talked to New York?
+C: MAYER
+D: Yes
+C: SCHAEFER
+D: You talked to Mr. Swanbeck?
+N: Pause.
+C: MAYER
+D: Yes
+C: SCHAEFER
+D: Get out
+C: MAYER
+D: You're bettin' on an inside straight this time. You'll never pull it off.
+C: SCHAEFER
+D: Get out.
+N: Mayer stands and smiles
+C: MAYER
+D: This picture, George, it'll just break your heart.
+N: Mayer goes. Schaefer sits, smelling defeat. We linger on Schaefer as a haunting echo of "I CAN'T GET STARTED" is heard. . .
+S: INT/EXT SAN SIMEON NIGHT
+N: We float through the estate as we hear the ghostly strains of Bunny Berigan's recording of "I CAN'T GET STARTED." It is a sad journey. By this time many of the ornate antiquities have been removed from the castle and it resembles Welles' stark and dreary Xanadu all the more.
+C: BUNNY BERIGAN
+D: "I've flown around the world in a plane, I've settled revolutions in Spain, And the North Pole I have charted, Still I can't get started with you...
+N: We float past the private zoo, now empty, the cages hanging open. We move past the tennis courts, empty.
+C: BUNNY BERIGAN
+D: "On the golf course I'm under par, Metro Goldwyn has asked me to star, I've got a house, a show place, Still I can't get no place with you.
+N: We float into the castle itself and through the stripped- down Screening Room and the Assembly Room and the Great Dining Hall. All are mere shadows of their past glory.
+C: BUNNY BERIGAN
+D: "Cause you're so supreme, Lyrics I write of you, I dream, dream day and night of you And I scheme just for the sight of you, Baby, what good does it do...?
+N: We finally float into the ballroom A record of "I CAN'T GET STARTED" spins forlornly on a turntable. And Marion and Hearst are having a quiet, poignant dance together in the middle of the empty ballroom.
+C: BUNNY BERIGAN
+D: "I've been consulted by Franklin D. Greta Garbo has had me to tea, Still I'm broken hearted Cause I can't get started with you.
+N: They finally stop dancing and stand swaying gently. Then they stop swaying.
+C: HEARST
+D: Ah, Miss Davies, the times we have seen
+E: gently
+N: She holds him closely as "I CAN'T GET STARTED" concludes
+S: INT CHASEN'S RESTAURANT. PRIVATE ROOM DAY
+N: Welles has booked a private room at Chasen's. A long banquet table contains cans of sterno heating various dishes. Large photographs of the American West and renderings from THE LIFE OF CHRIST are scattered around other tables. Welles wanders around the renderings with Gregg Toland and Mank. Welles carries a plate of food and consumes as:
+C: TOLAND
+D: See, this is the Great Salt Lake -- we do the baptism here.
+C: MANK
+D: Great scene where John the Baptist pulls your head
+N: out of the water and says, "Look up, and behold your destiny"
+C: WELLES
+D: Is that from one of the Gospels?
+C: MANK
+D: Kinda.
+N: Schaefer enters.
+C: WELLES
+D: George! Enter And Behold
+N: Schaefer blinks at the massive photos and renderings.
+C: WELLES
+D: You're not still mad at me, I hope
+C: SCHAEFER
+D: No, we're jake. But listen-
+C: WELLES
+D: Look, not a single scene shot in the studio! We've found natural locations for the whole story--
+C: SCHAEFER
+D: Hold on a sec. I got news. We finally found somewhere to premiere KANE but--
+C: WELLES
+D: I told you! Where? Grauman's? El Capitan? Or did Radio City come crawling back?
+C: SCHAEFER
+D: The Palace in New York. But Orson there's something else.
+N: Welles stops eating
+C: SCHAEFER
+D: I think you better sit down
+C: WELLES
+D: I don't want to sit
+E: evenly
+N: Beat.
+C: SCHAEFER
+D: The bosses -- the other studios -- they want to buy the film and destroy it.
+N: Absolute silence Pause
+C: SCHAEFER
+D: They came to me with an offer. 800,000 for the negative and all the prints.
+C: SCHAEFER
+D: And they went to the stockholders in New York.
+C: MANK
+D: Oh God.
+E: quietly
+C: SCHAEFER
+D: I been talking to Swanbeck in New York and... Orson, I think they're gonna take it A long pause as Welles looks at Schaefer
+N: Welles suddenly FLINGS his plate of food in Schaefer's direction as he ROARS:
+C: WELLES
+D: YOU STUPID, LITTLE MAN! HOW COULD YOU HAVE LET THIS HAPPEN?! I GAVE YOU MY SOUL AND NOW YOU'RE GOING TO SELL IT!?
+C: MANK
+D: This ain't George's doing--!
+N: Welles- rampages around the room
+C: WELLES
+D: I PUT MY LIFE INTO THAT PICTURE -- EVERYTHING I'VE BEEN -- EVERYTHING I COULD BE---IT'S CITIZEN KANE! - - IT'S ALL CITIZEN KANE!
+N: And in a screaming, bellowing fury, Welles tears apart the room. In a scene sharply reminiscent of Kane destroying Susan's bedroom, Welles rampages around the room, upsetting tables and smashing everything in reach. Welles finally grabs a flaming can of sterno and flings it at Schaefer, Schaefer knocks it away. Then Welles stands in spent exhaustion, panting. One of his hands is bleeding. He looks at Schaefer. A pause. Then:
+C: WELLES
+D: Let . . . me . . . talk to them. . .
+N: New York ... The stockholders Give me one chance. And then you will never have to see me again.
+S: INT. GIMBELS NEW YORK DAY
+N: The entire two-acre fifth floor of Gimbels is in chaos A large banner is suspended at one end of the floor; "The Hearst Collection." It is the first day of the sale and it is mobbed. Hearst and Marion, alone in a crowd, walk wordlessly through the mayhem. Everywhere around them hundreds of eager customers strike like hawks, snatching up useless junk and treasured antiques. We see bits and pieces of San Simeon in the jumble They pass a man and his wife, holding up Marion's -BLESS THIS CASTLE" sampler:
+C: MAN
+D: Old man Hearst owned this and I'm getting it for two bits I
+N: Hearst and Marion continue to walk, finally arriving at the section containing the true, expensive treasures. Hearst watches as customers pick up and fondle his life. He glances at a framed front page of the San Francisco Examiner. The date is March 4, 1887. In a large box on the page is: "IT IS THE ROLE OF THE PRESS TO COMFORT THE AFFLICTED AND AFFLICT THE
+C: COMFORTABLE.
+D: WILLIAM RANDOLPH HEARST. PUBLISHER."
+C: HEARST
+D: I can't sell this. How much are they asking?
+C: MARION
+D: Pops ... let it go. Just ... let it go
+E: gently
+N: He looks at her. A long moment. He tenderly touches her face. Then:
+C: HEARST
+D: Yes, I think I shall.
+N: He takes her hand and leads her away as we pull up and take in the entire fifth floor. It is a stunning KANE-like image of rows and rows of merchandise piled high. Of junk and jewels. Of Charles Foster Kane and William Randolph Hearst.
+S: INT HOTEL ROOM. NEW YORK NIGHT
+N: Welles sits brooding in his hotel room. His invincible energy appears gone. He is deep in thought, listlessly shuffling and reshuffling a deck of cards in one hand. He aimlessly shuffles through the cards and plucks one out.
+C: WELLES
+D: Six of spades
+N: He glances at the card. It is the nine of hearts. He shuffles through the cards again and pulls out another card.
+C: WELLES
+D: Six of spades
+N: He looks at the card. It is the two of clubs. His attention is now fully on the cards. He shuffles them dramatically and snatches out a card. He looks at it and then tosses it away. He shuffles again, working the trick, again it fails. He tosses another card away. He continues, ;' more quickly, to attempt the trick. It fails again. And ' again. With a frightened moan Welles flings the entire deck away from him and bolts out of the room...
+S: EXT HOTEL ROOFTOP NIGHT
+N: Welles emerges from a stairway on the roof of his hotel. He marches to the edge of the roof and leans against a railing, gasping for air. Everywhere below him the shimmering lights of Manhattan twinkle and flash; cabs and neon and noise. The night sky above him is filled with stars. He looks away from the city and up to the stars -- they captivate him fully. He stares and stares at the impossible chaos of beautiful lights. A long moment as Welles gazes at the stars. The city below and the noise seem to disappear and Welles stands, safe and at peace under the silent dome of stars. The stars are reflected in his huge, dark eyes Magically, the stars in his eyes give way to the vague shapes of men sitting around a table. Welles looks at the men.
+C: WELLES
+D: Today.
+N: We pull back to see we are at
+S: INT RKO BOARD ROOM. NEW YORK DAY
+N: Welles stands at the head of a long conference table. Title: APRIL 6, Around the table are gathered a group of stern businessmen Schaefer is also present. Welles looks at the men. And he speaks. For once, his usual overwrought, theatrical tones are gone. He speaks simply.
+C: WELLES
+D: Today a man from Germany invaded Greece. He has already swallowed Poland and Denmark and Norway and Belgium. He is bombing London as I speak. Everywhere this man goes he crushes the life and the freedom of his subjects. He sews yellow stars onto their lapels. He takes their voices.
+N: In this country we still have our voices. And we can sing with them. And we can argue with them. And we can be heard. Because we are . . . for the moment . . . free. No one can tell us what to say or how to say it, can they? We have no brown shirt thugs here ruling our lives, do we? No one can take our voices, can they? Because we are free. I am one voice and that is all. My picture is one voice. Men are dying in Europe now -- and Americans soon will be -- so that we can surmount the tyrants and the dictators. Will you send a message across this country that one man can take away our voices? So ... who is Mr. Hearst and who is Mr. Welles? Mr. Hearst built a palace of brick and mortar and starting little wars and corpses piled high. I built a palace of illusion. My castle Xanadu is a matte painting and camera trick. It's nothing but . . . a dream. Today you have a chance to let the dream triumph. For once. He gazes at them and then slowly walks out of the room
+S: INT LONG HALLWAY. NEW YORK DAY
+N: Welles sits quietly on a bench in a long hallway in a tall building. Schaefer emerges from an office and goes to him. He sits next to him.
+C: SCHAEFER
+D: We open on May 1st.
+N: Welles slowly nods.
+C: SCHAEFER
+D: Orson, what you said in there. Did you mean it?
+N: Welles looks at him.
+C: WELLES
+D: Does it matter? They believed it
+N: He stands and begins walking away.
+C: SCHAEFER
+D: Orson.
+N: Welles stops, not turning.
+C: SCHAEFER
+D: Yes. It matters.
+N: Welles continues down the hall
+S: INT HOTEL. NEW YORK NIGHT
+N: Title: APRIL 30, 1941 Welles is rushing to catch an elevator as the doors close He nips in at the last minute and punches his button. He turns. The elevator is deserted but for one other person: William Randolph Hearst. Welles and Hearst recognize each other instantly. As the elevator ascends the two men look at each other. A very long pause as we watch their faces -- the young man and the old man -- both men of mad grandeur and malevolent passion and stunning inspiration -- both men of incalculable achievement and measureless poignancy. Finally:
+C: WELLES
+D: Mr. Hearst, we've met once before, my name is Orson Welles and I've got a movie opening tomorrow night at the Palace. I would be pleased to get you tickets.
+N: A pause as Hearst regards Welles. Then Hearst carefully reaches over and presses the stop button on the elevator. The elevator stops. An exceedingly quiet exchange: A beat. A pause.
+C: HEARST
+D: I wonder. Do you have any idea what you have done?
+C: WELLES
+D: Do you?
+C: HEARST
+D: Intimately. For every sin you have placed on my head I could give you a hundred others. I have been swimming in blood my entire life. But I retain a belief, perhaps you will think it old fashioned, undoubtedly you will, but I believe that private lives should not be public property.
+C: WELLES
+D: Elegant words, sir, when you have made your name and your fortune on slander and innuendo and gossip. In your papers you taught the world how to look under every rock. I learned at the knee of the master.
+C: HEARST
+D: So where does that leave us, Mr. Welles? What kind of sad future are we two making? A future where men will do anything to sell their newspapers and their movies? A future where no price is too high for fame and power? When we will all scratch each other to pieces just to be heard?
+N: Can you truly envision such ... horror. Hearst presses the stop button again and the elevator begins to move. The doors opens on Hearst's floor and he leaves the elevator. The doors are about to shut on Welles when he leans forward; and roars:
+C: WELLES
+D: CHARLES FOSTER KANE WOULD HAVE ACCEPTED I
+N: The doors shut on Welles and we remain with Hearst as he slowly walks down the long hotel hallway. He walks with dignity.
+S: EXT PALACE THEATER. NEW YORK NIGHT
+N: It is the premiere of CITIZEN KANE, at last. The Palace Theater swarms with tuxedos and dress gowns as the elite of New York and Hollywood descend from limousines and slowly parade into the packed lobby. On the Palace marquee "ORSON WELLES" is spelled out in enormous six foot tall electric letters. Below that is "CITIZEN KANE" also in electric letters. Above the marquee is a series of towering, flashing neon Charles Foster Kanes and the words "IT'S TERRIFIC." Title; MAY l, 1941 We float down and enter the crowded lobby with the patrons...
+S: INT PALACE THEATER. LOBBY FOLLOWING
+N: We swirl with the throng of patrons in the lobby as they file into the theater and finally find Welles and Schaefer huddled together nervously in a corner of the lobby. They are studiously ignored and snubbed by all the movie people filtering past.
+C: SCHAEFER
+D: They're cutting us dead, every goddamn one.
+N: They are ignored by a few more people Beat
+C: WELLES
+D: It's my birthday this week. I'll be 26.
+C: SCHAEFER
+D: Happy birthday.
+N: Mank fights through the crowd
+C: MANK
+D: Monstro! Ran into Walter Winchell outside He wants to play Herod in the picture. Hiya, George.
+C: SCHAEFER
+D: Herman.
+C: MANK
+D: So ain't this just the bee's knees? The high muckey-mucks dolled up all Aztec-like for the human sacrifice.
+E: lighting a cigar
+C: WELLES
+D: You gonna watch?
+C: MANK
+D: Hell, I know how it ends. Hey, Rosebud's the sled!
+E: He calls to a passing stranger
+C: WELLES
+D: Mank!
+C: MANK
+D: Face it, Orson, they're gonna hate it. I told you, not enough closeups and too many scenes with a bunch of New York actors.
+C: SCHAEFER
+D: Oh God. . .
+E: pained
+C: WELLES
+D: Relax, George. It's gonna go great. Trust me. Have I ever lied to you?
+N: Schaefer looks at him for a moment
+C: SCHAEFER
+D: You know something, Orson, you haven't done anything but lie to me from the moment we met. But, ya know, I'd do it again in a second.
+C: WELLES
+D: It was fun, wasn't it?
+C: SCHAEFER
+D: It was the best, kid
+E: quietly
+C: WELLES
+D: So, on to the Life Of Christ!
+C: SCHAEFER
+D: Without me. I'm afraid. I got the axe this morning.
+C: MANK
+D: Shit
+C: WELLES
+D: George...
+C: SCHAEFER
+D: Forget it. Cause you know something..
+N: When I'm an old coot playing dominoes down in Miami Beach fifty years from now, I'll say, "Hey, you kids ever heard of a guy named Randolph Hearst?" And they'll say, "Nope. Never heard of him." And then I'll say, "Hey, you ever heard of a picture called CITIZEN KANE?" And they will have. That's enough for me. Pats Welles arm and goes into the theater
+C: WELLES
+D: What have I done?
+E: softly
+C: MANK
+D: Aw, cheer up, George'll probably be running Fox by the morning. Let's get a drink.
+N: Mank pulls at Welles' arm.
+C: WELLES
+D: But the picture...
+N: Mank stops and looks at him deeply.
+C: MANK
+D: Kid, you know how it ends too. It ends sadly.
+E: quietly
+N: He pulls Welles away from the theater and down the street.
+S: INT. PALACE THEATER - NIGHT
+N: We watch the faces In the flickering blue light we watch the audience as we hear Bernard Hermann's evocative and haunting opening music to CITIZEN KANE. We slowly move across a sea of faces as the music plays. For everyone, especially the movie people, what they are seeing is a revelation and a revolution. It is a whole new way of seeing the world. We see their amazement as they are mesmerized -- and their confusion as they are challenged. And we see George Schaefer, quietly proud. Bernard Hermann's opening music continues to play until we finally hear;
+C: "KANE"
+D: "Rosebud...
+N: And the world of movies is forever changed
+S: INT DESERTED BAR. NEW YORK NIGHT
+N: Welles and Mank are sitting in a rundown, deserted bar
+C: WELLES
+D: You know, all this nightmare we went through with Hearst. The whole thing... And in the end, probably no one will ever remember the picture anyway.
+C: MANK
+D: Yeah, you're probably right.
+N: A beat. Mank takes a drink.
+C: MANK
+D: I'll tell ya something, kid. When you make your masterpiece at 26 it's a bitch. I mean. where do you go from here?
+N: A long pause Then Welles speaks, softly.
+C: WELLES
+D: Will burn. Burn up. Burn out. But oh, what a flame
+N: He looks at Mank and toasts.
+C: WELLES
+D: Cheers.
+N: And Orson Welles smiles. Indomitable. THE END.

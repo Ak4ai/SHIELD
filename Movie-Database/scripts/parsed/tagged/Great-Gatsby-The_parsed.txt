@@ -1,0 +1,3399 @@
+M: THE GREAT GATSBY
+M: Written by
+M: Baz Luhrmann & Craig Pearce
+M: Based on
+M: The Great Gatsby by F. Scott Fitzgerald
+M: A BLACK SCREEN.
+M: The blackness is pierced by a single, pulsing green light...
+M: We drift, as if by boat, across a dark bay toward the light.
+M: Then, we hear a troubled voice.
+M: NICK (V.O.)
+M: In my younger and more vulnerable
+M: years my father gave me some
+M: advice: "always try to see the best
+M: in people," he would say...
+M: A gentle snow begins to fall, obscuring the light...
+M: NICK (V.O.)
+M: As a consequence, I'm inclined to
+M: reserve all judgements.
+M: The snow grows heavier.
+M: NICK (V.O.)
+M: But even I... have a limit.
+T: DISSOLVE TO:
+S: EXT. SANITARIUM - WINTER - DAY
+N: Continue drifting, through the snow, across an icy lake...
+C: NICK
+D: Back then all of us drank too much.
+E: V.O.
+N: DISCOVER: A stately Victorian building...
+C: NICK
+D: The more in tune with the times we were, the more we drank.
+E: V.O.
+N: CLOSE ON: The sign, "The Perkins Sanitarium."
+C: NICK
+D: And none of us contributed anything new.
+E: V.O.
+T: DISSOLVE TO:
+S: INT. SANITARIUM - DOCTOR'S OFFICE - WINTER - DAY
+N: DISCOVER: A man shrouded in darkness. He leans against an old fireplace, hand covering his face.
+C: NICK
+D: When I came back from New York I was disgusted.
+N: REVEAL: NICK CARRAWAY (37), unshaven, morbidly alcoholic.
+C: NICK
+D: Disgusted... with everyone, and everything... Only one man was exempt from my disgust.
+E: CONT'D
+N: REVEAL: A kind, elderly DOCTOR.
+C: DOCTOR
+D: One man...? Mr. Carraway?
+C: NICK
+D: Gatsby...
+E: WHISPERS
+C: DOCTOR
+D: Was he a friend of yours?
+C: NICK
+D: He was... the single most hopeful person I have ever met... And am ever likely to meet again. There was something about him...
+N: Nick wanders slowly towards the window, remembering.
+C: NICK
+D: A sensitivity. He was like one of those machines that register earthquakes ten thousand miles away...
+E: CONT'D
+C: DOCTOR
+D: Where did you meet him?
+N: Nick stops and stares out the window, haunted.
+C: NICK
+D: At a party. In New York.
+T: DISSOLVE TO:
+S: EXT. NEW YORK CITY - DAY
+N: THROUGH THE CLOUDS: New skyscrapers pierce a clear blue sky.
+C: NICK
+D: In the summer of 1922, the tempo of the city approached hysteria...
+E: V.O.
+N: ON WALL STREET: A fever pitch of buying and selling...
+C: NICL
+D: Stocks hit record peaks. And Wall Street boomed, in a steady golden roar...
+E: V.O.
+N: IMAGES OF DECADENT NEW YORK FADE IN, ILLUSTRATING NICK'S V.O. Dancing girls, speakeasies, bootleg kings, fat cats counting fresh fortunes, and the stock market climbing up, up, up...!
+C: NICK
+D: The parties were bigger; the shows were broader; the buildings were higher; the morals were looser; and the ban on alcohol had backfired... making the liquor cheaper.
+E: V.O.
+N: FADE IN: A sea of boater hats crowds a Manhattan street.
+C: NICK
+D: Wall Street was luring the young and ambitious.
+E: V.O.
+N: PUSH TOWARD: One of the hats. Its wearer stops, and gazes up.
+C: NICK
+D: And I was one of them.
+E: V.O.
+N: REVEAL: A clear-eyed, hopeful, 29 year old Nick Carraway.
+T: DISSOLVE TO:
+S: EXT. LONG ISLAND - WEST EGG - DAY
+N: AERIAL: The city is still visible in the distance...
+C: NICK
+D: I rented a house twenty miles from the city, on Long Island.
+E: V.O.
+N: DISCOVER: A unkempt bungalow, hemmed in by enormous mansions.
+C: NICK
+D: I lived at West Egg...
+E: V.O.
+T: DISSOLVE TO:
+S: EXT. NICK'S BUNGALOW - DAY
+N: Nick is moving in...
+C: NICK
+D: ...in a forgotten grounds-keeper's cottage squeezed among the mansions of the newly rich.
+E: V.O.
+S: INT. NICK'S BUNGALOW - DAY
+N: Nick is unpacking...
+C: NICK
+D: To get started, I bought a dozen volumes on credit, banking and INVESTMENTS--
+E: V.O.
+N: CLOSE ON: A row of heavy red and gold-bound bonds books. Nick plucks one up.
+C: NICK
+D: All new to me...
+E: V.O.
+N: And turns on the radio.
+C: RADIO VOICE
+D: The stock market hit another record high today!
+T: DISSOLVE TO:
+S: INT. PROBITY TRUST BUILDING - NICK'S OFFICE - DAY
+N: Countless identical grey-suited CLERKS, yell into telephones! CLERK 1 (INTO PHONE) It's like pickin' up money in the street! CLERK 2 (INTO PHONE) I got a dandy tip on Burlington; who's comin with me?! DISCOVER: Nick, speaking much more moderately.
+C: NICK
+D: Yes sir, of course nothing is one hundred percent. Well, I wouldn't go investing every penny. But...
+E: INTO PHONE
+T: DISSOLVE TO:
+S: INT. NICK'S BUNGALOW - DAY
+N: Nick, still unpacking, eyes a mountain of unpacked books...
+C: NICK
+D: At Yale, I'd dreamed of being a writer.
+E: V.O.
+N: He resists the temptation to swap bonds books for literature.
+C: NICK
+D: But I gave all that up.
+E: V.O.
+S: EXT. NICK'S BUNGALOW - PORCH - DAY
+N: Nick emerges onto the porch, greeted by dazzling sunshine.
+C: NICK
+D: With the sun shining and the great bursts of leaves on the trees, I planned to spend the summer studying.
+E: V.O.
+N: Nick sits and places his bonds book in front of him...
+C: NICK
+D: And I probably would have--
+E: V.O.
+N: When woman's shriek startles him... NICK'S POV: On the neighboring beach a group of revellers are frolicking. A scantily girl clad waves and then disappears into the trees, drawing Nick's eye to his neighbor's house...
+C: NICK
+D: Were it not for the riotous amusements that beckoned from beyond the walls of that colossal castle...
+E: V.O.
+N: Through dense foliage Nick spies the mysterious spires and towers of the neighboring Gothic folly.
+C: NICK
+D: Owned by a gentleman I had not yet met, named...
+E: V.O.
+N: In a high tower window, a curtain flutters ominously...
+T: DISSOLVE TO:
+S: INT. SANITARIUM - DOCTOR'S OFFICE - WINTER - DAY
+N: CLOSE ON: Nick, still staring out the window.
+C: NICK
+D: Gatsby.
+N: The Doctor concludes:
+C: DOCTOR
+D: So... He was your neighbor?
+C: NICK
+D: My neighbor? No, Gatsby was-- Well-- If I think about it... The history of the summer really began the night I drove over to my cousin Daisy's for dinner...
+T: DISSOLVE TO:
+S: EXT. NICK'S BUNGALOW - LATE AFTERNOON
+N: HIGH AND WIDE: Nick's old Dodge disappears down the drive...
+C: NICK
+D: She lived across the bay...
+E: V.O.
+N: SWOOP ACROSS THE BAY TOWARDS...
+S: EXT. BUCHANAN MANSION - LATE AFTERNOON
+N: An impressive Georgian mansion overlooks a quarter mile of lawn that cascades down to a private polo field.
+C: NICK
+D: In old money East Egg.
+E: V.O.
+N: BRINNNGGG! BRINNNGGG! We hear a phone ringing off-screen. FOLLOW: A polo player (TOM), as he gallops toward the house.
+C: NICK
+D: Her husband was heir to one of America's wealthiest families.
+E: V.O.
+N: BRINNNGGG! BRINNNGGG! Tom whacks the polo ball...
+C: NICK
+D: His name was Tom Buchanan.
+E: V.O.
+N: The ball nearly hits one of Tom's gardeners...
+C: NICK
+D: When we were at Yale together he'd been a sporting star.
+E: V.O.
+N: BRINNNGGG! BRINNNGGG! Tom dismounts and bounds up the stairs to the porch...
+C: NICK
+D: But now his glory days were behind him and he contented himself with... other affairs.
+E: V.O.
+N: Tom aggressively grabs the telephone from HENRI, the butler, and turns; revealing an imposing, hard-mouthed man of thirty.
+C: TOM
+D: I thought I told you not to call me here...!
+E: INTO PHONE
+N: PULL FOCUS: Tom sees a servant escort Nick along the balcony. Clunking down the receiver, Tom strides toward Nick and grasps his hand with overbearing strength.
+C: TOM
+D: Shakespeare! How's the great American novel coming...?
+E: CONT'D
+C: NICK
+D: Oh, I'm selling bonds now Tom... with Walter Chase's outfit--
+C: TOM
+D: Never heard of em.
+N: Tom slaps Nick with irritating heartiness!
+C: TOM
+D: Hey! What say after dinner we go into town?
+E: CONT'D
+C: NICK
+D: CAN'T--
+C: TOM
+D: Catch up with the old wolf pack?
+C: NICK
+D: Big day on the new job tomorrow--
+C: TOM
+D: Nonsense! We're going.
+S: INT. BUCHANAN MANSION - HALL OF CHAMPIONS - LATE AFTERNOON
+N: Tom leads Nick down a grand hall lined with the trophies that chronicle Tom's infinite sporting achievements.
+C: TOM
+D: First team, all-American!
+N: Tom admires his own achievements.
+C: TOM
+D: You see? Made me who I am today.
+E: CONT'D
+N: Tom pulls his favorite trophy from the cabinet--
+C: TOM
+D: Here-- Forest Hills... I played the Prince of Wales. What a sissy!
+E: CONT'D
+N: Tom exchanges the trophy for a football.
+C: TOM
+D: Life's something you dominate Nick.
+E: CONT'D
+N: He pelts Nick with the ball--
+C: TOM
+D: If you're any good.
+E: CONT'D
+N: Nick fumbles as Tom charges him--
+C: TOM
+D: Ha-ha-ha!
+E: CONT'D
+N: Tom tackles Nick, knocking him back, through a pair of vaulting doors, and into...
+S: INT. BUCHANAN MANSION - SALON - LATE AFTERNOON
+N: A shimmering, sun-dazzled room in which enormous white curtains whip and snap in the breeze... CLOSE ON: Nick, frozen, awestruck. We hear the giggle of naughty children... BOOM!!! As the French doors shut, and the curtains fall, a beautiful white hand rises from behind the couch, and with it, a low, thrilling voice...
+C: DAISY
+D: Oh Nicky... Is that you my lovely?
+E: O.S.
+N: Suddenly, 23 year old DAISY BUCHANAN, appears from over the back of the couch. Her bright eyes and passionate mouth are framed by a strawberry-blonde bob. CLOSE ON: Daisy, captivating...
+C: NICK
+D: Daisy Buchanan. The golden girl. A breathless warmth flowed from her. A promise that there was no one else in the world she so wanted to see...
+E: V.O.
+N: She whispers dramatically...
+C: DAISY
+D: Do they miss me in Chicago?
+C: NICK
+D: Oh, yes. About a dozen people send their love.
+C: DAISY
+D: How gorgeous.
+E: UNIMPRESSED
+C: NICK
+D: They're absolutely in mourning... They're crying...
+C: DAISY
+D: NO--
+C: NICK
+D: They're wailing...
+C: DAISY
+D: NO--
+C: NICK
+D: They're screaming, they're shouting...
+C: DAISY
+D: NO--
+C: NICK
+D: "Daisy Buchanan, we can't live without you!"
+C: DAISY
+D: I'm p-paralyzed with happiness...!
+N: Daisy takes Nick's hand and squeals with childish glee as she drags him over the sofa and onto his back on the floor. He stares up... And, a mysterious, athletic girl glares back. This is 22 year old, JORDAN BAKER.
+C: DAISY
+D: Jordan Baker; a very famous golfer.
+E: CONT'D
+N: CLOSE ON: Nick, the blood drains from his face...
+C: NICK
+D: She was the most frightening person I'd ever seen--
+E: V.O.
+N: Nick rights himself and extends his hand.
+C: NICK
+D: I've seen your face on the cover of "Sporting Life". Nick Carraway...
+N: But Jordan merely yawns and stands (we get a good look).
+C: NICK
+D: But I enjoyed looking at her.
+E: V.O.
+C: JORDAN
+D: I've been lying on that sofa for as long as I can remember...
+N: Daisy turns to Nick with scandalous delight.
+C: DAISY
+D: I know! This summer I'll sort of, fling you and Jordan together...
+N: As Tom prepares drinks at the bar, he glances skittishly at a white telephone set ostentatiously upon a marble pedestal.
+C: DAISY
+D: I'll push you into linen closets, and out to sea in boats...
+E: CONT'D
+C: JORDAN
+D: I'm not listening to a word!
+N: Irritated, Tom turns to Nick.
+C: TOM
+D: Nick, Daisy tells me you're over at
+C: WEST EGG;
+E: MORE
+C: TOM
+D: throwing your lot in with those social-climbing, primitive New Money types...?
+E: CONT'D
+C: NICK
+D: Well, my little shack is cardboard box at eighty a month.
+C: DAISY
+D: Your life is adorable.
+N: Jordan toys with a golf club, and speaks with bored contempt.
+C: JORDAN
+D: I know somebody in West Egg.
+C: NICK
+D: I don't know a single--
+N: Jordan turns dramatically.
+C: JORDAN
+D: Oh, you must know Gatsby.
+N: Daisy, a sharp intake of breath.
+C: DAISY
+D: Gatsby?
+N: CLOSE ON: Daisy, as she struggles to control rising emotion.
+C: DAISY
+D: What Gatsby...?
+E: CONT'D
+N: Before anyone can reply, Henri announces--
+C: HENRI
+D: Madame, le diner est servi!
+N: As Jordan WHACKS a golf ball into a makeshift cup - a trophy on the floor - waiters sweep open the doors and the curtains flutter up again.
+T: DISSOLVE TO:
+S: EXT. BUCHANAN MANSION - TERRACE - NIGHT
+N: Daisy, Nick, Jordan and Tom sit at a long, sumptuously laid table. Food, wine, laughter, smoking... DISSOLVING ABSTRACTLY: Through fragments of conversation...
+C: DAISY
+D: Would you like to hear a family secret? Its about the butler's nose...
+C: JORDAN
+D: Things went from bad to worse...
+C: DAISY
+D: Nicky... I heard a rumor, that you were getting married to a girl out west...
+C: NICK
+D: Its a libel, I'm too poor.
+C: JORDAN
+D: They have to be old so they die quickly...
+C: NICK
+D: Can't we talk about something else? Anything? Crops? You're making me feel uncivilized Daisy--
+N: This draws a strangely violent interjection from Tom.
+C: TOM
+D: Civilization's going to pieces! Have you read 'The Rise of the Colored Empires' by this fellow Goddard?
+C: NICK
+D: Why no...
+N: Tom stands and begins to pace--
+C: TOM
+D: Everyone ought to read it. The idea is that its up to us, the dominant race, to watch out, or these other races...
+N: Tom straightens the bow-tie on his black servant--
+C: TOM
+D: Will have control of things.
+E: CONT'D
+C: DAISY
+D: Tom's been very profound lately. He reads deep books with long words in THEM
+E: WICKEDLY
+C: TOM
+D: It's been proved. Its scientific.
+C: DAISY
+D: We've got to beat them down.
+E: subtly mocking Tom
+N: SUDDENLY, BRINNNGGG! The telephone. All freeze. Another ring. BRINNNGGG!
+C: TOM
+D: Excuse me... I'll be right back.
+N: He goes inside. An embarrassed moment; suddenly Daisy throws her napkin down.
+C: DAISY
+D: I'm sorry...
+N: She follows Tom into the house. Nick, at a loss, turns to Jordan.
+C: NICK
+D: Well, this Mr. Gatsby you spoke of is my neighbor...
+C: JORDAN
+D: Shhhh... Don't talk. I want to hear what happens.
+N: A subdued, impassioned murmur is audible in the room beyond.
+C: NICK
+D: Is something happening?
+C: JORDAN
+D: I thought everybody knew.
+C: NICK
+D: I don't.
+C: JORDAN
+D: Tom's got some woman in New York.
+C: NICK
+D: Got some woman?
+C: JORDAN
+D: She might have the decency not to telephone at dinner-time... Don't you think?
+N: Almost before Nick has grasped her meaning, the doors bang open and Tom and Daisy return to the table.
+C: DAISY
+D: I just love seeing you at my table Nicky. You remind me of a rose, an absolute rose... Doesn't he?
+E: a tense gayety
+C: NICK
+D: I'm not even faintly like a rose--
+C: TOM
+D: So... After dinner Nick wanted to go into town. Right Nick? To the Yale club.
+C: DAISY
+D: Nicky, stay--
+C: NICK
+D: I have to work early.
+C: TOM
+D: Nonsense. Its only for a drink or two.
+N: Daisy and Tom stare at Nick - both demanding his allegiance. SUDDENLY! The telephone rings again: BRINNNGGG! Again, all freeze. BRINNNGGG! PUSH IN: On Daisy as the telephone continues to shriek.
+C: NICK
+D: None of us could ignore that fifth guest's shrill metallic urgency...
+E: V.O.
+T: DISSOLVE TO:
+S: EXT. BUCHANAN MANSION - BALUSTRADE - LATER
+N: Servants clear. Jordan and Tom retire to the salon, as Nick and Daisy stroll down toward the water, and Daisy confides:
+C: DAISY
+D: Oh Nicky...
+C: NICK
+D: What?
+C: DAISY
+D: Its just, well, you see, I think everything's terrible anyhow. You know I've been everywhere and seen everything and done everything, and I've had very bad time Nicky... I'm pretty cyncical about everything.
+N: Daisy gazes melancholic across the bay; an awkward silence. Nick tries to change the subject--
+C: NICK
+D: Your daughter; I suppose she talks, and... eats, and everything?
+C: DAISY
+D: Pammy? Oh yes...
+N: Daisy leans on a stone balustrade and gazes down toward the dock, where a green light glows in the velvet dusk.
+C: DAISY
+D: Listen Nick, when she was born, Tom was God knows where - with God knows whom - and I asked the nurse if it was a boy or a girl. She told me it was a girl, and I wept. 'All right,' I said, 'I'm glad it's a girl. And I hope she'll be a fool - that's the best thing a girl can be in this world, a beautiful little fool.'
+E: CONT'D
+N: She breaks off, and looks at Nick with that smile of hers...
+C: DAISY
+D: All the bright precious things fade so fast...
+E: CONT'D
+N: And as a sad, sweet underscore plays, WE PUSH out over the water, and across the bay toward Gatsby's castle...
+C: DAISY
+D: And they don't come back.
+E: CONT'D
+S: EXT. GATSBY'S CASTLE - DOCK - NIGHT
+N: WE DISCOVER: At the end of Gatsby's dock, A MAN - his dark silhouette is cut against the paler black of the night sky. In the distance behind him we see headlights. It is Nick, pulling up at his bungalow.
+S: EXT. NICK'S BUNGALOW - NIGHT
+N: Nick gets out of his car. He stops. Through the trees, he can see The Man gazing intently across the bay.
+C: NICK
+D: When I arrived home I noticed that a figure had emerged on my neighbor's dock.
+E: V.O.
+N: Nick goes closer, and watches The Man...
+C: NICK
+D: And something told me it was... Mr. Gatsby.
+E: V.O.
+N: The Man reaches out--
+C: NICK
+D: He seemed to be... reaching toward something out there in the dark.
+E: V.O.
+N: A green light on dock pulses in the distant darkness...
+T: DISSOLVE TO:
+S: INT. SANITARIUM - DOCTOR'S OFFICE - WINTER - NIGHT
+N: Nick, troubled...
+C: NICK
+D: The green light.
+C: DOCTOR
+D: Green light?
+N: Nick struggles with a painful memory...
+C: NICK
+D: I don't want to talk about this Doctor.
+N: Nick breaks off; and after a VERY LONG SILENCE, he admits:
+C: NICK
+D: I can't talk about THIS.
+E: CONT'D
+C: DOCTOR
+D: Then write about it.
+E: DELICATELY
+C: NICK
+D: Write?
+E: SKEPTICAL
+C: DOCTOR
+D: Yes. Write.
+C: NICK
+D: Why would I do that?
+C: DOCTOR
+D: After all, you said that writing brought you solace, once upon a time.
+C: NICK
+D: Yeah, well. It didn't bring anyone else much solace... I wasn't any good.
+N: The Doctor offers Nick a pen; but Nick does not accept.
+C: DOCTOR
+D: No one need ever read it. You can always burn it.
+C: NICK
+D: What would I write about?
+C: DOCTOR
+D: Anything. Whatever you can't quite talk about; a memory; a thought; a place... Write it down.
+N: CLOSE ON: Nick considering the challenge...
+C: NICK
+D: A place...
+E: TO HIMSELF
+N: Slowly he takes the pen. We hear the clatter of metal wheels on train tracks; AS THE SCREEN FILLS WITH WORDS, we hear them as voice-over.
+C: NICK
+D: The Valley of Ashes was a grotesque place...
+E: V.O.
+S: EXT. THE VALLEY OF ASHES - DAY
+N: HIGH AND WIDE: A vast dumping ground comprised of massive mounds of smoldering ash; train tracks cut through its heart and the gleaming towers of the city shimmer in the distance.
+C: NICK
+D: New York's dumping ground, half way between West Egg and the city...
+E: V.O.
+N: IMAGES illustrate the poverty and hopelessness of life here.
+C: NICK
+D: ...Where the burnt out coal that powered the booming, golden city was discarded by men who moved dimly and already crumbling through the powdery air.
+E: V.O.
+N: A train waits at a drawbridge spanning a small, foul creek. DISCOVER: Nick, aboard the train, looking out at the awful wasteland...
+C: NICK
+D: ...This fantastic farm was ever- watched by Dr. T. J. Eckleberg...
+E: V.O.
+N: NICK'S POV: A gigantic paint peeling billboard reads: "Dr. T.J. Eckleberg."
+C: NICK
+D: ...A forgotten oculist whose eyes brooded over it all like the eyes of God.
+E: V.O.
+S: INT. TRAIN - DAY
+N: Tom, flushed with booze and heat, glances covertly around the halted carriage. Nick sits opposite.
+C: NICK
+D: Tom had invited me to town, on the pretense of a lunch at the Yale Club....
+E: V.O.
+N: As the carriage moves, Tom suddenly pulls Nick to his feet.
+C: NICK
+D: But the day took an unexpected turn...
+E: V.O.
+N: Tom drags Nick from the moving train.
+C: TOM
+D: Come on--!
+S: EXT. THE VALLEY OF ASHES - DAY
+N: As the train pulls off, Nick, exasperates, chases Tom.
+C: NICK
+D: What are we doing?
+E: O.S.
+C: TOM
+D: Trust me!
+C: NICK
+D: Wait a second would you!?
+C: TOM
+D: Dominate Nick! Dominate!
+E: CALLS BACK
+N: PAN DOWN TO DISCOVER: Tom and Nick outside a small garage. A sign reads: "GEORGE B. WILSON. Cars Bought and Sold."
+S: INT. WILSON'S GARAGE - CONTINUOUS
+N: As Tom and Nick enter the dim garage, WILSON, a nervous, spiritless man, appears from the back office.
+C: TOM
+D: Hello Wilson! How's business?
+C: WILSON
+D: I can't complain. When are you going to sell me that car?
+E: UNCONVINCING
+C: TOM
+D: I've got my man working on it.
+C: WILSON
+D: Works pretty slow, don't he?
+C: TOM
+D: Maybe I'd better sell it somewhere else?
+E: COLDLY
+C: WILSON
+D: I don't mean that, I just...
+N: Wilson's grovelling is terminated by the sound of chunky red heels corkscrewing down stairs from above. All turn to see: MYRTLE WILSON. Buxom. Smoldering. Elementally sensual.
+C: MYRTLE
+D: If its business you're talking, you should be talking to me... Get some chairs why don't you; so somebody can sit down...
+E: to her husband
+N: Myrtle smiles slowly and, walking through her husband as if he were a ghost, shakes hands with Tom.
+C: MYRTLE
+D: Hurry up!
+E: CONT'D WITHOUT TURNING
+C: WILSON
+D: Oh, sure... Sure...
+N: Wilson hurries out back.
+C: TOM
+D: Mrs. Wilson... Nick Carraway.
+C: MYRTLE
+D: A pleasure...
+C: TOM
+D: Nick's a writer...
+N: Myrtle is completely uninterested.
+C: NICK
+D: I'm in bonds, actually...
+E: FEEBLE
+C: TOM
+D: Get on the next train.
+E: intently to Myrtle
+C: MYRTLE
+D: Now...? Are we gettin' that dog?
+E: playing hard to get
+C: TOM
+D: Whatever you want. And you can call up your sister... She'll like him...
+E: glancing to Nick
+C: NICK
+D: Oh no, that's alright, I'm busy...
+C: MYRTLE
+D: Catherine's said to be very good looking, by people who oughta know.
+C: NICK
+D: Really I can't...
+C: TOM
+D: Do you want to embarrass Myrtle...? That's rude.
+E: whispers to Nick
+T: CUT TO:
+S: INT. MYRTLE'S APARTMENT - DAY
+N: The muffled sounds of sex... CLOSE ON: A puppy mouthing a soggy dog biscuit that dissolves into a saucer of milk. Nick, horrified, perches on a couch in a small room stuffed with tacky, pretentious objects; obviously bought by Tom. Nick springs to his feet and yanks open the front door, only to be startled by a slender, louche girl in her twenties, with a sticky bob of red hair. This is CATHERINE. She sweeps into the room, pivots, and extends her hand.
+C: CATHERINE
+D: I'm Catherine; ain't we havin' a party?
+C: NICK
+D: Oh, I'm... I'm not sure now's a good time-- I was just going--
+N: But Nick's exit is blocked.
+C: MRS. MCKEE
+D: Hello...!
+N: MRS. MCKEE, a shrill woman in her 30s, enters with MR. MCKEE - a feminine man with a bit of shaving cream on his cheek.
+C: MR. MCKEE
+D: Chester McKee, pleasure to meet you.
+E: extending his hand
+C: NICK
+D: Nick Carraway.
+C: MRS. MCKEE
+D: Where're the kids?
+N: Nick is still trying to leave, but Catherine corners him...
+C: CATHERINE
+D: What's the matter? Don't ya like me?
+N: SUDDENLY! The bedroom door whooshes open and Myrtle appears wearing an astounding, red jersey sheath dress.
+C: MRS. MCKEE
+D: Myrtle Turtle...! Oh, that dress is adorable!
+C: MYRTLE
+D: It's just a crazy old thing. I slip it on when I don't care what I look like!
+E: with impressive hauteur
+N: Tom appears behind Myrtle, arrogantly buttoning his shirt.
+C: TOM
+D: Get some ice Myrtle, before everyone goes to sleep.
+N: Myrtle sweeps into the kitchen; Tom opens the liquor cabinet.
+C: NICK
+D: Tom, I really should be going...
+E: making for the door
+C: TOM
+D: Nonsense...
+E: grabbing Nick's arm
+C: NICK
+D: Tom; I don't think-- Daisy's my--
+N: Tom pulls Nick back toward the party.
+C: TOM
+D: Listen Nick, you like to watch; I remember that from college. And that's OK, I make no judgment; but we've got a whole summer - do you want to sit on the sideline and watch, or do you want to play ball?
+C: CATHERINE
+D: Yeah. Ain't we good enough for ya?
+N: Catherine winks, pushes Nick into his chair, and fearlessly lands herself in his lap.
+C: CATHERINE
+D: Take off yer hat and stay awhile...
+E: CONT'D
+C: TOM
+D: Hey Nick! McKee's in the artistic game.
+C: MCKEE
+D: Photography.
+C: TOM
+D: Nick's artistic.
+C: NICK
+D: No...
+C: MCKEE
+D: Really?
+C: NICK
+D: Ah, no, well, I write a little...
+N: Tom clunks the gramophone needle onto a record and Catherine raises her voice above the music.
+C: CATHERINE
+D: Do you live on Long Island, too?
+C: NICK
+D: I live at West Egg.
+C: CATHERINE
+D: Really? I was there at a party about a month ago. At a man named Gatsby's. Do you know him?
+C: NICK
+D: I live right next door to him...
+C: CATHERINE
+D: He's a cousin of Kaiser Wilhelm's. You know, the evil German king...
+N: CUT TO: Tom raising Myrtle's skirt suggestively.
+C: TOM
+D: Hey McKee, take a picture of that!
+C: MYRTLE
+D: Oh, don't!
+E: GIRLISH GLEE MORE
+C: MYRTLE
+D: I'm not one of those models...! But you can if you want...
+E: CONT'D
+N: Catherine leans close and whispers in Nick's ear.
+C: CATHERINE
+D: Neither of them can stand who they're married to.
+C: NICK
+D: Doesn't she like Wilson either?
+C: MYRTLE
+D: ...He's a greasy little scumbag!
+E: OVERHEARS
+N: Tom grins arrogantly and offers a drink to Catherine.
+C: CATHERINE
+D: No thanks; I feel just as good on nothing at all...
+N: With a suggestive glimpse of tongue, Catherine pops a pill...
+C: CATHERINE
+D: Nerve pills, I get them from a doctor in Queens. You want one?
+E: CONT'D
+C: NICK
+D: My nerves are fine thanks...
+N: Catherine smiles mischievously, puts a pill on her tongue and suddenly kisses Nick... He splutters, but Catherine tips the scotch to his mouth, washing the pill down.
+C: NICK
+D: I had been drunk just twice in my life and the second time was that afternoon...
+E: V.O.
+N: DISSOLVE TO: Blurry freakish images of time passing... The whiskey is in demand by all; Catherine dances a solo. The music is sexy, dirty, deafening. The images become wilder, nauseatingly violent... As Catherine undresses Nick...
+C: NICK
+D: That night, in the hidden flat that Tom kept for Myrtle, we were buoyed by a sort of chemical madness, a willingness of the heart that burst thunderously upon us all... And suddenly, I began to like New York.
+E: V.O.
+N: As the puppy sits on the table groaning faintly through the smoke, Myrtle suddenly springs to her feet!
+C: MYRTLE
+D: ...I've got to get a massage, and a wave, and a collar for the dog, and one of those cute little ash-trays where you touch a spring, and a wreath with a black silk bow for mother's grave!
+N: Pivoting through the smoky air, Myrtle begins to strip...
+C: MYRTLE
+D: My dear I'm giving you this dress!
+E: CONT'D
+N: Myrtle strips as Mrs. McKee greedily lunges for the dress.
+C: MRS. MCKEE
+D: Adorable! Adorable!
+N: SUDDEN CUT: Nick, very drunk, finds himself at the bathroom window, observing the infinite life of the city...
+C: NICK
+D: High over the city our yellow windows must have contributed their share of human secrets to the casual watcher in the street...
+E: V.O.
+S: INT. SANITARIUM - NICK'S ROOM - WINTER - NIGHT
+N: Nick, now alone, pen in hand, writes furiously.
+C: NICK
+D: ...and I was him too, looking up and wondering...
+E: V.O.
+S: EXT. THE STREET BELOW MYRTLE'S APARTMENT - NIGHT
+N: Nick, simultaneously in the street below, can see himself upstairs looking out from Myrtle's window.
+C: NICK
+D: I was within and without; enchanted and repelled by the inexhaustible variety of life...
+E: V.O.
+N: POETIC VISUAL: The Manhattan skyline - millions of lighted windows frame silhouettes of this inexhaustible humanity...
+S: INT. MYRTLE'S APARTMENT - NIGHT
+N: SUDDENLY WE HEAR Tom violently yelling!
+C: TOM
+D: You've got no right to speak her name!
+N: Tom and Myrtle emerge from the bedroom half-dressed...
+C: MYRTLE
+D: Daisy! Daisy! Daisy! I'll speak it whenever I want! Daisy! Dai--
+N: SUDDENLY! A short, sharp movement, Tom breaks Myrtle's nose! CLOSE ON: Nick. AS MYRTLE SCREAMS, BLOOD FLIES ACROSS THE ROOM IN ABSTRACT SLOW MOTION! PULL OUT: Through the window; this drama becomes merely one more of the countless many that play out in this vast city...
+T: DISSOLVE TO:
+S: INT. SANITARIUM - DOCTOR'S OFFICE - WINTER - DAY
+N: Nick's been reading to the Doctor. He sits on the couch, many hand-written pages on his lap. He admits...
+C: NICK
+D: I have no clue how I got home.
+S: EXT. NICK'S BUNGALOW - PORCH - MORNING
+N: Nick is still asleep. Harsh morning light. CLOSE ON: His eyelids slowly flutter awake. He realizes he's been sleeping on the porch in his underwear.
+C: NICK
+D: But I do know that I awoke with a distinctly uneasy feeling...
+E: V.O.
+N: His pants lie next to him, his shirt is on the railing, his jacket is in a tree, and his car is parked in the bushes... A sudden feeling of disquiet makes Nick look up...
+C: NICK
+D: ....that Gatsby was watching me.
+E: V.O.
+S: INT. SANITARIUM - DOCTOR'S OFFICE - WINTER - DAY
+N: The Doctor leans forward.
+C: DOCTOR
+D: Watching you...?
+E: SLIGHTLY INCREDULOUS
+C: NICK
+D: Yes. He was watching me. In fact, I know now that Gatsby was always watching me...
+C: DOCTOR
+D: And how do you know that?
+C: NICK
+D: Because I got an invitation... I was the only one.
+N: FADE IN IMAGE: An immaculate CHAUFFEUR, in uniform of robin's egg blue, stands on Nick's doorstep, holding a silver tray on which rests an invitation...
+C: NICK
+D: No one, except me, every received an actual invitation to Gatsby's...
+E: CONT'D
+N: The words written on the invitation PUSH FORWARD: "Dear Mr. Carraway, the honor would be entirely mine, if you would attend my little party..."
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - TWILIGHT
+N: A line of limousines stretches from the lights of Manhattan towards Gatsby's gates.
+C: NICK
+D: You see, the rest of New York simply came, uninvited...
+E: V.O.
+N: As an open-topped Rolls Royce motors through Gatsby's gates, a roadster packed with rowdy revellers, swerves onto the verge and roars cheekily by...
+C: NICK
+D: The whole city packed into automobiles and all weekend, every weekend, ended up at Gatsby's...
+E: V.O.
+N: CRANE HIGH AND WIDE: Gatsby's magnificent castle. Illuminated fountains line a driveway packed with limousines; crowds of glamorous people stream up the broad marble stairs.
+S: EXT. GATSBY'S CASTLE - PORTICO - TWILIGHT
+N: Dressed in white flannels, Nick offers his invitation to a doorman who shrugs.
+C: NICK
+D: And I mean everyone: from every walk of life, from every corner of New York City, this kaleidoscopic carnival spilled through Gatsby's door...
+E: V.O.
+N: A gaggle of gorgeous, but obviously low-class girls, carelessly sweep Nick through the portico and into...
+S: INT. GATSBY'S CASTLE - HALL OF MASTERS - CONTINUOUS
+N: A bizarre mix of characters surge toward light at the end of this dark, vaulting, vomitorium-like passageway. BANG! Doors burst open; the dazzling spectacle of the Grand Ballroom...!
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - TWILIGHT
+N: Champagne fountains vault to the ceiling. At the base of the fountains waiters scoop finger-bowl sized glasses onto trays. Nick, almost unable to believe his eyes, takes in the impossible variety of guests at Gatsby's...
+C: NICK
+D: A caravansary of...
+E: V.O
+N: IMAGES OF THE VARIOUS CHARACTERS illustrate his voice-over...
+C: NICK
+D: Billionaire play-boy publishers, and their blond nurses... Heiresses comparing inheritances on Gatsby's beach... My boss, Walter Chase, losing money at the roulette tables... Gossip columnists... Alongside gangsters and governors exchanging telephone numbers... Silent film stars... Broadway directors... Morality protectors... Casino collectors...
+E: V.O. MORE
+C: NICK
+D: Underage hecklers... And Ewing Klipspringer, dubious descendent of Beethoven!
+E: V.O. CONT'D
+N: Overwhelmed, and out-of-place, Nick approaches the bar...
+C: NICK
+D: Do you know where I might find the host, Mr. Gatsby?
+E: to the bartender
+N: He brandishes his invitation.
+C: NICK
+D: I live just next door...
+E: CONT'D
+C: BARTENDER
+D: Mr. Gatsby? I've never seen him sir. Why, no one has...
+N: The bartender automatically hands Nick a martini.
+C: NICK
+D: Alone, and a little embarrassed, I decided to get... roaring drunk.
+E: V.O.
+N: He downs the martini in one gulp, steps over an even drunker guest, who collapses at his feet, and makes his way out to:
+S: EXT. GATSBY'S CASTLE - TERRACE - TWILIGHT
+N: Nick gazes out over the impossibly decadent party...
+C: NICK
+D: Wow.
+N: As, unbeknownst to him, a mysterious, masked guest stalks toward him from behind...
+C: VOICE
+D: I thought I might see you here...
+N: Startled, Nick turns to find... Jordan Baker.
+C: NICK
+D: Hello.
+C: JORDAN
+D: I remembered you lived next door...
+C: NICK
+D: Its like... an amusement park.
+C: JORDAN
+D: Shall we?
+N: Jordan seductively leads Nick down the terrace steps...
+C: NICK
+D: Did you get an invitation?
+C: JORDAN
+D: People aren't invited to Gatsby's.
+C: NICK
+D: Well I was... I seem to be the only one. Who is this Gatsby?
+N: A haughty East Egger, TEDDY, interjects...
+C: TEDDY
+D: He was a German spy during the war.
+C: JORDAN
+D: Teddy Barton. Nick Carraway.
+C: NICK
+D: A German spy...?
+E: TO TEDDY
+N: Teddy's annoying East Egger friend, NELSON, chimes in...
+C: NELSON
+D: No, no, no, no. He's the Kaiser's assassin.
+N: And the third of the East Egger trio, LANGUID GIRL, adds...
+C: LANGUID GIRL
+D: I heard he killed a man once.
+C: NELSON
+D: Its true!
+C: LANUID GIRL
+D: You look at him sometimes when he thinks no one's watching... I'll bet he killed a man.
+C: TEDDY
+D: Kills for fun! Free of charge.
+C: NELSON
+D: Well he's already richer than God.
+N: Nick turns to Jordan; an alarmed whisper.
+C: NICK
+D: You don't believe he killed a man do you...?
+C: JORDAN
+D: Let's go find him, and you can ask him yourself...
+E: WICKEDLY
+N: As the dance-floor erupts, and world-famous dancer Gilda Grey is announced, Jordan leads Nick off...
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - EVENING
+N: MUSIC FEVERISHLY BUILDS! As Nick and Jordan bound up a winding staircase, Jordan teases seductively...
+C: JORDAN
+D: Oh, Mr. Gatsby...! Shall I lead you into his clutches?
+E: TO NICK
+S: INT. GATSBY'S CASTLE - LIBRARY - EVENING
+N: BANG! Nick and Jordan explode into a dark room. A stout, middle-aged man wheels to them with unsettling intensity.
+C: OWL EYES
+D: You won't find him...!
+N: He plucks two finger-bowl sized cocktails from a row lined up on the table and hands them to Nick and Jordan.
+C: OWL EYES
+D: This house and everything in it, are all part of an elaborate disguise. But Mr. Gatsby doesn't exist.
+E: CONT'D
+C: JORDAN
+D: Phooey; I've met him!
+C: OWL EYES
+D: Which one; the Prince, the Spy, the Murderer? I've been wandering his halls drunk for about a week now - but no matter where I look, I can't find anyone who knows anything real about Mr. Gatsby.
+C: JORDAN
+D: Well I don't care; he gives large parties - and I like large parties, they're so intimate; at small parties there isn't any privacy.
+E: BLITHELY DISMISSIVE
+C: NICK
+D: But if that's true; what's all this for...?
+E: slowly to Owl Eyes
+C: OWL EYES
+D: That, my dear fellow, is the question...
+N: Owl Eyes looks to the window; and Nick and Jordan follow his gaze to... Gatsby's garden, where, as the band hits fever pitch, and twilight becomes night... THE PARTY HAS BEGUN!!!!
+S: EXT. GATSBY'S CASTLE - POOL - NIGHT
+N: As the music nears its final crescendo, the evening's many fantastical characters dance uproariously around the pool!!! On an elaborate flotilla in the center of it all Jordan and Nick are kicking a wild Charleston. The number finally peaks!
+C: NICK
+D: I didn't expect all this...
+C: JORDAN
+D: What did you expect?
+E: COY
+C: NICK
+D: I don't know...
+C: JORDAN
+D: Disappointed?
+C: NICK
+D: Not in the slightest...
+N: Jordan and Nick look as if they might just kiss...
+C: TEDDY
+D: Penny-less pantywaist!
+E: TO NICK
+N: Teddy leers between them and pulls Jordan away...
+C: TEDDY
+D: I'm stealing her away Carraway!
+E: CONT'D
+N: Over wild applause, the ORCHESTRA LEADER announces...
+C: ORCHESTRA LEADER
+D: Ladies and gentlemen, please make your way to the grand terrazzo; for the premiere of Mr. Vladimir Tostoff's "A Jazz History of the World", and accompanying fireworks!
+N: Nick follow Jordan, but Teddy cuts him off--
+C: TEDDY
+D: Look around you! Rich girls don't marry poor boys--
+N: On cue, a drinks tray floats into frame. There is a flurry of movement... Teddy rudely snatches a couple of martinis... Nick, disoriented and empty-handed, begins up the stairs, and as he does so, hears the voice of the man holding the tray...
+C: MAN
+D: Your face is familiar. Weren't you in the Third Division during the war?
+C: NICK
+D: Yes; The Ninth Battalion.
+N: CUT TO: THE MAN. He is tanned and handsome; just past thirty.
+C: MAN
+D: I was in the Seventh. I knew I'd seen you somewhere before... Having a good time, old sport?
+C: NICK
+D: The whole thing's incredible - I live next door... (brandishing his now
+E: VERY TIPSY
+C: CRUMPLED INVITATION)
+D: He even sent me an invitation, but I still haven't met Mr. Gatsby, no one's met him; they say he's third cousin to the Kaiser and second cousin to the devil!
+N: At the landing, half way up the steps, the man takes a drink from a waiter's tray and hands it to Nick...
+C: MAN
+D: I'm afraid I'm not a very good host, old sport... I'm Gatsby.
+N: CLOSE ON: Nick - his face drops.
+C: NICK
+D: Oh.. I'm very sorry-- I... I've had so much to drink...
+E: MUTTERING APOLOGIES
+N: The delirious opening chords of Tostoff's "History" coincide with a gorgeous explosion of fireworks in the night sky!
+C: GATSBY
+D: I thought you knew, old sport.
+E: APOLOGETICALLY
+N: Gatsby smiles a dazzling smile; sound fades to a serene hum.
+C: NICK
+D: His smile was one of those rare smiles that you may come across four or five times in life. It seemed to understand you and believe in you just as you would like to be understood and believed in.
+E: V.O.
+N: All at once the bubble bursts, a silver-haired, fifty-ish man in an immaculate tail-suit, (HERZOG) leans into Gatsby.
+C: HERZOG
+D: Excuse me sir; Chicago on the wire.
+N: Gatsby nods, but before he departs he smiles at Nick.
+C: GATSBY
+D: I'm trying out my new hydroplane in the morning. Want to go with me, old sport?
+N: Nick shakes himself from his reverie.
+C: NICK
+D: What time?
+C: GATSBY
+D: Any time that suits you.
+N: Gatsby turns, and catches for the first time, Jordan.
+C: GATSBY
+D: Lovely to see you Miss Baker.
+E: CONT'D
+N: He kisses her lightly on the hand.
+C: GATSBY
+D: If you need anything, just ask for it, old sport. I will rejoin you later... Excuse me.
+E: CONT'D TO NICK
+N: As Nick watches Gatsby walk away, he whispers with amazement.
+C: NICK
+D: I expected him to be...
+C: JORDAN
+D: Old and fat?
+C: NICK
+D: Well, yes; young men don't just drift coolly out of nowhere and buy a palace on Long Island.
+C: JORDAN
+D: He told me once he was an Oxford man. However, I don't believe it...
+C: NICK
+D: Why not?
+C: JORDAN
+D: I don't know... I just don't believe he went there...
+N: Jordan is interrupted by a voice.
+C: HERZOG
+D: I beg your pardon...
+N: She and Nick jump to find Herzog suddenly beside them.
+C: HERZOG
+D: Miss Baker; Mr. Gatsby would like to speak to you... Alone.
+E: CONT'D
+C: JORDAN
+D: Me?
+E: SURPRISED
+C: HERZOG
+D: Yes, madame.
+N: As Vladimir Tostoff's erotic, ominous chords build, Jordan crosses the now empty dance floor toward the silhouette of Gatsby in the library window... Nick, unsettled, watches her go...
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE - MAPROOM - LATER
+N: Alarmingly drunk girls sprawl at the feet of the grand piano. Klipspringer plays, a weeping woman attempts to slur along, and as a dejected Nick passes them toward the front stairs, the library door opens, and Jordan emerges alone... Seeing Nick, she rushes to him...
+C: JORDAN
+D: Nick! Nick! I've just heard the most shocking thing; it all makes sense...
+N: Teddy and the other East Eggers accost Jordan.
+C: TEDDY
+D: Where have you been!? The car's waiting!
+N: Jordan is dragged out the door... Nick, on tenterhooks follows, as Jordan calls back...
+C: JORDAN
+D: Simply amazing! It all makes sense. It all makes sense...
+S: EXT. GATSBY'S CASTLE - NIGHT
+N: The night has devolved into drunken mayhem as cars jam the driveway and intoxicated guests search for their vehicles. Nick chases Jordan down the marble stairs.
+C: NICK
+D: What makes sense...?
+C: JORDAN
+D: Everything... But here I am tantalizing you...
+N: The East Eggers and Jordan pile into their limousine. Jordan, a mysterious smile as she leans out the window.
+C: JORDAN
+D: And I swore I wouldn't tell.
+E: CONT'D
+C: NICK
+D: But...
+C: JORDAN
+D: Nick. I'm sorry, I swore I wouldn't tell.
+N: The car takes off and Nick is left staring; mystified... A voice startles him.
+C: GATSBY
+D: Sorry to keep her from you, old sport. Don't forget; we're going up in the hydroplane tomorrow morning.
+N: Herzog appears behind Gatsby.
+C: HERZOG
+D: Philadelphia on the phone, sir.
+N: Gatsby nods, then smiles that intoxicating smile.
+C: GATSBY
+D: Good night, old sport...
+C: NICK
+D: Good night. Thank you.
+N: Gatsby nods warmly, and turns inside. As Nick walks away he is confronted by a bizarre scene: a big crowd gathers around a COUPÉ, resting on its side in a ditch. SUDDENLY! Owl Eyes pops from the wreck. He leers drunkenly...
+C: OWL EYES
+D: Whazza matter!? We run outta gas!?
+N: The beep of a horn catches Nick's attention. Jordan, leaning out of the window of her car as it sweeps away, calls to him.
+C: JORDAN
+D: Come and see me... We'll have tea! I'm in the phone-book!
+N: Nick waves, smiles, and cuts across the lawn. CLOSE ON: Nick. As he reaches the stone-pass separating his yard from Gatsby's, he stops; a familiar feeling...
+S: INT. GATSBY'S CASTLE - TOWER - CONTINUOUS
+N: High up in the window, the shadowy figure of Gatsby stands, phone pressed to his ear, watching Nick. After a moment, he raises his hand in formal farewell.
+C: NICK
+D: We rode in the hydroplane... And I attended two more of his parties, even made use of his beach. But I soon realized that I knew absolutely nothing about Gatsby at all, until...
+E: V.O
+S: INT. NICK'S BUNGALOW - MORNING
+N: Nick is eating breakfast, studying bonds, when his glass of orange juice begins to rattle and shake. Puzzled, Nick hurries to the window...
+S: EXT. NICK'S BUNGALOW - CONTINUOUS
+N: Gatsby's yellow Duesenberg hurtles up Nick's drive and skids to a stop. Nick emerges to his porch. Gatsby leaps out!
+C: GATSBY
+D: Its pretty isn't it, old sport...? Haven't you seen it before? Its all a custom job. Supercharged engine. Get dressed... We're having lunch!
+T: SLAM CUT TO:
+N: I/E. GATSBY'S CAR - LONG ISLAND COUNTRYSIDE - DAY The Duesenberg whips and winds along a tree-lined road... Gatsby, beyond nervous, drives with reckless intensity.
+C: GATSBY
+D: Ah... well... Ah... Look here, old sport... What's your opinion of me, anyhow?
+C: NICK
+D: My... opinion?
+C: GATSBY
+D: Yes, yes, your opinion!
+N: Gatsby yanks the wheel; Nick hangs on for dear life!
+C: GATSBY
+D: I don't want you to get the wrong impression from all those bizarre accusations you must be hearing. A pack of lies I assure you. You've heard the stories...?
+E: CONT'D
+C: NICK
+D: WELL--
+C: GATSBY
+D: I'll tell you God's truth. God's truth about myself! I am the son of some very wealthy people from the Middle-West; sadly, all dead now... I was brought up in America, but educated at Oxford; because all my ancestors have been educated there for many years. You see, it's a... a family tradition.
+E: raises right hand
+N: As Gatsby's speech continues at breakneck speed... Nick's
+T: V.O. fades up.
+C: NICK
+D: The way he spoke... No wonder people thought he was lying...
+E: V.O.
+C: GATSBY
+D: After that I lived like a young Prince in all the capitals of Europe!
+C: NICK
+D: Europe?
+N: Barrelling around a blind turn, Gatsby wrenches at the wheel and maniacally overtakes a truck laden with farmhands...
+C: GATSBY
+D: Yes, Europe! Paris; Venice; Rome; Vienna, Zurich, Helsinki... Collecting jewels, chiefly rubies, hunting big game, painting, a little, things for myself mostly, and trying to forget something very sad that happened to me long ago...
+N: PAN UP: The Duesenberg rockets forth; in the far distance the lush green countryside cedes to the lifeless Valley of Ashes.
+T: DISSOLVE TO:
+N: I/E. GATSBY'S CAR/THE VALLEY OF ASHES - DAY Gatsby hasn't stopped for breath...
+C: GATSBY
+D: Then came the war, old sport...
+C: NICK
+D: Just when I thought it couldn't be any more fantastical...
+E: V.O.
+C: GATSBY
+D: It was a great relief and I tried very hard to die, but I seemed to bear an enchanted life...
+C: NICK
+D: He became a war hero, single- handedly defeating the German army!
+E: V.O.
+N: CLOSE ON: Gatsby. He speaks with sudden, subdued emotion.
+C: GATSBY
+D: In the Argonne Forest I took my machine gun detachment so far forward... We were outnumbered five to one. There was a half mile gap on either side of us where the infantry couldn't advance. We stayed there two days and two nights, 130 men with only 16 Lewis guns...
+N: Something catches Nick's eye... NICK'S POV: Myrtle Wilson pumps gas outside Wilson's Garage.
+C: GATSBY
+D: ...When the infantry came up at last they found the insignia of 3 German divisions among the piles of the dead.
+E: CONT'D
+N: SCREEECHHH!!! Gatsby slams to halt at the train crossing!
+C: GATSBY
+D: I was promoted to Major and every Allied government gave me a decoration; even Montenegro! Little Montenegro down on the Adriatic Sea.
+E: CONT'D
+N: SLAM! A medal is suddenly in Nick's lap.
+C: GATSBY
+D: Here! That's the one from Montenegro.
+E: CONT'D
+N: It looks authentic.
+C: GATSBY
+D: Turn it.
+E: CONT'D
+C: NICK
+D: Major Jay Gatsby. For Valor Extraordinary.
+E: READS
+C: GATSBY
+D: That's right.
+N: SLAP! A photograph joins the medal.
+C: GATSBY
+D: Here's another thing that I always carry. A souvenir of my Oxford days; the man on my left is now the Earl of Doncaster.
+E: CONT'D
+N: CLOSE ON: The photograph. Young men in blazers loaf in front of Oxford College. Gatsby stands with a cricket bat in hand.
+C: NICK
+D: What could I say...? The photograph was undoubtedly authentic. Could it all be true?
+E: V.O.
+N: DING! The gate lifts. And as Gatsby peels out, towards New York, he continues...
+C: GATSBY
+D: But don't take my word for it. At lunch, I'm going to introduce you to one of New York's most distinguished businessmen; my friend, Mr. Meyer Wolfsheim, who will confirm all I've told you, and vouch for my good character...
+E: O.S.
+N: I/E. GATSBY'S CAR - ASTORIA - DAY Gatsby weaves between the pylons of the elevated highway.
+C: NICK
+D: I'm sure that's not necessary...
+N: Gatsby wheels to Nick, smiling with charming intensity.
+C: GATSBY
+D: Oh but it is though...! You see, I thought you ought to know something about my life. I... I don't want you to think I'm just some... some nobody. You see, old sport, I'm going to make a very big request of you today.
+C: NICK
+D: A big request?
+C: GATSBY
+D: Yes. Yes... Miss Baker will explain everything when you take her to tea this afternoon.
+C: NICK
+D: Jordan...? What's she got to do with it?
+E: caught off guard
+C: GATSBY
+D: Oh, I assure you it's nothing underhand. Miss Baker's an honest sportswoman; she'd never do anything that wasn't alright...
+N: RRIIIRRRAA! A shrieking police siren! Before Gatsby can continue, a MOTORCYCLE COP pulls alongside.
+C: COP
+D: Pull over!!! Pull over to the curb!
+C: GATSBY
+D: All right, old sport! Alright.
+E: CALMLY
+N: Without slowing, Gatsby takes a card from his pocket...
+C: COP
+D: Right you are... Know you next time, Mr. Gatsby. Excuse me!
+E: EMBARRASSED
+N: The cop peels off; and the Duesenberg, carrying an absolutely mystified Nick, rockets towards the Queensboro Bridge!
+C: NICK
+D: One of your old Oxford pals?
+C: GATSBY
+D: Well... actually, I was able to do the Commissioner a favor once; he sends a Christmas card every year. I imagine he'll be at lunch too...
+E: ADDS PROUDLY
+C: NICK
+D: By the time we reached the bridge I was impossibly confused...
+N: Nick turns to see: A Rolls Royce in which two stylish AFRICAN AMERICAN MEN and a WOMAN haughtily quaff champagne. They are driven by a WHITE CHAUFFEUR. An orchestral melody surges...
+C: NICK
+D: I didn't know what to think... But the city seen from the Queensboro Bridge is always the city seen for the first time, in its first wild promise of all the mystery and the beauty in the world. Anything can happen now that we've slid over this bridge, I thought; anything at all...
+E: V.O.
+N: As the orchestra builds, Gatsby's car shoots into Manhattan, through Times Square and beneath the famous advertisement of the man in the Arrow shirt. We follow, sweeping high over skyscrapers. The Duesenberg pulls up on the street below... SUDDENLY THE CAMERA PLUMMETS with startling velocity...
+C: NICK
+D: Even Gatsby could happen...
+E: V.O.
+N: BAAAAM! A fat beat kicks as we explode through a grate, into:
+S: INT. THE ANGRY DIAMOND SPEAKEASY - DAY
+N: The sweaty grind of music shakes the air. On stage a pianist, THE PROFESSOR, bangs out a sizzling tune! PULL THROUGH A DOUBLE-GLASS MIRROR INTO:
+S: INT. DICK DIVER'S CUTS BARBERSHOP - CONTINUOUS
+N: DISCOVER: Nick and Gatsby entering the cramped shop... In the center of the room a tall, distinguished, grey-bearded man in an exquisitely cut suit, and with gold rings on every finger, is having a beard trim. This, is MEYER WOLFSHEIM.
+C: WOLFSHEIM
+D: Ah my boy...!
+N: They embrace.
+C: GATSBY
+D: Meyer, Meyer...
+C: WOLFSHEIM
+D: You smell so good.
+C: GATSBY
+D: Mr. Carraway; my friend, Mr. Wolfsheim.
+N: Gatsby guides Nick and Wolfsheim toward the back of the shop.
+C: WOLFSHEIM
+D: A wonderful pleasure, Mr. Carraway. I know all about you.
+C: NICK
+D: Really?
+C: WOLD
+D: Of course! Mr. Gatsby is always talking about you.
+N: Gatsby raps a coded knock on a hidden door at the back of the shop. The door slides open, the rumble of music pours out...
+C: WOLFSHEIM
+D: Come, join us for a little lunch...
+E: SINISTER
+S: INT. THE ANGRY DIAMOND SPEAKEASY - CONTINUOUS
+N: Gatsby ushers Wolfsheim and Nick down narrow creaking stairs, through the crowd and into the smoke-filled speakeasy... ECU: Nick, taking in his NEW, SEEDY surroundings.
+C: WOLFSHEIM
+D: Tell Walter Chase; "he shuts his mouth or he doesn't get a penny..."
+E: whispers to Gatsby
+C: GATSBY
+D: We'll talk about that later...
+N: The HEAD WAITER appears.
+C: HEAD WAITER
+D: Highballs, Mr. Gatsby?
+C: GATSBY
+D: Yes, highballs it is. You take good care of my friend here!
+E: points to Nick
+N: A portly man of obvious stature, surrounded by scantily clad flappers, yells from a corner booth.
+C: COMMISSIONER
+D: Hey Jay...! You're under arrest!!!
+N: Gatsby smiles and tips his hat.
+C: GATSBY
+D: You be careful now. You're turning into a real Jazz-Hound Commissioner. See, that's the Commissioner back there.
+E: TO NICK
+N: Gatsby, the king here, greets patrons high and low... He sees SENATOR GULICK at the craps table.
+C: GATSBY
+D: You be careful at those tables now Senator!
+E: CONT'D
+C: SENATOR GULICK
+D: Of course! I'll put a bet on for you Jay!
+N: Waiters clear a front row table - best seat in the house - Gatsby helps Wolfsheim to his. Wolfsheim eyes the girls on the stage. Gatsby flashes Nick a charming smile.
+C: GATSBY
+D: Shall we order? Lobster tails all round. They decorate it with truffle slices and fine herbs. Very artistic.
+E: to the waiter TO NICK
+N: Wolfsheim glances to Gatsby, and then turns again to Nick...
+C: WOLFSHEIM
+D: So... How is the bond business Mr. Carraway?
+C: NICK
+D: It's fine, thank you.
+C: WOLFSHEIM
+D: I understand you're looking for a BUSINESS GONNEGTION--
+C: GATSBY
+D: No, no. This isn't the man. This is the friend I told you about.
+C: WOLFSHEIM
+D: Oh! Beg your pardon, I had a wrong man.
+N: Woldsheim pats Nick on the back, unsettling him further... Gatsby, a quick glance to his watch and Wolfsheim, jumps up.
+C: GATSBY
+D: Now, if you'll excuse me. I have to make THAT call. Meyer, do you mind?
+E: gesturing to Nick
+N: Gatsby leaving Nick and Wolfsheim alone.
+C: WOLFSHEIM
+D: Gatsby! What a gentleman! From one of the finest families in the Midwest... Sadly all dead now. Let me tell you, when I made the pleasure of Mr. Gatsby's acquaintance just after the war, I knew I had discovered a man of fine breeding. A war hero! Such... medals. And, an Oggsford man. Oggsford College in England. You know Oggsford?
+C: NICK
+D: I've heard of it...
+C: WOLFSHEIM
+D: Then you would know that a man like that can be trusted. With a friend, with someone like you, he would never so much as look at your wife...
+C: NICK
+D: I'm not... married.
+C: WOLFSHEIM
+D: But you work on Wall Street, right?
+C: NICK
+D: Yes...
+E: TOTALLY CONFUSED
+N: Nick studies Wolfsheim, noticing an oddity about his outfit.
+C: WOLFSHEIM
+D: Looking at my tiepin?
+N: CLOSE ON: The pin.
+C: WOLFSHEIM
+D: Finest specimen of human molars...
+E: CONT'D
+N: Before Nick can recover, Gatsby suddenly returns.
+C: GATSBY
+D: Gentlemen. Everything alright...?
+C: NICK
+D: Oh, yes... We were just talking about other people's wives...
+C: GATSBY
+D: Other people's wives? Ah... I see.
+E: taking his seat
+N: Gatsby looks to Wolfsheim.
+C: GATSBY
+D: Other people's wives... Meyer?
+E: CONT'D
+N: Wolfsheim nods, smiles, and checks out the dancing girls...
+C: WOLFSHEIM
+D: Well, my work here is done. I'll leave you gentlemen to talk about your sports and your women...
+N: Wolfsheim follows his favorite dancer off...
+C: GATSBY
+D: You'll have to excuse him... In his old age, he's prone to "digress..." He's a regular around here; a real denizen of Broadway...
+C: NICK
+D: Who is he anyhow?
+C: GATSBY
+D: Meyer? He's a gambler.
+N: Over Nick and Gatsby's shoulders is Wolfsheim, mingling with the ladies; but occasionally glancing in their direction...
+C: NICK
+D: An actor?
+C: GATSBY
+D: Meyer? No. He's the man who fixed the 1919 World Series.
+C: NICK
+D: Fixed it?
+C: GATSBY
+D: Fixed it.
+C: NICK
+D: How did he manage that?
+C: GATSBY
+D: He just... saw the opportunity, I suppose. He's a very smart man. Now, old sport, about Miss Baker, and that request we spoke of...
+E: tries to change subject
+N: Before Gatsby can go on, Tom Buchanan looms over the table.
+C: TOM
+D: Hey Nick! Nick! Where've you been!? Daisy's furious you haven't called up.
+N: Nick and Gatsby stand.
+C: NICK
+D: This is Mr. Gatsby, Mr. Buchanan.
+N: CLOSE ON: Gatsby. With strange intensity he offers his hand.
+C: GATSBY
+D: I'm so very, very... delighted to make your acquaintance.
+N: Tom turns back to Nick.
+C: TOM
+D: I wouldn't have expected to find you in this temple of virtue.
+C: NICK
+D: I'm having lunch with Mr. Gats--
+N: Nick turns, but inexplicably, Gatsby is gone. PUSH TOWARD: Nick, surprise rising into anger...
+T: CUT TO:
+S: EXT. THE HOTEL SAYRE - ROOFTOP GARDEN - DUSK
+N: Jordan is perched at an elegant table, overlooking Times Square and the advertisement of the man in the beautiful Arrow shirts. DISCOVER: Nick, frustrated, dodging the fashionable and famous...
+C: NICK
+D: I'm looking for Ms. Baker. Yes. The famous sporting star. The golfer... There... I've spotted her.
+N: Nick comes to an abrupt halt in front of Jordan.
+C: NICK
+D: What game are you and Gatsby playing at!?
+E: CONT'D
+N: An immaculate MAITRE'D offers Nick a chair.
+C: MAITRE'D
+D: Will the gentleman be joining?
+C: NICK
+D: One moment please--
+E: FRUSTRATED
+C: JORDAN
+D: Please, Nick, sit down. This is a polite restaurant.
+N: As Nick's frustration and Jordan's embarrassment grow--
+C: NICK
+D: It's all very strange. He picks me up in his fancy yellow car... And he's going on and on and on about his life and the war and rubies and Oxford and... What is--
+C: JORDAN
+D: If you'll just have a seat--
+C: NICK
+D: What is this big request!?
+C: JORDAN
+D: Nick--! He just wants you to invite Daisy to tea.
+C: NICK
+D: Tea? Daisy...? And Gatsby...?
+E: not what Nick expected
+N: Nick sits...
+C: NICK
+D: Why?
+E: CONT'D
+C: JORDAN
+D: Well... I don't know quite where to start. You see... I met Gatsby, five years ago, in Louisville...
+T: DISSOLVE TO:
+S: EXT. DAISY'S HOUSE - LOUISVILLE - DAY
+N: TIGHT ON: Golf shoes biting into soft, green grass.
+C: JORDAN
+D: It was the day I got my new English golf shoes.
+E: O.S.
+N: WIDE: A row of fancy Louisville homes - red, white and blue bunting "tut, tutting" in the breeze - are set along a beautiful, green stretch of park.
+C: JORDAN
+D: Daisy was by far the most popular girl with the Officers from Camp Taylor...
+E: O.S. CONT'D
+N: Across the road, 18 YEAR OLD DAISY is perched in the front seat of her flashy white roadster, beaming, happy...
+C: JORDAN
+D: One of them was in the car with her.
+E: O.S. CONT'D
+N: Beside Daisy REVEAL: A handsome lieutenant: YOUNG JAY GATSBY.
+C: JORDAN
+D: It was Gatsby. And the way he looked at her...
+E: O.S. CONT'D
+T: DISSOLVE TO:
+S: EXT. THE HOTEL SAYRE - ROOFTOP GARDEN - DUSK
+N: The silhouettes of Jordan and Nick, leaned close, are lit magnificently against the beaded lights of the city...
+C: JORDAN
+D: Is the way all girls want to be looked at.
+E: O.S.
+N: Their eyes meet; a conspiring flicker.
+C: NICK
+D: So what happened?
+E: BLOWN AWAY
+C: JORDAN
+D: Well, I don't know...
+T: DISSOLVE TO:
+S: EXT. FRENCH BATTLEFIELD - DAY
+N: Gatsby leads his men on a heroic charge out of the trenches--
+C: JORDAN
+D: Gatsby was sent off to war...
+E: O.S.
+N: A MASSIVE EXPLOSION rocks the battlefield!
+C: JORDAN
+D: But when the war ended... For some unknown reason, Gatsby couldn't return...
+E: O.S. CONT'D
+T: DISSOLVE TO:
+N: MONTAGE. A NEWSPAPER FILLS THE SCREEN: "AMERICA'S WEALTHIEST BACHELOR TO WED: TOM BUCHANAN LURES LOUISVILLE'S SWEETHEART."
+C: JORDAN
+D: A year later, Tom Buchanan of Chicago swept in and stole her away...
+E: O.S.
+T: DISSOLVE TO:
+S: INT. SEELBACH HOTEL - DAISY'S GRAND SUITE - NIGHT
+N: An exquisite string of pearls coils around Daisy's neck.
+C: JORDAN
+D: He gave her a string of pearls worth $350,000.
+E: O.S.
+N: REVEAL: Tom, tightening the clasp.
+T: DISSOLVE TO:
+S: INT. SEELBACH HOTEL. DAISY'S GRAND SUITE - MORNING
+C: JORDAN
+D: But, the morning of the wedding, Daisy received a letter...
+E: O.S.
+N: On the bed, Daisy, hysterical, clutches a bottle in one hand and a letter in the other.
+C: DAISY
+D: Tell them Daisy's changed her mind!
+E: SCREAMS
+C: JORDAN
+D: Daisy! Please, everyone's waiting!
+N: Daisy reaches for the pearls around her neck...
+C: YOUNG DAISY
+D: Give them back!!
+N: Suddenly! Daisy tears the pearls and hurls them; they explode into a hundred shimmering pieces against the hard wood floor! CUT TO: A set of stern, white heels clicking down the hall... REVEAL: Daisy's hard-mouthed MOTHER.
+C: DAISY'S MOTHER
+D: What on earth is going on in here!?
+N: her mother's eyes land on the bottle, and then the letter... PUSH IN: The last line of the letter reads: Love, Jay.
+C: DAISY
+D: Leave me alone!
+C: DAISY'S MOTHER
+D: Jordan, run the bath! Now!
+T: DISSOLVE TO:
+S: INT. SEELBACH HOTEL - BATHROOM - MORNING
+N: In the bath, Daisy's grips the letter in her trembling hands.
+C: NICK
+D: What was in the letter?
+E: O.S.
+N: A deep breath, a last look, and then, Daisy opens her hand... The letter comes to pieces like snow.
+C: JORDAN
+D: I don't know. She wouldn't tell me.
+E: O.S.
+N: But before the letter disappears completely we read one more line: "The truth is..."
+T: DISSOLVE TO:
+S: EXT. LOUISVILLE CHURCH - FRONT STEPS - LATE AFTERNOON
+N: Daisy and Tom, newly married, pose for photos.
+C: JORDAN
+D: Anyways, that day, at five o'clock, Daisy Faye married Tom Buchanan with more pomp and circumstance than Louisville had ever seen...
+E: O.S.
+T: DISSOLVE TO:
+S: EXT. TIMES SQUARE - NIGHT
+N: Jordan and Nick stroll beneath the soaring electric signs.
+C: JORDAN
+D: After the honeymoon, I saw them in Santa Barbara. It was touching, actually...
+E: MORE
+C: JORDAN
+D: I'd never seen a girl so in love with her husband. A week later, Tom crashed his car. The girl with him was a chambermaid at the Santa Barbara Hotel. It got into all the papers...
+E: CONT'D MUSES CYNICALLY
+N: As Jordan and Nick approach the curb, waiting for a cab, Nick turns to Jordan; he's struck by a... sudden, puzzled thought.
+C: NICK
+D: It's a strange coincidence, isn't it? Gatsby's house being just across the bay...
+N: Jordan whirls round--
+C: JORDAN
+D: It's no coincidence. He bought that house to be near her, he threw all those parties hoping she'd wander in one night. He constantly asked about Daisy... I was the first one who knew her.
+N: Nick takes this in; as if seeing Gatsby for the first time.
+C: NICK
+D: All that for a girl he hasn't seen in five years...? And now he just wants me to have her for tea...? The modesty of it.
+E: TO HIMSELF
+C: JORDAN
+D: Kind of takes your breath away, doesn't it?
+N: A cab pulls up, and Nick opens the door...
+S: INT. TAXI - CONTINUOUS
+N: Jordan slides in...
+C: TAXI DRIVER
+D: Evening sweethearts! Where to?
+C: JORDAN
+D: Long Island, please.
+C: NICK
+D: And you think I should? I mean, does Daisy want to see Gatsby?
+C: JORDAN
+D: She's absolutely not to know. You are just supposed to invite her over so he can "happen to drop by."
+E: a stern whisper
+N: CLOSE ON: Nick, unsure...
+C: NICK
+D: I remember feeling torn. Was it right to bring my cousin Daisy, a married woman, together with a man I hardly knew?
+E: V.O.
+N: As Nick wonders, the taxi floats across Times Square, under the cool eyes of the man in the Arrow shirt...
+T: DISSOLVE TO:
+S: EXT. DIRT TRACK TO NICK'S BUNGALOW - NIGHT
+N: Nick's taxi pulls past Gatsby's mansion, ablaze with light.
+C: NICK
+D: When I returned home, Gatsby's was lit, from tower to cellar, as if for another wild party. But... There wasn't a sound.
+E: V.O.
+S: EXT. NICK'S BUNGALOW - NIGHT
+N: As Nick's taxi groans away, Gatsby appears striding through the illuminated trees toward Nick.
+C: NICK
+D: Your place looks like the World's Fair... or Coney Island!
+C: GATSBY
+D: Ah, does it? I've... I've just been glancing into some rooms... Let's go to Coney Island, old sport, we can take my car--
+E: TERRIBLY ANXIOUS
+C: NICK
+D: It's too late tonight.
+C: GATSBY
+D: Or we can take a plunge in the swimming pool? I haven't made use of it all summer...
+C: NICK
+D: I must go to bed...
+N: Gatsby looks crestfallen. Nick puts him out of his misery.
+C: NICK
+D: Happy to do it. Jay-- I'm going to call Daisy and invite her to tea.
+E: CONT'D
+C: GATSBY
+D: Oh, that's alright. I don't want to put you to any trouble...
+C: NICK
+D: What day would suit you?
+C: GATSBY
+D: What day would suit you...? I don't want to put you to any trouble...
+C: NICK
+D: Day after tomorrow alright?
+C: GATSBY
+D: Day after tomorrow? Well, I'd... I'd want to get the grass cut.
+N: They both look at the grass - there is a sharp line where Nick's ragged lawn ends and Gatsby's manicured one begins.
+C: GATSBY
+D: There's another little thing... I thought-- Look here, old sport-- You don't make much money, do you?
+E: CONT'D
+C: NICK
+D: Not really.
+C: GATSBY
+D: If you'll pardon my... You see, I carry on a little business on the side - a sort of sideline - you understand what I'm saying right? You're selling bonds, aren't you, old sport?
+C: NICK
+D: Trying to.
+C: GATSBY
+D: Well, this might interest you... It happens to be a rather confidential sort of thing... But you might pick up a nice bit of money.
+C: NICK
+D: I've got my hands full.
+N: Gatsby's face falls.
+C: GATSBY
+D: You wouldn't have to do any business with Wolfsheim. I assure you.
+C: NICK
+D: No, no, no... Its a favor Jay. Just a favor.
+N: Nick's sincerity disarms Gatsby; a tiny, embarrassed nod.
+C: NICK
+D: Happy to do it.
+E: CONT'D
+C: GATSBY
+D: A favor?
+C: NICK
+D: Yes.
+N: As if no one has ever done him a favor before in his life...
+C: GATSBY
+D: Ah, right, right... Goodnight.
+C: NICK
+D: Goodnight.
+N: With this, Gatsby turns and strolls back toward his blazing castle. Nick's gaze falls upon the unkempt lawn. He smiles.
+T: DISSOLVE TO:
+S: EXT. NICK'S BUNGALOW - FRONT LAWN - DAY
+N: TOP SHOT: An enormous mower clatters through frame, carving Nick's unkempt lawn into a fresh, broad, band of green. REVEAL: An army of gardnders giving Nick's lawn and garden a make-over, fresh paint, new flowers, trimmed hedges...
+T: DISSOLVE TO:
+S: EXT. NICK'S BUNGALOW - FRONT LAWN - THE FOLLOWING DAY
+N: Heavy rain now falls. Gatsby, dressed in white flannel suit, silver shirt, and gold tie, leads a dozen umbrella-holding servants across the lawn. Herzog holds an umbrella over Gatsby; the other servants shelter extravagant floral arrangements in crystal vases... Nick watches the parade through his window, opening his door just as Gatsby arrives; the servants continue inside. On the porch, Gatsby looks around distractedly.
+C: GATSBY
+D: One of the papers said they thought the rain would stop about four. I think it was the Journal...
+N: An awkward beat.
+C: NICK
+D: The grass looks fine.
+C: GATSBY
+D: Grass?
+N: Gatsby looks at Nick without really comprehending, or seeing.
+C: GATSBY
+D: What Grass?
+E: CONT'D
+T: SUDDEN CUT TO:
+S: INT. NICK'S BUNGALOW - LIVING ROOM - DAY
+N: TIGHT ON: A mantelpiece clock, ticking in the tense silence. WIDER: The room is crowded with absurdly extravagant floral arrangements. Nick sits watching as Gatsby intensely paces. The silence stretches, and stretches... Finally...
+C: GATSBY
+D: Have you got everything you need?
+C: NICK
+D: Perhaps more flowers?
+C: GATSBY
+D: I think they did a fine job, don't you?
+C: NICK
+D: Beautiful.
+C: GATSBY
+D: You think it's too much?
+C: NICK
+D: I think it's what you want.
+C: GATSBY
+D: I think so too... She'll be impressed, won't she old sport?
+C: NICK
+D: I am.
+N: With this, Gatsby straightens his suit, sits, and hurriedly checks his watch. Another long silence... PUSH IN ON: Gatsby... SUDDENLY! He leaps to his feet!
+C: GATSBY
+D: I can't wait all day. I'm leaving!
+C: NICK
+D: Don't be silly. It's just two minutes to four...
+N: But Gatsby heads for the door...
+C: GATSBY
+D: Nobody's coming to tea. It's too late!
+N: BEEEEEP! Gatsby glimpses Daisy's Rolls Royce arriving out front, and turns to Nick, flushed with fresh panic.
+C: NICK
+D: It's her.
+N: PUSH IN ON GATSBY: Mind racing...
+S: EXT. NICK'S BUNGALOW - DAY
+N: Daisy's chauffeur-driven Rolls pulls up in the muddy drive. As Nick assists Daisy from the car...
+C: DAISY
+D: Is this absolutely where you live, my dearest one?
+N: She looks at him with a mysterious smile.
+C: DAISY
+D: Why did I have to come alone? Are you in love with me?
+E: CONT'D
+C: NICK
+D: That's the secret of Carraway Castle. Tell your chauffeur to go far away.
+E: PLAYING ALONG
+C: DAISY
+D: Come back in an hour, Ferdie! His name is Ferdie.
+E: GRAVE MURMUR
+S: INT. NICK'S BUNGALOW - HALL - DAY
+N: Daisy continues ahead into the living room. Nick hangs back and listens hopefully to Daisy's reaction at discovering Gatsby. He smiles as he hears a delighted...
+C: DAISY
+D: Oh--! Oh, my goodness. I... I can't believe it. You-- Did you ransack a greenhouse?
+E: O.S.
+S: INT. NICK'S BUNGALOW - LIVING ROOM - CONTINUOUS
+C: DAISY
+D: He is in love with me...
+E: TO HERSELF
+N: Nick enters, but is shocked to discover that Gatsby is not there. Daisy's merely been admiring the flower display...
+C: NICK
+D: That's funny.
+C: DAISY
+D: What's funny?
+N: KNOCK. KNOCK. Someone is at the door.
+C: NICK
+D: One moment...
+S: INT. NICK'S BUNGALOW - HALL - CONTINUOUS
+N: Nick opens the door. Gatsby, pale as death and soaked, glares miserably at Nick.
+C: NICK
+D: What are you doing?
+N: Without a word, Gatsby stalks past him, into...
+S: INT. NICK'S BUNGALOW - LIVING ROOM - CONTINUOUS
+N: Daisy, her back to the door, is still marvelling at the flowers. Then she turns. Sees Gatsby. A sharp intake of breath... The reunited lovers stand, staring at each other for a long, surreal, moment of disbelief. Gatsby, eyes locked to Daisy's, is drowning in emotion. Daisy finally manages an artificial, choking murmur.
+C: DAISY
+D: I'm certainly glad to see you again.
+N: Gatsby's face is flushed; the veins stand out on his neck as his lips spasm in a hopeless attempt to speak. Finally, he finds words...
+C: GATSBY
+D: I'm... certainly glad to see you as well.
+N: Their hearts pound - the tension excruciating. EEEEKKK! The scream of a boiling kettle OFF SCREEN breaks the TENSION--
+T: CUT TO:
+S: INT. NICK'S BUNGALOW - LIVING ROOM - DAY
+N: Gatsby reclines uncomfortably against the mantelpiece. His elbow rests near the mantelpiece CLOCK. Daisy sits opposite; frozen on the edge of a chair. The rattle of the tea tray as Nick enters only contributes to the already unbearable tension. Gatsby manages to murmur.
+C: GATSBY
+D: We've met before...
+N: SUDDENLY the CLOCK tilts at the pressure of Gatsby's elbow... And falls! And breaks!
+C: GATSBY
+D: Ah... sorry...
+E: CONT'D
+N: He clumsily tries to repair the clock; but drops it again!
+C: NICK
+D: It's an old... clock.
+E: IDIOTICALLY
+C: DAISY
+D: Lovely though. A lovely... clock.
+E: desperate for small talk
+N: Gatsby finally manages to set the clock back on the mantle. Gatsby takes a seat. A long silent beat.
+C: DAISY
+D: We haven't met for many years.
+E: CONT'D
+C: GATSBY
+D: Five years next November.
+E: an automatic reflex
+N: The precision of Gatsby's answer is acutely embarrassing.
+C: NICK
+D: Tea?
+E: ABRUPTLY
+C: GATSBY
+D: Thank you old sport.
+E: DYING
+C: DAISY
+D: Darling thank you.
+E: ALSO MORTIFIED
+N: Nick pours; and they all sit stiffly, sipping their tea. A long, terrible silence... Suddenly Nick stands.
+C: NICK
+D: I just need to... pop into town.
+C: GATSBY
+D: Town...?
+E: HORRIFIED
+C: NICK
+D: The village; I'll be right back.
+N: As Nick leaves, Gatsby follows.
+C: GATSBY
+D: I've got to speak to you...!
+S: INT. NICK'S BUNGALOW - KITCHEN - CONTINUOUS
+N: Wildly following Nick, Gatsby whispers miserably:
+C: GATSBY
+D: Oh, God! This is a mistake, a terrible, terrible mistake...
+C: NICK
+D: You're just embarrassed, that's all... Daisy's embarrassed too.
+C: GATSBY
+D: She's embarrassed?
+C: NICK
+D: Just as much as you are.
+C: GATSBY
+D: Don't talk so loud!
+C: NICK
+D: You're acting like a little boy! You're rude. Daisy's in there all alone and...
+N: Gatsby raises his hand, looks at Nick reproachfully, and heads back into the living room.
+S: EXT. NICK'S BUNGALOW - CONTINUOUS
+N: Nick runs for a TREE whose leaves shield against the rain.
+C: NICK
+D: Looking over my story so far, I'm reminded that for the second time that summer...
+E: V.O.
+N: WIDE: Nick beneath the tree looks tiny, and very alone.
+C: NICK
+D: I was guarding other people's secrets.
+E: V.O.
+S: INT. NICK'S BUNGALOW - LIVING ROOM - DAY
+N: LATER. Nick re-enters, bedraggled, rain-soaked.
+C: NICK
+D: Once again I was within...
+E: V.O.
+N: He tries to get Gatsby and Daisy's attention, to no avail... The lovers are completely and totally absorbed in each other.
+C: NICK
+D: And without...
+E: V.O.
+N: Nick bangs pots in the sink - still nothing. He clears his throat:
+C: NICK
+D: Its... stopped raining.
+N: Daisy turns; a radiant smile. Every vestige of embarrassment between Daisy and Gatsby is gone. Gatsby literally glows.
+C: GATSBY
+D: Yes, it has... Hasn't it?
+E: TO DAISY
+N: He stands, walks to the window and looks out across the bay.
+C: GATSBY
+D: What do you think of that, Daisy? Come look.
+E: CONT'D
+N: Daisy joins Gatsby and they step out onto the porch together.
+S: EXT. NICK'S BUNGALOW - PORCH - CONTINUOUS
+C: DAISY
+D: Look. Its my house. Just there across the bay...
+N: Gatsby and Daisy's eyes meet.
+C: GATSBY
+D: I know. I have the same view from my place.
+C: DAISY
+D: Where's your place?
+N: Gatsby turns back to Nick.
+C: GATSBY
+D: Nick, I want you and Daisy both to see my house. I'd like to show her around.
+C: NICK
+D: Are you sure you want me to come?
+C: GATSBY
+D: Absolutely, old sport. Absolutely.
+S: EXT. GATSBY'S CASTLE - FRONT GATES - DAY
+N: Servants swing open ivy-covered gates...
+C: GATSBY
+D: I had the gates brought in from a castle in Normandy.
+E: PROUDLY
+N: REVEAL: Gatsby's castle glistening in the sunlight. CLOSE ON: Daisy. A delighted cry.
+C: DAISY
+D: Oh, Jay...!? Its so grand!
+C: GATSBY
+D: Do you like it?
+C: DAISY
+D: I love it...! But how do you live here all alone?
+C: GATSBY
+D: I don't. I keep it always full of interesting, celebrated people...
+N: As Daisy runs ahead, Gatsby murmurs to Nick.
+C: GATSBY
+D: My house looks well doesn't it? See how the whole front catches the light like that?
+E: CONT'D
+N: Daisy yells back...
+C: DAUSY
+D: Come on you two! I want the royal tour!
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - GARDENS - DAY
+N: Gatsby has transformed into a good-natured show-off, hurrying Nick and Daisy through a maze of fantastical gardens, past magnificent fountains and into his castle...
+S: INT. GATSBY'S CASTLE - KITCHEN - DAY
+N: Gatbsy shows off his brand new orange-juicer.
+C: GATBSY
+D: You must understand, I like all things that are modern.
+N: Daisy readies a cocktail shaker beneath the spout of the giant silver orange juice machine.
+C: GATSBY
+D: If you press this button here, the oranges shoot through here, are crushed there... The juice of 200 oranges extracted in one hour...!
+N: Gatsby presses, the machine groans and juice splashes out!
+T: DISSOLVE TO:
+S: EXT. GATSBY'S BEACH - DIVING PONTOON - LATE AFTERNOON
+N: Daisy, Nick and Gatsby drunkenly drive golf balls out toward the bay. Nick films on the world's first home-camcorder...
+C: GATSBY
+D: Its a remarkable little camera-- latest design.
+N: While, nearby, a butler in a boat stands watch over a spinning gramophone and bottles of champagne...
+C: DAISY
+D: You do know, I'm a champion golfer, don't you? Here, I'll show you how its done.
+N: CRACK! Daisy cuts a marvelous swing, snapping a club in two! She falls into Gatsby arms... Nick films...
+C: GATSBY
+D: She looks like she could be on the cover of Vogue, don't you think...?
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - EARLY EVENING
+N: Gatsby and Nick trail behind Daisy, crossing the ballroom. Daisy, champagne in hand, spots the soaring ballroom organ.
+C: DAISY
+D: Oh...! Its beautiful.
+C: GATSBY
+D: Its a custom Wurlitzer.
+C: DAISY
+D: Can anyone play it?
+C: GATSBY
+D: Klipspringer can. Someone wake Ewing!
+E: to his footmen
+N: Daisy twirls round, overjoyed...
+C: DAISY
+D: Music! And we can dance all night!
+C: GATSBY
+D: Ewing's a symphonic genius, he can play anything...!
+N: Daisy runs up the stairs and calls down...
+C: DAISY
+D: Then I demand a Charleston!
+N: Gatsby gazes up after Daisy, and confides in Nick...
+C: GATSBY
+D: She makes it look so splendid, don't you think old sport?
+E: as if in a dream
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE. GATSBY'S BEDROOM - EVENING
+N: Nick and Daisy follow Gatsby into the bedroom... Gatsby bounds ahead, starting up a spiral stair... He throws open a massive cabinet, revealing a prism of suits, dressing- gowns, watches and ties.
+C: GATSBY
+D: I've got a man in England who buys me clothes...!
+N: He playfully tosses Daisy a boater-hat...
+C: GATSBY
+D: Something for the lady...
+E: CONT'D
+N: Then he begins yanking down shirts and tossing them over the rail to Daisy...
+C: DAISY
+D: I've never seen anything like it!
+C: GATSBY
+D: He sends over a selection at the beginning of each season...
+C: DAISY
+D: Jay!
+N: With ever-increasing enthusiasm!
+C: GATSBY
+D: These are silk! Linen! Indian flannel! Egyptian cotton!
+N: Daisy, intoxicated, leaps on the bed, arms outstretched...
+C: DAISY
+D: No, Jay... you'll ruin them! Nicky! He's a madman!
+E: TO NICK
+N: More and more and more shirts float down... The rumble of distant thunder. CLOSE ON: Daisy. TIME SLOWS AS shirts flutter, like giant snowflakes, down toward her. Slowly, quietly, her mirth transforms to sobs... She hides her face in shirts... Gatsby eases down the stairs and nestles beside Daisy, taking her tear-streaked face in his hands...
+C: GATSBY
+D: What is it?
+C: DAISY
+D: It's just... It makes me sad, because...
+N: Daisy glances in Nick's direction...
+C: GATSBY
+D: Why?
+C: DAISY
+D: ...because...
+N: A suspended moment; Daisy is incapable of speaking her heart.
+C: NICK
+D: Five lost years struggled on Daisy's lips. But all she could manage was...
+E: V.O.
+C: DAISY
+D: It's just... Because I've never seen such beautiful shirts before.
+C: GATSBY
+D: If it wasn't for the mist we could see the green light...
+C: DAISY
+D: What green light?
+C: GATSBY
+D: The one that burns all night at the end of your dock.
+N: As Gatsby and Daisy stare out across the bay...
+C: NICK
+D: Possibly, it had occurred to Gatsby that the colossal significance of that light had vanished forever. Now, it was once again just a green light on a dock. His count of enchanted objects had diminished by one.
+E: V.O.
+N: Nick, impelled to remind Daisy and Gatsby of his presence, emerges from the shadows and descends the spiral staircase. He holds a photo of an elderly man in yachting costume...
+C: NICK
+D: Who's this? Your father?
+C: GATSBY
+D: No, no.. That's Mr. Dan Cody, old sport... He's dead now. He used to be my best friend years ago.
+N: Daisy joins Nick at the bottom of the steps. In the photo with Cody, also in yachting costume, is a young Gatsby...
+C: DAISY
+D: You never told me you had a pompadour... or a yacht.
+E: TEASES
+N: Gatsby hastily plucks a scrapbook from a row on his desk...
+C: GATSBY
+D: I want to show you something... Look, here's a lot of clippings, about you.
+N: They admire a scrapbook together.
+C: DAISY
+D: You saved my letters...
+E: TOUCHED
+C: GATSBY
+D: This was my first photo of you.
+N: As Daisy flips through and pulls out an old letter of hers, we hear her reading the letter in abstract VOICEOVER:
+C: DAISY
+D: We cant lose each other and let all this glorious love end in nothing. Come home, I'll be here waiting and hoping, for every long dream of you to come true... Come home Jay...
+E: V.O.
+N: BBBRRRNNNGGG! The phone shrills.
+C: GATSBY
+D: Excuse me.
+N: Gatsby crosses the room, snatches up the receiver, and turns away... He lowers his voice.
+C: GATSBY
+D: Well I can't talk now old sport...
+E: INTO PHONE CONT'D
+N: As the timbre of Gatsby's voice darkens we PUSH CLOSER.
+C: GATSBY
+D: I said a small town.
+E: INTO PHONE CONT'D
+N: ECU: Gatsby's eyes narrow.
+C: GATSBY
+D: He must know what a small town is.
+E: INTO PHONE CONT'D
+N: BOOOOMMM! A storming wind bangs open the French windows! As Nick moves to shut them, he glimpses Gatsby...
+C: GATSBY
+D: Well, he's no use to us if Detroit is his idea of a small town...
+E: INTO PHONE CONT'D FRIGHTENING
+N: Gatsby rings off abruptly, and catches Nick's eye - a tense moment - which Gatsby banishes with that electrifying smile. We hear the distant, jaunty sounds of a pipe organ...
+C: GATSBY
+D: Ah, Klipspringer! He must be awake! Shall we?
+E: CONT'D
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - DUSK BECOMING NIGHT
+N: Daisy, wearing a flowing robe and heels, dances a Charleston with Nick. An elaborate picnic, complete with candelabras and a mountain of cushions, is laid out on the floor. There, Gatsby sits, looking on, flush with joy. Slowly though, Gatsby's expression turns introspective. As he watches Daisy dance, memories flood back to him...
+T: DISSOLVE TO:
+N: FLASHBACK. AN ARRAY OF MEMORIES AND IMAGES DISSOLVE ONE INTO THE OTHER: Gatsby and Daisy, five years ago, about to kiss; a hand- written letter; a gathering storm; the green light...
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - NIGHT
+N: Hundreds of candles flicker in patterns. As a slow, melancholic waltz plays, Gatsby and Daisy dance, enraptured...
+C: DAISY
+D: I wish I had done everything on earth with you. All my life.
+E: WHISPERS
+N: Gatsby holds her closer.
+C: DAISY
+D: I wish that it could always be like this...
+E: CONT'D
+C: GATSBY
+D: It will be...
+N: Across the room, Nick, exhausted and drunk and unnoticed, stands to leave. At the ballroom doors he turns back and glimpses Gatsby and Daisy, in a universe all their own...
+C: NICK
+D: If only it had been enough for Gatbsy, just to hold Daisy...
+E: V.O.
+N: The towering doors close.
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE - BEDROOM - NIGHT
+N: Gatsby stands at his window, staring into the night.
+C: NICK
+D: But he had a grand vision for his life, and Daisy's part in it.
+E: V.O.
+T: DISSOLVE TO:
+S: INT. SANITARIUM - NICK'S ROOM - END OF WINTER - DUSK
+N: Nick is writing at his desk...
+C: NICK
+D: It wasn't until the end of that summer, on the last night I saw Gatsby, that he told me of the life he had dreamt for himself since he was a boy...
+E: V.O.
+S: INT. SANITARIUM - DOCTOR'S OFFICE - END OF WINTER - DUSK
+N: Nick stops his reading, and, very slowly, admits...
+C: NICK
+D: You see doctor... Gatsby's real name was... James Gatz.
+T: DISSOLVE TO:
+N: I/E. NORTH DAKOTA FARM HUT - DAY PUSH TOWARD: A dilapidated hut, shrouded in a storm of dust.
+C: NICK
+D: His parents were dirt-poor farmers from North Dakota...
+E: V.O.
+N: DISCOVER: YOUNG GATZ, barefoot, at a dusty desk, surrounded by tattered books, strange charts, and lists. He is practicing his signature...
+C: NICK
+D: But he never accepted them as his parents at all.
+E: V.O.
+N: Young Gatz turns from his writing, and looks through a hole in the roof towards the infinite heavens...
+C: NICK
+D: In his own imagination, he was... a Son of God...
+E: V.O.
+N: CLOSE ON: The little boy looks up at CAMERA.
+C: NICK
+D: Destined for future glory...
+E: V.O.
+T: DISSOLVE TO:
+S: EXT. NORTH DAKOTA - PRAIRIE - NIGHT
+N: The silhouette of TEENAGE GATZ, now 16 years old, disappears into the hills...
+C: NICK
+D: Chasing this destiny, a sixteen year old Gatz ran far, far away.
+E: V.O.
+T: DISSOLVE TO:
+S: EXT. LAKE SUPERIOR - LATE AFTERNOON
+N: CLOSE ON: A handsome 17 year old YOUNG GATSBY, in a torn jersey and dirty canvas pants, rowing with all his might.
+C: NICK
+D: One afternoon, off the coast of Lake Superior, he spotted a yacht in peril...
+E: V.O.
+N: Young Gatsby lets the row boat drift close to a magnificent yacht. Wind is whipping whitecaps on the bay.
+C: NICK
+D: He rowed out and rescued the vessel, and its captain, alcoholic millionaire Dan Cody...
+N: The bleary face of DAN CODY appears at the yacht's railing.
+C: CODY
+D: Whadzamatta...?
+N: Cody is very drunk. Young Gatsby calls urgently.
+C: YOUNG GATSBY
+D: Sir! The shoal here's real bad, this wind could drag you onto it...
+N: Cody waves a dismissive arm...
+C: CODY
+D: Whaderathinkyerdoin..., old sport?
+N: He collapses, dead drunk. PUSH IN: On Young Gatsby; a plan forming...
+C: NICK
+D: This was his opportunity, and he seized it.
+E: V.O.
+N: Springing into action, he clambers onto the yacht.
+C: GATSBY
+D: I decided right then and there to call myself: Jay Gatsby.
+E: VOICE
+T: DISSOLVE TO:
+S: EXT. CODY'S YACHT - LATE AFTERNOON
+N: Young Gatsby hoists the sail as the storm rages around him.
+C: NICK
+D: He sailed the yacht out of danger - and into his future...
+E: V.O.
+T: DISSOLVE TO:
+S: EXT. CODY'S YACHT - DAY
+N: A perfect sunny day. Young Gatsby and Cody are sailing.
+C: NICK
+D: Gatsby showed skill and ambition, and for five years they sailed the world...
+E: V.O.
+C: GATSBY
+D: He was alright, old Dan, he taught me everything...
+E: VOICE
+T: DISSOLVE TO:
+S: INT. CLOTHING STORE - DAY
+N: Young Gatsby, now transformed, models a suit in the mirror.
+C: NICK
+D: How to dress, act, and speak like a gentleman...
+E: V.O.
+N: He looks squarely at himself, and repeats a mantra.
+C: YOUNG GATSBY
+D: Gatsby. Jay Gatsby. A pleasure to meet you, sir. Gatsby. Jay Gatsby. Gatsby. Jay Gatsby.
+T: DISSOLVE TO:
+S: EXT. CODY'S YACHT - DAY
+N: Young Gatsby stands at the bow, as the yacht cut across the clear blue ocean... He turns to Cody and calls...
+C: YOUNG GATSBY
+D: She looks well, doesn't she...!? Old sport.
+N: HIGH AND WIDE: The yacht sails toward the golden sun...
+C: NICK
+D: Gatsby hoped to inherit Cody's fortune... But when Cody died, Gatsby was cheated out of his inheritance by Cody's family... He'd been left with an ability to play the gentleman, but he was once again dirt poor.
+E: V.O.
+T: SLAM CUT TO:
+N: NEWSPAPER MONTAGE. Piles and piles of New York City newspapers swirl rapidly TOWARD CAMERA, and we read their headlines: "GATBSY'S STAGGERING WEALTH - MONEY! MONEY! MONEY!"
+C: NICK
+D: By midsummer Gatsby was front page news...
+E: V.O.
+N: "GATSBY BUYING OUR CITY? INVESTMENT MONOPOLY FUELS CONCERNS" "JAY CASHES IN! GATSBY STRIKES WALL STREET GOLD!" "GATSBY INVESTS IN SKYSCRAPERS!" "JAY PAYS FOR EVERYTHING: PARTIES, GALAS, PARKS, SCHOOLS!" "WALL STREETS KING? MEET JAY GATSBY!" A final newspaper COVERS FRAME: "WHERE'S THE MONEY FROM!? MYSTERY MILLIONS SPARK WILD RUMORS" We PUSH TOWARD the paper and DISSOLVE TOWARD:
+S: EXT. GATSBY'S CASTLE - NIGHT
+N: Another glittering party.
+C: NICK
+D: Where did the money comes from?
+E: V.O.
+N: FADE IN: Decadent, grotesque images of drunken revellers...
+C: NICK
+D: That's what all of New York wanted to know. And it was the same question on Tom's mind when he accompanied Daisy to one of Gatsby's glittering parties...
+E: V.O.
+N: DISCOVER: Gatsby leading Tom, Daisy and Nick to the top of the terrace stairs.
+S: EXT. GATSBY'S CASTLE - TERRACE/DANCE FLOOR - NIGHT
+C: GATSBY
+D: We've got a great band here. Have a look around... Excuse me...
+N: He turns briefly to talk to Senator Gulick...
+C: TOM
+D: A lot of these newly rich people are just filthy bootleggers.
+E: mutters to Daisy
+C: DAISY
+D: Not Gatsby. He's a businessman.
+C: TOM
+D: Hah! A businessman...
+E: SNORTS
+C: DAISY
+D: He owned a lot of drug stores.
+N: Gatsby gracefully introduces Senator Gulick to the group...
+C: GATSBY
+D: May I introduce Senator Gulick? This is Mr. Carraway and Mrs. Buchanan...
+C: DAISY
+D: Delighted...
+C: GATSBY
+D: And Mr. Buchanan... The polo player.
+E: a moment's hesitation
+C: TOM
+D: Oh no. Not me.
+E: OBJECTING QUICKLY
+C: SENATOR GULICK
+D: Always a pleasure to meet a Buchanan.
+E: shaking hands, nods
+N: Gatsby bids the Senator farewell, while Tom glowers to Daisy:
+C: TOM
+D: I'd rather not be the polo player.
+C: DAISY
+D: Oh Tom... You should be proud of your achievements.
+N: GATSBY INTERJECTS--
+C: GATSBY
+D: May I show you around?
+E: to the group
+N: He guides them down the stairs...
+C: GATSBY
+D: You must see the faces of a lot of people you've heard of.
+E: CONT'D
+C: DAISY
+D: Absolutely!
+C: TOM
+D: We don't go around very much. I don't think I recognize a single person...
+E: SCOFFS
+C: GATSBY
+D: Perhaps you know that lady there?
+N: Gatsby indicates a lovely, orchid of a woman: MARLENE MOON, the silent film star.
+C: DAISY
+D: Its Marlene Moon... I adore her pictures...
+E: taking Gatsby's arm
+N: As Gatsby leads Daisy, we catch Tom repeating to Nick...
+C: TOM
+D: I'd really rather not be the polo player...
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - GARDEN TABLE - NIGHT
+N: Tom, Daisy, Nick and Gatsby sit an elaborately conceived dinner table, watching the band...
+C: DAISY
+D: These things excite me so...
+E: TO NICK
+N: Gatsby turns to Tom...
+C: GATSBY
+D: I believe we've met somewhere before, Mr. Buchanan. About a month ago.
+C: TOM
+D: That's right... And you were with Nick here. At the barbershop...
+C: GATSBY
+D: That's right. See... I know your wife.
+C: TOM
+D: Is that so?
+C: GATSBY
+D: Yes.
+N: As the number subsides, and the crowd applauds, Herzog appears and addresses Gatsby with whispered intensity.
+C: HERZOG
+D: Mr. Gatsby sir. Mr. Slagle is here...
+N: Herzog indicates SLAGLE, a dark-suited man who stands on the distant terrace with three sinister-looking 'associates'. Gatsby, so besotted with Daisy that he cannot take his eyes off her, whispers fiercely...
+C: GATSBY
+D: Not now.
+N: Herzog silently recedes... A romantic foxtrot strikes up - Trimalchio introduces...
+C: TRIMALCHIO
+D: And now...! Dice, Brass Knuckles and Guitars, with: The Foxtrot!
+N: Gatsby turns to Tom, and gestures to Daisy...
+C: GATSBY
+D: Mr. Buchanan, would you mind, terribly?
+N: Tom does indeed look like he minds, but a group of scantily clad girls who cavort gracelessly on the other side of the garden momentarily catch his eye.
+C: TOM
+D: Of course not; I think I can keep myself amused.
+N: As Daisy takes Gatsby's arm, she tucks a slim gold pencil into Tom's breast pocket and murmurs...
+C: DAISY
+D: In case you need to take down any addresses...
+N: As Tom fumes, Gatsby leads Daisy out onto the dance floor. PUSH CLOSE ON: Tom, growing increasingly suspicious...
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - DANCE FLOOR - NIGHT
+N: As Daisy and Gatsby dance, Daisy murmurs thrillingly.
+C: DAISY
+D: Is all this made entirely from your own imagination?
+C: GATSBY
+D: No... You see you were there all along, in every idea, in every decision... Of course, if anything is not to your liking, we can change it...
+C: DAISY
+D: It's perfect. From your perfect, irresistible imagination...
+S: EXT. GATSBY'S CASTLE - TERRACE - NIGHT
+N: Tom and Nick watch Gatsby and Daisy dance. Tom looks around, perplexed by a distant thought.
+C: TOM
+D: I wonder where the devil he met Daisy...?
+N: He notices Marlene Moon seductively, secretly watching him...
+C: TOM
+D: I'll find you...
+E: CONT'D TO NICK
+N: He leaves Nick alone. And Nick watches as Gatsby simultaneously leads Daisy from the dance floor...
+S: EXT. NICK'S BUNGALOW - MAGIC TREE - NIGHT
+N: Daisy runs ahead, playfully hurrying past the low-hanging branches of the massive tree. She disappears inside... Gatsby follows, but upon entering the secluded, starlit world sees no sign of Daisy. Then, from out of the shadows, the sparkle of jewels... Gatsby turns, and Daisy's lips suddenly find his. A long, still kiss...
+S: EXT. GATSBY'S CASTLE - BAR - NIGHT
+N: Nick is keeping watch, gazing down to his yard and the tree. When Tom suddenly appears...
+C: TOM
+D: Have you seen my wife...?
+N: Startled, Nick turns...
+C: NICK
+D: Ah... no... Not for awhile.
+E: LIES
+C: TOM
+D: That's funny. The Senator said he saw her down here.
+N: Tom follows Nick's gaze down toward the tree...
+S: EXT. NICK'S BUNGALOW - MAGIC TREE - NIGHT
+N: Gatsby and Daisy continue their passionate kissing... After a moment, Daisy whispers.
+C: DAISY
+D: I... I wish we could just run away.
+N: Gatbsy is startled.
+C: GATSBY
+D: Run away? Darling, no. Daisy, that... that wouldn't be... respectable.
+S: EXT. GATSBY'S CASTLE - BAR - NIGHT
+N: Tom is still looking to the tree.
+C: TOM
+D: You live near here Nick...?
+E: QUIZZICALLY
+N: Nick, an overwhelming sense of guilt, indicates vaguely in the direction of the tree.
+C: NICK
+D: Just next door.
+C: TOM
+D: That so...?
+S: EXT. NICK'S BUNGALOW - MAGIC TREE - NIGHT
+N: Gatsby continues...
+C: GATSBY
+D: We're going to live here, in this house, together. You and me... Daisy... It's time for you to tell Tom.
+S: EXT. GATBSY CASTLE - BAR - NIGHT
+N: CLOSE ON: Nick, a moment of extreme tension as he fears Tom will investigate further. SUDDENLY! Their attention is drawn to a commotion on the terrace. Glasses smash, a woman screams, and through the crowd, we see Slagle and associates causing a disturbance.
+C: TOM
+D: What a circus... Well, if you see her, I'll be looking for her. You tell her.
+E: PURE DISDAIN
+S: EXT. NICK'S BUNGALOW - MAGIC TREE - NIGHT
+N: The hidden lovers speak in intense, hushed tones.
+C: DAISY
+D: Remember how much fun we used to have? Why can't we just have fun like that again?
+N: Gatsby, frustrated, is about to speak... But Nick suddenly appears out of the shadows... Gatsby and Daisy break off, startled...
+C: DAISY
+D: Oh hello Nicky; we're having a row.
+E: CONT'D
+C: NICK
+D: What about?
+N: Daisy glides toward him...
+C: DAISY
+D: About things... About the future... The future of the Colored Empires.
+E: trying to be funny
+C: NICK
+D: Well, its Tom. He's wandering around the party looking for you.
+N: Daisy flashes Gatsby an over-the-shoulder glance; when, suddenly, Herzog appears and murmurs...
+C: HERZOG
+D: Sir; it's Mr. Slagle; he's quite... emotional.
+N: A tiny, ruffled, moment; then Gatsby elegantly guides Daisy toward Nick.
+C: GATSBY
+D: Excuse me. Nick, would you mind?
+N: As Gatsby follows Herzog back toward the castle.... CLOSE ON: DAISY.
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - DANCE FLOOR - LATER
+N: Nick and Daisy return to a party that has become grotesque; drunken girls haphazardly bang drums...
+C: NICK
+D: Gatsby disappeared to deal with a dispute of some sort. Daisy waited...
+E: V.O.
+N: CLOSE ON: Daisy, dejected...
+C: NICK
+D: But Gatsby was unable to return.
+N: As Daisy and Nick cross the tattered, streamer-littered dance- floor CRANE HIGH AND FADE INTO: the library window...
+S: INT. GATSBY'S CASTLE - LIBRARY - CONTINUOUS
+N: Gatsby sits, solemn in an armchair; with quiet unease written in shadows across his face. REVEAL: The ominous silhouette of Wolfsheim, pacing between Gatsby and the window; Herzog standing watch... We catch only a fragment of the conversation.
+C: WOLFSHEIM
+D: When these hot headed types appear, I rely on you... But you were not available.. A scene was made... What's going on with you Jay?
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - FRONT GATE - NIGHT
+N: HIGH SHOT: A sleek black limo winds quietly towards the gate. CRANE DOWN TO DISCOVER: Daisy's face through the limo window; her forlorn eyes search for Gatsby behind castle walls...
+C: TOM
+D: Where were you?
+C: DAISY
+D: With Nicky. Mr. Gatsby was showing us the grounds.
+C: TOM
+D: Well, he certainly must have strained himself to get that menagerie together...
+N: DAISY'S POV: Ignoring Tom, she looks back to the dark castle.
+C: TOM
+D: I'd like to know who he is and what he does. And I think I'll make a point of finding out.
+E: O.C. CONT'D
+N: As the limo passes through the gates and disappears, Slagle and associates are violently ejected by Gatsby's "guards." CLOSE ON: Atop Gatsby's gate, GATSBY'S COAT OF ARMS READS: "Ad Finem Fidelis" ("Faithful to the End").
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - POOL - NIGHT
+N: It is late. Agitated and intense, Gatsby paces by the pool, staring out to the green light pulsing across the bay... Nick descends the stairs, drunk.
+C: NICK
+D: Well there you are...! Daisy just left... But she asked me to tell you. She had a wonderful time...
+N: Gatsby is not amused.
+C: GATSBY
+D: She didn't like it.
+C: NICK
+D: Of course she did.
+C: GATSBY
+D: No, she didn't like it. She did not have a good time. I feel so far away from her now. It's hard to make her understand.
+C: NICK
+D: You mean about the party?
+C: GATSBY
+D: The party!? I couldn't care less about the parties! You see...
+E: SHOCKING INTENSITY MORE
+C: GATSBY
+D: She has to tell Tom that she never loved him.
+E: CONT'D
+C: NICK
+D: What...?
+C: GATSBY
+D: Yes. Then we can go back to Louisville, to her parents' house - her parents are lovely people old sport - we'll be married there... You see, Daisy and I are going to and start over, just as if it were five years ago.
+C: NICK
+D: I wouldn't ask too much of her...
+C: GATSBY
+D: Ask too much?
+C: NICK
+D: No.
+N: Gatsby grows suddenly, strangely emotional. He turns his back to Nick to compose himself.
+C: GATSBY
+D: I beg your pardon old sport. Its just.. Its so sad because its so hard to make her understand, and--
+C: NICK
+D: Jay... You can't repeat the past.
+N: Gatsby wheels around...
+C: GATSBY
+D: Can't repeat the past?
+C: NICK
+D: No.
+C: GATSBY
+D: Why of course you can. Of course you can. You'll see. I am going to fix things just the way there were before. Everything's been so... so confused since then...
+N: Gatsby looks out to the green light.
+C: NICK
+D: He talked a lot about the past... As if he wanted to recover something...
+E: V.O.
+C: GATSBY
+D: If I could just get back to the start... If I could just get back to the start I could find it again.
+C: NICK
+D: Some vision of himself that he had put into loving Daisy...
+E: V.O.
+N: IN THE CLOUDS, AMONG THE STARS, THE IMAGE OF DAISY'S HOUSE IN LOUISVILLE APPEARS, as if frozen in time...
+T: DISSOLVE TO:
+N: I/E. DAISY'S HOUSE - LOUISVILLE - NIGHT PUSH TOWARD: A wide veranda, strung with banners in support of the American war effort, and beyond into a parlour; pretty Southern girls and fresh-faced soldiers, dancing, clapping...
+C: NICK
+D: Five years ago Gatsby found himself at Daisy's house by colossal accident.
+E: V.O.
+N: Amidst the many revellers, DISCOVER: Daisy, hurrying through the crowd.
+C: GATSBY
+D: I went to her house first with some of the other officers from Camp Taylor... I'd never been in such a beautiful house before...
+E: BY THE POOL
+N: Daisy rushes up the steps, and looks back... At the bottom of the steps, smiling up, is: THE OBJECT OF HER AFFECTION, Young Gatsby in officer's uniform.
+C: NICK
+D: But his uniform his the truth. That he was a penniless young man with only that grand vision of himself.
+E: V.O.
+N: Daisy's Mother stops her on the steps.
+C: DAISY MOM
+D: Daisy, don't scamper. There's so many dashing young officers here, and from such illustrious family's...
+E: WHISPERS
+N: CLOSE ON: Gatbsy, watching Daisy...
+C: GATSBY
+D: I always knew that I could climb... But I could only climb if I climbed alone.
+E: BY THE POOL
+N: Against his better judgement he follows Daisy up...
+S: INT. DAISY'S HOUSE - CONSERVATORY/ATRIUM - NIGHT
+N: Checking to make sure no one has seen, Daisy slips quietly through a set of doors, into the conservatory... Gatsby is not far behind... A secret rendezvous.
+S: EXT. GATSBY'S CASTLE - POOL - NIGHT
+C: GATSBY
+D: I knew that, that when I kissed this girl, I would... be forever wed to her...
+S: INT. DAISY'S HOUSE - CONSERVATORY/ATRIUM - NIGHT
+N: Daisy throws herself in to Gatsby's arms... About to kiss, Gatsby is struck by a sudden instinctive thought...
+S: EXT. GATSBY'S CASTLE - POOL - NIGHT
+N: Gatsby remembers...
+C: GATSBY
+D: So I stopped. And I waited... I waited...
+S: INT. DAISY'S HOUSE - CONSERVATORY/ATRIUM - NIGHT
+N: Gatsby's eyes drift up...
+C: GATSBY
+D: I waited for a moment longer.
+E: BY THE POOL
+N: He looks out the dark, crystal windows, beyond the trees... to a staircase of moonlight, climbing up, up, up...
+C: NICK
+D: He knew that if he kissed this girl his mind would never again be free to romp like... the mind of God... That falling in love would change his destiny... forever.
+E: V.O.
+S: EXT. GATSBY'S CASTLE - POOL - NIGHT
+C: GATSBY
+D: And then I just let myself go.
+S: INT. DAISY'S HOUSE - CONSERVATORY/ATRIUM - NIGHT
+N: With sudden resolve Gatsby kisses Daisy... In ravenous embrace, they fall onto the long sofa lounge.
+C: NICK
+D: She blossomed for him like a flower...
+E: V.O.
+N: ECU: Daisy, her lips tremble, eyes wide, breath quickening..
+C: NICK
+D: And the incarnation was complete.
+E: V.O.
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - POOL - NIGHT
+N: The other layers of IMAGERY IN THE CLOUDS MELT AWAY, leaving Nick and Gatsby standing by the pool.
+C: GATSBY
+D: I knew it was a great mistake for a man like me to fall in love. A great mistake. I'm only 32... I might still be a great man if I could only forget that I once lost Daisy. But my life, old sport, my life has got to be like this...
+N: He draws a slanting line from the lawn to the stars.
+C: GATSBY
+D: It's got to keep going up.
+E: CONT'D
+N: Gatsby looks to the green light.
+C: GATSBY
+D: She has to go to Tom and tell him she never loved him... I need to give her more time. I just need to give her more time...
+E: CONT'D
+N: He turns to Nick, reassuring both of them.
+C: GATSBY
+D: Don't worry old sport, don't worry. I can protect her here. Good night old sport...
+E: CONT'D
+N: Gatsby heads for his castle, and turns and calls...
+C: GATSBY
+D: You're wrong about the past, old sport...!
+E: CONT'D
+N: Gatsby's POV: The green light across the bay.
+C: GATSBY
+D: You're wrong.
+E: CONT'D
+T: DISSOLVE TO:
+S: INT. SANITARIUM - DOCTOR'S OFFICE - EARLY SPRING - MORNING
+N: The first day of spring; out the window, birds chirp. Nick is writing and reading aloud...
+C: NICK
+D: There had been music from my neighbor's all summer. In his blue gardens, men and girls came and went like moths among the whisperings and the laughter and the stars...
+E: READS
+N: He struggles for a more poetic phrasing...
+C: NICK
+D: Laughter... No... No... Among the whisperings and the champagne and the stars...
+E: CONT'D MORE
+C: NICK
+D: But after Tom and Daisy visit...
+E: CONT'D that's the one
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - FRONT GATES - LATE AFTERNOON
+N: Gatsby's castle cuts a grave silhouette against a stormy sky.
+C: NICK
+D: There were no more parties...
+E: V.O.
+N: His lights flicker and go out.
+C: NICK
+D: Gatsby's lights went out one by one.
+E: V.O.
+N: At the gates flashbulbs flash! Hordes of press have gathered.
+C: NICK
+D: Daisy visited discreetly. But...
+E: V.O.
+N: As the gates creak open, Daisy's limo slides up the drive... FADE IN NEWSPAPER HEADLINES: "PARTY PALACE GOES DARK!"
+C: NICK
+D: The very same fame that had once been a source of satisfaction to Jay Gatsby, became... a threat.
+E: V.O.
+N: As the reporters crowd the limo, shouting questions...
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE - BEFROOM - NIGHT
+N: Locked away deep in the castle, Gatsby and Daisy make love. FADE IN NEWSPAPER HEADLINES: "WHO IS THE MYSTERY WOMAN?"
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - WHARF - DUSK
+N: At the end of the wharf, Gatsby and Daisy look out across the bay, watching as the sun slides into the horizon, and the green light pulses... CLOSE ON: Daisy. She leans to Gatsby and whispers...
+C: DAISY
+D: I don't want to go home.
+N: Gatsby hold her tighter.
+C: GATSBY
+D: Then don't.
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE - BALLROOM - LATE AFTERNOON
+N: Long shafts of light cut through the high, empty windows... WIDE SHOT: An OLD EUROPEAN WOMAN crosses the ballroom, tea tray in hand. The room is lined with thuggish, dark-suited men. We hear a phone conversation between Nick and Gatsby...
+C: GATSBY
+D: I've been meaning to call you up. I'm sorry, I've been... so busy.
+E: O.S.
+C: NICK
+D: Is everything alright?
+E: O.S.
+S: INT. GATSBY'S CASTLE - MAPROOM - LATE AFTERNOON
+N: An unshaven Gatsby in trousers and a black silk robe sits in a large arm-chair, under a vast wall of magnificent paintings. He hunches over the phone...
+C: GATSBY
+D: Yes... Daisy and I are very much in love.
+C: NICK
+D: I hear you fired all your servants?
+E: O.S.
+C: GATSBY
+D: Daisy comes over sometimes in the afternoons and I wanted some people who wouldn't gossip... until we decided what we're going to do... You see these two towns are pretty close together. And it gets in the papers... You understand? They're some people Wolfsheim wanted to do something for.
+E: CLARIFIES
+N: Herzog stands in the shadows; and the old European woman pours coffee and then recedes...
+C: GATSBY
+D: What's the difference as long as they can cook and make beds...?
+E: CONT'D
+S: INT. PROBITY TRUST - NICK'S OFFICE - LATE AFTERNOON
+N: Nick holds the phone close to his ear, trying to hear Gatsby above the din around him; his work is piled high...
+S: INT. GATSBY'S CASTLE - MAPROOM - LATE AFTERNOON
+N: Gatsby whispers into the phone...
+C: GATSBY
+D: Nick... Daisy's ready. Shes ready. But there's just one thing. She's requested that you and Miss Baker be there, at lunch tomorrow, at her house... Will you come, old sport? Daisy needs you. I... We need you. Will you come old sport?
+E: EXCITED AN ADMISSION
+S: INT. PROBITY TRUST - NICK'S OFFICE - LATE AFTERNOON
+N: PUSH IN ON: Nick. A decision looms...
+T: DISSOLVE TO:
+S: EXT. BUCHANAN MANSION - DAY
+N: WIDE SHOT: The imposing Buchanan mansion bakes in the sun...
+T: DISSOLVE TO:
+S: INT. BUCHANAN MANSION - DINING ROOM - DAY
+N: CLOSE ON: Tom lighting a fat Cuban from a chrome lighter.
+C: TOM
+D: You know, I read somewhere that the sun's getting hotter every year...
+N: Blue cigar smoke wafts over the clearing of plates...
+C: TOM
+D: Or wait a minute; it's the opposite...
+E: CONT'D
+N: Tom stands and strolls to the open French window...
+C: TOM
+D: The sun is getting colder every year...
+E: CONT'D
+N: Daisy grips a wine glass in her trembling hand; her eyes are terrified, perspiration forms on her upper lip. She glances to Gatsby, who stares resolutely from across the table. CLOSE ON: A perspiring Nick. He glances from Daisy to Gatsby. The tension is excruciating. Out the window Tom catches sight of a sailboat across the bay.
+C: TOM
+D: How I'd like to be out on that bay today.
+E: CONT'D
+N: CLOSE ON: Gatsby. He looks up. Beyond the sailboat, he can see the outline of his castle.
+C: GATSBY
+D: I'm right across from you. Right there.
+E: POINTS
+C: TOM
+D: So you are.
+E: UNIMPRESSED
+N: Gatsby slowly stands and walks behind Daisy.
+C: GATSBY
+D: Every night I can see that light at the end of your dock, blinking.
+C: TOM
+D: What light?
+N: Gatsby gently moves his hand over Daisy's...
+C: GATSBY
+D: You see, Mr. Buchanan, I wanted to be close-- Daisy and I--
+N: With sudden intensity Daisy stands!
+C: DAISY
+D: It's so hot...
+E: on the verge of tears
+N: Agitated, she sweeps toward the sideboard.
+C: DAISY
+D: Everything's so confused.
+E: CONT'D
+N: She plucks a cigarette from a carved box, and fumbles with the paperweight-sized lighter.
+C: DAISY
+D: What'll we do with ourselves this afternoon...? And the day after that... ...and for the next thirty years? Let's all go to town! Who wants to go to town?
+E: CONT'D she snaps it again TURNS SUDDENLY
+N: Her nervous hands drop the lighter, which crashes to the mahogany floor. All but Tom recoil in shock.
+C: TOM
+D: Town!? Women... They get these notions...
+N: Gatsby walks to Daisy... As Tom puffs, Gatsby retrieves the lighter in one hand, and with his other gently guides Daisy's trembling hand... In that moment, their eyes tenderly meet...
+C: GATSBY
+D: Daisy...
+E: WHISPERS
+C: DAISY
+D: You look so cool. You always look so cool, like the advertisement of the man... in Times Square...
+E: as if they are alone
+N: CLOSE ON: Tom, his jaw tightening.
+C: DAISY
+D: The man in the cool, beautiful, shirts.
+E: CONT'D
+N: CAMERA FLOATS TOWARD TOM... He violently snuffs his cigar.
+C: NICK
+D: She had told Gatsby that she loved him - and Tom had seen...
+E: V.O.
+N: SUDDENLY Tom explodes!
+C: TOM
+D: Let's go to town! I'm perfectly willing...! That's a marvelous idea! Henri! Have the car brought around immediately!
+C: DAISY
+D: Just like that? Can't anyone at least have a cigarette?
+C: TOM
+D: We've smoked all through lunch.
+C: DAISY
+D: Oh, let's have fun. It's too hot to fuss.
+C: TOM
+D: It was your great idea Daisy. Why don't we!? We'll all go to town!
+N: Daisy doesn't budge.
+C: DAISY
+D: I've changed my mind... You brute.
+E: TEASES
+C: TOM
+D: You've got me all excited, and now you don't want to go? We'll get a great big room at the Plaza, a cold bucket of ice, and some whiskey... It will be fun.
+E: a dangerous intensity
+C: DAISY
+D: Fine. Have it your own way, Tom... Come on, Jordan.
+N: As she and Jordan rush past Tom, down the hall, Tom turns calmly to Gatsby.
+C: TOM
+D: Will you join us, Mr. Gatsby?
+N: Then turns and calls to Henri...
+C: TOM
+D: Henri! Get some whiskey! Two bottles, wrapped in a towel.
+E: CONT'D
+T: CUT TO:
+S: EXT. BUCHANAN MANSION - DAY
+N: CLOSE ON: Shoes shifting on gravel. Gatsby and Nick stand uncomfortably on the drive, waiting for Tom and the women. BANG! Tom storms out wrapping a quart bottle in a towel. Daisy and Jordan follow.
+C: TOM
+D: Mr. Gatsby! Would you be good enough to take my coupé? And I'll drive everyone else in your circus wagon.
+C: GATSBY
+D: I don't think there's much gas, old sport.
+N: Gatsby looks to Daisy, a burning stare.
+C: TOM
+D: Plenty of gas. And if we run out, then we'll stop at a drug store. I hear you can buy anything at a drug store nowadays... Isn't that right, Mr. Gatsby?
+E: looks at the gauge savagely eyes Gatsby
+N: A moment of sharp tension; Daisy wrenches from Tom's arm.
+C: DAISY
+D: You take Nick and Jordan, Tom!
+N: She slips quickly into the coupé...
+C: DAISY
+D: We'll meet you at the Plaza! I'll be the man on the corner smoking two cigarettes...
+E: CONT'D
+N: Gatsby's and Tom's eyes flash; a harsh, competitive glance. Tom lunges into the Duesenberg, slams the gears and lurches away, leaving Gatsby, Daisy, and the coupé in the dust. I/E. GATSBY'S CAR - LONG ISLAND COUNTRYSIDE - DAY Tom throttles forward, watching Jordan and Nick...
+C: TOM
+D: You think I'm pretty dumb, don't you? But I have a-- an almost second sight, sometimes, that tells me what to do. And I've made a small investigation of this fellow.
+C: JORDAN
+D: And you found he was an Oxford man?
+E: CONDESCENDING
+C: TOM
+D: Oxford, New Mexico! He wears a pink suit for Christ's sake!
+N: With that, Tom shifts gears and the Duesenberg rockets on!
+T: DISSOLVE TO:
+S: EXT. THE VALLEY OF ASHES - DAY
+N: HIGH AND WIDE: The Duesenberg tears into the Valley...
+C: JORDAN
+D: We're almost out of gas Tom...
+E: O.C. MOCKING
+S: EXT. THE VALLEY OF ASHES - WILSON'S GARAGE - DAY
+N: SCRREEECH! Tom slams the breaks and the Duesenberg slides to a stop at Wilson's... Wilson doesn't budge. He's staring with sickly eyes at the giant billboard of Dr. T. J. Eckleberg.
+C: TOM
+D: Wilson! Wilson! What are you waiting for!? Let's have some gas... Do I have to do it myself?
+E: GETS OUT
+C: WILSON
+D: I'm sick. I'm all run down. I need money bad... My wife and I want to go West.
+C: TOM
+D: Your wife does...?
+N: Tom glances up to the window above the garage. Myrtle's face, badly bruised, stares back. Tom clocks this, and hesitates...
+C: NICK
+D: Tom was feeling the hot whips of panic. His mistress and wife, an hour ago so secure, were both slipping from his control...
+E: V.O.
+C: WILSON
+D: I just got wised-up to something funny the last two days. She's goin' whether she wants to or not.
+N: Tom isn't listening... He sees the coupe approaching at high- speed, threatening to leave him in the dust!
+C: TOM
+D: What do I owe you!?
+C: WILSON
+D: Dollar twenty.
+N: The blue coupé flashes by. Tom glances back to Myrtle... And then jumps into the Duesenberg.
+C: TOM
+D: You can have the car! I'll send it around tomorrow!
+N: He throws coins into the dirt for Wilson to collect. Then he floors the gas and peels out after the coupé! I/E. GATSBY'S CAR/TOM'S COUPÉ - DAY VRRROOMM! The cars roar neck-and-neck, veering, swerving and skidding PERILOUSLY close. As Tom and Gatsby shoot dangerous glances at one another, Daisy waves carefree back to Tom.... PAN UP: The cars tear over the Queensboro Bridge, toward the glimmering, golden city...
+T: SLAM CUT TO:
+S: INT. PLAZA HOTEL. SUITE - DAY
+N: CRACK! CRACK! CRACK! Shards of ice spilt off from a hunk as a bell-boy makes ice-cubes...
+C: TOM
+D: That's enough...
+N: The room is large and stifling hot, it has been filled with huge ice buckets in an attempt to cool it. Gatsby, Tom, Nick, Daisy and Jordan are bathed in a thin sheen of perspiration.
+C: DAISY
+D: Open another window.
+C: NICK
+D: There aren't any more.
+C: DAISY
+D: Then telephone for an axe...
+C: TOM
+D: Forget about the heat. You make it worse by crabbing about it.
+C: GATSBY
+D: Why not let her alone, old sport?
+C: TOM
+D: That's a great expression of yours, isn't it?
+C: GATSBY
+D: What is?
+N: Tom turns to Gatsby...
+C: TOM
+D: 'Old sport'. Where'd you pick it up?
+C: DAISY
+D: Now see here, Tom; if you're going to make personal remarks I won't stay here one minute.
+N: Gatsby's foot beats a restless tattoo; Tom eyes him suddenly.
+C: TOM
+D: Mr. Gatsby, I understand you're an Oxford man.
+C: GATSBY
+D: No, not exactly.
+C: TOM
+D: Oh yes, I understand you went to Oxford.
+C: GATSBY
+D: Yes - I went there.
+N: Tom's laugh is incredulous and insulting.
+C: TOM
+D: Sure; the man in the pink suit went to Oxford!
+C: DAISY
+D: Tom...!
+N: Gatsby stands.
+C: GATSBY
+D: I told you I went there.
+E: slow, intense
+C: TOM
+D: I heard you, but I'd like to know when.
+C: GATSBY
+D: You'd like to know when....? It was in nineteen-nineteen, I only stayed five months. That's why I can't exactly call myself an Oxford man.
+N: Tom glances around to see if the others mirror his disbelief. But they are all looking at Gatsby.
+C: GATSBY
+D: You see, it was an opportunity they gave to some of the officers who actually fought in the war.
+E: CONT'D
+N: Nick can't help but smile.
+C: NICK
+D: I wanted to get up and slap Gatsby on the back.
+E: V.O.
+C: DAISY
+D: I'll make you a drink Tom, then you won't seem so stupid to yourself...
+N: But Tom's not done yet.
+C: TOM
+D: Wait a minute, I want to ask Mr. Gatsby one more question.
+C: GATSBY
+D: Go on. Please Mr. Buchanan, go on.
+C: TOM
+D: What kind of a row are you trying to cause in my house anyhow?
+N: They are out in the open at last and Gatsby is content.
+C: DAISY
+D: He isn't causing a row; you're causing a row. Please have a little self-control!
+C: TOM
+D: Self-control! I suppose the latest thing is to sit back and let Mr. Nobody from Nowhere make love to your wife? Well, if that's the idea you can count me out... See, nowadays people begin by sneering at family life and family institutions and next you know they'll throw everything overboard and we'll have intermarriage between black and white!
+C: JORDAN
+D: We're all white here, Tom.
+C: GATSBY
+D: Your wife doesn't love you. She's never loved you. She loves me!
+C: TOM
+D: You must be crazy.
+C: GATSBY
+D: No, old sport. See, she never loved you... She only married you because I was poor and she was tired of waiting. It was a terrible, terrible mistake, but in her heart she never loved anyone but me!
+C: JORDAN
+D: We should go...
+C: GATSBY
+D: Daisy and I have nothing to hide...
+C: DAISY
+D: Jay let's go, please...!
+C: TOM
+D: Sit down Daisy!
+C: GATSBY
+D: Yes, Daisy, please sit down.
+E: REASSURING
+N: Tom's voice gropes unsuccessfully for the paternal note.
+C: TOM
+D: What's been going on? I want to hear all about it.
+C: GATSBY
+D: I just told you what's been going on; its been going on for five years...!
+N: Tom turns to Daisy sharply.
+C: TOM
+D: You've been seeing him for five years?
+C: GATSBY
+D: Not seeing. No, we couldn't; but both of us loved each other all that time, old sport, and you didn't know. I used to laugh sometimes, to think that you didn't know...
+C: TOM
+D: Oh - that's all; you're crazy! I can't speak about what happened five years ago, because I didn't know Daisy then - but I'll be damned if I see how you got within a mile of her unless you brought the groceries to the back door. But all the rest of that's a god-damned lie. Daisy loved me when she married me and she loves me now.
+N: Tom starts to make himself a drink...
+C: GATSBY
+D: No...
+C: TOM
+D: She does, though... And what's more, I love Daisy too. Once in a while I go off on a spree, but I always come back, and in my heart I love her all the time...
+C: DAISY
+D: You're revolting...
+N: Daisy's voice drops an octave lower, filling the room with thrilling scorn...
+C: DAISY
+D: Do you know why we left Chicago...? I'm surprised they didn't treat you to the story of that little spree.
+E: CONT'D
+N: Gatsby walks over and stands beside Daisy.
+C: GATSBY
+D: That's all over now. Just tell him the truth, that you never loved him; and all this... all this pain will be wiped out forever.
+N: Daisy looks at Gatsby blindly.
+C: DAISY
+D: Why, how could I love him, possibly?
+C: GATSBY
+D: You never loved him.
+N: Daisy hesitates; too late, she realizes what she is doing.
+C: DAISY
+D: I never loved him.
+C: GATSBY
+D: That's right...
+C: TOM
+D: Not at Kapiolani?
+C: DAISY
+D: No.
+C: TOM
+D: Not that day I carried you down from the Punch Bowl to keep your shoes dry...? Daisy? Never?
+E: a husky tenderness
+C: DAISY
+D: Please don't.
+C: TOM
+D: Daisy...
+N: Her voice is cold, but the anger is gone.
+C: DAISY
+D: There, Jay.
+N: She trembles as she looks to Gatsby...
+C: DAISY
+D: You want too much! I love you now; isn't that enough? I can't help what's past. I did love him once; but I loved you too.
+E: CONT'D begins to sob
+C: GATSBY
+D: You loved me too?
+E: shocked, uncomprehending
+C: TOM
+D: Even that's a lie. She didn't know you were alive. There are things between Daisy and me that you'll never know, things that neither of us can ever forget.
+E: SAVAGE
+N: The words seem to bite physically into Gatsby.
+C: GATSBY
+D: I want to speak to Daisy alone. She's all excited now...
+C: DAISY
+D: Even alone I can't say I never loved Tom. It wouldn't be true.
+C: TOM
+D: Of course it wouldn't.
+N: Daisy turns to her husband.
+C: DAISY
+D: As if it mattered to you.
+C: TOM
+D: Of course it matters. I'm going to take better care of you from now on.
+C: GATSBY
+D: You're not taking care of her any more! Daisy's leaving you.
+C: TOM
+D: Nonsense.
+C: DAISY
+D: I am, though.
+E: with visible effort
+C: TOM
+D: She's not leaving me; and certainly not for a common swindler!
+N: Tom's words suddenly lean down over Gatsby.
+C: TOM
+D: Mr. Gatsby, who exactly are you anyhow? You see, I have made a small investigation into your affairs... You're one of Meyer Wolfsheim's bunch.
+E: CONT'D
+N: Tom turns to the others and speaks rapidly.
+C: TOM
+D: See, he and this Wolfsheim bought up a lot of 'drug stores' and sold bootlegged alcohol over the counter!
+E: CONT'D
+C: GATSBY
+D: What about it, old sport?
+C: TOM
+D: Don't call me `old sport!' This drug store business is just small change compared to the bonds stunt you and Wolfsheim have got going on now.
+C: GATSBY
+D: Well your friend Walter Chase isn't too proud to come in on it.
+C: TOM
+D: I've been giving that some thought. How does a reputable banker like Walter Chase find himself up to his eyeballs in debt to a little kike like Wolfsheim?
+C: GATSBY
+D: It's called `greed,' old sport.
+C: TOM
+D: That's right; you've got half of Wall Street out there swilling your free booze at that fun park every weekend... I'm surprised he hasn't tried to drag you in...
+E: TO NICK
+N: Nick looks away sharply. Tom registers this.
+C: TOM
+D: My God, he has...
+E: CONT'D
+C: GATSBY
+D: He's got nothing to do with--
+C: TOM
+D: With your little racket... Daisy... Can't you see who this guy is? With his house and his parties and his fancy clothes; he's just a front for Wolfsheim, a gangster, to get his claws into respectable folk like Walter...!
+E: TO DAISY
+C: GATSBY
+D: The only respectable thing about you, old sport, is your money, that's it, and now I've just as much as you; so that means we're equal!!
+E: a vicious sneer
+N: Tom smiles with smug, condescending scorn.
+C: TOM
+D: Oh no, no, we're different; I am, (gesturing at Nick and
+C: JORDAN)
+D: They are...
+E: now at Daisy
+C: SHE IS;
+E: MORE
+C: TOM
+D: we're all different from you - we were born different, it's in our blood, and nothing you do, or say, or steal or dream up, can ever change that... And a girl like Daisy will never...!
+E: CONT'D
+N: Gatsby explodes with terrifying rage.
+C: GATSBY
+D: SHUT UP! SHUT UP! SHUTTT UP!!!!
+N: Shock jolts the room. We float toward Gatsby. His rage-filled eyes stare into the void, as, with all his willpower, he restrains himself from ripping Tom apart...
+C: NICK
+D: Gatsby looked, in that moment... as if he had "killed a man."
+E: V.O
+N: Tom snorts a dismissive laugh.
+C: TOM
+D: That's right Mr. Gatsby, show us those fine Oxford manners...
+N: Gatsby recovers and turns to Diasy, who is trembling in the corner, on the verge of tears.
+C: DAISY
+D: My sincerest apologies. I... I seem to have lost my temper.
+N: Struggling for self control, Gatsby turns toward her as if Tom suddenly no longer exists.
+C: GATSBY
+D: Daisy darling... None of this has any consequence. Don't listen to him Daisy.
+N: Daisy blanches; Gatsby, now desperate, babbles incoherently.
+C: GATSBY
+D: We're going back to Louisville to be married. Then we're going to live together in our house; it's--
+E: CONT'D
+N: There is a feeling of excruciating unease in the room. CLOSE ON: Nick.
+C: NICK
+D: He began talking excitedly, denying everything... But with every word Daisy was drawing further and further into herself, until only the dead dream fought on...
+E: V.O.
+C: DAISY
+D: Please Tom; I can't stand this anymore!
+N: Daisy is staring, terrified, courage gone; she looks to Tom.
+C: TOM
+D: You two start on home... In Mr. Gatsby's car.
+E: TO GATSBY
+N: Daisy is alarmed now.
+C: TOM
+D: Go on. He won't annoy you. I think he realizes that his little flirtation... is over.
+E: CONT'D
+N: Daisy, hysterical, runs from the room; Gatsby pursues her.
+C: GATSBY
+D: Daisy...!
+N: Daisy and Gatsby are gone. A terrible silence fills the room. Tom begins wrapping the unopened whiskey bottle in the towel.
+C: TOM
+D: Want any of this? Jordan? Nick? Nick?
+C: NICK
+D: What?
+C: TOM
+D: Want any?
+C: NICK
+D: No... I just remembered - today's my birthday. I'm thirty.
+N: Tom mutters as he pours himself a drink...
+C: TOM
+D: Happy birthday...
+N: Nick is staring out the window, lost in thought...
+C: NICK
+D: Thirty - the promise of a decade of loneliness...
+E: V.O.
+N: NICK'S POV: To the setting sun and the Queensboro Bridge...
+C: NICK
+D: The formidable stroke of thirty died away, as Gatsby and Daisy drove on through the cooling twilight, towards death...
+E: V.O.
+T: DISSOLVE TO:
+S: INT. WILSON'S BEDROOM - TWILIGHT
+N: MYRTLE FLIES PAST CAMERA as Wilson drags her across the room!
+C: WILSON
+D: God knows everything you've been doing!
+N: Grabbing his wife's hair he presses her face to the window.
+C: WILSON
+D: You might fool me but you can't fool God!
+E: CONT'D
+N: OVER WILSON'S SHOULDER, we see with shock, that he is looking at the eyes of Doctor T. J. Eckleberg.
+C: WILSON
+D: God sees everything!
+E: CONT'D
+N: Below the Eckleberg sign a train thunders through the level crossing. The final carriage clears to reveal Gatsby's yellow car waiting on the other side of the crossing. CLOSE ON: Myrtle seeing the yellow car; a desperate whisper.
+C: MYRTLE
+D: He's here...
+E: thinking its Tom
+N: WHACK! Myrtle gives a sudden backhand to Wilson's face as she twists from his grasp!
+T: CUT TO:
+S: EXT. WILSON'S GARAGE - TWILIGHT
+N: Standing outside his restaurant, the owner, MICHAELIS sees Myrtle rush out of the garage shouting hysterically.
+C: MYRTLE
+D: Stop, Tom, please, stop!
+N: I/E. GATSBY'S CAR - CONTINUOUS SUDDENLY! Myrtle appears in the headlights of Gatsby's car... ECU: The sleeve of the pink suit and the 'Daisy' signet ring, as Gatsby's hand on the wheel tries to veer away...!
+C: GATSBY
+D: No...!
+N: BUT the car STRIKES Myrtle! SLOW MOTION, TERRIBLE, NIGHTMARISH, EXPRESSIONISTIC IMAGES: Glass shattering, blood splattering, Daisy screaming, Myrtle's body flying through the air, her pearls showering the night like a thousand new stars... THUMP. Her torn open body hits the ground. CLOSE ON: The giant billboard, the towering eyes of Dr. T.J. Eckleberg, watching everything... DISSOLVE THROUGH THE WHITES OF THE EYES TO:
+S: INT. TOM'S COUPÉ - NIGHT
+N: CLOSE ON: The coupe's blinding headlights. As the coupé nears, Nick, Tom and Jordan see the commotion.
+C: TOM
+D: Wreck...! Good. Wilson will have a little business at last... Let's take a look..
+C: JORDAN
+D: Must we?
+C: TOM
+D: Just a look.
+S: INT. WILSON'S GARAGE - NIGHT
+N: The dim garage is lit only by a swinging yellow globe. Wilson stands on the raised threshold of his office, swaying and wailing a high, horrible call.
+C: WILSON
+D: O, my Ga-od! O, my Ga-od!
+N: A crush of gawking spectators speak in hushed tones. CUT TO: Tom pushing through the crowd. CLOSE ON: He stops, and makes a harsh sound... MYRTLE'S BODY, wrapped in a blanket, lies on a work table. Tom bends over it, shocked, motionless. CUT TO: Nick, watching Tom's reaction. A POLICEMAN stands next to Tom taking down names.
+C: POLICEMAN
+D: Sir. Sir, I'm gonna have to ask you to step away--
+E: TO TOM
+C: TOM
+D: Get off me...! I'm fine. I'm fine.
+E: regains his composure
+C: POLICEMAN
+D: You knew her?
+C: TOM
+D: No... Not really...
+E: a long pause
+C: POLICEMAN
+D: Well then I have to ask you to step back.
+C: TOM
+D: What happened...?
+C: POLICEMAN
+D: She ran out `inna road. Son-of-a- bitch didn't even stopus car.
+N: A well-dressed African American man steps near.
+C: WELL-DRESSED MAN
+D: I saw it! It was a yellow car; big yellow car.
+N: CUT TO: Tom; a slow realization. PUSH IN: On Nick; a disbelieving horror. The Greek restaurant owner MICHAELIS pipes up.
+C: MICHAELIS
+D: Yeah, a big yellow duezy; custom job.
+N: Some of this conversation has reached Wilson; suddenly sighting Tom, he moves toward him with a cry...
+C: WILSON
+D: You don't have to tell me what kind of car it was! I know what kind of car it was!
+N: Tom, realizing the danger, moves quickly and seizes Wilson.
+C: TOM
+D: Pull yourself together...
+E: a soothing gruffness
+N: Wilson, distraught, almost collapses, but Tom holds him upright and pushes him into:
+S: INT. WILSON'S OFFICE - CONTINUOUS
+N: Tom sets Wilson down and whispers intensely.
+C: TOM
+D: Listen, I just got here from New York. I was bringing you the coupé. That yellow car wasn't mine, do you hear? I haven't seen it all afternoon.
+N: The policeman follows and turns suspiciously to Tom.
+C: POLICEMAN
+D: What color's your car?
+C: TOM
+D: Blue, a coupé; we've come straight from New York.
+C: MICHAELIS
+D: Yeah, they just stopped...
+N: The policeman accepts, suspicious still...
+C: POLICEMAN
+D: Alright... Blue.
+N: In the relative calm of the office, Wilson's clouded, desperate eyes look up at Tom.
+C: WILSON
+D: Who owns the yella' car...?
+C: TOM
+D: Fella named Gatsby; he's a crook, George. Gives those parties the papers are always talking about...
+E: a tiny pause
+C: WILSON
+D: Maybe he was the one foolin' with Myrtle; maybe that's why he killed her...?
+C: TOM
+D: Yeah. Maybe. Guy like that, who knows...
+N: Wilson starts sobbing again.
+C: WILSON
+D: Oh, Ga-od! Oh, my Ga-od!
+N: He rests his head on Tom's shoulder... Tom consoles Wilson and then whispers...
+C: TOM
+D: Gatsby. Something outta be done about a fella like that. He'll pay... Oh, he'll pay...
+T: DISSOLVE TO:
+S: INT. TOM'S COUPÉ - NIGHT
+N: CLOSE ON: Tom driving. He sobs...
+C: TOM
+D: The goddamn coward didn't even stop his car...
+N: Jordan and Nick sit silently beside Tom; he turns to them, triumphantly accusing...
+C: TOM
+D: You gonna defend him now, huh?
+E: CONT'D
+T: DISSOLVE TO:
+S: EXT. BUCHANAN MANSION - NIGHT
+N: The coupe drifts slowly up the drive.
+S: EXT. BUCHANAN MANSION - NIGHT
+N: As they walk up the stone staircase, Tom disposes of the situation in a few brisk phrases.
+C: TOM
+D: I'll telephone for a taxi, Nick. Come in and have some supper while you wait...
+N: Tom opens the door.
+C: NICK
+D: No thanks. I'll wait outside.
+N: Tom stares at Nick, absorbing his disdain.
+C: TOM
+D: What is the matter with you?
+N: Tom snorts and goes in; Jordan puts her hand on Nick's arm.
+C: JORDAN
+D: Won't you come in, Nick?
+C: NICK
+D: No... thanks.
+C: JORDAN
+D: It's only half past nine...
+C: NICK
+D: No. I think I've had enough... Of everyone.
+N: CLOSE ON: Jordan; she gives Nick a long, hurt look... But Nick stares decisively back; after a moment he turns sharply and walks off. Dejected, Jordan sweeps inside...
+S: EXT. BUCHANAN MANSION - NIGHT
+N: As Nick's feet crunch upon the white gravel of the drive, he is startled by a voice from the shadows...
+C: GATSBY
+D: Hello old sport...
+N: Cautiously, Nick approaches the hedge. The closer he gets the more certain he becomes: Gatsby is hiding, just below Daisy's window. His pace quickens.
+C: NICK
+D: What are you doing!?
+C: GATSBY
+D: Just sitting here...
+C: NICK
+D: Yes, I can see that.
+C: GATSBY
+D: Did you see any trouble out on the road?
+C: NICK
+D: Trouble!? That woman you ran down is dead Jay!
+C: GATSBY
+D: I thought so... I told Daisy I THOUGHTS SO--
+C: NICK
+D: Daisy? Do you hear yourself--
+C: GATSBY
+D: Its better that the shock should come all at once--
+C: NICK
+D: What's wrong with you!? How could you!?
+C: GATSBY
+D: Please... Keep your voice down, old sport.
+C: NICK
+D: Tom was right! You're nothing but a goddamn coward!
+C: GATSBY
+D: Keep your voice down... There. Was. No. Point. In. Stopping.
+E: THREATENING
+C: NICK
+D: NO POINT!?
+C: GATSBY
+D: It, it killed her instantly. I--
+C: NICK
+D: Yes, I was there. I saw! It ripped her open!
+N: Panicked, Gatsby grabs Nick, trying to explain...
+C: GATSBY
+D: I understand-- It was... my fault. This woman just rushed out, as if she wanted to speak to us... It all happened so quickly. She-- I... tried-- to turn the wheel.
+C: NICK
+D: She?
+N: SUDDENLY! The CREAK of a door opening. A shaft of light... Henri emerges. AN INTERMINABLE moment. Gatsby and Nick hold their breaths. Finally, Henri goes back in. CLOSE ON: Nick, a realization.
+C: NICK
+D: It was Daisy?
+E: CONT'D
+N: Finally, and very slowly, Gatsby admits.
+C: GATSBY
+D: You see, after we left New York, she was very nervous. She thought driving would steady her. But this woman, she just rushed out at us.
+N: CUT TO: We replay the violent accident, this time fully REVEALING that it was Daisy behind the wheel...
+C: GATSBY
+D: It all happened so quickly. It wasn't her fault...
+E: CONT'D MORE
+C: GATSBY
+D: It was my fault. I should have taken the wheel... No one must know. Promise me. No one. Promise me.
+E: CONT'D INTENSE
+C: NICK
+D: Jay-- You shouldn't be here. You should get out of here.
+N: Gatsby gazes back to the house...
+C: GATSBY
+D: No. No. No. I'm going to wait. I'll wait all night if necessary. You see, Daisy's locked herself in her room, and she's going to turn her light off and on again if he tries to bother her about that unpleasantness this afternoon. If he tries ANY brutality whatsoever--
+C: NICK
+D: Tom won't touch her. He's not even thinking about her...
+C: GATSBY
+D: Oh, I don't trust him, old sport. I don't trust him.
+N: Nick considers the light at the end of the terrace.
+C: NICK
+D: Alright. Alright... You wait here. I'll see if there's any commotion.
+C: GATSBY
+D: Would you do that for me? Thank you. Thank you, old sport.
+S: EXT. BUCHANAN MANSION - TERRACE - NIGHT
+N: Nick skirts the terrace... Rounding the corner, Nick, unseen in the shadows, can see Tom and Daisy sitting at one end of the vast dining table, a plate of cold chicken and two bottles of ale between them. As Tom speaks intently and earnestly at Daisy, his hand falls gently upon hers and she nods tiredly in agreement...
+C: TOM
+D: Its going to be all right...
+N: Then, very slowly, Daisy lays her head on Tom's shoulder. CLOSE ON: Nick, shocked... angry.
+T: DISSOLVE TO:
+S: EXT. NICK'S BUNGALOW - PORCH - NIGHT
+N: DISCOVER: Nick sitting, drinking from a bottle of whiskey... The sound of a car coming up Gatsby's drive...
+S: INT. GATSBY'S GARAGE - NIGHT
+N: CLOSE ON: Gatsby cleaning blood from the Duesenberg's fender. Nick appears, coming across the yard.
+C: NICK
+D: Jay? Everything alright...?
+N: Exhausted, Gatsby turns...
+C: GATSBY
+D: Oh, hello, old sport. Yes, yes, everything's just fine... About four o'clock she came to the window; she stood there... Then, well, she turned out the light... So... Give me a hand will you old sport?
+E: beckons to the car
+N: CLOSE ON: Nick.
+C: NICK
+D: I should have told him what I had just seen. But all I could manage was...
+E: V.O.
+C: NICK
+D: Jay... You oughtta go away.
+N: He helps Gatsby cover the car.
+C: NICK
+D: Tonight. They'll trace your car.
+E: CONT'D
+C: GATSBY
+D: Go away? I can't leave now. Not tonight.
+E: as if Nick is crazy
+C: NICK
+D: Do you understand that a woman has been killed--?
+N: Nick follows him from the garage toward the house.
+C: GATSBY
+D: Daisy's going to call in the morning. Then we'll make plans, to go away together.
+C: NICK
+D: But Jay she--
+N: Sensing Nick's tone, Gatsby cuts him off and banishes all doubt with intense certainty.
+C: GATSBY
+D: She just needs time to think... She'll call. In the morning. She just needs time to think.
+E: he continues, calm
+C: NICK
+D: JAY--
+C: GATSBY
+D: She just needs to think. She's going to call in the morning.
+N: Gatsby smiles that smile of endless possibility... He turns to go in but stops.
+C: GATSBY
+D: Wait up with me? The suns almost up...
+E: CONT'D
+C: NICK
+D: That was the night he finally told me the truth. All of it.
+E: V.O.
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE - MAPROOM - NIGHT
+N: Gatsby's voice echoes through the empty halls of his vast, lonely mansion as he confesses...
+C: GATSBY
+D: You know, I thought for awhile I had a lot of things... But the truth is... I'm empty.
+E: MORE
+C: GATSBY
+D: I suppose that's why I make things up about myself... But I`ve wanted to tell you the whole story for a long time... You see. I grew up, terribly, terribly poor, old sport. My folks were, well--
+E: CONT'D
+N: As Gatbsy continues, Nick's V.O. FADES UP:
+C: NICK
+D: He revealed his humble beginnings, his transformative voyage with Dan Cody, the war, Oxford, and how he'd joined Wolfsheim in the business...
+E: V.O.
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - WHARF - PRE-DAWN
+N: In the silvery pre-dawn, Nick and Gatsby trail slowly toward the end of the dock.
+C: NICK
+D: It was also that night that I became aware of Gatsby's... extraordinary gift for hope.
+E: V.O.
+C: GATSBY
+D: ...I can't describe to you how surprised I was to find out that I loved her, old sport. And that she loved me too.
+C: NICK
+D: A gift that I have never found in any other person...
+E: V.O.
+C: GATSBY
+D: I never realized just how extraordinary a nice girl could be.
+C: NICK
+D: And which it is not likely I shall ever find again.
+E: V.O.
+C: GATSBY
+D: I thought out my life with Daisy in it, trying to figure out how we could marry and struggle along on so many dollars a month...
+N: Finally, Nick is able to ask:
+C: NICK
+D: What was in the letter?
+N: Gatsby reaches the end of the wharf and looks to the green light across the bay...
+C: GATSBY
+D: The truth, the reason why after the war, I hadn't been able to return--
+N: In the clouds overhead, the IMAGE OF DAISY, in the bathtub with the DISSOLVING LETTER... And now, we can see what Gatsby wrote in that fateful, last letter: "Daisy, the truth is... I'm penniless."
+C: GATSBY
+D: I asked her to wait until I'd made something of myself. But-- She was young, there was so much pressure.
+E: O.C. CONT'D
+T: The IMAGE of Daisy fades...
+C: GATSBY
+D: You see, I felt married to her... That was all.
+E: CONT'D
+C: NICK
+D: It had all been for her. The house the parties, everything.
+E: V.O.
+T: CUT TO:
+S: INT. WILSON'S GARAGE - DAY
+N: CLOSE ON: A hand takes a revolver from a desk drawer... It is Wilson. FLOAT: Toward the window behind him... WE SEE the staring eyes of Doctor T. J. Eckleberg.
+C: WILSON
+D: God sees everything.
+S: EXT. GATSBY'S CASTLE - TERRACE - MORNING
+N: Nick and Gatsby are finishing breakfast.
+C: HERZOG
+D: Mr. Gatsby sir, excuse me, Chicago calling sir.
+C: GATSBY
+D: Now now. Keep it open. For a personal call...
+C: HERZOG
+D: A personal call? Of course.
+N: The GARDENER comes to the foot of the steps.
+C: GARDENER
+D: I'm going to drain the pool today, Mr. Gatsby.
+C: GATSBY
+D: Not today. It's so beautiful. You know, old sport, I've never used that pool all summer?
+E: TO NICK
+N: Gatsby enthusiastically heads down the stairs...
+C: GATSBY
+D: Let's go for a swim. I'll have the phone transferred to the pool...
+E: CONT'D
+N: As Gatsby heads toward the pool, Nick checks his watch...
+C: NICK
+D: Jay, I've got to go. I have to work.
+C: GATSBY
+D: I understand... Well, I'll walk you out.
+N: Gatsby leads Nick toward the side gate. At the gate...
+C: NICK
+D: I'll call you up.
+C: GATSBY
+D: Do, old sport, please do. I suppose Daisy'll call too.
+E: A THOUGHT
+C: NICK
+D: I suppose so... Well... Goodbye.
+N: Nick lingers... Then they shake hands and he starts away. Just before he reaches the hedge he turns back and calls:
+C: NICK
+D: They're a rotten crowd! You're worth the whole damn bunch put together!
+E: CONT'D
+N: First Gatsby nods politely, and then his face breaks into that radiant and understanding smile.
+C: NICK
+D: I was always glad I said that... It was the only compliment I ever paid him.
+E: V.O.
+T: DISSOLVE TO:
+S: INT. PROBITY TRUST BUILDING - NICK'S OFFICE - DAY
+N: CLOSE ON: Nick, tired, sick-looking.
+C: NICK
+D: That morning, Wall Street boomed, its usual golden roar... But I wasn't worth a decent stroke of work. I waited for Gatsby to call with news...
+E: V.O.
+S: EXT. GATSBY'S CASTLE - POOL - DAY
+N: Gatsby heads for the pool, ready to swim...
+C: NICK
+D: While he waited for Daisy...
+E: V.O.
+N: SPLASH! Gatsby dives gracefully into the pool. We see Gatsby from below, body gliding through clear water.
+S: INT. BUCHANAN MANSION - DAISY'S BEDROOM - DAY
+N: CLOSE ON: A white telephone on a ivory plinth. REVEAL: Daisy, considering the phone...
+S: EXT. GATSBY'S CASTLE - GROUNDS - DAY
+N: A gun dangles from a hand. Wilson's scarecrow shadow ripples across the lawn.
+S: EXT. GATSBY'S CASTLE - POOL - CONTINUOUS
+N: Gatsby's head breaks the smooth, green surface of the water. SUDDENLY! BRRRING!!! The phone rings... Gatsby smiles and gazes across toward the green light, toward Daisy. PULL FOCUS: Atop the monumental stairs, Wilson, raises a gun. THE CRACK OF A GUNSHOT! CLOSE ON: Gatsby - a moment of strangled, startled, wonder... His lips form a final, breathless...
+C: GATSBY
+D: Daisy...
+N: Then his face hardens as he slowly falls backwards... SPLASH! Placing his gun in his mouth Wilson pulls the trigger. BANNNGG!
+S: INT. PROBITY TRUST BUILDING - NICK'S OFFICE - CONTINUOUS
+N: A SILENT IMAGE of Nick screaming into the phone.
+S: INT. BUCHANAN MANSION - DAISY'S BEDROOM - CONTINUOUS
+N: Daisy's hand rests on the phone... She never called.
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - POOL - DAY
+N: Gatsby's body descends through a cloud of blood...
+C: NICK
+D: After all these years, I remember the rest of that day, and that night and the next day as an endless drill...
+E: V.O.
+N: Looking up from the bottom of the pool we see a crowd of staring faces and the pop of flashbulbs through water...
+C: NICK
+D: ...of police and photographers and tabloid reporters.
+E: V.O. MORE
+C: NICK
+D: The headlines were a nightmare... They pinned everything on Gatsby.
+E: V.O. CONT'D
+N: THROUGH THE WATER HEADLINES FADE IN: "BOOTLEGGER KILLS MISTRESS!"
+C: NICK
+D: The affair with Myrtle...
+E: V.O.
+N: "HIT AND RUN"
+C: NICK
+D: The hit and run...
+E: V.O.
+N: "GATSBY GUILTY OF MURDER!"
+C: NICK
+D: Everything.
+E: V.O.
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - DAY
+N: ECU: Gatsby's ghostly face...
+C: NICK
+D: And there was nothing I could say except the one unutterable fact that none of it was true...
+E: V.O.
+N: PULL TO REVEAL: Gatsby, immaculately attired, is laid out in a silver coffin and crowded by a crush of policemen, photographers and reporters...
+S: INT. BUCHANAN MANSION - PORTICO - DAY
+N: TOP SHOT: Servants carry endless luggage through the hall, down the stairs, and out the front door... BRRIIING!!! A phone rings OFF-SCREEN. At the bottom of the stairs, DISCOVER: Daisy and Pammy.
+C: DAISY
+D: Daddy's taking care of his two favorite girls...
+E: explains to Pammy
+N: BRRIIING!!!
+C: PAMMY
+D: But where are we going?
+C: DAISY
+D: Just for a little trip. Just you, me, and daddy...
+N: BRRIIING!!! Tom appears beside Daisy.
+C: TOM
+D: We should go.
+E: TENDERLY
+N: BRRIIING!!! Finally, at the top of the stairs, Henri answers.
+C: HENRI
+D: Buchanan residence.
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - CONTINUOUS
+N: DISCOVER: Nick sits atop the deco stairs, telephone in hand. Gatsby coffin is directly below...
+C: NICK
+D: May I speak to Mrs. Buchanan? It's Mr. Carraway, her cousin...
+C: HENRI
+D: Madame is not available.
+E: O.S.
+C: NICK
+D: Well, when you see her, will you tell her, the funeral's tomorrow?
+S: INT. BUCHANAN MANSION - PORTICO - CONTINUOUS
+N: Henri looks down to Tom, who shoots a "we're not here" look.
+C: HENRI
+D: I'm sorry, but... They have gone away.
+C: NICK
+D: Gone away...? Do you know when they'll be back.
+E: O.S.
+C: HENRI
+D: No.
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - CONTINUOUS
+C: NICK
+D: Please, I know she would want to be there. If you could just get a message to her--
+C: HENRI
+D: I have no further information monsieur. Au revoir.
+E: O.S.
+S: INT. BUCHANAN MANSION - PORTICO - CONTINUOUS
+N: CLICK. Henri abruptly hangs up.
+C: NICK
+D: Hello...? Hello!?
+E: O.S.
+N: The Buchanan family exits...
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - CONTINUOUS
+N: As Nick slowly, bitterly hangs up the telephone...
+C: NICK
+D: They were careless people, Tom and Daisy. They smashed up things and people and then retreated back into their money and their vast carelessness...
+E: V.O.
+N: He looks to the throng of press swarming like vultures around Gatsby's casket. Seized by fury, he snaps and screams as he advances down the stairs!
+C: NICK
+D: GET OUT! ALL OF YOU OUT! GET OUT...!!!
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE - GRAND BALLROOM - NIGHT
+N: Time has passed. Nick sits on the steps slouched against the rail. He looks down to Gatsby's still face, sad, alone...
+C: NICK
+D: I rang, I wrote, I implored...
+E: V.O.
+N: THE CAMERA PUSHES SLOWLY DOWN TOWARD GATSBY:
+C: NICK
+D: But not a single one of the sparkling hundreds who had enjoyed his hospitality all summer, attended the funeral...
+E: V.O.
+N: ECU: Gatsby.
+C: NICK
+D: And from Daisy, not even a flower.
+E: V.O.
+N: Distraught and exhausted, Nick's eyes slowly close...
+C: NICK
+D: I was all he had; the only one who cared...
+E: V.O.
+T: DISSOLVE TO:
+S: INT. SANITARIUM - DOCTOR'S OFFICE - SUMMER - MORNING
+N: Nick is sound asleep on the couch, his typewriter and dozens of type-filled pages in front of him. Clearly, he has been writing all night... The Doctor enters. He looks tenderly to Nick, and picks up a loose page from the floor...
+T: DISSOLVE THROUGH THE PAGE TO:
+S: EXT. NEW YORK CITY - DAY
+N: Its winter now. The city is blanketed by an unforgiving, cold grey sky...
+C: NICK
+D: After Gatsby's death, New York was haunted for me...
+E: V.O.
+N: DISCOVER: Nick, a tumult of anger, grief and despair, wandering unshaven through a Fifth Avenue crowd...
+C: NICK
+D: That city... My once golden... shimmering mirage, now made me sick.
+E: V.O.
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - FRONT GATES - EVENING
+N: DRIFT TOWARD: Gatsby's castle, ghostly in the moonlight.
+C: NICK
+D: On my last night in New York... I returned to that huge, incoherent house once more.
+E: V.O.
+T: DISSOLVE TO:
+S: INT. GATSBY'S CASTLE - NIGHT
+N: Very drunk, Nick trails over broken relics of lost grandeur, through rooms that have been stripped...
+C: NICK
+D: Wolfsheim's 'associates' had cleaned the place out...
+E: V.O.
+N: ALL AROUND NICK: Ghostly images from Nick's memory - from all those glittering parties, haunting snatches of music, laughter and conversation, imagery - mixing and FADING IN AND OUT...
+C: JORDAN
+D: He threw all those parties hoping she would wander in one night...
+C: NICK
+D: Its like an amusement park...
+C: DAISY
+D: But how do you live her all alone?
+C: GATSBY
+D: She makes it look so splendid, don't you think, old sport?
+C: DAISY
+D: Music! And then we can dance all night...
+C: GATSBY
+D: Will you come old sport? We... need you.
+C: DAISY
+D: I wish it could always be like this...
+C: GATSBY
+D: It will be...
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - TERRACE - NIGHT
+N: Nick wanders out as a light rain beings to fall.
+C: NICK
+D: I remembered how we had all come to Gatsby's, and guessed at his corruption... While he had stood before us concealing an incorruptible dream...
+E: V.O.
+N: A FINAL MEMORY: Gatsby and Daisy together on the dance- floor... Daisy leans in and whispers happily to Gatsby...
+C: DAISY
+D: Its perfect... From your perfect, irresistible imagination.
+T: DISSOLVE TO:
+S: EXT. GATSBY'S CASTLE - WHARF - NIGHT
+N: Nick stumbles along the dock; the rain falling steadily now.
+C: NICK
+D: The moon rose higher... And as I stood there, brooding on the old, unknown world, I thought of Gatsby's wonder when he first picked out the green light at the end of Daisy's dock.
+E: V.O.
+N: Nick looks to the end of the dock, where he first saw Gatsby that warm summer night...
+C: NICK
+D: He had come such a long way...
+E: V.O.
+N: And suddenly, shimmering ghostly through the rain, Gatsby's silhouette can be seen once more, gazing out across the bay.
+C: NICK
+D: And his dream must have seemed so close that he could hardly fail to grasp it.
+E: V.O.
+N: Gatsby turns back towards Nick, and smiles...
+C: NICK
+D: He did not know that it was already behind him...
+E: V.O.
+N: Nick smiles back.
+C: NICK
+D: Gatsby believed in the green light, the orgastic future that year by year, recedes before us...
+E: V.O.
+N: PUSH PAST GATSBY: Out over the water, toward the green light eternally pulsing at the end of Daisy's dock...
+C: NICK
+D: It eluded us then, but that's no matter - tomorrow we will run faster...
+E: V.O.
+N: Gatsby reaches out--
+C: NICK
+D: Stretch out our arms farther... And one fine morning...
+E: V.O.
+N: As we PUSH PAST Gatbsy's outstretched hand, THE OPENING IMAGE RETURNS: The green light pulsing in the abstract dark... Nick's final words appear as TYPE ON THE SCREEN.
+C: NICK
+D: So we beat on, boats against the current, borne back ceaselessly, into the past.
+E: V.O.
+T: DISSOLVE TO:
+S: INT. SANTITARIUM - NICK'S ROOM - SUMMER - DAY
+N: Nick pulls a final page from his typewriter, sets the page on top of his completed manuscript and we clearly see the title: "GATSBY." Nick considers this and then handwrites: "THE GREAT..." DISSOLVE THROUGH THE FINAL TITLE - "THE GREAT GATSBY" - TO: The green light. It pulses one last time... Then, fades to BLACK. THE END.

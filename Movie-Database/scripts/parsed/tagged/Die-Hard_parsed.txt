@@ -1,0 +1,2195 @@
+M: "DIE HARD"
+M: Screenplay
+M: by
+M: Jeb Stuart
+M: Revisions by
+M: Steven E. DeSouza
+M: based on the novel
+M: Nothing Lasts Forever
+M: by
+M: Roderick Thorp
+N: WITH REVISION #1 (Blue) WITH REVISION #5 (Goldenrod) November 2, 1987 November 5, 1987 WITH REVISION #2 (Pink) WITH REVISION #6 (Salmon) November 4, 1987 November 17, 1987 WITH REVISION #3 (Green) WITH REVISION #7 (Blue) November 4, 1987 November 23, 1987 WITH REVISION #4 (Yellow) WITH REVISION #8 (Pink) November 5, 1987 November 30, 1987
+C: SECOND REVISED DRAFT
+D: October 2, 1987
+N: A Gordon Company/Silver Pictures Production "DIE HARD"
+T: FADE IN
+N: 405 FREEWAY - LOS ANGELES - EARLY EVENING Christmas tinsel on the light poles. We ARE LOOKING east past Inglewood INTO the orange grid of L.A. at night when suddenly we TILT UP TO CATCH the huge belly of a landing 747 -- the noise is deafening.
+S: INT. 747 - PASSENGERS - SAME
+N: The usual moment just after landing when you let out that sigh of relief that you've made it in one piece. As the plane TAXIS to its gate, they stir, gather personal belongings. ON JOHN MCCLANE mid-thirties, good-looking, athletic and tired from his trip. He sits by the window. His relief on landing is subtle, but we NOTICE. Suddenly, he hears --
+C: SALESMAN'S VOICE
+D: You don't like flying, do you?
+N: McClane turns, looks at the Babbit clone next to him. Caught, he tenses, holds his armrests in exaggerated fear.
+C: MCCLANE
+D: No, no, where'd you get that idea?
+C: SALESMAN
+D: Ya wanna know the secret of successful air travel? After you get where you're going, ya take off your shoes and socks. Then ya walk around on the rug barefoot and make fists with your toes.
+E: smiling
+C: MCCLANE
+D: Fists with your toes.
+C: SALESMAN
+D: Maybe it's not a fist when it's your toes...I mean like this...work out that time zone tension. Better'n a cup of coffee and a hot shower for the old jet lag. I know it sounds crazy. Trust me. I've been doing it for nine years.
+E: demonstrating
+N: The plane stops. Passengers rise, start to take down overhead luggage. McClane does this, but as he opens the door above, the businessman BLANCHES seeing: 3-A HIS P.O.V. - MCCLANE'S BARETTA PISTOL 3-A Peeking out from his jacket. 3-B BACK TO SCENE 3-B Recognizing the look, McClane smiles reassuringly.
+C: MCCLANE
+D: It's okay. I'm a cop. Trust me. I've been doing it for eleven.
+E: showing badge pause
+N: The businessman relaxes, moves off. McClane now wrestles down the biggest Teddy Bear FAO Schwartz had to offer. Balancing this, he moves down to another overhead, takes out a topcoat and an overnighter. Barely managing all this, he turns, COLLIDING WITH: 3-C A PRETTY STEWARDESS 3-C She bumps noses with the bear, gives a look.
+C: STEWARDESS
+D: Maybe you should have bought her a ticket.
+E: smiling, about the bear
+C: MCCLANE
+D: Her?
+N: He scrutinizes the nether regions of the bear, shrugs.
+C: MCCLANE
+D: She doesn't complain.
+C: STEWARDESS
+D: Neither would I.
+E: eying him
+N: McClane smiles, with just enough of a sigh to know he's as wistful about things-that-might-have-been as she is...moves down the aisle.
+T: CUT TO:
+S: INT. THE NAKATOMI BUILDING (LOS ANGELES) - EVENING
+N: CLOSE ON A bottle of Dom Perignon as the cork explodes across a large office floor decorated for Christmas. A Japanese man, mid-fifties standing on a desk holds up the bottle triumphantly and looks out at an adoring audience of junior executives and office personnel. He is JOSEPH TAKAGI, Sr V.P. of Sales for Nakatomi, a multinational corporation.
+C: TAKAGI
+D: Ladies and gentlemen...I congratulate each and every one of you for making this one of the greatest days in the history of the Nakatomi corporation...
+N: In the b.g., obviously still at work, an attractive BUSINESSWOMAN in her mid-thirties, studying a computer printout, heads toward her office. Falling into step with her is HARRY ELLIS, thirty-seven, V.P. of Sales. Well-dressed, with stylish, slicked-back hair, he looks and acts very smooth.
+C: ELLIS
+D: What about dinner?
+C: WOMAN
+D: Harry, it's Christmas Eve. Families... Stockings...chestnuts...Rudolph and Frosty...those things ring a bell?
+E: HOLLY
+N: She turns into: HER OFFICE Her name is HOLLY GENNARO MCCLANE, though the nameplate on her door stops after the first two. She puts the printout down on her secretary's desk.
+C: ELLIS
+D: I was thinking more of roaring fireplaces...mulled wine and a nice brie...
+E: in reply
+N: Holly ignores the come-on, turns to her secretary.
+C: HOLLY
+D: Ginny, it's 6:40, you're making me feel like Ebeneezer Scrooge. Go on, join the party, have some champagne.
+N: Ginny slowly manipulates herself out of her seat. She is enormously pregnant.
+C: GINNY
+D: Thanks Ms. Gennaro. Do you think the baby can handle a little sip?
+E: grateful worried
+C: HOLLY
+D: Ginny, that baby's ready to tend bar.
+E: eyeing her
+C: ELLIS
+D: How about tomorrow night?
+E: not giving up
+N: Holly just points to the door. He follows Ginny out, clearly not giving up. Just then the party on Holly's phone picks up and we:
+T: INTERCUT:
+S: INT. NICE HOUSE IN SANTA MONICA
+N: where a five-year old LUCY MCCLANE races her YOUNGER BROTHER to the phone, winsthe wrestling match, and answers with a sense of importance. An Xmas tree is in the b.g.
+C: LUCY
+D: McClane residence. Lucy McClane speaking.
+N: Holly suddenly smiles. It is the first time we've seen her smile and it speaks volumes about the person hidden under a tough business exterior.
+C: HOLLY
+D: Hello, Lucy McClane. This is your mother.
+E: with affection
+N: She looks up and watches Ellis leave. He "shoots" her with a "catch ya later" wink.
+C: LUCY
+D: Mommy! When are you coming home?!
+C: HOLLY
+D: Soon. You'll be in bed when I get there, though.
+C: LUCY
+D: Will you come say 'good night'?
+C: HOLLY
+D: Don't I always, you goose? Now put Paulina on the line, and no searching the house for presents!
+E: enjoying Lucy's giggle
+C: LUCY
+D: I didn't look in the front closet under the steps! Is Daddy coming home with you?
+E: caught
+C: JOHN, JR.
+D: Yeah! Daddy! Daddy! Daddy! And a Captain Power!
+E: hearing this, jumping up and down on second thought
+C: HOLLY
+D: Well, we'll see what Santa and Mommy can do. Goose, put Paulina on, okay?
+E: a little tightly
+N: Lucy hands the phone to a young Salvadorian woman, PAULINA, the housekeeper.
+C: PAULINA
+D: Hello, Mrs. Holly. You coming home soon?
+C: HOLLY
+D: I'm working on it. Did Mr. McClane call? *
+E: beat
+C: PAULINA
+D: No ma'am.
+N: Holly hides a trace of disappointment.
+C: HOLLY
+D: Well...maybe there wasn't time before * the flight. You should probably make up the spare room just in case.
+C: PAULINA
+D: Yes, Mrs. Holly. I do that already. *
+E: smiling
+N: Holly's smile comes through again.
+S: INT. LAX - EVENING
+N: McClane, wearing his wool topcoat and carrying the biggest stuffed animal FAO Schwartz had in stock and his hangup bag, comes down the American Airlines ramp and into the terminal. He avoids one near-collision involving his stuffed animal, an act which drives him into another fender bender with a CUTE GIRL who looks like she's ready for high tide at Zuma. As she smiles, weaves onward, McClane looks at his own Arctic gear and then the girl as she kisses a similarly garbed boyfriend.
+C: MCCLANE
+D: California.
+E: sotto, to himself
+N: He looks around the terminal at: 7-A HIS P.O.V. - TERMINAL 7-A FAMILY REUNIONS are going on all around his as grandparents greet grown children and their children, YOUNG WIVES greet uniformed SOLDIERS, our Babbit businessman greets a pleasant wife and two pleasant kids. It's all very traditional, very touching and not the least bit corny. 7-B BACK TO SCENE 7-B McClane watches, moved by the sight, then looks around the waiting area, just on the chance his family might be waiting. Instead he spots a thin, gangling black kid, ARGYLE, in an ill-fitting chauffeur's uniform. As he waits he beats out a rhythmn on a "Nakatomi Corporation" card with J. McCLANE written on it in magic marker. McClane pauses in front of him, unsure.
+C: MCCLANE
+D: I'm John McClane.
+C: ARGYLE
+D: Argyle. I'm your limo driver. Hey, nice bag.
+E: introducing himself
+N: He turns and starts walking. McClane paces him, still juggling bag and giant animal.
+C: MCCLANE
+D: Argyle. Don't you take this stuff?
+C: ARGYLE
+D: Do I? I'm sorry. You're gonna have to help me, man. This is my first time driving a limo.
+E: stops
+C: MCCLANE
+D: That's okay. This is my first time riding in one.
+T: CUT TO:
+N: WITH THE LIMO - DUSK TILT UP from the Lincoln emblem on the car. Both Argyle and McClane are in the front seat.
+C: ARGYLE
+D: Just kick back and relax, man. We got everything you need: CD, CB, TV, VHS, telephone, full bar.
+N: He looks in the back seat, which is occupied by the bear.
+C: ARGYLE
+D: If your friend is hot to trot...I know a couple of mama bears. ...Or is he married?
+E: turning to McClane
+C: MCCLANE
+D: Married.
+N: McClane tries to get comfortable, scowls as a RUSTLING NOISE reveals wrappers and styrofoam from Taco Bell. He scowls at Argyle.
+C: ARGYLE
+D: The girl was off today. Hey, I didn't expect you to sit up front. So, your lady live out here?
+E: back to the topic
+C: MCCLANE
+D: The past six months.
+C: ARGYLE
+D: Meanwhile, you still live in New York?
+E: thinking about that
+C: MCCLANE
+D: You're nosey, you know that, Argyle?
+C: ARGYLE
+D: Hey, I'm sorry. When I was a cabdriver, see, people expected a little chit chat, a little eccentricity and comaraderie, I forgot how stuck up you limo guys were, so excuse me.
+C: MCCLANE
+D: It's okay, it's okay.
+E: amused
+C: ARGYLE
+D: So, you divorced of what?
+E: instantly
+N: McClane gives up.
+C: MCCLANE
+D: She had a good job, it turned into a great career.
+C: ARGYLE
+D: But meant her moving here.
+C: MCCLANE
+D: Closer to Japan. You're fast.
+C: ARGYLE
+D: So, why didn't you come?
+C: MCCLANE
+D: 'Cause I'm a New York cop who used to be a New York kid, and I got six months backlog of New York scumbags I'm still trying to put behind bars. I don't just get up and move.
+C: ARGYLE
+D: You mean you thought she wouldn't make it out here and she'd come crawling on back, so why bother to pack?
+E: to the point
+N: McClane grins, he like Argyle even if he is direct.
+C: MCCLANE
+D: Like I said, Argyle...you're fast.
+C: ARGYLE
+D: Mind if I play some tunes?
+E: popping in a cassette
+N: A hard RAP SONG blasts from the speakers.
+C: MCCLANE
+D: How 'bout some Christmas music?
+C: ARGYLE
+D: That is Christmas music.
+N: And damned it if isn't, the Fat Boys of Run DMC doing a revisionist number on WHITE CHRISTMAS or something. McClane gives up, looks out the window. HIS P.O.V. Convertibles with Christmas trees in their back seats, Time/Temperature signs which reads: 69 degrees, palm trees trimmed in Christmas lights, intermittent West side token "Happy Chanukahs"...it is clear that Christmas L.A. style has its own unique style. 10- OUT OUT 10- 11-A THE LIMO - CENTURY CITY 11-A TILT DOWN FROM one of the stars of this film, the well-lit, impressive and spanking-new NAKATOMI BUILDING. The limo pulls up, parks, and Argyle gets out. McClane lets himself out, which is fine because Argyle doesn't remember he's supposed to do it. They both go to the rear of the vehicle.
+S: EXT. NAKATOMI BUILDING - NIGHT
+N: Argyle climbs out of the limo and stops by the trunk.
+C: ARGYLE
+D: So, you go on upstairs to the party, your lady sees you, you run into each other's arms. Music comes up, you live happily ever after, that it?
+C: MCCLANE
+D: It's corny, but I could live with it.
+C: ARGYLE
+D: What is it don't work out that way? Where you gonna stay?
+C: MCCLANE
+D: I'll find someplace.
+N: He looks up at the highrise lit by huge spotlights, then back at Argyle who's made no attempt to open the trunk.
+C: ARGYLE
+D: Tell you what. I'll pull into the parking garage and wait. You score with your wife give me a call on the car phone and I'll leave your bags inside at the desk. You strike out... I'll get you to a hotel.
+N: He hands McClane a business card with the number on it.
+C: MCCLANE
+D: You're all right, Argyle.
+E: taking the number
+C: ARGYLE
+D: Just remember that when you sign for the tip. They're paying for it, so don't be shy.
+E: pointing to the building
+N: McClane grins, heads inside.
+S: INT. NAKATOMI LOBBY - NIGHT
+N: Beautiful and -- on first glance -- deserted. Finally a SOUND in the sterile lobby reveals the presence of a SECURITY GUARD hidden until now behind a massive desk. McClane goes there, signs in.
+C: MCCLANE
+D: Holly McClane?
+N: The Guard points to a prominent touch screen computer console.
+C: GUARD
+D: Just type it in there.
+N: McClane is confused for a moment, then he moves to the screen. He gives the Guard a look...the Guard raises his eyebrows as if to say give it a try. 13-A SCREEN - CLOSER 13-A McClane types, "McClane, Holly". Pause. The screen replies, NO SUCH EMPLOYEE LISTED. 13-B MCCLANE 13-B Frowns...thinks. Simultaneously inspired and suspicious, he types again. 13-C THE SCREEN 13-C McClane types, GENNERO, HOLLY. This time the screen CHANGES, shows an elevation of the building and then a floor plan of the 30th floor with Holly's office BLINKING. * 13-D BACK TO SCENE 13-D
+C: MCCLANE
+D: Cute toy.
+C: GUARD
+D: Yeah. When you have to take a leak it'll help you find your zipper.
+C: MCCLANE
+D: Thirtieth floor... *
+C: GUARD
+D: Take the express elevator and get off at the noise.
+E: pointing
+N: McClane nods, moves off. He moves to the elevators, and as he does his experienced eye takes in: 13-E ANOTHER SECURITY GUARD 13-E Patrolling a different area. 13-F SEVERAL HI-TECH CAMERAS AND SENSORS 13-F which are cleverly worked into the decor of the lobby. 13-G BACK TO SCENE 13-G McClane reacts with bored professionalism, NODS to the guard.
+C: MCCLANE
+D: Lots of hardware...
+N: The guard shrugs. McClane gets in the elevator.
+S: INT. ELEVATOR - NIGHT
+N: McClane hits "30" and REACTS to the hyper-powered SPEED with which he rises. He rotates his head, getting out the travel cricks. As he approaches the 30th floor we hear a tremendous THUMPING, THROBBING NOISE. McClane stops and listens before he realizes -- it's the party. As the doors open the noise ATTACKS us. 30TH FLOOR - SAME McClane moves around the edge of the party, gradually spiraling inward. He grabs a glass of Mimosa champagne punch from a passing tray, sips...scowls. Spotting open beers in an ice bucket, he tosses the punch into a potted plant, even burying the plastic glass. Sipping the beer, he moves through the dense party. People he doesn't know throw streamers over him. A WOMAN kisses him. He grins. A MAN kisses him.
+C: MCCLANE
+D: California...
+E: to himself, shaking his head
+N: Finally he queries a DANCING WOMAN. The MUSIC drowns out their words but she nods, points off in some generic direction. McClane heads that way, cuts around a Christmas tree, loses his bearings. He sees: 15-A TAKAGI 15-A who has an air of authority. McClane goes up to him.
+C: MCCLANE
+D: Excuse me, I'm looking for --
+C: TAKAGI
+D: Holly Gennero?
+C: MCCLANE
+D: Yeah. How'd you know?
+C: TAKAGI
+D: I've spent half my life on airplanes, * I can recognize someone who just got off one. I'm Joe Takagi, Mr. McClane. I have ...something to do with this company.
+E: shaking hands
+C: MCCLANE
+D: So I've heard.
+N: Takagi smiles, leads the way. As they approach Holly's office door, McClane notices the name there is -- again -- "Gennero".
+C: TAKAGI
+D: Holly went to the Vault room to FAX some documents...she should be back any...
+N: HOLLY'S OFFICE Ellis is behind the desk. He's SNIFFLING and just as they come in he SWEEPS the back of the slick desktop with his hand. Both McClane and Takagi catch on...but Takagi tries to hide his awareness.
+C: ELLIS
+D: Ah...hi...I just had to make a quick call, and this was the nearest phone...
+C: TAKAGI
+D: Ellis, this is John McClane... Holly's policeman? Ellis is in charge of International Acquisitions.
+E: as Ellis rises with meaning to McClane
+C: MCCLANE
+D: That explains the recent deal with Bolivia.
+E: shaking hands with Ellis
+N: Ellis REACTS, runs a checking finger under his nose.
+C: MCCLANE
+D: Relax, Ellis. I'm off duty.
+E: sotto
+C: TAKAGI
+D: Can I get you anything? Food? Cake? Watered down champagne punch?
+E: eager to change the subject, to McClane
+C: MCCLANE
+D: I'm fine. You throw quite a party. I didn't know they had Christmas in Japan.
+E: grinning looking through the glass
+C: TAKAGI
+D: Hey, we're flexible. Pearl Harbor didn't work out, we got you with tape decks.
+N: McClane laughs. He likes this guy.
+C: ELLIS
+D: Actually, it's kind of a double celebration. * We closed a pretty big deal today and a lot of it was due to Holly.
+N: The door OPENS. Holly comes inside.
+C: HOLLY
+D: All set, Joe. The contracts went over the wire, and -- John...!
+E: surprised
+N: 16-A MCCLANE AND HOLLY 16-A A moment. Does the sound of the party stop for him? We know it. For her? It's more cryptic. We sure hope so.
+C: HOLLY
+D: I was hoping you made that flight.
+E: recovering
+C: JOHN
+D: I was hoping you were hoping that.
+E: quietly
+N: She laughs, kisses him on the cheek. Ellis notes the awkwardness.
+C: TAKAGI
+D: You wife's made for this business. She know how to drive a hard bargain.
+E: to McClane
+C: MCCLANE
+D: Yeah. I remember our first date.
+C: ELLIS
+D: Show him the watch.
+N: As she hesitates:
+C: ELLIS
+D: Go on, show him. What're you, embarrassed? A little token of our appreciation for all her work.
+E: to McClane
+N: He takes Holly's wrist, holds it up. McClane smoothly takes the wrist away from Ellis, looks at the watch.
+C: MCCLANE
+D: Nice, but one of us is three hours out of sync. I think it's me. Is there a place I can wash up?
+E: to Holly, pointedly
+C: HOLLY
+D: Sure. Follow me.
+E: happy for the excuse
+N: They go out. Alone, Takagi's look at Ellis shows his disapproval of certain snow at Christmas.
+T: CUT TO:
+S: EXT. NAKATOMI - NIGHT
+N: An Emory freight truck turns off Olympic into the underground parking garage of Nakatomi.
+S: INT. PARKING GARAGE
+N: It goes down the ramp and passes Argyle's black limo. The driver's seat is EMPTY.
+S: INT. LIMO - SAME
+N: Argyle sits in the back seat hidden from the outside world by the tinted rear windows. He is making a drink from the bar with the TV on and his rap music blasting from the cassette player, oblivious to the truck passing behind him.
+S: INT. PARKING GARAGE - SAME
+N: The Emory truck stops in front of the service elevator on the next level down. As the truck idles, the uniformed driver makes a note on his clipboard.
+S: INT. ELLIS' OFFICE - NIGHT
+N: TILT UP FROM McClane's BARE FEET. He is clenching and unclenching his toes.
+C: MCCLANE
+D: Son-of-a-bitch. It works.
+E: surprised, actually feeling tension decline
+N: Holly sits on the desk here, watches him remove his jacket, tie shirt, etc. Begin to wash up in the private bath.
+C: HOLLY
+D: What are you doing?
+C: MCCLANE
+D: It's a long story. You know, I think that Ellis has his eye on you.
+C: HOLLY
+D: That's okay... ... I have an eye on his private bathroom.
+E: pause
+N: McClane's face shows his relief (or rather, his attempt not to show any).
+C: HOLLY
+D: So, where are you staying? This * all happened so fast I didn't even ask you on the phone.
+N: McClane finishes drying his face and steps to the bath doorway.
+C: MCCLANE
+D: Well, Cappy Roberts retired out here a couple years ago. He said I could bunk with him.
+C: HOLLY
+D: Oh...Where does he live?
+C: MCCLANE
+D: Ramona...no, Pomona, that's it.
+C: HOLLY
+D: Pomona! You'll be in the car the whole time...Look, let's make this easy. I have a spare bedroom. It's not huge, but the kids would love to have you at the house.
+N: McClane fixes her with a look.
+C: MCCLANE
+D: They would, huh?
+C: HOLLY
+D: I would too. They lock eyes for a moment, but it's an intense moment that says a lot about how they still feel about each other.
+E: beat; honest
+N: Just then a man and a woman, both a little tipsy, open the door to the office, see that it's occupied and beat a hasty retreat. The interruption temporarily dents the mood. Holly tries to smile. But for McClane it's the last frustration.
+C: HOLLY
+D: ...I've missed you. *
+C: MCCLANE
+D: Especially my name. You must miss it every time you write a check. When did you start calling yourself 'Ms. Gennero'?
+C: HOLLY
+D: This is a Japanese company, you know? They figure a married woman, she's on the way out the door...
+E: caught
+C: MCCLANE
+D: Sure. It's unnerving. I remember this one particular married woman, she went out the door so fast there was practically a jetwash...I mean, talk about your wind chill factor...
+C: HOLLY
+D: Didn't we have this same conversation in July? Damn it, John, there was an opportunity out here -- I had to take it --
+C: MCCLANE
+D: No matter what it did to our marriage -- ?
+C: HOLLY
+D: My job and my title and my salary did nothing to our marriage except change your idea of what it should be.
+C: MCCLANE
+D: Oh, here it comes. One of those 'meaningful relationship conversations.' I never should've let you get those magazine subscriptions --
+C: HOLLY
+D: You want to know my idea of a marriage? It's a partnership where people help each other over the rough spots -- console each other when there's a down...and when there's an up, well, hell, a little Goddamn applause or an attaboy wouldn't be too bad. I needed that, John. I deserved that.
+E: quietly pause
+N: There's a clumsy pause as if she's almost challenging him to say...something but he sets his jaw, says nothing. Just then the door opens and Ginny leans inside.
+C: GINNY
+D: Miz Gennero? Mr. Takagi is looking for you...he wants you to say something to the troops...
+C: HOLLY
+D: Thanks, Ginny. I'll be a second. Oh, this is --
+C: MCCLANE
+D: Hi. John Gennero here. I'm the sensitive and supportive man of the eighties.
+E: mock bright 'radio' voice
+N: Ginny looks puzzled, goes out. Holly sighs, moves to the door.
+C: HOLLY
+D: I'll be a few minutes. Wait here --
+C: MCCLANE
+D: Don't I always?
+N: She's gone. Immediately, he slaps his forehead, contrite.
+C: MCCLANE
+D: Schmuck!
+E: to himself
+N: 22- OUT OUT 22-
+S: INT. BUILDING LOBBY - SAME TIME
+N: The Guard at the front desk notices the Emory truck on his monitor. The Guard continues to watch the Emory truck and only half notices as a Mercedes pulls up in front of the building and two extremely well-dressed BUSINESSMAN (late twenties) climb out and start up the stairs for the door. As they cross the lobby to the Guard's table to sign in, we hear their conversation. MAN #1 (THEO) (animatedly) ...So, Kareem rebounds -- listen, this is a great play -- feeds Worthy on the break, over to A.C., to Magic, back to Worthy in the lane and -- Suddenly the other man pulls out a Walther pistol with a silencer and aims it at the Guard's forehead. Before the Guard can react he pulls the trigger.
+C: THEO
+D: Boom...two points.
+E: dryly
+N: (The speed with which the murder takes place sets the tone for the rest of the action.) The killer moves behind the desk, stepping over a small pool of blood from the Guard. His name is KYLE, big, with long blond hair like a rock drummer. Karl takes off the silencer and looks at the video monitor of the Emory truck. The first man, Theo, opens his briefcase, takes out a portable CB radio and speaks into it.
+C: THEO
+D: We're in.
+N: ON THE SCREEN the driver nods at the security camera as several men climb out of the rear of the van and begin unloading wooden crates by the service elevator.
+S: INT. ELLIS' OFFICE - NIGHT
+N: McClane looks at all the lavishness around him and picks up a phone by the toilet. He opens his wallet and takes out the phone number Argyle have him. A photo of his children stops him. It's of Holly, the two children and himself in happier days: Six months ago, before Nakatomi came calling to Holly's door. McClane flips it over. On the back in crude but painstaking hand of a five-year-old it says: WE MISS YOU, DADDY. LOVE LUCY (and in more primitive letters) JOHN. McClane returns the photo to his wallet, dials the number.
+S: INT. BUILDING OPERATIONS CONTROL ROOM
+N: Theo enters the small control room and comfortably sits behind a maintenance keyboard. Whistling a vaguely familiar tune, he TYPES in some commands and locks down the passenger elevators up to the 30th floor. Then with several more computer commands, systematically causes: THE HEAVY STEEL GATES TO THE PARKING GARAGE CLOSE THE ESCALATORS TO THE GARAGE COME TO A STOP OUT OUT CONTROL ROOM - SAME Theo finishes typing and disconnects the keyboard and pulls out the wires from beneath the panel.
+S: INT. LOBBY - SAME
+N: The doors to a service elevator open TO REVEAL HANS GRUBER, impeccably dressed, lean and handsome, he steps out into the lobby like he owns the building -- and in a way he does. Theo steps to the door of the control room and tosses Hans a COMPUTER CARD. Hans goes to the front door, waves the card over a magnetic plate. An LED BLINKS and the door LOCKS with a THUD. Hans looks out at the street. Appropriately enough, "not a creature is stirring." Century City is quiet. 32- OUT OUT 32-
+T: 35-A LOBBY - QUICK CUTS 35-A
+N: An elevator opens REVEALING TEN MORE MEN, all armed with Kalashnikov machine guns are carrying canvas kit bags. One of them, EDDIE, a rugged American in his twenties, goes to the dead guard and immediately begins changing into his cloths. Meanwhile: A) Karl takes a tool case from the elevator and joins his brother TONY, first playfully grabbing him. They head for the basement stairwell; B) Theo leaves the control room and nods to Hans. C) Eddie finished adjusting buttons and snaps on his pilfered uniform, takes his position behind the front desk. HANS looks at his watch and seems pleased. He steps into the service elevator with the others and presses the button for the 30th floor. The entire sequence has taken maybe sixty seconds. INT. ELLIS' BATHROOM - 30th FLOOR - SAME McClane is still barefoot, his pant legs now rolled up above his ankles. He stretches his toes again. Damn, it works. He lights up a new Marlboro, dials a number on the (bathroom) phone.
+S: INT. BUILDING BASEMENT - PHONE ROOM
+N: A large sign says: PACIFIC BELL EMPLOYEES ONLY. Inside Tony stands in front of an intimidating matrix of phone lines -- but what he has in mind won't require a doctorate in Electrical Engineering. Karl comes over, gives his an elder brother's punch on the arm, points out what to do. Together they focus on four CPV plastic conduits which run out of the main panel over their heads. Tony nods. Opens a case REVEALING a compact electric chainsaw.
+S: INT. ELLIS' BATHROOM - RESUME
+C: MCCLANE
+D: Argyle...?
+E: on phone
+S: INT. LIMO
+N: Argyle is reclining on the seat. The music is on so loud that it is nearly impossible to hear.
+C: ARGYLE
+D: Hey, John, what's the word on you and your lady?
+C: MCCLANE'S VOICE
+D: The vote's not in yet.
+S: INT. PHONE ROOM - SAME
+N: Karl cuts through the four tubes one at a time.
+S: INT. ELLIS' BATHROOM - SAME
+N: McClane on the phone.
+C: ARGYLE'S VOICE
+D: 'Vote's not in yet?' What's that supposed to mean.
+E: mocking
+C: MCCLANE
+D: What do you want, 'All My Children'? We're making progress. After I get my foot out of my mouth, we'll really be cooking, and then I can --
+N: He stops and gently taps the phone cradle. No dial tone.
+S: INT. LIMO
+N: Argyle looks at the phone.
+C: ARGYLE
+D: What?...Mr. Mac, you there?
+N: He turns down the music but there is on one on the line.
+C: ARGYLE
+D: Well, call me back, John. You got the number.
+E: to himself
+N: He hangs up and turns the volume back up. ELLIS' OFFICE McClane hangs up the original phone and then tries the other one on the desk. It, too, is dead.
+S: INT. SERVICE ELEVATOR
+N: Hans and the others approaching the 30th floor. As they grow closer, we hear the noise of the speakers growing louder and louder. The men cock their weapons and brace themselves as the car stops and the elevator doors open. ON THE SOUND OF GUNSHOTS AND SCREAMS WE:
+T: CUT TO:
+S: INT. ELLIS' OFFICE
+N: McClane grabs his shoulder harness off the back of the chair, moves quickly to the doorway. He looks down the hall. MCCLANE'S P.O.V. Two terrorists, FRANCE and FRITZ, armed with M-5 machine guns searching the offices on the hall one by one. They open a door, look in from the hallway, and move on quickly to the next. They are four offices away and moving fast. McClane looks across the corridor and sees the stairwell door -- too far to reach without being seen. MCCLANE steps back, throws off the safety on his Beretta and braces himself. He opens the door, peers through a crack at: HALLWAY - FRANCE AND FRITZ QUICK CUTS as McClane's eyes SCAN their weapons...he's totally outgunned, and he knows it. Franco and Fritz reach the office just before Ellis' and throw open the door REVEALING the man and woman who interrupted Holly and McClane a few minutes before, now in the throes of passionate lovemaking on the desk. The two terrorists smile at each other, then enter the office. A moment later the man, (trying desperately to pull up his pants) and the woman (buttoning her blouse) are pushed out into the hall and toward the larger group by Fritz. The other terrorist, Franco, goes to Ellis' office and opens the door. It is...empty.
+S: INT. STAIRWELL - SAME
+N: CLOSE ON McClane's bare feet padding quickly up the concrete stairs, two at a time. We FOLLOW him up, then out onto the: 50-A 31th FLOOR 50-A This is the mezzanine floor immediately above the main Nakatomi lobby. McClane sees Theo and KRISTOFF wheeling carts of equipment. McClane ducks back into the stairwell, he runs up another flight and out onto: UNFINISHED FLOOR Eventually it will be one large secretarial pool, but only a portion is completed. Half-finished partitions and office furniture in its original plastic wrappings are everywhere. One end has a few lonely finished working areas. McClane moves quickly to a desk and picks up a phone. It's out.
+C: MCCLANE
+D: Shit...
+N: He looks out the window at: 51-A NEIGHBORING BUILDING - MCCLANE'S P.O.V. 51-A A high-rise apartment building a half-block away sparkles with lights. McClane stares at a PRETTY GIRL in her bedroom. She's wearing drop dead underwear right out of the Victoria's Secret catalog. As we watch, she flops down on her bed, and with one long leg in the air, effortlessly dials a call on her high-tech phone. It seems so easy. 51-B BACK TO SCENE 51-B Frustrated, he watches this, knits his brow.
+C: MCCLANE
+D: Think...
+N: INT. 30th FLOOR (HOSTAGE FLOOR) - SAME The employees have been herded to the center of the room where the desks have been pulled back. Many people are whimpering. 52-A HOLLY 52-A She looks around the room for McClane. She's so intent on this that she doesn't see one TERRORIST waving her forward. Exasperated, he SHOVES her. Her glare at him shows us her mettle. 52-B WIDER 52-B As the employees are bunched together, Ellis seeks out Holly. He's clearly scared but trying to fake courage. He pats her hand "reassuringly." Hans steps up on top of a desk and looks over the group. He reaches into a pocket...several people CRINGE...but what he comes out with is a Bottega Venata pocket notebook. He checks his own scribblings like a dais speaker.
+C: HANS
+D: Ladies and gentlemen, due to the Nakatomi Corporation's legacy of greed around the globe, it is about to be taught a lesson on real power. You...will be witnesses. If our demands are not met, however -- -- You may become participants instead. Now, where is...'Takagi'? Where is the man who... ...used to be in charge here?
+E: soothing, in control sad smile beat, checking notes slight smile
+N: Takagi is shoved forward. He's worried but far from cowed. Hans steps towards him. Extends a hand.
+C: HANS
+D: Mr. Takagi. How do you do. My name is Hans Gruber.
+E: quite civil
+N: Takagi is confused by his charm. Hans waves politely in the direction of an elevator and with an armed escort takes the executive away. CAMERA ADJUSTS to show Holly, concerned. INT. STAIRWELL - 33rd FLOOR - SAME McClane pauses outside the stairwell door to the 33rd floor, he presses the handle and cracks the door open TO REVEAL a computer floor. The computer machinery drones on under the lights behind plate glass windows. McClane quietly closes the door and moves to another floor.
+C: MCCLANE
+D: 32 construction...33 computers...
+E: mumbling to himself
+N: 57- OUT OUT 57-
+S: INT. SERVICE ELEVATOR - NIGHT
+N: Hans, Takagi, Karl and Tony. Riding silently. Hans alone seems relaxed. He whistles. We recognize it as a snatch of Wagner.
+C: HANS
+D: Nice suit. John Philips...London?
+N: Takagi stares at him, speechless.
+C: HANS
+D: I have two myself. I'm told Arafat shops there too...
+E: smiles beat, as he exits:
+S: INT. STAIRWELL
+N: McClane starts to open the stairwell door to the Machine Floor when a NOISE above him gets his attention. He moves silently up one flight to the roof. Quietly, he cracks the door and looks out onto a Machine Floor on the lower level of the roof. MCCLANE'S P.O.V. Three terrorist, JAMES, ULI and HEINRICH, are unpacking the wooden crates we saw in the garage from the service elevator. It's not clear what they're doing but it seems very military like and ominously defensive. Heinrich POINTS up to the ceiling and says something in German. The others nod. Heinrich starts to turn towards the CAMERA and: MCCLANE closes the door and slips back down the stairs.
+S: INT. CONFERENCE ROOM - BOARD ROOM FLOOR - NIGHT
+N: Hands enters, looks around. * HANS * And when Alexander saw the breadth of his domain, he wept. For there were no more worlds to conquer. (to Takagi) The benefits of a classical education. Hans admired a scale model of a bridge. Behind him are * photographs of the gorge where the bridge will be constructed. Karl and Tony listen. Takagi watches.
+C: HANS
+D: It's beautiful. I always enjoyed models as a boy. The exactness, the attention to every foreseeable detail... perfection.
+C: TAKAGI
+D: This is what this is about? Out building project in Indonesia? Contrary to what you people think, we're going to develop that region... not 'exploit' it.
+E: defensively
+N: Hans straightens, looks hard at Takagi.
+C: HANS
+D: I believe you. I read the article in Forbes. *
+E: smiling
+N: Takagi looks confused. Hans puts a friendly arm around Takagi's shoulders and guides him into the adjacent board room where Theo types in commands onto a built-in computer console.
+C: HANS
+D: Mr. Takagi, we could discuss industrialization of men's fashions all day, but I'm afraid my associate, Mr. Theo, has some questions for you. Sort of fill-in-the blanks questions actually...
+T: JUMP CUT:
+N: A COMPUTER SCREEN SPITS OUT:
+C: NAKATOMI CORPORATION. BOARD WORKSTATION.
+D: ENTER CENTRAL COMPUTER CODE KEY _ _ _ _.
+N: THEO sits fingers poised over the keyboard. Hans sits opposite. Takagi stands like the accused at the foot of the table, has just read the screen, blurts:
+C: TAKAGI
+D: I don't have that code...! You broke in here to access out computer?!? Any information you could get -- they wake up in Tokyo in the morning, they'll change it! You won't be able to blackmail our executives or threaten --
+E: beat; to Hans
+N: Hans barks him to silence:
+C: HANS
+D: SIT DOWN!
+N: Takagi complies. Hans is abruptly compassionate and quiet.
+C: HANS
+D: Mr. Takagi...I'm not interested in your computer. I'm interested in the 640 million dollars in negotiable bearer bonds you have in you vault.
+E: beat
+N: ON Takagi's reaction.
+C: HANS
+D: Yes...I know about them. The code key is a necessary step in accessing the vault.
+C: TAKAGI
+D: You want...money? What kind of terrorists are you?
+C: HANS
+D: Who said we were terrorists?
+E: amused
+N: 65-A MCCLANE - ENTERING THIS FLOOR 65-A He tiptoes along, gun held ready. He can HEAR the MUMBLE of voices from the conference room, moves slowly towards it. 65-B CONFERENCE ROOM - RESUME 65-B Hans slowly takes out his Walther and his silencer. He feels his silencer a moment, as if making a decision, then slips it back into his coat pocket.
+C: HANS
+D: The code key, please...?
+E: weighing the gun
+C: TAKAGI
+D: It's useless to you! There's seven safeguards on our vault, and the code key is only one of them! You'll never get it open!
+N: Hans lifts the gun.
+C: HANS
+D: Then there's no reason not to tell it to us.
+C: THEO
+D: I told you...
+E: aside to Karl
+C: KARL
+D: It's not over...
+N: Hans gives them both a look like an annoyed schoolmaster, turns back to Takagi.
+C: HANS
+D: This is too nice a suit to ruin, Mr. Takagi. I'm going to count to three. There will not be a four. Give me the code.
+N: He cocks the gun:
+C: TAKAGI
+D: I don't know it! get on a Goddamn jet to Tokyo and ask the chairman! I'm telling you! You're just going to have to kill me --
+C: HANS
+D: Okay.
+N: BANG!! He pulls the trigger: 66 OUT IN THE MUSEUM - MCCLANE 66 * reacts as if shot. A66-A HIS P.O.V. A66-A * The glass doors to the boardroom are splattered red and dripping... 66-A INSIDE 66-A Takagi is still seated, but the chair in flat on its back, blood flowing out into the carpet. Hans springs to his feet:
+C: HANS
+D: We do it the hard way! Tony, see if you can dispose of that. Karl, you'd better check Heinrich's work up on the machine floor.
+E: the body
+N: Karl, in the midst of handing Theo a fifty dollar bill, nods. OUTSIDE - MCCLANE stunned, sees Hans move and tries to retreat. But his gun bumps the underside of the table: INSIDE - HANS hears it. Karl is the first to move: KARL springs through the door, finds nothing. He checks two adjoining rooms, the first is deserted. The second...is locked. KARL returns to Hans.
+C: KARL
+D: Nothing...
+C: HANS
+D: See to Heinrich... Now...you can break the code key...?
+E: nods to Theo
+C: THEO
+D: You didn't bring me along for my charming personality.
+E: grins
+N: As he heads for the elevator.
+C: THEO
+D: 'Though you could have...
+E: under his breath
+N: Hans smiles, confident in his team, and follows. CAMERA SETTLES ON the door that Karl found locked. INSIDE THE SUPPLY CLOSET - MCCLANE slowly lets out a breath, praying softly:
+C: MCCLANE
+D: Argyle. Tell me you heard the shot. Tell me you heard the shot and you're calling the police right now...
+T: CUT TO:
+S: INT. LIMO - PARKING GARAGE
+N: Argyle is on the car phone. The music is playing.
+C: ARGYLE
+D: I'm working, honey. Working hard. 'Course I'll be by later to pick you up, have I ever lies to you? My boss? He thinks I'm cruising to Palm Springs...
+N: 72-A MACHINE LEVEL - TIGHT ON CEILING 72-A Heinrich PRESSES something into a niche here, scrambles like a monkey to a new position. Helped by one of his men, he JUMPS down, moves to another area, climbs up again, removing something from his shoulder bag. VAULT ROOM - 31ST FLOOR Hans and Theo enter the safe room. The huge corporate safe looms in front of them. Theo places three kit bags onto a table and rolls up his sleeves. He swivels a computer console into handy reach, sits down.
+C: HANS
+D: How long?
+C: THEO
+D: Thirty minutes to break the code... Two hours for the five mechanicals. The seventh lock...that's out of my hands.
+C: HANS
+D: If out plan works...the FBI will get rid of it for us.
+N: Theo grins, begins typing. 73-A HIS SCREEN 73-A He types BEGIN ALGORITHM CODE PROGRAM. RANDOM NUMBERS AND LETTERS begin going by: AAAAA; 11111; AAAAB; 11112. 32ND FLOOR McClane moves out onto the 31st floor, angry at himself.
+C: MCCLANE
+D: Why the fuck didn't you stop him? Because, you ignorant sonofabitch, you'd be dead, too. Think...think, Goddamnit!
+E: beat
+N: Suddenly he looks up at the ceiling and sees a sprinkler head. His look drops to the wall and focuses on a small red fire alarm switch by the door.
+S: INT. MAIN FLOOR - L.A. FIRE STATION - NIGHT
+N: An ALARM sounds. Quickly firemen move to their machines as a voice of a 911 DISPATCHER drones. 911 DISPATCHER Main Wilshire units. Two alarm fire at Nakatomi Plaza -- The voice continues as the station doors open and we:
+T: CUT TO:
+S: INT. NAKATOMI - GROUND FLOOR OPERATIONS ROOM - SAME
+N: A fire alarm indicator light showing which floor has sounded the fire alarm -- suddenly begins flashing, emitting short, loud beeps. Eddie, the terrorist in the guard's uniform and manning the station, immediately picks up his CB. 32ND FLOOR - SAME McClane stands at windows looking Northward for fire trucks. Suddenly we SEE the flashing red lights of FOUR ENGINES in traffic two miles away.
+C: MCCLANE
+D: C'mon, baby...come to Papa. I'm gonna kiss your Goddamn dalmatian.
+S: INT. SERVICE ELEVATOR - ON HANS - SAME
+N: He rides the elevator back to the 30th floor with Tony.
+C: HANS
+D: Call 911, give them the name and badge number on your uniform and cancel the alarm...then disable the system. Eddie? What floor did the alarm go off?
+E: calmly, to Eddie on CB looks across at Tony, presses talk button again
+N: 78-A MACHINE FLOOR 78-A They've heard the alarm here, too. Heinrich, Marco and * Uli HEAR the alarm and continue their mysterious work. UNFINISHED FLOOR - SAME McClane stands silhouetted against the window. In the distance he can see another fire truck swing off Santa Monica onto Avenue of the Stars. Suddenly the red light on the first truck goes out, then on the second. McClane watches in disbelief. The trucks slow and turn down separate side streets, heading for home.
+C: MCCLANE
+D: Son of a bitch...
+E: realizing
+N: Just then the elevator bell rings and we HEAR the ELEVATOR DOORS OPEN. A figure (Tony) slips into the shadows -- his machine gun drawn. We MOVE WITH HIM FROM the elevator area until he reaches the light switch and throws it illuminating the entire floor. McClane is gone. ON MCCLANE under a desk. He takes in his options. HIS P.O.V. The feet of Tony. They move slowly in his direction. McClane Looks down the aisle next to the windows. It leads to a series of cubicles at the other end of the floor and is a clear path if he can make it past Tony. TONY He moves steadily toward the area where we saw McClane.
+C: TONY
+D: The fire has been called off, my friend. No one is coming to help you. You might as well come out and join the others. I promise not to hurt you.
+E: fingers the trigger of his machine gun
+N: Moving more confidently, he steps up to McClane's desk, then around it and fires a blast into the space. It is empty. As the SOUND OF THE MACHINE GUN FADES he listens and hears another SOUND -- a NOISE coming from the other end of the room near the cubicles. Tony heads toward the noise. Sensing a trap, he moves past each cubicle carefully, checking each office until he reaches the doorway of the last one. The sound is just around the partition. He tenses, then spins into the cubicle. TONY'S P.O.V. A radial arm saw spins noisily. TONY grins at his nervousness. He moves to turn it off, not realizing the sound has buried the soft rustle of McClane, steps INTO FRAME behind him, McClane shoves his pistol barrel against Tony's temple.
+C: MCCLANE
+D: Freeze, Police...don't move or name your beneficiary.
+N: Tony doesn't. McClane cocks his Beretta. Tony watches him calmly.
+C: TONY
+D: You won't hurt me.
+C: MCCLANE
+D: Yeah? Why not?
+C: TONY
+D: Because you are a policeman. There are rules for policemen.
+E: smug
+C: MCCLANE
+D: Yeah. My Captain keeps telling me the same thing.
+N: McClane suddenly PISTOL WHIPS Tony across the head. Tony REELS, then swallows, worried for the first time.
+C: MCCLANE
+D: Let's go.
+N: Suddenly Tony spins to the side and McClane FIRES, but the big man's momentum slams McClane into a filing cabinet and sends his pistol into the hall. Tony fires his machine gun, but McClane kicks him into the desk. He locks his arms around the big man's neck in a hold that sends Tony reeling into the hall. McClane holds on as they slam through several plastic board partitions. They careen across the hall into the stairwell door, opening it, and crash into: STAIRWELL LANDING then down the concrete steps into the wall on the landing below. For a moment, both men lie still. McClane, still holding onto Tony's neck, releases it and the man's head flops sickeningly to the side. For a moment McClane just looks at the dead man. Then, slowly, methodically, he begins to SEARCH HIM. He turns all his pockets inside out, looks at his clothing labels, stares long and very hard at a California driver's license with Tony's picture on it. He expertly examines the machine gun when a HISSING SOUND coming from somewhere attracts his attention. He rises, moves cautiously to the source. 85-A NEW ANGLE 85-A It's Tony's CB, which has fallen from the dead man's waist during the struggle. McClane stares at it, formulating a plan.
+T: CUT TO:
+S: INT. 32ND FLOOR - NIGHT
+N: PAN FROM Tony's now shoeless feet TO McClane, who sits on the floor near the body hurriedly lacing up the dead terrorist's boots on his own feet. He ties the last lace and tries to take a couple of steps. He winces in pain, goes off balance. Quickly he starts taking the boots off.
+C: MCCLANE
+D: A million terrorists in the world and I kill the one with feet smaller than my sister.
+N: He yanks off the boots and tosses them into the garbage. Then he pulls the body up and sets it down on a secretary's chair. He starts to push it along when he gets an idea and moves to: 86-A A DESK 86-A Where he scribbles a note we cannot read on a piece of paper. Then his eyes fall on some Xmas decorations nearby. He smiles to himself. 86-B IN THE ELEVATOR - UNFINISHED FLOOR 86-B TIGHT ON McClane's back as he pushes Tony's body on swivel chair into the elevator. (NOTE: WE CANNOT SEE TONY'S HEAD) CAMERA ADJUSTS as McClane pushes the buttons for the 31th and 30th floors. We notice he's got the dead man's machine gun and that a wooden desk ruler protrudes from McClane's back pocket. The elevator doors close and the car starts down. After it's dropped only half a floor, McClane forces the doors open with his fingers -- stopping the car between floors. Using the ruler he blocks open the inside doors, then opens the outside doors of the floor above (31st) with his fingers and pulls himself up onto the carpeted floor, then up onto the roof of the car. Once on the roof of the car he reaches over the edge and removes the ruler, closing the inside doors and setting the car in motion again. 86-C HOSTAGE FLOOR 86-C The hostages have been gathered together in a group in the center of the open floor, guards flanking them. The elevators are barely visible from the edge of the group, which is where Ginny and Holly are sitting. Ginny winces, uncomfortable on the floor. Holly soothes her. Hans stands in front of them like a stern camp counselor in front of the assembled bunk.
+C: HANS
+D: I wanted this to be professional, efficient, adult, cooperative. Not a lot to ask. Alas, your Mr. Takagi did not see it that way... So he won't be joining us for the rest of his life. We are prepared to go any way you make us. When we have achieved our aims you can walk out of here... or be carried out. Decide now, each of you. But remember that we have planned everything to the last detail. We are completely in change.
+E: harder as that sinks in
+N: A "DING" attracts his attention. He turns. NEW ANGLE The elevator doors OPEN and Fritz, guarding the area. WHIRLS, gun held ready. His jaw drop as he sees: 87-A TONY'S BODY - HIS P.O.V. 87-A Still and dead, flopped in a swivel chair, a red Santa hat gaily placed on his head. 87-B HANS 87-B REACTS.
+C: HANS
+D: Get them over there. Schnell!
+E: indicating the hostages
+N: The guards quickly hustle the hostages away as Hans crosses to the elevator, but for before. 87-C HOLLY 87-C Sees the body...and REACTS. She knows her husband's abilities... not to mention his twisted sense of humor. 87-D NEAR THE ELEVATOR 87-D As Fritz stands there, confused, Hans comes to the elevator with Franco, lifts Tony's chin and sees that his neck has been snapped. He sees a folded piece of paper in Tony's collar, takes it out. 87-E INSERT - THE NOTE 87-E It reads, "Now I have a machine gun. HO-HO-HO." 87-F BACK TO SCENE 87-E
+C: FRITZ
+D: Perhaps a security guard we overlooked...?
+N: Hans lifts Tony's chin again, lets the head flop over.
+C: HANS
+D: Security guard? They're usually tired and burned out old policemen growing * fat on a pension...This is... something else.
+E: thoughtfully
+N: 87-G ROOF OF ELEVATOR - SAME TIME 87-G McClane is staring through a tiny crack at the scene below him. CAMERA ADJUSTS from Fritz in the b.g. to Hans and France just below. McClane is WRITING in his weather-beaten cop's notebook. The first notation is NUMBER OF HOSTAGES: HOLLY + 30 -- odd. Then it says, NUMBER OF TERRORISTS? As we watch, he adds "3 ? 1 87-H in Lobby (?) and 2+ with hostages?? Plus ones on 87-H roof (3)."
+C: FRITZ'S VOICE
+D: We have to do something, Hans.
+E: slightly spooked
+C: HANS' VOICE
+D: Yes...we have to tell Karl his brother is dead. Tell him to come down.
+E: not pleased
+N: Now McClane writes "HANS=LEADER. Karl=BROTHER. USE THIS?" As Fritz calls Karl on his CB, Hans looks at Franco.
+C: HANS
+D: Franco, you and Fritz take the body upstairs and out of sight. I don't want the hostages to think too much.
+S: INT. ELEVATOR SHAFT - CAR ROOF - ON MCCLANE - SAME
+N: On top of the car, listening to the conversation below. Franco and Fritz step into the car and the doors on the elevator close. The car accelerates upward and McClane grabs onto the heavy, grease-coated cables to keep his balance. Already his clothes are soiled; his face and feet, arms and hair are dark from the dirt and sweat. The car speeds up the shaft -- passing the car bringing Karl down to the hostage floor -- and stops at the machine floor. The doors open and McClane hears them roll the chair with the body off the car. McClane looks up. MCCLANE'S P.O.V. A metal catwalk runs around the inside of the elevator shaft. MCCLANE pulls himself up onto it. As he moves along the catwalk looking for a way out, he passes an unmarked metal door, 2'x3'. McClane pushes it open and looks in. MCCLANE'S P.O.V. Total darkness. MCCLANE takes out a coin. A quarter. He stops, switches to a nickel. Throws it into the void. It is a full four seconds until we HEAR it "CHING" and bounce on concrete far below. You don't have to be a mathematics whiz to know it's a long drop.
+C: MCCLANE
+D: Jesus...
+N: He moves cautiously around a corner and we SEE a metal ladder leading up to a door marked PUMP ROOM. Opening the door McClane enters a darkened: PUMP ROOM damp and full of pipes and goes to another door. He cracks the door and looks out. MCCLANE'S P.O.V. The lower level of the roof. Open and deserted. Only a heliport above him is higher. 30TH FLOOR (HOSTAGE FLOOR) - HOLLY'S OFFICE - SAME WIDEN as a FILING CABINET is FLUNG across the floor, drawers SLAMMING out, papers flying. KARL has done this, and he's * barely started. He FLINGS a LAMP against a wall, PUNCHES a hole into the plaster. Finally, Hans goes to him, lays controlling hands on the man's shoulder.
+C: HANS
+D: I know what you are feeling. But this is not productive --
+C: KARL
+D: He was my only brother...my only family! I want blood for my blood. We search...now.
+E: pushing him away a flat statement
+N: He starts to move. Hans stops him.
+C: HANS
+D: No. Heinrich's team must finish planting the detonators...and Theo needs time on the vault. After the * police come they'll waste hours trying to negotiate...that's when we search * for this man. Until then...we do not alter the plan.
+E: firmly
+C: KARL
+D: And if he alters it...? *
+E: quietly
+N: For once Hands doesn't have an answer. 95-A HOSTAGES - AROUND THE CORNER 95-A They've heard the alarm, can see and sense the agitation among their captors. Ellis slides over to Holly.
+C: ELLIS
+D: What's happening?
+C: HOLLY
+D: They don't look happy...something's gone wrong.
+C: ELLIS
+D: The police...?
+C: HOLLY
+D: John.
+E: shaking her head
+C: ELLIS
+D: John? Christ, he could fuck this whole thing up...what does he think he's doing?
+C: HOLLY
+D: How about his job?
+C: ELLIS
+D: His 'job' is 3000 miles away. Without him, they might let us go...at least we have a chance...
+C: HOLLY
+D: Tell that to Mr. Takagi.
+E: quietly
+S: EXT. ROOF - NIGHT
+N: McClane climbs to the heliport and leans against the leeward side of a wall surrounding it. Shielded from wind, he pulls out the CB, turns to channel nine, and starts broadcasting.
+C: MCCLANE
+D: Mayday, Mayday! Anyone! Terrorists have seized and Nakatomi building and are holding 30 or more hostages! I say again --
+N: OUT OUT
+S: INT. HANS' OFFICE - SAME
+N: Hans, Karl, Fritz and France hear the clear signal over Hans' CB.
+C: MCCLANE'S VOICE
+D: -- unknown number of terrorists, six or more, armed with automatic weapons at Nakatomi, Century City... Somebody answer me, Goddamnit!
+N: Karl looks almost...satisfied.
+C: HANS
+D: The roof. It's the best place to transmit.
+N: They move.
+S: INT. LOS ANGLES EMERGENCY DISPATCH CENTER - SAME
+N: A SUPERVISOR weaves her way back from the break room toward a DISPATCHER who is monitoring the call.
+C: DISPATCHER
+D: It's the same address as that fire signal -- *
+C: SUPERVISOR
+D: -- the false alarm? I'll handle * it.
+E: frowning
+N: She plugs in her headset. (Her condescending, arrogant tone is like the one in the famous tape where the dispatch lady spends so much time on red tape that the patient dies.)
+C: SUPERVISOR
+D: Attention, whoever you are. This channel is reserved for emergency calls only --
+E: into mike
+C: MCCLANE'S VOICE
+D: No fucking shit, lady! Do I sound like I'm ordering a pizza?
+N: OUT OUT
+S: INT. SERVICE ELEVATOR - ON KARL - SAME
+N: with Franco and Fritz.
+C: KARL
+D: No one kills him but me.
+N: It's an order and the look he gives the other two backs it up. Karl checks his magazine, SLAPS it into his rifle as the elevator opens to the roof.
+S: EXT. UPPER ROOF
+N: McClane moves around the roof, circling the helipad, making sure he has a good enough view to avoid being ambushed. He can't see in all directions at once but he's doing the best he can.
+C: MCCLANE
+D: They've already killed one hostage, and they're fortifying their positions while we're bullshitting! Now, send police backup ASAP!
+C: SUPERVISOR'S VOICE
+D: Sir, I've already told you, this is a reserved channel. If this is an emergency call, dial 911 on your telephone. Otherwise I will report you to the police --
+C: MCCLANE
+D: -- fine! Report me! Hey, come down here and fucking arrest me! Send the police. NOW -- !
+E: to the radio
+N: Suddenly machine gun shells rip into the concrete wall in front of him. The noise is deadening as we:
+T: CUT TO:
+S: INT. DISPATCHER OFFICE - SAME
+N: Both Supervisor and Dispatcher reach for their headsets in pain from the INTENSE SOUND and: OUT OUT
+S: EXT. ROOF - ON MCCLANE - SAME
+N: Running. Tracer bullets rip into the wall behind him. He reaches the corner and sees the other two terrorists moving toward him. Before they see him, he leaps down to the next level out of range of Karl.
+S: INT. EMERGENCY DISPATCH - SAME
+N: The Dispatcher looks critically at the Supervisor in the sudden silence.
+C: SUPERVISOR
+D: Ad...have a black-and-white do a drive-by.
+E: importantly
+T: CUT TO:
+S: INT. 7-11 - AT THE COUNTER - NIGHT
+N: TIGHT as one after another after another HOSTESS TWINKIE is stacked up on the counter. CAMERA WIDENS and we SEE the young male CLERK, who stifles a smile. Another teenage employee behind the counter also smothers a laugh. The customer is POWELL, young for a police veteran, old for the rest of the world.
+C: CLERK
+D: Thought you guys just ate donuts.
+C: POWELL
+D: They're for my wife. She's pregnant. If I knew she was gonna eat a dozen at a shot, I woulda bought stock in the company.
+N: The Clerk nods and puts them in a bag. As Powell pays, suddenly his BELT RADIO crackles to life.
+C: DISPATCHER'S VOICE/RADIO
+D: Dispatch to One Adam Ten, over.
+N: Powell grabs the radio, speaks into it.
+C: POWELL
+D: One Adam Ten, go ahead.
+C: DISPATCHER'S VOICE/RADIO
+D: Investigate a code two at Nakatomi Plaza, Century City.
+C: POWELL
+D: Nakatomi Plaza?
+E: thinking
+N: He moves to the door, steps outside.
+S: 107-A EXT. CONVENIENCE STORE 107-A
+N: Powell looks towards the horizon and up. There it is, Nakatomi, in all its gleaming glory.
+C: DISPATCH VOICE
+D: One Adam Ten, do you copy?
+N: Powell is already moving to the car. He tosses in the twinkies, hops behind the wheel.
+C: POWELL
+D: Roger, dispatch. I'm on the way.
+E: into police radio
+N: And he BURNS RUBBER leaving the store:
+T: CUT TO:
+S: EXT. ROOF - ON MCCLANE - NIGHT
+N: running for his life, from Fritz and Franco, doesn't realize he is being herded around the building toward Karl. Suddenly McClane turns a corner and sees Karl. The big man fires a burst and McClane ducks back stopping at the exterior door to the pump room he used before. It is locked from the inside. He BLOWS the lock off with a burst from his machine gun and slips into the darkness of the: ELEVATOR SHAFT NEAR PUMP ROOM Coming quickly out of the pump room, McClane picks his way over the same ground as a few minutes before and opens the door to the elevator shaft. The dimly lit shaft yawns before him. He starts down the ladder back to the catwalk, moves along it -- STOPS. The catwalk ends, and the elevator is gone.
+S: 109-A INT. PUMP ROOM - OTHER END 109-A
+N: Karl crosses, starts to open the door to the elevator shaft when suddenly their radio crackles with --
+C: HANS' VOICE
+D: Karl? Franco? Did you catch him?
+C: FRANCO
+D: No, but he's in the elevator shaft.
+C: HANS' VOICE
+D: Prefect. The elevators are locked off. * He can't escape. Just shut him in and return to base.
+C: KARL
+D: Hans, he killed by brother --
+C: HANS
+D: Karl, I know you want him, but the police are probably on their way. Maybe we can convince them it was all a mistake, but not if they hear gunshots! If you lock him in he'll be neutralized -- now do it! Karl? Karl!
+E: more firmly
+N: Karl turns off his radio. In the light of their flashlights, the two other terrorists look at Karl in stunned disbelief. He opens the door to the elevator shaft.
+S: 109-B INT. ELEVATOR SHAFT - ON MCCLANE 109-B
+N: He's OVERHEARD enough of this to realize he's in deep shit. He backtracks to the air shaft door, strikes a cigarette lighter. 110- OUT OUT 110- 117-A ELEVATOR SHAFT (OPPOSITE SIDE) 117-A Karl steps off the ladder to the catwalk, his own gun held * ready. MCCLANE HEARING Karl's approach, McClane thinks fast, looks down at his narrow confines, and then at: 118-A HIS WEAPON 118-A and its canvas gunsling and metal strap slides. 118-B BACK TO SCENE 118-B Quickly, McClane lets out all the slack in the sling. Then, he BRACES the weapon across the outside opening of the air shaft door and lowers himself into the: AIR SHAFT meanwhile holding onto the canvas sling with his elbows bent over it like a kid doing a half-asses skin-the-cat on a swing set. His feet slowly move down the smooth aluminum walls until they reach the top of the air duct, then DANGLE in the open space. He straightens his arms to give him length enough to touch the bottom edge of the duct. Suddenly he FEELS something GIVE above him and looks up. CLOSE ON THE SLING It was designed to carry a gun on a man, not vice versa. The few inches of extra canvas are sliding through the clips. When they're gone...he will be too. KARL He moves silently toward the corner. CLOSE - MCCLANE'S TOES now only inches from the bottom edge. McClane's arms are fully extended now. He hears Karl on the metal catwalk. His muscles strain and quiver. THE SLING One of the canvas end slips through the clip. ON MCCLANE FALLING. He grabs the ledge of the air duct as he falls and his body slams into the aluminum wall with an echoing BOOM. Above him on the catwalk the rifle rattles on the metal outside the door. ON KARL Around the corner Karl FREEZES, unsure of the sound: ON MCCLANE holding onto the ledge by his hands. With every ounce of strength he tries to pull himself up into the horizontal duct, clawing for a hold. ON KARL He rounds the corner and sees McClane's rifle lying beneath the doorway. He moves to the small door, shines his light and aims his rifle down into the air shaft ready to fire. HIS P.O.V. The shaft is deserted. Moving his light around he sees the air duct. Without hesitation he turns and backtracks to the pump room door.
+S: INT. AIR CONDITIONING DUCT - ON MCCLANE - SAME
+N: He lies exhausted and motionless in the narrow crawl space. He awkwardly fishes out the lighter from his shirt pocket and thumbs it ON. The flickering GLOW shows him this ain't no place for claustrophobics -- it's a long, long long dark and narrow corridor full of weird shadows. The far end (if there even if one?) is BLACK.
+C: MCCLANE
+D: Whew...for a moment there I was worried.
+N: He turns out his lighter, and starts crawling. 130- OUT OUT 130- 133 133-
+S: 133-A INT. MACHINE FLOOR 133-A
+N: The three terrorists rush down from the roof in hot pursuit, Karl leading the way through the door. Karl points quickly to the left and right where there are a series of rooms. The others checks these while Karl approaches the CAMERA, trigger finger ITCHING. Almost immediately, the others return.
+C: FRANCO
+D: Nothing.
+E: a whisper
+N: Karl looks puzzled. Then he thinks, mentally retracing McClane's few options. Karl's eyes scan the architecture here, and then suddenly he looks UP. 133-B OUT OUT 133-B * 134 HIS P.O.V. 134 * The ceiling is criss-crossed with air ducts. He fires a * burst into the ducts.
+S: INT. AIR DUCT - SAME
+N: McClane remains motionless in the air duct. Three quarter-size holes inches from his face show how close Karl came to nailing him. Sweat covers his face, drips silently onto the aluminum. MACHINE ROOM Karl listens patiently for sound. Just then the two other terrorists return.
+C: FRANCO
+D: Nothing.
+N: Karl hesitates a moment, fighting his instincts before finally turning to go. Suddenly the duct McClane is in GROANS slightly under his weight. Karl stops and looks up at the matrix of aluminum duct work, trying to single out the source of the sound. He steps back into the room and raises his rifle. Holding it upright he presses the barrel up into the belly of McClane's air duct, feeling for weight -- the weight of a body. INSIDE THE AIR DUCT McClane sees the indention of the barrel pressing into the aluminum fifteen feet away. There is a pause and another three feet closer. He can hear Karl's footsteps on the concrete -- moving slowly below the duct. ON KARL His eyes are fixed above him on the air duct. He presses the barrel up again. Still nothing. ON MCCLANE Silently he moves his hand, slowly draws his Beretta. The next indention presses up six feet away. McClane points his gun downward and waits. KARL stops directly below him. The barrel starts up and just touches the duct under McClane when Franco returns to the door and calls:
+C: FRANCO
+D: Karl! Police! Come on.
+N: Karl hesitates then lowers his gun and leaves. CLOSE - MCCLANE He hears the door close and lowers his head.
+S: 141-A INT. 33RD FLOOR - SAFE ROOM 141-A
+N: The large LED WINDOW in the front of the safe BEEPS and letters creep by: ACCESS CODE ACCEPTED. We HEAR a CLUNK. CAMERA ADJUSTS to show Theo, who grins. Now his computer screen reads, LOCK #1 DISABLED. DO YOU WISH TO PROCEED? Theo puts goggles on his eyes, holds out his hands towards Kristoff like a doctor requesting a scalpel. Kristoff gives him a GIANT DRILL.
+C: THEO
+D: You bet your ass I'm gonna proceed.
+N: He turns on the drill: OUT OUT
+S: EXT. CENTURY CITY - AVENUE OF THE STARS - NIGHT
+N: The street is empty, quiet. A lone police black-and-white pulls out of the shadows of a side street and begins a slow cruise toward the Nakatomi building. ON POWELL Driving, alone. He starts up at the tower. It seems calm, its glowing lights matching the warmth of the holiday decorations on the streets. Powell slows to a stop and scans the premises. In the lobby we SEE Eddie, sitting behind the desk. Powell reports to his radio.
+C: POWELL
+D: Guard inside. No signs of disturbance ...I'm going up for a closer look.
+N: He pulls in and parks in the front.
+S: INT. MACHINE ROOM - SAME
+N: McClane punches out a ceiling vent and drops down into the machine room. For a moment he stands, listening for sounds of movement. The floor is quiet. He goes to the stairwell.
+S: EXT. ROOF - SAME
+N: The edge of the roof. Suddenly a tall terrorist, James, moves along the wall and looks over at Powell's car.
+S: INT. 3RD FLOOR - SAME
+N: The elevator doors open on Karl, Franco and Fritz. They * step out onto the darkened floor. We SEE large number "3" painted on the doors of this floor. They move quickly toward the windows on the Avenue of the Stars side where a terrorist, ALEXANDER, with a BAR rifle has set up a machine gun nest under a half-opened window. Directly below him we SEE Powell's car. Alexander PANS the police car with his weapon, finger on the trigger. This is clearly a man hungry for action. 30TH FLOOR (HANS' OFFICE) - SAME Hans watches from above. He raises his CB.
+C: HANS
+D: Eddie?
+E: his usual calm
+S: INT. LOBBY - SAME
+N: Eddie picks up his CB. He watches Powell coming up the stairs.
+C: EDDIE
+D: Had a feeling you'd be calling...
+E: to CB
+C: HANS' VOICE
+D: Let him in.
+N: Eddie is a little startled, but he moves quickly. 149-A ALEXANDER 149-A also hears this, and his eager expression fades. But orders are orders.
+S: EXT. FRONT DOOR OF NAKATOMI - SAME
+N: Powell tries the front doors. Locked. Eddie comes hustling across and unlocks the door with the magnetic card.
+C: EDDIE
+D: Evening, officer. What's up?
+N: Powell steps in and looks around. Bland HOLIDAY MUZAK filters from Speakers here. (LET IT SNOW) *
+C: POWELL
+D: We got an emergency call that there was a problem here.
+S: 151 INT. 34TH FLOOR - BOARD ROOM - SAME 151 *
+N: McClane makes his way to the Avenue of the Stars side of the building, enters the board room where Takagi was shot. McClane goes to the windows and looks down at the street. HIS P.O.V. Powell's car.
+C: MCCLANE
+D: All right!
+N: McClane waits, expectant. Five seconds. Ten seconds. But no commotion, no shouting. He frowns.
+C: MCCLANE
+D: Where's the fucking cavalry?
+S: 152-A INT. LOBBY - SAME TIME 152-A
+N: Powell walks casually across the slick floor, eyes panning the area. Eddie sits casually watching a game on one of his monitor screens.
+C: EDDIE
+D: We already had that false alarm, you ask me, the Goddamn computers sent you out on another wild goose chase. They been chasing bugs in that system since they installed it. Oh, shit, come on, I got fifty bucks on you assholes -- !
+E: to the screen
+N: Powell's face shows us he's starting to think he's wasting his time. 152-B- OUT OUT 152-B 153-A WITH MCCLANE 153-A The silent tension is driving him crazy.
+C: MCCLANE
+D: Come on, come on...who's in that car, Stevie Wonder?
+N: He makes up his mind. He lifts one of the big chairs and swings it at the window. The tempered glass whitens on the first blow.
+S: 153-B EXT. ROOF 153-B
+N: James sees the glass whiten below him and shouts into his mike.
+S: 153-C INT. MACHINE FLOOR 153-C
+N: Heinrich hears the radio and shouts to Marco who grabs his machine gun and runs.
+S: INT. LOBBY
+N: Eddie watches confidently as Powell moves through the lobby looking for signs of trouble. 154-A AROUND THE CORNER FROM POWELL 154-A Uli is there, gun held ready. * BOARD ROOM - 34th FLOOR McClane draws the chair back for the final hit when a terrorist (MARCO) appears at the door. Both men react, but Marco already has his gun up. He FIRES a round at McClane. The bullets rip into the table top and the chair, and McClane goes down behind the table. 156- OUT OUT 156- 156-A 156-A INT. 34th FLOOR - BOARD ROOM Marco smiles and moves around to the other side of the table, but finds no one. He looks around frantically than squats beneath the table and sees: MCCLANE lying prone, his pistol trained on him.
+C: MCCLANE
+D: Drop it or you're a rugstain.
+N: BOARD ROOM DOORWAY Just then Heinrich, the terrorist steps into the doorway, sees the situation.
+C: HEINRICH
+D: Marco, duck!
+N: Marco dives sideways, but Heinrich still isn't quick enough. McClane FIRES TWICE and Heinrich DROPS sprawling in the hallway, machine gun FIRING BLINDLY until he hits the floor. 159-A HOSTAGE FLOOR 159-A They can FAINTLY HEAR the gunshots. Holly pales: 159-B THE LOBBY 159-B All Powell can hear here is "LET IT SNOW, LET IT SNOW." He STOPS just a yard from seeing the armed terrorist, turns back.
+C: POWELL
+D: Screw this.
+N: He turns back. 159-C THE BOARD ROOM 159-C Marco springs on top of the huge table. McClane rolls on his back so he can cover either angle but it is clear that Marco is in the more enviable position. ON MARCO on the table top slams in a fresh magazine and smiles.
+C: MARCO
+D: Next time -- don't hesitate.
+N: He leans his machine gun over the edge. MCCLANE aims directly above him and fires twice into the underside of the table. The bullets rip through the table and Marco, who DROPS beside McClane.
+C: MCCLANE
+D: Thanks for the advice.
+N: OUT OUT
+S: INT. LOBBY - SAME
+N: Powell heads for the door. Eddie moves to lock up after him.
+C: POWELL
+D: Sorry to water your time. Merry Christmas.
+N: Powell goes out.
+S: INT. 34TH FLOOR BOARD ROOM - SAME
+N: McClane rolls out from under the table, goes to the windows, and looks down in time to see Powell heading for the car.
+C: MCCLANE
+D: Oh, man, please, no --
+N: Desperate, he leans on the glass...which CRACKS again, on the verge of going. McClane thinks...looks over his shoulder at the body of Marco.
+S: INT. POWELL'S POLICE CAR - SAME
+N: Powell check in on his radio. Unconsciously he begins to HUM the Muzak he overheard in the lobby.
+C: POWELL
+D: One Adam Ten to 6421. We had a wild goose chase on that 436. Everything's okay here. Over. 'Oh, the weather outside is frightful, but the...the uh, dum, de dum's delightful...'
+E: waiting, loosening his tie, he murmurs
+C: DISPATCHER'S VOICE
+D: Roger, One Adam Ten. We thought it was a crank call anyway. Clear to code eight.
+C: POWELL
+D: Roger. '...let is snow, let it snow, let it snow -- '
+E: putting the car into gear
+N: Suddenly Marco's body CRASHES onto the hood of his car.
+C: POWELL
+D: -- Jesus H. Christ! 6421, this is One Adam Ten --
+E: terrified grabbing for his radio
+N: Suddenly a barrage of MACHINE GUN FIRE from Alexander on the third floor drowns out his call! Powell ducks and flattens against the seat as bullets blow out the front window, covering him in glass.
+C: DISPATCHER'S VOICE
+D: Roger, One Adam Ten, please repeat.
+N: But Powell accelerates in reverse away from the building, keeping his head low and praying he doesn't hit anything as the bullets follow him, digging into asphalt. A half block away his car runs off the pavement and down a SLOPE, finally BOUNCING to a jarring HALT in a parking lot which is destined to become police H.Q. a few pages from now. Powell sits up and clutches the mike.
+C: POWELL
+D: One Adam Ten, under automatic rifle fire at Nakatomi! Requesting immediate backup and SWAT assistance...
+S: 166 INT. 34TH FLOOR - BOARD ROOM 166 *
+N: McClane looks down at Powell and grins.
+C: MCCLANE
+D: Welcome to the party, pal.
+T: CUT TO:
+S: 166-A INT. OFFICE - TV STATION - SAME TIME 166-A
+N: WIDEN FROM A POLICE SCANNER. We take in the action here, all color coordination and slickness. RICHARD THORNBURG, * local TV news reporter, is on the phone to his girlfriend. THORNBURG * (into phone) -- of course I can get us a table, Wolfgang and me, we're like that. I interviewed him...hold on, * babe... He covers the mouthpiece, because he's become aware of what's coming from the scanner.
+C: POLICE SCANNER
+D: -- attention all units. Officer pinned down by automatic weapon fire at Nakatomi, Century City -- request assistant --
+E: various voices ETC
+C: POWELL'S VOICE
+D: -- guys, you want to cut through the red tape? They practically turned this car into Swiss cheese -- !
+E: intermixed with all this
+C: THORNBURG
+D: All right...!
+E: pleased
+N: He drops the phone, pick up another. Shouts --
+C: THORNBURG
+D: Mary, this is Dick. I want a remote truck and a crew to meet me at the South gate in fifteen minutes... Damn right, fifteen... Where are we going? For an Emmy!
+E: listens listens Hearing gun shots
+N: Now, hearing MACHINE GUN FIRE, Thornburg hangs up the second phone. Runs out of the room. CAMERA PANS BACK TO the first phone.
+C: WOMAN'S VOICE
+D: Richard? Richard?
+S: EXT. CENTURY CITY - NIGHT
+N: Sirens wail as the first few police cars arrive. Powell sees them, waves them back, points to the third floor.
+S: INT. HOSTAGE WING - ON ELLIS - SAME
+N: He leans back and closes his eyes, luxuriating in the sound of WAILING POLICE SIRENS. He looks at Holly.
+C: ELLIS
+D: I never through I'd love to hear that sound.
+N: HANS' OFFICE Hans, Karl, Fritz and Franco confer.
+C: HANS
+D: -- all of you, stay at your posts! We knew that police action was inevitable... ...In fact, it's necessary. So let them start their feeble efforts; until them, stay calm. We have the hostages, remember. We are still in charge.
+E: in mid-speech an odd smile
+N: Suddenly Hans' CB crackles to life.
+C: HANS
+D: I told all of you...I want radio silence until further --
+E: picking it up
+T: INTERCUT:
+N: 169-A MCCLANE - 34th FLOOR - BOARD ROOM 169-A * He's got a CB on the table and ON, and his cop's notebook is out again. He's already upgraded the NUMBER OF TERRORISTS? to "12 (?) minus 3 = 9" and added other information. As he speaks he takes ammo clips the dead men dropped, their sidearms, etc.
+C: MCCLANE
+D: Gee, I'm sorry, Hans, nobody gave me the message. You shoulda put it on the bulletin board. Anyway, I thought you and Franco and Karl and the other boys might be lonely, now that I waxed Tony and Marco and their buddy. So I invited some of the guys from my card game.
+N: In the office, the terrorists REACT, startled, as McClane name-drops. FRANCO * How...how does he know so much about --
+C: HANS
+D: Ah, how nice of you to call. I assume you are our mysterious party crasher. You are most troublesome for a...security guard?
+E: waving for silence
+N: 170 INT. 34th FLOOR - ON MCCLANE - INTERCUT 170 * Moving down the corridor. Now armed with Marco's machine gun and carrying Heinrich's kit bag, he seems more lethal. *
+C: MCCLANE
+D: BZZZ! Sorry, Hans, wrong guess. Would you like to go for Double Jeopardy, where the stakes are double and the scores really change?
+E: into CB
+N: He rolls Heinrich over and is delighted to find a pack of Gauloise's in the man's pocket. He takes them, pats the * dead man's face.
+C: MCCLANE
+D: Bad for your health anyway.
+E: sotto, to the body
+C: HANS
+D: Who are you, then?
+C: MCCLANE
+D: Just the fly in the ointment, Hans. The monkey in the wrench, the pain in the ass -
+N: McClane STOPS in mid-speech. He's just opened the kit bag Heinrich had over his shoulder when he died. Now McClane takes out the contents...dozens and dozens of EXPLOSIVE DETONATORS marked "DANGER" and a CHUNK of cello-wrapped PLASTIQUE the size of an electric razor. He WHISTLES in surprise to himself. In the office, Hans turns off his mike for a moment, turns to Karl. *
+C: HANS
+D: Check on all the others...don't use the radio. See if he's lying about Marco and find out if anyone * else is missing. *
+N: He moves. Hans goes back onto the CB. Meanwhile, McClane * SMILES at the tell-tale STATIC as Hans goes off and on. He knows what's happening. Now, he starts to walk down a corridor, eyes PANNING FROM elevator to the stairwell doors.
+C: HANS
+D: Mr. Mystery Guest. Are you still there?
+C: MCCLANE
+D: I wouldn't think of leaving, Hans. Unless you want to open the front door...?
+C: HANS
+D: I'm afraid not. But you have me at a loss -- you know my name, but who are you? Just another American who saw too many movies as a child. Another orphan of a bankrupt culture who thinks he's John Wayne...Rambo... Marshal Dillion.
+E: scornfully
+C: MCCLANE
+D: Actually, I was always partial to Roy Rogers. I really dug those sequined shirts.
+C: HANS
+D: Do you really think you have a chance against us, Mr. Cowboy?
+E: harsh
+N: A LIGHT blinks on the elevator.
+C: MCCLANE
+D: Yipee-yi-yea...mother-fucker.
+E: long pause
+N: McClane goes quietly through the stairwell door and is gone by the time the search party steps onto this floor. Hans sits quietly...thinking. 170-A OUT OUT 170-A
+T: CUT TO:
+S: INT. 30TH FLOOR - SAME
+N: Karl steps off the elevator and goes through the crowd of hostages to Hans.
+C: KARL
+D: He wasn't lying about Marco: He's thirty stories down on the street. The other man is Heinrich, and I found his body upstairs. And his bag is missing.
+E: quietly pause; Hans looks alarmed
+C: HANS
+D: He had the detonators! Theo? Theo!
+E: into CB
+T: INTERCUT:
+N: 171-A THEO - IN SAFE ROOM 171-A With Kristoff, he has DRILLED TWO HOLES in the safe and is working on a third when he HEARS the CB. He turns off the drill, answers.
+C: THEO
+D: Yo!
+C: HANS
+D: We may have some problems. How is your schedule?
+N: Theo moves to his computer screen which shows a schematic of the safe and blinking icons and the words MECHANICALS #2 and #2 DISABLED.
+C: THEO
+D: Three down, four to go --
+C: HANS
+D: Then don't waste time talking to me.
+N: Suddenly all REACT to a nearby CB transmitter which broadcasts.
+C: POWELL'S VOICE
+D: This is Sergeant Al Powell of the Los Angeles Police Department. If the person who radioed for help on this channel can hear me, acknowledge this transmission...I say again...
+S: 172 INT. 33RD FLOOR - ON MCCLANE - NIGHT 172 *
+C: MCCLANE
+D: I read you, Powell. You the guy in the car?
+E: to CB
+T: INTERCUT:
+S: EXT. POLICE OPERATIONS TRAILER
+N: Powell stands in front of his destroyed cruiser and looks up at the building. Behind him technicians, City Power and Light personnel, SWAT officers in protective gear, etc., arrive from all directions. A trailer is being backed into a parking lot, which will become the police center of operations. It is like watching a small town being constructed right before your eyes.
+C: POWELL
+D: What's left of him. Can you identify yourself?
+E: to CB
+T: INTERCUT:
+N: 173-A HANS AND KARL 173-A Listening intently.
+C: MCCLANE
+D: Maybe later. Just listen fast because this is a party line and the neighbors are trigger happy. Now here's the skinny: There's thirty or so hostages on the 30th floor, with probably 2 or 3 guards to cover a group that size. The leader here is named Hans, and besides the pea shooter he ventilated your car with, * they got machine guns and * sidearms up the yin yang. On top of that one of 'em had a big enough chunck of plastic explosive to orbit Kate Smith. *
+N: NOTE: The following dialogue is said OVER McClane's.
+C: FRANCO
+D: We have to find him and shut him up! He's telling them everything --
+C: HANS
+D: The police are irrelevant. We've * waiting for the FBI. Until they * arrive, we can't finish out work. Meanwhile, let this fool waste time for the police. Fritz, go help Uli * find the bag.
+E: shaking his head, calming
+N: The CAMERA TIGHTENS ON him
+C: HANS
+D: We must find those detonators.
+N: They leave. 173-B WITH MCCLANE 173-B
+C: POWELL'S VOICE
+D: How many are there?
+C: MCCLANE
+D: Figuring there's at least one to cover the lobby, a couple with the hostages...I'd say they came in with about a dozen...but they're down to nine now, including the skydiver you already met. These guys are mostly Europeans, judging by their clothing labels, and they're well financed and very slick.
+E: thinking about it
+C: POWELL
+D: How do you know?
+C: MCCLANE
+D: I've seen enough phoney ID's in my time to recognize that the ones they've got cost a fortune. Add all that up and I don't know what the fuck it means, but these are bad ass preps and they're here to stay.
+N: We notice that everything McClane has said about "clothing" and ID's and police jargon, etc., has set off a little buzzer in Powell's brain.
+C: POWELL
+D: I hear you... Partner. And LA's finest are on it, so light 'em if you got 'em.
+E: on a hunch
+C: MCCLANE
+D: I'm ahead of you...partner.
+C: POWELL
+D: Uh, what do I call you?
+N: A moment. McClane smiles. What the hell?
+C: MCCLANE
+D: 'Roy'.
+C: POWELL
+D: Got it...'Roy'. Now listen. If you think of anything else you think we need to know, don't be shy, okay? In the meantime I want you to find a safe place and hole-up and let us do our job. Understand?
+C: MCCLANE
+D: They're all yours, Al. Good luck.
+E: to CB
+N: McClane turns off his CB and sits against the wall. 174- OUT OUT 174-
+S: EXT. POLICE OPERATIONS - NIGHT
+N: An unmarked police car pulls up across the street from Nakatomi building and a MAN in a sportcoat climbs out. Stocky, his hair a little too perfect, the very fact that he is the Deputy Chief of Police Operations on a Christmas Eve gives some evidence to his position in the pecking order. His name is DWAYNE T. ROBINSON and he moves brusquely past police technicians and goes to the forward group of officers.
+C: ROBINSON
+D: Who's talking to them?
+N: Powell turns around
+C: POWELL
+D: I am, Sir...Sergeant Al Powell.
+C: ROBINSON
+D: Dwayne Robinson. Well, what have you learned? What do they want?
+C: POWELL
+D: The terrorists? Don't know, Sir. We haven't heard a peep from them.
+C: ROBINSON
+D: Then who the hell have you been talking too?
+E: puzzled
+C: POWELL
+D: We don't exactly know, Sir. He won't give us him name. He appears to be the man who called in the report...he's killed one of the terrorists for sure and claims he capped two others.
+C: ROBINSON
+D: He claims? Powell, has it occured to you he could be one of the terrorists, pulling your chain? Or some kind of nut case who --
+E: exasperated
+C: POWELL
+D: I don't think so, Sir. In fact... I think he's a cop. Maybe not LAPD, but definitely a badge.
+C: ROBINSON
+D: How do you know?
+C: POWELL
+D: A hunch. Things he said. Like, knowing how to recognize a phony ID --
+C: ROBINSON
+D: -- recognizing phony ID's? Christ, Powell, he could be a fucking bartender for all we know!
+E: exasperated
+N: Something draws Robinson's attention. He looks at: HIS P.O.V. - REMOTE NEWS TRUCK Pulling up and parking just beyond the barricades. Richard Thornburg gets out, starts supervising the * positioning of cameras. 178-A BACK TO SCENE 178-A
+C: ROBINSON
+D: Oh shit...
+N: HOSTAGE FLOOR Hans examines building plans at Holly's desk. Behind him the TV is ON, the sound muted. TV cops triumph over oafish bad guys. Hans looks up as Fritz brings in Holly.
+C: HOLLY
+D: I...have a request.
+C: HANS
+D: Oh? What idiot put you in charge?
+C: HOLLY
+D: You did. You murdered by Boss. Now... They're looking to me. Personally I'd pass on the jab. I don't enjoy being this close to you.
+E: evenly on his look waving towards the hostages
+N: Hans is impressed by her candor. And she's easy enough on the eyes.
+C: HANS
+D: Go on.
+C: HOLLY
+D: We have a pregnant woman out there -- -- relax, she's not due for two weeks, but a marble floor isn't doing her back any good. I'd like permission for her to more to one of the offices where there's a sofa.
+E: on his look
+C: HANS
+D: No. But I'll have a sofa brought out to you. Good enough?
+C: HOLLY
+D: Good enough. And unless you like is messy, you'd better start taking us in groups to the bathroom.
+C: HANS
+D: Yes, you're right. It will be done.
+E: nods
+N: He nods to one of his men, and she is waved to the door: As she goes:
+C: HANS
+D: Mr. Takagi chose his people well, Mrs...?
+C: HOLLY
+D: Gennero. Miss Gennero.
+N: He nods, thoughtful. She goes out. Hans suddenly notices: CLOSER - TV A slide "SPECIAL BULLETIN" has appeared. This changes to a SHOT of the Nakatomi building with "LIVE" supered over it. Richard Thornburg is in front. The CAMERA TIGHTENS ON him.
+C: THORNBURG
+D: This is Richard Thornburg, speaking to you live from Century City... where Los Angeles has joined the sad but world wide fraternity whose only membership requirement is the awesome spectre of International Terrorism...
+N: ANOTHER TV SCREEN - NIGHT As Thornburg Continues, we PULL BACK. We're WITH Argyle in the back seat of the limo.
+C: ARGYLE
+D: What else is new...?
+E: reaching for the remote
+N: The CAMERA PULLS BACK and we SEE the Nakatomi Building rise up in the b.g. behind Thornburg.
+C: ARGYLE
+D: Holy shit...
+E: stunned
+C: THORNBURG
+D: We're told that the situation began some two hours ago when an unidentified party of men took over the building and sealed off all of its entrances and exits...
+N: Argyle is already bailing out of the car.
+S: EXT. LIMO - IN THE GARAGE
+N: Argyle looks at the metal gates, swallows. He JUMPS back in the car. BACK INSIDE Argyle pours himself a stiff drink.
+C: THORNBURG
+D: Since all the telephone lines have been cut, the only contact with the building had been through the use of CB communicators which the terrorists brought with them. Strangely enough, so far the terrorists have not communicated directly with the police... but an unidentified man has had several conversations which seem to indicate...
+E: on TV
+N: Argyle nearly spills his drink as he leans over the front seat and turns on the CB.
+T: CUT TO:
+N: OUTSIDE THE BUILDING - SAME TIME Signs of activity along the edges and shadows of the area. Men and vehicles. The SNAP of weapons and breeches. Footsteps running in unison. Powell picks up on this, turns to Robinson, who is standing with the SWAT Captain, MITCHELL.
+C: POWELL
+D: What's going on?
+C: ROBINSON
+D: What's it look like? We're going in.
+C: POWELL
+D: Going in...are you out of your mind? There's 30 hostages in there -- for all we know --
+E: flabbergasted
+C: ROBINSON
+D: -- all we know? We don't know shit, Powell. If there's hostages why hasn't anyone asked for ransom? If there's terrorists, where's their goddamn list of demands? All we know is that someone shot up your car, and it could be the same flake you've been talking to on the radio!
+C: POWELL
+D: What about the body that fell out of the window -- ?
+C: ROBINSON
+D: Who the hell knows? Maybe he was a stockbroker who looked at the Dow Jones and opted for early retirement!
+C: MITCHELL
+D: Chief, we're ready.
+C: ROBINSON
+D: I'm coming.
+C: MITCHELL
+D: Rivers.
+E: into radio
+C: RIVERS
+D: Yo.
+E: over radio
+C: MITCHELL
+D: Begin your reconnoiter.
+N: MCCLANE Inside the building, sadly realizing that the Marlboro pack has only two more to go. He savors the dregs of his current number, then suddenly becomes aware of an almost EERIE QUIET. He moves to the window. HIS P.O.V. - OUTSIDE Hints of activity in the darkness. A LIGHT FLARES extinguished. Shadows move on trailer walls. BACK TO SCENE
+C: MCCLANE
+D: Powell? Al, you still with me? What's going on? Al?
+E: spooked, into CB
+T: INTERCUT:
+N: OUTSIDE Powell stiffens. Robinson looks at him warningly, shakes his head.
+C: POWELL
+D: I'm here, Roy, but I'm, uh, kind of busy. Let's talk later, okay?
+C: MCCLANE
+D: Al, what's wrong? Did something -- -- Oh, God. You're coming in! That's it, isn't it? Christ, Powell, I told you what you're dealing with here --
+E: realizing
+C: POWELL
+D: I said we'll talk later, Roy. If you're what I think you are you should know when to listen, when to shut up... and when to pray.
+N: Hating himself, Powell DISCONNECTS, watches LIGHTS snaps on in the parking lot to illuminate the area. Also hating himself, McClane does the same thing. Pale, he moves to a window to watch what he knows is going to be brutal. 188-A IN HOLLY'S OFFICE - HANS 188-A He hunches over his communicator.
+C: HANS
+D: They'll be coming. Get ready. Theo, watch the screens. Be our eyes and ears. Wait until they're close.
+E: pause
+N: 188-B EDDIE 188-B slips away from the desk, a computer card in his hand. He meets up with another terrorist and they move behind a slit in the wall. Eddie waves his card at the sensor and a METAL GRID crashes into place. They hold their weapons behind it, ready. 188-C VARIOUS SHOTS - TERRORISTS - ON OTHER FLOORS 188-C All now with earplugs in their CB's, taking up positions: AT THE LOBBY DOOR The SWAT team leader moves in SOP style to the door, scans it carefully.
+S: 189-A EXT. CENTURY CITY - ON MITCHELL AND ROBINSON - 189-A
+N: POLICE BARRICADES Mitchell listens to CB radio.
+C: RIVERS
+D: We're in position.
+E: over radio
+N: Mitchell looks at Robinson, who is visible tense. Robinson hesitates, then gives his approval with a nod.
+C: MITCHELL
+D: Go.
+E: to CB
+N: QUICK SHOTS - INSIDE THE LOBBY The SECURITY CAMERAS on the walls PAN and ZOOM: THE VAULT DOOR Kristoff DRILLS AWAY, is rewarded with the message FIFTH LOCK DEACTIVATED. DO YOU WISH TO CONTINUE? Nearby, Theo sits at a bank of monitors. Screen after screen pinpoints all the police activity outside, down to the last detail. Theo SMILES. Suddenly we RECOGNIZE that tune he's been whistling. It's "Singin' In The Rain."
+C: THEO
+D: It was the night before Xmas, and all through the house, not a creature was stirring, expect for the four assholes coming in the rear in standard 2 X 2 cover formation.
+E: into a throat mike
+S: INT. LOBBY - NIGHT
+N: Eddie and another terrorist, ULI, take up prone firing positions, using the gaps in the steel partition like gunpoints. ANGLE ON TWO SWAT OFFICERS Mitchell and Robinson watch from behind the cover of a police car as the SWAT officers remove a portable welding torch and begin cutting their way through the locks.
+S: INT. 33RD FLOOR - MCCLANE
+N: He moves painfully to the window and looks out. He can't see a thing because of the lights.
+C: MCCLANE
+D: No...
+E: to himself
+S: EXT. POLICE BARRICADES - ON MITCHELL AND ROBINSON
+N: Suddenly rifle fire sounds from the building.
+C: ROBINSON
+D: They're shooting at them
+E: worriedly
+C: MITCHELL
+D: It's panic fire...they can't see anything.
+E: calmly
+C: POWELL
+D: They're shooting at the lights.
+E: under breath
+N: More shots ring out from the building going over the SWAT officers' heads and suddenly the huge dome of one of the spotlights shatters behind Mitchell and Robinson's head. The glow fades. A moment later the next light twenty feet away dies.
+C: ROBINSON
+D: They're going after the lights!
+N: The two SWAT officers cutting the garage ate suddenly look up as their cover starts to disappear.
+C: ROBINSON
+D: Call them back.
+C: MITCHELL
+D: No, they're almost in.
+N: Suddenly the third and fourth lights are shot out and the SWAT men become sitting ducks. IN HOLLY'S OFFICE - HANS He calmly speak into his CB.
+C: HANS
+D: Don't get impatient. Just wound them.
+S: INT. LOBBY
+N: Eddie and Uli fire. They hit one of the officers in the leg, the second one in the arm.
+S: EXT. POLICE BARRICADES - ON MITCHELL AND ROBINSON
+C: MITCHELL
+D: Send in the car!
+E: on radio
+N: An armored car wheels toward the building and starts toward the wounded men.
+S: INT. ROOF-MACHINE ROOM/SERVICE ELEVATOR - SAME
+N: JAMES and Alexander quickly load two crates onto the service elevator and push the button for the 3rd floor. As the car starts down, they remove an anti-tank gun from one of the crates. WITH THEO - WATCHING SCREENS
+C: THEO
+D: Well, what have we here. The police've got themselves an R.V. James, Alexander, southeast corner.
+S: INT. 3RD FLOOR - SAME
+N: The service elevator arrives on the 3rd floor and James and Alexander move across the room toward the windows with the anti-tank weapon. At the window, they prepare the weapon for use. Outside the window the armored car has stopped in front of the wounded man and paramedics quickly load them in from the sheltered side of the vehicle. Alexander quickly sights on the armored car.
+C: ALEXANDER
+D: I have them
+E: to Hans, CB
+C: HANS' VOICE
+D: Fire.
+E: o.s., over CB
+S: EXT. THE ARMORED CAR
+N: A blast ROARS from the third floor window and the shell hits the armored car. The car pitches forward like a beast whose front legs have been shot out from under it -- its front axle destroyed, unable to move. Alexander looks back at James and grins. 30TH FLOOR - HANS He watches from his window. Coldly picks up his CB.
+C: HANS
+D: Hit it again.
+N: MCCLANE listening. He picks up his CB.
+C: MCCLANE
+D: Hans, you motherfucker, you've made your point. Let them pull back!
+C: HANS' VOICE
+D: Thank you Mr. Cowboy, I'll take it under advisement. His it again.
+N: McClane slumps to the floor below the window. He feels helpless, then notices his kit bag. 3RD FLOOR James runs back to the crate on the elevator.
+S: EXT. POLICE BARRICADE - ON ROBINSON AND MITCHELL
+N: They look on in horror as the armored car sits helplessly on fire. On the police radio channel we HEAR the screams of men inside.
+C: MITCHELL
+D: Rivers! Rodriguiz!...Report...
+E: to radio
+C: RIVERS
+D: This is Rivers. We've got one dead. Everybody's hit. Rodriguiz's bleeding bad. We've got to get the fuck out of here!
+E: voice over; on radio, yelling
+C: MITCHELL
+D: Rivers, hang on! That's an order! Hang on, we'll get you out.
+E: to radio
+S: INT. ELEVATOR CAR - 3RD FLOOR - SAME
+N: James opens the box of shells and takes two and starts back across the room.
+S: INT. 33RD FLOOR - CLOSE ON A SHAPE ON PLASTIC
+N: EXPLOSIVE - SAME Like a football. It sits on the seat of a secretary's chair with castors. We PULL BACK TO SEE McClane press three detonators into the top, then cover the explosive with a typewriter, tying it securely in place with electrical cords. ANGLE ON SERVICE ELEVATOR - MCCLANE wheels the chair to the service elevator, opens the door and block them with a fire axe. He looks in -- the top of the car can just be seen thirty-five floors below.
+S: INT. 3RD FLOOR
+N: James hands the shell to Alexander, who expertly loads it into the anti-tank gun. Alexaneder lifts the gun to his shoulder and aims.
+S: INT. 38TH FLOOR
+N: McClane push the chair into the shaft.
+C: MCCLANE
+D: Geronimo...motherfuckers.
+N: For a long moment there is nothing, then: the shaft is filled with light, then SOUND -- an ungodly ROAR -- and McClane is thrown back across the elevator corridor against the other back of doors by the concussion wave. ON THE 3RD FLOOR The explosion, like a firestorm, rips across the floor:
+S: BLOWING OUT THE MACHINE GUN NEXT AND JAMES AND
+N: ALEXANDER SHATTERING WINDOWS SENDING DESKS, CHAIRS, PHONES, AND TYPEWRITERS FLYING
+S: EXT. AVENUE OF THE STARS
+N: The police take cover behind their cars. Powell, Robinson, and Mitchell look like they've seen the face of God as the building rocks from the blast. Henry's cigarette falls from his mouth as a desk is sent hurtling across Avenue of the Stars into the trees across the street.
+S: INT. UNDERGROUND PARKING GARAGE - ON WILLIAM - SAME
+N: watching it on TV, feeling it all around him.
+C: WILLIAM
+D: Oh, Jesus...
+S: EXT. DOWN ON THE STREET - SAME
+N: Dick Thornburg's crew is taping.
+C: THORNBURG
+D: Unreal. Did you get all that?
+E: in awe to the cameraman
+C: CAMERAMAN
+D: Yep.
+N: Thornburg looks at his competitors still setting up.
+C: THORNBURG
+D: Eat your heart out, Channel Four.
+N: 219- OUT OUT 219- ON HOSTAGE FLOOR The hostages are shaken and the terrorists guarding them aren't too sure of themselves either. Only Hans is relatively calm.
+C: FRANCO
+D: They're using artillery on us -- !
+C: HANS
+D: You idiot, it's not the police... ...It's him.
+E: pause
+N: ANGLE ON HOLLY She comforts Ginny.
+S: INT. 32ND FLOOR - MCCLANE - SAME
+N: He sits up and lifts the CB.
+C: MCCLANE
+D: Al! Al, the guys in the car, did they make it?
+T: INTERCUT:
+S: EXT. POWELL
+N: on the street, watching as the survivors are pulled out of the wreck and to safety.
+C: POWELL
+D: Safe and sound, thanks to you. What the fuck was that?
+E: on CB
+C: MCCLANE
+D: The plastique I found. Is the building on fire?
+E: worried
+C: POWELL
+D: No, but it's gonna need one hell of a paint job and a shitload of screen doors. One spotters say you got two with that blast.
+E: looking off, nodding
+C: MCCLANE
+D: Two? Are you sure?
+N: Before Powell can answer Robinson comes running up to him.
+C: ROBINSON
+D: Is that him?
+C: POWELL
+D: Yessir.
+C: ROBINSON
+D: (reaching for Powell's
+C: CB)
+D: Give me that. Now, listen to me, mister, I don't know what you think you're doing, but demolishing a building doesn't fall under the definition of 'help'! There's hundreds of people out here and you covered half of them in pieces of glass --
+E: angrily at McClane
+C: MCCLANE
+D: Glass, my ass! Who the fuck is this?
+C: ROBINSON
+D: This is Deputy Chief of Police Dwayne T. Robinson, and I'm in charge of this situation.
+N: McClane leans tiredly against the elevator door.
+C: MCCLANE
+D: Well, from up here, it looks like you're in charge of shit, Dwayne. I haven't seen such a fucked up operation since the Bride of Frankenstein. Ask the guys in the armored car if they minded a little flying glass.
+C: ROBINSON
+D: Listen asshole -- !
+C: MCCLANE
+D: Asshole? I'm not the one who just for butt fucked on national TV, Dwayne! Now if you're not part of the solution, stop being part of the problem! Get off the Goddamn radio and put Al back on!
+E: exploding
+N: McClane is so furious, he's out of breath.
+S: INT. LIMO - ARGYLE - SAME
+N: Argyle nods in agreement.
+C: ARGYLE
+D: Tell 'em, Mr. Mac! Tell 'em!
+S: INT. 33RD FLOOR - ON MCCLANE
+N: still seething. There is a long pause on the CB, then:
+C: POWELL'S VOICE
+D: Hello, Roy. How're you feeling?
+C: MCCLANE
+D: Pretty fucking unappreciated.
+E: pissed
+T: INTERCUT:
+N: ON POWELL Other officers, including Robinson, monitor the conversation.
+C: POWELL
+D: Hey, I love you. So do a lot of the guys. So hang in there, man. Hang in there.
+E: looking around
+C: MCCLANE
+D: Thanks...partner.
+E: tired, touched
+N: TV - CLOSE As it SNAPS ON. We're in the studio set.
+C: GAIL
+D: ...of the Nakatomi building, sources say that the terrorist leader 'Hans' may be this man, Hans Gruber.
+E: as the picture stabilizes
+N: A SLIDE of Hans appears behind her. At the same time, the CAMERA PULLS BACK. We realize we're on THE HOSTAGE FLOOR, and Hans has just turned on the set out here for his "guests". He smiles modestly as they "recognize" him from the on air shot, returns to the office.
+C: GAIL
+D: A member of the radical West German Volksfrei movement. Strangely, the Volksfrei leadership issued a communique an hour ago stating that Gruber has been expelled from the organization and is operating on his own.
+E: on TV
+C: HARVEY
+D: Obviously, Gail whatever his affiliation, it's safe to say that Gruber's terrorist actions in Los Angeles tonight are well, terroristic...
+E: on TV
+N: As the bullshit continues, Ellis suddenly STANDS, head towards the terrorist "office". Immediately the chief guard here, Fritz, moves to intercept Ellis.
+C: HOLLY
+D: Where are you going?
+C: ELLIS
+D: I'm tired of sitting here waiting to see who gets us killed first... them...or your husband. Hi there.
+E: to the approaching Fritz
+C: HOLLY
+D: What are you going to do?
+E: worried
+C: ELLIS
+D: Hey, I negotiate million dollar deals for breakfast. I can handle these clowns. I want to talk to Hans. Hans! Sprickenzie talk?
+E: to Fritz
+N: He doesn't wait for an answer. Fritz follows him. Holly worries. THE OFFICE
+C: KARL
+D: -- you wouldn't let me kill him when I had the chance --
+E: in mid-speech, angry
+C: HANS
+D: If you'd listened to me he would be neutralized already!
+C: KARL
+D: I don't want neutral...I want dead --
+N: ALL TURN at a rap on the door. Ellis is there.
+C: ELLIS
+D: Hope I'm not interrupting...?
+C: HANS
+D: What does he want?
+E: to Fritz
+N: As Fritz shrugs:
+C: ELLIS
+D: It's not what I want, it's what I can give you. Look, let's be straight, okay? It's obvious you're not some dumb thug up here to snatch a few purses, am I right?
+N: Karl looks at Ellis and then at Hans, as if to say, let me plug this asshole right now. But Hans is either amused of curious or bored enough to shake his head, turn back to Ellis.
+C: HANS
+D: You're very perceptive.
+E: politely
+C: ELLIS
+D: Hey, I read the papers, I watch 60 minutes, I say to myself, these guys are professionals, they're motivated, they're happening. They want something. Now, personally, I don't care about your politics. Maybe you're pissed at the Camel Jockeys, maybe it's the Hebes, Northern Ireland, that's none of my business. I figure, You're here to negotiate, am I right?
+E: flattered
+C: HANS
+D: You're amazing. You figured this all out already?
+C: ELLIS
+D: Hey, business is business. You use a gun, I use a fountain pen, what's the difference? To put it in my terms, you're here on a hostile takeover and you grab us for some greenmail but you didn't expect a poison pill was gonna be running around the building. Hans, baby...I'm your white knight.
+E: smiling
+C: HANS
+D: I must have missed 60 Minutes. What are you saying?
+E: dryly
+C: ELLIS
+D: The guy upstairs who's fucking things up? I can give him to you.
+N: As Hans reacts with real interest for the first time, we:
+T: CUT TO:
+N: POWELL By the CB. He suddenly REACTS to a GROAN from McClane.
+C: POWELL
+D: Roy! You all right?
+N: INSIDE - MCCLANE He's by an open desk drawer, having just ripped open a package of twinkies he's found. He grimaces, mouth full.
+C: MCCLANE
+D: Yeah, just trying to handle some year old twinkies. Yucck. What do they put in these things?
+C: POWELL
+D: 'Sugar, enriched flour, partially hydrogenated vegetable oil, polysorbate 60 and yellow dye #5.'
+E: reciting
+C: MCCLANE
+D: You sound like a man with a couple of kids.
+E: laughing
+C: POWELL
+D: Not yet, the wife in working on our first. You got any kids back on the ranch?
+N: McClane swallows Twinkie with a grimace, takes out his wallet, flips it open to a picture of himself and Holly and the kids in happier days.
+C: MCCLANE
+D: Two. And I'd sure like to see them swinging on the jungle gym with Al junior.
+C: POWELL
+D: It's a date. You buy the ice cream.
+N: McClane laughs, stares at the photo, when suddenly another VOICE besides Powell's comes over his radio.
+C: HANS' VOICE
+D: Touching, cowboy, touching. Or should I call you Mister McClane? Mister officer John McClane on the NYPD?
+E: o.s., on CB pause
+N: McClane FREEZES. How much do they know? THORNBURG - IN TRAILER Reacts, gleeful, writes down the name.
+C: THORSON
+D: Get on the phone to our New York affiliate...move, move!
+E: to Mary
+N: POWELL reacts, signals an Aide, who's already writing, too.
+T: INTERCUT:
+N: MCCLANE AND HANS
+C: MCCLANE
+D: Sister Teresa in third grade called me Mr. McClane. My friends call me John Mac. You're neither...shithead.
+E: fighting to stay calm
+C: HANS' VOICE
+D: I have someone who wants to talk to you. A very special friend who was at the party with you tonight.
+N: McClane's face falls. Oh, God. Eyes closed, he waits for the voice that tells him it's all over.
+C: ELLIS' VOICE
+D: Hello, John boy?
+N: McClane's eyes open, showing equal parts of shock and hope. In the office, CAMERA ADJUSTS TO SHOW Ellis as Hans gives him the CB.
+C: MCCLANE
+D: Ellis?
+N: Ellis has a cigarette, and a terrorist brings him a Diet coke.
+C: ELLIS
+D: John, they're giving me a few minutes to try and talk some sense into you. I know you think you're doing your job, and I can appreciate that, but you're just dragging this thing out. None of us gets out of here until these people can negotiate with the LA police, and they're just not gonna start doing that until you stop messing up the works.
+C: MCCLANE
+D: Ellis, what have you told them?
+E: carefully
+C: ELLIS
+D: I told them we're old friends and you were my guest at the party.
+N: McClane sighs, partially relieved. Hans meanwhile, narrows his eyes.
+C: MCCLANE
+D: Ellis...you shouldn't be doing this...
+C: ELLIS
+D: Tell me about it.
+N: He looks at Hans, who gives him a nod.
+C: ELLIS
+D: All right...John, listen to me... They want you to tell them where the detonators are. They know people are listening. They want the detonators of they're going to kill me.
+N: Ellis gives Hans a big "ok" sign. Hans returns it.
+S: INT. POLICE TRAILER - ON POWELL, ROBINSON - SAME
+N: and others listening intently. McClane closes his eyes and leans his head back again. He knows what is going to happen, even if this poor bastard Ellis doesn't.
+C: ELLIS' VOICE
+D: John, didn't you hear me?
+C: MCCLANE
+D: Yeah, I hear you, you fucking moron!
+E: to CB, quietly
+C: ELLIS
+D: John, I think you could get with the program a little. The police are here now. It's their problem. Tell these guys where the detonators are so no one else gets hurt. Hey, I'm putting my life on the line for you buddy...
+C: MCCLANE
+D: Don't you think I know that! Put Hans on! Hans, listen to me, that shithead doesn't know what kind of scum you are, but I do --
+C: HANS
+D: Good. Then you'll give us what we want and save your friend's life. You're not part of this equation. It's time to realize that.
+N: Saying this, Hans takes out his gun, points it at Ellis, smiling. Ellis smiles, too.
+C: ELLIS
+D: What am I, a method actor? Hans, babe, put away the gun. This is radio, not television...
+C: MCCLANE
+D: That asshole's not my friend! I barely know him! I hate his fucking guts -- -- Ellis, for Christ's sake, tell him you don't mean shit to me --
+E: desperately sincere
+C: ELLIS
+D: John, how can you say that, after all these years--? John? John?
+N: Ellis looks at Hans and shrugs, "Well, I tried..." Hans nods understandingly. He takes the CB, presses the TALK button, and in one frighteningly smooth motion brings the Walther up to Ellis' forehead and PULLS THE TRIGGER.
+T: CUT TO:
+S: INT. 33RD FLOOR - MCCLANE
+N: He was expecting the SHOT but it still chills him. 30TH FLOOR - HOLLY AND HOSTAGES She lowers her head sadly. Around her, the others go CRAZY as they SEE Ellis' blood splattered on the glass walls on Hans' office.
+S: INT. HANS' OFFICE - ON HANS
+N: He throws open the door to let McClane and the police hear the screams of the hostages.
+C: HANS
+D: Hear that? Talk to me, where are my detonators. Where are they or shall I shoot another one? Sooner or later... ...I might get to someone you do care about.
+E: taking a shot
+C: MCCLANE
+D: Go fuck yourself.
+E: after a beat
+N: He DISCONNECTS.
+S: EXT. BUILDING
+N: Powell fends off Robinson, who wants the CB.
+C: ROBINSON
+D: Goddamn, didn't you hear him! He practically pulled the Goddamned trigger himself -- he gave that man to them --
+C: POWELL
+D: Christ, can't you read between the lines! He did everything he could to save him...if he gave himself up they'd both be dead!
+C: ROBINSON
+D: Maybe. And maybe they'd at least be talking to us! Now tell your 'partner' to stay out of it, or so help me if he lives through this I'll put him behind bars myself!
+C: POWELL
+D: He's alone, tired, hunted, and hasn't seen diddly-squat from us and you think he gives a flying fuck about what you're going to do to him? Robinson, wake up and smell the shit you're shoveling!
+E: amused
+C: ROBINSON
+D: Anytime you want to go home, Sergeant...consider yourself dismissed.
+E: cold
+N: They lock eyes.
+C: POWELL
+D: No Sir. You couldn't drag me away.
+C: HANS' VOICE
+D: Attention police. Attention police.
+E: over CB
+N: It's asses and elbows time. Tape recorders are started.
+C: POWELL
+D: This is --
+E: starting to speak
+C: ROBINSON
+D: This is Deputy Chief Robinson. Who is this?
+E: taking the CB away
+T: INTERCUT:
+N: HANS' OFFICE
+C: HANS
+D: This is Hans Gruber. I assume you realize the futility of direct action against me. We have no wish for further loss of life.
+C: ROBINSON
+D: What do you wish for, Mister Gruber?
+C: HANS
+D: I have comrades in arms around the world who are languishing in prison. The American State Department enjoys rattling its saber to its own ends... now it can rattle it for me.
+T: INTERCUT:
+N: MCCLANE Listening to this with expressions ranging from astonishment to dismay to outright derisive amusement.
+C: HANS' VOICE
+D: ...The following people are to be released from their captors: In Northern Ireland, the seven members of the New Provo Front. In Canada, the five imprisoned leaders of Liberte de Quebec...
+N: HANS' OFFICE
+C: HANS
+D: ...in Sri Lanka, the nine members of the Asian Dawn movement...
+C: KARL
+D: 'Asian Dawn Movement?'
+E: sotto
+C: HANS
+D: I read about them in Time magazine. When these Revolutionary Brothers and Sisters are Free, the hostages in this building will be taken to the roof and they will accompany us in helicopters to the Los Angeles International Airport where you will be given further instructions. You have two hours to comply.
+E: off-mike, a shrug on mike
+C: ROBINSON
+D: Two hours? Are you insane? I can't authorize...hello? Hello?
+C: KARL
+D: Do you think they'll even try to do it?
+C: HANS
+D: Who cares? Theo. Are we on schedule?
+E: on another channel
+T: INTERCUT:
+N: VAULT ROOM Theo and Kristoff have been rewarded with another LOCK DEACTIVATED. THEO * One more to go...then it's up to you. The graphic on his screen flashes: "WARNING: ELECTRO- * MAGNETIC SEAL ARMED." *
+C: THEO
+D: And you better be right, because this one's going to take a miracle.
+N: HANS * It's Christmas, Theo, it's the time of miracles. So be of good cheer and call me when you hit the last lock. (disconnecting) Karl...hunt the little shit down and get those detonators.
+C: KARL
+D: Franco is checking the explosives, Fritz is with him.
+C: HANS
+D: I'll check the explosives. You just get those detonators.
+N: MCCLANE - 32ND FLOOR As he talks, he essentially PATROLS the floor he's staked out, constantly looking into every dark corner, gun held ready, moving toward the stairwell.
+C: MCCLANE
+D: Al? Al, you there?
+C: POWELL
+D: I'm here, cowboy.
+C: MCCLANE
+D: Speaking of cows, did you ever hear so much bullshit in your life? Two hours? That doesn't even make any sense --
+C: POWELL
+D: Don't tell me, partner. I'm just a desk jockey who was on the way home when you rang.
+C: MCCLANE
+D: The way you drove that car, I figured you for the streets.
+C: POWELL
+D: In my youth, partner. In my youth.
+S: INT. TV STUDIO - NIGHT
+N: Gail and Harvey have company, a man from the Senator Paul Simon's school of grooming.
+C: GAIL
+D: ...author of... 'Hostage/Terrorist, Terrorist/Hostage, a Study in Duality.' Dr. Hasseldorf, what can we expect in the next few hours?
+E: in mid-speech holding up a copy
+C: HASSELDORF
+D: Well, Gail, by this time the hostages and their captors should be entering the early stages of the Helsinki Syndrome.
+C: HARVEY
+D: As in Helsinki, Sweden?
+N: CONTROL ROOM Sam sighs, shakes his head.
+C: HASSELDORF
+D: Uh...Finland. Basically, it's when the hostages and the terrorists go through a sort of psychological transference and projection of dependency...
+E: over monitor
+S: INT. NAKATOMI - HOSTAGE FLOOR
+N: Fritz drags Ellis' body out of the office and throws it on the floor.
+C: HASSELDORF
+D: What can only be described as a strange sort of trust and bond develops...We've had situations where hostages have embraced their captors after their release and in one case even corresponded with them in prison...
+E: over Hans' TV
+S: INT. BUILDING - MACHINE FLOOR
+N: Hans turns, looks up at the ceiling. Too dim up there to see from here. He sighs, sets his gun down on a buttress, starts to climb up, not enjoying it. 250- OUT OUT 250-
+T: CUT TO:
+N: OUTSIDE THE BUILDING Robinson looks at a YOUNG COP, reacts, startled:
+C: ROBINSON
+D: The...the FBI? Here? Now?
+C: YOUNG COP
+D: Yessir. Right over there.
+N: Robinson looks at Powell, adjusts his clothing, fixes his tie.
+C: POWELL
+D: You want a breath mint?
+E: dryly
+N: Robinson glares at him, then they move together towards: A BIG DARK GOVERNMENT CAR Headlights still on, dominating the area where it sits. Robinson steps up, sees: HIS P.O.V. - FBI AGENTS They get out. One big back lit SILHOUETTE, one little one.
+C: BIG JOHNSON
+D: I'm Special Agent Johnson of the FBI. This is Agent Johnson...no relation.
+E: showing badge
+C: ROBINSON
+D: Dwayne Robinson, LAPD. I'm in charge here.
+E: stepping forward, plastic smile
+C: BIG JOHNSON
+D: Not any more.
+N: As Robinson REACTS, we GO TO: THE MECHANICAL FLOOR - TIGHT ON HANS He checks the plastique, not pleased. He turns, DROPS to the floor. LOW ANGLE He lands, knees bent...looks directly at a PAIR OF BARE FEET. A GUN BARREL DROPS INTO THE SHOT close to his head.
+C: MCCLANE
+D: Lost?
+N: NEW ANGLE A moment. And then Hans turns, looks up. The transformation in his expression and bearing are mind- boggling. Hands shaking, eyes filled with fear, he swallows, looks up at McClane and in a perfect American accent says:
+C: HANS
+D: --ohGodplease -- don't kill me -- don't kill me -- you're one of them, I know it --
+C: MCCLANE
+D: Whoa, whoa, easy man. I won't hurt you. Who are you? What are you looking for?
+E: thrown, unsure
+N: Hans' eyes dart towards: THE BUTTRESS TEN FEET AWAY Where a tiny piece of his gun sticks out, barely visible. BACK TO SCENE
+C: HANS
+D: A way up to the roof...I thought I could signal for help --
+N: He starts in that direction.
+C: MCCLANE
+D: Forget it. They got a guy up there. You want to stay alive, keep moving. Hey? You hear me?
+N: Hans realizes this tack won't work. He follows McClane.
+C: HANS
+D: You...you're an American?
+C: MCCLANE
+D: Only if New Jersey counts.
+E: friendly, easing the man's fears
+N: It works. The poor frightened civilian shows a hint of a smile.
+T: CUT TO:
+N: 261-A OUTSIDE BUILDING 261-A
+C: ROBINSON
+D: We've got thirty, maybe thirty-five hostages, probably on the 30th floor... seven, maybe eight terrorists.
+E: in mid-speech to FBI
+C: LITTLE JOHNSON
+D: Sounds like a standard A-7 scenario.
+E: to Big Johnson
+N: Big Johnson nods in agreement, turns to Robinson.
+C: BIG JOHNSON
+D: Thank you. We'll handle it from here. When we need to commandeer your men, we'll try and let you know.
+N: He starts to move away with his partner.
+C: POWELL
+D: Aren't you forgetting something?
+E: angry
+N: Johnson and Johnson turn. Robinson wants Powell to shut up.
+C: BIG JOHNSON
+D: Such as...?
+C: POWELL
+D: John McClane! He's the man who gave us all the information we've got! He's the reason you're facing seven terrorists instead of twelve.
+E: pointing to the building
+C: LITTLE JOHNSON
+D: He's inside? Who is he?
+C: ROBINSON
+D: He may be a cop...we're checking on that --
+E: nodding
+C: BIG JOHNSON
+D: One of yours?
+C: ROBINSON
+D: No, sir.
+E: too quickly
+C: BIG JOHNSON
+D: If he's not a terrorist, and he's not a hostage...he's just not part of the equation.
+E: after a moment
+N: They start to walk away.
+C: POWELL
+D: T...that's the same Goddamn thing the terrorists said!
+E: indignant
+C: LITTLE JOHNSON
+D: Really? That's one good thing. Sound like we're dealing with pros.
+E: interested to Big Johnson
+N: They leave.
+T: CUT TO:
+N: THE COMPUTER FLOOR McClane and Hans walk together. Hans is still a "nervous wreck."
+C: HANS
+D: There was a party -- celebration -- all of a sudden they were there -- shooting -- threatening us --
+E: nodding
+N: CLOSER SHOT McClane looks at this poor civilian, on the edge of going to pieces. He puts his hand on his shoulder.
+C: MCCLANE
+D: Relax, man...you smoke?
+N: Hans nods, still "frightened". McClane takes out his spoils of war, the Marlboros. Two left. He sighs, takes one, offers the other one with an expression like a little boy forced to share a cookie. McClane takes out a lighter, does his and Hans'. Hans nods, grateful...then peers at McClane.
+C: HANS
+D: You...you don't work for Nakatomi... and if you're not one of them...
+C: MCCLANE
+D: I'm a cop from New York.
+C: HANS
+D: New York...
+E: puzzled
+C: MCCLANE
+D: They invited me to the Xmas party. Who knew?
+E: explaining
+N: Hans' eyes take in his bare feet.
+C: MCCLANE
+D: Better than being caught with your pants down, right? John McClane.
+E: extending his hand
+C: HANS
+D: William Clay. Call me Bill.
+E: shaking hands smiling
+N: McClane nods, friendly like, and his eyes glance casually over at: THE WALL - A ROSTER OF NAKATOMI EMPLOYEES In alphabetical order. CAMERA MOVES OVER the "c's": CAMPBELL, S.: CLAY, WM.: CRAWFORD, L...PANS BACK TO CLAY. BACK TO SCENE
+C: MCCLANE
+D: Bill, you know how to use a handgun?
+C: HANS
+D: One weekend I went to a combat ranch... You know, that game with the, the guns that shoot red paint? Must sound pretty silly to you...
+E: hesitant apologetic
+C: MCCLANE
+D: Sounds better than nothing.
+N: McClane takes out his Baretta, pops out the magazine, jams in a fresh one and hands it to him.
+C: MCCLANE
+D: Time for the real thing.
+N: McClane turns, moves on...we STAY ON him until he REACTS to a CLICK. He slowly turns: 265-A NEW ANGLE 265-A Hans is...well, Hans again, from expression to posture. He holds the pistol aimed at McClane's face and talks calmly into his radio in German.
+C: HANS
+D: Karl! Franco! I'm on 33. Come quickly. Put down your gun and give me my detonators.
+E: to McClane
+N: McClane just looks at him.
+C: MCCLANE
+D: Hans. Your Hans.
+C: HANS
+D: Put it down now.
+E: nods, indicating McClane's gun again
+C: MCCLANE
+D: That was tricky, with the accent. I bet you do a great Ed Sullivan. Why do you need the detonators, Hans? I already used the explosives.
+C: HANS
+D: I'm going to count to three...
+C: MCCLANE
+D: Yeah. Like you did with Takagi.
+E: cold
+N: McClane raises his machine gun, aims at Hans. Hans PULLS THE TRIGGER. Click. Astonishment. Click-click-click. McClane steps in carefully, reclaims his pistol.
+C: MCCLANE
+D: You think I'm a shmuch, Hans.
+N: Hans pales as we hear the ding of an approaching elevator.
+C: HANS
+D: You were saying.
+N: McClane whirls in time to see: 266- OUT OUT 266- 260 KARL, FRANCO AND FRITZ 270 Coming out of it, FIRING. BACK TO SCENE McClane FIRES back, killing Fritz. Karl and Franco take cover. McClane ducks into a water cooler alcove, looks back at: WHERE HANS WAS He's gone, a SWINGING OFFICE DOOR the only evidence of his passing. BACK TO SCENE McClane curses himself, then RETREATS into a:
+C: 273-A- OUT OUT 273-A-
+D: 273-I 273-I
+N: BANK OF COMPUTERS Where he DUCKS and DODGES as bullets ping and ricochet all around him. Ducking, rolling, he FIRES at: FRANCO McClane's bullets RAKE his middle, throw him over a desk, his weapon FLYING: CLOSER He SLIDES right into a glass door. It smashes around his head. Bright arterial BLOOD fountains up: MCCLANE hope rising at the prospect of an equal battle, his face suddenly FALLS as BULLETS fly in from an unexpected direction. He turns: HANS has reappeared and snatched up Franco's weapon. MCCLANE FIRES, moving, trying to keep from bring flanked. One of his shots SHATTERS a glass panel, raining down shards near Hans, who escapes with only superficial scratches. HANS looks at the glass around him, gets an idea. He SHOUTS to Karl in German:
+C: HANS
+D: The glass! Shoot the glass!
+N: And, saying this, he demonstrates. Karl follows suit. MCCLANE as GLASS FLIES EVERYWHERE, McClane sees one option, takes it. BLASTING a burst to keep their heads down, he WHIRLS, JUMPS on top of a long counter and RUNS ACROSS THE ROOM. Their BULLETS follow him, six inches behind his moving form! Big CRAY UNITS GROAN with electronic SQUEALS and SPARKS as a million Gigabytes goes to RAM heaven. McClane reaches the end of the counter, DIVES and rolls to the floor: HIS FOOT goes right down on a jagged SHARD. He GROANS, keeps going: STAIRWELL DOOR He's out, gone, safe! BACK TO SCENE Karl looks pissed as hell. Behind him, Hans sifts through rubble, then comes over, smiling. He's holding the bag of detonators.
+C: HANS
+D: Smile, Karl. We are back in business.
+T: CUT TO:
+S: INT. TV TRAILER
+C: HASSELDORF
+D: ...all depends on what we mean by "Terror.' If Clauswitz could say 'War is the last resort of Deplomacy,' couldn't we just as well say that terrorism has an equal claim to...
+E: on monitor here
+N: Mary comes inside, grinning ear to ear. Thornburg looks up from his danish, a cute little chin napkin protecting his shirt collar.
+C: THORNBURG
+D: You got something?
+C: MARY
+D: Just McClane's name, badge number, police record, vital statistics... ...And his family's address right here in L.A.
+E: waving a paper the ringer
+N: As Thornburg GRINS we GO TO: HOSTAGE FLOOR Eddie and Uli are guarding the hostages. Hans and Karl return. Hans tosses the bag of detonators to Uli, who grins, leaves. HOLLY AND GINNY Holly has watched all this nervously. But Ginny's eyes follow Karl, who doesn't share the mood of the others.
+C: GINNY
+D: That one look pissed, Ms. Gennero...
+C: HOLLY
+D: Thank God. He's still alive.
+E: relieved explaining
+T: CUT TO:
+N: UPSTAIRS - WASHROOM The door JARS open. McClane all but crawls inside. As he passes the CAMERA we SEE his dragging foot leaving a trail of blood on the linoleum.
+T: CUT TO:
+N: VAULT ROOM - SAME TIME Theo and Kristoff REACT, delighted, as they get the message SIXTH LOCK DEACTIVATED. Suddenly a BUZZER SOUNDS and the graphic flashes: "ELECTROMAGNETIC SEAL ENGAGED. CANNOT BE DISARMED AT THIS LOCATION. TERMINATE SEQUENCE (Y/N)?"
+C: THEO
+D: You better heat up that miracle * you were talking about. We broke through on Number Six, and the Electromagentic came down like a sledgehammer...
+T: INTERCUT:
+N: HANS' OFFICE
+C: HANS
+D: * Well have a look at what our friends outside are doing and I'll be right up.
+E: unphased
+S: INT. BATHROOM - NIGHT
+N: Wincing in pain, McClane washes his foot in a sink basin. He washes a deep cut, soaps it, but the pain doesn't relent. When a VOICE speaks, he JUMPS, realizes it's the CB.
+C: POWELL
+D: Roy? You still with us?
+E: on CB
+C: MCCLANE
+D: Yeah. But all things being equal, I'd rather be in Philadelphia. By the way, chalk up two more terrorists.
+T: INTERCUT:
+N: POWELL - OUTSIDE
+C: POWELL
+D: They boys'll be glad. We got a pool going on you.
+N: McClane tries to wrap paper towels on the foot but his grimace shows that is still hurts like hell.
+C: MCCLANE
+D: Yeah? What's the odds?
+E: through his teeth
+C: POWELL
+D: You don't want to know.
+N: Suddenly remembering an NYPD course in first aid from ten years ago, McClane removes the improvised bandage, check the cut more carefully.
+C: MCCLANE
+D: Put me down for twenty anyway...I'm good for it...so, what got you off the street, Al? You liked lousy coffee, or what?
+E: as he work
+N: Powell doesn't answer right away. At the same time, McClane swallows, seeing a gleam inside his foot. He gingerly probes, and pulls out a shard of glass almost three inches long from its angled gash, his mouth twisted in a silent scream all the way.
+C: POWELL'S VOICE
+D: I...realized I couldn't do what I had to anymore...at least not out there. I had an...accident.
+N: McClane throws the glass across the room, forehead bathed in sweat.
+C: MCCLANE
+D: They way you drive, I can see why.
+E: weakly
+C: POWELL
+D: I...I shot a kid.
+E: beat, serious
+N: Realizing what he's hearing for the first time, McClane's face shifts to a new kind of pain.
+C: POWELL
+D: Eleven years ago. Oh, it was dark... he was big for his age...damn ray gun he had looked real enough...yeah, I had all the right excuses...but afterwards... I really couldn't draw my gun again.
+E: soft
+C: MCCLANE
+D: I...I'm sorry. I didn't mean to make a joke of it.
+C: POWELL
+D: Hey, you couldn't know.
+E: offhand
+C: MCCLANE
+D: I still feel like shit.
+C: POWELL
+D: Then this won't matter. LAPD's not calling the shots anymore.
+E: reluctantly
+N: And as McClane REACTS we GO TO:
+S: INT. VAULT ROOM - NIGHT
+N: Hans and Theo lean over a monitor watching a DWP truck near the parking garage. THEO * (tapping the screen) There's the city engineers...they're going into the street circuits...But who are these guys in the suits?
+C: HANS
+D: That's the FBI...ordering them to cut * the building's power. They're as regular as clockwork...or a time lock...
+N: ON Theo's look:
+C: HANS
+D: ...the circuits that cannot be cut... are cut automatically in reponse to a terrorist incident...You ask for miracles, Theo...I give you the FBI...
+C: THEO
+D: When you're hot, you're hot.
+T: CUT TO: *
+S: EXT. BUILDING
+N: As we saw on Theo's screen, the Johnsons and Robinson and Powell are my a MANHOLE with a CITY ENGINEER. A big CONTROL BOX is there, cables snaking into the ground where another CITY WORKER finishes WELDING a last connection.
+C: GUY IN MANHOLE
+D: We're spliced in down the line.
+C: LITTLE JOHNSON
+D: Do it...now.
+N: The engineer THROWS GIANT LEVERS. Inside the manhole, SPARKS SIZZLE and massive contacts CLUNK. THE BUILDING One by one, all the light on all the floors GO OUT. MCCLANE in the bathroom, ripping off his shirt and tying it around his foot, he REACTS --
+C: MCCLANE
+D: Powell? What's going on?
+E: into CB
+T: INTERCUT:
+N: OUTSIDE
+C: POWELL
+D: Ask the FBI. They've got the terrorist playbook and they're running it, step by step.
+E: watching the others
+N: McClane reacts, worried; he knows better. THE HOSTAGES groan with this new problem: THE VAULT ROOM Theo and Kristoff and Hans huddle over the computer monitor screen as if it was a warm fireplace. Theo points to the computer screen; all they can do is wait. We HEAR the HUMM of a portable generator. The lights go OFF. The computer screen stays ON. Theo looks over at the safe. SAFE LED READOUT It still reads "FIBER OPTIC TIME LOCK CANNOT BE DISARMED AT THIS LOCATION. TERMINATE SEQUENCE (Y/N)?" BACK TO SCENE
+C: KRISTOFF
+D: Damn! It didn't go!
+C: THEO
+D: They're on the building circuit... it's too local.
+C: HANS
+D: Encourage them to be bolder.
+C: THEO
+D: The only thing left for them is the City Grid... ...They may not do it.
+E: worried, typing
+S: EXT. BUILDING
+N: Just as the Johnsons are looking SMUG...all the floors GO BACK ON, one by one!
+C: LITTLE JOHNSON
+D: Shit! Cut it again. Go wider.
+E: turning, to the Engineer
+C: ENGINEER
+D: I can't go wider here... ...I'd have to call downtown have them take down one of the city grids...you're talking ten square block --
+E: to Robinson, looking for help
+C: ROBINSON
+D: -- ten blocks? Are you crazy? It's Christmas Eve, thousands of people -- the Mayor'll scream bloody murder --
+E: to Big Johnson
+C: BIG JOHNSON
+D: We must shut down the building. Go wider --!
+E: ignoring Robinson, to the Engineer
+C: ENGINEER
+D: I need authorization --
+C: BIG JOHNSON
+D: Authorization? How about the United States Fucking Government? Lose the grid or lose your job!
+N: The engineer looks at Robinson. No help. The engineer looks at his guy in the manhole, shrugs. No choice.
+C: ENGINEER
+D: Central. This is Walt, out at Nakatomi. I want you to shut down grid 212. No shit, it's my ass. Just shut it down now.
+E: takes phone listens
+N: Pause...pause...AND THEN THE FLOORS OF THE BUILDING ALL GO OUT AGAIN. IN THE VAULT ROOM EMERGENCY LIGHTING FLICKS ON. An ALARM "beep-beep-beeps." THE LED READOUT ON THE SAFE changes to "FIBER OPTIC TIME LOCK DEACTIVATED AT SOURCE. SEVENTH LOCK DISENGAGED." BACK TO SCENE With a dramatic HUM worthy of 2001, the vault door OPENS! OUTSIDE The FBI guys look at the dark building, than at the LAPD guys.
+C: BIG JOHNSON
+D: That should shake'em up. With all the power shut down, those bastards are probably scared shitless.
+N: IN THE VAULT ROOM The safe door finishes its ponderous move, CLUNKS to a halt. Theo and Kristoff LAUGH, give each other high fives. Even Hans loses his usual cool, slaps Theo on the back as Theo and Kristoff CHEER.
+T: CUT TO:
+N: THORNBURG'S TV TRUCK drives along a residential street. We SEE the Nakatomi tower in the b.g., spotlit by the police beams. Thornburg checks a map, POINTS a turn out to the driver.
+T: CUT TO:
+N: OUTSIDE THE NAKATOMI BUILDING Powell looks up at the dark structure lit only by emergency lighting. He sidles over to the FBI men.
+C: POWELL
+D: What do we do now, arrest them for not paying their electric bill?
+E: dryly
+C: LITTLE JOHNSON
+D: We let them sweat awhile. Then, when they're expecting helicopters... ...We give them helicopters...
+E: sharply pause
+C: BIG JOHNSON
+D: Right up the ass. This is Johnson...no the other one. I want that air support ready to lift off in five minutes...Damn right fully armed. We're on our way. Attention in the building.
+E: nodding into another communicator into CB
+T: INTERCUT:
+N: VAULT ROOM Hans talks while Theo and Kristoff tackle the problem of unloading the racks and racks of bonds and transferring them to the black cases.
+C: HANS
+D: This is Hans...
+C: BIG JOHNSON
+D: This is Agent Johnson of the FBI. The State Department has arranged for the release of your comrades. The helicopters you requested are on the way.
+C: HANS
+D: I hear you, FBI. We'll be ready.
+N: He disconnects, smiles at Theo.
+C: HANS
+D: When they touch down and we blow the roof, they'll spend a month sifting through the bodies and rubble. By the time they figure out what went wrong... ...we'll be earning twenty percent like nice fat Capitalists.
+E: smiling at the irony
+C: BIG JOHNSON
+D: By the time he figures out what hit him he'll be in a body bag.
+E: disconnecting, grinning
+N: The Johnsons exit. Powell and Robinson look at each other, unhappy. Powell's CB HISSES --
+C: MCCLANE'S VOICE
+D: Powell, listen...
+N: Powell moves off to be alone.
+T: INTERCUT:
+S: INT. BATHROOM
+C: POWELL
+D: I'm here, John.
+N: McClane tries walking on his foot. He winces in pain, clearly at the end of his resources.
+C: MCCLANE
+D: Look...I'm getting a bad feeling up here...I'd like you to do something for me. Look up my wife...don't ask how, you'll know by then...and tell her...tell her...I've been a jerk. When things panned out for her, I should've been behind her all the way ...We had something great going until I screwed it up...She was the best thing that ever happened to a bum like me. She's heard me say I love you a thousand times, but she never got to hear this...honey...I'm sorry. You get all that?
+E: long pause pause
+C: POWELL
+D: I got it. But you can tell her yourself. Just watch your ass and you'll make it.
+E: clearly touched
+C: MCCLANE
+D: I hope so. But that's up to the guy upstairs. Upstairs... ...Hans, you bastard...what were you doing?
+E: pause; struck by a thought thinking, to himself
+C: POWELL
+D: Roy?
+C: MCCLANE
+D: Stand by, Powell. I gotta check something out.
+N: He moves towards the door, limping hurriedly out of the room.
+T: CUT TO:
+N: HOLLY'S FRONT DOOR Thornburg's got one foot literally in the doorway, but since Paulina still has the chain on, it's not quite enough.
+C: THORNBURG
+D: One minute, that's all we ask. You could be denying them their last chance to talk to their parents.
+E: to Paulina
+C: PAULINA
+D: I'm sorry...Mrs. Holly says I couldn't let strangers into --
+C: THORNBURG
+D: Strangers? I'm with KFLW TV, that's affiliated with the FCC, and I'm sure you know that's the United States government...just like the INS?
+N: As she wavers...
+T: CUT TO:
+N: THE MECHANICAL FLOOR McClane hobbles in here, favoring his foot. He retraces his steps earlier, mentally replaying his meeting with Hans.
+C: MCCLANE
+D: I was here...he was...
+N: His eyes flick over the area...then he looks up. Seeing something, he moves closer. He sets down his CB and then, with difficulty, he climbs up on a thick pipe, flicks his lighter and hold its high. HIS P.O.V. Explosives are everywhere. BACK TO SCENE He reacts, quickly extinguishing the lighter. He follows the detonator lines with his eyes.
+C: MCCLANE
+D: Oh my God...
+N: He drops to the floor, winces in pain, picks up his CB.
+C: MCCLANE
+D: Powell! Powell, listen to me! You're being double crossed! The whole roof of this building is --
+N: Suddenly a GUN BARREL is pressed against his head. He stiffens. NEW ANGLE Karl takes his Baretta, tosses it away. Then Karl takes the CB. Smiling, Karl SMASHES the transmitter underfoot.
+T: CUT TO:
+S: EXT. BUILDING - POLICE LINES
+N: Powell is beside one of the radio monitoring officers.
+C: POWELL
+D: Roy? Hello? Hello? I thought you had him.
+E: into CB to the officer
+C: OFFICER
+D: I did. He said something about a, a double cross...
+C: POWELL
+D: Tell me about it.
+E: looking off
+N: NEW ANGLE Showing two HELICOPTERS in the distance heading this way.
+T: CUT TO:
+N: MACHINE FLOOR Karl hovers over McClane, who hasn't moved a muscle.
+C: KARL
+D: We're both professionals. But this is personal. You...are done.
+E: quietly
+N: WHAM! McClane DRIVES his elbow into Karl's face. NEW ANGLE Karl's weapon clatters on the floor. McClane follows his first blow with another. Karl recovers, and with a spinning karate kick SLAMS McClane back.
+T: CUT TO:
+N: HOSTAGE FLOOR - NIGHT Eddie turns from a window, where the chopper lights loom closer.
+C: EDDIE
+D: They're coming.
+N: CAMERA PANS across the room to the doorway of the office, where Hans nods, stands.
+C: THORNBURG'S VOICE FROM TV
+D: -- I know you're proud of your daddy...
+N: CLOSEUP - HOLLY She's speechless, watching in shock as: THE PORTABLE TV shows Thornburg at Holly's house! He's squatting down with his microphone to interview the children in their P.J.s. His voice is soft, comforting.
+C: THORNBURG
+D: ...because he's a very brave policeman. And your mom has shown just as much courage. But is there something you would like to say to them if they're watching?
+E: to the children
+N: John Jr. says nothing, but Lucy looks at the camera.
+C: LUCY
+D: Come home.
+N: HOLLY She struggles to stay composed...can't. She slowly turns her head, looks at Hans. HER P.O.V. - HANS He's looking away from us, at the picture of the children on her desk. He turns back and looks at her. He smiles.
+C: HANS
+D: Mrs. McClane. How nice to make your acquaintance.
+N: He raises his weapon...but he only shoot it into the ceiling, making everyone jump!
+C: HANS
+D: On your feet, everyone! Upstairs, now! You'll lock them up there and come right down...
+E: shouting quietly, to Uli
+N: Uli nods and he and Eddie help herd everyone towards the stairs. Hans moves forward...grabs Holly himself.
+T: CUT TO:
+N: THE MACHINE FLOOR McClane and Karl move towards each other, each sizing the other up, each looking over the terrain.
+C: MCCLANE
+D: Better this way, isn't it? I mean, any faggot can shoot a gun.
+N: This time Karl doesn't take the bait. Then, when he does charge, it's unexpected. The two men fight brutally, Karl bringing years of martial training to this moment, McClane bringing nothing but the street. NEW ANGLE
+C: MCCLANE
+D: You should've heard your brother scream when I broke his fucking neck...
+N: Karl steps in quickly with a deadly move. McClane twists free, slams an elbow into Karl's kidney. Karl backs off, circles McClane with new respect.
+T: CUT TO:
+N: INSIDE AN FBI CHOPPER - IN FLIGHT THROUGH THE CANOPY we SEE another flanking chopper. Johnson and Johnson are here, helmets and mikes on. Big Johnson checks aerial maps while Little Johnson checks ammo clips for his sniper scoped assault rifle.
+C: BIG JOHNSON
+D: Stay low. They're expecting transports, not gunships.
+E: shouting, to the pilot
+C: LITTLE JOHNSON
+D: What do you figure on breakage?
+E: shouting over the noise of the rotors
+C: BIG JOHNSON
+D: I figure we take out all the terrorists, and lose 20 percent of the hostages... 25, tops.
+C: LITTLE JOHNSON
+D: I can live with those numbers.
+T: CUT TO:
+N: VAULT FLOOR Theo and Kristoff load the bonds into the big cases which carried all their gear when they entered. As Hans and Eddie come in they look curiously at Holly.
+C: HANS
+D: A little bonus for us. A policeman's wife might come in handy.
+E: shoving her forward violently
+N: He picks up a CB, speaks into it.
+C: HANS
+D: McClane! McClane! I have some news for you...McClane?
+N: THE MACHINE FLOOR TILT UP from the CB radio Karl smashed. Karl and McClane are in the b.g., almost toe to toe, all their tricks played out, going at it with animal instinct. THE VAULT ROOM
+C: HANS
+D: McClane? Karl? Karl?
+E: pause, then on a new channel
+N: Nothing. He looks at Theo.
+C: HANS
+D: Hurry.
+N: THE ROOF Uli herds the hostages up onto the roof, pushing the last few out. LONG SHOT - FBI CHOPPERS - DOWN AVE. OF THE STARS They float toward us, hugging the street, their prop wash shaking the trees. POWELL AND ROBINSON Following them with their eyes, for once sharing the same opinion. HOSTAGES ON THE ROOF They see their very own Christmas decorations, the friendly copter lights, and begin to smile and cheer. Uli smiles to himself, moves towards the door: VAULT ROOM Theo closes the lid of a bond-stuffed case, carries it out of the room. Holly's eyes follow his exit while the others continue.
+C: HOLLY
+D: After all your posturing, all your speeches...you're nothing but a common thief.
+E: to Hans, scornfully
+C: HANS
+D: I'm an exceptional thief, Mrs. McClane. And now that I'm moving up to kidnapping, you should be more polite.
+N: He SLAPS her. MACHINE FLOOR Karl drives McClane back with a sweeping head kick. Another one. McClane is staggering. He gets in one hard punch and then Karl charges at him. McClane falls backwards, drives his legs upwards, propelling Karl into the air: LOW ANGLE Karl goes into a loop of chain hanging over a turbine, becomes entangled. MCCLANE jumps to his feet, yanks the other end of the chain. KARL is JERKED upwards by the neck. He TWITCHES like a captured fish -- starts to turn blue: MCCLANE Twists the chain end around a pipe as Karl STILLS. McClane snatches up his Baretta from the floor, runs out.
+T: CUT TO:
+N: CHOPPERS - IN THE AIR We can SEE the tailing 'chopper through the open port of this one. Big Johnson leans over, slaps the shoulder of his pilot.
+C: BIG JOHNSON
+D: Just like Saigon, eh, Wally?
+C: PILOT
+D: My kind of town.
+T: CUT TO:
+N: THE ROOF The door rattles. His back to the CAMERA, Uli goes to the door, OPENS it -- and TWO BULLETS COME OUT HIS BACK. Smoking Baretta in hand, McClane vaults over the body before it has even stopped twitching. As the hostages SQUEAL and SCREAM, McClane snatches up Uli's machine gun, runs out onto the roof. He charges through the crowd, spots Ginny near the edge of the roof. She meets him halfway.
+C: MCCLANE
+D: Where's Holly --
+C: GINNY
+D: The took her -- after they saw the kids on television --
+C: MCCLANE
+D: What? God --
+N: He looks off to the choppers. Closer yet. He turns, SHOUTS.
+C: MCCLANE
+D: Listen to me! All of you, get down to the lower floors -- you're all in danger.
+C: HOSTAGE
+D: What are you, crazy? We're being rescued! Those helicopters --
+C: MCCLANE
+D: -- there won't be shit for those helicopters to land on, because the whole top of this building is wired with explosives! Now get below --
+C: SECOND HOSTAGE
+D: But...we're safe up here --
+C: MCCLANE
+D: Safe, my ass! This ain't a helipad, it's a launching pad!
+N: And he FIRES over their heads! They SCREAM, head for the door as he hoped! He FIRES again, raking a line across the roof. They really haul ass.
+C: MCCLANE
+D: GET BELOW! NOW!
+N: IN THE WING CHOPPER - MID-AIR A YOUNG FBI AGENT is here with a rifle and a partner.
+C: YOUNG FBI
+D: Flight leader, this is Wing. I think they're on to us. One of the terrorists is firing on the hostages.
+E: into throat mike, looking out the door
+N: INSIDE THE OTHER CHOPPER
+C: LITTLE JOHNSON
+D: Roger, Wing. We copy. Swing around. Give me a clear shot.
+E: into mike to the pilot raising his rifle
+N: The pilot nods.
+S: INT. VAULT ROOM
+C: HANS
+D: Schnell, schnell...der zeitz ist kurz...
+E: supervising the work
+N: Something catches his eye. He turns, looks at: VIEW THROUGH WINDOW -- HIS P.O.V. Through the glass here he can catch a glimpse of the hostages coming back into the room!
+T: CUT TO:
+N: THE ROOF McClane herds the last of the hostages inside, starts for the door himself, when with a ROAR and a CHATTER of rotors, the lead chopper zooms overhead! McClane throws himself down on the ground, looks up as the chopper banks in a tight turn and then from the open side GUNFIRE erupts! Shocked, McClane DIVES out of the way of the bullets that stitch across the door. HOSTAGES - ON LOWER FLOORS (OR IN STAIRWELL) descending, SCREAMING and HOWLING as a chopper SWEEPS past a window on a loop back towards the roof. IN THE CHOPPER Both Johnsons FIRE AWAY
+C: BIG JOHNSON
+D: Bank and we'll nail him!
+N: THE VAULT ROOM Hans whirls towards Kristoff.
+C: HANS
+D: Blow the roof. Now!
+C: KRISTOFF
+D: But Karl and Uli are up there --
+N: CAMERA ADJUSTS to show the remote detonator on a table. Hans goes to it. THE ROOF McClane DIVES away from another burst.
+C: MCCLANE
+D: You assholes, I'm on your side -- !
+N: They come in on another pass. Desperate, he looks around, see a fire hose. Makes up his mind. With the chopper LOOMING UP behind him, he slings Uli's weapon, runs to the fire hose, unreels three yards, loops it around his back and under his legs. He looks over the edge, hesitates:
+C: MCCLANE
+D: Fuck this...
+N: Bullets HIT all around him. He JUMPS: THE VAULT ROOM Hans extends the antenna...HITS the button. LONG SHOT - THE ROOF The helipad EXPLODES! A FIREBALL rolls into the sky. THE HOSTAGES lose their footing on the floor. Dust and debris fall down, but they're okay. JOHNSON AND JOHNSON'S CHOPPER STRAINS to avoid the rising fireball...can't! It's CAUGHT in the explosion! It tips over, a rotor hits the roof -- it CRASHES, EXPLODES, tumbles down the side of the building! MCCLANE Dangling against the side of the building, he DUCKS and winces as FLAMING DEBRIS soar past him. THE ROOF - HOSE WHEEL DEVICE Flame ROARS TOWARDS it, engulfs it. It JERKS on its foundation PIVOTS 180 degrees as several bolts slip: MCCLANE DROPS several more feet. He swallows, then KICKS against the side of the building, his bloody feet leaving smears. The shatterproof glass doesn't budge! Wincing as more FLAMING DEBRIS sizzles by, McClane levels the machine gun, KICKS off from the building, SWINGS back ten feet -- reaches the zenith of his arc -- FIRES the gun and sails back in: INSIDE THE BUILDING McClane SMASHES through the shattered glass, SAILS inside, rolls onto the floor, PLOWING through furniture and decor. Finally he STOPS, catches his breath with relief...rises to one knee: UP ON THE ROOF The fire hose mounting is BLASTED off the roof, SAILS past the CAMERA: OUTSIDE THE BUILDING The hose mechanism tumbles downward! INSIDE McClane is YANKED off his feet, dragged towards the window! THE HOSE WHEEL - OUTSIDE It SLIDES down the side of the building! The hose PLAYS OUT on the edge of the windowsill, dragging McClane towards his death! MCCLANE CLAWS at the floor...no help. Inches from the shattered window, he braces his legs against the sill, groans as he fights the weight of the hose and the reel. One foot SLIPS. Only his already wounded foot keeps him indoors. He scrambles to untie his improvised rappeling rig -- gets free just before the hose nozzle CRASHES out and into the great beyond! Winded, strength ebbing, he staggers to his feet -- just in time for: THE ROOF to RECOIL from another staggering explosion! THE HOSTAGES They scream, cry out: IN THE VAULT ROOM As Holly covers her head from falling plaster, the men work like automatons, piling up the bonds. MCCLANE recovers from another AFTERSHOCK, runs up the steps -- is momentarily amazed to HEAR a "ding" from the elevator -- he looks at: THE SHAFT where suddenly the WALL EXPLODES OUTWARD as an ENTIRE ELEVATOR CRASHES THROUGH THE WALL, swinging on its cable like a demolition ball on a crane! BACK TO SCENE McClane runs up the steps as brickwork flies past his head like schrapnel: THE ELEVATOR reaches the apex of its swing, drops down in an arcing turn: WIDE SHOT the elevator CRASHES into the stairs! The section McClane in on SNAPS LOOSE! At the last minute McClane LEAPS towards: THE VAULT FLOOR BALCONY and catches it as stairs and elevator CRUMBLE behind and beneath him! With his last effort, he hauls himself onto the balcony and them moves off!
+T: CUT TO:
+S: EXT. BUILDING
+N: The police are scrambling for cover. Powell and Robinson are open-mouthed. IN THE BASEMENT Argyle is huddled down on the floor of the back seat, the stuffed animal held over his head as much for company as protection. As the building ceases to ROCK Argyle sneaks a peek out from under the fur...and sees: HIS P.O.V. - THEO at the delivery truck. He steps into a white paramedic's jumpsuit and zips it up. He hops into the cab and pulls the truck away from the loading dock. MCCLANE - ON THE VAULT FLOOR He creeps forward, looks carefully into: HIS P.O.V. - VAULT ROOM They're getting ready to leave with the bearer bonds. Suddenly the CAMERA FOCUS CHANGES TO HOLLY. BACK TO SCENE McClane's face shows his anguish. He checks the weapon he took from Uli. One bullet!
+C: MCCLANE
+D: Shit...
+E: under his breath
+N: He checks his Baretta. One bullet. He thinks, desperate. Decides. He takes the bullet from the rifle clip, adds it to the Baretta clip. He slams the pistol clip back, really worried. Mind racing, he looks all around the room...his eyes fall on a tape dispenser. He thinks again...steps towards it: 380-A IN THE BASEMENT 380-A Theo has pulled two ramps out from the truck and slips into the back. A car engine fires up inside the delivery truck. ARGYLE Realization dawning, he vaults into the front seat. THE GARAGE A paramedic van shoots out of the back of the Pacific Courier delivery truck. Flooring the limo, Argyle CRASHES into the van, which CAREENS into the wall. CLOSER Theo staggers out in time for Argyle to deck him with one punch.
+C: ARGYLE
+D: Where's the camera when you need them?
+E: looking around
+T: CUT TO:
+N: THE VAULT ROOM
+C: HANS
+D: Let's move.
+N: The last of the money is piled on. Hans hangs onto Holly while Eddie pushes the mail carts of moneybags. Kristoff goes to the door to scope their escape...suddenly he is COLD COCKED by a rifle butt. WIDER McClane steps into view in the doorway, backlit by sparks still tumbling down from the roof above. He holds the machine gun ready.
+C: MCCLANE
+D: Hans!
+N: Hans turns, not that surprised. Grinning, he yanks Holly into view. No words need be said.
+C: HOLLY
+D: John!
+C: MCCLANE
+D: Holly, we have to stop meeting like this. So that's what it was. A fucking robbery. So why nuke the building, Hans?
+E: taking in the vault thinking
+C: HANS
+D: When you steal six hundred dollars, you can disappear...but when you steal six hundred million, they will find you...unless you play dead. Which happens to be your next role... drop your gun, please.
+E: with a shrug tight smile
+N: McClane hesitates...Hans pushes the gun against Holly again, really hurting her. Eddie quickly raises his weapon.
+C: HANS
+D: Nein, dies ein ist mein. This time John Wayne does not walk off into the sunset with Grace Kelly.
+E: to Eddie to McClane
+C: MCCLANE
+D: That was Gary Cooper, shithead...
+C: HANS
+D: No more jokes, drop it or she gets it between the eyes!
+C: MCCLANE
+D: Whoa, Hans, now you're the cowboy?
+E: slowly putting down his gun
+C: HANS
+D: 'Yippe-ki-yea, mother fucker'? Now you are fucked.
+N: He aims:
+C: MCCLANE
+D: Holly, now...!
+N: Instantly, Holly sidesteps, JABS her elbow into Hans' face! MCCLANE - OVER SHOULDER SHOT At the same moment Holly moves, McClane grabs his Baretta from its hiding place TAPED TO THE BACK OF HIS NECK, SHOOTS Hans high in the chest! The bullet passes right THROUGH Hans, and the WINDOW behind him SPLATTERS with blood and SHATTERS. Even while this is happening, McClane SPINS: EDDIE - THROUGH MCCLANE'S WIDESPREAD LEGS Eddie takes a gunshot, DROPS just like on Gunsmoke. BACK TO SCENE Hans drops his weapon, staggers, looks down at his own blood in shock. MCCLANE
+C: MCCLANE
+D: You were right about us Americans. We are cowboys.
+E: he blows smoke from his pistol barrel
+N: VAULT ROOM - WIDER Incredibly, Hans still stands, eyes filled with shock and disbelief. He REELS, falls against the windowsill, starts to TOPPLE -- and then he GRITS his teeth and from some inward place finds a last reserve of strength and he GRABS: HOLLY'S WRIST and she is YANKED off her feet! BACK TO SCENE Hans goes out the window, pulling Holly with him! McClane LEAPS forward, catches her inside arm near the elbow at the last minute!
+S: EXT. BUILDING - LONG SHOT
+N: The roof still in flames, McClane hangs halfway out of the window, jagged glass raking his face, straining to hold onto Holly as Hans drags her out! McClane braces himself against the window frame and strains to pull Holly closer. With a MOAN, she catches the windowsill with her inside hand. McClane STRETCHES with his other hand, begins to INCH towards Holly's wristband. HANS' HAND - WIDEN A death grip on the watchband. We WIDEN, SEE that, blood flecked teeth GRITTING, he is STRAINING with his other hand to bring up the gun he is still holding! MCCLANE Holly's SCREAM alerts him. Hans locks eyes with McClane one last time, starts to pull the trigger, as: VERY CLOSE McClane RELEASES the latch on the watchband! The overtaxed metal SNAPS, links flying: WIDER Hans' face registers his horror as he and most of the watch suddenly drop. We LISTEN to his scream all the way down, finally HEAR him HIT. McClane pulls Holly back into the room and holds her.
+C: MCCLANE
+D: It's okay, babe. It's okay.
+N: He looks down at Hans' body, then back at the scrap of wristband he's still holding.
+C: MCCLANE
+D: You got a warranty on this?
+N: She laughs through her tears, holds onto him.
+T: DISSOLVE TO:
+S: EXT. BUILDING - DAWN
+N: Smoke drifts up from what has suddenly become the top floor. Thornburg's remote truck careens into the parking lot. CLOSER A crowd watches as the front doors of the building open. We SEE McClane, who holds up Holly and in turn is supported by SWAT men. As REPORTERS start shouting questions, McClane breaks free of his entourage, and, holding Holly, pushes into the crowd.
+C: MCCLANE
+D: Al? Al, you here -- ?
+E: calling out
+N: The crowd eddys and surges...suddenly Powell is there, and McClane knows it's him. They stare at each other, ten feet apart, and then they're grinning, extending their hands. But somehow a shake isn't enough, and they're embracing each other like men who've lived through combat together...which, in fact, is the truth.
+C: MCCLANE
+D: Al. Man, you were my rock. I couldn't have made it without you.
+E: emotional
+C: POWELL
+D: Bullshit.
+C: MCCLANE
+D: I'm serious. Hey, this is my wife... Holly Gennero.
+C: HOLLY
+D: Holly McClane.
+E: taking Powell's hand, correcting
+N: Hearing this, McClane grins, pulls her close. *
+C: POWELL
+D: A pleasure. I guess John doesn't need me to give you that message anymore.
+E: to her
+C: HOLLY
+D: Message?
+E: puzzled
+N: McClane begins to make silent "ixney" gestures in Powell's direction.
+C: POWELL
+D: You know, about him being such a jerk -- and how he's really sor -- -- ee...Uh, I'm sure he'll fill you in.
+E: seeing McClane
+N: Just then Robinson barges forward.
+C: ROBINSON
+D: I want you for debrief, McClane. You've got some things to answer for -- Ellis' murder -- property damage -- interfering with police * business --
+N: A SCREAM causes McClane to turn. HIS P.O.V. There in the doorway is Karl, clothing and body scorched. Easily as crusted in dirt and blood as McClane, he holds his machine gun.
+S: EXT. BUILDING
+N: As the crowd panics trying to escape, Karl locks eyes with McClane and levels his gun. McClane throws Holly to the ground and grabs the dumbstruck Robinson's sidearm. But he doesn't get off a shot -- a lone gunshot stops Karl -- knocking him back through the doorway. McClane looks back to see Powell still sighting down the barrel of his .38. His hand is rock steady. He sees McClane's look.
+C: POWELL
+D: You were right. You couldn't have made it without me.
+E: shrugging
+N: They smile. Suddenly McClane and Holly squint as LIGHTS pan onto them. Thornburg pushes his way forward, mike extended like a weapon.
+C: THORNBURG
+D: Mr. McClane...Mrs. McClane...any comment on your incredible ordeal? What are your feelings now that it's all over?
+N: Without a beat, Holly PUNCHES HIM in the chops. He FALLS, dropping the mike with an electronic SQUEAL. McClane looks at his wife, amazed. Behind them, Thornburg sits on the ground, * nurses his lip, turns to his camerman.
+C: THORNBURG
+D: * Did you get that?
+E: eager
+N: McClane and Holly continue on, turn towards: * ARGYLE'S LIMO It's a little smashed up, but still running. Argyle is standing beside the open door. McClane and Holly get in and Argyle closes the door.
+C: ARGYLE
+D: If this is their idea of Christmas I gotta be there for New Year's.
+E: getting in the front
+N: CAMERA ADJUSTS TO SHOW the read window where McClane and Holly are kissing. As they drive off, we:
+T: FADE OUT
+N: THE END Twentieth Century Fox SCRIPT DEPARTMENT 10201 W. Pico Boulevard, Los Angeles, CA 90035 Telephone: (213) 203-2494
