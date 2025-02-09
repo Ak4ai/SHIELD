@@ -1,0 +1,1428 @@
+M: John Carpenter's Escape From New York
+M: written by John Carpenter and Nick Castle
+M: transcript by Anjela F. Conner
+T: FADE IN
+N: CARD -- 1988 FADE IN SECOND CARD -- The Crime Rate in the United States Rises Four Hundred Percent.
+C: VOICE
+D: In 1988, the crime rate in the United States rises four hundred percent.
+N: GRAPHIC -- Line-graphic of New York, MANHATTAN ISLAND highlighted.
+C: VOICE
+D: The once-great city of New York becomes the one maximum-security prison for the entire country.
+N: GRAPHIC -- MANHATTAN ISLAND lights up. The word "Prison" is added.
+C: VOICE
+D: A fifty-foot containment wall is erected along the New Jersey shoreline, across the Harlem river, and down along the Brooklyn shoreline. It completely surrounds Manhattan Island.
+N: GRAPHIC -- The containment wall is added to the line graphic with the tag "Containment Wall".
+C: VOICE
+D: All bridges and waterways are mined.
+N: GRAPHIC -- Dots symbolizing the bridges and waterways blink on and off.
+C: VOICE
+D: The United States Police Force, like an army, is encamped around the island.
+N: GRAPHIC -- Arrows symbolizing the police force are added. TAG -- Statue of Liberty Island Security Control.
+C: VOICE
+D: There are no guards inside the prison: only prisoners and the worlds they have made.
+N: NEW GRAPHIC -- Outline drawing of New York.
+C: VOICE
+D: The rules are simple. Once you go in, you don't come out.
+N: GRAPHIC -- Outline drawing of the Statue of Liberty and the shoreline are added. CARD -- 1997
+T: FADE IN SECOND CARD -- NOW FADE OUT 1997
+S: EXT. STATUE OF LIBERTY SECURITY CONTROL -- NIGHT.
+N: A Jeep pulls up outside the base. It comes to a stop and the driver pulls out a walkie-talkie.
+C: DRIVER
+D: This is Gotham 4, North Bay, Station 17. I have an escape in progress. An object in mid-bay moving toward the wall.
+N: TILT UP -- WALL EXT. CLOSE UP -- SIGN "New York Maximum Security Penitentiary Manhattan Island"
+S: CONTINUED TILT UP -- EXT. WALL -- NIGHT
+N: Two guards watch for the escapees in question.
+S: EXT. MANHATTAN ISLAND -- NIGHT
+N: A helicopter flies over the bay towards Manhattan Island.
+S: EXT. BOAT -- NIGHT
+N: The two escapees paddle, trying to get across the bay.
+S: EXT. HELICOPTER -- NIGHT
+N: The search light WHITES OUT THE SCREEN
+S: EXT. BOAT -- NIGHT
+N: The two escapees continue paddling. THEY'VE BEEN CAUGHT.
+C: HELICOPTER PILOT
+D: You have 10 seconds. Turn around. Start back to the island.
+S: INT. HELICOPTER -- NIGHT
+N: The pilot targets the boat on a computer screen in front of him.
+S: EXT. BOAT -- NIGHT
+N: Two shots are fired directly in front of the escapees as a warning. They ignore them and continue paddling away from the island.
+S: INT. HELICOPTER -- NIGHT EXT. CLOSE UP -- PILOT'S HAND
+N: The pilot FIRES AGAIN.
+S: EXT. BOAT -- NIGHT
+N: The boat EXPLODES.
+S: EXT. HELICOPTER -- NIGHT
+N: Following the helicopter as it returns to the base.
+S: EXT. BASE -- NIGHT
+N: Rehme walks back to the main base, pulling out his walkie-talkie on the way.
+C: REHME
+D: Gotham 4, confirm the kill.
+C: HELICOPTER PILOT
+D: Circled the base. Over.
+C: REHME
+D: Security, this is Rehme. We have confirmation from Gotham 4. We have a kill in midharbor. South of the battery. Two in the water dead.
+C: SECURITY
+D: Two confirmed.
+C: REHME
+D: Very well.
+S: EXT. BASE -- NIGHT
+N: Rehme walks into a building labeled "LIBERTY ISLAND SECURITY CONTROL and picks up a phone.
+C: REHME
+D: Air traffic, this is Rehme . . .
+S: EXT. AIR TRAFFIC -- NIGHT
+N: The helicopter lands. In the background, a BUS FULL OF PRISONERS comes up.
+S: EXT. BUS -- NIGHT
+N: S.D. "SNAKE" PLISSKEN gets off the bus, looks around, and is escorted by three guards into the base. He looks like the essence of cool. His hair is long, wavy, and ratty, he lost his left eye somewhere along the line, and he's got a two-day beard thing going on. He's wearing a black spandex/kevlar type shirt with zippers across the shoulders, and a pair of camouflage pants with lots of pockets. His jacket is a brown leather jacket that has seen far better days, and he's wearing a pair of handcuffs that have, instead of the links we're used to, a straight metal bar between them. He's not resisting anything, but the police are not taking any chances.
+S: INT. BASE -- NIGHT
+N: Plissken and the guards follow a winding stairway down to the main floor.
+C: VOICE
+D: Attention. You are now entering the debarkation area. No talking. No smoking. The next scheduled departure to the prison is in two hours. You now have the option to terminate and be cremated on the premises. If you elect this option, notify the duty sergeant in your processing area.
+S: INT. BASE -- NIGHT
+N: EXT. CLOSE UP ON SIGN -- "No talking. No smoking. Follow the ORANGE line." EXT. CLOSE UP ON SNAKE. He is not impressed. STEADICAM VIEW OF THE HALL, SNAKE'S P.O.V. Guards, guards, more guards. Who cares. As Snake rounds the corner:
+C: O.S. GUARD
+D: Hold it.
+N: Snake stops, turns, directs an impertinent glance at the speaker. He's still not impressed by any of this.
+T: FADE OUT. FADE IN.
+S: EXT. BASE -- NIGHT
+N: Rehme waits as a limo pulls up. Out steps BOB HAUK.
+C: REHME
+D: We've got a small jet in trouble, over restricted air space.
+C: HAUK
+D: Where is it?
+C: REHME
+D: Seven miles out and closing.
+N: The two of them walk AWAY.
+S: INT. BASE -- NIGHT
+N: Hauk and Rehme walk down the stairs. They turn TOWARD US and walk into the AIR TRAFFIC ROOM. Dozens of men sit in front of radar transmission screens, wearing headsets and working. Following Hauk and Rehme into the room:
+S: INT. AIR TRAFFIC ROOM -- NIGHT
+C: REHME
+D: We've been on the board for the last twenty minutes. We haven't been able to reach them. There was a transmission ten minutes ago. He identified as "David 14." Then all of a sudden he was cut off.
+N: Hauk and Rehme stand behind a CONTROLLER.
+C: CONTROLLER
+D: David 14, acknowledge. David 14, we are sending Air Rescue. Squawk 7700, contact on 121.5. There's still no reply. Bayonne. I have a mayday in restricted space.
+E: to Hauk and Rehme to his headset
+C: O.S. CONTROLLER
+D: New York, I have it.
+N: Hauk pulls Rehme aside.
+C: HAUK
+D: Who is it?
+C: REHME
+D: I don't know.
+C: HAUK
+D: You have the code?
+C: REHME
+D: There's no David 14 on the computer.
+C: HAUK
+D: Unlisted?
+C: REHME
+D: Unregistered code. We telexed Washington. Still waiting for a reply.
+C: CONTROLLER
+D: I think I've got him, sir.
+N: Hauk and Rehme walk back over to the controller. He patches a voice- over through.
+C: REBEL VOICE
+D: It's too late, assholes. All your imperialist weapons and lies can't save him now. We're going down. We're going to crash.
+C: CONTROLLER
+D: David 14, acknowledge!
+C: CODEMAN
+D: The code's coming in, sir.
+N: Hauk and Rehme dash over to the codeman. He shows them a display. "Aircraft Identified. Code: David14. Decode: AIR FORCE ONE." "Air Force One" blinks as Hauk and Rehme look at each other in shock.
+S: EXT. PLANE -- NIGHT
+N: The plane is flying over New York.
+S: INT. COCKPIT -- NIGHT
+N: The REBEL has killed the pilot and copilot and is working on her own.
+C: REBEL
+D: Tell this to the workers when they ask where your leader went . . .
+N: She pulls out a slip of PAPER and proceeds to read.
+C: REBEL
+D: We, the soldiers of the national liberation front of America, in the name of the workers and all the oppressed of this imperialist country have struck a fatal blow to the racist police stick!
+S: INT. PLANE -- NIGHT
+N: A secret service AGENT taps on the door with his rifle as the rebel continues.
+C: REBEL
+D: What better revolutionary example than to let the president perish in the inhuman dungeon of his own imperialist prison?
+N: The agent runs back down the plane to the President and his advisers.
+C: AGENT
+D: Unlock the pod!
+E: to 2ND AGENT
+N: 2ND AGENT immediately runs off. PAN LEFT TO PRESIDENT.
+C: AGENT
+D: She's bolted the door.
+C: PRESIDENT
+D: Can't you shoot off the lock?
+C: AGENT
+D: No, sir, she's pressurized the cabin.
+C: PRESIDENT
+D: How about lifting the door off of the hinges?
+C: AGENT
+D: No, sir.
+N: EXT. CLOSE UP -- The President's wrist as he handcuffs his briefcase to it.
+C: PRESIDENT
+D: Get me to the pod.
+N: The President and all his advisors stand up and move to the back of the plane.
+S: INT. POD ROOM -- NIGHT
+N: The pod opens. An expert attaches a locating device to the President's wrist.
+C: EXPERT
+D: Sir, this is a locating device to trace you if you become separated from the pod. I'm activating it now.
+N: SCREENS on the pod begin to light up as the President gets into the pod. He pushes a few buttons.
+C: PRESIDENT
+D: God save me and watch over you all.
+S: EXT. BASE -- NIGHT
+N: A guard watches as Air Force One descends into New York.
+S: INT. BASE -- NIGHT
+N: Rehme and Hauk watch a computer simulation of the plane.
+C: VOICE
+D: Computer simulation tracking Air Force One.
+S: EXT. NEW YORK -- NIGHT
+N: The plane goes down.
+S: INT. BASE -- NIGHT EXT. CLOSE UP -- MONITORS
+N: As the plane smashes into a building, a red dot drops through the building. It's the pod.
+C: O.S. MAN
+D: It's down!
+C: HAUK
+D: It's the escape pod.
+C: REHME
+D: 40 degrees, 50 yards from impact.
+C: HAUK
+D: I'm going in.
+S: EXT. BASE -- NIGHT
+N: Helicopters prepare for, and execute, launch, and fly into New York. A guard watches them.
+S: INT. BASE -- NIGHT
+N: Rehme watches monitors as Hauk talks.
+C: HAUK
+D: 1-W-Larry. Over the battery. We're moving down. Direct sight ahead.
+S: EXT. NEW YORK -- NIGHT
+N: The helicopters land. A swarm of policemen run out, and Hauk hangs back. He follows with a second swarm. The first swarm assumes a defensive position near the pod. Hauk examines the pod. It's definitely empty, and the rest of the jet is surrounded in flames. An odd LAUGH from nowhere. WEIRDO walks out of the darkness. He nods his head to Hauk.
+C: WEIRDO
+D: You touch me... he dies. If you're not in the air in thirty seconds... he dies. You come back in... he dies.
+N: Weirdo takes a package out of his shirt and unwraps it to reveal the President's middle finger, complete with ring.
+C: WEIRDO
+D: Twenty seconds.
+C: HAUK
+D: I'm ready to talk.
+C: WEIRDO
+D: Nineteen. Eighteen.
+C: HAUK
+D: What do you want?
+C: WEIRDO
+D: Seventeen. Sixteen.
+C: HAUK
+D: Let's go. Let's go!
+N: Weirdo grins in triumph as the police force swarms back to the helicopters and hauls ass out of New York.
+S: INT. BASE -- NIGHT
+N: Rehme stands behind a desk, talking on the phone. Hauk is in the foreground, looking pensive.
+C: REHME
+D: Yes, he's right here, Mr. Vice President.
+N: Hauk picks up a phone.
+C: HAUK
+D: This is Bob Hauk. ...We can't. If we move in with choppers, they'll kill him. We're lucky if he's not dead already... They don't want anything yet. By the time they figure out what they want, it'll be too late.
+C: REHME
+D: Tell him we have to go with your plan now.
+N: Hauk waves him off.
+C: HAUK
+D: We can't wait until tomorrow. If we have to move in and take the island, it's a last resort. It's 8:45. I want permission to try a rescue. Thank you.
+S: INT. HAUK'S OFFICE -- NIGHT
+N: Hauk calmly arms a .45 pistol. He looks up from his desk.
+C: HAUK
+D: All right.
+C: OVERPROTECTIVE SECURITY GUARD
+D: He's dangerous, sir.
+C: HAUK
+D: I know. I'll be OK.
+E: with quiet confidence
+C: HAUK'S P.O.V.
+D: We see the silhouette of an unmistakable figure. It's Snake Plissken all right, live and in the flesh. The guards leave. Snake walks into Hauk's office and sits down in the chair across from Hauk. He raises his cuffed hands to Hauk as if to say "Take these off me, asshole," but he doesn't actually say anything. Hauk shakes his head.
+C: HAUK
+D: I'm not a fool, Plissken.
+C: SNAKE
+D: Call me Snake.
+E: coooooool
+N: Hauk puts on his glasses and proceeds to read a file.
+C: HAUK
+D: S.D. Plissken. American Lieutenant. Special Forces Unit, Black Flight. Two Purple Hearts, Leningrad and Siberia. Youngest man to be decorated by the President. You robbed the federal reserve depository. Life sentence, New York Maximum Security Penitentiary. I'm ready to kick your ass out of the world, War Hero.
+N: Snake could not care less. He reaches forward with his still-cuffed right hand, picks up a cigarette, picks up a match with his left hand, strikes the match and takes a drag from his cigarette. He lets out a calm breath and says:
+C: SNAKE
+D: Who are you?
+C: HAUK
+D: Hauk. Police Commissioner.
+C: SNAKE
+D: Bob Hauk...
+C: HAUK
+D: Special Forces Unit. Texas Thunder. We heard of you, too, Plissken.
+C: SNAKE
+D: Why are we talking?
+C: HAUK
+D: I have a deal for you. You'll receive full pardon for every criminal act committed in the United States.
+N: Hauk shows Snake the pardon. Snake's eye lights up. This is something he wants. He's interested now, and can't hide it.
+C: HAUK
+D: There was an accident about an hour ago. A small jet went down inside New York City. The President was on board.
+E: pressing his advantage
+C: SNAKE
+D: President of what?
+E: re-establishing control over the conversation
+C: HAUK
+D: That's not funny, Plissken. You go in, find the President and bring him out in 24 hours, and you're a free man.
+E: beat
+N: We sense amusement from Snake. This is not the first time the government has asked him for a favor. But he's not a soldier or a "War Hero" anymore. He knows they need him more than he needs their pardon. He's holding the cards now, and he knows it.
+C: SNAKE
+D: Twenty-four hours, huh?
+C: HAUK
+D: I'm making you an offer.
+C: SNAKE
+D: Bullshit.
+C: HAUK
+D: Straight just like I said.
+C: SNAKE
+D: I'll think about it.
+C: HAUK
+D: No time. Give me an answer.
+N: Snake turns away. Hauk is pushing way too hard, and Snake is determined to be in the driver's seat.
+C: SNAKE
+D: Get a new president.
+C: HAUK
+D: We're still at war, Plissken. We need him alive.
+C: SNAKE
+D: I don't give a fuck about your war... or your president.
+C: HAUK
+D: Is that your answer?
+C: SNAKE
+D: I'm thinking about it.
+C: HAUK
+D: Think hard.
+N: Snake pauses to take a draw on his cigarette. Next question:
+C: SNAKE
+D: Why me?
+C: HAUK
+D: You flew the Gullfire over Leningrad. You know how to get in quiet. You're all I've got.
+C: SNAKE
+D: I guess I go in one way or the other. Doesn't mean shit to me. Give me the paper.
+C: HAUK
+D: When you come out.
+C: SNAKE
+D: Before.
+C: HAUK
+D: I told you I wasn't a fool, Plissken.
+C: SNAKE
+D: Call me Snake.
+S: INT. WEAPONS ROOM -- NIGHT
+N: Rehme talks as we PAN ACROSS a table full of weapons. We see two guns, a belt, grenades, several pouches full of various stuff, a flashlight, a Uzi, throwing stars, and more. Snake surveys them with a cool expression.
+C: REHME
+D: Some of them have cars. They took old junkers that were left behind and converted them to steam. We think they may also have a gasoline source in there, and power. Greenhouses, rigged up generators. Some areas have streetlights. The crazies. Live in the subways. Complete control of the underground. They're night raiders.
+N: Snake's not into this. He'll figure it out when he gets there. He picks up a bracelet with an eagle on it.
+C: HAUK
+D: Tracer. Sends a radio signal for fifteen minutes. You push it, we can track you on radar. Just like Leningrad. But they added something. A safety catch.
+N: Snake pushes the safety catch. Simple enough. And yes, there's the button. This is familiar. He smiles.
+S: INT. HALL -- NIGHT
+N: Snake has his jacket slung over his shoulder now. He walks down the hall to the medical room with Hauk. Rehme has disappeared.
+C: SNAKE
+D: Where am I landing?
+C: HAUK
+D: Top of the world trade center. Only place you can land. They won't see it, and you can take off from a free fall. On the roof there's a service elevator. It's still operational. We use it to infiltrate the prison. There's a power box. It'll activate the elevator down to fifty. From there on down you walk.
+N: Snake shrugs on his jacket. He knows Hauk is just trying to assert his authority, and it's not working very well.
+C: HAUK
+D: You can locate the President by his vital signs bracelet, on his wrist. It sends out a sig pulse. Use this.
+N: He hands Snake a homing device.
+C: HAUK
+D: Homing device. Shows directions and distance.
+S: INT. MEDICAL ROOM -- NIGHT
+N: Snake and Hauk walk into the room. They're met by a young medic.
+C: HAUK
+D: Strong antitoxin. Stops bacteria and viral-proofs you for 24 hours.
+N: Snake braces himself against a table. The medic is holding an injection-type tech gizmo.
+C: MEDIC
+D: Take off the jacket.
+C: SNAKE
+D: I'll be OK.
+C: HAUK
+D: Let's go, Plissken.
+N: Snake shrugs off his jacket, disoriented by the place. He's nervous. His hackles are up.
+C: SNAKE
+D: I don't like needles.
+N: Hauk straps a timer gauge onto Snake's left hand. He activates it and the time blinks on. It's counting down as we speak.
+C: HAUK
+D: Twenty-two hours, twenty-nine minutes, fifty-seven seconds...
+C: SNAKE
+D: We talked about twenty-four.
+C: HAUK
+D: In twenty-two hours the Hartford Summit meeting will be over. China and the Soviet Union will go back home. The president was on his way to the summit when his plane went down.
+N: Snake snorts.
+C: HAUK
+D: He has a briefcase attached to his wrist. The tape recording inside has to reach Hartford in 22 hours.
+C: SNAKE
+D: What's on it?
+C: HAUK
+D: You know anything about nuclear fusion?
+N: Snake turns away. No. Nuclear fusion is not his area of expertise.
+C: HAUK
+D: It's about the survival of the human race, Plissken. Something you don't give a shit about.
+N: Hauk steps aside. The medic swabs Snake's neck on both sides.
+C: MEDIC
+D: I'm going to inject you. It'll sting for a second or two...
+N: He raises a couple of hypos and injects Snake with them. Snake jumps a little; clearly, this is not one of the world's most pleasant things.
+C: HAUK
+D: That's it, Plissken.
+N: Snake gets off the table. The medic turns around.
+C: MEDIC
+D: Tell him.
+C: SNAKE
+D: Tell me what?
+N: Hauk thinks he's got him this time. Snake doesn't like that.
+C: HAUK
+D: That idea you had about turning the Gullfire around 180 degrees and flying off to Canada.
+N: Hauk shakes his head. Snake puts his jacket down and turns to the medic.
+C: SNAKE
+D: What did you do to me, asshole?
+C: HAUK
+D: My idea, Plissken. Something we've been fooling around with. Two microscopic capsules lodged in your arteries. They're already starting to dissolve. In twenty-two hours, the cores will completely dissolve. Inside the cores are that heat-sensitive charge. Not a large explosive. About the size of a pinhead. Just big enough to -- open up both your arteries. I'd say you'd be dead in ten or fifteen seconds --
+E: he gestures
+N: Hauk stops talking because Snake has grabbed him by the throat.
+C: SNAKE
+D: TAKE THEM OUT NOW.
+C: MEDIC
+D: They're protected by the cores. Fifteen minutes before the last hour is up we can neutralize the charge with X-rays.
+N: Snake lets go of Hauk to look at his watch. 22:57:38. 37. 36. This is his life he's watching tick away.
+C: HAUK
+D: We'll burn out the charges IF you have the President.
+C: SNAKE
+D: What if I'm a little late?
+C: HAUK
+D: No more Hartford Summit. And no more Snake Plissken.
+C: SNAKE
+D: When I get back I'm going to kill you.
+C: HAUK
+D: The Gullfire's waiting.
+S: EXT. RUNWAY -- NIGHT
+N: Snake pulls up in a Jeep. He walks up to the tiny plane called the Gullfire. Two guards stand by to make sure he just gets in the plane and does his job. He throws his cigarette out onto the runway and closes the overhead window.
+S: INT. GULLFIRE -- NIGHT
+N: Snake turns on his monitors.
+C: SNAKE
+D: I'm ready.
+C: HAUK
+D: 21 hours.
+C: SNAKE
+D: Suppose he's dead, Hauk. If I come back without him, you'll burn these things out?
+S: INT. BASE --- NIGHT
+N: Hauk and Rehme exchange a glance; Hauk's been expecting this question to come up.
+C: HAUK
+D: Get them both back, Plissken.
+S: INT. GULLFIRE -- NIGHT
+N: Snake doesn't like the response, but figures he can't do anything about it.
+C: HAUK
+D: Remember, once inside you're on your own.
+C: SNAKE
+D: Oh, you mean I can't count on you?
+C: HAUK
+D: No.
+C: SNAKE
+D: Good.
+S: EXT. RUNWAY -- NIGHT
+N: A larger plane hauls the Gullfire into the air; the Gullfire is essentially a big hang glider.
+S: INT. BASE -- NIGHT
+N: Hauk checks Snake's life clock, "Master Life Clock". 20:17:43... 42... 41....
+S: INT. GULLFIRE -- NIGHT
+N: Snake's watch reads 20:17:40... 39... 38... 37... 36... 35... He starts controlling the plane. He flips the tracer open and hits the button, testing it.
+S: INT. BASE -- NIGHT
+N: The master life clock shows the test confirmation.
+C: COMPUTER
+D: Tracer test confirmed at 20 hours, 17 minutes, 30 seconds.
+N: Hauk, Rehme and the Vice President nod with relief.
+S: EXT. NEW YORK -- NIGHT
+N: Snake takes the plane in.
+S: INT. GULLFIRE -- NIGHT
+N: Snake looks over his monitors. He sees New York coming up.
+S: INT. BASE -- NIGHT
+N: Hauk waits at his microphone.
+C: HAUK
+D: Are you picking up the target blip?
+S: INT. GULLFIRE -- NIGHT
+C: SNAKE
+D: Right on course.
+S: EXT. NEW YORK -- NIGHT
+N: The plane aims for the World Trade Center.
+S: INT. GULLFIRE -- NIGHT
+C: SNAKE
+D: It's been a while . . .
+N: The plane is aiming right at a building.
+C: HAUK
+D: How's your altitude?
+N: Snake calmly angles the plane up.
+S: INT. BASE -- NIGHT
+C: HAUK
+D: Plissken? Plissken? Plissken, what are you doing?
+S: INT. GULLFIRE -- NIGHT
+C: SNAKE
+D: Playing with myself. I'm going in.
+N: Snake targets the World Trade Center. He checks his instruments.
+S: EXT. WORLD TRADE CENTER -- NIGHT
+N: The plane comes down. It hits hard. Snake puts on the brakes, adds a grappling hook, and finally comes to a stop right at the edge.
+S: INT. BASE -- NIGHT
+C: HAUK
+D: Plissken? Plissken?
+S: EXT. WORLD TRADE CENTER -- NIGHT
+N: Snake walks over to the elevator. He uses the power box to get the elevator started. He looks around, and the doors open. He gets in the elevator. The doors close.
+S: INT. BASE -- NIGHT
+N: Snake's voice comes through the radio.
+C: SNAKE
+D: I'm inside the World Trade Center on the 50th floor. Just like Leningrad, Hauk.
+C: HAUK
+D: Is the glider intact?
+S: INT. WORLD TRADE CENTER -- NIGHT
+N: Snake stands with his walkie-talkie in the middle of the graffiti- covered building.
+C: SNAKE
+D: Yeah, but taking off is for shit. I'll work it out.
+C: HAUK
+D: You'll have to use the east stairwell. It'll take you a little while to get to ground level.
+N: Snake checks his life clock. 19:22:44. 43. 42.
+C: HAUK
+D: Call me when you get outside.
+N: Snake puts his walkie-talkie away as someone runs past. He doesn't notice. He walks on.
+T: FADE OUT. FADE IN.
+S: EXT. NEW YORK -- NIGHT
+N: Snake walks along with his tracer. He goes through alleys and streets. He draws his gun as he walks by a group of people. He's armed and ready to fight.
+S: EXT. PLANE CRASH -- NIGHT
+N: The plane is still burning. Smoke is coming from everywhere. The plane is severed in the middle. The crash is very impressive. Snake walks and notices a few people go by. He pulls out his walkie-talkie.
+C: SNAKE
+D: I'm at the plane. Nobody else made it, Hauk.
+N: Something beeps. His tracer.
+C: SNAKE
+D: Wait a minute.
+N: He looks at his tracer. A small red dot lights up in the southeast corner.
+C: SNAKE
+D: I've got his pulse. Right up ahead, moving northwest.
+N: He puts away his walkie-talkie and checks his life clock. 18:50:18. 17. 16.
+T: DISSOLVE TO:
+N: Images. Snake holding the tracer. He gets closer and comes up to a building, formerly a theater. He walks in.
+S: INT. THEATER -- NIGHT
+N: The pulse keeps getting stronger. Snake walks in. He holds his gun at the ready. There's a truly horrible musical going on.
+S: INT. STAGE -- NIGHT
+C: ACTORS
+D: This is hell! This is hate!
+E: etc.
+N: Snake looks around. No sign of the president, but there is a CABBIE enjoying the show. Time to move on. He enters against his better judgment, but he's just passing through, so that's OK.
+S: INT. STAIRWELL -- NIGHT
+N: Snake keeps moving, but there's a noise. He turns around, aiming his gun. Cabbie holds up his hands.
+C: CABBIE
+D: Hey! You're Snake Plissken, ain't you?
+C: SNAKE
+D: What do you want?
+C: CABBIE
+D: Nothin'.
+N: Snake lowers his gun.
+C: CABBIE
+D: I thought you were dead!
+N: Snake moves on.
+C: CABBIE
+D: Hey! You don't want to walk around down there, Snake!
+S: INT. BASEMENT -- NIGHT
+N: The signal from the tracer keeps getting closer and closer. Snake walks past a gang beating up and stripping a semi-conscious girl. He doesn't take much notice. He keeps going. He sees a BUM sitting by a fire.
+C: BUM
+D: Hi, Chief. Nice night. Nice boots. Niiiiice boots. Hey.
+N: A guy tries to sneak up behind Snake. Snake knocks him out and points his gun at the bum.
+C: BUM
+D: Easy now, chief. I'm walking. I'm walking.
+N: The bum walks away. Snake keeps going. A man beats up another man at a sink. The beatee is wearing the President's life tracer. Snake kicks the beater and knocks him out.
+C: SNAKE
+D: Mr. President . . .
+N: The man wearing the life tracer looks up and smiles. He's a DRUNK.
+C: DRUNK
+D: I'm the President? Sure, I'm the President. If I knew where I got this thing -- I'd be the President.
+E: indicates the tracer
+C: SNAKE
+D: Where did you get it?
+C: DRUNK
+D: I woke up, and there it was, just like a miracle . . .
+N: Snake slams the tracer against the sink.
+S: INT. BASE -- NIGHT
+N: The President's life signs all fail.
+C: OFFICIAL
+D: Oh my god . . .
+C: MEDIC
+D: It . . . It may be just an impact on the mechanism itself . . .
+S: INT. BASEMENT -- NIGHT
+N: Snake pulls up his walkie-talkie.
+C: SNAKE
+D: Hauk?!
+S: INT. BASE -- NIGHT
+C: HAUK
+D: I'm right here, Plissken.
+C: SNAKE
+D: I don't know who you assholes are looking at, but it's NOT the President.
+S: INT. BASEMENT -- NIGHT
+N: Snake holds the walkie-talkie up to the drunk.
+C: DRUNK
+D: Hail to the chief . . . La la la la la la . . .
+E: to the tune of Joy to the World
+C: SNAKE
+D: All right, get your machine ready. I'm coming out.
+S: INT. BASE -- NIGHT
+C: HAUK
+D: 18 hours, Plissken.
+S: INT. BASEMENT -- NIGHT
+C: SNAKE
+D: Listen to me, Hauk. The President is DEAD, you got that? Somebody's had him for dinner!
+S: INT. BASE -- NIGHT
+C: HAUK
+D: Plissken, if you get back in that glider I'll shoot you down. You climb out, I'll burn you off the wall. You understand that, Plissken?
+S: INT. BASEMENT -- NIGHT
+N: Snake stares at his walkie-talkie.
+C: SNAKE
+D: A little human compassion . . .
+S: EXT. NEW YORK -- NIGHT
+N: Snake walks on. He's in an area with streetlights. He keeps going.
+S: EXT. POD -- NIGHT
+N: Snake stares at the pod. No clues. He looks around. Nothing. As he comes back up, he sets up a chair and sits down heavily. He touches his neck. It's like he can feel the cores dissolving. A crazy walks past, bangs on manhole covers. Snake doesn't know what he's doing, but he doesn't like it. Especially not when the manhole covers start to rise up. He runs off.
+S: EXT. CHOCK FULL OF NUTS -- NIGHT
+N: Snake finds the restaurant, and runs inside. No one follows.
+S: INT. CHOCK FULL OF NUTS -- NIGHT
+N: Snake backs into a corner. The floor is weak and starts to go out from under him once. He gets into the shadows. There's someone there. GIRL IN CHOCK FULL O' NUTS You a cop? Snake levels his gun at her.
+C: SNAKE
+D: No . . .
+N: GIRL IN CHOCK FULL O' NUTS You've got a gun. You got a smoke? Snake tosses her his cigarettes. She lights one.
+C: SNAKE
+D: Keep your hand over it.
+N: GIRL IN CHOCK FULL O' NUTS It's all right if we're quiet. They won't hear us. (reacting to the cigarette) Hey, this is a real one. You just get in?
+C: SNAKE
+D: What's going on out there?
+N: GIRL IN CHOCK FULL O' NUTS Crazies. It's the end of the month. They're out of food.
+C: SNAKE
+D: Do you live here?
+N: GIRL IN CHOCK FULL O' NUTS Skulls? You kidding? I'm with the Turks now. I just got caught in the street after dark and now I'm stuck here all night.
+C: SNAKE
+D: A plane crashed seven hours ago. Did you see it?
+N: GIRL IN CHOCK FULL O' NUTS No.
+C: SNAKE
+D: Shit.
+N: GIRL IN CHOCK FULL O' NUTS You're a cop.
+C: SNAKE
+D: I'm an asshole.
+N: GIRL IN CHOCK FULL O' NUTS Hey, wait a minute. I know who you are. Yeah! But I heard you were dead.
+C: SNAKE
+D: I am.
+N: GIRL IN CHOCK FULL O' NUTS Wow, Snake Plissken. All right! What you doing in here with a gun, Snake?
+C: SNAKE
+D: Looking for somebody.
+N: GIRL IN CHOCK FULL O' NUTS Who?
+C: SNAKE
+D: The President.
+N: GIRL IN CHOCK FULL O' NUTS Come on! He really here?
+C: SNAKE
+D: Somewhere.
+N: GIRL IN CHOCK FULL O' NUTS When you find him, are you gonna take him out?
+C: SNAKE
+D: Mm-hm.
+N: GIRL IN CHOCK FULL O' NUTS Take me out with you, Snake.
+C: SNAKE
+D: Why?
+N: GIRL IN CHOCK FULL O' NUTS I can think of lots of reasons why . . . She makes a move to kiss him, but there's a noise. They split up, but she gets sucked through the floor. Snake tries to save her, but it's too late. He gets the hell out of there.
+S: INT. BUILDING -- NIGHT, EXT. NEW YORK -- NIGHT, EXT. ALLEYS -- NIGHT
+N: Snake runs through the building, breaks a window, and climbs up a fire escape to get to a new floor. He breaks a window to get in, then pulls a cabinet in front of the window. He shoots through the cabinet, causing some crazy to scream. He busts down a door, shoots open part of a wall, busts through that, climbs out a window, and climbs down a telephone pole. He then climbs up a wall. On the way he drops his walkie-talkie. He runs down an alley, and as he does, Cabbie pulls up.
+C: CABBIE
+D: Where you goin', buddy?
+N: Snake points his gun at Cabbie. He looks behind him, then gets in the cab.
+S: INT. CAB -- NIGHT
+N: Snake notices a tape player which is playing the theme from "American Bandstand."
+C: CABBIE
+D: Bad neighborhood, Snake! You don't want to be walking from the Bowery to 42nd street at night! I've been driving a cab here for 30 years and I'm telling you, you don't walk around here at night! Yes, sir! They'll kill you and strip you in ten seconds flat. Usually I'm not down around here myself, but I wanted to catch that show.
+N: Cabbie lights a rag stuffed down the neck of a bottle which is full of gasoline.
+C: CABBIE
+D: This stuff is like gold around here, you know.
+S: EXT. CAB -- NIGHT
+N: Cabbie throws the bottle into the alley, where it explodes.
+S: INT. CAB -- NIGHT
+C: CABBIE
+D: Hey, Snake, when'd you get in? I didn't even know they caught you. Ohhh, Snake Plissken in my cab. Wait'll I tell Eddie! Hey, hang on, Snake.
+E: laughs
+S: EXT. CAB -- NIGHT
+N: Cabbie makes a sharp turn.
+S: INT. CAB -- NIGHT
+C: CABBIE
+D: Hey, what were you doing back there, Snake?
+C: SNAKE
+D: Looking for somebody.
+C: CABBIE
+D: Well, why didn't you ask me? Hell, I know everybody in this town. Yes, sir. I've been driving this cab for thirty years, this very same cab.
+N: Snake points his gun at Cabbie.
+C: SNAKE
+D: I'm GONNA ask you. Now where's the President?
+C: CABBIE
+D: The Duke's got him! Everyone knows the Duke's got him! You don't have to put a gun to my head. I'll tell you!
+C: SNAKE
+D: Who's the Duke?
+C: CABBIE
+D: The DUKE! The Duke of New York! A-Number-1! The big man, that's who!
+C: SNAKE
+D: I want to meet this Duke.
+C: CABBIE
+D: You can't meet the Duke, are you crazy? Nobody wants to meet the Duke! You meet him once and then you're dead!
+N: Snake points the gun more insistently. Tough.
+S: EXT. BRAIN'S BUILDING -- NIGHT
+N: Cabbie parks the cab and he and Snake walk up to Brain's building.
+C: CABBIE
+D: I hate to leave her on the street. Usually I don't leave her alone at all. But you're a special case, Snake.
+N: He and Snake walk up to the door. Cabbie knocks on the door with his shoe.
+C: CABBIE
+D: It's OK, Snake. It's a better neighborhood. You can relax.
+N: Relax? Snake checks his life clock. 17:40:46. 45. 44. Relax, my ass.
+C: SNAKE
+D: Thanks.
+C: CABBIE
+D: Boy, they got a great place here. Like a fortress!
+C: SNAKE
+D: They?
+N: From the inside, someone answers.
+C: MAGGIE
+D: Who is it?
+C: CABBIE
+D: It's me!
+C: MAGGIE
+D: Who's me?
+C: CABBIE
+D: Cabbie!
+C: MAGGIE
+D: What do you want?
+C: CABBIE
+D: Somebody wants to see Brain, it's important --
+C: MAGGIE
+D: No way, Cabbie --
+C: CABBIE
+D: No, it's Snake! Snake Plissken!
+N: Maggie opens the door. She stands there and surveys the pair.
+C: MAGGIE
+D: YOU'RE Plissken?
+C: CABBIE
+D: He wants to see Brain.
+C: MAGGIE
+D: Why?
+C: SNAKE
+D: I want to meet the Duke.
+N: Snake and Maggie exchange a glance. She leads them in.
+S: INT. BRAIN'S -- NIGHT
+C: CABBIE
+D: Hey, what do you think of this place, Snake? It used to be a public library. Oh, that Brain, he's the greatest! Mr. Fabulous! Duke loves him.
+C: SNAKE
+D: Who's that?
+E: gesturing at Maggie
+C: CABBIE
+D: That's Maggie. Brain's squeeze. The Duke gave him to Brain just to keep him happy . . . see what I mean?
+N: Snake can tell that Maggie's more than just Brain's squeeze; she's his bodyguard, too. She looks like she'd be willing to kill to protect Brain.
+C: MAGGIE
+D: Heard you were dead.
+S: INT. BRAIN'S ROOM -- NIGHT
+C: CABBIE
+D: Brain? Brain! I brought somebody to see you!
+N: Snake looks at Brain. He knows this guy.
+C: SNAKE
+D: Harold Helman.
+N: Brain puts down his book and stands up.
+C: BRAIN
+D: Snake?
+C: MAGGIE
+D: "Harold"?
+C: SNAKE
+D: Where you been, Harold? It's been a long time.
+C: MAGGIE
+D: You never told me you knew Snake Plissken, Brain.
+C: CABBIE
+D: Isn't that great? Hey, Brain, I could use some gas if you can spare some . . .
+N: No one pays attention. Snake advances on Brain. Brain sits down.
+C: SNAKE
+D: I'm glad you remember me. Yeah. A man should remember his past. Kansas City, four years ago. You ran out on me. You left me sitting there.
+C: BRAIN
+D: You were late.
+C: SNAKE
+D: We were buddies, Harold. You, me, and Fresno Bob. You know what they did to Bob?
+N: His face changes. He suddenly kicks Brain's chair into the wall and points his gun. Maggie draws a knife and starts advancing on Snake.
+C: SNAKE
+D: You want to see him sprayed all over that map, baby? Where's the President?!
+E: to Brain
+C: BRAIN
+D: Swear to god, Snake, I don't know --
+C: SNAKE
+D: Don't fuck with me!
+C: BRAIN
+D: Why do you want to know?
+C: SNAKE
+D: I want him.
+C: BRAIN
+D: Working for the man now, huh?
+C: SNAKE
+D: Then I'll just beat it out of your squeeze --
+C: BRAIN
+D: Mm-hm. Maggie doesn't know EXACTLY where he is and unless you know EXACTLY PRECISELY where he is you'll never find him.
+N: Snake takes his gun away. He contemplates Brain.
+C: SNAKE
+D: Listen, I'll take you out of here. Yeah. Jet glider just a couple of blocks down the street. And all you gotta do is get me to him.
+N: Everyone realizes the importance of this.
+C: CABBIE
+D: No kidding? On the level? Will you take me, too?
+C: BRAIN
+D: We've got to deal somewhere else.
+C: SNAKE
+D: No glider.
+C: MAGGIE
+D: We've got the President. And the Duke's taking everybody out of here.
+C: SNAKE
+D: Never happen. See, I know something you and the Duke don't know. We've only got so long before Mr. President don't mean a whole lot.
+C: BRAIN
+D: You're lying.
+C: MAGGIE
+D: Maybe he's not . . .
+C: BRAIN
+D: I know him! Look at his face, he's lying!
+C: SNAKE
+D: Right, Harold. I'm lying. So I might as well have some fun and keep looking by myself.
+N: He cocks his gun and points it at Brain again.
+C: MAGGIE
+D: Brain --
+C: SNAKE
+D: Talk to him, baby --
+C: MAGGIE
+D: Brain, he'll kill us both if you don't tell him --
+C: CABBIE
+D: Brain, you've got to tell him!
+E: panicking
+C: MAGGIE
+D: Brain, you've got to tell him --
+E: panicking
+C: CABBIE
+D: Tell him, tell him, tell him --
+E: panicked
+C: BRAIN
+D: ALL RIGHT!!!
+N: Snake lowers the gun.
+C: SNAKE
+D: You always were smart, Harold.
+C: BRAIN
+D: Just one thing right now. Don't call me "Harold."
+S: EXT. BUILDING -- NIGHT
+N: Snake, Maggie, Cabbie and Brain all walk out.
+C: SNAKE
+D: So you work for this Duke, huh?
+C: BRAIN
+D: Yeah. Make gas for him. Figure out things for him.
+C: SNAKE
+D: Like what?
+C: BRAIN
+D: Like how to get across the 69th street bridge -- it's mined, but I know where they're planted.
+E: showing off
+C: MAGGIE
+D: We got a diagram from a guy that got all the way across . . . before they shot the poor bastard.
+C: BRAIN
+D: We got a crew up there now clearing the way across the first barricade.
+C: CABBIE
+D: What a sight, Snake! The whole camp rolling right across the bridge and the President right out front! Oh, that would have been so fine . . .
+C: MAGGIE
+D: Yeah, it would have been . . .
+E: ironically
+C: CABBIE
+D: Yeah, but we're going with Snake now.
+N: The three of them cross into the street. Cabbie panics.
+C: CABBIE
+D: That's the Duke! I know the sound of his engines. Don't cross the Duke -- everybody knows that.
+N: We get one glimpse of the Duke's car. Then we realize that Cabbie is gone and his cab is racing away.
+C: MAGGIE
+D: Cabbie, you slime!
+N: The Duke's car heads right for us.
+C: MAGGIE
+D: No, Brain!
+N: The two of them run off. After a while, Snake follows. The three of them hide. The Duke's car is an old Chrysler with chandeliers suspended over the headlights. It's in a caravan of three, leading the way. A fourth car comes up later. The Duke is sitting in the passenger seat of a car with Weirdo in the back. The Duke gets out of the car, Weirdo at his side. The Duke is wearing a cowboy hat, sunglasses, a snazzy jacket, bluejeans, and boots. He looks TOUGH. He sends Weirdo to knock on the door.
+C: MAGGIE
+D: He's looking for you, Brain.
+C: SNAKE
+D: What does he want?
+C: BRAIN
+D: He wants my diagram of the bridge. When he finds out I'm with you he's going to want my life! Shit, Plissken, I knew I shouldn't have listened to you --
+C: SNAKE
+D: We've got to get to the President NOW, while he's busy.
+C: BRAIN
+D: Forget it, he's on the other side of town and we got no wheels. The deal is off --
+C: SNAKE
+D: Just calm down.
+S: EXT. CAR -- NIGHT
+N: A lone man sits, looking bored. Snake subtly goes up to him, knocks him out, and gets him out of the car. He briefly considers shooting the guy on the hood of the car. Instead, the guy on the hood of the car walks around. Snake knocks him out a second alter and then drives to get Brain and Maggie. He knocks the other guy out of the car.
+C: BRAIN
+D: I think they saw us! Turn left, turn left here!
+E: panicked
+S: INT. CAR -- NIGHT
+C: MAGGIE
+D: Brain, this is Broadway.
+C: BRAIN
+D: I know, I know, the Duke'll take Seventh Avenue, Broadway is five minutes --
+C: MAGGIE
+D: No!!!
+C: BRAIN
+D: Yes!!! Just keep driving!
+C: SNAKE
+D: What's wrong with Broadway?
+S: EXT. BROADWAY -- NIGHT
+C: SNAKE
+D: Come on sweetheart . . .
+E: to the car
+N: People start throwing bricks. Snake hands his gun to Brain, who passes it to Maggie, holding it like a dead rat (or like a macho guy would hold a purse). Snake drives as fast as he can, gunning off the bystander who gets on the car. A bystander grabs Brain.
+C: BRAIN
+D: Maggie!
+N: Maggie protects him. She shoots the people grabbing at him. Snake angles the car through a pile of scrap metal and drives away. He glares at Brain. Everyone seems visibly shaken.
+C: SNAKE
+D: Hold on.
+N: Snake backs the car through a bunch of piled cars. He takes off, the car a bit worse for wear but at least they got away from the crowd on Broadway.
+S: EXT. TRAINS -- NIGHT
+N: Brain points to the cars as Snake watches.
+C: BRAIN
+D: He'll be in the third car from the end, by the last campfire.
+N: Snake looks around. The Duke's caravan passes. There are more cars than there were before.
+C: BRAIN
+D: It's all right. He's got to go in the front way. It'll take him five minutes. If you're not back to the car in four minutes you're on your own.
+C: SNAKE
+D: When we get there, Harold, you just keep talking.
+N: They drive off. Snake gets to the trains. No one notices. Maggie and Brain get out of the car and Snake ducks into the train car.
+C: BRAIN
+D: Hi, guys. Hi . . . how's it going? Cooled off a little, huh?
+C: HEAD DUDE
+D: What do you want, Brain?
+C: BRAIN
+D: Duke told us to wait inside. He's on his way here now.
+C: HEAD DUDE
+D: He didn't say nothing to us about it.
+C: BRAIN
+D: Well, you can't expect him to tell everybody in the joint, now can you? That's why he's the Duke.
+N: The camera angles back to show Snake walking on top of the railroad cars. He hasn't found the President yet. But he doesn't have time to wonder if Brain double-crossed him.
+C: HEAD DUDE
+D: Why don't we wait outside here for him?
+C: BRAIN
+D: Why don't we wait inside for him?
+C: HEAD DUDE
+D: 'Cause I got orders, that's why.
+C: BRAIN
+D: What are your specific orders, by the way?
+C: HEAD DUDE
+D: Specific orders, Brain, was for me not to let no one go inside.
+C: BRAIN
+D: How's the President holding up, by the way? Any political discussion you've had with him?
+S: INT. PRESIDENT'S TRAIN CAR -- NIGHT
+N: Two guards sit with the President, talking. The first guard is by the President. The second is looking out the window.
+C: SECOND GUARD
+D: That Brain is a real pain in the ass. He's always sniffing around like a dog.
+C: FIRST GUARD
+D: He comes up with the gas.
+N: The second guard looks out the window. Snake grabs him by the neck, and breaks it. The first guard doesn't notice, but the President does, and that tips off the guard.
+C: FIRST GUARD
+D: What are you looking at?
+N: He turns and Snake throws a star at him. It lodges right in his brain, but not fast enough. Snake is hit in the leg with a crossbow arrow. Snake limps over to the President and starts uncuffing him. The president still has the briefcase. This is it, this is the big time. Snake keeps calm.
+C: PRESIDENT
+D: Are you from the outside?
+C: SNAKE
+D: Stop shaking.
+C: PRESIDENT
+D: I can't! Who are you?
+C: SNAKE
+D: Hauk sent me. We've got to move fast.
+C: PRESIDENT
+D: Move fast? You're goddamned right I'll move fast.
+C: SNAKE
+D: Quiet!
+N: Snake limps away, President in the lead.
+S: EXT. TRAIN -- NIGHT
+N: Snake and the President keep moving. Suddenly, Snake gets jumped. Ten guys surround him and the President, and though Snake fights well, it's not well enough. Brain comes out with Maggie.
+C: BRAIN
+D: They got him. Now watch him.
+N: The Duke steps out from the car, followed by Weirdo.
+C: DUKE
+D: Friend of yours, Brain?
+C: BRAIN
+D: He had a gun on me, Duke, there was nothing I could do.
+C: DUKE
+D: Uh-huh.
+E: not believing it for a second
+N: Weirdo points accusingly as he and Duke walk away.
+C: BRAIN
+D: Maggie . . .
+N: Duke walks up to Snake. Snake isn't giving in even though he's pretty sure he's beat.
+C: DUKE
+D: Who are you?
+N: Snake doesn't answer. Duke grabs the arrow still lodged in his right leg and pulls on it. Snake writhes in agony.
+C: DUKE
+D: I said who are you?
+C: BRAIN
+D: Snake Plissken, Duke. The Man sent him in here. Something's going down . . . we need him.
+N: Duke recognizes the name. He is impressed. He lets go of the arrow. Snake hates him more than ever.
+C: DUKE
+D: Snaaaaaake Plissken. I've heard of you.
+N: He raises a crowbar over his head and smacks Snake with it, knocking him out.
+C: DUKE
+D: I heard you were dead.
+S: EXT. NEW YORK -- NIGHT
+N: A helicopter flies over the city.
+S: INT. HELICOPTER -- NIGHT
+N: The pilot looks at a grid-view of New York. SURVEILLANCE 4 This is surveillance 4 to security control. Nothing on the infrared body scan. Nothing in the searchlight. There aren't any fires on the street. Nobody moving down here.
+S: INT. BASE -- NIGHT
+N: Hauk, Rehme and the Vice President wait. SURVEILLANCE 5 Surveillance 5 . . . security control . . . negative on infrared body scan . . . no movement in the searchlight . . . nothing strange going on down there. They look at the Master Life Clock. 12:27:39. 38. Where's Plissken?
+S: INT. ROOM -- DAY
+N: Plissken lies unconscious on a bed, crossbow pointed at his head. Three guards are at the ready.
+S: INT. BASE -- DAY
+C: VICE PRESIDENT
+D: We've got to go in now.
+C: HAUK
+D: We hold.
+C: VICE PRESIDENT
+D: You're countermanding my orders, Hauk.
+C: HAUK
+D: This is my prison, I'll give the orders.
+C: VICE PRESIDENT
+D: I override all that!
+C: HAUK
+D: Just try.
+S: EXT. NEW YORK -- DAY
+N: Unbelievable smog. Helicopters fly. SURVEILLANCE ? ...still negative on the scan. SURVEILLANCE 4 This is Surveillance 4 to Security Control. Nothing on the infrared body scan. Negative on the sweep.
+S: EXT. WALL -- DAY
+N: Hauk stands on the wall, listening. SURVEILLANCE 10 Surveillance 10. Still negative on the scan. SURVEILLANCE 5 Surveillance 5 still negative. SURVEILLANCE 4 This is Surveillance 4 to Security Control. Nothing on the infrared body scan. Negative...
+S: INT. ROOM -- DAY
+N: Snake begins to come to. We hear gunshots and cheering. The guards go to announce Snake's consciousness.
+S: INT. HANGAR -- DAY
+N: Brain and Maggie move to the center of the gunshots and cheering
+S: INT. TARGET PRACTICE -- DAY
+N: The Duke sits firing with Plissken's gun at the President, whose briefcase is still chained to his arm.
+S: INT. ROOM -- DAY
+N: Snake sits up. There are LOTS of crossbows aimed at him.
+C: GUARD
+D: Don't move, Snake.
+N: Snake turns to face him. He stands up. We see for the first time exactly why he's called "Snake" Plissken. There's a snake tattooed on his stomach. The snake's tail disappears into his pants, but we have a good idea of where it leads and what it becomes. Ah ha. Snake's life clock is gone. He has no idea how much time he's got. Shit.
+S: INT. TARGET PRACTICE -- DAY
+C: DUKE
+D: I want that diagram, Brain.
+C: BRAIN
+D: Oh. It's at my place, Duke. Duke, that Plissken said something about a time limit.
+C: DUKE
+D: What time limit?
+C: BRAIN
+D: On him.
+E: gesturing at President
+C: DUKE
+D: That's a lot of crap. What did I teach you?
+E: to the President
+C: PRESIDENT
+D: You... You are... the Duke of New... New York... You're... A-Number-One.
+E: weakly
+C: DUKE
+D: I can't hear you.
+C: PRESIDENT
+D: YOU ARE... THE DUKE OF NEW YORK... YOU'RE A-NUMBER-ONE!
+C: DUKE
+D: Get me the diagram.
+E: to Brain
+C: BRAIN
+D: Duke... Don't kill Plissken. We need him.
+N: The Duke points the gun at Brain, but doesn't even give him a glance.
+C: DUKE
+D: Get moving, Brain.
+N: Brain moves, and Weirdo laughs that odd laugh. The Duke fires at the President's briefcase. Papers and a tape fall out. Weirdo looks down and kicks the tape away. He picks it up and holds it to his ear, then puts it in his pocket. Guards come and unstrap the President. The Duke has decided to take Snake a bit more seriously than he had. Which is not saying much.
+S: EXT. NEW YORK -- LATE AFTERNOON
+N: Helicopters fly above ground. A group stands with a car, gesturing wildly.
+S: INT. HELICOPTER -- LATE AFTERNOON
+C: PILOT
+D: People out below in the park. Can you see them?
+S: INT. BASE -- LATE AFTERNOON
+C: PILOT
+D: Surveillance 2 to Security Control. We're getting that readout, mostly in the infrared.
+N: Hauk and Rehme immediately check out the monitor. At least something's going on.
+C: PILOT
+D: We have a visual sighting on it. It's a crowd of prisoners in Central Park. They're waving at us. Signaling us in the food drop area. They're waving us down.
+S: EXT. CENTRAL PARK -- LATE AFTERNOON
+N: The prisoners wave the helicopters down. A group of guards lands and runs over to the station wagon. They get the briefcase which has been sawed off the President's handcuffs.
+S: INT. ROOM -- LATE AFTERNOON
+N: Snake is awake and surrounded by guards. The cheers are louder.
+S: INT. BRAIN'S -- LATE AFTERNOON
+N: Maggie walks across the room, loading a gun. It's one of Snake's.
+C: BRAIN
+D: I still can't figure out whether that son of a bitch Plissken was telling the truth or not. God, I hate that guy.
+N: Brain stands in front of his maps.
+C: MAGGIE
+D: He got in somehow.
+C: BRAIN
+D: Yeah, yeah, but how? You gotta land the glider and take off. You can't do it in Central Park, there's too many trees. Port Authority's too low to the ground. Unless it was some... Someplace high up. World Trade Center. That's it. There we go. The World Trade Center. And it's gonna be a hell of a lot easier for me to take off than it was for him to land.
+E: he gestures at the map he gets it... they don't call him "Brain" for nothing
+S: INT. BASE -- LATE AFTERNOON
+N: Hauk reads the note left in the briefcase.
+C: HAUK
+D: "Amnesty for all prisoners in New York City in exchange for President. 69th Street Bridge tomorrow, 12 Noon. No bullshit or he's dead."
+C: VICE PRESIDENT
+D: Where's the tape?
+C: HAUK
+D: Not here.
+N: He reaches inside and removes a pair of goggles.
+C: REHME
+D: They're Plissken's.
+N: Yeah, they were on the table. He never did use them, though, and only half of them is necessary in his case anyway.
+C: VICE PRESIDENT
+D: So much for your man, Hauk?
+N: Hauk hesitates. This is the last thing he wants.
+C: HAUK
+D: Warm up the choppers. We're moving in.
+S: EXT. BASE -- SUNSET
+N: Helicopters prepare for takeoff.
+S: INT. BASE -- SUNSET
+N: Hauk sits at the microphone.
+C: HAUK
+D: Plissken?
+N: The master life clock reads 1:56:38. 37. 36,
+S: INT. ROOM -- SUNSET
+N: Snake slowly gets to his feet. He's still groggy, but it's time for him to move.
+C: GUARD
+D: Come on, get up!
+N: Snake limps through a hallway and into a stadium.
+S: INT. STADIUM -- SUNSET
+N: Boos greet Snake as he walks in. In the center of the room is a fighting ring. Snake climbs in, not without effort. A huge and extremely ugly man climbs into the ring, amid loud cheers. Snake notices that the huge ugly dude is wearing his life clock. In the balcony above is the Duke. The Duke stands up and raises his arms, and everyone gets silent.
+C: DUKE
+D: They sent in their best man. And when we roll down the 69th street bridge tomorrow on our way to freedom, we're gonna have their best man leading the way. From the neck up.
+N: The crowd cheers.
+C: DUKE
+D: On the hood of my car!
+N: More cheers.
+C: DUKE
+D: Let's do it!
+N: Ugly and Snake take bats. They circle each other. Ugly strikes at Snake. Snake ricochets off the ring. He rolls around, fighting for his life.
+S: INT. BUILDING -- SUNSET
+N: Brain and Maggie walk around. They knock on a door and Weirdo answers. He's wearing Cabbie's hat.
+C: WEIRDO
+D: Hello.
+C: BRAIN
+D: Where'd you get the hat?
+C: WEIRDO
+D: Got it from Cabbie.
+C: BRAIN
+D: Yeah?
+C: WEIRDO
+D: Traded him.
+C: BRAIN
+D: For what?
+C: WEIRDO
+D: What are you so nervous about?
+C: BRAIN
+D: I'm here to see the President.
+C: WEIRDO
+D: Who says?
+C: BRAIN
+D: The Duke.
+C: WEIRDO
+D: No he doesn't.
+C: BRAIN
+D: Well... I'll have to tell him you said that.
+N: Weirdo doesn't really believe it. If it's not true, so what? But if it IS true, the Duke will have him tortured to death.
+C: WEIRDO
+D: Wait a minute. Why?
+C: BRAIN
+D: He's got something hidden in his clothing. The Duke wants it.
+C: WEIRDO
+D: What?
+C: BRAIN
+D: I'll show you.
+C: WEIRDO
+D: You'll tell me.
+C: BRAIN
+D: Cyanide capsules. The Duke don't want a dead president.
+N: Brain pushes his way in.
+S: INT. ROOM -- SUNSET
+C: BRAIN
+D: Gentlemen. Mr. President.
+N: Weirdo lets the door slide closed. Brain starts checking the President's clothes. The President has been dressed in a wig and tied to a chair with an American Flag on it.
+C: WEIRDO
+D: Cyanide?
+C: BRAIN
+D: Yeah. He might try to take it tomorrow.
+N: Weirdo walks up to Brain.
+C: WEIRDO
+D: That's bullshit. You're not supposed to be in here, Brain --
+N: Brain stabs Weirdo, who dies with a gasp. Maggie dispatches of the three guards. She smiles. Brain unties the President's hand. The President snatches off the wig in a rage.
+S: INT. TOURNAMENT -- SUNSET
+N: Snake notices a guard wearing the eagle tracer. A trash can lid and a bat with spikes on it is handed to him. The next round begins.
+S: EXT. HOUSE -- EVENING
+N: Brain, the President, and Maggie sneak out. A guy in a cowboy hat notices.
+S: INT. TOURNAMENT -- EVENING
+N: Ugly and Snake keep fighting. Snake is not doing very well. But he's catching up. As Ugly tries to hit him, he nails Ugly in the groin, then in the back of the head. The crowd begins cheering "SNAKE! SNAKE!" The Duke can't believe it. Snake runs to the guard with the tracer and activates it.
+S: INT. BASE -- EVENING
+N: The Master Life Clock begins blinking "Tracer Status: ACTIVATED."
+C: COMPUTER
+D: Tracer activated at one hour, thirty-five minutes, twenty-seven seconds.
+N: Rehme jumps out of his seat.
+C: REHME
+D: Hauk!!
+S: INT. TOURNAMENT -- EVENING
+N: Snake limps around, getting his stuff back together. He looks at his life clock. 1:34:54. 53. He doesn't have much time. The guy in the cowboy hat runs up to the Duke and yells for attention. Duke immediately gets up and leaves, as do his hangers-on.
+C: GUY IN COWBOY HAT
+D: LISTEN!!! LISTEN!!! LISTEN!!!
+N: The crowd shuts up.
+C: GUY IN COWBOY HAT
+D: THE PRESIDENT'S GONE! BRAIN TOOK HIM!
+N: The crowd rushes out. Snake limps out of the ring and runs off as fast as he can.
+S: EXT. BASE -- EVENING
+N: Rehme catches up to Hauk at the last second. Hauk has been stalling.
+C: REHME
+D: Hauk! Plissken's tracer!
+E: shouting over noise
+N: Hauk runs up to the head helicopter pilot.
+C: HAUK
+D: Get on the radio! Keep them down! Nobody move!
+S: INT. BASE -- EVENING
+N: Two monitors show Snake's tracer.
+C: REHME
+D: He's approaching the World Trade Center.
+C: HAUK
+D: I knew that son of a bitch was alive.
+C: REHME
+D: He's inside.
+S: INT. WORLD TRADE CENTER -- EVENING
+N: Snake limps around. He notices a cab. Fifty flights of stairs with his leg shot to hell. He hesitates only for a second, then starts up.
+S: INT. BASE -- EVENING
+N: The Vice President, Hauk and Rehme all stand, staring at the monitors.
+C: VICE PRESIDENT
+D: It's gone.
+C: HAUK
+D: The signal only lasts for 15 minutes. Download the choppers. We're in a standby situation.
+N: Rehme runs off.
+C: VICE PRESIDENT
+D: Anybody could have pushed that button.
+C: HAUK
+D: Only Plissken knew there was a safety catch. Now we'll give him a little more time, just to make sure.
+N: The master clock shows 59:44. 43.
+S: EXT. WORLD TRADE CENTER -- NIGHT
+N: Snake gets out of the elevator. Maggie, Brain, and the President all take cover behind a chimney and try to get a gang to stop chopping down the glider. It doesn't work. The glider floats away.
+C: BRAIN
+D: Goddamned redskins! They're savages, Mr. President!
+N: Snake runs to get them. They get in the elevator.
+S: INT. WORLD TRADE CENTER -- NIGHT
+N: Snake has the President by the arm and is leading everyone out.
+C: BRAIN
+D: Listen, Snake, I swear to god, I thought you were dead --
+C: SNAKE
+D: Yeah, you and everybody else.
+N: He grabs Brain by the tie and aims the gun at his head.
+C: SNAKE
+D: That's your car in the lobby? The keys! Quick! Quick! Diagram of the bridge! Hey, hey, hey --
+N: Snake takes all the abovementioned items.
+C: BRAIN
+D: I'm the only one who knows how to read that, Snake --
+C: SNAKE
+D: Stay out of my way, Harold.
+C: BRAIN
+D: Besides, you can't read and drive at the same time. You need us!
+N: Snake is tired. He's pissed. He's got half an hour to live if that. He doesn't have time for Brain's shit, and he lets him know it.
+C: SNAKE
+D: You shouldn't have double-crossed me again, Brain. Come on, let's go --
+N: He suddenly notices there's nothing on the end of the President's chain. He holds it in front of the President's face.
+C: PRESIDENT
+D: They sawed it off...
+C: SNAKE
+D: The tape?
+C: PRESIDENT
+D: Gone... I don't know where...
+C: BRAIN
+D: I do.
+N: Snake shoots him a look. Bullshit, his eyes say, but maybe Brain is telling the truth. Maybe.
+C: BRAIN
+D: Swear to god, Snake, I know where it is. Just take us to the car and I'll take you right to it.
+C: SNAKE
+D: Shit...
+N: He tosses the diagram of the bridge to Brain. They go down the stairs. Snake's in bad shape, but it's everyone else who's complaining.
+C: MAGGIE
+D: Don't talk. Breathe.
+C: PRESIDENT
+D: Come on, come on, we're wasting time!
+N: Snake gets into the car. It won't start.
+C: BRAIN
+D: What's wrong?
+C: SNAKE
+D: Dead, Harold.
+C: BRAIN
+D: What?!
+N: Snake hands the keys to Brain.
+C: SNAKE
+D: Here, take these.
+N: Snake looks under the hood. There's a man with a crossbow pointed straight at him. Shit. They've been caught. Again.
+C: DUKE
+D: Car trouble?
+N: Snake looks over the hood. There's the Duke. With a dozen guards. Brain steps out.
+C: BRAIN
+D: Hi, Duke.
+C: DUKE
+D: This whole deal of yours is over, Snake. You and Brain just say good- bye to each other.
+N: The Duke turns away and loses aim of his gun for a moment. At that moment, Snake pulls a gun and fires at the steam vent. At the same time, Maggie slams the hood shut on the guard with the crossbow. Steam flies everywhere, enough for cover. The four of them run for it. The Duke runs after them.
+S: EXT. NEW YORK -- NIGHT
+N: A cab pulls up. Its radio is playing "American Bandstand". Guess who's driving? You got it! The group of four runs up to the cab. Snake runs around and makes Cabbie scoot over. He wants to drive. Cabbie looks shocked.
+C: PRESIDENT
+D: GO, GO!
+N: The Duke and his followers arrive too late.
+S: INT. CAB -- NIGHT
+C: BRAIN
+D: ...and then there's three more...
+E: trying to explain the map
+N: Snake waves him off. Cabbie's trying to make conversation.
+C: MAGGIE
+D: They're behind us --
+C: BRAIN
+D: They come in groups of threes!
+N: Snake pops the American Bandstand tape out of the tape player and puts it in his pocket.
+C: SNAKE
+D: Where's the tape, Brain?
+C: CABBIE
+D: What tape?
+C: SNAKE
+D: Where is it?
+C: BRAIN
+D: Tape...
+C: PRESIDENT
+D: The tape from the briefcase!
+C: CABBIE
+D: Oh, that tape!
+N: He pulls it out of his pocket.
+C: CABBIE
+D: Here it is!
+N: Cabbie hands it to Snake. Brain laughs, trying to cover his ass.
+C: BRAIN
+D: You traded away your hat for it!
+C: CABBIE
+D: How'd you know?
+C: BRAIN
+D: See, see!
+N: Snake pops it into the deck. It begins spewing out information. It's the right one. He slips it into his pocket.
+C: PRESIDENT
+D: Here, give me that tape!
+N: HA! No way!
+C: SNAKE
+D: Not just yet.
+N: Snake checks his life clock. 23:20. 19. 18. 17. Didn't that guy say 15 minutes before the last hour was up? But Hauk said they'd been playing with this, so the 15 minutes was built in already. Still, 23 minutes. That's cutting it pretty fucking close.
+S: EXT. CAB -- NIGHT
+N: Snake races as fast as the cab can go.
+S: INT. CAB -- NIGHT
+N: Snake checks to make sure they're not being followed too closely. They're not. The Duke is behind, but he's FAR behind.
+C: CABBIE
+D: Easy... easy!
+C: BRAIN
+D: Go for it, Snake!
+S: EXT. 69TH STREET BRIDGE -- NIGHT
+N: Snake jumps the car over the first obstacle. Cabbie looks like he's having a heart attack. Snake swerves on Brain's direction. So far so good. A mine goes off, but it's behind them. The Duke goes forward. He's going by the seat of his pants. But he knows the general direction of how Snake went. A mine goes off behind him, too.
+S: INT. CAB -- NIGHT
+N: Brain reads the map. Cabbie continues to freak out.
+C: CABBIE
+D: You've got to slow down a little, Snake...
+C: BRAIN
+D: I think there are three mines ahead, Snake.
+C: MAGGIE
+D: You think?!
+S: EXT. 69TH STREET BRIDGE -- NIGHT
+N: The Duke continues in pursuit.
+S: INT. CAB -- NIGHT
+C: BRAIN
+D: Stay left, stay left, stay left, and then jog right when I tell you.
+C: CABBIE
+D: You're pushing her too hard, Snake.
+C: BRAIN
+D: OK, OK, NOW!
+S: EXT. 69TH STREET BRIDGE -- NIGHT
+N: The cab explodes, being cut right in half. Everyone makes it except Cabbie. Cabbie had been driving that very same cab for thirty years. He died with it. The President, Snake, Maggie and Brain all keep going on foot.
+C: BRAIN
+D: I said JOG RIGHT!... you asshole.
+N: Brain leads the way as they keep crossing the bridge.
+C: BRAIN
+D: Stay to the right, stay to the right, now jog left. Hold it, left... left... LEFT, DAMMIT!
+N: The other three go right. Brain goes left and a mine explodes under him. Maggie walks up to the body in shock. Snake limps up to her.
+C: MAGGIE
+D: Brain...
+C: SNAKE
+D: Keep moving...
+N: The Duke's car is coming. Snake checks his life clock
+C: SNAKE
+D: Maggie... he's dead. Come on.
+N: Maggie calmly holds out her hand. Snake smiles and hands her his gun. His grin grows. It's one of respect for what she's about to do. He runs off after the President. Maggie walks around to Brain, then steps in front of him. She points the gun at the Duke's car. The first three shots don't connect. The fourth nails the headlight, and then the Duke runs her over. He keeps going.
+S: INT. BASE -- NIGHT
+N: Rehme runs up to Hauk and the Vice President.
+C: REHME
+D: Station 19! They spotted two cars on the 69th street bridge.
+C: HAUK
+D: Is it Plissken?
+C: REHME
+D: Taxicab and a Cadillac. Taxi hit a mine. There's four people on foot.
+C: VICE PRESIDENT
+D: Fourteen minutes...
+C: HAUK
+D: Get a jeep with a winch over there fast.
+N: He pulls out a phone.
+C: HAUK
+D: Strombaerden! Get over to Station 19. They're coming across the bridge.
+S: EXT. 69TH STREET BRIDGE -- NIGHT
+N: The President and Snake run on.
+S: EXT. WALL -- NIGHT
+N: A jeep pulls up. Rehme's voice comes up over the loudspeaker. The guards on the jeep ready the winch.
+C: REHME
+D: This is Rehme, Security Control. We are in a standby situation. Repeat. We are in a standby situation. All helicopters, down. Wall guard, do not fire on prisoners. Repeat, do not fire on prisoners. All vehicles, stand by. Repeat, stand by.
+S: EXT. 69TH STREET BRIDGE -- NIGHT
+N: Snake and the President are close enough to the wall to hear all this.
+S: EXT. WALL -- NIGHT
+N: The wall guards grab the rope and prepare to lower it for the President and Snake.
+S: EXT. 69TH STREET BRIDGE -- NIGHT
+N: Snake pushes the President up to the wall. The winch comes down and Snake helps the President into it first. The President goes up and over. Snake's life clock reads 1:32. But he doesn't have time to watch seconds tick away because the Duke is right behind him firing at him. Snake ducks for cover. The wall guards die. The winch comes down again, and the Duke sees it. He starts toward it. Snake tackles him and beats him up, dazing him but not knocking him out. He grabs the winch.
+S: EXT. WALL -- NIGHT
+N: A hand stops the winch from moving.
+S: EXT. 69TH STREET BRIDGE -- NIGHT
+N: Snake comes to a stop. He panics and starts pulling on the winch line. The Duke comes to and stands up. But he can't get anywhere because the President has found a machine gun and is now firing away. He is very accurate. He nails the Duke right away but keeps firing.
+C: PRESIDENT
+D: Yeah, hey, Number One! You're the Duke! You're the Duke!
+E: manic voice
+N: The President calms down somewhat.
+C: PRESIDENT
+D: You're... the Duke... You're A-Number-One.
+N: The President starts the winch again. Snake climbs up and gets over as fast as he can without injuring himself.
+S: EXT. WALL -- NIGHT
+N: Hauk and the medic pull up with the machine. Hauk interrupts the medic.
+C: HAUK
+D: The tape, Plissken.
+N: Snake reaches into his pocket, grabs the tape, and hands it to Hauk. He is furious. As soon as Hauk has the tape, he lets the medic come back. He holds up two medal pads to Snake's neck. They buzz, they buzz louder, and then he takes them away.
+C: MEDIC
+D: That's it.
+N: Snake continues to pant and fume. He stares at them, then lifts his wrist to look at his life clock. 2 seconds. One second. Beep. Nothing. Snake lowers his wrist.
+S: EXT. PRESIDENT'S PRESS CONFERENCE SITE -- NIGHT
+N: A jeep pulls Rehme up. He jogs to the President, who is being shaved and prepared for broadcast.
+C: REHME
+D: I radioed ahead, Mr. President. They know the situation. They're waiting for your broadcast.
+C: PRESIDENT
+D: Yeah.
+N: Snake approaches. The President nods.
+C: PRESIDENT
+D: Oh, it's all right.
+N: Snake walks up and looks the President straight in the eye.
+C: PRESIDENT
+D: I, uh... I want to thank you. Anything you want... you just name it.
+C: SNAKE
+D: Just a moment of your time.
+C: AIDE
+D: Three minutes, sir.
+C: PRESIDENT
+D: Yes?
+C: SNAKE
+D: We did get you out. A lot of people died in the process. I just wondered how you felt about it.
+C: PRESIDENT
+D: I want to thank them. This nation appreciates their sacrifice.
+N: The President is full of shit after all. Snake has reason for his cynicism. The President is uncomfortable with Snake's glare and it shows.
+C: PRESIDENT
+D: Look, uh, I'm on the air in... Two and a half minutes?
+E: questioning his aide
+C: AIDE
+D: Yes, sir.
+N: Snake lights a cigarette and walks away. Rehme watches.
+S: EXT. BASE -- NIGHT
+N: Snake walks away. Hauk stands nearby. Snake stops in his tracks.
+C: HAUK
+D: You going to kill me now, Snake?
+C: SNAKE
+D: I'm too tired. Maybe later.
+C: HAUK
+D: I've got another deal for you. I want you to think it over while you're resting. I want to give you a job. We'd make one hell of a team, Snake.
+C: SNAKE
+D: The name's Plissken.
+E: glaring
+N: He limps away.
+S: EXT. PRESIDENT'S PRESS CONFERENCE SITE -- NIGHT
+N: The President looks suitably freshened up. He's even smiling a little.
+C: AIDE
+D: You're on camera, Mr. President.
+C: PRESIDENT
+D: Good evening. Although I shall not be present at this historic summit meeting, I present this, in the hope that our great nations may learn to live in peace.
+N: He pops in the tape and presses the "PLAY" button... ...and out comes "American Bandstand". The President's face goes slack. His career's over.
+S: EXT. BASE -- NIGHT
+N: Snake keeps limping. He pulls a tape out of his pocket, yanks the magnetic tape out, winds it around his hand, rips it to shreds, and throws the tape away.
+T: FADE OUT.

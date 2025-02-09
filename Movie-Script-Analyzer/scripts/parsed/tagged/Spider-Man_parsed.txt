@@ -1,0 +1,2896 @@
+M: 8/4/1993
+M: S P I D E R - M A N
+M: Written by
+M: Barry Cohen and Ted Newson
+M: and
+M: James Cameron
+M: 2nd Revision by
+M: Joseph Goldmari and James Cameron
+M: and
+M: John Brancato
+M: Third Revision by James Cameron
+M: based on screenplays by Ted Newsom & John Brancato,
+M: Barney Cohen and Joseph Goldman
+M: SECOND REV.
+M: 7/29/1993
+T: FADE IN:
+S: INT. PROFESSOR OCK"S PRIVATE PHYSICS LABORATORY, THE
+N: CYCLOTRON ROOM (CREDIT SEQUENCE) - DAY A mighty WARNING KLAXON assaults our ears. A FLASHING RED WARNING LIGHT stabs our eyes. Several DIALS go into the RED. A hand pushes aside a YELLOW THERMOS and pushes forward a RED POWER THROTTLE. We hear the WHINING UP of a cyclotron. A DIGITAL DIAL climbs to "5% POWER." A SPIDER crawls across a DIAL. Begin OPENING CREDITS. THE CYCLOTRON ROOM is in an old basement full of peeling paint and plumbing wrapped with TAPE. Leaks are here and there. COBWEBS are all around. DOCTOR OTTO OCTAVIUS (OCK) is a strong but strange featured man in his mid-fifties. His assistant, WEINER, hovers nearby looking on. He's open mouthed with a mindless kind of curiosity. WEINER is a local, small-time hood hired by OCK to circumvent the school administration and to "procure" whatever OCK needs for his experiments. He shades his eyes against a searing BLUE-WHITE BEAM that erupts from the WINDOW. THE ROOM IS DIVIDED INTO A CONTROL ROOM AND THE EXPERIMENT CHAMBERS.
+C: WEINER
+D: Whoa, whoa, whoa... what's that?
+N: With a WHOOSH, the WINDOW EXPLODES, showering the TWO with shards of GLASS, and throwing them to the floor.
+C: OCK
+D: We begin again... let's kick in that new transducer. See if we can double the power output.
+E: rising
+C: WEINER
+D: Whoa, Doc... wait a minute...
+E: rising more slowly
+N: But OCK is already at the THROTTLE. The cyclotron whirls up. The lights go on. Louder, brighter than before. OCK looks through the broken WINDOW into the EXPERIMENTAL CHAMBER. The POWER DIAL inches upward, "eight, nine..." the BLUE-WHITE LIGHT is blinding now. The WHINE pitch is shattering. END OPENING CREDITS.
+C: OCK
+D: Okey... dokey!
+N: The POWER DIAL hits ten.
+S: EXT. EMPIRE STATE UNIVERSITY - DAY
+N: As STUDENTS go to class, the sound of the cyclotron spills out of the SCIENCE CENTER onto the grounds of Empire State University. We see PETER PARKER, a pleasant faced senior who's among the top in his class. Sincere and serious, he has yet to develop a way with women.
+C: LIZ
+D: Hiya Peter...
+E: falling in step
+N: LIZ ALLEN is also a senior. She's beautiful and intelligent.
+C: PETER
+D: Hiya Liz... how're you doing...?
+E: ardent but uncomfortable
+C: LIZ
+D: How'm I doing what?
+E: teasing softly
+C: HARRY
+D: Peter! Peter! Wait up!
+N: HARRY is the school nerd. A quirky kid who, like PETER, can be a little backward around girls, especially pretty ones like Liz.
+C: HARRY
+D: Would you, uh... excuse us for a minute?
+E: to Liz
+N: Despite PETER'S protesting body language, HARRY pulls him away like a conspirator.
+C: PETER
+D: What is it? what...
+C: HARRY
+D: Did the Astro-Physics Journal really accept your paper?
+C: PETER
+D: Yeah... well... all I got's the data but they've agreed to publish it when it's finished. You know... it's my calculation on the Planetary Conjunction.
+E: laughs, embarrassed
+C: HARRY
+D: And its influence on the anti-force. Isn't it?
+C: PETER
+D: Yes. Look, Harry, I am busy with...
+E: indicates Liz standing there
+C: HARRY
+D: Yeah, you and the rest of the class. Every one is busy with Liz.
+C: LIZ
+D: Peter?
+E: growing impatient
+N: A HAND reaches in and smacks her bottom.
+C: FLASH
+D: Hiya, cupcakes...
+C: LIZ
+D: Flash...!
+E: elbowing him affectionately
+N: They kiss and walk away.
+C: HARRY
+D: And Flash is the busiest of them all...
+E: sneering
+C: PETER
+D: Come on, Harry... we'll be late for Octavius.
+E: disappointed
+N: HARRY makes a gesture dismissing OCK as crazy.
+C: HARRY
+D: Ock is nuts, don't you agree?
+C: PETER
+D: Ock is a genius, Harry. Crazy, Yes! But, a genius misunderstood, and unappreciated.
+S: INT. CYCLOTRON AREA HALLWAY - DAY
+N: It is a basement hallway full of LOCKERS which STUDENTS are banging open and shut as they put stuff in and take stuff out. In their midst, a MAN is banging on the door marked "Cyclotron Room - Authorized Personnel Only!" Professor ROSOMORF, SIXTISH, respectable, a good old fashioned professor, he's the head of the Physics Dept. With him is ALEXANDER THORKEL, a 40-ish, Waspish school administrator. For a scientist as crazily focused as OCK, THORKEL is a natural enemy.
+C: ROZ
+D: Doctor Octavius! You are late for your lecture. The students are waiting. Doctor Octavius!
+E: knocking furiously
+C: THORKEL
+D: Your friend is impossible Professor Rosomorf, I told the board we should let him go.
+N: The LIGHT above THORKEL's head EXPLODES. Then all the LIGHTS behind him EXPLODE in succession. THORKEL and ROZ look amazed...
+C: THORKEL
+D: What's he doing in there, not his crazy experiment again.
+C: ROZ
+D: You mean his anti-force theory... one day they'll give him the Nobel Prize for it.
+C: THORKEL
+D: Meanwhile he is demolishing our university. Octavius!! Open the door.
+E: knocks
+S: INT. OCK'S LAB
+C: OCK
+D: The anti-force experiment has now reached the limit of electronic overload safety. Therefore, Weiner, you will disconnect the overload safety device...
+N: FOUR WALDOS (three-fingered, snake-like mechanical arms) suddenly thrust themselves into the CHAMBER and begin working, each at a different task. OCK is an acknowledged master at manipulating these WALDOS. He flicks a switch and a searing BLUE-WHITE BEAM lances down from a FOCUSING CONE and strikes a GRAM WEIGHT marked, "1,000,000"), illuminating it and filling our ears with a splitting BUZZ TONE. The knock on the door grows louder. WEINER comes up behind OCK.
+C: WEINER
+D: Whoa, Doc... someone's at the door...
+C: OCK
+D: World class scientific mind and they stick me in the basement with this third rate cyclotron...
+E: ignoring
+N: INSERT: The DIAL marked "RELATIVE GRAVITY" reads "1,000,000" but suddenly it snaps to "0.999999!"
+C: OCK
+D: Okey! Dokey!
+N: The WEIGHT begins to jiggle and, for an instant, it appears to lift ever so slightly.
+S: INT. COLLEGE PHYSICS LAB - DAY
+N: This is an enormous room, 100 lab tables. The yellowing smoke of a thousand experiments hangs in the air. A HUGE AMERICAN FLAG dominates the back wall. PETER, HARRY and LIZ set up their TABLES. FLASH reads the DAILY BUGLE sports section. PETER can't take his eyes off LIZ. When she looks back he looks down at his GEAR.
+C: LIZ
+D: What is it, Peter?
+E: softly
+C: PETER
+D: It's nothing.
+E: embarrassed
+S: INT. OCK'S LAB
+N: WEINER opens the door and sees ROZ and THORKEL waiting impatient.
+C: WEINER
+D: Yes, gentleman can I help you?
+C: THORKEL
+D: Tell your boss, that his class is waiting.
+C: WEINER
+D: You better tell him yourself.
+E: looks
+N: THORKEL looks at ROZ who waves his shoulder, then the both call. ROZ & THORKEL Professor Octavius!! Professor OCK turns and looks at the bewildered men.
+C: OCK
+D: Gentlemen, come, you must see this.
+C: ROZ
+D: But, your students...
+C: OCK
+D: The imbeciles can wait... I have better things to do than teach introductory Physics Rosomorf. Undergrads are kindless adolescence.
+C: THORKEL
+D: You see he is impossible.
+C: OCK
+D: Thorkel you are the dummiest administrator our university has ever had. Don't go Thorkel!! Come! Look!
+E: Thorkel turns to go
+N: He starts to play his machines handles and buttons.
+C: THORKEL
+D: The university pays you to teach something to your students.
+S: INT. COLLEGE PHYSICS LAB - DAY
+C: LIZ
+D: Well, do you mean nothing... or do you mean something but you won't tell me what it is?
+C: PETER
+D: I mean plain nothing.
+E: regaining
+C: LIZ
+D: Well, I guess that's about as nothing as you can get... plain nothing. A beat.
+C: PETER
+D: Liz...!
+C: LIZ
+D: Ahh, it is something.
+C: PETER
+D: No... look.
+N: The equipment on her TABLE is starting to vibrate. They look at it, curiously. We hear the cyclotron's WHINE begin to build...
+S: INT. CYCLOTRON ROOM - DAY
+N: Everything is shaking like in an earthquake... Roz and Thorkel seem to dance in their place going crazy with anger and surprise. The WHINE is deafening! The light is blinding! WEINER has his eyes closed and his hands over his ears.
+C: OCK
+D: I am going for 20 percent power!
+C: THORKEL
+D: NO!! Don't do that...
+C: ROZ
+D: Ock! Its dangerous...
+C: THORKEL
+D: Ock I warn you...
+N: WEINER crosses himself. The CONSOLE erupts in sparks.
+S: INT. ELECTRICAL CONDUIT MONTAGE - DAY
+N: We follow the electrical overcharge as it crackles along the WIRES and CABLES inside the WALLS and FLOORS. It is making its way up to the LAB!
+S: INT. LAB - DAY
+N: All the kids are now trying to hold onto their vibrating equipment. The CHARGE crackles up a WIRE and erupts at LIZ'S TABLE. A BREAKER explodes in flames. There is an outburst of AD LIBS: "Fire!" "Everybody out!" THORKEL (comes running he is shabby and bewildered) seeing LIZ trapped behind the fire which is growing from second to second.
+C: THORKEL
+D: Keep calm, everybody keep calm. Use the front door. Everybody out the front.
+C: PETER
+D: Liz! Come on...!
+C: LIZ
+D: I can't. Help me!
+C: PETER
+D: I'm coming!
+N: He wades into the fire, but is beaten back by the FLAMES. His sleeve is on fire. He pats it out.
+C: LIZ
+D: Peter!
+N: Flash appears and tries to help but Thorkel stops him.
+C: THORKEL
+D: Get back, you idiots. You can't go in there!
+N: LIZ smashes at the WINDOW, but this is an inner city school and the WINDOWS are covered by STEEL GATES. Liz wraps her fingers in the GATE.
+C: LIZ
+D: Help! Help me!
+E: out at the street
+N: Outside the WINDOW the air is clear and people come and go. Some are stopping to look up at the girl on the second floor who screams (but they can't hear, of course) down at them as the FLAMES close in behind her. PETER comes flying in with a FIRE EXTINGUISHER. He fumbles with it. FLASH pushes Thorkel, grabs the extinguisher away from him with a scowl of disdain. LIZ turns to face the FLAMES. Suddenly there is an eruption of CO2 CLOUDS and the roar of a FIRE EXTINGUISHER. The FLAMES are beaten down enough for her to leap out. FLASH is there, holding the EXTINGUISHER. People CHEER.
+C: PETER
+D: Thanks for your help Flash.
+C: FLASH
+D: No problem wimp.
+C: PETER
+D: Our hero has a real way with words.
+C: LIZ
+D: Oh, why don't you grow up.
+N: PETER is stung, insulted, turns away. ROSOMORF peeps in, worried -- faces Thorkel.
+C: THORKEL
+D: This man will bring a disaster upon this university.
+N: OCK comes in, starts his lecture calmly as if nothing has happened.
+C: OCK
+D: The universe is made up of forces... and counter-forces. Science is the study of the forces!
+N: FLASH hands the EXTINGUISHER to PETER. LIZ embraces FLASH, throwing a glimpse at PETER who tried so bravely. He looks away and turns the last of the EXTINGUISHER on the last of the FIRE.
+C: OCK
+D: But I... Professor Otto Octavius... have devoted my life to the study of the counter-forces! Good job, Peter.
+E: continues without a hitch
+C: PETER
+D: Thanks, Professor.
+E: taking place at lab table
+N: THORKEL has walked slowly and uncomprehendingly toward the front of the huge LAB. He simply cannot believe OCK'S behavior.
+C: THORKEL
+D: I don't believe it, I simply don't...
+C: OCK
+D: Can we carry on Mr. Thorkel.
+C: THORKEL
+D: I don't believe... oh, all right carry on Professor.
+C: OCK
+D: Well! This week my dear students I have made a stunning breakthrough...
+C: THORKEL
+D: Wait a minute, wait a minute... you've got fire forms to fill out, Dr. Octavius.
+C: OCK
+D: I have no time for forms, or administrators who persist in interrupting me, Mr. Thorkel.
+N: THORKEL steams out and bangs shut the DOOR.
+C: OCK
+D: I now believe its possible that these counter forces can be... collected... the way the magnifying glass collects the sunlight... and focused into a hard beam I call... Weiner!
+N: WEINER backs away from the BLACKBOARD to reveal a word that OCK has scrawled in large letters. It says "Anti- Force."
+C: OCK
+D: I call it, the Anti-Force!
+N: OCK is plugging a HUGE CABLE into a small LUCITE BOX with a SILVER BALL inside it.
+C: OCK
+D: This anti-force, once harnessed, is capable of undoing any natural force at which it is aimed... for instance... Gravity!
+E: continues as he works looks up maniacally
+N: LIZ scribbles down a note and mouths the word "gravity." Then she turns to PETER.
+C: LIZ
+D: I'm sorry...
+E: whispers
+C: PETER
+D: It's alright.
+N: OCK is "playing" his COMPUTER like the Phantom of the Opera at the organ.
+C: OCK
+D: We patch in the cyclotron... The lights flicker and go dim.
+C: OCK
+D: Pay no attention to the lights... I of course steal its energy, and it looses power. We patch in the cyclotron... and we gradually apply power. The power that I am stealing...
+N: As the WHINE builds in the LAB... OCK peers through the LUCITE BOX at us, distorted by it. The BOX is a miniature version of the cyclotron's experimental chamber, and now the BLUE-WHITE glow begins. It crackles round the SILVER BALL.
+C: OCK
+D: And so we stand, four square against the fundamental force that orders and maintains our universe... gravity... which is holding down this goddamn ball. Rise!
+N: The LIGHTS go totally dark. The kids react with WHOOPS and CATCALLS.
+C: HARRY
+D: What a crock...
+C: PETER
+D: Shut up Harry... this is very interesting.
+C: OCK
+D: Mr. Parker! Have you some... interesting observation you'd like to share with the class?
+C: PETER
+D: No sir...
+C: OCK
+D: Then shut up! And pay some attention to the experiment.
+N: OCK peers at us through the LUCITE BOX as the SILVER BALL begins to rise. OCK'S face is ecstatic.
+C: OCK
+D: Rise! Rise!!!
+N: The SILVER BALL suddenly shoots up, shattering the top of the box. It flies up to the ceiling where it shatters a LIGHT FIXTURE. The shards rain down on OCK who reaches out and catches the falling BALL and scales it in a raised fist.
+C: OCK
+D: Now that's what I call an experiment!
+N: The CYCLOTRON WHINE cuts out and OCK wheels to the COMPUTER. He hits a KEY and several COLORED PROJECTION BEAMS lance out of the back of the room. They pierce the smoke and light a PROJECTION DISPLAY in the front. TWO COLORED SPHERES one, YELLOW, one BLUE touch where their circumferences meet. Behind them is a BLACK depiction of "space".
+C: OCK
+D: You are looking at a representation of two universes. Our Blue one. Our real universe... something we can touch and feel and see and draw calculations about. This is us. The Yellow universe... this is something else. Some other dimension... something... on the other side!
+N: OCK hits another COMPUTER KEY and a hole appears where the TWO SPHERES touch. The BLUE AND THE YELLOW MARBLEIZE with each other. The colors swirl until both SPHERES are BRIGHT GREEN.
+C: OCK
+D: If it were possible to generate enough power behind it, the anti-force could wipe out not just gravity... but all our universal forces at the same time. In effect... it would blast a hole between this universe and the next. Each... would flow into each other. No blue universe. No yellow. End, finished, over.
+E: indicates green spheres
+C: LIZ
+D: That sounds like a scenario for the end of the world.
+E: with a student's ear
+C: OCK
+D: My girl, it is! It is. It would mean wiping out everything that's known... and letting in everything that's unknown.
+C: FLASH
+D: Isn't that a little dangerous?
+C: OCK
+D: Don't worry yourself, true inter- dimensional penetration is still purely theoretical, but one day... Maybe very near... maybe in the 21st century...
+S: INT. BASEMENT HALLWAY - DAY
+N: PETER, LIZ, FLASH and HARRY all take BOOKS from their LOCKERS.
+C: LIZ
+D: Look, it's just... I don't know... when you and Flash go after each other like that...
+E: whispers to Peter
+C: PETER
+D: He's not my type.
+E: whispers
+C: LIZ
+D: He doesn't have to be.
+C: PETER
+D: Check.
+C: LIZ
+D: And besides, he's not all bad.
+N: PETER looks at FLASH who's a few LOCKERS down. FLASH has taken a FOOTBALL from his LOCKER and is spinning it on his finger with great joy and concentration.
+C: PETER
+D: You don't get nicknamed Flash because you're a rocket scientist, Liz.
+C: LIZ
+D: Give it up, Parker. You'd die for a nickname like Flash.
+C: PETER
+D: Yeah, of embarrassment.
+N: KIM comes by and leans seductively by her LOCKER. KIM is a ripe one and hot-hot-hot!
+C: KIM
+D: Hey, Flash... I'm scalping a pair of the Midnight Madness Wrestling Match tomorrow night.
+E: teasing
+C: FLASH
+D: The Slammies??? I'd kill for that!!!
+C: KIM
+D: Would you pay $125?
+C: FLASH
+D: Well, uh, I... gee... if... can I tell you tomorrow?
+C: KIM
+D: You snooze, you lose. Hiya Liz...
+E: moving on
+C: LIZ
+D: Kim, you know Peter and Harry? This is my new roommate... Kim Nickson.
+N: KIM is pulling her pet, a foot long SALAMANDER, out of her LOCKER. She wraps it around her neck and turns to the boys. They go bug-eyed!
+C: KIM
+D: Hellooo, Peter.
+E: interested
+C: PETER
+D: Hi...
+E: embarrassed
+C: LIZ
+D: We're going to the Student Reunion Meeting. You coming?
+N: Peter looks at KIM. Wow. Then he looks at LIZ who's adjusting herself in a small MIRROR. HARRY jabs him in the ribs. Yeah, yeah!
+C: PETER
+D: I can't... I gotta go over to the Daily Bugle. I'm trying to sell some photos.
+E: frustrated
+C: KIM
+D: Soooh, a photographer...?
+C: PETER
+D: Just an amateur. Well... nice meeting you, Kim.
+C: KIM
+D: Yeah... I bet it would be.
+C: HARRY
+D: Can I be your date for the reunion ShooShoo?
+C: KIM
+D: No Jerk!
+C: HARRY
+D: What did I say...
+E: she turns to go
+C: LIZ
+D: It's not what you said, it's how you say it, ShooShoo!
+N: Everybody leaves and Harry is left alone, he throws his bag down.
+C: HARRY
+D: Damn!
+N: PETER turns to go and comes face to face with the hulking WEINER.
+C: WEINER
+D: Peter, Doc Ock wants to see you.
+C: PETER
+D: About my data I bet.
+C: WEINER
+D: I don't know.
+C: PETER
+D: He knows about my work on the Planetary Conjunction, doesn't he?
+C: WEINER
+D: I don't know.
+E: lies
+S: INT. CONTROL ROOM - DAY
+N: PETER enters wide-eyed behind WEINER. This place is a far cry from the experiment in the LAB ROOM. It's a fantastic netherworld to which no undergrad gains entrance. No one but PETER. OCK is sitting in a swivel CHAIR with his back to PETER. He has the look of Captain Nemo in his Nautilus. This is OCK'S domain.
+C: PETER
+D: Hello, Professor Octavius. I really admired your experiment.
+E: no response
+C: OCK
+D: We have a lot of interests in common, Peter. Perhaps we should put our heads together, if you know what I mean...
+E: back to Peter
+C: PETER
+D: That would be... great.
+E: flattered
+C: OCK
+D: Now you take the Planetary Conjunction. This Saturday night we will witness Saturn, Jupiter, the Moon, the Earth, the Sun... all in a row. Never seen within the memory of man, or measured for its effect. The total gravitational force must be quite exceptional. Isn't that the subject of your paper...?
+E: turns with a smile
+C: PETER
+D: Yes sir, I've worked out a new way to calculate the combined gravitational effect.
+C: OCK
+D: I'm a busy man, Mr. Parker. But I think I could find the time to go over it with you. Make sure it all... checks out.
+C: PETER
+D: Well... I'm sort of working with Professor Rosomorf and he suggested we kind of keep it between us. He thinks that my theory is... well, I don't know...
+C: OCK
+D: The scoundrel... I want to see that data, Peter!
+E: to himself turns angry
+C: PETER
+D: But Professor Octavius... if I knew you were interested... sorry, I've already given it to... Professor Rosomorf, and he is after all the head of our Physics Department... and I couldn't...
+N: OCK turns sweet again. He smiles too broadly.
+C: OCK
+D: Well, I'm certain something can be worked out. Run along, young man.
+N: PETER begins to leave.
+C: OCK
+D: Just a minute... how about if I show you my discoveries... something I never showed to any other student... as a matter of fact to anybody at all.
+C: PETER
+D: Well I am really flattered, I mean I'd love to... but I...
+C: OCK
+D: Very well shall we say if you come here tonight...
+C: PETER
+D: But Professor I don't now if I should...
+C: OCK
+D: Make it eight sharp... I'll be waiting for you... Right here...
+N: Peter looks worried then leaves. OCK turns to WEINER who slouches against the wall smiling.
+C: OCK
+D: The same academic world that's so keen to embrace that boy's undergraduate work, ridicules my anti-force theory as quackery. I ask you, Weiner... what is our society coming to? Ha!
+C: WEINER
+D: They are all a bunch of brainless assholes, that's what I say...
+C: OCK
+D: Weiner! Go get me that boy's data!
+C: WEINER
+D: Cost you fifty bucks.
+C: OCK
+D: Just get it. We'll negotiate your fee when you have the data, alright Weiner?
+E: Weiner hissing
+S: EXT. DAILY BUGLE - DAY
+N: Establish as ART DECO BUILDING well beyond its prime. A sign says: "The Daily Bugle." Peter enters the building.
+C: JAMESON
+D: Garbage! Absolute, 100% garbage!
+E: V.O.
+S: INT. JAMESON'S OFFICE - DAY
+N: Very forties, very messy. J. Jameson scans some PHOTOS as PETER stands helplessly by.
+C: JAMESON
+D: Bag ladies. I hate bag ladies.
+C: PETER
+D: Yes, sir.
+N: JAMESON is 50ish, grey at the temples, brush cut on top. He too is forties. His chewed up CIGAR is forties. This guy is a hard case.
+C: JAMESON
+D: Little kids... I hate little kids. This is a daily newspaper. We need news value photographs, not artsy-fartsy shit!
+E: looks at the other photos
+C: PETER
+D: Yes, sir.
+N: JAMESON comes to a picture of a BUSINESS SUITED MAN with a MOHAWK. PETER smiles in anticipation.
+C: JAMESON
+D: Kid? You want a pro's assessment?
+C: PETER
+D: Yes, sir!
+C: JAMESON
+D: Your photos suck. Parker, my readers are morons. I gotta grab them by the eyes. Every time you press the button of that Nikon of yours it costs you fifty-five cents. So the next time you're about to take the plunge, ask yourself, am I taking dog bites man? Because if you are...
+E: handing photos back cigar for emphasis
+C: PETER
+D: I know, I know. You want man bites dog...
+C: JAMESON
+D: Parker, this is the post modern 20th century. I want man eats dog! Get out!
+S: EXT. STREET - DAY
+N: A seedy east village walk up. Peter takes his camera and takes various shots of a wino. ALL IN. He climbs the stairs to his building, looks through the mail, he collects from a beaten down mailbox.
+C: PETER
+D: Rent! Rent, more bills, rent... electricity, bills...
+E: reading
+S: INT. PETER'S APARTMENT - DAY
+N: A one-room, shabby roof apartment, a chaos of books and papers. A photo enlarger and darkroom baths in kitchen pots; 8x10s tacked to the walls; a spare camera and lenses. Self-consciously wacky kitsch; plastic dinosaurs, wind-up toys, a stuffed carp. An unmade bed and a 50's dinette set are the only furniture. A grimy skylight leads to the roof. It's not a pretty place, but it has personality. A voice from the kitchen, a shadow of an intruder, is sneaking around.
+C: PETER
+D: There's nothing in there worth stealing!
+C: MAY
+D: That's the understatement of the year.
+E: V.O. from within the kitchen
+C: PETER
+D: Aunt May, you're trespassing.
+C: MAY
+D: I was just so desperately bored... I thought I'd come over and make you dinner...
+E: comes in
+C: PETER
+D: I am old enough to... to make my own--
+C: MAY
+D: But I didn't feel like getting to know your roaches.
+C: PETER
+D: I'll introduce you.
+C: MAY
+D: Oh. And those foul chemicals in the pots...
+C: PETER
+D: I take pictures, remember?
+C: MAY
+D: Anyway, I've decided to kidnap you for dinner in Forest Hills...
+N: She grabs her coat, crosses back to Peter and tugs on his shoulder.
+C: PETER
+D: It's Friday night...
+C: MAY
+D: Yes. Do you have a date?
+C: PETER
+D: No.
+C: MAY
+D: Then come on.
+S: INT. LARGE COMPUTER LAB - NIGHT
+N: It is dark and empty except for COMPUTERS. Sitting at it, lit by the GLOW of its screen, is SOLOMON ROSOMORF (ROZ). As he works, a DOOR opens behind him. Someone walks quietly through the LAB. ROSOMORF keeps working. The intruder approaches...
+C: THORKEL
+D: Professor Rosomorf, what happened here?
+E: at his ear
+C: ROZ
+D: Someone tried to rob me of some paper... I suspect they were looking for that one.
+C: THORKEL
+D: What is it?
+C: ROZ
+D: Award winning stuff. Peter Parker's data on the Planetary Conjunction. Damn lucky I hid it in my computer under another title.
+E: unruffled turning slightly
+C: THORKEL
+D: My God, what's going on in our school? First Professor Octavius almost blows up the Physics lab... Now this. You report it in triplicate, of course.
+C: ROZ
+D: Thorkel, be careful when you talk to Octavius. Remember... the man is a very fragile genius. One day he'll bring us all the Noble Prize.
+C: THORKEL
+D: Rosomorf, the man is a very dangerous crackpot!
+N: Off screen the voice of the CYCLOTRON WHINE begins to build.
+C: ROZ
+D: That's him again. He's working day and night.
+C: THORKEL
+D: I tell you the man is very dangerous. Come on Rosomorf, let's stop him before this building will explode.
+E: the whine grows louder
+S: INT. CYCLOTRON ROOM - NIGHT
+N: OCK and WEINER are at work as before. OCK takes no notice of the TWO MEN who come in, nor the WORKER who comes in behind them and sets to work attaching a BIG LOCK to the door.
+C: THORKEL
+D: Shut it down, Octavius.
+N: OCK ignores him. WEINER touches OCK'S shoulder. OCK ignores him too.
+C: THORKEL
+D: You've blown half the circuits in the Science Center.
+C: OCK
+D: Call an electrician.
+C: THORKEL
+D: I have called the locksmith.
+C: OCK
+D: What... what is he doing.
+N: He points toward the worker who's working on the lock on the main door.
+C: THORKEL
+D: We have to shut your lab down and take a look at the lines.
+C: ROZ
+D: Please, Otto, we must lock it up.
+C: OCK
+D: You're denying me access to my cyclotron?!
+E: to Thorkel
+C: THORKEL
+D: You bet.
+N: OCK glares back and forth between the TWO MEN, the WORKER, and WEINER. Then he pulls BACK the RED POWER THROTTLE. The WHINE descends. The WALDOS pull back and dangle from their panel. The WHINE dies.
+C: OCK
+D: Okey, dokey... just give me till tomorrow. I want to clean up my papers. Tomorrow... Ha... Tomorrow you can have this room...
+E: contemplating
+C: ROZ
+D: Oh... well Thorkel... few more hours won't make a difference.
+C: THORKEL
+D: I hope.
+N: He signals to the worker to stop.
+S: INT. APARTMENT OF AUNT MAY AND UNCLE BEN - NIGHT
+N: The N.Y. Mets are playing baseball on T.V. PETER watches with his UNCLE BEN, a paunchy 65 years old in POLYESTER SLACKS and a COMFY OLD SWEATER. A N.Y. METS CAP is perched on BEN'S head. A BEER CAN is in his hand. A cluttered but familiar living room sprawls comfortably around them.
+C: BEN
+D: Another brewski?
+C: PETER
+D: No, I'm fine, Uncle Ben.
+C: BEN
+D: Yah! Way to do it. Alright! You don't follow the Mets like you used to, do you, Pete?
+E: at T.V. to Peter
+C: PETER
+D: No, not so much anymore.
+C: BEN
+D: Funny. When your Mom and Dad, uh, passed away... I had this idea... I wanted you to be the best baseball player that ever was. Geez, what ever happened to that?
+C: PETER
+D: Little league.
+C: BEN
+D: Yeah... Babe Ruth you wasn't.
+E: soft and warm
+N: AUNT MAY enters.
+C: AUNT MAY
+D: It's on the table! Turn off the TV!
+N: BEN nods, rises sluggishly and slowly, and turns the sound off only. PETER moves toward his AUNT in the doorway.
+C: AUNT MAY
+D: How's that girl you told us about, Peter?
+C: PETER
+D: Liz? She's great... But she has a boyfriend.
+S: INT. THE DINING ROOM - NIGHT
+N: PETER passes AUNT MAY and takes his seat.
+C: AUNT MAY
+D: A boy your age should have a girlfriend.
+C: PETER
+D: Aunt May... she has a steady boyfriend.
+C: AUNT MAY
+D: Peter, any girl that's worth your attention is of course gonna have a boyfriend... But if she really gets to know what you have to offer she'll... you get my drift?
+C: BEN
+D: Look, just leave him alone, okay. When he's ready for girls he'll be a holy terror. It's in the blood. Lookit, how are you fixed for money, Pete? Maybe I can help you out a little.
+E: winks now serious business
+C: PETER
+D: No, I'm alright. My scholarship covers almost everything, and I sell some photos here and there. Today my physics professor asked for some of my work... he wants to study my data. They might publish my work in the science magazine... that'll bring me some money...
+E: lying to them
+C: BEN
+D: Publish your work?! You hear that May...?
+E: practically cheering
+C: PETER
+D: Yeah, in fact I have to leave a little early tonight, to meet Professor Octavius... He offered me to be his assistant...
+E: embarrassed laughs
+C: BEN
+D: Whoa! Did you hear that May...?
+C: AUNT MAY
+D: Oh, Peter, you promised you'd spend the night...
+C: PETER
+D: I... I can't, Aunt May. Professor Octavius wants to discuss my new findings.
+C: AUNT MAY
+D: Peter, what you should be finding... is a nice girlfriend.
+E: disappointed
+S: INT. BASEMENT CYCLOTRON ROOM - NIGHT
+N: WEINER is eating a large SANDWICH and a drinking a COKE.
+C: OCK
+D: I'll show them... closing the cyclotron on me... Weiner!
+C: WEINER
+D: Yes, Professor...
+C: OCK
+D: Where is he? It's ten past eight o'clock...
+N: A KNOCK
+C: WEINER
+D: That must be him. He opens the door.
+E: with mouth full
+C: PETER
+D: Good evening.
+C: OCK
+D: You are late. Weiner, go outside and get us something to eat. And don't steal it! Just buy it. I'll reimburse you.
+E: to Weiner
+C: WEINER
+D: Do you want anything Parker?
+E: to Peter
+C: PETER
+D: No thank you, I just had dinner at my aunt's...
+C: OCK
+D: Piss off, Weiner!
+N: WEINER leaves. PETER wanders around. He goes into the experimental chamber, he overlooks the SPIDER which is scuttling away and crawls inside the open WINDOW... and into the chamber.
+C: OCK
+D: Okey, dokey, Parker... how would you like to take Weiner's place... I mean, be my assistant?
+C: PETER
+D: Well, Professor, that would be a great honor, but I'm already working with...
+C: OCK
+D: Rosomorf... that imbecile. Don't you understand, kid, that I am about to uncover the greatest discovery since Einstein came up with his theory of relativity... The "Anti-Force."
+C: PETER
+D: Wow! The theory of the Anti-force! You should go for the Noble Prize Professor...
+C: OCK
+D: Noble Shmoble, I am going for a much bigger prize kid. Okey, dokey. Let me show you, kid, what I got here.
+N: OCK begins the experiment. We move in past the shattered WINDOW. We see the SPIDER crawling on the chamber's GEAR.
+C: OCK
+D: Present maximum anti-force power to date is 38 percent of theoretical limit. I have patched in the variable particle-wave accelerator... I will now try to reach 50% power... And if your paper has any value... I can use it to get the power I'm missing to create the anti-force, to break through and beat any other form of power in our or any other universe, capish!
+E: shrugs big breath
+C: PETER
+D: Sorry, Professor, I can't do it. I gave my word to Professor Rosomorf.
+N: OCK is angry... Ock now sees the SPIDER. He shoots out a WALDO to try and crush it but the SPIDER is too fast. The WALDO slams against the wall of the chamber. He starts to push every button or switch in sight. A deafening whining starts. An URGENT WARNING TONE causes OCK to look at the "Relative Gravity" DIAL. It is at "4.999999KG" but suddenly the numbers start to tumble rapidly. INSERT: The glowing 5KG WEIGHT. INSERT: The POWER DIAL inches toward 50% POWER!
+C: OCK
+D: 50 percent... anti-force... 50 percent... that's all I'm missing! Parker, we can be rich together!
+E: screaming
+C: PETER
+D: Sorry... I'd better go now.
+C: OCK
+D: You'll be sorry, Parker.
+E: really angry now
+N: PETER leaves. Another URGENT WARNING TONE causes OCK to look at the monitor SCREEN. On it, flashing RED, is the word, "OVERLOAD!" OCK pushes the RED POWER THROTTLE forward! The WHINE increases to a PULSE and THROB.
+S: INT. EXPERIMENTAL CHAMBER - NIGHT
+N: Incredibly lit, the SPIDER is dropping on it's shimmering WEB-STRAND down toward the 5KG WEIGHT which now GLOWS in time with the THROB and PULSE.
+S: INT. THE CONTROL ROOM - NIGHT
+N: The MONITOR is flashing "MAXIMUM OVERLOAD - SHUT DOWN!" OCK continues with the experiment. And then he sees the SPIDER!
+C: OCK
+D: You! Get out of there, you creeping...
+N: He tries to shove the SPIDER with his hand.
+S: INT. EXPERIMENTAL CHAMBER - NIGHT
+N: Through the BLUE-WHITE we can barely make out OCK on the other side if the shattered WINDOW. He sends TWO WALDOS after the SPIDER. The SPIDER evades him and jumps onto the PROFESSOR's back. It then climbs onto the PROFESSOR's neck and bites him.
+C: OCK
+D: Noooooooooooo!
+E: anguish
+N: The gravity DIAL goes to .000001, then pops back up as OCK'S tiny world goes berserk. DIALS spin, crack, explode or droop liquidly. WIRES dance on the CONSOLE which erupts like the 4th of JULY. OCK begins to float. His shirt begins to tear away. A DIAL floats by with its pulled WIRES undulating like a Medusa. WALDOS smash through the walls and flail like snakes. OCK'S YELLOW THERMOS distorts and EXPLODES! OCK, his hair wild, face locked in a multi-G grimace, is pinned halfway up a wall that is showering the room with SPARKS.
+C: OCK
+D: It's an energy storm! Okey! Dokey!
+E: ecstasy above the din
+N: We see clearly the SPIDER still stuck to his neck. The big beast buffets and shakes. Tubes, junctions, valves and whatnot fall off, crashing to the floor where they twitch and writhe with a life of their own. Then, an enormous EXPLOSION rips a large hole in the CYCLOTRON's side, sending debris and a HUNDRED MICRO- STREAMS of ELECTRONIC PARTICLES lancing in our direction.
+S: INT. BASEMENT HALLWAY - NIGHT
+N: Ultimate weirdness! The PULSING BLUE-WHITE LIGHT penetrates first the DOOR of the CYCLOTRON ROOM and then the very walls! LOCKERS bang, LAMPS POP, the ceiling sags in a SURREAL, RUBBERY way. The WALLS sag too! The CYCLOTRON SIGN pivots and embeds itself in a WALL. A LADDER sinks in the WALL. The BLUE- WHITE LIGHT dances wildly about in PULSES. Then, suddenly, it stops... DEAD SILENCE. WEINER comes running in holding a double decker sandwich and a large bottle of Pepsi. Weiner enters OCK'S lab, singing, not at first noticing what's going on. Suddenly he stops dead.
+S: INT. CYCLOTRON ROOM - NIGHT
+N: A scene out of DALI's surrealistic canvas. There are things inside of other things. DIALS look like DALI watches. This place has been rippled to the max! OCK lays face up, unconscious on the floor, a WALDO across his chest. The SPIDER is weaving its web. CAMERA slowly DOWN to see OCK. PIPES and WIRES are stuck to his body. The WALDO seems to be wrapping him. He wakes up to see those MECHANICAL ARMS buried in his body. They weave around him as if they are looking for prey. He tries to tear them out, but they seem to be a part of his body, like his other limbs. He screams. Suddenly Weiner sees OCK.
+C: WEINER
+D: Professor... what happened to you? What did you do...
+N: Suddenly one of the waldos hits him so strongly that he flies back and out through the door to the corridor.
+S: INT. BASEMENT HALLWAY - NIGHT
+C: WEINER
+D: Oh my God... what happened here...
+N: He hears the police sirens approaching, he runs away.
+C: WEINER
+D: I better get out of here.
+S: EXT. THE EMPIRE UNIVERSITY - NIGHT
+N: The long SCREAM segues to a POLICE SIREN. A COP CAR pulls to a halt in front of the COLLEGE. Many NYPD CARS are already there, along with a NUCLEAR REGULATORY VAN, some AMBULANCES, a VAN from the ENVIRONMENTAL PROTECTION AGENCY and TWO TV VANS. ROZ runs across the lawn. POLICE STRUGGLE to hold back the crowd of press, students and general gawkers. J. JAMESON pushes to the front of the mob in time to see TWO COPS hustle a BUGLE PHOTOGRAPHER back into it. The MAN shakes his head. JAMESON throws down his CIGAR, stomps it, and pulls out a fresh one. THORKEL arrives to address the CROWD.
+C: THORKEL
+D: There is no danger. Please go back to your dorms. I repeat, there is no danger.
+E: through bull horn
+C: JAMESON
+D: Spill it out, Professor! The public wants to know!
+E: approaches him
+N: The CROWD closes on THORKEL.
+C: THORKEL
+D: Who are you?
+C: JAMESON
+D: Jameson, Daily Bugle, Chief Editor, now what really happened here?
+C: THORKEL
+D: There will be a press announcement in the morning Mr. Jameson... now if you'll excuse me.
+N: This elicits a flood of AD LIBS: "I heard a terrible explosion?" "Nuclear accidents?" "Meltdown?" "Genetic engineering?" "Are you guys making mutants in there?"
+C: THORKEL
+D: I have nothing to say... there will be an announcement. Now, please go home... everybody... we must clear the grounds...
+N: In the back of the crowd are PETER, HARRY, LIZ, FLASH and KIM.
+C: FLASH
+D: You think they'll cancel classes?
+C: HARRY
+D: They must... the whole building must be contaminated with some kind of poisonous gas.
+C: PETER
+D: How about nuclear contaminations?
+C: KIM
+D: My God... lets beat it. But nobody moves.
+C: LIZ
+D: Could anyone be in there, Peter?
+E: more interested in other things
+C: PETER
+D: I don't know... Maybe Professor Octavius. He usually works late...
+E: concerned
+C: FLASH
+D: That nut, I bet it was all his doing...
+C: JAMESON
+D: Hey Parker! Peter Parker!
+E: seeing Peter
+N: PETER pushes forward.
+C: PETER
+D: Mr. Jameson! What are you doing here? What's going on?
+C: JAMESON
+D: That's for them to know, and for you to find out.
+C: PETER
+D: But sir, they wouldn't tell us. You heard Thorkel... he said...
+C: JAMESON
+D: A press announcement tomorrow...! But we must know tonight Parker. This is your university, right...
+C: PETER
+D: Yes, but...
+C: JAMESON
+D: You got your camera?
+C: PETER
+D: Sure, but I can't--
+C: JAMESON
+D: A hundred dollars says you can?
+C: PETER
+D: Yes sir!
+C: JAMESON
+D: Get inside and get pictures, fifty bucks.
+C: PETER
+D: You just said a hundred.
+C: JAMESON
+D: Seventy, but I want blood and gore.
+C: PETER
+D: Seeya guys.
+E: calling back
+N: He dashes off. FLASH shakes his head in dismay at this guy.
+C: LIZ
+D: Where is he going?
+C: JAMESON
+D: To make fifty bucks.
+S: EXT. SCIENCE CENTER - NIGHT
+N: PETER approaches a CYCLONE FENCE keeping low and out of sight. He leaps it like a skirmisher but fails ignominiously in a heap. He's torn his PANTS and cut his leg. He moves to the side of the building. A DUMPSTER sits next to a FIRE DOOR. It's locked. As PETER mulls over his next move, the LOCK clicks and the DOOR slowly opens. PETER leaps on the DUMPSTER... and falls in.
+S: INT. DUMPSTER - NIGHT
+N: PETER lays in the GARBAGE, a pained look on his face. He rolls over and comes face to face with a wet DAILY BUGLE. The headline reads, "Wave of Violence Rips City!" He pulls himself up and peers out. He sees a UNIFORMED GUARD hold the DOOR open for THREE MEN IN RADIATION SUITS who remove some weirdly fused objects. When they let the DOOR swing closed, PETER stops it by inserting the NEWSPAPER in the top.
+S: EXT. FIRE DOOR - NIGHT
+N: PETER squeezes inside and jumps to knock out the NEWSPAPER. The Door closes behind him.
+S: INT. BASEMENT HALLWAY - NIGHT
+N: Skewed, strange, surreal, PETER stares at the weirdness and fumbles with his CAMERA. He snaps off a few shots, then freezes when he hears a familiar voice.
+C: ROZ
+D: Take it easy. Take it easy with him.
+E: V.O. filtered through face mask
+C: THORKEL
+D: Take him away and never bring him back!
+E: V.O.
+N: Now we see ROZ and THORKEL following 2 GUARDS carrying OCK in a stretcher. They all wear RADIATION SUITS. A waldo sneaks out from under the sheet and hits Thorkel, as fast as lightning. He falls back. He's covered with a SHEET and attached to LIFE SUPPORT EQUIPMENT. Octavius moans.
+C: THORKEL
+D: What was that?
+C: ROZ
+D: What was what?
+C: THORKEL
+D: What hit me?
+C: ROZ
+D: What hit you?
+C: THORKEL
+D: I don't know. It was so fast.
+C: ROZ
+D: You're going to be fine, Otto.
+N: PETER gets off a shot and ducks into the MEN'S room leaving the DOOR ajar for a peak. A WALDO slips down from the SHEET. PETER'S eyes go wide at the sight. What in the hell has happened here?
+S: INT. MEN'S ROOM - NIGHT
+N: The URINALS are twisted in bizarre shapes. PIPES are exposed and spout WATER. The MIRRORS look like something out of a funhouse. PETER hears the STRETCHER go by. PETER goes to the DOOR of OCK'S Lab and cracks it. PAN up to the SPIDER, GLOWING softly, dangling from a SHIMMERING STRAND above PETER. As PETER looks out at the STRETCHER, the SPIDER drops on his neck. He reacts by swatting it away. Bad move. The GLOWING SPIDER now squats malevolently on the back of PETER's hand. He stares at it transfixed. It bites.
+C: PETER
+D: Ow!!!
+N: PETER throws the SPIDER to the ripply tile floor where it
+T: scuttles unsteadily out the door.
+N: Sweat starts to bead on PETER'S face. He shakes his head to clear it. His vision becomes uncertain. He lurches against a WEIRD SINK. PETER'S POV is not just uncertain, not just fuzzy, not just moving in and out anamorphically. It's all of that!
+C: GUARD
+D: Hey! What are you doing here, kid?
+E: V.O. heavily distorted
+N: PETER turns to see a UNIFORMED GUARD distorted by his crazy vision.
+C: PETER
+D: I feel a little funny...
+C: GUARD
+D: Yeah? Well, I ain't laughing. Get out... Just get out of here...
+E: heavily distorted
+S: EXT. FIRE DOOR - NIGHT
+N: It bangs open. The GUARD throws PETER out and then throws his BACK PACK at him.
+C: GUARD
+D: You get yourself over to the Police lines.
+E: still distorted
+C: PETER
+D: Right. Police lines.
+E: ultra wooz
+S: EXT. UNIVERSITY - NIGHT
+N: PETER melds into the crowd. As in a dream, JAMESON appears at his side.
+C: JAMESON
+D: Okay, scoop, whaddaya got?
+E: distorted
+C: PETER
+D: I... got pictures of the Professor... in there... it's so strange in there... so bizarre...
+C: JAMESON
+D: Good job, kid. Bizarre is what we need. Pick this up in the morning. There'll be two crisp twenties tucked inside.
+E: winks holding up his camera
+N: He hurries off. PETER peers after him and all of a sudden his vision corrects to a perfect focus. The sweat is gone. He's okay. He makes his way through the crowd to the street. We TRACK with PETER as the madding throng recedes behind him. He turns a corner. He hears a SIREN. An AMBULANCE screeches around the corner. It nearly hits PETER who leaps to avoid it.
+S: EXT. BRICK BUILDING - NIGHT
+N: PETER'S cheek is pressed against the brick. He opens his eyes and sees that he's hanging onto the side of the building like a spider. And he's three stories up! He looks down and sees the street thirty feet below him! And the Ambulance which he jumped over is driving away. He tries a downward step, but a BRICK dislodges and crashes to the sidewalk. He takes an upward step. And then another. Tentatively at first, and then with growing confidence, he "crawls" to the roof of the building. At the top he gropes for a RAILING and slips. He dangles eight stories above the street. Then, with a grunt, he vaults to the roof one-handed.
+S: EXT. THE ROOF - NIGHT
+N: PETER is flat on his back, staring at the stars. He sits up and looks wonderingly at his hands. On the back of his right hand are TWO PUNCTURE WOUNDS surrounded by a faint BLUE-WHITE PULSING GLOW. The GLOW disappears.
+C: PETER
+D: This is weird. My God, I feel so weird...
+E: mutters to himself
+N: He leaps to his feet. He flexes. Feels weird. Good Weird. In fact, great weird! He tries a couple of "jumping jacks" and on the third jump he soars into the air!
+C: PETER
+D: Very weird.
+E: exhilarated
+N: The great, bespangled, NEW YORK CITY is his backdrop as PETER jumps and turns and does loops in the air. With the agility and tactility of a spider, PETER leaps from the RAILING to a WALL to a FLAG POLE to another WALL where he lands sideways and sticks.
+C: PETER
+D: Very, very weird.
+E: sideways
+N: He leaps off the WALL and lands at the edge of the roof. He looks down. No one's looking back. So, he takes a step back and leaps the alley to the next roof.
+S: EXT. ROOFTOP SHACK - NIGHT
+N: PETER lands on it. The next roof is seven stories up and across the street. PETER bites his lip.
+C: PETER
+D: Well, what the hell!!
+S: EXT. THE TALLER BUILDING - NIGHT
+N: Backlit by a FULL MOON, PETER somersaults to the roof of the taller building, and misses the top! He sticks to the brick FACADE, upside down! He laughs with the moment. A WINDOW opens below him and a pretty BLONDE in a TOWEL sticks her head out. She looks this way and that, and all she sees is a MAN in a LOUD SPORTCOAT down the street. Never thinking to look up, she withdraws into the room.
+S: EXT. CHELSEA STREET - NIGHT
+N: The MAN in the LOUD SPORTCOAT leans against a LAMP POST and lights a CIGARETTE with a BEAT UP, SILVER PLATED LIGHTER. In the LIGHTER he sees a reflection of PETER leaping off the taller building. He snaps around and looks up in time to see PETER make it to the next FACADE.
+S: EXT. ROOFTOP MONTAGE - NIGHT
+N: With the UPTOWN SKYLINE behind him, PETER casts caution to the wind and leaps from rooftop to rooftop. Watching from the street, the MAN in the LOUD SPORTCOAT follows PETER'S progress. PETER leaps to a BROWNSTONE and lands amid the WASH. He leaps up to a TENEMENT and lands on a BILLBOARD across which he does a "bug crawl" and leaps again. He touches down on a PIGEON COOP and bounds up and out of frame again. The COOP OWNER, a LATINO in an undershirt and a YANKEES CAP, comes running out of the COOP. He's so surprised that he leaves the DOOR open and twenty WHITE MORNING DOVES fly away in a furious flapping, free at last. The LATINO lets out a stream of Hispanic expletives complete with all the appropriately obscene gestures. PETER slides down a CABLE to a LAMP POST, and swirls down the POLE to a PHONE BOOTH.
+S: EXT. PHONE BOOTH - NIGHT
+N: PETER comes face to face with the man in the LOUD SPORTCOAT. He gives PETER his CARD.
+C: REISS
+D: You're a kid who's going places, and I'm gonna point you the right way.
+C: PETER
+D: Max Reiss, models, strip dancers, escort girls, blue movies...
+E: reading card
+C: REISS
+D: Oops... sorry, wrong card.
+E: exchanges cards
+C: PETER
+D: Max Reiss, Talent management.
+C: REISS
+D: It's a big outfit. Got a lot of departments.
+C: PETER
+D: Yeah... well... why you approach me? I'm not...
+C: REISS
+D: Oh yes you are... very talented. The three questions of show business success. One do you think you possess a unique talent?
+C: PETER
+D: Well...
+C: REISS
+D: Two... what are you gonna do with it?
+C: PETER
+D: Well... I don't know.
+E: not a clue
+C: REISS
+D: Three... how much money you got in your pocket?
+E: the clincher
+C: PETER
+D: Ten.
+C: REISS
+D: You invest half of that with me and I'll make you a star.
+C: PETER
+D: What are you talking about?
+E: laughing
+C: REISS
+D: I'm talking about fame. I'm talking about fortune. I'm talking about the chance of a lifetime. How'd you like to be on MTV tomorrow night?
+C: PETER
+D: MTV...? Me? Really?
+C: REISS
+D: Taxi!
+N: It screeches to a stop.
+C: PETER
+D: Hey!
+C: REISS
+D: Kid! Tomorrow night. Same place, same time.
+E: getting in
+C: PETER
+D: How do you know I'll show up?
+E: calling after
+N: As the TAXI roars off...
+C: REISS
+D: Because you wanna be a star... everybody does.
+E: from the taxi window
+N: PETER pulls out a QUARTER. And enters a phone booth. He dials.
+C: PETER
+D: Hello? Aunt May?
+C: AUNT MAY
+D: Peter? What time is it? Are you alright?
+E: V.O. filtered
+C: PETER
+D: Well, no, I mean yeah I'm fine, but listen... Aunti, the craziest thing happened to me tonight.
+S: INT./ EXT. PHONE BOOTH/AUNT MAY'S BEDROOM - NIGHT
+N: As UNCLE BEN stirs fitfully
+C: AUNT MAY
+D: Does this have to do with a certain girl we talked about at dinner?
+E: lovingly
+C: PETER
+D: No, no, look, there was this radioactive experiment... I was poisoned!
+C: AUNT MAY
+D: You were what?
+C: PETER
+D: I was bitten by a bug.
+C: AUNT MAY
+D: Oh! I get it, you mean a love bug.
+C: PETER
+D: No... No... A spider...
+C: AUNT MAY
+D: Peter, did you at least talk to her?
+C: PETER
+D: Aunt May, listen to me. I got bitten on the hand... by a poisonous spider.
+C: AUNT MAY
+D: She bit you?
+C: PETER
+D: No. I was in the bathroom and...
+C: AUNT MAY
+D: Oh, you did it in the bathroom? Peter, this is craziness, why don't you use your bed? You're up all night. You're in the radioactive labs. You never take time to eat or sleep. Am I right?
+C: PETER
+D: Yes, Aunt May.
+S: INT. PHONE BOOTH - NIGHT
+C: AUNT MAY
+D: Did you eat something today?
+E: V.O.
+C: PETER
+D: Yes, Aunt May.
+C: AUNT MAY
+D: Okay, Peter go back to bed, and remember we love you.
+E: V.O.
+C: PETER
+D: And I love you too, Aunt May. And by the way, I got a mess of super powers today.
+E: hangs up
+N: Exit booth. He BANGS the PHONE BOOTH. Goes out and-- jumps lightly onto the phone booth roof.
+S: INT. HOSPITAL OPERATING ROOM - NIGHT
+N: OCK is prepped for surgery. GOWNED PERSONNEL hurry about with a feverish urgency. The CHIEF SURGEON checks the SENSORS attached to OCK'S head. These seasoned professionals are astonished and frightened.
+C: CHIEF SURGEON
+D: Look at these brainwave readings. The mental activity is ten times of any normal man...!
+E: whispers
+C: BRAINMAN
+D: Equipment malfunction...?
+E: whispers
+C: CHIEF SURGEON
+D: Hell, yeah... his. My God... I thought I'd seen everything...
+E: whispers checks Ock's chest
+N: SURGEON #2 (whispers) But this is beyond medicine. This is madness...! OCK lays bare chested, face up, all FOUR WALDOS splayed. He is a true cyborg. Part man, part machine. Part organic, part molybdenum steel.
+C: NURSE
+D: It is so freaky...
+E: leaning in, blitzed
+C: CHIEF SURGEON
+D: Okay, lets stop yakking and get cracking. I want to go in at the upper thoracic. Then we'll work our way around. Hang in there, man.
+E: stern for the staff's sake slaps Ock's shoulder
+N: INSERT: The WALDO nearest the slap moves ever so slightly. The triangular CLAW rotates a quarter turn and then turns back. The NURSE sees it and SCREAMS.
+C: CHIEF SURGEON
+D: Nurse! Number seven scalpel. Arthroscope stand by. Read out parameters in progress. Let's go in. You alright?
+E: glares
+C: NURSE
+D: Yes... Yes, of course. Everything's online.
+C: CHIEF SURGEON
+D: Scalpel! No... no... a larger one... the largest we have!
+N: She slaps a HUGE ONE into his palm. He takes a deep breath and goes to work. MASKED heads gather round him. The SCALPEL is poised at the line where skin meets steel. We make an incision. The INSTRUMENTS go crazy. WARNING BELLS and BUZZERS sound.
+C: HEAD NURSE
+D: Kill the alarms!
+C: BRAINMAN
+D: He's going off the chart!
+N: A WALDO flashes around the steel leg of the operating TABLE and clanks tight!
+C: CHIEF SURGEON
+D: Mop. Mop! Sutures and clamps! Hurry up!
+N: SURGEON #2 We're losing him. Defibrillate! A HEART MACHINE is rushed in. They work frantically.
+C: CHIEF SURGEON
+D: Zap him!
+C: BRAINMAN
+D: Stabilizing alpha waves...
+N: SURGEON #2 applies the CARDIAC SHOCK PADS.
+S: INT. HOSPITAL ROOM - DAY
+C: NURSE
+D: You have a visitor, Doctor...
+N: She leaves OCK and THORKEL alone.
+C: THORKEL
+D: Octavius, I'm afraid I have bad news for you.
+E: enjoying this
+C: OCK
+D: The cyclotron is damaged...
+C: THORKEL
+D: What used to be the cyclotron was permanently shut down this afternoon.
+C: OCK
+D: But my work!
+C: THORKEL
+D: Your work is a disaster! Look at yourself!
+C: OCK
+D: Myself? I don't matter. Nobody matters anymore. To enter a new dimension we must first destroy our own...
+C: THORKEL
+D: What are you saying?
+N: OCK gets off his bed throwing away his sheet waving with his 4 WALDOS and 2 arms.
+C: OCK
+D: Destroy life. Life is... insignificant. Bags of sleepy, sluggish flesh. What would you say?
+C: THORKEL
+D: Oh, my God, what are those horrible things sticking from your body?
+C: OCK
+D: Thorkel, if I told you that for one moment in time I broke all the laws! For one brief glorious moment, I broke through to the other side. I saw... I felt... I became creation.
+E: gets more and more excited
+C: THORKEL
+D: What on Earth are you rambling about?
+C: OCK
+D: Destiny!!! My destiny! I see it all so clearly now. Universal destruction, yes. All I need is the power... then I can destroy this illusion you call life. It is my destiny to lead us to the light!
+C: THORKEL
+D: You're a madman.
+C: OCK
+D: And you are a fool. I will end the universe as you know it. And in that final moment... I'll laugh my ass off while you're kissing yours goodbye!
+C: THORKEL
+D: Goodbye is right, Octavius... You're fired... sacked... canned. You are history, Doctor Octavius. And I couldn't be more pleased to be the first to tell you this good news...
+E: excited
+N: A WALDO shoots up and grabs THORKEL by the throat. He GASPS and SCREAMS silently as the telescoping WALDO lifts him off his feet. He rises until his head is just inches from the ceiling.
+C: THORKEL
+D: Let me down Ock... you crazy... MONSTER! Let me down!
+E: his last words
+N: Then OCK smiles and slams THORKEL'S head through the ceiling. PLASTER rains down. THORKEL'S legs scissor and kick and then go limp. OCK throws his dead body on to the bed, and covers him with the WHITE SHEETS.
+C: OCK
+D: Okey, dokey.
+S: INT. TAXI - NIGHT
+N: Through the WINDOW of the TAXI we see MADISON SQUARE GARDEN. As it pulls up, a sign reads, "Midnight Madness! MTV's Rock and Wrestling 'SLAMMY Awards!" The TAXI come to a stop.
+C: PETER
+D: MTV Wrestling?!
+E: looking up at the sign
+C: REISS
+D: That's the place. Pay the man.
+E: getting out
+N: MAX REISS gets out, he is carrying a BOX.
+C: PETER
+D: Look, Mr. Reiss... I'm not real interested in watching a wrestling match.
+C: REISS
+D: Who said anything about watching a wrestling match? You're here to win a wrestling match!
+C: PETER
+D: Me? You must be kidding.
+N: REISS hustles PETER inside.
+C: REISS
+D: You hop around. You know, the way you did last night. Your opponent gets tired. He falls down. The ref counts to three, you win, and we pick up a thousand bucks.
+S: INT. CATACOMBS MADISON SQUARE GARDEN - NIGHT
+N: We can hear the CROWD screaming at something in the background as REISS leads PETER to an employee WASHROOM and shows him the BOX.
+C: REISS
+D: You're really gonna love this.
+C: PETER
+D: Look, really, I don't know...
+C: REISS
+D: You don't have to know. I know enough for both of us. Change in there.
+E: pause
+C: PETER
+D: What is this?
+C: REISS
+D: A costume... something that fits your talent. Go put it on. I'm sure you'll like it.
+N: He slaps the BOX against PETER'S chest and all but pushes him inside.
+S: INT. WASHROOM - NIGHT
+N: PETER takes the suit out of the BOX. It is the SPIDER-MAN SUIT! He looks at it and shrugs. Then he begins to struggle into it. PETER is looking at himself in the MIRROR. He is dressed in all but the MASK. And he looks terrific! He flexes. He smoothes his hair. He's starting to get into it.
+S: INT. THE ARENA - NIGHT
+N: CRUSHER COLE is destroying an opponent.
+S: INT. THE CATACOMBS - NIGHT
+N: REISS winces as the CROWD CHEERS and BOOS.
+C: PETER
+D: How does it look? I feel like it's Halloween.
+E: comes out
+C: REISS
+D: Cover your face with the mask.
+C: PETER
+D: Why?
+C: REISS
+D: Mystery, my friend. Nobody should know who you are...
+S: INT. THE RING - NIGHT
+N: CRUSHER COLE is doing a big flexing number and the CROWD is going wild. There are MTV CAMERAS and SIGNS and BANNERS proclaiming the "SLAMMIES" everywhere.
+C: RING ANNOUNCER
+D: And now, a new challenger, for the thousand dollar fight, weighing in at one hundred and fifty pounds... from parts unknown! Here is the Amazing... Mysterious... Incredible Superman...
+C: REISS
+D: No, not Superman... Spider-Man... SPIDER-MAN!!!
+E: snorts from ringside, hating the name
+C: RING ANNOUNCER
+D: ...Spider-Man!!!!!
+N: The CROWD BOOS the slender newcomer who climbs awkwardly through the ropes. Rock music blares. TWIN REDHEADS in RED BIKINIS ring a bell. CRUSHER COLE and SPIDER-MAN circle. COLE is twice SPIDEY'S size. SPIDEY spots a TV CAMERA for the first time. He momentarily freezes. CRUSHER sneers the CRUSHER sneer. Then he charges! With the agility of a spider, SPIDEY leaps out of the way. CRUSHER comes back at him. SPIDEY leaps again, bigger! The acrobatics get more and more dramatic as CRUSHER COLE works himself up into a theatrical rage. Taunts erupt from the CROWD.
+C: OLD LADY
+D: Kill the sucker, Crusher!
+N: SPIDEY, really getting into it now, begins playing for the CAMERAS.
+C: HIPSTER
+D: Whatsamatter, Crusher, can't you crush that bug?
+E: between two blondes
+C: CRUSHER
+D: Okay, Web Face, this is it!
+E: to Spidey
+N: He misses SPIDEY again!
+C: HIPSTER
+D: Hey, Crusher, you need a insecticide!
+E: his blondes titter
+S: INT. LIZ/KIM'S DORM ROOM - NIGHT
+N: LIZ'S side is all schoolwork. KIM'S side is all ROCK POSTERS and STUFFED ANIMALS. LIZ is curled up doing homework. FLASH and KIM sit on the edge of the bed watching the "SLAMMIES" on MTV.
+C: FLASH
+D: Will you look at this Spider-Man guy! He is absolutely incredible!
+C: KIM
+D: Liz, get a load of this outfit! I wish I had it for the Halloween party... it's quite sexy.
+C: LIZ
+D: Will you two shush. I'm trying to work.
+S: INT. RING - NIGHT
+N: The match continues in an increasingly spectacular choreography. CRUSHER bellows at the SCREAMING CROWD. But there's a gleam in his eye. This is it! He charges. SPIDEY, playing the CAMERAS for all he's worth, leaps way, way up. But this time CRUSHER stops dead in his tracks. SPIDER-MAN comes back down into a forearm SMASH that sends him reeling into a corner. CRUSHER does a flying pin. 300 pounds. WOMP! The air leaves SPIDEY in a rush as CRUSHER covers him, smothering him. The CROWD goes WILD.
+C: REF
+D: One...!
+C: REISS
+D: Get up...! Get up...!
+C: REF
+D: Two...!
+N: Not realizing his own strength and panicky about being squashed, SPIDER-MAN throws CRUSHER COLE off him and up into the air. Way up! Reiss cheers... Spider-Man comes down and knocks CRUSHER for the first time. CRUSHER flies away and out of the arena, eight rows back! The HIPSTER sees CRUSHER coming at him and bolts from his seat. CRUSHER lands on it, in between the TWO BLONDES who break into utter hysterics. SPIDEY, surprised at his own strength, watches CRUSHER land.
+C: SPIDER-MAN
+D: Wow...
+E: whispers to himself
+C: REF
+D: Ladies and Gentlemen, history is made today, we have here the first man to win a thousand dollars against the mighty Crusher.
+N: The REF raises his hand in victory. The CROWD BOOS and DEBRIS rains down. But some in the CROWD CHEER wildly, recognizing the new sensation. SPIDER-MAN steps down from the right as REISS leads the CHEERS.
+C: PETER
+D: Max! Am I really gonna get a thousand...
+C: REISS
+D: We are going to get a thousand--
+N: PETER turns with REISS and comes face to face with CRUSHER COLE. Two ominous beats.
+C: CRUSHER
+D: Hi, who are you, kid?
+C: PETER
+D: I'm Peter Parker.
+C: REISS
+D: He is Spider-Man, and I handle him... Whenever you want a rematch call me. Next time it's gonna be ten thousand, what do you say... Crusher?
+C: SPIDER-MAN
+D: Oh, look, Mr. Crusher, I'm really sorry about what happened in there. Really...
+C: CRUSHER
+D: Oh, well, I don't know what happened to me tonight... I really don't know...
+E: measures his muscles
+C: REISS
+D: I know... you lost. Big man you lost to the Amazing Spider-Man.
+S: EXT. CITY STREET - NEAR A HOSPITAL - DAY
+N: WE ARE TIGHT ON A NEW YORK JOURNAL TRUCK. On its SIDE BANNER is a PICTURE of SPIDER-MAN'S face. Headline: "Who is he? Mega-Smash Hits MTV!" The TRUCK pulls away and we see PETER, LIZ, HARRY and KIM standing on the sidewalk waiting to cross. PETER is rocking on his heels and smirking.
+C: PETER
+D: You know who that is?
+E: indicating truck
+C: LIZ
+D: Yeah... he's some clown we saw on TV last night... boy does Flash think he's hot.
+E: walking ahead
+C: PETER
+D: He does...
+C: KIM
+D: I love wrestling.
+C: HARRY
+D: Wrestling is all bluff. Do you really believe this little guy in a stupid Spider-Man suit beat the Crusher?
+C: LIZ
+D: Hey, we better rush... visiting hours will be over soon.
+S: INT. HOSPITAL CORRIDOR & ROOM - DAY
+N: The NURSE leads PETER and LIZ and HARRY into the room.
+C: NURSE
+D: Doctor Octavius? You have visitors. Doctor Octavius?
+N: We hold for a beat. When LIZ takes a step forward to look around we expect the worst. But nothing grabs her. PETER sees a pile of PLASTER on the floor. He looks up and sees the hole in the ceiling. LIZ and HARRY look up too. OCK is not there.
+C: PETER
+D: Ock is not here!
+C: LIZ
+D: My God, what happened?
+C: NURSE
+D: I'd better call the doctor!
+C: HARRY
+D: You'd better call the police!
+N: KIM screams.
+S: INT. CORRIDOR TO OCK'S LAB - DAY
+N: OCK, hiding his WALDOS under a white hospital robe. He stalls until he reaches the door. Then one of his WALDOS peaks out and snaps open the new locks on the door.
+S: INT. CONTROL ROOM - NIGHT
+N: OCK, in a white hospital robe walks through the surreal debris. Two WALDOS reach out and "sense" the ripples on opposite WALLS. He runs a hand through his hair.
+C: OCK
+D: What a wreck. What a useless, wasted wreck. Okey, dokey. We rebuild you, my damaged darling. Bigger, better, hotter! A world class, super cyclotron!
+N: He hears a NOISE behind him and reacts. And here comes WEINER. Bedraggled, shuffling through the CONTROL ROOM door. He eyeballs the incredible wreckage.
+C: WEINER
+D: There you are, doc... where have you been... whoa this place is messed up.
+N: OCK turns, WALDOS writhing. WEINER sees them and kind of ducks, remembering how he was hit by them once.
+C: WEINER
+D: Whoa, doc! You look a little messed up yourself.
+E: smirks
+C: OCK
+D: Where have you been, you imbecile?
+C: WEINER
+D: I went to the wrestling...
+C: OCK
+D: Wrestling...
+C: WEINER
+D: I went after the kid. You still want that Parker guy's data, don't you?
+C: OCK
+D: Well, did you get it?
+C: WEINER
+D: No, I followed him... but I lost him in the crowd.
+C: OCK
+D: Lost him? You--
+C: WEINER
+D: I'll find him, Maestro... I promise... soon... maybe by tomorrow.
+C: OCK
+D: So how was the wrestling?
+C: WEINER
+D: Fantastic! There was this new wrestler... beat the mighty Crusher. You won't believe it... a nothing of a guy... calls himself this stupid name... the Amazing Spider-Man... would you believe it?
+C: OCK
+D: Spider-Man, huh? Well, maybe I'll just go and wrestle myself one of these days... with all my new arms... I'm sure I can beat Crusher or any other monster.
+N: Suddenly OCK throws out his WALDOS from under his long white coat, grabs WEINER and, lifts him up in the air, smiles cynically and with cruelty!
+C: OCK
+D: Will I beat him, this Crusher, will I beat him or not?
+C: WEINER
+D: No... no, please... I mean yes, yes... you'll beat him easily... let me down... Please... I'll do anything for you...
+C: OCK
+D: The Parker data... get me the Parker data, you hear?!!!
+S: EXT. PETER PARKER'S ROOFTOP - DAY
+N: A CAMERA is mounted on a TRIPOD facing us. A TIMER winds down and it CLICKS. REVERSE ANGLE - CAMERA'S POV. SPIDER-MAN is clinging to the side of a WALL.
+C: SPIDER-MAN
+D: And one like this... And one looking real sincere.
+E: changing pose
+N: The WHITE EYES narrow to a slit. CLICK. Suddenly he spots WEINER climbing onto his roof. He hides. WEINER tiptoes into the roof apartment. SPIDER-MAN jumps in and grabs him.
+C: SPIDER-MAN
+D: What are you doing here?
+C: WEINER
+D: I'm looking for Peter Parker.
+C: SPIDER-MAN
+D: Oh, yes... so why not use the front door?
+N: SPIDER-MAN throws him back onto the roof so that he almost slides over the edge. WEINER turns, facing SPIDER-MAN.
+C: WEINER
+D: Hey, I know you...
+C: SPIDER-MAN
+D: You do?
+C: WEINER
+D: I saw you crushing the Crusher.
+C: SPIDER-MAN
+D: You like wrestling?
+N: SPIDER-MAN jumps and reaches WEINER.
+C: WEINER
+D: I love it! You are the best wrestler I have ever seen... please don't hurt me!
+N: SPIDER-MAN picks up WEINER, throws him up to an antenna above the building, to which WEINER clings desperately. SPIDER-MAN circles the antenna.
+C: WEINER
+D: Oh, please... don't kill me. Please help me down.
+C: SPIDER-MAN
+D: Of course I'll help you down. I am Spider-Man... the good guy, am I not?
+C: WEINER
+D: Yes... yes, you are.
+N: SPIDER-MAN jumps to the CHIMNEY, picks WEINER up in his arms and whispers to him.
+C: SPIDER-MAN
+D: And by the way, Peter Parker does not live here anymore...
+N: SPIDER-MAN jumps with WEINER in his arms to the edge of the roof.
+C: SPIDER-MAN
+D: And tell the Professor he can't have Peter's data. Goodbye.
+N: SPIDER-MAN drops WEINER off the roof, three floors straight down into heavy bushes below.
+S: INT. ELECTRODYNE FACTORY SHOP - DAY
+N: A SIGN tells us so. A CLERK is double checking a long list of items OCK has ordered.
+C: CLERK
+D: Holy cow, whattaya building, fella, a cyclotron? Okay... lets see here. Page three. We got 30,000 feet of 50-gauge copper co-ax... twin 550 XK transformers... cadmium accelerator rails, a half dozen... a GBC relative multi-phase transducer... and one yellow thermos. That'll be $475,989.65...
+E: Ock glares at him finishes computation
+C: OCK
+D: Wrap it up...
+C: CLERK
+D: What about the money... or do you pay by credit card?
+C: OCK
+D: Cash! I'll be back soon.
+E: a long beat
+S: EXT. STREET - OUTSIDE OF A BANK - BACK DOOR - NIGHT
+N: An ARMORED TRUCK rolls by and stops. TWO GUARDS open the Bank's DOORS. Suddenly a WALDO smashes through the DRIVER'S SIDE WINDOW of the ARMORED TRUCK, wrapping around the DRIVER'S NECK and pulling him through the WINDOW. The SHOTGUN goes for his weapon, but a WALDO smashes in and pulls the GUN out through his WINDOW. TWO WALDOS shoot out and attach themselves to the REAR DOOR.
+C: BANK GUARD
+D: What's going on here?
+N: The WALDO knocks him over. OCK rips the DOOR off! The TRUCK is full of MONEY BAGS.
+C: OCK
+D: Cash!
+S: INT. JAMESON'S OFFICE - DAY
+N: A PHOTO ASSISTANT look on as JAMESON goes over PETER'S latest PHOTOS. They are his SPIDER-MAN shots.
+C: PETER
+D: Doesn't he look amazing in that one? Look, he's flying in the air!
+C: JAMESON
+D: I don't care if he flies to the moon. He's just another wrestler in a silly costume. Look at this, Parker, right off the wire. This is the guy who hit that armored truck this morning. They say he has metal arms... get me a picture of this character!
+C: PETER
+D: Metal arms?
+C: JAMESON
+D: Four of them.
+C: PETER
+D: Ock...?!
+C: JAMESON
+D: The web faced weirdo... He is a joke in a Halloween costume... don't make me laugh.
+N: He tears up PETER'S SPIDEY PHOTOS.
+C: JAMESON
+D: Now get out of here and don't come back without something I can use!
+C: PETER
+D: Yes sir...
+E: stops, and turns back
+C: JAMESON
+D: A mega baloney... A bug in blue tights... what next?
+C: PETER
+D: The Journal said he was a mega-smash on MTV...
+S: INT. CYCLOTRON ROOM - NIGHT
+N: WEINER is putting on a CLOWN SUIT. He fastidiously puts his ratty jacket on a hanger and hangs it on a PIPE. The PIPE turns into a snake. It is, in fact, a WALDO!
+C: OCK
+D: What do you think you're doing?
+E: turning from work
+C: WEINER
+D: I'm going to the Masquerade. It's Halloween tonight Doc, aren't you coming to the School Ball? Whoa, you could go without an outfit.
+N: A WALDO whips around WEINER'S throat... AARRRGH!
+C: OCK
+D: You're not going to any ball, clown. You're going to get me Peter Parker's data...
+C: WEINER
+D: I was almost killed on my last try... Look at all these bruises...
+C: OCK
+D: I don't care if you come back dead. Just get it!
+C: WEINER
+D: Cost you a thousand bucks, if I get it.
+E: croaking
+N: The WALDO coils tighten around WEINER'S throat.
+C: WEINER
+D: All right... boss please let go... P L E A S E ...
+C: OCK
+D: Just get it, Weiner. I'm running out of time. If you fail me again, you won't have to concern yourself with money anymore... DO YOU GET ME CLOWN?!
+N: WEINER croaks his assent.
+S: INT. CAFETERIA - NIGHT
+N: It is all dressed up for a party: LIGHTS, STREAMERS, GLITTER BALL, the WORKS! HARRY is dressed as a SPACEMAN; PETER wears his regular clothes.
+C: HARRY
+D: You should have worn a costume. I told you to wear a costume.
+C: PETER
+D: It's... embarrassing.
+C: HARRY
+D: There's Liz...
+N: LIZ is crossing the dance floor dressed as an INDIAN PRINCESS in an MINI-DRESS.
+C: PETER
+D: Yeah...
+N: ROZ, dressed as a COWBOY, ambles over.
+C: ROZ
+D: ... howdy partners.
+C: PETER/HARRY
+D: Hiya, Professor Rosomorf.
+C: HARRY
+D: Any word on Doctor Octavius?
+C: ROZ
+D: Nothing beyond what I read in the papers. I'm afraid he's not the same man we knew. You know, I've been digging through the notes on his experiments...
+E: falling in step
+N: PETER follows LIZ with his eyes. She takes a seat at a TABLE next to KIM who wears a HAREM GIRL outfit with the SALAMANDER around her neck. Next to KIM is... SPIDER-MAN! PETER'S eyes go wide.
+C: ROZ
+D: You boys must have had an extraordinary classroom experience.
+C: PETER
+D: Yes sir... oh... I'm going to be a little late with my paper on the Planetary Conjunction, sir...
+E: eyeing Spidey
+C: ROZ
+D: Whenever you're ready... I'll look at it. I know it's going to be an important work... and Peter, take my hat.
+N: He hands PETER an oversized TEN GALLON HAT.
+C: ROZ
+D: It is a costume party.
+N: PETER and HARRY make their way through the dance floor to the table. PETER can't take his eyes off SPIDEY.
+C: HARRY
+D: Look, there's Spider-Man!
+C: PETER
+D: Not the real one, I'm sure...
+C: HARRY
+D: You can never be sure... all kinds of crazy stuff can happen at a masquerade ball...
+C: PETER
+D: I bet I know who it is.
+N: As they take seats, PETER sees that SPIDER-MAN is trying to read the BUGLE'S sports section by party light. KIM waves. PETER nods and the BIG HAT falls over his face.
+C: PETER
+D: Hiya, Liz...
+N: LIZ moves to Flash, who's dressed in the SPIDER-MAN costume.
+C: LIZ
+D: Hiya, Peter. Who is in the Spider-Man costume?
+C: PETER
+D: It's a very clever outfit you've got there, Flash.
+C: FLASH
+D: Take a hike, asshole.
+C: LIZ
+D: How did you recognize him?
+E: to Peter
+C: PETER
+D: His pretty blue eyes give him away...
+C: HARRY
+D: Anyway, who'll be sitting with you at the Halloween Ball?
+C: LIZ
+D: I wanna dance... Hey, Spider-Man... Shall we Flash dance?
+E: whispers to Flash
+C: FLASH/SPIDER-MAN
+D: Hey, I'm reading the paper, okay?
+N: LIZ turns with a mild pout. Nervously, PETER ponders his chance. HARRY nudges him.
+C: HARRY
+D: Take her now, it's easy...
+N: HARRY turns to KIM and does a clanking shimmy in the SPACE SUIT.
+C: HARRY
+D: Wanna dance, Schechrezaa?
+C: KIM
+D: I'm pooped.
+C: LIZ
+D: I'm not...
+N: She reaches for HARRY'S hand.
+C: FLASH
+D: Holy jumping jelly beans, willya look at these pictures of Spider-Man? Wow! Is this guy great or what?
+N: LIZ looks. She shrugs. Then she shrieks.
+C: LIZ
+D: Hey, Peter! These are your pictures!
+C: FLASH
+D: Can't be...
+C: LIZ
+D: It says here "Photos by Peter Parker."
+N: PETER reacts, then looks over FLASH'S other shoulder. INSERT: There are three PHOTOS of SPIDER-MAN in the paper. PETER BLUSHES, smiling.
+C: FLASH
+D: You know this guy, Parker?
+E: takes off his head mask
+C: PETER
+D: Well, yeah... sort of...
+C: FLASH
+D: Wow... I'll give you anything if you introduce us.
+C: HARRY
+D: Will you grant me this dance...?
+E: to Liz
+N: LIZ joins him provocatively.
+C: KIM
+D: Hey, Flash-Man... Wanna dance...?
+C: FLASH
+D: Well, why not.
+N: PETER is left alone, PETER leaves toward the entrance. At the REAR DOOR a BIG LIZARD passes a NOTE to a DALLAS COWGIRL who passes it to a KANGAROO. The KANGAROO hops across the dance floor to the STAGE where he hands the NOTE to a YOUNG WOMAN in a BASEBALL UNIFORM. She climbs the STAGE where she is bathed in a SPOTLIGHT. She gets a DRUM ROLL from the band. There are some BOOS as the bad stops.
+C: YOUNG WOMAN
+D: Thank you, thank you. We have a special surprise guest tonight. The Empire State University Masquerade Ball presents... The "Slammy" winning star of MTV'S wrestling tournament... The Amazing Spider-Man!
+E: booo
+N: FLASH, amazed turns to LIZ. He points to himself and mouths, "Me?" (The REAL) SPIDEY drops from the ceiling and lands in a pose. The CROWD cheers. He does a flip to LIZ and extends a hand. The BAND starts up. LIZ demurs.
+C: FLASH
+D: Go ahead... go ahead!
+E: whispers firmly
+N: LIZ takes SPIDEY'S hand and they move slowly and sexily onto the dance floor. They do a short simple number. SPIDEY returns LIZ to FLASH.
+C: LIZ
+D: Come on... Flash...
+E: to Flash
+N: FLASH takes LIZ from PETER (SPIDER-MAN). LIZ and FLASH dance wildly. They finish to big cheers. The real SPIDER-MAN slides to center floor. The crowd backs away as SPIDEY spins out the greatest dance number in film history. He's all over the floor and on the walls and on the ceiling and on the GLITTER BALL. He takes LIZ and flies with her. He breaks the place up. Then drops in a pose. BIG CHEERS. LIZ stops breathless, very near to SPIDER-MAN'S face.
+C: LIZ
+D: Who are you...?
+E: whispers breathless
+C: PETER
+D: One day you'll know...
+C: LIZ
+D: You sound very familiar.
+E: a long beat
+C: PETER/SPIDER-MAN
+D: Sure I do... I'm your friendly neighborhood Spider-Man!
+N: He jumps away and disappears, leaving the CROWD aghast and LIZ in love.
+S: INT. BEN AND MAY'S FAMILY ROOM - NIGHT
+N: BEN is flicking through the channels of his TV, aggravated as usual. It's all ROCK VIDEOS!
+C: BEN
+D: What a bunch of crap. Goddamn rock and roll's screwed up the whole TV.
+E: to May
+N: He flicks off the set and turns to MAY who's asleep on the couch. He gently nudges her.
+C: BEN
+D: Come on, May. Wake up and go to sleep.
+S: EXT. TAXI - NIGHT
+N: It enters the EAST RIVER DRIVE.
+S: INT. TAXI - NIGHT
+N: As the city rolls by.
+C: SPIDER-MAN
+D: Hey! Can't you go any faster?
+E: fearful
+C: CABBIE
+D: What'm I in, a race?
+C: SPIDER-MAN
+D: I don't know... I get this tingling in my brain, like some danger is lurking just ahead. I'm worried about Aunt May and Uncle Ben...
+E: fighting his fear
+C: CABBIE
+D: Your family?
+C: SPIDER-MAN
+D: Well, they are kind of my parents. They raised me. I lost both of my parents in a car accident... please step on it!
+C: CABBIE
+D: Step on it... so now you want to kill yourself in another accident... not with me, Boychick.
+C: SPIDER-MAN
+D: But I'm telling you... I've got this--
+C: CABBIE
+D: ... tingling... I know. And I got ulcers... Everybody's got something to worry about.
+C: SPIDER-MAN
+D: Please... Faster... Please.
+C: CABBIE
+D: Okay, you asked for it.
+S: EXT. THE STREET - NIGHT
+N: The TAXI skids and swerves like crazy, bumping into everything in sight.
+S: INT. BEN AND MAY'S BEDROOM - NIGHT
+N: A GLASS SHATTERS. AUNT MAY sits up in bed with a start.
+C: AUNT MAY
+D: What's that?
+C: BEN
+D: What? It's nothing... go back to sleep... Oh, I'll go look. Go back to sleep.
+E: another crash
+S: INT. BEN AND MAY'S KITCHEN - NIGHT
+N: WEINER is going through the drawers. He finds a nice BONE HANDLE KNIFE and pockets it.
+C: WEINER
+D: Hmmm...
+S: INT. BEN AND MAY'S LIVING ROOM - NIGHT
+N: BEN descends the stairs from the bedroom. He peers off into the darkness and pulls his ROBE tight around him as if to ward off some unacknowledged danger.
+S: EXT. TAXI - NIGHT
+N: TAXI driving fast through STREET.
+S: INT. TAXI - NIGHT
+C: CABBIE
+D: Some crazy kinda town, huh? You hear about that hold-up? The guy with the six arms? Hey, I see it all on this job. What kinda outfit is that, anyway?
+E: a beat
+C: SPIDER-MAN
+D: Look, I'm really in a hurry.
+E: panicked
+N: BANG! A BLOW OUT. The CABBIE fights the wheel to the side of the road. Then he turns to SPIDEY.
+C: CABBIE
+D: You said the magic words, we have a flat Boychick.
+E: sly
+S: INT. BEN AND MAY'S FAMILY ROOM - NIGHT
+N: BEN comes in and looks around. A long beat. Then a noise.
+C: BEN
+D: Mice...
+S: INT. BEN AND MAY'S DINING ROOM - NIGHT
+N: A very scared WEINER hides, eyes widening. WEINER takes the BONE HANDLE KNIFE from his pocket. It glints in the MOONLIGHT. He moves off.
+S: INT. BEN AND MAY'S KITCHEN - NIGHT
+N: BEN is looking for mice. He opens a closet. Nothing. He shifts around. Nothing. He moves off.
+S: EXT. 59TH STREET BRIDGE - NIGHT
+N: The CABBIE slowly changes the TIRE. Fearing the worst, SPIDEY gets out, looking for a ride. A TRUCK approaches. SPIDEY looks down at the CABBIE and then up at the TRUCK.
+C: CABBIE
+D: Hey! You wanna hand me that lug wrench?
+N: He looks up to see SPIDEY go by, stuck to the side of the TRUCK like a spider.
+C: CABBIE
+D: Some crazy kinda town...
+S: EXT. THE TRUCK - NIGHT
+N: SPIDEY stares at the lettering on the side of the TRUCK. It says, "Victory Sporting Goods."
+C: SPIDER-MAN
+D: Sporting goods...
+E: a thought
+S: INT. BEN AND MAY'S DINING ROOM - NIGHT
+N: BEN comes in quietly. He looks around. He opens a closet. Nothing. He hears a CRASH. He wheels. A SHADOWY FIGURE runs by a doorway! BEN takes off like a shot!
+S: INT. BEN AND MAY'S HOUSE - NIGHT
+N: BEN runs through the rooms.
+S: INT. BEN AND MAY'S FAMILY ROOM - NIGHT
+N: BEN flies in and goes right to the RIFLE on the wall. WE hear WEINER clattering around the house in the background as BEN goes to a drawer and pulls out a BOX of BULLETS. He begins to fight the BULLETS into the RIFLE. WEINER comes flying in and tackles him. They fall to the floor, four hands on the RIFLE. They scuffle.
+C: WEINER
+D: All I want it the kid's computer crap!
+C: BEN
+D: Let go before I blow your brain's out.
+S: EXT. FOREST HILLS STREET - NIGHT
+N: The TRUCK pulls away leaving PETER in a POOL of STREET LAMP LIGHT. He's wearing a FOOTBALL JERSEY and SHORTS and carrying a SPORTS BAG. He begins to run.
+S: INT. BEN AND MAY'S BEDROOM - NIGHT
+N: MAY hears a CRASH. She pulls the covers up around her chin in fear.
+C: BEN
+D: Let go!
+E: V.O.
+C: WEINER
+D: You let go!
+E: V.O.
+S: EXT. BEN AND MAY'S HOUSE - NIGHT
+N: PETER runs up and hears a SHOT. He runs inside.
+S: INT. BEN AND MAY'S FAMILY ROOM - NIGHT
+N: PETER runs in. He sees WEINER standing there with the RIFLE. They face off across the room. The moment hits PETER like a punch in the chest.
+C: PETER
+D: Uncle Ben!
+C: BEN
+D: Peter...
+E: a wheeze
+N: PETER rushes to BEN.
+C: PETER
+D: Oh my God... Uncle Ben...
+N: PETER tries to revive BEN, while WEINER runs out.
+S: INT. HOSPITAL WAITING ROOM - NIGHT
+N: PLASTIC FURNITURE, GARISH LIGHTING, CIGARETTES in the ASHTRAYS.
+C: AUNT MAY
+D: Ben gets through everything. He'll be alright. The doctors are...
+E: a brave but fragile front
+N: AUNT MAY and PETER embrace, leaning on each other for support.
+C: DETECTIVE
+D: Excuse me. You the nephew?
+E: compassionate
+N: PETER rises, nods. As AUNT MAY wipes away a sniffle...
+C: DETECTIVE
+D: Your uncle's a brave man. Apparently, the perpetrator was after something of yours. Your uncle didn't know what it was but he stood up to him anyway. You ought to be proud of him.
+C: PETER
+D: I am... how is he...
+N: A grim-faced DOCTOR walks slowly across the room to them... MAY stands up slowly.
+C: DETECTIVE
+D: Ask the Doctor.
+C: AUNT MAY
+D: How's my... how's my husband doing...?
+C: DOCTOR
+D: Mrs. Parker, I'm sorry. We tried.
+N: MAY collapses.
+C: DOCTOR
+D: Crash cart! STAT!
+N: The Detective pulls PETER gently away. The STAFF works on MAY.
+C: DETECTIVE
+D: Let the medics handle it. Look, if it makes you feel any better. We're gonna nail this guy. He crashed his getaway car. We got him trapped in a warehouse on Jackson.
+E: pause
+C: NURSE
+D: She's alright. She just fainted. We'll have to check her for symptoms of shock. If you want to wait, you can get some coffee on the third floor.
+E: to Peter
+C: PETER
+D: No, I... I think I wanna go out for some fresh air.
+S: EXT. WAREHOUSE - NIGHT
+N: COP CARS, COPS, SEARCHLIGHTS playing their BEAMS against the ACME CHEMICAL STORAGE BUILDING. GUNFIRE flashes from one of the WINDOWS.
+S: EXT. COP CAR - NIGHT
+N: ELITE COPS in BASEBALL CAPS are plotting strategy. COP #1 That place is loaded with solvents and chemicals. If we blast our way in, it's gonna go up like a roman candle. COP #2 We could go in through the fifth floor wash room. COP #1 What's that up there? Throw a light on that! COP #1 directs the BEAM of the SEARCHLIGHT.
+S: EXT. WAREHOUSE WALL - NIGHT
+N: SPIDER-MAN is climbing it, trapped in the GLARE of the SEARCHLIGHT. He freezes. COP #1 He's got a partner!
+S: EXT. COP CAR - NIGHT
+N: Every COP'S WEAPON is trained upward at SPIDER-MAN! COP #2 (on radio) We got an accomplice up there! And we got a clear shot. Do we have a go?
+C: RADIO
+D: That's a go.
+E: filtered
+S: EXT. WAREHOUSE WALL - NIGHT
+N: GUNSHOTS erupt around SPIDER-MAN and he skitters around to evade them.
+S: INT. THE WAREHOUSE - NIGHT
+N: Thinking they're shooting at him, WEINER shoots back. In the corner of his eye he sees SPIDER-MAN at a side WINDOW. He aims his rifle and SPIDEY ducks out of the way. The frightened WEINER moves to the side WINDOW to blow SPIDEY away. As he moves past the front WINDOWS he is lit by the SEARCHLIGHTS that play on his face darkly. SPIDEY leaps in at FRONT WINDOW and drops neatly behind WEINER, landing a pose.
+C: SPIDER-MAN
+D: Say your prayers, Weiner!
+E: cold, hard
+N: WEINER whips around and fires. SPIDEY leaps to avoid it and lands on a STACK of PAINT CANS.
+C: WEINER
+D: You ain't takin' me... Spider-Man... who ever you are...
+N: SPIDEY gathers himself tighter. He leaps. A second GUN BURST comes in behind him, Several PAINT CANS erupt in cascades of COLOR.
+C: SPIDER-MAN
+D: Hey, creep!
+E: hanging on ceiling
+N: WEINER aims and fires, several times. He is emptying his RIFLE. SPIDEY leaps away and lands on the top of a CASK marked "CAUTION-FLAMMABLE SOLVENT!"
+C: SPIDER-MAN
+D: Try again.
+E: taunting
+N: The CASK gives way and SPIDEY is plunged into the FLAMMABLE SOLVENT. WEINER smiles his stupid grin and takes aim. SPIDEY leaps out of the CASK and sticks to the roof BEAM. He's sopping wet. His hand slips down the BEAM as the SOLVENT works against his sticking power. He falls to the floor and scrambles behind some PAINT CANS. WEINER, crazed, fires wildly. One of the CANS EXPLODES. PAINT flows from it... burning! SPIDEY peeks out and sees a YELLOW RIVER OF FLAME creeping toward him. He sniffs his SOLVENT soaked outfit. He backs down a "corridor" of PAINT CANS. The YELLOW FIRE follows, now joined by a RIVER OF BLUE FIRE from another can. They're following the trail of SOLVENT he's dripping! He's trapped!
+C: COP
+D: This is your last chance, you two. Either you're coming out, or we're coming in!
+E: V.O. on bullhorn
+N: SPIDEY'S against the WALL! PAINT CANS to his right and left, and a RIVER of RED FLAME joins the YELLOW and BLUE as they creep toward him! He climbs backwards up the wall, face toward the BLAZE. The COLORED FIRES join and follow him up the wall! They're licking at his feet!
+C: WEINER
+D: Stay back! Whoa... stay back down there!
+E: at the window gun burst
+N: SPIDEY is inches from being torched. He sees a PIPE. He reaches out and grabs it. He swings out above the flames. But the PIPE begins to bend! The PIPE bends down... down... and then breaks! SPIDEY hangs precariously as WATER cascades out of the PIPE and puts out the FIRE. SPIDEY drops down and rest his head in his hands to collect himself. Then looks up. The GUN is at his head.
+C: WEINER
+D: Stand up, you.
+N: SPIDEY stands.
+C: COP
+D: You have thirty seconds to come out!
+E: V.O.
+C: WEINER
+D: You're my ticket outa here. Gimme that stupid mask!
+N: SPIDER-MAN hesitates. Then he begins to raise the MASK, but stops and shakes his head no.
+C: WEINER
+D: Then I'll take it myself.
+N: He reaches for the mask and SPIDER-MAN flips him across the room. WEINER lands in a CARGO net and becomes ensnared.
+C: SPIDER-MAN
+D: Well, look what we've caught in our web...
+C: WEINER
+D: Don't hurt me, man. Please don't hurt me...
+S: INT. WAREHOUSE HALLWAY - NIGHT
+N: COPS are poised at the door. A signal. They crash inside.
+S: INT. WAREHOUSE PAINT ROOM - NIGHT
+N: COP #1 Hold your fire! WEINER is hanging from the ceiling in the the CARGO NET.
+C: WEINER
+D: Get me out of this madhouse!
+N: He falls down, immediately encircled by the POLICE OFFICERS. SPIDER-MAN flies above their heads, crashing through the WINDOW and disappears into the dark of night.
+S: INT. CYCLOTRON - NIGHT
+N: A weird, flickering BLUE LIGHT dances around the hole in the CYCLOTRON. Then it cuts out. A HELMETED MAN pulls himself out of a HATCH. He flips up the HELMET. OCK is finishing putting together his new equipment.
+C: OCK
+D: Okey, dokey.
+E: smiling
+N: OCK goes about checking out the CYCLOTRON. It looks good.
+S: INT. CONTROL ROOM - NIGHT
+N: OCK starts flicking switches and reading DIALS, doing a "mission countdown" for his next experiment. This place has been "hot rodded" to the max.
+C: OCK
+D: Amperage, okay. Flux, 14. Negative variable differential... good enough.
+E: reading dials and numbers
+N: He shuts it down. The WHINE whirs down.
+C: OCK
+D: Okey, dokey... now all I need is Parker's data. Where the hell is Weiner? Damn it... I can't trust anybody. Only you, my babies... only you can I trust... Okay... If I have to do everything myself... I'm going to do it. I'll be back... my babies... my new babies!
+E: throws his Waldo in the air to his equipment
+N: OCK hides the WALDOS under his coat and leaves the room.
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+N: There is more EQUIPMENT than before. PETER is deep at work. His SPIDER-MAN UNIFORM hangs on the WALL. There is a knock at the DOOR.
+C: LIZ
+D: Hey, Peter! Are you finished with my computer yet? I got a paper too, you know...
+E: V.O.
+C: PETER
+D: Oh my God... oh, it's you, Liz... I didn't expect you... uh... give me a minute.
+E: panicked
+N: He hides his SPIDER-MAN COSTUME.
+S: INT. THE HALLWAY LANDING - NIGHT
+N: LIZ waits impatiently.
+C: PETER
+D: Hi, Liz. Come on in.
+E: opening the door
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+N: LIZ enters, looking around. PETER covers for this and that.
+C: LIZ
+D: What were you doing in here?
+C: PETER
+D: Cleaning up. Come on. I'll get your computer. Where's Flash parked?
+E: looking around
+N: He picks up the COMPUTER and turns to her, but she's already looking around the apartment.
+C: LIZ
+D: Flash didn't come.
+C: PETER
+D: Oh. Well... how are you going to get it home?
+E: holding it
+N: LIZ walks into the room.
+C: LIZ
+D: Taxi... I guess.
+N: She discovers the PRINTS of SPIDEY that PETER has taped up around the apartment.
+C: LIZ
+D: You must spend a lot of time with this Spider-Man guy... Peter! Don't you think you ought to unplug that!
+N: PETER looks and sees that he is tethered to the wall. Embarrassed, he puts the COMPUTER back down.
+C: PETER
+D: I, uh, I'll go down to the corner... see it I can hail that taxi.
+E: embarrassed
+N: PETER leaves. LIZ smiles. She likes PETER. Why is he so...?
+S: INT. HALLWAY - NIGHT
+N: A SHADOW of a MAN can be seen hiding. PETER does not notice him.
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+N: There's a KNOCK at the DOOR.
+C: LIZ
+D: Peter...?
+E: crossing to it, wondering
+N: She is about to open the door when FOUR WALDOS smash through it, obliterating it. OCK stands in the shattered doorway, WALDOS writhing.
+C: LIZ
+D: Doctor Octavius...! You're... You're... You're so weird!... with those... what do you call those...
+E: finds the words
+C: OCK
+D: Waldos... Did you hear about Spider-Man? That's me... the real Spider-Man... now tell me, where is that jerky friend of yours... Parker?
+E: moving Waldos like spider's legs
+C: LIZ
+D: Peter?... oh... he's not here. He's gone. I don't think he'll be back for awhile.
+E: protecting
+C: OCK
+D: You wouldn't lie to your Professor now, would you?
+E: running his Waldo in her hair
+C: LIZ
+D: Of course not. Why would I lie about a thing like that? Really. He's... out.
+C: OCK
+D: We'll wait. OCK grabs LIZ'S HAIR with his WALDOS.
+C: LIZ
+D: What are you doing... let me go! Please... take those things out of my hair!
+C: OCK
+D: My Waldos, you mean.
+C: LIZ
+D: Whatever you call them... please...
+N: OCK shoots out TWO WALDOS. Simultaneously each grabs a CHAIR from different parts of the room and brings them to the TABLE.
+C: OCK
+D: Sit.
+N: She does. He does, too, and folds his WALDOS across his chest.
+C: OCK
+D: He's a nice boy. A little nerdy maybe, but nice, wouldn't you say?
+E: chatty
+C: LIZ
+D: Oh, I don't know. Maybe. He's very inexperienced.
+N: ONE of OCK'S WALDOS rests on the TABLE curled around the COMPUTER. LIZ lets her hand rest on it. OCK warms immediately.
+C: OCK
+D: You know, you're a fascinating young lady...
+C: LIZ
+D: Thank you...
+C: OCK
+D: You're so refreshing. You're so...
+C: LIZ
+D: Shocking...?
+C: OCK
+D: Oh, I wouldn't say shocking...
+E: gone to far
+C: LIZ
+D: I would!
+N: She sticks his WALDO in the ELECTRIC WALL SOCKET behind the COMPUTER! The CURRENT sizzles through him and he leaps up, WALDOS akimbo, like the "cartoon cat." LIZ runs out the door. OCK extricates himself from the current and gives chase.
+S: INT. HALLWAY - NIGHT
+N: LIZ burst from the DOOR.
+C: LIZ
+D: Peter...!
+N: She looks both ways for PETER, doesn't see him, and takes off! OCK bursts from the doorway and runs off after LIZ.
+S: EXT. THE STREET - NIGHT
+N: LIZ running as fast as she can, but OCK is gaining quickly.
+S: EXT. PETER PARKER'S APARTMENT - NIGHT
+N: A TAXI drives up and disgorges PETER.
+C: PETER
+D: Wait here...
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+N: He walks in. It's empty
+C: PETER
+D: Liz?
+C: LIZ
+D: Peter! Help! Peter!
+E: V.O. screaming from the street
+N: PETER springs into action. He grabs his SPIDEY SUIT out of a drawer and starts taking off his clothes.
+S: EXT. STREET - NIGHT
+N: LIZ looks back and sees OCK CARTWHEELING toward her. She can't outrun him. She must hide. There's a CONSTRUCTION SITE on the right. She ducks down the alley next to it.
+S: INT. CONSTRUCTION ALLEY - NIGHT
+N: LIZ runs into it and finds herself trapped on three sides by a high CYCLONE FENCE. Behind her, OCK'S WALDOS stretch out like waterbug legs. He bug-walks into the alley and laughs down at her from his perch atop the WALDOS.
+C: OCK
+D: Peter Parker has something I want... And I'm going to have something he wants.
+N: She dashes past him and runs into the outboard CARGO ELEVATOR.
+S: INT. ELEVATOR - NIGHT
+N: She looks for the UP BUTTON and finds nothing! OCK, on his feet now, is on the wire mesh ELEVATOR CAGE in a flash. He tears the outer DOOR away. LIZ starts pressing KNOBS and LEVERS in panic. The LIGHT goes on. A WARNING BELL clangs. She finally finds the switch and the CAR leaps up just as OCK tears off its front door. LIZ, safe for the moment, watches OCK recede below, shaking the torn off door in a rage.
+S: EXT. CONSTRUCTION SITE - NIGHT
+N: Extending WALDO over WALDO, OCK climbs the ELEVATOR HOUSING chasing the rising CAR inside.
+S: EXT. CONSTRUCTION ROOF - NIGHT
+N: The CAR arrives and LIZ jumps out. She's on nothing but a narrow GIRDER! She tightropes on the GIRDER. OCK gets to the top. He looks across at her. She's stuck between two unfastened GIRDERS, at a dead end. He slowly telescopes a WALDO toward her. She's got no place to run, no place to hide. He grabs her by the BLOUSE and lifts her off the GIRDER.
+C: SPIDER-MAN
+D: Put her down, Ock.
+E: V.O.
+N: OCK looks across the street. There, on the top of a tall building, is SPIDER-MAN.
+C: SPIDER-MAN
+D: I know what's happening to you, Ock. I've been through a lot of changes myself lately. You have to listen to me.
+C: OCK
+D: Who the hell are you?
+E: holding Liz
+C: SPIDER-MAN
+D: Spider-Man.
+C: LIZ
+D: Spider-Man...
+E: seeing Spidey
+C: OCK
+D: That's a lot of crap, clown... I am Spider-Man, not you. Ask you girlfriend. Tell him!
+E: points to Liz to Liz
+C: SPIDER-MAN
+D: I'm a good friend of Peter Parker's Ock. Just like that girl you're holding. Now let her go.
+N: OCK thinks for a moment, then he begins to extend the kicking and screaming LIZ out over the street, ten stories up.
+C: OCK
+D: Let her go? What an excellent idea. If you do not deliver your friend, Mr. Spider-Man, yes. Yes, of course, I'll let her go.
+C: LIZ
+D: Put me down, you mechanical mutant!
+N: LIZ is having none of this. She kicks, she fights. She twists. She flails around, making things a little worse. The ground is yawning death beneath her. RRIIPP! PART of her BLOUSE tears away and LIZ plummets! SPIDER-MAN swoops down on a WEB-STRAND in his characteristic compound curve. He reaches out for the falling LIZ and misses her cleanly. The WEB is too short.
+C: LIZ
+D: You jerk!
+E: falling away
+N: He THWIPS her with a second WEB and together they swing to a HIGH GIRDER where he deposits her safe and sound.
+C: LIZ
+D: Tell your friend Peter next time I'll get the taxi myself...
+E: straightening herself
+C: OCK
+D: Hey... you jerk... you phony Spider-Man... Prepare to meet your death, bug.
+E: screams
+N: SPIDEY THWIPS a beam and swings across toward OCK.
+C: SPIDER-MAN
+D: Actually, I'm rather fond of living... especially now...
+E: whispers he looks at Liz
+N: He lands on OCK'S GIRDER and the two progeny of the cyclotron face off for the first time, ten stories above the street.
+C: SPIDER-MAN
+D: Octavius. Just stop and think.
+E: a last appeal to reason
+C: OCK
+D: I am thinking, insect. I'm thinking about exterminating you!
+C: SPIDER-MAN
+D: Okay, if that's the way you want it... Let's see what those chrome knuckles can do, Doc...
+N: A WALDO lances out and catches SPIDEY flush on the jaw. It knocks him to another GIRDER. SPIDEY hangs on and rolls over. He rubs his jaw.
+C: LIZ
+D: Great...
+N: SPIDEY gets ready to go into action and gets pummeled by another barrage of blows from above.
+C: OCK
+D: Now I must kill you, you cretinous clown.
+N: OCK throws a roundhouse WALDO that nearly knocks SPIDEY off the GIRDER. He's just barely hanging on. But SPIDER-MAN'S not done yet. He THWIPS a HIGH BEAM and swings into a better attack position. The two SUPER- ADVERSARIES engage in battle. With OCK swinging from his WALDOS like a metal monkey and SPIDEY swinging from his WEBS like, well, like SPIDEY, they clang and bang through the GIRDERS of the CONSTRUCTION SITE.
+C: OCK
+D: Once I dispose of you, Spider-Man, no one will be able to stop me.
+C: SPIDER-MAN
+D: Stop you from what...?
+C: OCK
+D: My destiny!
+N: OCK throws his biggest punch yet. SIRENS can now be heard in the street. SPIDEY avoids WALDO strike after WALDO strike. OCK eludes WEB after WEB. But SPIDEY'S agility soon has him turning circles.
+C: SPIDER-MAN
+D: Over here, Octopus!
+C: OCK
+D: That's Professor Octopus to you Spider Jerk!
+C: SPIDER-MAN
+D: Give it up, Professor. You'll never catch me!
+N: OCK takes three steps and soars through the air.
+S: EXT. BRICK WALL - NIGHT
+N: OCK, misjudging the leap, soars right past SPIDEY and into an alley! Screaming all the way...
+S: EXT. THE ALLEY - NIGHT
+N: OCK and TWO WALDOS pressed against each of the opposing walls. It's a tenuous grip. Then, very slowly, sparks flying from his WALDOS, OCK slides down into the alley.
+C: SPIDER-MAN
+D: So long, sucker.
+S: EXT. STREET - NIGHT
+N: COP CARS pull up. COPS leap from them.
+S: EXT. SIDE WALL - NIGHT
+N: OCK makes it down, sees the COPS, ducks out of sight.
+S: EXT. COP CARS - NIGHT
+N: The SEARCHLIGHTS go on. SPIDER-MAN swings back across the street to the CONSTRUCTION SITE. COP #1 There he is! COP #2 It's that Spider-Man!
+S: EXT. THE ROOF - NIGHT
+N: SPIDEY lands next to LIZ in a pose. Lit by the flashing BILLBOARD, he's weirder looking than ever. SPIDEY puts an arm around LIZ and extends a WEB SHOOTER.
+C: LIZ
+D: What do you think you're doing?
+C: SPIDER-MAN
+D: I'm rescuing you.
+N: With that SPIDEY leaps way out and he and LIZ swoop away on a WEB-STRAND.
+C: LIZ
+D: Thanks but nooooooooooo!
+S: EXT. THE COP CARS - NIGHT
+N: ALL WEAPONS point upward at SPIDEY'S movement. COP #2 He won't get away this time! COP #1 Hold your fire! He's got a girl. COP #2 Looks like he's got a hostage.
+S: EXT. WEB STRAND - NIGHT
+N: SPIDEY sees the WEAPONS aimed upward. He shoots out another WEB and swings off in a different direction. LIZ whoops with the G-force.
+C: LIZ
+D: Wait a minute. Where are you taking me? SPIDEY hounded by the Police, rejected by the girl.
+C: SPIDER-MAN
+D: I better just take you back where you belong.
+N: He shoots out another WEB.
+C: SPIDER-MAN
+D: Hold on tight.
+C: LIZ
+D: Where are we?
+E: Times Square
+C: SPIDER-MAN
+D: Open your eyes.
+N: They are standing on the ROOF of the CENTRAL TOWER of the EMPIRE UNIVERSITY BUILDING. LIZ opens her eyes. It's an extraordinary sight.
+C: LIZ
+D: If you're trying to impress me Spidey, I want you to know I'm not easy. Okay, I'm impressed... now put me down, Spidey... put me down.
+E: the Empire State Building
+C: SPIDER-MAN
+D: I like the way you say Spidey... Nobody calls me Spidey... now we go...
+S: EXT. DORMITORY - NIGHT
+N: They swoop down... and down... stopping on one of the building's SILLS, actually right in front of a WINDOW in the DORMITORY BUILDING.
+C: LIZ
+D: Wow... look, this is our dormitory. I can get to my room. Hey, wait a minute... there's Flash, if I'm not mistaken.
+E: Tavern on the Green
+C: SPIDER-MAN
+D: Liz?
+C: LIZ
+D: You know my name?
+C: SPIDER-MAN
+D: Liz, listen to me. There's something I have to tell you.
+C: LIZ
+D: Okay, put me down and we can talk, alright?
+C: SPIDER-MAN
+D: Do you know who I am?
+C: LIZ
+D: All I know is you're the Amazing Spider-Man... or better you're Spidey the good guy on the block... you're a weirdo in a clown spider suit.
+C: SPIDER-MAN
+D: And that's all you know about me? Okay, lets get your boyfriend.
+E: a beat, a sigh
+C: LIZ
+D: Which one?
+C: SPIDER-MAN
+D: How many do you have? I meant Flash.
+C: LIZ
+D: Well, Flash is not exactly my boyfriend...
+C: SPIDER-MAN
+D: He's not? Then who is?
+C: LIZ
+D: There's someone I like, but he's too shy to notice.
+E: Flash appears
+C: SPIDER-MAN
+D: Flash!
+C: FLASH
+D: Liz! SPIDER-MAN!!!
+E: a beat
+C: LIZ
+D: You know everybody... Flash we have to call Peter!
+E: to Spider-Man
+N: FLASH rushes right past LIZ to the WINDOW. There's a NEWSPAPER in his hand.
+C: FLASH
+D: Hey, they won't let up, man! They keep calling you an accomplice in that burglary murder. But that's a crock, ain't it? I'm with you, Spidey, 100%
+E: shows Daily Bugle
+C: SPIDER-MAN
+D: Thanks.
+C: FLASH
+D: By the way, what are you doing with... Liz?
+E: realizing
+C: SPIDER-MAN
+D: She needed a lift.
+C: FLASH
+D: Oh... okay! This calls for a beer! A lot of beer!
+C: SPIDER-MAN
+D: Thanks, but I have some business to take care of.
+C: FLASH
+D: Well... take care of that later. Wait here. I'll get the beer.
+N: He disappears. LIZ comes, tentatively, to the WINDOW where SPIDEY squats, desire and passion in his WHITE EYES.
+C: LIZ
+D: How'd you know this was Flash's place?
+E: accusatory
+C: SPIDER-MAN
+D: Peter Parker told me all about it.
+C: LIZ
+D: Peter told you all about Flash?
+C: SPIDER-MAN
+D: No... he told me all about you. See you later.
+E: he jumps away
+S: INT. DORM - NIGHT
+N: FLASH comes in with more BEER than a man ought to carry.
+C: FLASH
+D: Hey, where'd he go? Hey, Spider-Man!!
+N: But SPIDER-MAN has disappeared.
+C: LIZ
+D: Peter told your Hero all about me...
+E: distracted
+C: FLASH
+D: He would, wouldn't he... that jerk!
+S: EXT. PETER PARKER'S ROOF - NIGHT
+N: SPIDER-MAN lands on it. He drops in the SKYLIGHT.
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+N: He drops into the room and pulls off his MASK. The place has been ransacked. COMPUTER DISCS are all over the floor. PETER pulls a file marked "Planetary Conjunction." He opens it. A piece of PAPER falls out. It says, "Kiss it goodbye, Wall Crawler!"
+C: PETER
+D: Octavius!!!
+E: whispers angrily
+S: EXT. EMPIRE STATE UNIVERSITY QUAD - DAY
+N: PETER is hurrying along. KIM in sunning herself wonderfully.
+C: PETER
+D: Kim! Have you seen Harry?
+E: hurrying by
+C: KIM
+D: Sure, lots of times. What a brainiac...
+C: PETER
+D: Yeah... have you seen him today?
+C: KIM
+D: No, un unh.
+C: LIZ
+D: Peter...!
+E: catching up
+C: PETER
+D: Hi... have you seen Harry?
+E: keeps walking
+C: LIZ
+D: No. What a night, huh?
+C: PETER
+D: Yeah, that was some ride home... must have been pretty exciting.
+E: laughs
+C: LIZ
+D: It was... okay. Look, I got two tickets to Les Miserables... wanna go?
+C: PETER
+D: Sorry... I'm really busy... I mean, not tonight... see you later.
+C: LIZ
+D: Hey, Peter... how did you know about last night...?
+E: thinking
+C: PETER
+D: What about last night?
+C: LIZ
+D: My exciting ride with Spider-Man...
+C: PETER
+D: Oh... Sorry... I gotta hurry... I have to find Harry... I'll see you later.
+C: LIZ
+D: Peter!
+N: PETER runs off. He sees a car approach and flags it.
+C: PETER
+D: Hey! Can I get a lift downtown?
+C: FLASH
+D: Take your shoes for a walk, Dork.
+N: FLASH gets out of his car, and crosses the lawn toward LIZ.
+S: INT. CONTROL ROOM - DAY
+N: OCK is hard at work. The room, still rippled, has been "hot rodded" to the max. Lots of jerry-rigged stuff has been added. OCK takes a sip from the THERMOS and flicks on the small TAPE RECORDER.
+C: OCK
+D: We are new inserting Peter Parker's data on tonight's Planetary Conjunction.
+N: INSERT: The COMPUTER SCREEN displays Peter Parker's name and ID number and the title, "The Planetary Conjunction and it's effect on Earth Gravity."
+C: OCK
+D: Yes, yes! Go on! Go on!
+N: INSERT: NUMBER SEQUENCES appear on the SCREEN. Then a GRAPHIC of the EARTH moving into line with SATURN, JUPITER, the SUN and the MOON. In the corner a NUMBER rises.
+C: OCK
+D: Enormous. It's enormous. The Parker calculations add 4% gravitational force at the moment of full Planetary Conjunction. Adding this to present maximum power potential, I get...
+E: to recorder hits some keys
+N: He looks up and sees the SCREEN a GRAPHIC "HOLE" opening up right through the EARTH! The widening HOLE is swallowing everything!
+C: OCK
+D: I knew it. I knew it! Universal destruction! It's doable! I am putting a countdown clock on the Planetary Conjunction now!
+N: A LARGE DIGITAL DISPLAY reads, "13:00:03." The last seconds count down to, "12:59:59!"
+C: OCK
+D: Okey, dokey. Now let's see if I have enough power to drive this beast.
+E: playing the computer
+N: He starts hitting KEYS on his COMPUTER.
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+N: PETER is working on LIZ'S COMPUTER. There is a KNOCK at his brand new, unpainted DOOR. He hurries to it and pulls the KNOB so quickly (forgetting his own strength) that the whole assembly comes off in his hand.
+C: PETER
+D: I gotta remember to have that fixed. There you are, I've been looking for you all over town.
+E: pulling Harry aside opens the door
+C: HARRY
+D: What happened?
+C: PETER
+D: Where were you?
+C: HARRY
+D: I went to the wrestling, wanted to see that Amazing Spider-Man, but he didn't show up.
+C: PETER
+D: Listen, Harry something terrible happened.
+C: HARRY
+D: What? What?
+C: PETER
+D: My Planetary Conjunction papers... they were stolen...
+C: HARRY
+D: Oh my God... Are you sure...? Who would do such a thing?
+C: PETER
+D: Ock...
+C: HARRY
+D: Of course... but why...?
+C: PETER
+D: We have to find out, sit down. I want to access Dr. Octavius' main program. I want to know about his experiments with the cyclotron. Can you do it?
+E: indicates computer
+C: HARRY
+D: I can try. I could access the system in the dorm. Okay. And through that I could crack the main line.
+E: starts hacking
+C: PETER
+D: Alright. Now if we can just disrupt the Octavius file...
+C: HARRY
+D: Okay, let's try.
+N: HARRY cracks his knuckles like a safe cracker and bends to the task. The PHONE RINGS. PETER hits his jerry-rigged SPEAKER PHONE. HARRY keeps hacking.
+C: PETER
+D: Yeah?
+C: JAMESON
+D: Parker? Peter Parker? This is J. Jonah Jameson!
+E: V.O.
+C: PETER
+D: Mr. Jameson, you got me at a bad time.
+E: looking over Harry's shoulder
+C: JAMESON
+D: I need pictures of your friend, the Amazing Spider-Man. But I need bad guy shots, you got it? Lots of bad guy shots. We're gonna pin that insect to the wall. Whaddaya say?
+E: V.O.
+N: PETER hangs up. The DIAL TONE cuts off JAMESON.
+S: INT. JAMESON'S OFFICE - NIGHT
+N: Only he and the PHOTO ASSISTANT are there.
+C: JAMESON
+D: What about that kid? On the job already?
+S: INT. CONTROL ROOM - NIGHT
+N: OCK is pacing around the hot rodded room. He checks this and that. He looks at the COUNTDOWN CLOCK (06:00:10) and throws himself down in his CHAIR. He resumes his check- down.
+C: OCK
+D: Fusion cells...? All up. Internal temperature... okay. Risk? Acceptable. Let's fly.
+E: a long beat another beat
+N: He starts flicking on SWITCHES and DIALS. The WHINE whirs up. He throws the RED POWER THROTTLE. The POWER DIAL goes to 90!
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+N: PETER and HARRY are at a COMPUTER. The LIGHTS flicker and dim. Then they go back on. PETER and HARRY look at each other and shrug.
+C: HARRY
+D: Got something!
+N: INSERT: DIGITAL CLOCK display: "06:00:03"
+C: PETER
+D: What is it?
+C: HARRY
+D: Let me see. It's some kind of countdown clock.
+C: PETER
+D: Countdown to what?
+C: HARRY
+D: I don't know, but whatever it is, it's only six hours away.
+C: PETER
+D: The Planetary Conjunction?
+C: HARRY
+D: Could be...
+C: PETER
+D: Or Doc Ock's end of the world experiment... Or both!
+C: HARRY
+D: Wait a minute. You're not telling me you think the world is gonna end tonight...?
+C: PETER
+D: You want to wait around till midnight to find out?
+C: HARRY
+D: No, but...
+C: PETER
+D: Let's see what else we've got.
+N: Another set of numbers roll up on the SCREEN. They are accompanied by ELECTRICAL SYMBOLS.
+C: HARRY
+D: What's that?
+C: PETER
+D: It might be a calculation of the amount of power he needs to create the hole between the force and the anti-force.
+C: HARRY
+D: That's a lot of energy. What could generate power like that?
+C: PETER
+D: The closest you could come is the New York City Subway System.
+N: Again, the lights flicker and then dim and they return.
+C: HARRY/PETER
+D: We gotta talk to Professor Rosomorf!!
+E: together
+S: INT. BROADWAY EXPRESS - NIGHT
+N: ROZ boards and takes a seat. There are the usual SUBWAY TYPES. A FAT WOMAN. A PIMPLY TEENAGER and his date, a TALL SKINNY GIRL in a PARTY DRESS. ROZ, making notations in a PAD, takes no notice of them. He sits down, closes his PAD, and taps a PENCIL against his chin.
+C: ROZ
+D: Plutonium...
+S: EXT. MAJOR INTERSECTION - NIGHT
+N: TAXIS go by. TWO LOVERS stroll. We hear a familiar WHINE. The "WALK" and "DON'T WALK" signs FLASH at the same time.
+C: BOY
+D: Make up your mind!
+N: The signs EXPLODE! The COUPLE stops in their tracks. The BOY looks at the GIRL.
+C: GIRL
+D: What's going on?
+N: An ARC of ELECTRICITY now shoots between the LIGHT PILLARS of the SUBWAY STATION on the corner.
+S: INT. BROADWAY LOCAL - NIGHT
+N: SPARKS fly by the window. ROZ, oblivious at first, is now stunned by the show.
+S: EXT. SUBWAY TRAIN ENTRANCE - NIGHT
+N: The ARCS of ELECTRICITY continue to rise. The STREET LIGHTS buckle and bend into weird shapes.
+C: WOMAN
+D: Oh my God!
+C: MAN
+D: Get back! Get back!
+S: EXT. INTERSECTION - NIGHT
+N: TWO TAXIS roar through the intersection and COLLIDE. The ETHNIC DRIVERS leap out and begin arguing.
+S: INT. TRAIN - NIGHT
+N: PEOPLE SCREAM and fall back as the TRAIN seems to change angles.
+S: EXT. SUBWAY ENTRANCE - NIGHT
+N: A building ROAR rises from the SUBWAY ENTRANCE. Then the sound of a TRAIN WHISTLE! The BOY looks down the STAIRS and has to leap out of the way as the BROADWAY EXPRESS comes highballing up the STEPS and blasts through the SUBWAY entrance. The TRAIN sails through the air.
+S: EXT. LUXURY CONDO HIGH-RISE - NIGHT
+N: The TRAIN crashes into the building in a storm of cyclotron generated Dali physics.
+S: EXT. THE STREET - NIGHT
+N: The THROB and PULSE recede. SCREAMS, HONKS, SIRENS can be heard.
+S: EXT. LUXURY CONDO HIGH-RISE - NIGHT
+N: A splendidly turned out MIDDLE-AGED WOMAN wakes from her satin sleep to see that a SUBWAY TRAIN is in the middle of her BEDROOM. The WALL through which the train has come sags and ripples like it has melted and partially resolidified.
+C: WOMAN
+D: Henry!!!
+N: Several PASSENGERS climb out of the WINDOWS of the TRAIN or pry open the DOORS.
+C: WOMAN
+D: What are you doing here? Get out of here! Get out of here!
+S: EXT. THE STREET - NIGHT
+N: A CROWD has gathered to gawk and point. They look up and we see their POV. The MIDDLE CAR of the TRAIN is simply "embedded" in the HIGH-RISE, its rear sticking out of the building fifteen stories up. From its COUPLING dangles the LAST CAR.
+S: INT. MIDDLE CAR - NIGHT
+N: The car is bisected in the middle by the fused brick and glass of the WALL of the building. PASSENGERS on the outside of the WALL press their faces to the GLASS and pound for help. ROZ comes to the aid of a MOTHER with TWO CHILDREN.
+S: EXT. THE STREET - NIGHT
+N: The CROWD sees something else. Swinging high in the sky is your friendly neighborhood SPIDER-MAN. The COUPLE and TWO DRIVERS argue about what this means.
+C: WOMAN
+D: It's Spider-Man!
+N: TRUCK DRIVER #1 Get outa here, you bum!
+C: WOMAN
+D: Hey, what are you talking about?!
+N: TRUCK DRIVER #2 (back at woman) What's the matter, lady don't you read the papers? This is the DRIVER of a DAILY BUGLE truck carrying the historically famous Bugle headline, "Spider-Man - Threat or Menace?"
+C: MAN
+D: Go Spidey! Go!
+S: INT. LAST CAR - NIGHT
+N: It's nearly vertical! People are tumbled over each other. The scared TEENAGER is tearing at the door. The SKINNY GIRL screams in a mechanical way. The DOOR opens. He nearly falls! The SKINNY GIRL screams again. He manages to get back inside. She looks at him, safe now. But she screams again anyway. ROZ struggles to right himself against a pole. A BAG OF GROCERIES goes sliding past him. It continues downward and out the OPEN DOOR. INSERT: The BAG tumbles down through the air. Down, down, and down...
+S: INT. MIDDLE CAR - NIGHT
+N: SPIDEY'S face appears in the WINDOW upside down.
+C: SPIDER-MAN
+D: Hello, everybody...
+N: He slides the WINDOW down and flips inside. He walks through the parting PASSENGERS to the BUILDING WALL. He feels it.
+C: SPIDER-MAN
+D: Okay, everyone, stand back and stay cool.
+N: He hurls himself at the fused GLASS portion and bounces back onto the floor. He rolls over, flexing his shoulder.
+C: WOMAN
+D: Is that the real Spider-Man?
+E: whining
+N: SPIDEY does a TRIPLE FLIP to his feet. He reaches up for the overhead RAILING and pulls it down easily. Oohs and aahs. SPIDER-MAN points it at the GLASS and hefts it.
+C: SPIDER-MAN
+D: Somebody wanna give me a hand with this?
+N: First the WOMAN, and then all of them, take up positions on the BATTERING RAM.
+C: SPIDER-MAN
+D: On three. One... Two... Three!
+N: They ram the GLASS and it shatters.
+S: INT. THE LUXURY CONDO HIGH-RISE - NIGHT
+N: HENRY stands at the open DOOR of the TRAIN in his bedroom as they all come rushing through into the room.
+C: HENRY
+D: Come on. Come on. That's it. Step lively now.
+C: WIFE
+D: Henry, the rugs!
+C: HENRY
+D: Oh, shut up!
+C: SPIDER-MAN
+D: Have a nice evening, Ma'am... and you too, Henry.
+S: EXT. THE STREET - NIGHT
+N: The FIRE TRUCKS arrive and begin assembling a LADDER.
+S: INT. THE LAST CAR - NIGHT
+N: SPIDEY arrives at the DOOR at the top of the CAR. He sees ROZ at the bottom. THREE PEOPLE are between them. The SKINNY GIRL sees SPIDEY. She screams.
+C: SPIDER-MAN
+D: Okay, folks, just hang on...
+N: He scampers down the GRAB-HANDLES to the people below. FOUR PASSENGERS cling to SEATS and BARS.
+C: SPIDER-MAN
+D: Okay, one at a time. You first, Ma'am...
+N: A FAT WOMAN makes a "who me?" gesture. SPIDEY throws her over his shoulder. INSERT: THE COUPLING which holds the two CARS at right angles begins to bend open. SPIDER-MAN, the FAT WOMAN over his shoulder, goes hand over hand to the top and the WOMAN is dumped into the MIDDLE CAR. INSERT: THE COUPLING bends open a little more. SPIDEY helps the TEENAGER and the SKINNY GIRL out of the CAR. She takes the dreadful step between cars. She looks down. She screams. She steps across.
+S: EXT. LUXURY CONDO HIGH-RISE - NIGHT
+N: The FIRE LADDER is up. But it is about TEN FEET short of where it's aimed at. The end of the CAR. A FIREMAN stands at its apex.
+C: FIREMAN
+D: Gimme more ladder! I need more ladder!
+E: into walkie
+C: WALKIE
+D: Negative on that, you're at full extension!
+S: INT. LAST CAR - NIGHT
+N: Now only ROZ is left. SPIDEY approaches him. He clings to a POLE. INSERT: The COUPLING bends open! The CAR is hanging there from memory!
+C: ROZ
+D: This is Doctor Otto Octavius' work. I must get back to my university. I must stop Ock... he's gone crazy. Can you help me?
+C: SPIDER-MAN
+D: Sure thing, just don't take the train. Come on... give me your hand.
+C: ROZ
+D: Spider-Man! Listen to me! If he can do this with the train, if he's come this far, then I can pretty well predict his next step. He'll go to Plutonium SL 270 for the power. He must be stopped... or else he'll destroy our world.
+N: The COUPLING shrieks and the CAR lurches.
+C: SPIDER-MAN
+D: Let's get you out of here first, Professor.
+C: ROZ
+D: Wait Spider-Man. I don't think I can make it... You mustn't waste time saving me... you must save the world! You must go and stop Ock!
+C: SPIDER-MAN
+D: Where can I find him...?
+C: ROZ
+D: He is looking for Plutonium SL 270 I'm sure...
+N: The CAR lurches on its side and ROZ flies out of the DOOR. SPIDEY THWIPS out a WEB that girdles ROZ'S waist.
+C: SPIDER-MAN
+D: Think Rosomorf, think where one can find Plutonium? Where could he find SL 270...?
+S: EXT. LUXURY CONDO HIGH-RISE - NIGHT
+N: ROZ is hanging in mid-air on the WEB. ROZ shouts.
+C: ROZ
+D: There's only one place he can get the Plutonium SL 270...
+E: shouting
+C: SPIDER-MAN
+D: Where...?
+C: ROZ
+D: Toxic... toxic dump... any toxic dump would have SL 270.
+N: SPIDEY swings ROZ in an arc to the FIREMAN. He misses ROZ on the first pass. ROZ looks up at SPIDEY who stands in the doorway, manipulating the WEB. The FIREMAN grabs ROZ. Then, with an awful SCREECH of steel, the CAR pulls loose from the COUPLING. With SPIDER-MAN inside it, the CAR plunges ten stories to the street below.
+S: EXT. STREET - NIGHT
+N: COPS, FIREMEN, PRESS, the works. The CROWD GASPS. CAMERA STROBES pop as the LAST CAR crashes to the SIDEWALK. We hold several beats on the incredible rubble. Then, a WEBBED HAND. SPIDER-MAN groggily pulls himself from the wreckage.
+C: COP
+D: Put your hands up, Spider-Man.
+E: V.O.
+C: SPIDER-MAN
+D: You're making a big mistake.
+C: COP
+D: And you're looking at twenty years.
+N: SPIDER-MAN shoots a WAD of WEB GOO onto the COP'S GUN and leaps up onto the LUXURY CONDO... and swings up out of the frame. The COP aims and shoots. The BULLET makes a THWUMP noise. The WEB GOO stretches out about three feet and falls limp.
+C: COP
+D: What the hell!
+S: EXT. BACK OF BUILDING - NIGHT
+N: SPIDER-MAN swings painfully, one handed and limp, at the end of a WEB STRAND. After falling ten stories, he is groggy and weak. He can't think. He can't focus. He can barely hold onto his WRIST GIZMOS. This bug is spent.
+C: SPIDER-MAN
+D: Must go on... must find Ock... SL 270 Plutonium... must get that crazy old loony... before he gets to the Plutonium... toxic dump... where are the toxic dumps...?
+N: He hangs there with two hands to catch his breath and thinks. He shoots a WEB up diagonally and swings across on it. This time he catches on and holds, but barely.
+S: INT. AUNT MAY'S FAMILY ROOM - NIGHT
+N: LIZ is standing. AUNT MAY is seated on the COUCH, she looks weak, pale and alone.
+C: AUNT MAY
+D: You're as lovely as Peter said you were.
+C: LIZ
+D: Thank you. He really wanted so badly to come see you. He called me up out of the blue.
+E: embarrassed
+C: AUNT MAY
+D: Tell me about Peter. What's he been up to? He seems so preoccupied.
+E: great concern
+C: LIZ
+D: Oh, you know Peter... he's all caught up in some kind of study he's doing. Things are really crazy at the university now. Things are crazy... everywhere. I guess Peter's just... well, you know... pulled into his shell.
+C: AUNT MAY
+D: When Peter was little, he loved to hide. In the closets. Under the sink. He always needed a secret place. But when I'd look for him, he'd always laugh... he wanted to be found.
+E: reminiscing
+C: LIZ
+D: Yeah... well. I don't think he wants me to find him... Well, I'd better be going. My friend Flash is picking me up.
+C: AUNT MAY
+D: This Flash... he isn't your boyfriend, is he?
+C: LIZ
+D: No... not really... I think you can guess why...
+N: They smile knowingly at each other. LIZ goes toward the DOOR.
+C: AUNT MAY
+D: Elizabeth...? She turns.
+C: AUNT MAY
+D: Finders keepers, losers weepers.
+C: LIZ
+D: What?
+C: AUNT MAY
+D: That's what I used to say to Peter when I found him.
+S: EXT. FIFTH AVENUE - NIGHT
+N: SPIDER-MAN swings high above it. This is not the confident swinger with LIZ in his arms. This is a guy who's making it by the narrowest of margins. There is a traffic jam below.
+C: SPIDER-MAN
+D: Got to find Ock... got to find the toxic dumps. Oh! Oh! Oh... yeah!
+E: grabs his head
+N: He looks down at the traffic. We PAN across the many CARS until we come to a non-descript GREEN CAR.
+S: INT. GREEN CAR - NIGHT
+N: OCK is honking the HORN. Something lands on his ROOF. Then SPIDEY sticks his head, upside down, in the windshield.
+C: SPIDER-MAN
+D: What's up, Ock?
+C: OCK
+D: You!!!
+N: A WALDO smashes through the WINDSHIELD but misses SPIDEY. OCK leaps from the CAR.
+C: OCK
+D: You're a doomed bug, Wall Crawler. I've no time to waste on you now.
+E: on the run
+S: EXT. STREET - NIGHT
+N: OCK runs through HONKING TRAFFIC. SPIDER-MAN leaps from CAR to CAR. OCK turns to see SPIDER-MAN leap to a LIMO at the curb. OCK turns tail and runs down an alley. A FEMALE COP pops out of a DOORWAY. Her partner, a BIG, YOUNG COP, pulls his GUN.
+C: FEMALE COP
+D: Alright! Freeze! Up against the wall and spread 'em
+E: gun poised
+N: OCK complies. He raises his hands... and spreads the WALDOS to full extension! The BIG COP screams and faints. The little FEMALE COP'S eyes POP. OCK swats the GUN from her hand. He starts to choke her. SPIDEY comes swinging to the rescue. He lands on the ROOF nearby.
+C: SPIDER-MAN
+D: Hey, you big OCK, why don't you pick on someone your own size?!
+C: OCK
+D: Alright Spider-Bug... here I've come for you...
+N: OCK leaves the COP and attacks SPIDER-MAN, shooting his iron fist at him. OCK runs to the end of the alley. SPIDEY staggers to his feet and resumes the chase. OCK breaks into a red Corvette convertible, starting it with a WALDO. SPIDER-MAN comes out in time to see the Vette drive away. A CHINESE LAUNDRY TRUCK is passing. SPIDEY THWIPS it and is whipped away. He crawls over to the WINDOW.
+C: SPIDER-MAN
+D: Hey, driver. Could you follow that red Vette for me?
+N: The surprised CHINAMAN lets loose a stream of CHINESE expletives, complete with appropriate suggestive gestures. SPIDER-MAN crawls to the top of the TRUCK and surveys the situation. He sees a sea of moving traffic. He THWIPS up a WEB and swings away. SPIDEY swings along from BUILDING to BUILDING. The RED VETTE is making headway. Suddenly, SPIDER-MAN spots a blue MG with its top up.
+C: SPIDER-MAN
+D: Flash Thompson... I never thought I'd be happy to see you.
+E: swinging
+S: EXT. BLUE MG - NIGHT
+N: SPIDEY swoops down on the BLUE MG.
+S: INT. BLUE MG - NIGHT
+N: SPIDEY wedges down into the car, right between FLASH and LIZ. She WHOOPS. FLASH is thrilled.
+C: SPIDER-MAN
+D: Sorry about that!
+C: FLASH
+D: Spider-man! This is unbelievable...!
+C: SPIDER-MAN
+D: Flash, I need your help.
+C: FLASH
+D: You got it.
+C: SPIDER-MAN
+D: You any good with this thing?
+C: FLASH
+D: I'm the best.
+C: SPIDER-MAN
+D: Okay... catch that Vette!
+C: FLASH
+D: Roger, wilco, over and out.
+N: He swerves. SPIDEY falls all over LIZ. They begin to careen through traffic, three peas in a very small pod.
+S: EXT. WEST SIDE CAR CHASE MONTAGE - NIGHT
+N: With SPIDEY jammed in between LIZ and FLASH, the MG chases the VETTE. Since neither OCK nor FLASH is any good at this, both cars quickly careen into POLES, FENCES, HOT DOG CARS and begin falling apart. On RIVERSIDE DRIVE the MG begins to lurch and STEAM. The VETTE looks eaten away. The GEORGE WASHINGTON BRIDGE looms ahead. The VETTE roars through the TOLL BOOTH. They spot OCK stuck in traffic.
+C: FLASH
+D: Why is he going to New Jersey, and who is it in that shitty red car...
+C: LIZ
+D: Don't you recognize him... it's Ock!
+C: SPIDER-MAN
+D: New Jersey has the largest toxic waste dump in the world.
+C: FLASH
+D: What does he want with toxic waste?
+C: SPIDER-MAN
+D: He's looking for Plutonium, my dear... The car has to slow down... it's in a traffic jam.
+C: FLASH
+D: Sorry... can't do anything about this traffic.
+N: SPIDER-MAN jumps out of the car.
+C: SPIDER-MAN
+D: Try to stay with me. I don't want to lose him!
+N: Speeding along the BRIDGE, OCK sees no one. But high above, SPIDEY swings from TOWER to TOWER after him. At the last TOWER, SPIDEY leaps down onto a BIG TRUCK. The VETTE weaves and SPIDEY crosses to another BIG TRUCK. For a moment he is caught between the TWO TRUCKS, but he makes it across. The VETTE takes an exit. SPIDEY leaps to the next SIGN. He aims his WRIST GIZMO and waits for the next car to take the exit, but none does. Deflated, he drops to the ground. He looks up to see a sign on a CYCLONE FENCE. It says, "DUMP NUMBER 7 -- KEEP OUT -- RADIOACTIVE MATERIAL!"
+C: SPIDER-MAN
+D: Bingo.
+S: INT. TOXIC WASTE DUMP - NIGHT
+N: The landscape has a nightmarish vision, weirdly lit by "safety lights." VATS and DRUMS ooze all kinds of bad stuff. A light is on in a dilapidated SHACK.
+S: INT. THE SHACK - NIGHT
+N: OCK is tossing away the CANISTERS until he comes to one marked, "HAZARD!! PLUTONIUM SL 270 HAZARD!!"
+C: OCK
+D: Okey, dokey...
+C: SPIDER-MAN
+D: Open that now, and you'll spoil Christmas.
+N: SPIDEY'S peering in from a HOLE in the ROOF.
+C: OCK
+D: Insect! I am going to squash you to death... Once I lay my Waldos on your skinny bones...
+N: OCK hurls a DRUM at SPIDEY. It erupts in a sizzle of LIQUID and GAS. Then the SIX-ARMED FIEND runs for the door with his SL 270.
+S: EXT. THE SHACK - NIGHT
+N: OCK comes flying out and SPIDER-MAN grabs a WALDO. SPIDEY does a back flip and whips OCK so hard the WALDO snaps off! OCK recoils it and reacts in horror. With a roar, OCK attacks SPIDER-MAN. They battle as SUPER-ADVERSARIES. OCK gains the upper hand and tosses SPIDEY into a pile of RUSTING DRUMS. A GAS envelopes SPIDER-MAN and he begins coughing.
+S: EXT. THE DUMP - NIGHT
+N: OCK'S WALDOS are coiled around SPIDER-MAN'S neck as the WEB SLINGER is dragged through the dump. His WHITE EYES narrow and blink. There is a capped WELL behind a WARNING SIGN. OCK tears off the CAP and then hurls the groggy SPIDEY down the WELL.
+C: OCK
+D: Goodbye, Spider-Man!
+S: INT. THE WELL - NIGHT
+N: SPIDEY falls. He cannot grab onto the slimy WALLS. At the bottom of the foul pit is a bubbling BLUE luminescent POOL. SPIDEY claws frantically at the WALLS.
+C: SPIDER-MAN
+D: Noooooooooooooo!
+N: He gets a hold and slides down to within a foot of the POOL. Its weird light shines up at him. He looks up at the starry sky.
+C: SPIDER-MAN
+D: Okay now, Spidey. Easy does it.
+E: to himself
+N: He shoots a WEB about halfway up the PIT. It hits the wall, sizzles, and drops back down.
+C: SPIDER-MAN
+D: Don't give up, Spidey. Don't give up.
+E: to himself
+N: The WEB GIZMO squirts out a pathetic patooey of WEB GOO. Then it hisses, empty!
+C: SPIDER-MAN
+D: Empty... now what do I do?
+C: OCK
+D: So you've avoided the nuclear pool, have you, Spider-Man?
+C: SPIDER-MAN
+D: Well, so far so good. But I can't hold on much longer.
+C: OCK
+D: Pity...!
+C: SPIDER-MAN
+D: Oh, come on, Ock, be a good sport. Let's talk this over face to face... throw me a line...
+N: SPIDEY reaches out.
+C: OCK
+D: Okay... face to face... Catch this!
+N: OCK, way up at the opening above, raises a huge DRUM above his head. The DRUM leaks toxic waste in ORANGE TENDRILS. He is about to drop it down on SPIDER-MAN...
+C: FLASH
+D: Don't do it, Professor!
+N: We now see FLASH and LIZ in the BLUE MG.
+C: OCK
+D: I know you... and you, young lady. Both of you are in my physic class, aren't you...? Come... you can help me. I need to get some of these drums to my laboratory... help me... and I'll give you special grades. What'd you say?
+E: puts down the drum
+N: Suddenly he catches FLASH with a WALDO and starts to choke him. LIZ screams and tries to help FLASH.
+C: LIZ
+D: Leave him alone!!!
+N: Another WALDO grabs her. ROZ now appears on the scene.
+C: ROZ
+D: Leave them alone Otto!
+C: OCK
+D: But, they won't help me. Everybody is trying to destroy my experiment. And so are you, Rosomorf.
+N: Another WALDO grabs ROZ by his arm.
+C: ROZ
+D: Otto... I was wrong. I've gone over your research. It's brilliant, Otto. It's mad, but it's brilliant. You have much work left to do. I want to help you, Otto. For the sake of science, go and do your experiment. Leave... these kids alone and I'll help you.
+C: OCK
+D: You will? You too?
+N: Both FLASH and LIZ shake their heads okey dokey. OCK gestures to FLASH and LIZ.
+C: OCK
+D: Help me with these drums, I need to get them to my laboratory immediately.
+C: ROZ
+D: Do as he says.
+N: OCK pushes FLASH and LIZ with his iron arm. Gripping LIZ be her hair, he shoves her into the CAR.
+C: OCK
+D: Drive, Flash, before I flush your girl right down the toilet!
+C: SPIDER-MAN
+D: Professor Rosomorf, it's no good, double dealing... why did you help him...?
+N: ROSOMORF finds a rope and looks into the well.
+C: ROZ
+D: Don't lose your energy screaming. Catch this rope and climb up, come on!
+S: INT. ROZ'S CAR - NIGHT
+N: They drive along the highway. SPIDEY is recovering, working his neck.
+C: ROZ
+D: I've been through the Octavius data. He has enough power with his Plutonium. Especially if he gets his hands on Parker's data, there he has enough power to do what he wants to do. And we are not going to stop him in time before the Planetary Conjunction occurs tonight...
+C: SPIDER-MAN
+D: Stop the car. I have an idea.
+N: They're in the middle of RIVERSIDE DRIVE but a PHONE BOOTH is coming up on the right. INSERT: ROZ'S foot stabs the BRAKE.
+S: INT. ROZ'S CAR - NIGHT
+N: SPIDEY gets out of the car. Then he pats himself where his pockets ought to be.
+C: SPIDER-MAN
+D: Do you have a dime?
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+N: HARRY is there, working on the COMPUTER, PHONE RINGS, HARRY picks up.
+C: PETER
+D: Harry?!
+C: HARRY
+D: Peter, where are you?
+S: INT. PHONE BOOTH - NIGHT
+C: SPIDER-MAN
+D: Listen, Harry. You must get my paper before Ock uses it...
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+C: HARRY
+D: Your Planetary Conjunction data? It's too late... Ock's got your paper, it's in his computer already.
+N: INSERT: The COMPUTER SCREEN displays a graphic of the SUN, EARTH, and MOON lining up with JUPITER and SATURN.
+C: HARRY
+D: But don't worry... he can never use it without Plutonium.
+C: SPIDER-MAN
+D: He's got the Plutonium, and he's on his way back to the lab! And he's got two prisoners with him... Liz and Flash!
+E: V.O.
+C: HARRY
+D: Don't worry... he needs a huge amount of power... thousands of volts of electricity... to get to the Anti-Force.
+C: SPIDER-MAN
+D: He can get to the power. Electrical power... to the max. Nuclear power... SL 270. And now, at the moment of full Planetary Conjunction. When all the planets line up with the sun... maximum gravitational power. The Conjunction is Ock's final power source.
+C: HARRY
+D: Damn... the Conjunction is due at midnight! What are we going to do?
+S: EXT. UNIVERSITY GROUNDS - NIGHT
+N: The BLUE MG arrives and comes to a stop. OCK looks at his two prisoners in the back seat and smiles to himself... Picks up one DRUM on each shoulder.
+C: OCK
+D: Okey, dokey... have fun, young ones... for the last time.
+N: OCK leaves. LIZ and FLASH are tied together in the back seat of the CAR.
+C: LIZ
+D: What do we do now?
+E: still ministering
+C: FLASH
+D: We kiss the world goodbye. If he is right, all there is left to do is...
+C: LIZ
+D: Wait... I think I can release my right hand...
+S: INT. PETER PARKER'S APARTMENT - NIGHT
+C: HARRY
+D: How much time is left? Wait... I can find out... my God... 59 minutes!
+S: INT. PHONE BOOTH - NIGHT
+C: SPIDER-MAN
+D: The only way we can interfere with Ock's plan is to find a computer center... fast.
+C: HARRY
+D: Our University has the biggest center in town.
+E: V.O.
+C: SPIDER-MAN
+D: Yeah, but who's gonna work 'em?
+S: EXT. UNIVERSITY GROUNDS - NIGHT
+N: Professor OCK comes for some more drums. He sees that LIZ and FLASH have disappeared. OCK picks up TWO DRUMS. HARRY seeing FLASH and LIZ come running to the school grounds.
+C: HARRY
+D: I think I can get some help... I can teach anyone how to work a code in five minutes.
+C: SPIDER-MAN
+D: Then do it!
+E: V.O.
+S: INT. COMPUTER LAB - NIGHT
+N: The LIGHTS are off, but the COMPUTERS are on. HARRY looks over LIZ'S shoulder as she cracks through a code. Her SCREEN reads out, "CONNECTICUT. TECH. Fully Op, Line Backlog, Security Max Level." The last line is FLASHING.
+C: KIM
+D: Hey, this is easy.
+N: They all run from COMPUTER to COMPUTER.
+C: FLASH
+D: Hey, Harry I need help.
+C: HARRY
+D: Coming!
+N: HARRY types in KARNAKY LTD and gets the same response. He looks at his DIGITAL WRISTWATCH. "01:00:02" becomes "00:59:59" as we watch. Then a WARNING BUZZER!
+C: KIM
+D: I got one! I got one!
+C: LIZ
+D: Harry! Get over here!
+N: HARRY hurries to KIM'S side and elbows her out of the CHAIR. The SCREEN is flashing "WARNING, Security Breach!" HARRY'S hands fly over the keys. The KIDS gather around. LINE DRAWINGS of the CYCLOTRON (progressing from large to small detail) appear one after the other. Finally, a PIPE. There is a CIRCLE around a JOINT. And the legend "H20".
+C: HARRY
+D: A goddamn water leak...
+C: FLASH
+D: Hey, look at this. Empire State University. This is our cyclotron, right?
+C: HARRY
+D: What does it say?
+E: serious
+C: FLASH
+D: It says "no information on net."
+E: hits two keys
+C: HARRY
+D: Damn... we can't do it...
+C: KIM
+D: You mean... we can't stop loony Ock...
+C: HARRY
+D: I mean the world is in danger...
+C: FLASH
+D: We must find Peter, he knows these computers better than all of us.
+C: HARRY
+D: Yes, but where the hell is he?
+C: LIZ
+D: I bet he is with Spider-Man...
+E: mysteriously
+N: Suddenly the lights dim. A heavy noise. An earth quake.
+S: EXT. OUTER SPACE - PERPETUAL DARK
+N: The EARTH is moving into line with the other PLANETS of the CONJUNCTION.
+S: EXT. SCIENCE CENTER - NIGHT
+N: HARRY and FLASH and LIZ and KIM, (the EARTH is SHAKING) come out running from the building beneath an enormous HANGING MOON. They are frightened. Suddenly it all stops. It's quiet, the kids look at the sky.
+C: LIZ
+D: Look at the moon... I have never seen it so big.
+C: FLASH
+D: What is that...
+C: HARRY
+D: Must be the sun.
+N: We now see the sky. With the sun on one side, and the moon on the other. They watch it, shocked, frightened out of their wits.
+S: EXT. END OF THE WORLD MONTAGE - NIGHT
+N: Suddenly from OCK'S basement lab a BLUE BEAM of LIGHT breaks through. A WHINE starts, it moves magically out of the WINDOW and PANS around a sleepy NEW YORK which doesn't know that the end is upon it. The dreaded WHINE builds throughout! People stop in their tracks, look up to the strange looking skyline. Camera comes down to a street where ROZ is DRIVING SPIDER-MAN fast toward the UNIVERSITY.
+S: INT. ROZ'S CAR - NIGHT
+N: ROZ looks out over the skyline of NEW YORK. Lighted buildings FLARE UP and then GO DARK. The LIGHTED SPIRE of the Empire State Building FLARES UP and EXPLODES.
+C: SPIDER-MAN
+D: It's started. Step on it Professor, or we'll never make it.
+N: They look across the campus and a strange LIGHT is coming out of the SCIENCE CENTER.
+C: ROZ
+D: Our campus... right there... see those beams from Ock's lab. We're late... it's coming... the Conjunction will happen in a few seconds.
+N: SPIDER-MAN massages his arm.
+C: SPIDER-MAN
+D: Stop the car...! Come with me.
+C: ROZ
+D: Where...? What...?
+N: SPIDER-MAN SHOOTS out a WEB and flies toward the SCHOOL BUILDING taking ROZ with him.
+S: INT. EXPERIMENTAL CHAMBER - NIGHT
+N: It is a patchwork of make-shift repairs. OCK looks in through a WINDOW that's been melted out. He is lost in a mad rapture.
+S: INT. CONTROL ROOM - NIGHT
+N: RED POWER THROTTLE is at 95% POWER! SPIDER-MAN and ROZ enter, shielding their eyes from the GLARE. The COUNTDOWN CLOCK reads, "00:08:18".
+C: OCK
+D: Aha! You never included the Conjunction in your calculations, did you?! Rosomorf!
+E: looking back, madly
+C: ROZ
+D: Damn the calculations! My God, Otto, you have to hear me! The world we know will collapse! Everything we have devoted our lives to... all the patterns, all the harmonies... everything will be destroyed.
+C: OCK
+D: A new world waits! Rosomorf! It is my destiny!!!
+C: ROZ
+D: It is cosmic suicide! You have no right!
+N: ROZ flings himself through the MELTED WINDOW into the EXPERIMENTAL CHAMBER. He grabs for the "BULLET" but the WALDOS grab him and throw him back. ROZ staggers backward... into the arms of SPIDER-MAN.
+C: ROZ
+D: You have to stop him... Spider-Man you have to stop him.
+C: SPIDER-MAN
+D: I'm afraid we're too late.
+N: SPIDER-MAN attacks OCK, trying to push him away from the THROTTLE. OCK pushes SPIDER-MAN away from him so strongly that SPIDER-MAN is knocked down. OCK nudges the POWER THROTTLE forward and the WHINE increases to an ear shattering pitch. The COUNTDOWN CLOCK reads, "00:06:48". We are at 96% POWER!
+S: EXT. THE SCIENCE CENTER - NIGHT
+N: We PAN down from the MOON to a STREET full of SIRENS and SHADOWY FIGURES running in the night. LIZ and KIM and HARRY come nearer. A very WEIRD light is emanating from the CENTER.
+C: LIZ
+D: He's in there. I know Peter is in there. She breaks into a run.
+C: FLASH
+D: Liz, don't... Liz come back... come back! LIZ runs inside. They run after her. A BOLT OF ELECTRICITY flashes across the doorway, stopping them.
+S: INT. THE CONTROL ROOM - NIGHT
+N: The PLANETS are playing on the COMPUTER SCREEN. Things in the room begin to rise, weightless. The ENERGY STORM is brewing!
+C: OCK
+D: Okey, dokey!! My energy storm has started. My Anti-Force is on! History is being made... Spider-Man, Rosomorf cheer up friends... we're on our way to the unknown cosmos... we three are about to visit heaven... real Gods heaven.
+C: ROZ
+D: Spider-Man! The Conjunction! It's happening!
+E: sees the sky through the window
+S: EXT. THE SKY - STRANGE COLORS - NIGHT
+N: The CONJUNCTION is now happening. INSERT: Surreal DIALS spin madly.
+S: INT. SCIENCE CENTER - NIGHT
+N: LIZ runs into a HALLWAY gone berserk. Stuff is flying everywhere. TILES pull from the WALLS and crash to the ceiling.
+C: LIZ
+D: Peter! Peter, where are you?!
+S: INT. CONTROL ROOM - NIGHT
+N: OCK throws the RED POWER THROTTLE to 97% POWER. Cacophony! The "BULLET" begins to PULSE and THROB! The DIALS spin! The COUNTDOWN CLOCK reads, "00:05:58".
+S: EXT. SCIENCE CENTER - NIGHT
+N: The FULL MOON hangs over the building. FLASH and HARRY and KIM stand at the entrance to the CENTER. FLASH starts to run to the building.
+C: FLASH
+D: Liz! Liz come on out!
+E: screaming
+N: They run forward but as they reach the FRONT STEPS the building lurches upward. The bottom step becomes a wall of STONE and DIRT, six feet high.
+C: HARRY
+D: Get back! Flash... get back!
+C: FLASH
+D: Wow...!
+N: Then the building lurches upward again! This time it pulls FREE from the ground. The KIDS take cover as WATER LINES BURST and ELECTRICAL WIRES SPARK.
+S: INT. SCIENCE CENTER HALLWAY - NIGHT
+N: LIZ opens a door.
+C: LIZ
+D: Peter!
+N: The building lurches throwing her back across the HALL where she crashes through another door.
+S: INT. CHEMISTRY LAB - NIGHT
+N: All manner of stuff is flying around. LIZ comes sliding across the floor. She crashes into a CABINET. GLASSWARE starts to fall on her, but crashes into the CEILING instead. She is dragged up the WALL. She kicks and screams against the Anti-Force.
+S: EXT. SCIENCE CENTER - NIGHT
+N: FLASH, KIM and HARRY look on as heavy ELECTRICAL CABLES stretch upward to the rising CENTER and then snap in showers of sparks. As they fall away the CENTER becomes airborne. The CABLES wave up at it, shooting arcs of ELECTRICITY directly at the building.
+S: INT. CHEMISTRY LAB - NIGHT
+N: LIZ slides down the WALL. She grabs at the WINDOW and looks out. The rest of the university recedes beneath her, now a hundred feet below. And they're still rising! FLASH and HARRY look up.
+C: FLASH
+D: Oh my God... Liz is inside there!
+C: HARRY
+D: And Professor Rosomorf and crazy Ock.
+C: FLASH
+D: What about Peter? Is he there with them?
+C: HARRY
+D: No, but I bet Spider-Man is.
+S: EXT. STREET IN FRONT OF UNIVERSITY - NIGHT
+N: People look up at the SCIENCE CENTER. A CYCLIST, riding and looking, crashes into a TAXI. MAX REISS leaps out with the BEAUTIFUL STARLET from the TAXI.
+C: MAX
+D: That's some show... if ever I saw one.
+S: INT. JAMESON'S OFFICE - NIGHT
+N: He's looking out his window seeing the University's Lab Building flying by. Up and up toward the sky.
+C: JAMESON
+D: Tear out the front page! Change the headline... The biggest news is happening right now... we need photos... a camera... get me a camera...!
+E: shouting
+S: EXT. SKY - NIGHT
+N: A very long shot of the SCIENCE CENTER rising into the CLOUDS.
+S: INT. AUNT MAY'S BEDROOM - NIGHT
+N: She pulls aside a CURTAIN and watches the SCIENCE CENTER rise.
+S: INT. CONTROL ROOM - NIGHT
+N: OCK works the COMPUTER as the CONSOLE sends up SHOWERS of SPARKS. He glances at the "BULLET" which now PULSES. The COUNTDOWN CLOCK at "00:04:18".
+C: ROZ
+D: Where is it going Otto?
+C: OCK
+D: Other worlds, Roz, other times, other dimensions, who knows? Who cares?
+C: ROZ
+D: Then... why?
+C: OCK
+D: Truth, Rosomorf. Look at it! The new truth! The new way!
+C: SPIDER-MAN
+D: Don't listen to him Professor Roz.
+C: OCK
+D: No, you don't listen to that clown, he can't save you, or the world for that matter.
+N: A WALDO reaches in and rips ROZ off SPIDEY, flinging him back against a WALL. ROZ lands in a heap beneath a FIRE STATION (HOSE, EXTINGUISHER, AXE). We see the WALDO reach out for SPIDER-MAN. It wraps around his FOOT and begins to tug, slowly...
+C: OCK
+D: Once and for all, Spider-Man... once and for all we'll end the legend of your powers.
+N: OCK knocks SPIDER-MAN with a real BIG BLOW with his WALDO. OCK is slowly dragging SPIDER-MAN to a HUGE HOLE that's been ripped in the floor by the BEAMS of ELECTRICITY. We see New York a half a mile down through the hole. We see SPIDEY being drawn across the HOLE. Then ROZ comes flying in with the FIRE AXE. ROZ hacks away at the WALDO and chops it off! The stump withdraws. OCK examines it in pain and fury!
+C: OCK
+D: You!! You were my teacher!!!
+E: ultimate betrayal
+N: ROZ doesn't even look back. He and SPIDEY are at the edge of the HOLE and he's shaking SPIDEY furiously. OCK sends out his other WALDO and begins banging it on the floor in a frenzy on either side of ROZ and SPIDEY. Like a child denied, he smashes his steel fists against the floor again and again.
+C: OCK
+D: You were my teacher! And you want to destroy my experiment. You are a scientist for heaven sake... don't you want to know what's up there?
+C: ROZ
+D: Yes, but not on account of our world. We have only one world... only one life. The floor begins to craze and then crack like ice around a hole on a pond. BANG! BANG! SPIDEY comes to just as the section of floor beneath himself and ROZ gives way and falls through.
+N: SPIDEY grabs hold of the edge and dangles. He looks down and sees ROZ falling away beneath him, disappearing into the dark.
+C: ROZ
+D: Spider-Man! Only you can save us now...
+E: calling back from the dark skies
+C: SPIDER-MAN
+D: Roz!!! Murderer!!!
+E: turns to Ock
+C: OCK
+D: Forget that old fool, insect. My Spider-Man... Come join me on my fantastic voyage to the 7th heaven.
+S: EXT. OUTER SPACE - PERPETUAL DARK
+N: The PLANETS are virtually in line!
+S: INT. SCIENCE CENTER HALLWAY - NIGHT
+N: LIZ comes running through it. A BOLT OF ELECTRICITY shoots from the right to the left in front of her. She slams on the brakes and runs the other way.
+C: LIZ
+D: Peter! Peter!
+S: INT. CONTROL ROOM - NIGHT
+N: The COUNTDOWN CLOCK is at, "00:02:59". OCK throws the POWER THROTTLE to 98% POWER. He laughs and a WEB splats against his GLASSES. SPIDEY scrambles to his feet. OCK, still trying to get the WEB GOO off his GLASSES, is slammed into the CONSOLE by SPIDER-MAN. SPARKS fly and WALDOS flail blindly, smashing things. OCK tears off his GLASSES and squints through the FIRE and SMOKE and GLARE. SPIDER-MAN THWIPS the ceiling and swings into a drop kick! OCK recovers. He grabs SPIDEY and slam dunks him through the hole in the floor.
+S: EXT. THE BOTTOM OF THE BUILDING - NIGHT
+N: SPIDER-MAN falls through the air. He shoots up a WEB and THWIPS, it sticks to the ROCKY bottom of the FOUNDATION. OCK appears in the HOLE. He sees SPIDEY'S dilemma, hanging on a thread of WEB. A half-broken WALDO snakes down and CLIPS the WEB. But the WEB sticks to the WALDO! OCK shakes it, but he can't get loose. SPIDER-MAN shoots out another WEB at the ROCK BOTTOM and, with the leverage, he pulls OCK out. OCK swings down in a wide arc and his WALDOS catch on the ROCK upside down. He holds on fiercely. OCK scrambles out to the side of the CENTER and begins looking for an entry. SPIDER-MAN is right on his tail. The building pitches sideways! OCK turns to face SPIDER- MAN, his broken WALDOS out for BATTLE. SPIDEY grabs an EXPOSED PIPE and breaks it off, brandishing it like a broad sword.
+C: SPIDER-MAN
+D: Let's have it, old boy! A bizarre DUEL takes place. The CENTER pitches this way and that. SPIDEY and OCK move from foothold to foothold, from WINDOW to LEDGE to PARAPET.
+N: Now the CENTER pitches to a 45 degree angle. They DUEL upside down! A WINDOW GRATE crashes open and LIZ comes flying out, holding onto the GRATE for dear life!
+C: SPIDER-MAN
+D: Liz!! OCK seizes the opportunity to whack SPIDEY across the head. SPIDEY loses his footing but the building now lurches back and LIZ goes flying back inside. SPIDEY ducks inside too and pulls the GRATE.
+N: SPIDER-MAN uses his great strength to move a HUGE PIECE of SCIENTIFIC MACHINERY in front of the GRATE.
+C: SPIDER-MAN
+D: Come on.
+C: LIZ
+D: Where's Peter? He must be here somewhere.
+C: SPIDER-MAN
+D: He's around, don't worry... we'll find him.
+E: pulling her ahead
+S: INT. CONTROL ROOM - NIGHT
+N: The COUNTDOWN CLOCK is at, "00:01:00" as SPIDEY comes flying in with LIZ in tow.
+C: LIZ
+D: This building is flying. I'm in a goddamn flying building...
+C: SPIDER-MAN
+D: I think we have to pull some of these cables. Try those over there. I'll work on these. We gotta slow this thing down somehow. We got helicopters coming.
+N: LIZ looks at some WIRING, apprehensive about even touching it.
+C: SPIDER-MAN
+D: Pull!
+N: She yanks out a CABLE. The building pitches. But when SPIDEY pulls one out, it rights itself.
+S: EXT. SCIENCE CENTER - NIGHT
+N: The BIG BEAMS start cutting out one by one. The CENTER begins to PITCH and YAW. The CHOPPERS are getting closer.
+S: INT. CONTROL ROOM - NIGHT
+N: The COUNTDOWN CLOCK reads, "00:00:15" as SPIDEY and LIZ continue to pull WIRES and CABLES. TWO WALDOS erupt through the floor and grab SPIDEY. They pull SPIDEY to the floor. Entangled in these molybdimum pythons, SPIDEY struggles valiantly. LIZ leaps to his aid.
+C: LIZ
+D: Oh my God...
+N: A third WALDO, a broken one, snakes up from the HOLE and begins feeling blindly around on the CONSOLE for the POWER THROTTLE.
+C: SPIDER-MAN
+D: The power!
+N: LIZ sees the damaged WALDOS heading for the RED THROTTLE. The COUNTDOWN CLOCK is at "00:00:10". LIZ leaps and tries to wrestle it away. It whips in her arms and she holds on tight. It bangs her against the wall and then the CONSOLE. She holds on. "00:00:03". The WALDO crashes LIZ against the wall which erupts in SPARKS. She lets go of it. It heads for the POWER THROTTLE! "00:00:01!" SPIDER-MAN can't break the grip of the WALDOS, but he can pull with super-human strength. He yanks OCK up through the STONE floor. OCK hits the ceiling of the CONTROL ROOM. ONE WALDO grabs on. The other one throws the RED POWER THROTTLE!
+C: OCK
+D: Spider-Man. You're end is coming. Life in its present form is ending... new dimensions, new horizons...
+N: The UNIVERSAL BULLET begins to GLOW. The GLOW sharpens to a POINT of LIGHT. SPIDER-MAN holds on tight against a rushing ENERGY FLOW that's pulling everything in the room towards the POINT of LIGHT.
+C: LIZ
+D: What is happening?
+E: bracing against the storm
+C: SPIDER-MAN
+D: I don't know!!!
+E: similarly braced
+N: LIZ starts to slip away into the flow. She struggles against it.
+C: LIZ
+D: I can't... hold on!
+N: SPIDEY THWIPS her and she grabs onto the WEB.
+C: SPIDER-MAN
+D: Hold tight, Liz, hold tight!
+N: OCK drops calmly, beatifically, to the floor of the room. He moves slowly, under his own power, into the LIGHT.
+C: OCK
+D: You cut my power... there's too little power... It's so tiny... so tiny... there's only space... for me. But I've done it, Spider-Man. I have broken through... I've broken through!
+E: spaced out
+C: LIZ
+D: Don't do it, Dr. Octavius!
+C: OCK
+D: Okey... dokey... Now that's what I call an experiment!!!
+N: As he nears the LIGHT he actually becomes a part of it. He radiates LIGHT. He shimmers and shines. He fills the room with BLINDING LIGHT. SPIDEY and LIZ shield their eyes, and as the light diminishes, the storm subsides. They're safe. Except for the fact that they're in a floating building, 10,000 feet above the city!
+S: EXT. SCIENCE CENTER - NIGHT
+N: Against the backdrop of the MOON, a SQUADRON of HELICOPTERS approaches the CENTER. From their POV, a HUGE CRACK opens across the face of the building. The CENTER begins to drop in PULSING SURGES.
+S: INT. CONTROL ROOM - NIGHT
+N: SPIDER-MAN is at the CONSOLE pulling and putting back WIRES. LIZ, fascinated, looks in at the WINDOW where OCK disappeared.
+C: SPIDER-MAN
+D: I can't control her. She's dropping too fast! Alright... let's go!
+C: LIZ
+D: But what about Peter? We've got to find Peter!
+C: SPIDER-MAN
+D: Peter will be okay, I promise you... Let's go before it's too late.
+E: he grabs her
+C: LIZ
+D: Go where?
+S: EXT. THE CENTER - NIGHT
+N: It rotates and drops. The HELICOPTERS come in like the cavalry.
+S: INT. CONTROL ROOM - NIGHT
+N: Trying to leave it, LIZ and SPIDEY are confronted with a nightmare. The room is tilted at a 45% angle. PIPES are bursting. SPIDEY helps LIZ through the obstacles. Debris rains down. They come face to face with a diagonal maze of PIPES.
+C: SPIDER-MAN
+D: Maybe there's another way...
+N: A HUGE CRACK opens above them.
+C: LIZ
+D: It's breaking apart!
+C: SPIDER-MAN
+D: Alright, keep moving, a step at a time!
+N: They scale the maze, but as they emerge on the other side, half the floor falls away! Central Park awaits, 8,000 feet below.
+C: LIZ
+D: We have to go back.
+C: SPIDER-MAN
+D: We can't go back.
+N: He looks across at the door. It is midway up a diagonal wall. He shoots a WEB up at the ceiling between themselves and the door. Then he extends a hand to LIZ.
+C: LIZ
+D: Forget it...
+C: SPIDER-MAN
+D: Okay, have it your way.
+N: He swings across and lands on the LEDGE of the DOOR. Then he swings the WEB back to her like a trapeze. LIZ catches the WEB and looks across at SPIDER-MAN, furious.
+C: LIZ
+D: What am I supposed to do with this!
+E: shouting across
+C: SPIDER-MAN
+D: Go ahead. It's easier than it looks! We've got to try the fire escape.
+E: shouting back
+N: LIZ swings across like TARZAN and SPIDEY gathers her in on the LEDGE. She does a comic "phew" and the LEDGE buckles beneath them but holds. SPIDER-MAN tries to open the door, but it's stuck.
+C: LIZ
+D: The door is stuck.
+N: SPIDER-MAN bends his back to the task. It take all his strength, but with a comic AAAAARGGHH! He bends the DOOR open.
+S: EXT. FIRE DOOR - NIGHT
+N: They burst out onto the ROCK FOUNDATION of the building. New York is rushing up to meet them. The WIND created by their fall buffets them. The HELICOPTERS arrive, and the falling building plunges right past them. The HELICOPTERS look across at each other, helpless.
+S: EXT. THE CENTER - NIGHT
+N: It drops like a stone.
+S: EXT. FIRE DOOR - NIGHT
+N: SPIDEY and LIZ are falling away from the DOOR, sliding along the ROCK. LIZ is stopped by a RETAINING WALL. SPIDEY keeps sliding. He THWIPS the wall and then disappears over the edge. LIZ screams! LIZ fights to her feet and grabs onto the WEB STAND. She pulls on it with all her strength. She pulls and pulls and pulls. We see the WEB running up between the ROCKS. She gives one last pull and comes up with an EMPTY WEB END. A long, long beat.
+C: PETER
+D: Liz, Up here!
+E: V.O.
+N: LIZ looks up and sees PETER hanging out the WINDOW two stories above her. He throws out a ROPE LADDER. LIZ grabs it. She begins to climb.
+S: INT. CLASSROOM - NIGHT
+N: PETER pulls LIZ through the WINDOW. There is no time for an embrace.
+C: PETER
+D: Come on. I've found a way down.
+C: LIZ
+D: I knew you were going to say that.
+E: at long last, love
+N: They run out of the ROOM. We PAN down and see, crumpled beneath the WINDOW, the SPIDER-MAN suit.
+S: INT. LARGE PHYSICS LAB - NIGHT
+N: This is the LAB we saw in the opening sequence. PETER has turned on the lights. He's got a handful of ROPE.
+C: LIZ
+D: Where's the way out?
+C: PETER
+D: Right there!
+N: We are looking at the HUGE AMERICAN FLAG.
+C: PETER
+D: Come on, help me with this.
+S: EXT. THE FOUNDATION - NIGHT
+N: LIZ is already down the ROPE LADDER and is holding it for PETER. He comes down with a HUGE bundle of RED, WHITE & BLUE.
+C: PETER
+D: Okay, stand still.
+N: He ties some ROPE around her waist.
+C: LIZ
+D: Is this going to work?
+C: PETER
+D: How do I know?
+C: LIZ
+D: I just adore confidence in a man.
+C: PETER
+D: Come on...
+N: They move to the edge of the ROCK and look down. CENTRAL PARK is still a couple thousand feet down.
+C: LIZ
+D: What is it you say when you jump?
+C: PETER
+D: Your prayers.
+N: They SCREAM as the building lurches again, knocking them to the ground. They start to slide across the ROCK. They reach out for each other but their hands don't quite reach. Slowly, they inch back together, but the FOUNDATION cracks between them.
+S: EXT. THE CENTER - NIGHT
+N: It spins and falls beneath us. Down, down it goes. And then it crashes into the GREAT LAWN. A huge cloud of debris shoots upward.
+S: EXT. THE SKY - NIGHT
+N: There is a beautiful FULL MOON. PETER and LIZ float down into the frame lit by its wonderful light. The AMERICAN FLAG which has turned into a huge parachute. They hold each other tight. They can hear SIRENS below. They begin to laugh with relief. Then they stop. The wind billows LIZ'S skirt and plays with PETER'S hair, and snaps in the AMERICAN FLAG.
+C: LIZ
+D: We have a lot to thank your friend Spider-Man for.
+C: PETER
+D: Somehow, I don't think we've seen the last of him.
+C: LIZ
+D: Peter...! Finders, keepers...
+C: PETER
+D: What...? What is it? Why do you look like that?
+C: LIZ
+D: I think I'm in love.
+C: PETER
+D: You are...
+E: even his eyes blush
+C: LIZ
+D: With your friend...
+C: PETER
+D: Spider-Man? You're in love with Spider-Man?
+C: LIZ
+D: I am... you think we'll see him again?
+C: PETER
+D: We might... you never know. He kisses her.
+C: LIZ
+D: Oh. This may be the end of a beautiful friendship you know?
+E: bittersweet
+C: PETER
+D: Nah.
+N: They land in the center of the park under the parachute. They stay there and kiss... completely covered by the flag. Camera pulls up to show the building floating away. THE END

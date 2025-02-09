@@ -1,0 +1,3345 @@
+M: STAR TREK
+M: Written by
+M: Roberto Orci & Alex Kurtzman
+M: November, 2007
+M: 1-13 OMIT 1-13
+M: OMIT
+N: OVER BLACKNESS, we HEAR a BACH HARPSICHORD CONCERTO. And then a WOMAN -- breathing hard -- straining, harder and harder -- until finally we HEAR a NEWBORN BABY CRYING -- and we...
+T: FADE IN:
+S: EXT. VULCAN FAMILY HOME - DUSK
+N: The image is spectacular, aglow in DUSK LIGHT: a beautiful BABY, just born, held in a WOMAN'S HANDS. It is being cleaned; warm water runs down its face and body. TIGHT ON the MIDWIFE (female, 60's) who holds and cleans the baby as it CRIES. Another, younger, Midwife can be seen behind her, assisting with the pitchers of water. As she cleans the baby, she says to someone OFF-CAMERA:
+C: MIDWIFE
+D: He is strong.
+N: The baby, now calm, gets SWADDLED. He is then gently held out to the new MOTHER: AMANDA GRAYSON, late 20's. An original beauty. She lies on a divan, spent but eager to hold her first child. She tenderly takes the infant into her arms, tears in her eyes, mesmerized. She holds the wrapped baby tight and whispers sweetly:
+C: AMANDA
+D: ... hello.
+N: CLOSE ON the YOUNGER MIDWIFE, standing at the rear of the room. She raises an eyebrow as she quietly speaks:
+C: YOUNGER MIDWIFE
+D: The baby is healthy. Why does she cry?
+C: MIDWIFE
+D: She is human.
+E: a beat; then
+N: A distant, quiet BUZZ -- and the elder Midwife stands, looking into the distance. And this is when we see, for the first time, that the Midwife has POINTED EARS.
+C: MIDWIFE
+D: Sarek arrives.
+E: CONT'D
+N: The Midwife moves away -- we PUSH IN on Amanda, who looks up for a moment, clearly disquieted. 15A OMIT 15A
+S: 15B EXT. VULCAN LANDSCAPE - DUSK [FORMER SC. 14] 15B
+N: A planet of massive, tortured ROCK FORMS, distant cities constructed atop and underneath them. A HOVER-SPEEDER in the mid-ground kicks up dust, backlit by the sun, as it traces the horizon. We PAN WITH IT, revealing a FAMILY HOME, built seamlessly into a rocky mountainside. A SUPER READS: STARDATE 2230.06. The speeder parks outside the home --
+S: 15C EXT. VULCAN HOME - DUSK 15C
+N: SAREK (late 40's, a Vulcan) comes out to the balcony through the rear doors of the home. He moves to Amanda and kneels. He looks at the child -- his child -- and says:
+C: SAREK
+D: Well done.
+N: She looks at him for a beat, then says, flatly -- with just enough rancor:
+C: AMANDA
+D: Thanks.
+N: He regards her. Knows he's in TROUBLE --
+C: SAREK
+D: Your tone suggests disappointment. The Science Council required my presence for a session regarding--
+C: AMANDA
+D: Don't do that. You knew I wanted you here.
+N: The Vulcan Midwives share a look. Sarek glances at them. Nods. The two women excuse themselves. Sarek reaches over, touches a small touchpad -- the HARPSICHORD MUSIC STOPS. He says, clinically:
+C: SAREK
+D: As you are aware, the Vulcan male is traditionally not present at the moment of delivery.
+C: AMANDA
+D: Well traditionally, I'm not the one giving birth.
+E: then MORE
+C: 15C CONTINUED: 15C AMANDA
+D: I moved here -- to another planet -- to be with you. I needed you to be with me today. Holding my hand and telling me I'm doing great, even when I'm just... breathing the best I can.
+E: CONT'D
+N: Sad that she has to tell him this at all, she just looks back at the baby -- finding comfort in his innocence. Sarek considers this. He moves closer to her. Whispers intimately:
+C: SAREK
+D: You are correct. I should have been here. I am sorry.
+N: And with her free hand, she pulls Sarek closer -- and kisses him. And the two look at the baby.
+C: SAREK
+D: I had a thought. That we might name the child after one of our respected early society-builders. His name was "Spock".
+E: CONT'D
+N: She looks at the baby, not immediately taken by the name.
+C: SAREK
+D: Your silence does not suggest enormous enthusiasm.
+E: CONT'D
+C: AMANDA
+D: No... Spock. ... Spock.
+E: smiles, touches his face
+N: She looks at Sarek: Spock it is.
+C: SAREK
+D: The child has your eyes.
+N: She pulls back the baby's swaddling, revealing his ears. She gently rubs the top of his right ear -- AND IT UNFURLS, revealing a small, soft pointed VULCAN EAR.
+C: AMANDA
+D: ... and your ears.
+N: And off the image of this TINY BABY, half-human, half-Vulcan, we... FADE OUT. And over BLACKNESS, we BEGIN TO HEAR an ALARM SOUNDING -- GROWING -- and the SUPER "THREE YEARS LATER" APPEARS -- and finally the BLACKNESS IS SPLIT BY TURBO-LIFT DOORS OPENING and we REVEAL THAT WE'RE ON:
+S: 15D INT. U.S.S. KELVIN [FORMER SC. 15A] 15D
+N: With URGENCY, we MOVE DOWN a corridor with CAPTAIN ROBAU and OFFICER PITTS:
+C: CAPTAIN ROBAU OFFICER PITTS
+D: -- our sensors haven't made -- no sir, it looked like a sense of the anomaly? lightning storm in the middle -- how far are we from the of space -- Klingon Neutral Zone? -- 150,000 kilometers, but the vessel is not Klingon, Sir, its registry doesn't match any recorded profile --
+N: SHWISH! The doors part and we enter THE BRIDGE OF THE SHIP -- a flurry of activity -- the MASSIVE SHIP they are approaching on the VIEWSCREEN. Robau moves to the center -- then he asks:
+C: CAPTAIN ROBAU
+D: Report.
+N: -- turning to the ship's FIRST OFFICER: 32, all-American face, swiveling in a console chair to FACE US:
+C: FIRST OFFICER
+D: Sir, new contact bearing zero-three-four.
+C: CAPTAIN ROBAU FIRST OFFICER
+D: Are they transmitting on any Negative, Captain -- all frequency? communications appear to be shut down.
+C: CAPTAIN ROBAU FIRST OFFICER
+D: Hail the ship. What's the Nothing even close, Sir. closest match on registry?
+N: Robau moves to Pitts:
+C: CAPTAIN ROBAU
+D: Any response?
+C: OFFICER PITTS
+D: No Sir -- hails met with silence.
+C: CAPTAIN ROBAU
+D: Maybe they're incapable -- any identifiable damage?
+C: OFFICER PITTS
+D: Negative, Sir -- but our readings seem confused--
+N: 15D CONTINUED: 15D
+C: CAPTAIN ROBAU
+D: Confused?
+C: OFFICER PITTS
+D: -- not only is the ship unregistered -- but even its construction materials seem unrecognizable.
+N: Robau sits in the captain's chair his eyes on the ship as they approach -- and we SEE IT on the VIEWSCREEN -- THE NARADA -- ENORMOUS AND THREATENING. He doesn't even realize that he says:
+C: CAPTAIN ROBAU
+D: ... oh my God... A lightning storm... then this... Signal all departments: first contact protocols. Looks like we have someone new on the block. All Stop.
+E: to himself, boggled to deck
+N: 16-17 OMIT 16-17 18-19 OMIT 18-19 19A OMIT 19A 19B OMIT 19B
+S: 19C EXT. DEEP SPACE - CONTINUOUS 19C
+N: And in the endless vacuum of space, and in TOTAL SILENCE, the Kelvin appears as a dot, coming to a stop in front of the gigantic BLACK CLAW that is the Narada --
+S: 19D INT. U.S.S. KELVIN - BRIDGE 19D
+N: Crew members are glued to their telemetry, working consoles:
+C: FIRST OFFICER
+D: Sir, should we initiate an invasive scan?
+C: CAPTAIN ROBAU
+D: That could be seen as an act of provocation -- all readings passive--
+N: Suddenly, a WARNING BEEP --
+C: OFFICER PITTS CAPTAIN ROBAU
+D: Sir, I have a reading -- they've locked weapons on us! -- Red alert! Arm weapons!
+N: ALARMS BLARE -- LIGHTS GO RED as --
+S: EXT. SPACE - CONTINUOUS
+N: The Narada FIRES a TORPEDO -- IT HEADS FOR THE KELVIN -- then SEPARATES, fracturing into a multi-hit projectile --
+S: INT. U.S.S. KELVIN - CONTINUOUS
+N: Officers SCRAMBLE, brace for impact --
+C: FIRST OFFICER CAPTAIN ROBAU
+D: Torpedo locked on us at 320 degrees, mark two -- incoming -- Evasive pattern Delta-5! fast!
+S: EXT. U.S.S. KELVIN - CONTINUOUS
+N: A direct hit SMASHES several decks along the DISH of the ship --
+S: INT. U.S.S. KELVIN - ENGINE ROOM - CONTINUOUS
+N: In the massive Engine Room, a HUGE BLAST -- MEN GO FLYING IN THE STEEL-SHATTERING EXPLOSION --
+S: INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS
+N: Captain Robau helps a fallen CREW MEMBER up from the floor -- then, on his chair com.:
+C: CAPTAIN ROBAU
+D: Damage report!
+T: INTERCUT with:
+S: 24A INT. U.S.S. KELVIN - ENGINE ROOM - CONTINUOUS 24A
+N: Moving with the Kelvin's CHIEF ENGINEER:
+C: CHIEF ENGINEER
+D: Our shields did nothing, Sir! Never seen anything like it! Weapons off-line! Main power at 38 percent!
+N: As the crew regains their footing, the First Officer pulls himself to his console, true fear in his eyes as he places an inter-ship call -- it's RINGING -- his fear grows with every passing RING -- then, we INTERCUT WITH:
+S: 24B INT. U.S.S. KELVIN - MEDICAL BAY - CONTINUOUS [FORMER SC. 26B] 24B
+N: A WOMAN, 25, answers her communicator -- she lies on an exam table, afraid -- and pregnant. This is WINONA. 24B CONTINUED: 24B
+C: WINONA
+D: -- what was that-- what's happening?!
+N: But the First Officer is just relieved that she's still alive:
+C: FIRST OFFICER
+D: -- you're okay-- thank God-- where are you?
+C: WINONA
+D: Medical bay-- I had a few close contractions-- I'm fine-- what was that?
+C: FIRST OFFICER
+D: Just sit tight-- stay there-- we'll be fine--
+N: Or maybe not:
+C: OFFICER PITTS
+D: They're firing another, Captain!
+S: EXT. SPACE - CONTINUOUS
+N: ANOTHER NARADA TORPEDO -- it SEPARATES, pieces HIT the Kelvin.
+S: 25A INT. U.S.S. KELVIN - ENGINE ROOM - CONTINUOUS 25A
+N: Chief Engineer RUNS past us -- CONSUMED BY A SUDDEN EXPLOSION!
+S: 25B INT. U.S.S. KELVIN - CORRIDOR - CONTINUOUS 25B
+N: A FEMALE CREW MEMBER running down the hall suddenly HOLDS ON as a HOLE IS RIPPED IN THE HALL -- and she's YANKED OUT OF THE CORRIDOR -- the CAMERA finally getting sucked out too!
+S: INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS
+N: -- PANDEMONIUM --
+C: HELMSMAN OFFICER PITTS
+D: -- life support failing on -- this is the U.S.S. Kelvin, decks seven through thirteen! attemping to reach Starfleet We have confirmed casualties, command on subspace! Repeat -- Sir! U.S.S. Kelvin, under attack by unknown aggressor!
+C: FIRST OFFICER TACTICAL OFFICER
+D: -- shields at eleven percent -- were our shields even up? and dropping! Ten percent -- That was like nothing I've we're at nine! Eight percent! ever seen -- this ship can not Seven! We're dropping here! take another hit like that! Six!
+C: CAPTAIN ROBAU
+D: All remaining power to forward shields! Prepare the shuttles f--
+N: And he STOPS. They all do. A fucking FACE is now on their VIEWSCREEN. A ROMULAN FACE -- the FIRST OFFICER of the Narada, whom we'll come to know as AYEL:
+C: AYEL
+D: My commander requests the presence of your captain in order to negotiate a cease-fire. You will come aboard our ship via shuttlecraft. Your refusal would be unwise.
+N: Screen goes DEAD. All eyes on Robau... and he feels them. A tense, horrible moment. Finally, to the First Officer:
+C: CAPTAIN ROBAU
+D: Walk with me.
+N: The First Officer follows Robau OFF THE BRIDGE AND INTO:
+S: 26A INT. U.S.S. KELVIN - CORRIDORS - CONTINUOUS 26A
+N: As they walk, briskly:
+C: CAPTAIN ROBAU
+D: If I don't report within fifteen minutes, execute general order 13.
+C: FIRST OFFICER
+D: Sir, we could issue a mayday call to--
+C: CAPTAIN ROBAU
+D: There is no help for us out here. If we're going down, we're taking them with us -- you save as many as you can.
+E: frightened, but firm
+C: 8A
+D: 26A CONTINUED: 26A
+C: FIRST OFFICER
+D: ... aye, Captain.
+N: Robau heads into a waiting TURBOLIFT, turns -- they lock eyes, knowing what this means. Finally:
+C: CAPTAIN ROBAU
+D: You're Captain now. Mr. Kirk.
+N: He's gone. And we realize this is GEORGE KIRK, Jim's father. 26B-C OMIT 26B-C
+S: 26D INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS 26D
+N: All eyes on Kirk as he enters -- moves to the captain's chair. Sits. Not a small moment. Speaking his first words as Captain:
+C: GEORGE KIRK
+D: Lieutenant Pitts. Transfer Robau's vital signs to the main view screen.
+C: OFFICER PITTS
+D: Yessir.
+N: In a moment, Robau's VITAL SIGNS appear on various monitors -- his HEART RATE, OXYGEN LEVELS, BLOOD PRESSURE, all of it. A LOW- PITCHED BEEPBEEP of his HEARTBEAT is now HEARD --
+C: SCIENCE OFFICER
+D: Vitals on line.
+C: GEORGE KIRK
+D: -- thank you.
+E: slightly awkward
+S: 26DA INT. U.S.S. KELVIN - ENGINE ROOM - CONTINUOUS 26DA
+N: TILT DOWN as the TURBO-LIFT DESCENDS -- we PUSH IN as the doors open and Captain Robau gets out -- moves quickly -- hurries down a SHUTTLE BAY catwalk --
+S: 26DB INT. SHUTTLE - CONTINUOUS [FORMER SC. 26C] 26DB
+N: Robau enters a shuttle -- LIGHTS BLINK to life. He moves to the cockpit -- starts the vehicle up --
+C: CAPTAIN ROBAU
+D: Computer, initiate departure sequence.
+N: A LOUD HISS and the craft SHUDDERS as it disembarks --
+S: 26DC INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS 26DC
+N: Sparks dripping from the ceiling, everyone is motionless -- eyes on the monitors -- and we're TIGHT ON GEORGE KIRK -- the BEEPS of Robau's heart might as well be representing his own. He realizes he's sweating -- wipes his forehead as:
+C: OFFICER PITTS
+D: The shuttle's pulling out of main bay, Sir.
+C: GEORGE KIRK
+D: I want to see him -- floodlights please.
+S: 26E EXT. U.S.S. KELVIN - SPACE 26E
+N: Two MASSIVE FLOODLIGHTS on the Kelvin's dish GO HOT -- and turn, FLARING out the lens -- landing on the SHUTTLE as it leaves the KELVIN, heading toward the imposing Narada.
+S: 26EA INT. SHUTTLE - CONTINUOUS 26EA
+N: Backlit by the distant floodlights, Robau remains steely-eyed as he moves for the darkened ship -- nerves --
+S: 26F INT. U.S.S. KELVIN - BRIDGE 26F
+N: And Robau's HEARTBEAT QUICKENS -- the tension they all feel:
+C: OFFICER PITTS
+D: His heart rate's elevated--
+C: HELMSMAN
+D: He's scared.
+C: GEORGE KIRK
+D: He's brave. That's what he is.
+S: 26FA INT. SHUTTLE - CONTINUOUS 26FA
+N: Robau watches as he gets closer, the BEEPBEEPING HEARD over the SOUNDS of the shuttle -- but then --
+S: 26FB EXT. NARADA - SPACE - CONTINUOUS 26FB
+N: ALL WE HEAR IS THE LOW-PITCHED BEEPBEEP as the small shuttle seems to get swallowed up by the massive forward-facing spires of the Narada -- the distant floodlights creating EERIE SHADOWS everywhere. A gigantic IRIS DOOR TURNS, SLOWLY OPENS -- and the shuttle enters the Narada's main HANGAR -- the door CLOSES --
+S: 26FC INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS 26FC
+N: And everyone is just motionless and silent. Only Robau's VITAL SIGNS can be HEARD, BEEPING away. George's eyes glued ahead --
+S: 26G INT. SHUTTLE/NARADA HANGAR - CONTINUOUS 26G
+N: TIGHT ON ROBAU as he faces the shuttle door, considering his fate. Finally the SHUTTLE DOOR OPENS -- standing there are eight ROMULAN GUARDS, brandishing WEAPONS. He steps down. They grab him, hard -- he's SCANNED -- FRISKED -- PULLED ALONG -- and we REVEAL the absolutely MASSIVE HANGAR, the insane architecture of the interior of this dark, wet, dripping ship --
+S: 26H INT. NARADA BRIDGE - CONTINUOUS 26H
+N: Robau is led into the enormous, dark bridge. A dozen Romulans at controls. Robau does his level best to portray confidence as he is led up a walkway to AYEL. Behind him, sitting silhouetted and motionless, turned away and looking off, is his captain. A presence always felt in this scene. This is NERO. Ayel touches a panel, then THROWS AN IMAGE into the air before Robau. A ROTATING HOLOGRAM OF A UNIQUE-LOOKING SPACECRAFT (we will refer to it as the JELLYFISH).
+C: AYEL
+D: Are you familiar with this craft?
+N: Robau regards it. Then:
+C: CAPTAIN ROBAU
+D: Who is your commander? Is it him?
+E: silence, then re: Nero
+C: AYEL
+D: You will speak only to me.
+C: CAPTAIN ROBAU
+D: Then ask your commander what right he has to attack a Federation vessel.
+C: AYEL
+D: That was hardly an attack. My commander will easily destroy your ship. If you do not respond to the question.
+N: Robau considers the hologram again. And what his answer might mean for the fate of his crew.
+C: CAPTAIN ROBAU
+D: I've never seen it. Or any ship like it.
+C: AYEL
+D: Are you familiar with -- or better, know the location of -- Ambassador Spock?
+N: Ayel has thrown another HOLOGRAM -- A FLOATING, ROTATING IMAGE OF SPOCK, who appears to be 75 earth-years old. The baby, born just three years earlier. Robau is as confused as we are...
+C: CAPTAIN ROBAU
+D: I am unfamiliar with Ambassador Spock.
+C: AYEL
+D: A final question. What is the current stardate?
+N: 26H CONTINUED: 26H
+C: CAPTAIN ROBAU
+D: ... Stardate? ... it's 2233.04. ... hey, where are you from--?
+E: the fuck? finally
+N: Suddenly: TSCHING! Nero's activated his STAFF -- FOUR LARGE, HORRIFYING BLADES APPEAR AT THE TIP AND NERO SPRINGS TO LIFE, CHARGING ROBAU WITH A ROAR AND ROBAU'S EYES POP HOLY SHIT AND--
+S: 26HA INT. U.S.S. KELVIN - BRIDGE 26HA
+N: BLEEEEEEEEEEEEEEEEEEE... Robau's vitals go dead. PUSH IN ON KIRK as a SCREAMING ALARM IS HEARD --
+C: OFFICER PITTS GEORGE KIRK
+D: They're launching again! Evasive! Evasive! Delta-Five maneuver! Fire full-spread!
+N: 26I OMIT 26I
+S: 26J EXT. SPACE - CONTINUOUS 26J
+N: The Kelvin BANKS as it FIRES WILDLY -- another TORPEDO BLASTING FROM THE NARADA -- it SEPARATES -- some miss, OTHERS HIT!
+S: 26K INT. U.S.S. KELVIN - BRIDGE 26K
+N: Debris FLIES TROUGH THE CEILING, SLAMMING INTO A BRIDGE SUPPORT BEAM! Green COOLANT SPEWS from under the floor grating --
+C: GEORGE KIRK
+D: I'm initiating General Order 13! Set self-destruct for maximum matter- antimatter yield! Two minute countdown!
+C: OFFICER PITTS
+D: Yessir!
+C: GEORGE KIRK
+D: I want auto-pilot targeted for their fuel cells!
+C: TACTICAL OFFICER
+D: Sir, unable to locate the ship's power source!
+C: GEORGE KIRK
+D: Then just target the damn thing dead center!
+C: HELMSMAN
+D: We got bigger problems: the first hit destroyed auto-pilot!
+E: MORE
+C: 26K CONTINUED: 26K HELMSMAN
+D: The only way we're gonna ram that ship is to fly manual control!
+E: CONT'D
+N: TIGHT ON GEORGE as this lands. More honorable than terrified:
+C: GEORGE KIRK
+D: -- then I'll do it myself -- get to the shuttles, now! THAT'S AN ORDER! GO!
+E: no one moves until:
+N: Agony in the faces as they reluctantly hurry off -- Kirk takes the Captain's chair, hits the COMLINK:
+C: GEORGE KIRK
+D: All decks, this is the Captain speaking -- evacuate the ship immediately, get to your designated shuttle crafts --
+E: CONT'D
+S: 26L INT. U.S.S. KELVIN - MEDICAL BAY - CONTINUOUS 26L
+N: MOVE FAST around Winona, in fucking labor now -- being transferred onto a wheelchair by the Doctor and Nurse--
+C: GEORGE KIRK WINONA
+D: -- repeat: evacuate ship and get to designated shuttles -- that's George's voice -- NOW! what's happening?
+E: V.O.
+C: NURSE
+D: We're packing it up -- you'll deliver in the shuttle!
+N: -- and she's on the move, out the door as her COMMUNICATOR SOUNDS -- she answers --
+C: WINONA
+D: -- George!
+S: 26M INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS 26M
+N: Alone now on the bridge, piloting this massive craft by himself - - George talks to Winona from the Captain's chair --
+C: GEORGE KIRK
+D: I have medical shuttle 37 standing by, get to it now -- can you do that?
+C: WINONA
+D: Yes -- where are you?
+N: HOLD ON GEORGE for a moment as he hesitates -- his eyes glued to the screens as he pilots -- 26M CONTINUED: 26M
+C: GEORGE KIRK
+D: I'm on my way.
+C: WINONA
+D: Good-- and George, it's coming-- our baby, it's coming now.
+N: PUSH IN on him, his heart shattering -- having to out-maneuver incoming torpedoes, piloting the ship to its doom -- still, he forces optimism:
+C: GEORGE KIRK
+D: I'll see you in a minute, sweetheart.
+N: He disconnects -- another ALARM -- he TURNS the ship, FIRES --
+S: 26MA EXT. U.S.S. KELVIN - CONTINUOUS 26MA
+N: The Kelvin BANKS AGAIN -- its PHOTONS SLAMMING INTO THE ONCOMING NARADA TORPEDOES, JUST AVOIDING IMPACT!
+S: 26N INT. U.S.S. KELVIN - SHUTTLE BAYS - CONTINUOUS 26N
+N: CREW MEMBERS scramble to their shuttles as the ship TREMBLES -- and we find WINONA among them, being PUSHED through the madness.
+S: 26P INT. MED-EVAC SHUTTLE - CONTINUOUS 26P
+N: The Med-Team ARRIVES with Winona in the wheelchair-- it's CHAOS - - and for Winona, a huge contraction --
+C: WINONA
+D: -- Agh! That was-- that was a big one!
+N: -- as they put her into the shuttle bed:
+C: NURSE
+D: Just keep breathing, Honey, you're gonna be just fine--
+C: WINONA
+D: -- the baby, too, right?
+E: through the pain
+C: NURSE
+D: -- the baby too.
+S: 26R INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS 26R
+N: As George Kirk pilots, he checks the monitors -- one reads the COUNTDOWN TO SELF-DESTRUCT (180 SECONDS, 179 SECONDS, 178 SECONDS...) and another reads IMPACT PROXIMITY (36,054 METERS, 36,042, 36018...). 26R CONTINUED: 26R Another screen that shows stats of DEPARTING SHUTTLES -- more leaving as we glance at the screen -- but SHUTTLE 34 REMAINS DOCKED -- The NARADA is GROWING in the viewscreen -- he hits the comlink:
+C: GEORGE KIRK
+D: Captain to shuttle 37 -- is my wife on board?
+T: INTERCUT WITH:
+N: 26S OMIT 26S
+S: 26T INT. MED-EVAC SHUTTLE - CONTINUOUS 26T
+N: The PILOT is readying the controls --
+C: SHUTTLE PILOT
+D: Yessir, she is--
+C: GEORGE KIRK
+D: I need you to go now, d'you hear me?
+C: SHUTTLE PILOT
+D: We're waiting for you, Sir--
+C: GEORGE KIRK
+D: No-- go, take off, immediately.
+C: SHUTTLE PILOT
+D: ... yessir!
+N: Shuttle Pilot works the controls -- and Winona, in the back, feels the shuttle SHUDDER --
+C: WINONA
+D: Wait! We can't go, my husband isn't here yet! Please! STOP--!
+N: -- but she's suddenly WINCING as another CONTRACTION hits --
+C: NURSE
+D: You'll need to push now-- are you ready?
+S: 26U EXT. U.S.S. KELVIN - SHUTTLE BAY - CONTINUOUS 26U
+N: Clamps holding the shuttle SLAM BACK, the MED-SHUTTLE DROPS HARD, FUSION IMPULSE ENGINES IGNITE and the shuttle MOVES -- 26V OMIT 26V
+S: 26W INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS 26W
+N: George hits COMLINK -- a TONE -- then WINONA'S VOICE:
+C: WINONA
+D: The shuttle's leaving-- where are you?
+N: As George EVADES ENEMY FIRE, heading for the massive alien ship:
+C: GEORGE KIRK
+D: My love? Listen carefully, okay?
+T: INTERCUT WITH:
+S: 26X INT. MED-EVAC SHUTTLE - CONTINUOUS 26X
+N: Winona, holding her communicator --
+C: WINONA
+D: -- we're about to have this baby --
+C: GEORGE KIRK
+D: Sweetheart... I'm not going to be able to be there.
+N: And she just stares -- realizing what's happening -- that he's been made Captain -- that there was an evacuation -- and somehow she just KNOWS. Tears come to her eyes --
+C: WINONA
+D: -- no-- no, no-- wait--
+C: GEORGE KIRK WINONA
+D: I want you to hear me. Please. Are you still on the ship? No- -- There's no other way-- my - no, you need to be here-- love-- you know all I want-- -- George, I can't do this all I want in the world is to without you-- be with you-- -- please -- don't d--!
+E: crying now
+N: -- but she's WINCING AGAIN --
+C: DOCTOR
+D: Okay-- you need to push.
+N: -- and she does -- the shuttle BANKS and --
+S: 26Y EXT. U.S.S. KELVIN - CORRIDORS 26Y
+N: -- and the shuttle LEAVES the Kelvin bay -- turning to join DOZENS of other shuttles, all heading off in escape --
+S: 26Z INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS 26Z
+N: As George PILOTS, DODGING INCOMING -- we INTERCUT WITH:
+S: 26ZA INT. MED-EVAC SHUTTLE - CONTINUOUS 26ZA
+N: Winona PUSHING -- giving birth to their baby -- and we're BACK AND FORTH between a husband and wife that will never see each other again, MUSIC SWELLING as the Kelvin TURNS HARD, avoiding TORPEDOES -- the shuttle BANKING as the Doctor and Nurse help Winona -- and we're ON GEORGE as he HEARS A BABY CRYING -- and TEARS COME TO HIS EYES -- as he says--
+C: GEORGE KIRK
+D: Hey! Hey, so what is it?
+C: WINONA'S VOICE
+D: -- it's a boy.
+C: GEORGE KIRK
+D: It's a boy? Yeah?
+N: And now we see Winona, handed this beautiful little boy. And she cries, just looking at him --
+C: GEORGE KIRK
+D: Tell me... tell me about him-- please--
+E: CONT'D
+C: WINONA
+D: He's-- he's beautiful, he looks like you.
+N: Heartsick, George laughs -- glances at the MONITORS -- SELF- DESTRUCT COUNTDOWN IS AT T-MINUS 20 SECONDS -- oh God...
+C: WINONA
+D: George, you should be here --
+E: CONT'D
+C: GEORGE KIRK
+D: I know-- so what should we call him, huh?
+C: WINONA
+D: We could name him after your father.
+C: GEORGE KIRK
+D: Tiberius? Are you kidding me? No, that's the worst-- we'll name him after your dad-- let's call him Jim.
+C: WINONA
+D: ... Jim. Jim it is.
+N: Through the VIEWSCREEN -- he's ABOUT TO HIT -- the ship ANGLES within the enormous Narada blades -- George scared now -- 26ZA CONTINUED: 26ZA
+C: GEORGE KIRK WINONA
+D: Sweetheart? Sweetheart? I love you. Can you hear me? -- yes-- yes, I hear you... -- I love you. I love y--
+T: -- his VOICE CUT OFF as --
+N: 27-37 OMIT 27-37
+S: EXT. NARADA - CONTINUOUS
+N: -- the Kelvin SLAMS INTO THE NARADA -- an EXPLOSION BEGINS and--
+S: 38A INT. MED-EVAC SHUTTLE - CONTINUOUS 38A
+N: George's voice goes STATIC -- confusion washes over her face -- suddenly LIT BY A BRIGHT GLOW -- she looks over, with wet devastated eyes -- -- what she sees is the MASSIVE EXPLOSION -- quickly SUCKED AWAY in the vacuum of space -- and she's CRYING -- holding her new baby who just lost a father -- his life altered forever... OMIT
+S: EXT. STARFIELD - ETERNAL NIGHT
+N: The shuttle SAILS AWAY with the others... HOLD ON THIS... for a long beat. Then PAN OVER to see NERO'S SHIP TUMBLING SILENTLY THROUGH SPACE -- DEBRIS still raining from the explosion --
+S: INT. NARADA - BRIDGE - CONTINUOUS
+N: MAYHEM: ALARMS and CREW work to stabilize the ship (OVERLAPPING ROMULAN DIALOG TO BE WRITTEN) -- we arrive at Nero, who, with small specks of HUMAN BLOOD on his face, just STARES at the fucking HOLOGRAM OF SPOCK -- he's OBSESSED. Ayel works a monitor, yelling out something (in Romulan) to one of their men -- and as a result:
+S: EXT. NARADA - CONTINUOUS
+N: Gargantuan "BLADES" EXTEND from the ship like otherworldly SAILS -- and the ship begins to STEADY -- but then ANOTHER SHIP APPEARS -- DECLOAKING FROM NOTHINGNESS: a fucking KLINGON VESSEL -- then ANOTHER -- AND ANOTHER --
+S: INT. NARADA - BRIDGE - CONTINUOUS
+N: And we're on Ayel as he witnesses, on his monitor, ships, popping up ALL AROUND THEM -- which is when they HEAR a VOICE -- speaking KLINGON -- and we SUBTITLE:
+C: KLINGON VOICE
+D: Trespassing vessel: you have entered the jurisdiction of the Klingon Empire. Power down and prepare to be boarded or you will be destroyed.
+E: P.A.
+N: Eyes wide, Ayel turns to Nero, still staring at Spock's image:
+C: AYEL
+D: Commander Nero -- we're surrounded.
+E: SUBTITLED, in Romulan
+N: Finally Nero looks up.
+C: AYEL
+D: Sir-- what are your orders?
+E: CONT'D SUBTITLED, in Romulan
+N: And we PUSH IN ON NERO as our MUSIC BUILDS, then we CUT TO: OMIT
+S: INT. VULCAN LEARNING CENTER - DAY
+N: CLOSE ON a young VULCAN BOY. 11 years old. SPOCK. He's standing in an abstract space -- IMAGES PROJECTED and HOVERING -- questions -- that he's answering as they appear, then disappear:
+C: COMPUTER VOICE SPOCK
+D: What is the square root of 2,396,304? -- one-thousand-five-hundered- forty-eight -- -- Correct. What is the central assumption of Quantum -- everything that can happen Cosmology? does happen, in equal and parallel universes -- -- Correct. Identify the 20th century earth composers of the following musical progression: -- Paul McCartney and John Lennon. -- Correct
+N: And we find ANOTHER VULCAN CHILD -- then ANOTHER -- all in these odd spaces -- until we PULL BACK WIDE to reveal a large Vulcan LEARNING CENTER -- white "bowls", sunk into the dark ground, where PROFESSORS walk, hands behind their backs, surveying this mass "mental martial arts" test. We're on ANOTHER VULCAN CHILD as she gets an answer wrong -- AND THE LIGHT OVER HER BOWL GOES OUT. Then ANOTHER CHILD -- who gets an answer wrong -- and HIS LIGHT GOES OUT. An EXTREMELY WIDE OVERHEAD SHOT reveals BOWL AFTER BOWL as the LIGHTS GO OUT. Until only one bowl remains. Spock's. He finishes his last question. Gets it right. PUSH IN ON HIM as the COMPUTER SAYS:
+C: COMPUTER VOICE
+D: Your score is one-hundred percent. Congratulations. Spock.
+N: Off his face, we CUT TO MOMENTS LATER, as Spock collects his things. As he does, three young VULCAN BULLIES walk up behind him. Spock glances at them, then back to his things.
+C: YOUNG SPOCK
+D: I presume you've prepared new insults for today.
+N: VULCAN BULLY #1 Your mother lies with many men. Spock just NODS. Tries to ignore the fact that IT STINGS.
+C: YOUNG SPOCK
+D: I have no such information.
+N: VULCAN BULLY #2 You are neither human, nor Vulcan -- and therefore, have no place in the universe.
+C: YOUNG SPOCK
+D: This is your thirty-fifth attempt to elicit an emotional response from me. Logic dictates you would cease by now.
+E: swallowing that too
+N: VULCAN BULLY #1 Look. He has human eyes. They look sad, don't they? VULCAN BULLY #2 Perhaps an emotional response requires physical stimuli. And Bully #2 PUSHES Spock -- who stumbles back, almost falling into one of the bowls. He looks up as: VULCAN BULLY #2 (CONT'D) He's a traitor, you know. Your father. For marrying her. Spock stares -- we see him fighting the urge, but he's unable -- AND HE CHARGES THE BULLY AND TACKLES HIM INTO THE BOWL! They land inside -- Spock cries, flailing as he punches Bully #2! The other two stand atop the bowl, stunned -- shocked -- unsure what the hell to do -- and we CUT TO:
+S: INT. LEARNING CENTER - CORRIDOR - LATER
+N: TIGHT ON Spock, chastened, sitting glumly on a bench. A massive VULCAN CITY seen through the window behind him. His parents ARGUE at a distance down the hall:
+C: AMANDA SAREK
+D: -- where I'm from, when someone hits you, you hit back- - how is that not logical? -- Spock had no reasonable -- They pick on him -- they expectation of being tease him -- every day. physically injured -- -- Which is precisely when reason must guide his actions -- I want him to embrace above all. Vulcan, you know that... but he has to be himself-- which means, occasionally, being -- His "humanity" is very the human. source of his ostracism. -- When Vulcans get disgusted with each other, they never just walk away, do they? -- No. -- Well humans do.
+N: And Amanda walks away, leaving Sarek standing there. He turns -- sees his son down the corridor. Approaches. And we're PUSHING IN on Spock, studying the fear in his eyes. His father stops in front of him, looming there, looking down stoically:
+C: YOUNG SPOCK
+D: I did not mean to create conflict between you and mother.
+N: After a beat, Sarek seems to soften a little. No anger in his face. Takes a seat beside his son...
+C: SAREK
+D: In marriage... conflict is...
+C: YOUNG SPOCK
+D: ... constant?
+C: SAREK
+D: Natural. Emotions run deep within our race. In many ways, more deeply than in humans. Long ago, they nearly destroyed us... that is why we followed the teachings of Surak. Now you must choose.
+E: a beat
+C: YOUNG SPOCK
+D: ... between you and mother?
+C: SAREK
+D: Never, my son. But you may choose the ethic of logic. Logic offers a serenity humans seldom experience. The control of feelings... so that they do not control you.
+C: YOUNG SPOCK
+D: They called you a traitor. You suggest that I should be completely Vulcan... and yet you married a human... why?
+E: then
+N: Sarek is clearly conflicted by this. But he holds steady:
+C: SAREK
+D: As Ambassador to Earth, my duty is to observe and understand human behavior. Marrying your mother... was logical. Spock. You are fully capable of choosing your own destiny. The question you are faced with... is which path you will take. This is something only you can decide.
+E: Spock seems disquieted
+S: EXT. IOWA FARMHOUSE - DAY
+N: BAM -- a door opens: 14 year-old GEORGE KIRK, JR. angrily exits the house, carrying a duffel. His angrier, redneckier UNCLE FRANK following. 11 year-old JIM KIRK nervously pursues them:
+C: UNCLE FRANK
+D: Go ahead: go-- run away! You know I could give a damn!
+C: YOUNG KIRK
+D: -- wait-- no! Where are you going?
+C: GEORGE JR.
+D: Anywhere but here, far as I can get!
+C: UNCLE FRANK
+D: Which won't be far enough -- know what your problem is?! No one ever taught you respect! How to follow orders! Do as you're told! -- what the hell are you doing?
+E: big luggie spit to Jim
+C: YOUNG KIRK
+D: I-- I just don't want my brother to go.
+C: UNCLE FRANK
+D: Well I do-- and I asked you to wash the car! How many damn times do I need to repeat myself?! How many damn times? How many?
+N: A glare to George and Frank walks off. Jim nervously follows his brother, pulling out a small, FLOATING DISC --
+C: YOUNG KIRK
+D: Please stay-- you can have my Flo-Yo!
+N: George hits it away:
+C: GEORGE JR.
+D: This isn't about toys, it's Uncle Frank. I can't take him anymore -- Mom has no idea what he's like when she's not here-- d'you hear him talking like he's our dad?! And that's not even his car you're washing! That was Dad's car! You know why you're washing it? Because he's gonna sell it!
+C: JIM
+D: Don't leave -- okay? We can tell Mom when she gets back from Africa.
+C: GEORGE JR.
+D: She's gone for five more months, by then I'll be in a different system. You're gonna be okay. You always are. Always doing everything right -- good grades and obeying every stupid order... I can't be a Kirk in this house. Show me how to do that and I'll stay.
+E: sees fear in Kirk then
+N: But Jim can offer nothing. George gives him a quick hug and walks off. Jim sadly watches his brother go.
+S: 47A EXT. IOWA FARMHOUSE - DAY 47A
+N: Kirk washes a VINTAGE CORVETTE. Red, white top. Dumping the sponge in bucket, he's sadly cleaning, his mind spinning over his brother's departure. Devastated. And he's wiping the soapy passenger window (SQEEEEEEAK!) with the sponge, when he STOPS -- seeing the KEYS in the ignition. PUSH IN ON HIS FACE as a devilish idea comes to his mind. PRE- LAP A LOUD SCREECH and we CUT TO: 48-49 OMIT 48-49
+S: EXT. IOWA FARMHOUSE - DAY - LATER
+N: THE CORVETTE BLASTS ONTO SCREEN, FISHTAILING ONTO THE ROAD, young Jim Kirk behind the wheel (NOTE: The SOUND of the engine is a metallic WHIR -- not a gas engine). TIGHT ON JIM'S FACE as he drives -- having never done this before, he's as nervous as he is determined --
+S: 50A EXT. IOWA ROAD - DAY - LATER 50A
+N: The CORVETTE SPEEDS -- while inside the car, Jim turns on the updated, modified RADIO -- scans stations, momentarily losing control of the car -- but he's back on track as he finds a HARD ROCK SONG -- and HE'S STARTING TO FUCKING LOVE IT -- PILOTING SOMETHING THIS FAST FEELS GOOD. He reaches for a CONVERTIBLE ROOF latch -- then the other -- but with the speed he's driving, THE ROOF RIPS RIGHT OFF THE FUCKING CAR -- Jim glances back, wide-eyed -- and the roof TUMBLES through the air, landing on the road -- and we PUSH AND ARC AROUND, as a POLICE OFFICER runs out from taking a roadside PISS -- he races back, jumps on his HOVERCRUISER and TAKES OFF -- SPEEDING AFTER HIM, SIREN BLARING! BACK IN THE CORVETTE -- BLOOPBLOOP!!! -- Jim's eyes dart to the REARVIEW as the cruiser WEAVES behind him -- then PULLS UP BESIDE HIM -- the COP sees a CHILD driving and is AMAZED -- he calls through his PA:
+C: COP
+D: Son, you pull over that car!
+N: But Jim just BLASTS the RADIO LOUDER:
+C: JIM
+D: I CAN'T HEAR YOU!
+S: EXT. IOWA ROAD - CONTINUOUS
+N: George, bag over shoulder, thumb out. He turns at the SOUND of the SIREN -- sees what's approaching... that car... looks... familiar... and the THE CORVETTE SHOOTS PAST HIM, JIM AT THE WHEEL -- then the POLICE HOVERCRUISER! George runs into the middle of the road, mouth agape --
+C: GEORGE JR.
+D: -- no... way.
+N: Back at the Corvette, Jim YANKS the steering wheel TOWARD THE COP -- who RISES to avoid the Corvette, which SCREECHES onto a perpendicular DIRT ROAD, kicking up wild dust as the Cop ARCS QUICKLY to follow -- Jim is now officially LOVING THIS -- and he DRIVES THROUGH a FENCE -- CRASH! The Cop RACES through it, in the Corvette's DUST -- and we PUSH IN on a SIGN that reads "DANGER - QUARRY AHEAD -- IOWA MINING CO." In fact --
+S: EXT. QUARRY - CONTINUOUS
+N: We see the MASSIVE QUARRY -- hundreds of feet deep -- and TILT UP to the Corvette and Cop speeding toward it --
+S: INT. CORVETTE - MOVING - CONTINUOUS
+N: KIRK, EYES INTENSE, ALMOST SUICIDAL -- this is where he's been headed all along -- and for a moment we think holy shit -- this is how James Kirk dies. He speeds toward the edge -- CLOSER -- CLOSER -- but at the last second, Kirk SLAMS the brake -- the car SKIDS -- PIVOTS -- and he LEAPS FROM THE CAR, WHICH SAILS SIDEWAYS OFF THE CLIFF EDGE -- FALLING... falling... the COP comes to QUICK a STOP in CLOUDS of DUST as the Corvette EXPLODES ON THE QUARRY FLOOR -- The angry Cop hops off his hovercruiser, hand on weapon, as Jim Kirk, out of breath, exhilarated, gets to his knees.
+C: COP
+D: What's your name, son?
+N: And as he stands, we PUSH IN on him -- LOW and WIDE -- damn if that kid doesn't have a swagger. It's like the first time he's ever stood in his life.
+C: JIM
+D: My name's Kirk. James Tiberius Kirk.
+N: And as our MUSIC BUILDS we CUT TO:
+S: EXT. RURA PENTHE- MINING QUARRY - NIGHT [FORMER OMIT]
+N: CONSTANT SHOCKS OF LIGHT as an ALIEN PRISONER -- intelligent, bi- pedal, but with FOUR TERRIFIED EYES -- is SLAMMED DOWN onto the wet pavement -- a CHOKE STICK SHOVED under his chin -- then: VOICES. Brutal, guttural KLINGON --
+C: KLINGON GUARD
+D: You say they are not yours...
+E: O.S. SUBTITLED
+N: WHIP PAN TO SEE the scary KLINGON GUARDS -- four of them -- standing above the Alien -- chilling MASKS hide their hideous faces -- and one holds a FLUORESCENT SET OF PAGES --
+C: KLINGON GUARD
+D: ... these Federation maps we found in your pockets.
+E: CONT'D
+N: And the ALIEN SPEAKS -- an UNKNOWN LANGUAGE -- all eyes wild:
+C: ALIEN
+D: I speak the truth. I do.
+E: SUBTITLED
+C: KLINGON GUARD
+D: Then who are they for?
+N: But the Alien just SHAKES HIS HEAD, afraid -- he will not talk. So they GRAB HIM AND YANK HIM UPWARD --
+C: KLINGON GUARD
+D: You would rather die then tell us?
+E: CONT'D
+N: PUSH IN TIGHT as the Alien finally WHISPERS, terrified:
+C: ALIEN
+D: ... NERO!!!
+N: And the Guards look at each other... seemingly with concern... MOMENTS LATER EIGHT GUARDS WALK TOGETHER -- and we PAN WITH THEM to reveal the HORRIFYING EXPANSE THAT IS THE KLINGON PRISON YARD. We realize that the constant shocks of light was LIGHTNING, that apparently never stops here. A SUPER READS: "RURA PENTHE - KLINGON PRISON ASTEROID". And we see they're heading for a MUSCULAR FIGURE, using a SLEDGE HAMMER, SPLITTING ROCKS, lit brilliantly by the lightning strikes. BOOM UP to find that it's NERO. And he stops, SENSING the coming Guards. And he manages a small smile. And he QUICKLY TURNS to them -- THEY ALL STOP, SUDDENLY. Afraid of him. One of them tosses Nero a set of MANACLES. Nero picks them up. Puts them on. And offers his cuffed hands, willingly.
+S: 54A INT. RURA PENTHE - HOLDING BLOCK - NIGHT [FORMER SC. 64B] 54A
+N: Guards drag Nero through the massive pyramidal structure...
+S: 54B INT. RURA PENTHE - INTERROGATION CELL - NIGHT [FORMER SC. 64C] 54B
+N: Nero's ARMS AND LEGS get STRAPPED IN TIGHT. Go WIDE to reveal he's pinned to an interrogation table -- three GUARDS. A KLINGON INTERROGATOR approaches; looms over Nero, studying the Romulan's face with clinical detachment...
+C: KLINGON INTERROGATOR
+D: I have come far to meet you. "The One Who Does Not Speak." Ten years is a long time to maintain silence. Perhaps you simply do not speak Klingon, just as I do not speak Romulan.
+E: SUBTITLED KLINGON beat MORE
+C: 54B CONTINUED: 54B KLINGON INTERROGATOR
+D: But I assume we both speak the language of our common enemy.
+E: CONT'D ENGLISH now
+N: (NOTE: FROM NOW ON, OUR NON-ENGLISH SPEAKERS WILL SPEAK ENGLISH, UNLESS OTHERWISE NOTED.) He reveals a worn LEATHER JOURNAL. Opens it, flips through it almost casually... we see SKETCHES of the JELLYFISH SHIP, PAGES OF COMPLICATED MATH EQUATIONS...
+C: KLINGON INTERROGATOR
+D: We found this book in your cell. Cartography, mathematics-- what do these mean? This date here -- eleven years from now-- what happens then? (holds up the
+E: CONT'D
+C: FLUORESCENT MAPS)
+D: And why attempt to smuggle in maps of Federation space?
+N: Nero's face betrays nothing; no fear, no doubt. Cold as fucking ice. The Interrogator happens to stare at a page in the book: A DRAWING OF SPOCK. He closes the book.
+C: KLINGON INTERROGATOR
+D: When you were captured we assumed you were a spy, sent from Romulus to surveil the Empire. But because the Romulans deny your existence, I believe you are much more than that.
+E: CONT'D
+N: Interrogator looks over to the Guards, nods. A Guard approaches with some kind of GLASS CONTAINER; we HEAR something wet FLIP- FLOPPING around inside, but we can't SEE what it is.
+C: KLINGON INTERROGATOR
+D: Your ship remains in orbit above us now. We've been asking for its secrets for too long. That is why I am here. We want to know how it works and I believe now, finally... you will tell us.
+E: CONT'D
+N: A Guard uses TONGS to pull out the most DISGUSTING creature you've seen from the container: a SLUG with SUCKERS and spikes, covered in a grimy muck -- it FLIP FLOPS.
+C: KLINGON INTERROGATOR
+D: Centaurian slugs. Their native planet is in constant sunlight. As a result, there's nothing they hate more... than darkness.
+E: CONT'D
+N: A Guard GRABS NERO'S HEAD and FORCES IT BACK; the second PRIES HIS MOUTH OPEN with his hands. 54B CONTINUED: (2) 54B Another Guard SHOVES THE THING INTO NERO'S MOUTH -- Nero keeps his eyes open -- furiously determined not to be broken -- as they FORCE HIM TO SWALLOW IT -- he DOESN'T SCREAM as the wretched thing makes its way down his esophagus and into his stomach --
+C: KLINGON INTERROGATOR
+D: They try to claw and bite their way out of any dark space they're in.
+E: CONT'D
+N: Nero stares at the ceiling in HORRIFYING INTERNAL PAIN -- but straining to block it out. PUSH DOWN on Nero's wide, crazed eyes -- TIGHTER as we SLOWLY DISSOLVE TO SEE WHAT HE'S SEEING -- WHAT'S KEEPING HIM FROM LOSING HIS MIND -- DREAMLIKE, ETHEREAL IMAGES OF A WOMAN -- HER BEAUTIFUL, SMILING FACE -- SHE'S ROMULAN -- LOOKING AT US, EYES FULL OF LOVE -- AND SHE TURNS AND WE SEE SHE'S PREGNANT -- AND AS OUR MUSIC BUILDS, WE CUT TO: 55-56 OMIT 55-56
+S: INT. VULCAN SCIENCE ACADEMY - COUNCIL ANTE-CHAMBER - DAY
+N: Quiet. A waiting area. AMANDA, Spock's mother, stands alone in a passageway. She looks off-camera to her son:
+C: AMANDA
+D: Spock, come here, let me see you.
+C: SPOCK
+D: No.
+E: O.S. beat
+C: AMANDA
+D: Spock.
+N: Reluctantly, Spock walks into frame. She begins adjusting his collar. This is our ADULT SPOCK. Gripped by anxiety but trying like hell to look impassive.
+C: AMANDA
+D: There is no need to be so anxious. You'll do fine.
+E: CONT'D
+C: SPOCK
+D: I am hardly "anxious", mother. And "fine" has variable definitions. "Fine" is unacceptable.
+E: beat, then, anxiously
+N: She just smiles as she works his collar. He sees this and it annoys him. He tries to move her hands away, to stop with his collar -- his annoyance, her love for him, all sweet-- but he doesn't let go of her hands. A meaningful silence between them.
+C: SPOCK
+D: May I ask a personal query?
+E: CONT'D
+C: AMANDA
+D: ... anything.
+C: SPOCK
+D: Should I choose to complete the Vulcan discipline of Kolinahr... and purge all emotion... I trust you will not feel it reflects judgement upon you.
+N: She stares at him, moved. Touches his face.
+C: AMANDA
+D: As always... whoever you choose to be... you will have a proud mother.
+N: HOLD on mother and son, worlds apart but forever bonded:
+S: INT. VULCAN SCIENCE ACADEMY - COUNCIL CHAMBER - DAY
+N: An imposing yet BEAUTIFUL INDOOR ATRIUM. Spock stands before the VULCAN HIGH COUNCIL. Among faces on the dais: his FATHER, seated beside the SCIENCE MINISTER and other VULCAN LEADERS.
+C: SCIENCE MINISTER
+D: You have surpassed the expectations of your instructors. Your final record is flawless. With one exception. I see you have applied to Starfleet as well.
+C: SPOCK
+D: It was logical to cultivate multiple options.
+C: SCIENCE MINISTER
+D: Logical but unnecessary. You are hereby accepted to the Vulcan Science Academy. A distinction all the more significant given that you will be its first half- human pupil. It is truly remarkable, Spock. That you have achieved so much despite your disadvantage. Welcome to the Academy.
+N: They all start to rise. But Spock is suddenly unsettled:
+C: SPOCK
+D: If you would clarify, Minister-- what "disadvantage" are you referring to?
+C: SCIENCE MINISTER
+D: ... your human mother.
+N: As the council disperses, we PUSH IN on Spock's face -- the same look he had when he took punches as a kid. He glances at his father to say something, but Sarek's the consummate diplomat. His eyes command: remain calm. Spock STRUGGLES... then makes the first spontaneous -- human -- decision of his life --
+C: SPOCK
+D: Council -- ministers. I must decline.
+N: Everyone STOPS. A solid BEAT. Confused looks turn cold:
+C: SCIENCE MINISTER
+D: No Vulcan has ever declined admission to this academy.
+C: SPOCK
+D: Then as I am half-human, your record remains untarnished.
+C: SAREK SPOCK
+D: Spock. You have made a commitment to honor the Vulcan At the moment, Father, I can way-- think of no greater way to honor our race than to attend Starfleet as its first Vulcan.
+C: SCIENCE MINISTER
+D: Why did you come before this council today? Was it to satisfy your emotional need to rebel?
+C: SPOCK
+D: I came with the intention of enrolling, as my father wished. However, your "insight" has convinced me otherwise. Therefore, the only emotion I wish to convey is gratitude. Thank you, Ministers, for your consideration. Live long and prosper.
+E: a contained "fuck you"
+N: He looks to his father, whose disappointment is evident -- still, God bless him, Spock walks out --
+S: EXT. "THE WARP TRAIL" BAR - IOWA - NIGHT
+N: -- PUSH DOWN A HALLWAY -- MUSIC HEARD -- what seems like a PARTY is going on through windows in the double-doors ahead -- and a WOMAN SWOOPS INTO VIEW in front of us -- we PUSH BEHIND HER in the short skirt and high boots as she ENTERS the place -- a local, busy BAR -- the woman makes her way to the BAR, and we see her GORGEOUS, DIGNIFIED FACE. THIS IS UHURA. She leans into the bartender warmly, her smile glorious:
+C: UHURA
+D: Hi. I'd like a Klabnian Fire Tea, two Cardassian Sunrises and three Earth beers, no slim-shots, anything on draft.
+C: VOICE
+D: That's a lot of drinks for one woman. Wearing those boots.
+E: O.S.
+N: JAMES KIRK'S FACE leans in: at 22, he's charming, witty, dangerous, rebellious. He grins at her, flirty. Uhura gives him a look, then back to the bartender:
+C: UHURA
+D: And a shot of Jack, straight up.
+C: KIRK
+D: Make it two -- her shot's on me.
+E: to the bartender
+C: UHURA
+D: Her shot's on her. Thanks but no thanks.
+C: KIRK
+D: Don't you want my name before you completely reject me?
+C: UHURA
+D: I'm good without it.
+N: Damn, he likes her already.
+C: KIRK
+D: You are good without it. It's Jim. Jim Kirk. If you don't tell me your name, I'm gonna have to make one up.
+E: long beat
+C: UHURA
+D: Uhura.
+E: beat
+C: KIRK
+D: Uhura? No way -- that's the name I was gonna make up for you. Uhura what?
+C: UHURA
+D: Just Uhura.
+C: KIRK
+D: They don't have last names in your world?
+C: UHURA
+D: Uhura is my last name.
+C: KIRK
+D: They don't have first names in your world? Wait, let me guess. Is it "Jim"?
+N: That makes her smile. So he moves closer to her:
+C: KIRK
+D: Okay, so you're a cadet. Studying. What's your focus?
+E: CONT'D
+C: UHURA
+D: Xenolinguistics. Lemme guess: you don't know what that means.
+C: KIRK
+D: Let me guess: study of Alien languages: phonology, morphology, syntax-- it means you've got a talented tongue.
+C: UHURA
+D: And for a moment I thought you were just a dumb hick who only has sex with farm animals.
+C: KIRK
+D: Well. Not only.
+C: UHURA
+D: You think you're smart.
+C: KIRK
+D: Oh, baby, I'm the smartest.
+N: Something sad in that. A BURLY STARFLEET CADET appears.
+C: BURLY CADET
+D: This guy bothering you?
+C: UHURA
+D: Beyond belief, but nothing I can't handle.
+C: KIRK
+D: You could handle me. That's an invitation.
+N: The Burly Cadet spins Kirk around:
+C: BURLY CADET
+D: Hey. You mind your manners.
+C: KIRK
+D: At ease, Cup Cake, it was a joke. Like your hairline.
+N: Uhura turns back. The other cadets, seeing trouble, approach.
+C: UHURA
+D: Hey -- Jim: enough.
+C: BURLY CADET
+D: What was that?
+C: KIRK
+D: You heard me, Moon Beam.
+C: BURLY CADET
+D: You know how to count farm boy? There's five of us... and one of you.
+C: KIRK
+D: Okay, so go get some more guys, come back and it'll be an even fight.
+N: The cadet swings his fist but Kirk HEADBUTTS HIS HAND, BREAKING IT -- another Cadet PUNCHES KIRK, then THROWS HIM into a table, which Kirk FLIES OVER, landing hard -- another Cadet GRABS HIM, pulls him up -- Kirk SLAMS FIVE FAST PUNCHES that send the Cadet back -- when ANOTHER CADET PUNCHES HIM -- yet another HOLDS KIRK -- and that last punch is repeated THREE-- then FOUR times --
+C: UHURA
+D: Enough! STOP!
+N: Another punch and Kirk FLIES TO THE FLOOR - he's out of it, but won't give up. The Cadets UNLEASH on him and really PUMMEL HIM - - and Kirk's spirited, but LOSING -- about to LOSE BAD -- when an EAR-SPLITTING WHISTLE makes everything STOP -- they turn -- standing in the doorway is a tall, rugged Starfleet officer -- CAPTAIN CHRISTOPHER PIKE.
+C: PIKE
+D: Outside, all of you! NOW!
+N: The cadets file out, in for it. Pike moves to a dazed, semi- conscious Kirk, now upside down on a table.
+C: PIKE
+D: Y'alright, Son?
+E: CONT'D
+C: KIRK
+D: You can... whistle really loud, y'know that?
+N: -- and Kirk PASSES OUT. OMIT
+S: INT. "WARP TRAIL BAR" - NIGHT
+N: HIGH WIDE OVERHEAD SHOT of the almost-closed bar. Only Kirk and Pike sit here at a table. Kirk's bloodied, tissue in his nose.
+C: PIKE
+D: I couldn't believe when the bartender told me who you are.
+C: KIRK
+D: ... and who am I, Captain Pike?
+C: PIKE
+D: Your father's son. For my dissertation, I was assigned the U.S.S. Kelvin. Something I admired about your dad... he didn't believe in no-win scenarios.
+E: then, smiles
+C: KIRK
+D: He sure learned his lesson.
+C: PIKE
+D: Depends on how you define winning. You're here, aren't you? That instinct to leap without looking-- that was his nature, too. And in my opinion it's something Starfleet has lost. We're admirable, respectable. But overly-disciplined. Those cadets you took on, they'll make competent officers -- but you can bet your ass they'll run home to momma the minute they're looking down the barrel of a Klingon phaser cannon.
+E: off Kirk's look beat
+C: KIRK
+D: -- why are you talking to me?
+C: PIKE
+D: I looked up your file while you were drooling on the floor. Your aptitude tests were off the charts-- what is it, d'you like being the only Genius Level repeat-offender in the midwest?
+C: KIRK
+D: Maybe I love it.
+C: PIKE
+D: So your daddy dies... you can settle for a less-than-ordinary life. Or do you feel like you're meant for something better? Something special?
+E: beat
+N: And that just hangs there for a beat. Because Pike just hit a nerve. Kirk does his best not to show it -- still absent- mindedly fiddling with STARFLEET SHIP SALT AND PEPPER SHAKERS.
+C: KIRK
+D: Come to think of it, I do want to feel special. You know what? I'm gonna go start a book club--
+C: PIKE
+D: Enlist in Starfleet.
+C: KIRK
+D: Enlist. You must be way down on your recruiting quota for the month--
+C: PIKE
+D: If you're half the man your father was, Jim, Starfleet could use you. You could be an officer in four years, have your own ship in eight.
+N: He's getting under Kirk's skin -- but Kirk keeps up the 'tude, grabs his jacket, stands --
+C: KIRK
+D: We're even, right? I can go.
+C: PIKE
+D: Riverside shipyard. Shuttle for new recruits leaves tomorrow, 0800. Your father was Captain of a Starship. For twelve minutes. I dare you to do better.
+E: Kirk turns, Pike grabs him
+N: Eyes lock... and it's now Pike who stands and walks off. And that's where it hangs. Off Kirk, brooding...
+S: EXT. IOWA PLAINS - SUNRISE
+N: CORN STALKS whipping by -- Kirk on his SPOKELESS MOTORCYCLE rocketing across the plains -- his soul's been stirred and he's fighting it -- he cranks it, ELECTRIC ENGINE SCREAMING --
+S: EXT. STARFLEET CONSTRUCTION YARD - SUNRISE
+N: Kirk pulls up to us, kills the bike. Camera starts to MOVE AROUND HIM -- he's dramatically BACKLIT and we COME AROUND for an INCREDIBLE REVEAL of a SHIPYARD -- at its center, the skeletal frame of a NEW SHIP under arclights. UNMISTAKABLY, THE U.S.S. ENTERPRISE. Unformed, raw, like its future captain. Our MUSIC SWELLS, we PUSH IN ON HIM, considering Pike's offer, his future, his fate.
+S: EXT. STARFLEET SHIPYARD - MORNING
+N: The shipyard is abuzz with activity -- cadets loading into a shuttle -- and Pike, staring off, waiting. The PILOT approaches:
+C: SHUTTLE PILOT
+D: Waiting for something, Cap?
+C: PIKE
+D: ... No. Guess not.
+N: He climbs in. The pilot rapidly flips through switches, running a pre-flight sequence. Pike straps in. Glances through the viewshield... SEES SOMETHING... and he smiles. From his POV: KIRK on his MOTORCYCLE, driving into the shipyard --
+C: PIKE
+D: Hold her a second...
+E: CONT'D
+N: Kirk rides past a WATERFALL of cooling tanks -- stops the bike near the shuttle -- steps off, has nothing -- no bags -- just the clothes on his back.
+C: SHIPYARD WORKER
+D: Nice ride, man.
+N: Kirk kicks the stand, tosses the guy the startcard --
+C: KIRK
+D: Live it up.
+N: Kirk walks past the startled worker and approaches Pike.
+C: KIRK
+D: Four years? I'm gonna do it in three.
+E: CONT'D
+N: Pike grins as Kirk passes him. Inside the shuttle, Kirk moves down rows of new recruits, some of them ALIEN. Passes UHURA and the BARFIGHT CADETS, who PERK UP when they see him -- one has a BANDAGED HAND.
+C: KIRK
+D: At ease, Gentlemen. Never did get that first name.
+E: CONT'D then, to Uhura
+C: UHURA
+D: And you never will.
+E: can't help it: a grin
+N: He smiles as he takes a seat at the back of the shuttle. Straps in as it RISES...
+C: MAN'S VOICE
+D: Are you people deaf? I told you I don't need a doctor, damnit! I AM A DOCTOR!
+N: Kirk turns to see a MAN being forced OUT of the BATHROOM by a FEMALE FLIGHT OFFICER -- at 34, he has a Southern lilt and looks like a prisoner waiting for the guillotine to fall:
+C: FLIGHT OFFICER MAN
+D: -- you need to find a seat -- -- I had one, in the bathroom, Darlin', with no windows -- -- Sir, for your own safety, -- I suffer from Aviaphobia, siddown, or I will MAKE you case you don't understand big sit down... do you hear me? words, it means 'fear of dying RIGHT NOW. in something that flies.'
+N: They GLARE at each other, then the man drops into the seat beside Kirk. The ship TORQUES to one side and the man GRIPS his armrests, pale, sweating -- glances at Kirk:
+C: MAN
+D: I might throw up on you.
+C: KIRK
+D: I think these things're pretty safe--
+C: MAN
+D: Don't pander to me, kid: one tiny crack in the hull and our blood boils in thirteen seconds -- solar flare might crop up, cook us in our seats -- Hell, some of the damn passengers are blue. And wait'll you're sitting pretty with a case of Andorian shingles, see if you're still so relaxed when your eyeballs are bleeding-- space is disease and danger, wrapped in darkness and silence.
+C: KIRK
+D: I hate to break this to you, but Starfleet operates in space.
+C: MAN
+D: Yeah, well my ex-wife took the whole damn planet in the divorce, I got nowhere to go but up. Leonard McCoy.
+C: KIRK
+D: Jim Kirk-- you really gonna throw up--?
+C: MCCOY
+D: Maybe--
+N: As the TREK THEME SOARS, the shuttle ascends and we...
+T: FADE OUT.
+N: OVER BLACK: "THREE YEARS LATER".
+T: FADE IN:
+N: 64A-E OMIT 64A-E
+S: 64F INT. NERO'S CELL - NIGHT 64F
+N: Nero lies on the floor of his cell, semi-conscious, looking like death. Behind him the DOOR OPENS. Two KLINGON GUARDS enter, backlit. KLINGON GUARD #1 The day you've been waiting for is upon us, Silent One. And look. No sign of salvation. No sign of change. Just more pain. And they both lift his limp body up -- as something miraculous happens -- NERO SNAPS TO LIFE AND SINGLE-HANDEDLY BEATS THE SHIT OUT OF THE GUARDS -- TAKING THEM BOTH DOWN IN TEN SECONDS -- in what seems like an instant, he's the only one standing here -- holding both of the Guards' rifles -- which he TWIRLS, badass.
+S: 64G INT. AYEL'S CELL - NIGHT 64G
+N: PUSH IN ON THE DOOR as it opens -- Ayel, chained, looks up, intensely -- and sees that it's NERO who has arrived -- we PUSH IN TIGHT ON HIM as he SPEAKS FOR THE FIRST TIME:
+C: NERO
+D: The wait is over.
+T: Off Ayel, we CUT TO:
+S: 64H EXT. STARFLEET ACADEMY GROUNDS - DAY [FORMER SC. 82] 64H
+N: TILT DOWN from a GLIMMERING BUILDING TO REVEAL a sea of RED CADET UNIFORMS: HUNDREDS OF CADETS head across campus, McCoy and Kirk among them. A miraculous view of San Francisco beneath a blue sky, Golden Gate Bridge piercing the air. Kirk struts:
+C: KIRK
+D: So you'll do it for me, right?
+C: MCCOY
+D: I have no interest.
+C: KIRK
+D: I didn't ask if you have interest, I asked if you'd do it.
+C: MCCOY
+D: I'm about to ask you an obvious question: why bother?
+C: KIRK
+D: Because I've failed the test twice.
+C: MCCOY
+D: And you're determined to make it three. We've all failed it-- everyone has, and that's the point! No one goes back for seconds, let alone thirds -- it's not like you need to pass it to graduate.
+C: KIRK
+D: So Bones: why do they make us take it?
+C: MCCOY
+D: I told you to stop calling me that. You're very annoying.
+C: KIRK
+D: And you're the greatest -- thank you.
+C: MCCOY
+D: You'd better study for it this time.
+C: KIRK
+D: Oh, no-- Bones -- I gotta date.
+N: 64H CONTINUED: 64H
+C: MCCOY
+D: A date? Listen, as smart as you are, which ain't much, if you don't prepare--
+C: KIRK
+D: You have no idea how prepared I'm gonna be-- no idea.
+N: And with a smile, Kirk heads off -- McCoy watches him go, calling after him:
+C: MCCOY
+D: Seriously, stop calling me Bones! "Bones".
+E: to himself, hating it
+N: 65-78 OMIT 65-78
+S: INT. DORM ROOM - NIGHT
+N: In MOONLIGHT, a beautiful WOMAN lies on her back, in some kind of bra, moaning in delight -- this is GAILA --
+C: GAILA
+D: -- oh Jim... Jim... Jim, I love you.
+C: KIRK
+D: ... Yeah. I sent you a message.
+E: kissing her
+N: Gaila reaches over, turns on the light and we realize: SHE'S GREEN. And not particularly happy:
+C: GAILA
+D: I say "I love you", and you say "I sent you a message?"
+C: KIRK GAILA
+D: -- but you can only open it tomorrow at three o'clock on the dot -- -- what are you talking about? What is it? What does it say? -- Gaila, promise me you're not going to open it 'till -- what is it? Tell me what three -- it says!
+N: -- I'll erase it, I swear, if you don't promise me you'll -- All right!! Three o'clock! wait -- I prom-- They're INTERRUPTED by a DOOR OPENING -- GASP!
+C: GAILA
+D: You can't get caught in this dorm-- hide! Under the bed, quick!
+E: CONT'D sotto
+N: Kirk falls, lands hard on the floor, SCRAMBLES under the bed as Gaila's roommate enters -- UHURA. Dropping her backpack:
+C: GAILA
+D: Hey-- I thought you were going to be in the long-range sensor lab all night.
+E: CONT'D
+C: UHURA
+D: I was supposed to be, but it was crazy, I picked up an emergency transmission from a Klingon prison planet -- there was an escape and a ship stolen from th-- ... you okay?
+E: suddenly senses
+C: GAILA
+D: Yeah, been running simulations all week, just catching up on some rest. Tired. That's all.
+E: fake yawn
+N: Uhura watches her. Her eyes narrow.
+C: UHURA
+D: Were you running simulations with the mouth-breather hiding under the bed?
+N: Gaila freezes, caught. Uhura looks down, Kirk PEERS OUT.
+C: KIRK
+D: Your hearing is scary-- you sure both your parents are human?
+C: UHURA
+D: The hell are you doing with him in here?
+C: GAILA JIM
+D: I can't help it! I love him! Gaila loves me--
+C: UHURA
+D: Get outta here -- it's my ass too if administration catches you in this dorm.
+E: CONT'D
+C: KIRK
+D: You and I have a big day tomorrow --
+E: getting dressed, to Uhura
+C: UHURA
+D: You're gonna fail.
+E: pushing him out
+C: KIRK
+D: If I pass, will you tell me your first name?
+C: UHURA
+D: No. Good night.
+C: KIRK
+D: I think the fact that you picked up a transmission of a Klingon prison escape is very interesting.
+E: quiet, tries to charm
+N: SHE CLOSES THE DOOR ON HIM and we CUT TO:
+S: EXT. SPACE - NIGHT
+N: The Narada APPEARS through space --
+S: INT. NARADA - BRIDGE - DAY
+N: Dead silence on the bridge... all eyes on the VIEWSCREENS: empty starfield, roiling clouds of methane ice.
+C: AYEL
+D: We have arrived at the coordinates you requested. Stardate confirmed. 2258.5.
+N: Nero stands, looks out through his view screens.
+C: NERO
+D: Standby.
+N: Ayel studies his console, hope in his eyes. Quietly:
+C: AYEL
+D: Captain... long range scans of Beta Quadrant complete. Romulus is there. She's there. We could go. Right now, go home...
+C: NERO
+D: Not yet -- not like this. Not how we left. This is our chance... to serve our people. We owe it to them -- to do what no other Romulan could ever do.
+N: Ayel hides his disappointment behind his eyes as suddenly -- A LIGHTNING STORM -- impossibly, from nowhere -- LOTS OF IT -- and through the lightning erupts THE JELLYFISH -- THE SHIP NERO HAS BEEN LOOKING FOR DECADES.
+C: NERO
+D: Welcome back. Spock.
+E: CONT'D
+N: And we won't know where we are as MUSIC BUILDS and we CUT TO:
+S: 81A INT. U.S.S. TRAINER - BRIDGE - SPACE [FORMER SC. 65] 81A
+N: Uhura TURNS TO US, at her comm station -- PUSH IN on her. She seems wildly BORED and almost RESENTFUL:
+C: UHURA
+D: -- we are receiving a distress signal from the U.S.S. Kobayashi Maru. The ship has lost power and is stranded. Starfleet Command has ordered us to rescue them.
+N: WHIP TO THE COMMAND CHAIR, where KIRK captains the battered bridge. Confident -- cocky:
+C: KIRK
+D: "Starfleet Command has ordered us to rescue them... Captain."
+N: She glares, turns away. Then McCoy, at a console, reports:
+C: MCCOY
+D: Klingon vessels have entered the Neutral Zone. And they are firing upon us.
+C: KIRK
+D: That's okay.
+N: McCoy and Uhura -- and the others -- look at him, confused.
+C: MCCOY
+D: It's okay?
+C: KIRK
+D: Yeah, don't worry about it.
+N: McCoy and Uhura share a look -- that's when we CUT TO:
+S: 81B INT. TESTING CONTROL BOOTH - CONTINUOUS [FORMER SC. 66] 81B
+N: Looking at the bridge from above, we PULL BACK to reveal an observation room above the faux-ship. This is the test Kirk was referring to. CONSOLE TECHNICIANS monitor the proceedings. A TEST ADMINISTRATOR turns to another and asks: 81B CONTINUED: 81B TEST ADMINISTRATOR #1 Did he say "don't worry about it"? TEST ADMINISTRATOR #2 -- what's he doing? And we CONTINUE TO PULL BACK TO REVEAL that, sitting among the technicians, is Gaila. Our resident GREEN GIRL. She checks her watch -- PUSH IN ON IT: 2:59 PM. On her MONITOR awaits a 23rd century e-mail -- a MESSAGE FROM KIRK --
+S: 81C INT. U.S.S. TRAINER - BRIDGE SIMULATOR - DAY [FORMER SC. 67] 81C
+C: MCCOY
+D: Three more Klingon Warbirds decloaking -- and targeting our ship -- I don't suppose this is a problem either?
+C: KIRK
+D: Nah.
+C: WEAPONS OFFICER
+D: They're firing, Captain.
+C: KIRK
+D: Alert medical bay to prepare to receive all crew members from the damaged ship.
+C: UHURA
+D: And how do you expect us to rescue them when we're surrounded by Klingons?
+C: KIRK
+D: Alert medical.
+N: Annoyed, she does as:
+C: MCCOY
+D: Our ship is being hit -- shields at sixty percent.
+C: KIRK
+D: I understand.
+C: MCCOY
+D: Should we at least, I dunno, fire back?
+C: KIRK
+D: Mmmm... no.
+C: MCCOY
+D: Of course not.
+S: 81D INT. TESTING CONTROL BOOTH - CONTINUOUS [FORMER SC. 70] 81D
+N: CLOSE ON GAILA'S WATCH as it changes to 3:00 -- and she opens Jim's message -- and all it reads is, "I'M SORRY." And just then something UPLOADS and EXECUTES and ALL THE SCREENS IN HERE AND ON THE BRIDGE DIE -- THE SYSTEM CRASHES -- everyone reacts -- TEST ADMINISTRATOR #1 -- the hell's happening?!
+S: 81E INT. U.S.S. TRAINER - BRIDGE SIMULATOR - CONTINUOUS [FRMR. 71] 81E
+N: The crew doesn't know what's up -- except Kirk, who is remarkably pleased -- when the LIGHTS AND MONITORS COME BACK ON, things are not the same:
+C: UHURA
+D: -- the Kobayashi Maru is still in distress... but... the Klingons have stopped firing.
+E: perplexed, works controls
+C: KIRK
+D: Arm photons. Prepare to fire on the Klingon warbirds.
+C: MCCOY
+D: Jim, their shields are up.
+C: KIRK
+D: Are they?
+N: McCoy looks at his monitor. No they're not.
+C: MCCOY
+D: ... no.
+C: KIRK
+D: Fire on all enemy ships -- one photon each should do -- let's not waste ammunition.
+C: WEAPONS OFFICER
+D: Target lock acquired on all warbirds -- firing!
+N: They fire -- AND DESTROY ALL FIVE KLINGON SHIPS INSTANTLY. All mouths here are agape. 81E CONTINUED: 81E
+C: KIRK
+D: Begin rescue of the stranded crew. So. We've eliminated all enemy ships, no one on board was injured and the successful rescue of the Kobayashi Maru crew is underway.
+N: For the first time, Kirk looks up to the testing room windows:
+C: KIRK
+D: Anything else?
+E: CONT'D
+S: 81F INT. TESTING CONTROL BOOTH - CONTINUOUS [FORMER SC. 72] 81F
+N: And they're stunned up here, too -- Test Administrator #2 turns to someone OFF-CAMERA: TEST ADMINISTRATOR #2 How the hell'd that kid beat your test? REVEAL who he was talking to: SPOCK is here. And not happy.
+C: SPOCK
+D: ... I do not know.
+N: OMIT
+S: INT. ACADEMY COUNCIL CHAMBERS - DAY
+N: TIGHT ON a stern STARFLEET ACADEMY PRESIDENT:
+C: ACADEMY PRESIDENT
+D: James T. Kirk. Step forward.
+N: It's a huge Starfleet chamber. Golden Gate Bridge visible through huge windows. 500 cadets, a nervous KIRK among them. He stands, moves to one of two PODIUMS.
+C: ACADEMY PRESIDENT
+D: An incident has occurred today that concerns the entire student body. Academic immorality by one is an assault on us all. It will. Not. Stand. Cadet Kirk, evidence has been submitted to this council suggesting you violated the ethical code of conduct pursuant to regulation 17.43 of the Starfleet code. Is there anything you care to say before we begin?
+E: CONT'D
+C: KIRK
+D: Yessir. I believe I have the right to face my accuser directly.
+E: uncomfortable beat
+N: President nods toward the assembly. SPOCK RISES. He and Kirk MEET EYES for the first time. It's clock-stopping.
+C: ACADEMY PRESIDENT
+D: Step forward please. This is Commander Spock, one of our most distinguished graduates. He's programmed the Kobayashi Maru test for the last four years.
+N: Spock steps up to the OTHER PODIUM. President nods.
+C: SPOCK
+D: Cadet Kirk. It is obvious you somehow managed to install and activate a sub- routine in the programming code, thereby changing the conditions of the test.
+N: We happen to find GAILA, in the crowd, fucking pissed.
+C: KIRK
+D: Your point being?
+C: ACADEMY PRESIDENT
+D: In academic vernacular, you cheated.
+C: KIRK
+D: Respectfully. Define "cheating".
+C: SPOCK
+D: To deceive by trickery.
+C: KIRK
+D: Now let me ask you something I think we all know the answer to: the test is rigged, isn't it? You programmed it to be unwinnable.
+C: ACADEMY PRESIDENT
+D: Mr. Kirk, I don't see how the intent of the exam is relevant to these proceedings.
+C: KIRK
+D: Because if I'm right, Sir, then the test itself is a cheat.
+C: SPOCK
+D: Your argument precludes the possibility of a no-win scenario --
+C: KIRK
+D: I don't believe in no-win scenarios --
+N: FIND PIKE amongst the officers in attendance. His eyes locked on Kirk. This is his boy. His recruit. And he's INVESTED.
+C: SPOCK
+D: Then not only have you violated the rules, you've failed to understand the principle lesson.
+C: KIRK
+D: Please, enlighten me.
+C: SPOCK
+D: You, of all people should know, Cadet Kirk -- A captain cannot cheat death.
+N: ON KIRK. The first punch by Spock that landed. The cockiness slips away as he senses where this is going --
+C: KIRK
+D: "I of all people?"
+C: SPOCK
+D: Your father, Lieutenant George Kirk, had assumed command of his vessel before killed in action, did he not?
+N: Shit. The DADDY card. Kirk, a mix of ANGER and EMBARRASSMENT --
+C: KIRK
+D: How long did it take you to look that up?
+C: SPOCK
+D: How long did it take you to program the virus that allowed you to cheat?
+N: The President smirks; considers ending this now but doesn't, it's just too damn entertaining...
+C: KIRK
+D: Maybe you just don't like that I beat your test.
+C: SPOCK
+D: I am Vulcan. "Like" is not a verb in our vernacular. I've simply made the logical deduction that you're a liar.
+C: KIRK
+D: What an idiot I am for taking that personally --
+C: SPOCK
+D: Agreed. Furthermore, you have failed to divine the purpose of the test.
+N: 48A
+C: KIRK
+D: Enlighten me again.
+C: SPOCK
+D: The purpose is to experience fear. Fear in the face of certain death. To accept that fear and maintain command of one's self and one's crew. This is a quality expected in every Starfleet captain.
+N: Kirk absorbs that. Then --
+C: KIRK
+D: So you're telling me the point. Of the whole thing. Is to be afraid?
+C: SPOCK
+D: Fear is necessary, yes.
+C: KIRK
+D: Have you taken the test, Commander Spork?
+C: SPOCK
+D: Spock. As a Vulcan, I require no additional training to control my narcissism when making command decisions.
+N: No he DIN'T! Kirk's hit guys for a lot less -- The crowd all but "OOOOOOHs." But Kirk ain't fucking done yet.
+C: KIRK
+D: You keep reminding me that you're Vulcan. And I'm sure you're really proud of that, who wouldn't be-- but isn't it true you people don't experience fear at all?
+N: ON SPOCK. He raises that eyebrow. And Kirk sees... no matter how subtly... that he has fucking made CONTACT. Smelling blood -
+C: KIRK
+D: And if that's the case -- What's that say about your ability to make command decisions?
+E: CONT'D
+N: Well. Looks like Kirk just hit him in HIS fucking weak spot. And before this lovefest can continue -- A REDSHIRT bursts into the HALL -- Kirk turns to look -- they all do -- now we're SPEEDING IN behind the REDSHIRT, who runs to the President, hands him a DATAPAD. President reads it. Everyone watches, on edge -- finally, quietly:
+C: ACADEMY PRESIDENT
+D: We've received a distress call from Vulcan. Cadet Kirk -- you are on academic probation pending the result of your hearing. Cadets, report to Shuttle Hangar One immediately -- this hearing is at recess until further notice -- dismissed.
+E: to all Spock reacts concerned
+N: Everyone's on their feet, MOVING QUICKLY, Kirk suddenly irrelevant. PIKE passes by him, all fucking business, but before he goes --
+C: PIKE
+D: Cheating isn't winning.
+N: And as that settles on Kirk, McCoy now joins him. The two exiting with the rest of the cadets as Kirk eyes SPOCK --
+C: KIRK
+D: Who was that pointy-eared bastard?
+C: MCCOY
+D: I don't know, but I like him.
+S: INT. STARFLEET ACADEMY - HANGAR - CONTINUOUS
+N: DOLLY THROUGH HUNDREDS OF CADETS, racing to their shuttles -- BARRACKS LEADERS stand on platforms, calling out SHIP ASSIGNMENTS -- cadets HURRYING OFF as they're called -- MALE BARRACKS LEADER FEMALE BARRACKS OFFICER Blake! U.S.S. Newton! Jaxa! The U.S.S. Endeavor! Counter! U.S.S. Odyssey! T'nag! The U.S.S. Antares! Fugeman: Regula One! Gerace: Pomoroy! The U.S.S. Oddyssey! U.S.S. Farragut! McGrath! Leifer! U.S.S. Newton! U.S.S. Wolcott! McCoy! Uhura! The U.S.S. Farragut! U.S.S. Enterprise! Welcome to Starfleet and Godspeed! As the last of the cadets head off, Kirk stands there without a home -- he moves to his exiting Barracks Leader --
+C: KIRK
+D: Excuse me, you didn't call my name. Kirk, James T..
+C: BARRACKS LEADER
+D: You're on academic probation. That means you're grounded until the Academy Board rules.
+E: checks his tablet
+N: Kirk is POLEAXED as Leader heads off -- McCoy, needing to run:
+C: MCCOY
+D: ... Jim, the Board'll rule in your favor. Most likely. Look, Jim -- I gotta go --
+E: Kirk is just rocked
+C: KIRK
+D: ... yeah-- yeah, you go... I'm good.
+N: Kirk forces a half-smile. Torn, McCoy hurries off. PULL AWAY from Kirk, alone as the mass of newly-minted cadets criss- crosses around him. At the hangar entrance, McCoy suddenly STOPS: a lightbulb. He quickly returns to Kirk, pulls him off:
+C: MCCOY KIRK
+D: Come with me -- -- what're you doing --?
+N: TRACK with them as they hurry through the throng of cadets -- and suddenly we're moving in the OTHER DIRECTION as a pissed-off Uhura serpentines through the group to SPOCK --
+C: UHURA
+D: Commander, a word?
+N: Spock moves away from the officers, a private moment with her:
+C: SPOCK
+D: Yes, Lieutenant?
+C: UHURA
+D: Was I not one of your top students?
+C: SPOCK
+D: Indeed you were --
+C: UHURA
+D: Did I not receive a Gold rating for Exolinguistic skills, giving Starfleet first place over Kyoto and MIT at the Oxford Invitational?
+N: A LOUD nearby SHUTTLE LEAVES BEHIND THEM -- it gets WINDY --
+C: SPOCK
+D: An exceptional achievement, to be su--
+C: UHURA
+D: -- and did I not, on multiple occasions, demonstrate exceptional aural sensitivity and, I quote, "unparalleled ability to identify sonic anomalies" in subspace transmission tests?!
+C: SPOCK
+D: Consistently, yes--
+C: UHURA
+D: And while you were well aware that my unqualified desire was to serve on the U.S.S. Enterprise, I was assigned to the Farragut.
+N: Spock reacts unusually; he seems almost embarrassed. Quiet.
+C: SPOCK
+D: It was an attempt to avoid the appearance of favoritism.
+N: She gets closer, voice low, all pride and defiance:
+C: UHURA
+D: No. No. I am assigned to the Enterprise.
+N: Their eyes hold. He checks his tablet, makes an change:
+C: SPOCK
+D: Oh. Yes, I believe you are.
+S: INT. SHUTTLE HANGAR MEDICAL BAY - CONTINUOUS
+N: McCoy and Kirk enter fast. McCoy goes through a cabinet, preps a med in a hypospray SYRINGE.
+C: KIRK
+D: What are you doing?
+C: MCCOY
+D: Doing you a favor. I couldn't just leave you there, looking all pitiful-- roll up your sleeve, I'm gonna give you a vaccine against viral infection from Melvaran mud fleas.
+N: McCoy FIRES the Hypospray --
+C: KIRK MCCOY
+D: Ow-- what for? To give you symptoms. -- I don't understand-- -- you're gonna start to lose vision in your left eye -- -- yeah, I already have -- -- don't stand up yet -- (he tries to stand;
+C: WOOZY)
+D: -- what'd you do to me? -- you're gonna get a really bad headache. And flopsweat. -- this is a favor?! -- yeah, you're welcome.
+E: in pain
+N: McCoy ushers Kirk out of the room --
+S: EXT. STARFLEET ACADEMY - HANGAR - CONTINUOUS
+N: McCoy ushers Kirk to a shuttle -- a SCANNING OFFICER stops them:
+C: SCANNING OFFICER
+D: "Kirk, James T." -- he's not cleared for duty aboard the Enterprise --
+C: MCCOY
+D: But I am, and Medical Code states the treatment and transport of a patient's to be determined at the discretion of his attending physician, which is me. You can see he's suffering, he needs me as his doctor, so since I'm assigned to this ship, so's he, or would you like to explain to Captain Pike why the Enterprise warped into a crisis without one of its medical officers?
+E: re: scanner
+C: SCANNING OFFICER
+D: ... as you were.
+C: MCCOY
+D: As you were.
+N: And with that, he pulls Kirk past the speechless officer --
+S: 86A EXT. SAN FRANCISCO - DAY 86A
+N: A fleet of SHUTTLES depart Starfleet -- head out to space --
+S: INT. SHUTTLE - DAY
+N: Kirk, in agony, sweating, sits beside McCoy as they pass through the stratosphere. McCoy's peering out a window --
+C: KIRK
+D: I might throw up on you.
+C: MCCOY
+D: You should look at this.
+N: And through his pain, Kirk does... and is amazed...
+S: INT. STARBASE ONE - SPACE DOCK - CONTINUOUS
+N: The shuttle approaches a massive DOCKING STATION where a dozen STARFLEET VESSELS ARE DOCKED. But the ship we're approaching is miraculous: "U.S.S. ENTERPRISE NCC-1701" IS REVEALED ON THE HULL OF THE FLAGSHIP. THE QUEEN OF THE FLEET IS FULLY CONSTRUCTED AND READY FOR HER MAIDEN VOYAGE. The shuttle glides to the underside of the Enterprise. A DOCKING BAY opens --
+S: INT. ENTERPRISE SHUTTLE BAY WALKWAY - CONTINUOUS
+N: Officers move quickly on the ship -- Kirk and McCoy enter. Kirk WIPING HIS BROW, pretty much SOAKED.
+C: KIRK
+D: Bones. Thanks for getting me on board. But I don't feel right. I feel like I'm leaking.
+C: MCCOY
+D: Oh look, the pointy-eared bastard.
+N: Kirk looks up -- SPOCK moves towards them, not seeing them -- Kirk yanks McCoy out of the way -- Spock passes and enters a TURBOLIFT -- Kirk looks back as the doors close. Then we go INTO THE TURBOLIFT -- for just a moment -- as the doors open and we enter with Spock:
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: Spock walks through the glorious, gleaming new space, taking his position at the SCIENCE CONSOLE. PIKE at the command chair.
+C: SPOCK
+D: Captain, engineering reports "ready for launch".
+C: PIKE
+D: The maiden voyage of our newest flagship deserves more pomp and circumstance than we can afford today, but her christening will have to be our reward for a safe return-- All decks, this is Captain Pike. Prepare for immediate departure. Helm, thrusters.
+E: toggles intercom
+N: WHIP PAN to the helm: HIKARU SULU turns to Pike -- at 25, he's the Federation's best pilot. As he works the controls:
+C: SULU
+D: Moorings retracted, Captain. Dock Control reports ready -- thrusters fired, separating from space dock --
+S: 90A EXT. SPACE DOCK - SPACE [FORMER SC. 92] 90A
+N: The Enterprise moves away from the dock -- smaller SATELLITE crafts floating around it. The other FIVE STARFLEET SHIPS already ahead -- moving into position.
+S: INT. MEDICAL BAY - CONTINUOUS
+N: MEDICAL STAFF preps. McCoy enters with Kirk, in amusing agony -- McCoy helps him onto a bed, prepares another hypospray.
+C: KIRK MCCOY
+D: -- oh, this wasn't worth it -- I wish I didn't know you-- I'm itching in my mouth, this is Here's a short-lasting horrible-- sedative -- those symptoms won't last long, don't be an infant.
+N: And he SHOOTS KIRK with another hypospray -- OMIT
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: As Sulu works the controls --
+C: SULU
+D: The fleet's cleared space dock, Captain. All ships ready for warp.
+C: PIKE
+D: Set course for Vulcan.
+C: SULU
+D: Course laid in.
+C: PIKE
+D: Maximum warp. Punch it.
+N: And Sulu does and --
+S: EXT. STARBASE ONE - CONTINUOUS
+N: The six ships -- ONE, then TWO, then THREE, then FOUR, then FIVE SNAP INTO WARP. The Enterprise, however... just sits there.
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: Pike -- and the others -- look at Sulu, who is confused -- concerned -- searching the controls. Finally:
+C: PIKE
+D: Lieutenant, where's Helmsman McKenna?
+C: SULU
+D: Uh, he has lungworms, Sir? He'll be fine but couldn't report to his post-- I'm Hikaru Sulu --
+C: PIKE
+D: -- and you are a pilot, right?
+E: fucking with him
+C: SULU
+D: Very much so, Sir-- I'm not sure what's... wrong here...
+C: PIKE
+D: Is the parking brake on?
+C: SULU
+D: -- no, I'll figure it out, just--
+E: half-laughs
+C: SPOCK
+D: Have you disengaged the External Inertial Dampener?
+N: Sulu does -- and realizes Spock is right. He makes it work.
+C: SULU
+D: Ready for warp, Sir.
+C: PIKE
+D: The external inertial dampener. That's... the parking brake.
+C: SULU
+D: ... yessir.
+E: essentially
+C: PIKE
+D: Let's punch it!
+E: laughs
+S: 95A EXT. STARBASE ONE - SPACE DOCK - CONTINUOUS 95A
+N: And now alone, the Enterprise SNAPS INTO WARP -- and is gone.
+S: 95B INT./EXT. AMANDA AND SAREK'S HOME - VULCAN - DAY [FRMR SC. 99] 95B
+N: CLOSE ON a small Vulcan object. SHAKING, as if in a small earthquake. BOOM UP to find Amanda as she moves through her home, out to the balcony -- and in the distance, a mile away, is a massive COLUMN OF LIGHT -- like a ray from God, which creates NUKE-LIKE CONCENTRIC CLOUDS and massive DIRT AND DUST, slamming into the ground. Amanda's eyes go wide with terror --
+S: 95C EXT. DRILLING MACHINE - DAY 95C
+N: Looking DOWN towards Vulcan at the gigantic DRILLING PLATFORM, the SOURCE of the PLASMA RAY -- and we TILT UP to see that the platform is HUNG ON A WIDE TETHER -- and we KEEP TILTING UNTIL WE SEE THE TETHER IS ATTACHED TO THE NARADA, in orbit above the planet --
+S: 95D INT. NARADA - BRIDGE - CONTINUOUS 95D
+N: Nero stares at holographic images of Vulcan -- as Ayel arrives behind him.
+C: ROMULAN CREW MEMBER
+D: Captain Nero, drilling has begun.
+C: NERO
+D: Prepare the Red Matter. Tell me when we reach core depth.
+N: Ayel heads off --
+S: 95E INT. NARADA - HANGAR - LATER [FORMERLY SC. 101] 95E
+N: Ayel enters the massive hangar -- where SPOCK'S JELLYFISH SHIP SITS. Ayel moves to, enters the Jellyfish --
+S: 95F INT. JELLY FISH - LATER 95F
+N: Ayel moves into the CONTAINMENT HOLD -- a METALLIC ROOM containing a large, floating RED BALL -- some kind of energy source. Ayel observes TWO ROMULANS EXTRACTING some of this Red Matter, sucking it into a tube --
+S: 95G INT. NARADA - HANGAR - LATER 95G
+N: Workers place the tube of Red Matter into a SPACE POD.
+S: INT. U.S.S. ENTERPRISE - BRIDGE
+N: The journey's underway. The bridge crew monitors systems:
+C: SULU
+D: Engines at Maximum Warp, Captain.
+C: PIKE
+D: Russian whiz kid-- what's your name again? Chanko? Cherpov?
+N: An 18 YEAR-OLD FACE leans into frame. HEAVY RUSSIAN ACCENT:
+C: CHEKOV
+D: Ensign Chekov, Pavel H., Sir.
+C: PIKE
+D: Fine, Chekov, Pavel H.: begin shipwide mission broadcast.
+C: CHEKOV
+D: Yessir, happy to. Ensign authorization code: Nine-Five- Wictor Wictor-Two--
+E: into console
+N: "AUTHORIZATION NOT RECOGNIZED, PLEASE TRY AGAIN." Chekov is a genius, a graduate of the academy at seventeen -- he sighs:
+C: CHEKOV
+D: Aigh, thees is the 23rd Century -- what good is woice recognition that doesn't recognize your woice? Nine-Five-Victor-Victor-Two.
+E: CONT'D again
+N: "ACCESS GRANTED: INTRA-SHIP COMMUNICATION ACTIVE."
+C: CHEKOV ON SCREEN
+D: Your attention, plees: At twenty-two hundred hours, telemetry detected an anomaly in the Neutral Zone. What appeared to be a lightning storm in space.
+S: INT. THE ENTERPRISE - SERIES OF SHOTS - CONTINUOUS
+N: CHEKOV'S FACE appears on monitors throughout the great ship, including ENGINEERING: CRANE DOWN 12 stories of catwalks as engineers tend to the DILITHIUM CRYSTAL CHAMBER that operates the warp drive --
+C: CHEKOV ON SCREEN
+D: Soon after, Starfleet received a distress signal from the Vulcan High Council that their planet was experiencing seismic activity. We then lost contact with Vulcan entirely.
+N: WEAPONS BAY: TRACKING DOWN rows of PHOTON TORPEDOES stacked for war -- WEAPONS OFFICERS arming the cannons. VARIOUS SHOTS of the Crew at work in DIFFERENT SHIP LOCALS.
+C: CHEKOV ON SCREEN
+D: Our mission is to assess the condition of Vulcan and assist in evacuations, if necessary.
+E: CONT'D
+N: MEDICAL BAY: as the med staff sets up a triage area --
+C: CHEKOV ON SCREEN
+D: We should be arriving at Vulcan within two minutes. Thank you for your time.
+E: CONT'D
+N: And as Chekov's message ends, Kirk suddenly SITS UP IN FRAME -- his mind SPINNING, through the pain and sedative -- he tries to get off the bed, to his feet, as McCoy hurries over --
+C: MCCOY
+D: Jim, I told you to stay d-- good God!
+N: What McCoy has just seen -- what we and Kirk see now -- is that KIRK'S HANDS HAVE SWOLLEN TO ALMOST TWO TIMES THEIR NORMAL SIZE.
+C: KIRK
+D: -- what's this?!
+C: MCCOY
+D: -- I don't know-- a reaction to the vaccine -- damnit --
+N: Kirk rushes to the video monitor where Chekov was seen -- using his huge hands, he REWINDS CHEKOV'S SPEECH -- replays this part as McCoy SCANS KIRK WITH A HANDHELD DIAGNOSER --
+C: CHEKOV ON SCREEN
+D: -- telemetry detected an anomaly in the Neutral Zone. What appeared to be a lightning storm in space.
+N: He FREEZES it -- eyes wild -- looks to McCoy --
+C: KIRK
+D: -- Bones -- we have to stop the ship--
+C: MCCOY
+D: -- you're not allergic to Cardassian vole dander, are you?
+C: KIRK
+D: --- what? How the hell would I know? Is Uhura on board?
+N: 58A
+C: MCCOY
+D: You need an antidote, Jim, or you're gonna die.
+S: 97A INT. U.S.S. ENTERPRISE - CORRIDOR 97A
+C: MCCOY
+D: Jim, I'm not kidding, you gotta keep your heart rate down.
+C: KIRK
+D: Computer, locate crew member Uhura --
+C: MCCOY
+D: I haven't seen a reaction this severe since Med school.
+N: A MAP appears -- locates her --
+C: COMPUTER VOICE
+D: Lieutenant Uhura is at signals monitoring station twelve -- deck four.
+C: KIRK
+D: We're flying into a trap.
+N: Kirk RUNS OUT -- McCoy hurrying after him with a bag of gear:
+C: MCCOY
+D: You're delusional, you know that.
+S: INT. SIGNALS MONITORING STATION - CONT.
+N: Kirk and McCoy enter -- Kirk stops, looks around --
+C: MCCOY
+D: Come here -- Jim -- don't move --
+N: And McCoy INJECTS HIM WITH ANOTHER SHOT --
+C: KIRK
+D: -- ow! Stop it!
+N: And Kirk runs into a ENORMOUS SPACE -- giant STEEL COLLECTOR TANKS surround a dozen workstations where CREW MEMBERS collect data -- Kirk races to Uhura --
+C: KIRK
+D: The transmission from the Klingon prison planet -- what exactly did you hear?
+E: CONT'D
+C: UHURA
+D: What are you doing here-- what happened to your hands?!
+N: Kirk hides his hands behind his back -- as he talks it becomes MUFFLED AND SLURRED --
+C: KIRK
+D: Who was it who escaped? What was the ship that was stolen--?! -- what's happening to my mouth?
+E: to McCoy, indiscernible
+C: MCCOY
+D: -- you've got Numb Tongue --
+E: working Hypospray
+C: KIRK
+D: Numb tongue?
+E: impossible to make out
+C: MCCOY
+D: That's not good-- I can fix that--
+N: Kirk grabs a pen with his huge hands and writes -- shows her what he's written: "THE SHIP - WAS IT ROMULAN?" Uhura looks at him -- somehow scared -- as McCoy INJECTS HIM AGAIN:
+C: KIRK
+D: OW, DAMNIT!!! SONOFABITCH!
+S: 98A EXT. VULCAN SURFACE - OUTSIDE SPOCK'S HOME - CONT. [FRMR 112] 98A
+N: EPIC WIDE SHOT: Amanda's a spec against the MASSIVE, EAR- SPLITTING PLASMA TWISTER. The image is almost religious. POP CLOSER to her face -- mesmerized, terrified -- suddenly: a HOVERSPEEDER RACES IN behind her, at the controls is SAREK:
+C: SAREK
+D: AMANDA! WE MUST GET TO THE SHELTER!
+E: SHOUTS against wind
+N: She turns to him in horror -- 99-101 MIT O 99-101
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: Bridge doors WHOOSH OPEN as Kirk RUNS IN, followed by Uhura and a harried McCoy --
+C: KIRK
+D: Captain Pike-- Sir, we have to stop ship!
+C: PIKE MCCOY
+D: -- Mr. Kirk! How the hell did you get on board the This man is under the Enterprise?! influence of a severe reaction to a vaccine. He is delusional and I take full responsibility for --
+C: KIRK
+D: Vulcan isn't experiencing a natural disaster, it's being attacked -- by Romulans.
+E: CONT'D
+N: ON THE CREW as that lands. But most specifically, SPOCK.
+C: PIKE
+D: Cadet Kirk, I think you've had enough attention for one day -- Dr. McCoy, return to medical, we'll have words later.
+C: MCCOY
+D: Yessir.
+N: Rebuked, McCoy exits as:
+C: SPOCK KIRK
+D: As you know, Mr. Kirk is not cleared to be aboard this vessel. By Starfleet Yeah, I get it, you're a regulations, that makes him a great arguer, I'd love to do stowaway... it again with you, too.
+N: I can remove the cadet from -- Try it! This cadet is the bridge, Sir -- trying to save the bridge! -- By recommending a full stop in trans-warp in the midst of a rescue mission? -- It's not a rescue mission-- listen to me! It's an attack! -- Based on what facts? ON KIRK. Enough. And cadet or not, the bridge is HIS.
+C: KIRK
+D: Fact: the same anomaly -- a lighting storm in space -- that we saw today also occurred on the day of my birth, before a Romulan ship attacked the U.S.S. Kelvin. You know that, I read your dissertation. Which was good.
+E: to Pike MORE
+C: KIRK
+D: Fact: This ship -- which had formidable and advanced weaponry -- was never seen or heard from again -- fact: the Kelvin attack took place on the edge of Klingon space and at 11-hundred hours last night there was an escape from a Klingon prison planet -- Rura Penthe -- fact: the escaped prisoners were Romulans, Sir, and it was reported that they stole a ship from the prison dock.
+E: CONT'D
+C: PIKE
+D: And you know of this prison escape how?
+N: Kirk just points to Uhura.
+C: UHURA
+D: Sir, I-- I intercepted and translated the message myself. Kirk's report is accurate.
+C: KIRK
+D: We're warping into a trap-- there are Romulans waiting for us, I promise you that.
+N: All eyes on Pike. He looks to Spock, who could screw Kirk here... But--
+C: SPOCK
+D: The cadet's logic is sound. And Lieutenant Uhura is unmatched in xenolinguistics, we would be wise to accept her conclusion.
+E: then
+C: PIKE
+D: Scan Vulcan space, check if any transmissions are being made in Romulan.
+E: to Comm Officer
+C: COMMUNICATIONS OFFICER
+D: Sir, I'm-- not sure I could distinguish the Romulan language from Vulcan.
+C: PIKE
+D: How about you -- you speak Romulan, Cadet...?
+E: to Uhura
+C: UHURA
+D: Uhura, Sir. All three dialects.
+C: PIKE
+D: Uhura, relieve the Lieutenant -- Mr. Hannity, hail the U.S.S. Truman.
+N: Uhura sits at the console -- she PUTS ON THE EARPIECE. We've just watched the birth of an icon. She works the controls --
+C: HANNITY
+D: The other ships are out of warp and have arrived at Vulcan, Sir-- but we seem to have lost all contact--
+C: UHURA
+D: Captain, I pick up no Romulan transmissions -- or transmissions of any kind in the area. There seems to be something jamming all communication around Vulcan.
+C: KIRK
+D: It's because they're being attacked. Captain. Please.
+C: PIKE
+D: Shields up. Ready all weapons.
+E: long, tense beat
+N: LIGHTS GO RED. HOLD ON THE FACES of our people -- AFRAID, HEARTS POUNDING as they dread what they're about to see --
+C: SULU
+D: Arrival at Vulcan in five seconds! Four... three... two--
+N: SUDDENLY, AS THE ENTERPRISE DROPS OUT OF WARP, THE FLAMING HULL OF A STARFLEET SHIP COMES BARRELING RIGHT AT THE BRIDGE!
+C: CAPTAIN PIKE SULU
+D: EMERGENCY EVASIVE! ON IT, SIR!
+N: Sulu DIPS the Enterprise FAST AND HARD and the spinning debris JUST SCARS the ship. The bridge shakes, but rights itself. THE CREW SEES THE NARADA FLOATING ABOVE THE PLANET -- THEIR EYES GO WIDE AT THE MONUMENTAL SHIP -- meanwhile, inside: 103-6 OMIT 103-6
+S: INT. THE NARADA - CONTINUOUS
+N: A PROXIMITY ALARM rings out --
+C: ROMULAN FIRST OFFICER
+D: Sir, another Federation ship!
+C: NERO
+D: Destroy it, too.
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: Spock snaps to Pike as images FLASH on his console --
+C: SPOCK
+D: Captain, they're locking torpedoes!
+C: PIKE
+D: Full reverse, come about Starboard ninety degrees! Drop us down underneath them! Prepare to fire all weapons!
+S: EXT. SPACE - ABOVE VULCAN - CONTINUOUS
+N: The Narada FIRES A TORPEDO and in a wild move, the Enterprise DROPS AND TUMBLES -- the SEPARATING TORPEDO passes RIGHT BETWEEN THE ENTERPRISE'S NACELLES -- ONE PIECE HITS our hero ship's DEFLECTOR DISH -- another the MAIN DISH and --
+S: INT./EXT. ENTERPRISE - ENGINEERING - CONTINUOUS
+N: A CREW MEMBER runs through the machine room catwalks as a HUGE EXPLOSION sends him -- and large steel tanks -- TUMBLING INTO SPACE -- We see the ship from a distance -- the scale of the destruction relatively small --
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+C: SULU
+D: Shields at thirty-two percent! Their weapons are powerful, Sir, we can't take another hit like that!
+C: PIKE
+D: Get me Starfleet Command!
+N: (CONT'D)
+C: SPOCK
+D: Captain, the Romulan ship has lowered some kind of high energy pulse device into the Vulcan atmosphere-- its signal appears to be blocking our communications and transporter abilities!
+N: 64A
+C: PIKE
+D: All power to forward shields -- prepare to fire all weapons!
+S: 111A INT. ENTERPRISE - WEAPONS BAY - CONTINUOUS 111A
+N: Photons LOADED fast by CREW MEMBERS and -- OMIT
+S: EXT. SPACE - CONTINUOUS
+N: The Enterprise SWOOPS AROUND, firing photons at the Narada which takes the hits in stride --
+S: INT. NARADA - BRIDGE - CONTINUOUS
+N: The bridge in action --
+C: ROMULAN TACTICAL OFFICER
+D: Fire torpedoes, take them out--!
+N: And just before our heroes are blown into oblivion, Nero suddenly LURCHES FORWARD and stabs out a hand:
+C: NERO
+D: WAIT!!!
+N: Nero's eyes are hard and bright as diamond drills:
+C: NERO
+D: The hull -- magnify --
+E: CONT'D
+N: On screen, the Enterprise's hull is revealed "U.S.S. ENTERPRISE NCC-1701." Nero LIGHTS UP with recognition --
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: Pike on the comm:
+C: PIKE
+D: Divert auxiliary power from port nacelle to the shields--!
+N: But Pike stops when he sees, on the viewscreen
+C: UHURA
+D: Captain, we're being hailed!
+N: Pike looks over -- nods -- Uhura works controls and on viewscreen, Nero appears. Cool. Cordial. In English:
+C: NERO
+D: Hello.
+C: PIKE
+D: I am Captain Christopher Pike, to whom am I speaking?
+C: NERO
+D: I am called Nero.
+N: CLOSE ON KIRK -- breathless -- suddenly staring at the man who murdered his father -- holy SHIT...
+C: PIKE
+D: You've declared war against the Federation. Withdraw, and I'll agree to arrange a conference with Romulan leadership at a neutral loca--
+C: NERO
+D: I do not speak for the Empire. We stand apart. As does your Vulcan crew member... isn't that right? Spock?
+N: All eyes on Spock. Spock looks to Pike, who nods permission:
+C: SPOCK
+D: Pardon me. But I don't believe you and I are acquainted.
+E: to Nero
+C: NERO
+D: ... no, we're not. Not yet. I would like you to see something. Spock. Captain Pike-- your transporter capability is disabled. You will man a shuttle and come aboard the Narada for negotiations. That is all.
+E: then then
+N: The transmission ENDS. The crew stares in grave anticipation --
+C: KIRK SPOCK
+D: -- he'll kill you, you know that-- Your survival is unlikely-- -- Captain, we gain nothing by diplomacy-- going over to that -- I, too, suggest you rethink ship is a mistake. this strategy.
+C: PIKE
+D: I understand that -- I need officers who have been trained in advanced hand-to-hand combat!
+E: loud, to the bridge
+N: Sulu's hand goes up --
+C: SULU
+D: I have training, Sir!
+C: PIKE
+D: Then come with me -- Kirk, you too-- you're not supposed to be here anyway. Radio the engine room, have Chief Engineer Olsen meet us at Shuttle Bay Five.
+E: to Chekov
+C: CHEKOV
+D: Aye, Keptin.
+C: PIKE
+D: Let's go.
+N: Bridge doors WHOOSH open -- they EXIT. OMIT
+S: INT. ENTERPRISE - CORRIDORS - CONTINUOUS
+N: WE TRACK FAST with Pike, Kirk, Spock and Sulu as they HURRY through the Enterprise toward the shuttle bay:
+C: PIKE
+D: Without transporters, we can't beam off the ship, can't assist Vulcan, can't do our job. I'm creating an opportunity: Mr. Kirk, Mr. Sulu and Mr. Olson will space-jump from the shuttle. You'll have chutes -- you'll land on that machine they've lowered into the atmosphere that's scrambling our gear-- you'll get inside, disable that thing then beam back to the ship.
+N: Kirk and Sulu share a HOLY FUCKING SHIT look --
+C: KIRK
+D: ... okay.
+C: PIKE
+D: Mr. Spock, I'm leaving you in command of the ship. Once we have transport capability and communications back up, you'll contact Starfleet and report what the hell's happening here.
+E: MORE
+C: PIKE
+D: Something you've got only precious few minutes to figure out. If all else fails, fall back and rendezvous with the fleet in the Laurentian System. Kirk. I'm promoting you to First Officer.
+E: CONT'D Spock is freaked, then
+C: KIRK SPOCK
+D: What!?! -- Captain?
+C: PIKE
+D: While I'm gone we need to keep the chain of command. And you two make a swell team.
+E: CONT'D
+C: SPOCK
+D: Captain. Please. I apologize, but the complexities of human pranks escape me.
+C: PIKE
+D: It's not a prank, Spock. And I'm not the Captain. You are.
+N: And with that, he's DONE. Strides off. Kirk finally shakes off the shock of his PROMOTION --
+C: KIRK
+D: Once we knock out that machine... Sir, what happens to you?
+C: PIKE
+D: I guess you'll have to come get me. Careful with the ship. She's brand new.
+E: turns; to Spock
+N: They appreciate the pure BALLS of that. BRAVERY washes over them -- they'd fucking DIE for their Captain, who now turns to Kirk and Sulu --
+C: PIKE
+D: Suit up, Gentlemen.
+E: CONT'D
+S: EXT. CITY OF VULCANA REGAR - CONTINUOUS
+N: Sarek's hovercraft speeds along the desert floor, arriving at a massive CAVE OPENING -- he and Amanda hurry off the craft -- into the cave -- 68A
+S: 118A INT. U.S.S. ENTERPRISE - BRIDGE - CONT. [FORMERLY SC. 116] 118A
+N: Bridge doors WHOOSH open -- all eyes on Spock as he enters -- their new captain. With cold certainty, he takes the command chair, hits the intercom:
+C: SPOCK
+D: Dr. Puri, report --
+S: 118B INT. MEDICAL BAY - CONTINUOUS 118B
+N: CHAOS, UTTER AND COMPLETE. WOUNDED MEN AND WOMEN, it's bad, bloody -- a HAND hits an intercom: McCoy, badly shaken --
+C: MCCOY
+D: It's McCoy-- Dr. Puri was on Deck 6, he's dead.
+C: SPOCK
+D: Then you have just inherited his responsibility as Chief Medical Officer.
+E: beat
+C: MCCOY
+D: Aye, Sir.
+S: INT. ENTERPRISE - SHUTTLE BAY - CONTINUOUS
+N: QUICK CUTS: Kirk, Sulu, and the ship's LEAD ENGINEER OLSON are suiting up for the drop, strapping on sleek AIRDROP ARMOR. WEB BELTS. CHUTE PACKS. HARNESSES. HELMETS. COM-SETS.
+S: 119A INT. SHUTTLE - CONTINUOUS 119A
+N: They race into the shuttle and take seats facing each other across a narrow aisle -- Red Shirt Engineer GRINS like he's going on a ski trip:
+C: RED SHIRT ENGINEER
+D: I am pumped to kick some Romulan ass! No joke. BRING IT ON!
+N: Kirk nods at him -- subtext: "What a fucking sack." He looks to Sulu.
+C: KIRK
+D: So what kinda combat training d'you have?
+C: SULU
+D: Fencing.
+E: proudly
+C: KIRK
+D: ... fencing.
+E: unimpressed, beat
+N: In the COCKPIT, Pike works the controls -- MOTORS WHINE and the craft LURCHES --
+S: 119B INT. ENTERPRISE SHUTTLE HANGAR - NIGHT 119B
+N: We see the shuttle LEAVE THE DOCK --
+S: EXT. IN ORBIT ABOVE VULCAN - CONTINUOUS
+N: The shuttle soars from the Enterprise bay, the planet Vulcan a red orb below... THRUSTERS FLARE as it descends and now we REVEAL AN INCREDIBLE SIGHT: THE NARADA: FROM ITS BELLY, TENTACLE CABLES DESCEND TOWARD THE PLANET'S OUTER ATMOSPHERE, WHERE THE PLASMA DRILL SUB-STATION IS TETHERED: THE SOURCE OF THE DRILL BEAM SHOOTING INTO THE PLANET. The shuttle GLIDES to a hover, 60,000 FEET ABOVE THE DRILL --
+S: INT. SHUTTLE - CONTINUOUS
+N: A KLAXON SOUNDS, signalling depressurization of the cargo lock -- the guys ready their equipment, snatching for handstraps, standing on the lip of THE AIRLOCK -- Kirk and Sulu meet eyes through their helmet faceplates, the point of no return -- PIKE'S VOICE over their headsets:
+C: PIKE
+D: Pre-jump on one: Three, two, one.
+E: V.O.
+N: KIRK, SULU, AND RED SHIRT ARE SLAMMED HARD INTO THE ROOF OF THE CARGO HOLD AS GRAVITY DIES.
+C: PIKE
+D: Good luck.
+E: CONT'D
+N: Pike hits another control -- as the shuttle BOMB BAY DOORS OPEN - - and KIRK, SULU, AND RED SHIRT ARE INSTANTLY PULLED OUT, INTO:
+S: EXT. ABOVE VULCAN - CONTINUOUS
+N: THE THREE MEN IN VIOLENT FREEFALL TOWARD THE PLANET -- IN WILD SPIN -- THE SENSE OF SPEED'S BEYOND EXHILARATING -- ROCKETING THROUGH THE VOID AT 150 MPH AS THEY BREAK THROUGH THE PLANET'S ATMOSPHERE -- SHAKING VIOLENTLY AT TERMINAL VELOCITY --
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: The falling trio TRACKED ON SCREEN, everyone watches, agape:
+C: CHEKOV
+D: Away team's entering the atmosphere --
+N: SPOCK and UHURA meet eyes -- this is fucking insane -- and a MAN'S ENTHUSIASTIC YELLING takes us to:
+S: EXT. VULCAN'S ATMOSPHERE -- CONTINUOUS
+C: OLSON
+D: WHOOOAAAHYYYEAAAAH!
+N: ONE BY ONE THEY STABILIZE -- FALLING FACE DOWN -- STRAIGHT PAST THE CABLE TENTACLES TETHERING THE DRILL TO THE NARADA WHICH GIVE US A SENSE OF INCREDIBLE RELATIVE SPEED AND SCALE -- THESE MASSIVE CABLES AT DIZZYING SPEED -- THEY ANGLE THEIR HANDS AND FEET FOR CONTROL, GUIDING THEMSELVES TOWARD THE PLASMA DRILL -- SULU PULLS HIS CHUTE FIRST, THEN KIRK -- their chutes SNAP OPEN -- JERKING THEM HARD UPWARD AS THE RED SHIRT BLOWS PAST KIRK AND SULU --
+C: KIRK
+D: OLSON, PULL NOW, NOW!!!
+N: HE DEPLOYS HIS CHUTE LAST -- 50 FT -- 40 -- 30 AND HIS CHUTE BILLOWS OUT, OPENED TOO LATE -- OLSEN'S FUCKING BODY SLAMS INTO THE EDGE OF THE CIRCULAR DRILL, BOUNCING OFF HARD STEEL AND RIGHT INTO ITS CENTER WHERE THE SWIRLING VORTEX SPINS -- HE'S INSTANTLY EVISCERATED IN THE PLASMA LIGHT! Kirk approaches -- more terrified than ever -- he comes in hard, too -- SLAMS against the drill edge, bounces but quickly gets his footing -- hits a button on his chute and SLITS appear in the fabric, suddenly there's no more drag and THE CHUTE AUTO- RETRACTS into Kirk's pack -- A REUSABLE PARACHUTE. BUT SULU ISN'T SO LUCKY: 20 yards from the drill surface his chute gets SNARED IN THE CABLES, JERKING him upside down -- the WIND is so intense Sulu is BLOWN SIDEWAYS -- his CHUTE LINES begin RUBBING on the sharp metal of the suspension rig! Kirk holds on to one of the chute's cables -- yells up:
+C: KIRK
+D: I'M COMING FOR YOU!
+E: CONT'D
+N: As Kirk tries to climb up, Sulu's cables begin to SNAP! ONE BY ONE -- and Sulu tries to CLIMB BACK using his chute cables, toward the rig -- otherwise he's gonna fly off. As Kirk makes his way up the rig, suddenly:
+C: SULU
+D: BEHIND YOU!!
+N: Kirk SPINS just as a Romulan appears -- tackling Kirk to the drill platform! The two FIGHT PRECARIOUSLY ON THE EDGE OF THE SWIRLING PLASMA DRILL, WIND ROARING -- and suddenly there's ANOTHER ROMULAN from an OPEN HATCH! SULU SLIDES DOWN THE CABLE - - JUMPING and tackling the second guard and the shit is ON: our Starfleet heroes battling these Romulans to the death -- and Sulu KICKS OFF AN ANTENNA PIECE and uses it as a SABER -- fucking swashbuckling at 10,000 feet! It's a frenzied assault even the bigger Romulan isn't ready for, and Sulu manages to KICK him into the vortex, where he's VAPORIZED as -- KIRK draws his PHASER and point-blank SHOOTS the Romulan, knocking him clear OFF the cylinder and into the sky, falling to his death, DISINTEGRATING as he falls -- Against pummeling wind, Kirk and Sulu move toward the HATCH -- OPEN IT -- as: OMIT
+S: INT. NARADA - HANGAR
+N: Pike's SHUTTLE DOOR OPENS. Pike steps out. Surrounded by a dozen of Nero's men. Ayel steps forward. Pike stands firm, knowing this is the end for him:
+C: PIKE
+D: I'm Captain Christopher Pi--
+N: WHACK! He's cut off by a PUNCH to the face. Drops to his knees. Looks up at Ayel with blazing eyes, wipes a trickle of blood from his lip:
+C: PIKE
+D: So much for diplomacy.
+E: CONT'D
+N: He's DRAGGED AWAY as --
+S: INT. PLASMA DRILL CYLINDER - CONTINUOUS
+N: Kirk and Sulu DROP IN through the outer hatch to find a control console, Sulu madly flips switches, no luck --
+C: SULU
+D: None of this is familiar-- the interface, the controls--
+C: KIRK SULU
+D: Step back-- -- what, you have an idea? -- yeahyeah, I do--
+N: Kirk FIRES his PHASER at the console, BLASTING IT --
+S: EXT. PLASMA DRILL - CONTINUOUS
+N: The immense column of light DISAPPEARS, leaving only a towering, swirling vortex of DIRT --
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: Uhura's console LIGHTS UP with activity:
+C: UHURA
+D: The jamming signal's gone -- communications are re-established --
+C: CHEKOV
+D: Transporter control re-engaged --
+N: Spock looks up from his console, grave --
+C: SPOCK
+D: Chekov, run gravitational sensors -- I want to know what they're doing to the planet.
+C: CHEKOV
+D: Aye, Commander-- Keptin, sorry. Keptin.
+S: INT. NARADA - BRIDGE - CONTINUOUS
+N: A Romulan Helmsman RUNS to Nero --
+C: ROMULAN HELMSMAN
+D: The drill's been sabotaged, Sir.
+N: Nero, mind racing --
+C: NERO
+D: Launch the red matter. Now.
+S: EXT. NARADA - SPACE
+N: The POD we saw earlier is FIRED from the ship -- it WHIPS past.
+S: EXT. PLASMA DRILL CYLINDER - CONTINUOUS
+N: Kirk and Sulu pull themselves from the control cockpit back out onto the drill's outer hull, they start to hear a SOUND... A HIGH-PITCHED SHRIEK... GETTING LOUDER AS IT FALLS TOWARD THEM... THEY LOOK UP JUST IN TIME TO SEE: THE RED MATTER POD RIP RIGHT PAST THEM -- SNAP-TILT DOWN WITH IT AS IT PLUMMETS TOWARD VULCAN'S SURFACE, DISAPPEARING INTO THE DRILLED GAPING HOLE -- And for an instant... nothing. What looks like a puff of smoke billowing up from the planet's core... THEN A SHOCKWAVE BLASTS UPWARD, ALL THE WAY UP TO THE DRILL AT 10,000 FEET -- KIRK AND SULU FEEL IT -- LOSE THEIR BALANCE, FIGHT FOR PURCHASE AS:
+C: KIRK
+D: Kirk to Enterprise -- they just launched something toward the planet!
+S: EXT. VULCAN SURFACE - CONTINUOUS
+N: SCENES OF DESTRUCTION ACROSS THE PLANET AS IT STARTS TO COME APART: HUGE FISSURES FORM IN THE DESERT TERRAIN -- CRACKS SPREAD -- MOUNTAINS CRUMBLE -- PLATES SHIFTING, LAVA SPEWING SKYWARD -- THE HEAT AND CONCUSSIVE BLAST SHAKE THE CAMERA TO A BLUR --
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: WARNING ALARMS SCREAM:
+C: CHEKOV
+D: Keptin: gravitational sensors are off the scale -- if my calculations are correct, that pod they launched is creating a singularity... that will consume the planet.
+S: SPOCK'S STOIC FACE. WE GET ONLY A HINT OF THE WILD EMOTIONS
+N: STIRRING INSIDE HIM -- Uhura watches Spock, heartsick for him:
+C: SPOCK
+D: They're creating a black hole... at the center of Vulcan?
+C: CHEKOV
+D: ... yessir.
+C: SPOCK
+D: How long does the planet have?
+C: CHEKOV
+D: ... minutes, Sir. I'd say minutes.
+C: SPOCK
+D: Alert Vulcan Command Center to signal a planetwide evacuation-- all channels, all frequencies -- maintain standard orbit --
+E: beat, to Uhura
+C: UHURA
+D: What? Spock, wait --
+N: She goes after him as he moves to the TURBOLIFT --
+C: UHURA
+D: -- where are you going?
+E: CONT'D
+C: SPOCK
+D: To evacuate the Vulcan High Council-- they're tasked with protecting our cultural history. My parents will be among them--
+C: UHURA
+D: -- you can't beam them out?
+C: SPOCK
+D: It's not possible -- they'll be in the Katrik Arc, I must get them myself--
+N: TURBOLIFT DOORS CLOSE AS --
+S: INT. NARADA - BRIDGE - CONTINUOUS
+N: HOLOGRAMS of VULCAN UNDER DESTRUCTION -- Nero watching them, pleased. He turns to Ayel --
+C: NERO
+D: Retract the drill, let's move out!
+S: 135A EXT. NARADA 135A
+N: The drill platform LURCHES -- begins RETRACTING --
+S: EXT. PLASMA DRILL CYLINDER - CONTINUOUS
+N: The platform BANKS -- Sulu FALLS BACK, OFF THE PLATFORM -- WITHOUT A CHUTE! Kirk, holding on, watching this wide-eyed -- and knowing what he must do, he RUNS AND JUMPS -- KIRK FALLS FAST, he's only gonna have one shot at this, presses his arms to his sides and ROCKETS downward, building speed, four hundred feet below is Sulu, FREEFALLING -- KIRK moves his feet and hands, angling toward him -- slashing downward at 160 mph, closing like a missile -- the gap between them narrows -- Sulu's 30 feet below him... 5000 feet to the planet surface. 40 ft -- 20 -- 10 -- WHAM! Kirk slams into Sulu in a mid-air tackle -- they TUMBLE TOGETHER -- Kirk's made the grab and locked his arms around Sulu in an iron grip, screams in his face:
+C: KIRK
+D: I GOTCHA! NOW PULL MY CHUTE!
+N: Sulu DOES -- it opens -- but HOLY FUCK, the double weight RIPS IT -- IT SNAPS AWAY FROM THEM -- NOW THEY'RE BOTH FREE-FALLING WITH NO CHUTE, THE GROUND COMING AT THEM FAST!
+C: KIRK
+D: ENTERPRISE, WE'RE FALLING WITHOUT A CHUTE!!! BEAM US UP!!! BEAM US UP!!!
+E: CONT'D
+S: 136A INT. ENTERPRISE - TRANSPORTER BAY 136A
+N: The TRANSPORTER CHIEF works his controls, sweating -- trying to LOCK ON TO THEIR MOVING TARGET --
+C: TRANSPORTER CHIEF
+D: I'm trying! I can't lock on your signal!
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: SNAP AROUND as Chekov hears this -- watching his controls -- Uhura watching too --
+C: TRANSPORTER CHIEF
+D: -- you're moving too fast!
+E: V.O.
+C: CHEVOK
+D: -- no-- I can do that-- I CAN DO THAT!!!
+N: Chekov suddenly BOLTS -- Uhura watches him race off -- a CREW MEMBER steps into frame:
+C: CREW MEMBER
+D: The black hole's expanding, we won't reach minimum safe distance if we don't leave immediately!
+S: 137A INT. ENTERPRISE - VARIOUS AREAS 137A
+N: Chekov SPRINTS through CORRIDORS -- ENGINE ROOM -- YELLING:
+C: CHEKOV
+D: MOVE! I CAN DO THAT! I CAN DO THAT!!!
+N: And we take him to:
+S: 137B INT. ENTERPRISE - TRANSPORTER BAY 137B
+N: -- where he races to the controls, out of breath, yelling:
+C: CHEKOV
+D: I CAN LOCK ON! GIMME MANUAL CONTROL! QUICK!!!
+N: -- and he begins working the controls --
+S: 137C EXT. SKIES ABOVE VULCAN PLANET SURFACE - DAY 137C
+N: Kirk and Sulu SPEED-DROPPING -- TERRIFIED --
+C: KIRK
+D: ENTERPRISE, WHERE ARE YOU?!?!
+S: 137D INT. ENTERPRISE - TRANSPORTER BAY 137D
+N: Chekov's manipulating a joystick-like TARGETING DISPLAY -- trying to match the CROSSHAIRS on the DROPPING FIGURES --
+C: CHEKOV
+D: -- holdonholdonholdonholdon!
+S: EXT. SKIES ABOVE VULCAN PLANET SURFACE - CONTINUOUS
+N: A massive SHEET OF LAVA, MILES HIGH, BURSTS INTO THE SKY -- Kirk and Sulu enter frame, BULLET-WHOOSH right past us, DROPPING --
+C: KIRK
+D: NOW NOW NOW!!! DO IT NOW!!!!!!
+E: headset
+S: INT. ENTERPRISE - TRANSPORTER BAY [LOCATION CHANGE]
+N: TIGHT ON CHEKOV as he struggles to lock onto them -- BEEP!
+C: CHEKOV
+D: Compensating gravitational pull and-- GOTCHA!
+N: He HITS A BUTTON and --
+S: EXT. VULCAN SURFACE - CONTINUOUS
+N: 5 FEET BEFORE THEY HIT THE GROUND, KIRK AND SULU DEMATERIALIZE!
+S: INT. ENTERPRISE - TRANSPORTER BAY - CONTINUOUS
+N: AND REMATERIALIZE, SLAMMING DOWN ON THE TRANSPORTER PADS, HARD AND PAINFUL, BUT SAFE! Transporter engineers GAPE in utter amazement and relief -- Chekov, sweating, laughs. Kirk and Sulu get their bearings, peeling themselves up, at stunned whispers:
+C: SULU
+D: ... thanks.
+C: KIRK
+D: ... yeah, not a problem.
+N: And Kirk looks up as SPOCK hurries in --
+C: SPOCK
+D: Step aside -- I'm going to the surface.
+N: As the console ENGINEER works the display --
+C: KIRK
+D: The surface of what? YOU'RE GOING DOWN THERE? Are you nuts?!
+C: SPOCK
+D: Energize --
+N: And Spock DEMATERIALIZES --
+S: EXT. VULCAN - DAY
+N: PUSH IN as Spock MATERIALIZES -- the distant landscape around him COLLAPSING, IMPLODING, EXPLODING -- he sprints for the MOUNTAIN -- the entrance to the ARK -- a scared, small CREATURE runs past Spock as he heads up the mountain -- rocks falling --
+S: INT. KATRIC ARK CHAMBER - DAY
+N: Spock RACES through the tunnels as the world SHAKES around him -- he enters the massive ARK CHAMBER -- sees, atop the enormous stairs, FIVE VULCAN ELDERS, Sarek among them, hands placed on the sarcophagus-like ark. Mind melding with it. Amanda is here too, kneeling beside Sarek -- and she sees her son, who is now RUNNING toward them -- she stands:
+C: AMANDA
+D: Spock--!
+N: Spock rushes up the stairs --
+C: SPOCK
+D: The planet's not safe, it has only seconds left -- we must evacuate now --
+N: And as they run out, ENORMOUS ROCKS COLLAPSE AROUND THEM -- and they run through the tunnels, the STONE COLLAPSING AROUND THEM --
+S: EXT. TUNNEL ENTRANCE - DAY
+N: Spock and the group finally emerge from the tunnels to see -- THE PLANET IS COLLAPSING, COMING TOWARD THEM -- Spock whips open a tri-corder, TREMBLING LIKE CRAZY --
+C: SPOCK
+D: Spock to Enterprise: take us back now!
+S: INT. ENTERPRISE - TRANSPORTER ROOM - CONTINUOUS [SET CHANGE]
+N: Chekov works the controls:
+C: CHEKOV
+D: Locking volume, transport in 5-4-3--
+S: EXT. KATRIC ARK CHAMBER - CONTINUOUS
+N: HORROR AS THE WORLD LITERALLY STARTS TO FALL APART AROUND SPOCK, HIS PARENTS AND THE FIVE ELDERS -- MASSIVE SINKHOLES APPEARING, LIKE THE GRAND CANYON RACING FOR THEM -- AND WE SEE IN ALL THEIR FACES -- THE BELIEF THAT THEIR PLANET -- THAT THEY -- ARE GOING TO DIE -- and Spock, trying to hold it together -- even though their transport hasn't yet begun -- looks at Amanda -- their eyes lock -- THE COLLAPSING GROUND RACING TOWARD THEM -- and in a surreal, intimate moment, Amanda says to Spock, quietly:
+C: AMANDA
+D: It's okay. To be scared.
+N: PUSH IN ON SPOCK, looking at her -- as the LIGHT DARTS start TRACING THEM -- and they begin to EVAPORATE AS THE GROUND DROPS FROM UNDER AMANDA -- AND SHE'S SUCKED DOWN -- AWAY -- as Spock REACHES FOR HER, CALLING OUT --
+C: SPOCK
+D: MOTHER!!!!
+S: INT. ENTERPRISE - TRANSPORTER BAY - CONTINUOUS
+N: Chekov in a panic at the controls --
+C: CHEKOV
+D: NO!!! I'M LOSING HER!!!
+N: -- as the Vulcans MATERIALIZE on the pad, Spock still REACHING for his mother -- but all he gets it the GHOSTLY IMAGE OF HER -- BEAUTIFUL, HOLDING, FROZEN IN SPACE -- AN IMAGE HE'LL BE HAUNTED BY FOREVER -- AS IT FADES AWAY, EVANESCING LIKE MIST -- ON SPOCK as it lands -- Sarek too... a mother... a wife... has been lost. And Kirk stands nearby, having observed all of this, without anything to do or say... there's no cheating death.
+S: EXT. SPACE - ETERNAL NIGHT
+N: And the Enterprise BLASTS AWAY -- in the distance, THE ENTIRE PLANET OF VULCAN SWALLOWS INTO ITSELF -- A TERRIFYING, UNIMAGINABLE IMPLOSION -- UNTIL NOTHING IS THERE BUT DARKNESS. And over this we HEAR:
+C: SPOCK
+D: Acting Captain's log. Stardate 2256.42: I have assumed command of the Enterprise.
+E: V.O.
+N: 149-50 MIT O 149-50
+S: INT. ENTERPRISE - SICK BAY - CONTINUOUS
+N: SHOCK. The kind that crashes after the world's changed. In triage, the bay's filled with wounded Enterprise Officers. The Vulcan Elders and Sarek being examined as well. Kirk sits here, getting his hand bandaged from the fight. During this, he looks up, seeing one of the Elders being treated for a slight wound -- her GREEN BLOOD seen through the bandage...
+C: SPOCK
+D: We've heard no word from Captain Pike. I have therefore classified him a hostage of the war criminal known as Nero.
+E: V.O.
+S: 151A INT. ENTERPRISE - BRIDGE 151A
+N: Spock sits in the captain's chair, reporting. He's glassy-eyed, staring at nothing as he speaks. Behind him, Uhura sits, watching, concerned.
+C: SPOCK
+D: Nero, who has destroyed my home planet. And most of its six billion inhabitants. I estimate no more than ten thousand survived. While the essence of our culture has been saved, in the elders who now reside upon this ship... I am now a member of an endangered species.
+E: beat
+N: Spock considers this. Clicks off the log recorder. Spock moves off, into the turbolift -- Uhura follows him --
+S: INT. TURBOLIFT - CONTINUOUS
+N: Spock and Uhura. Silence hangs. She glances over, wanting to say so much, but not to invade what must be the worst moment of his life. He looks at her, with kind eyes. And Uhura does something odd -- she STOPS the lift. Spock looks over as she wordlessly reaches out and puts her arms around him. Just holding him. Kissing his face with utter tenderness and comfort, which he lets her do... and we realize, this is why the intimacy before -- this is their secret...
+C: UHURA
+D: I'm so sorry.
+N: Spock looks off, taking comfort, bewildered and lost...
+C: UHURA
+D: What can I do? Tell me what you need.
+E: CONT'D
+C: SPOCK
+D: ... I need...
+N: He's on the verge of some emotional release... but self- consciousness returns and he clamps up, starting the lift again:
+C: SPOCK
+D: I need for us all to continue performing admirably.
+E: CONT'D
+N: He looks at her again -- gives her another kiss. The door opens and he exits. She watches him go -- and the door closes on her.
+S: 152A INT. ENTERPRISE - CORRIDOR 152A
+N: Kirk comes down the hall, stretching his hand bandage -- when he stops. Standing at the other end of the corridor, operating a DATAPAD is a familiar-looking GREEN GIRL. Guilt overcomes him. After a beat he moves to her. Awkward.
+C: KIRK
+D: Hey. Listen, about what happened at Starfleet. The test and everything-- I know it looks like I was... using you, or whatever. And I'm sorry. I really am. And... I just hope you'll forgive me.
+E: she turns to him
+N: She just stares at him for a long beat, as if she's just pissed. But Kirk's face changes... and then he says:
+C: KIRK
+D: ... you're not Gaila, are you?
+E: CONT'D
+C: NOT GAILA
+D: No.
+E: pissed
+C: KIRK
+D: Sorry.
+E: nods
+N: And he walks off. (NOTE: ALT. VERSION HAS GAILA SAYING, "I'M NOT GAILA.")
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: Uhura at her station, scanning for enemy signals -- all of our principals are here, in debate:
+C: SPOCK
+D: Lieutenant, have you confirmed that Nero is headed for Earth?
+C: UHURA
+D: Their trajectory suggests no other destination, Captain.
+C: KIRK
+D: Earth may be his next stop, but we have to assume every Federation planet's a target.
+C: CHEKOV
+D: Yes, agreed-- but why didn't they destroy us?
+C: SULU
+D: Why waste a weapon? We weren't a threat.
+C: SPOCK
+D: That's not it. He said he wanted me to see something. The destruction of my home planet.
+C: MCCOY
+D: And how the hell did they do that by the way? When did they jump so far ahead in the arms race?
+C: SPOCK
+D: The engineering comprehension necessary to artificially create a black hole may suggest the answer: such technology could theoretically be manipulated to create a tunnel through space time.
+C: MCCOY
+D: Damnit, man, I'm a doctor, not a physicist -- are you suggesting they're from the future?
+C: KIRK
+D: That is what he's suggesting and I don't buy it.
+C: SPOCK
+D: If you eliminate the impossible, whatever remains -- however improbable -- must be the truth.
+C: MCCOY
+D: How poetic.
+C: KIRK
+D: Then what would an angry future Romulan want with Captain Pike?
+C: SULU
+D: As Admiral he knows details of Starfleet's defenses.
+C: KIRK
+D: What we need to do is catch up to that ship. Disable it, take it over and get Pike back.
+N: They're all looking at Kirk like he's nuts. 82A
+C: MCCOY
+D: Fantastic, I'm in.
+E: bitingly
+C: SPOCK
+D: Captain Pike left us with standing orders to rendezvous with the fleet on the other side of the quadrant.
+E: MORE
+C: SPOCK
+D: We're technologically outmatched in every way. A rescue attempt would be illogical.
+E: CONT'D
+C: KIRK
+D: "Illogical"-- you're funny.
+C: CHEKOV
+D: Not to mention we couldn't do it anyway: Nero's ship would have to drop out of warp for us to overtake them --
+C: KIRK
+D: -- what about assigning Engineering crews to try and boost our warp yield?
+C: SPOCK KIRK
+D: Remaining power and crew are being used to repair radiation leaks on the lower decks and damage to the main deflector shield-- without which we cannot communicate with -- okay--okay, okayokayokay-- Starfleet. there's gotta be SOME WAY!
+C: SPOCK
+D: We must gather with the rest of Starfleet to balance the terms of our next engagement --
+C: KIRK
+D: There won't be a next engagement, Spock: by the time we've "gathered", it'll be too late -- how many planets are you willing to risk? You say he's from the future? Knows what's gonna happen? Then the logical thing is to be unpredictable.
+C: SPOCK
+D: You're assuming Nero knows how events are predicted to unfold. The contrary: Nero's very presence has altered the flow of history, beginning with the attack on the U.S.S. Kelvin, culminating in the events of today -- thereby creating a new chain of incidents that cannot be anticipated by either party.
+C: MCCOY
+D: Does anyone understand him?
+C: UHURA
+D: ... an alternate reality.
+E: stunned
+C: SPOCK
+D: Precisely. Whatever lives we might have lived, if the time continuum was disrupted... our destinies have changed. Mr. Sulu, plot a course for the Laurentian system, Warp Factor Three--
+E: then:
+C: KIRK SPOCK
+D: -- wait-- don't do that -- Spock -- running back to the rest of the fleet for a confab is a massive waste of time-- -- These were the orders -- He also ordered us to go Captain Pike issued when he back and get him! Spock, left ship-- you're Captain now--! -- I am aware of my -- Every second we waste, responsibilities, Mr. Kirk! Nero's getting closer to his next target--! -- that is correct -- and why I'm instructing you to accept -- I will not allow us to go that I alone am in command. backwards, away from the problem, instead of hunting -- then I must remove you from Nero down! this ship. If I confine you to the brig, you'll likely escape. Mr. Chekov: have transportation prepare a deployment capsule. Mr. Sulu, escort him out.
+N: For a beat, nobody moves -- an impossible choice for all of them. Torn, Chekov and Sulu close in on Kirk --
+C: SULU
+D: I'm sorry.
+C: KIRK
+D: Yeah, don't worry ab --
+N: -- but Kirk SWINGS, Sulu jerks, FASTER, spins, GRABS Kirk's wrist! Kirk ELBOWS him as Chekov reaches for his PHASER but Kirk SLAMS HIM, the phaser DROPS -- Kirk reaches for it but Spock's fingers CLAMP on Kirk's neck: THE VULCAN PINCH: BLACK.
+S: INT. NARADA - TORTURE ROOM
+N: On PIKE'S FACE, strapped to a TABLE. Nero looks down upon him. 84A
+C: NERO
+D: You are only the second human I have ever met, face to face. You must have so many questions for me.
+E: MORE
+C: NERO
+D: I only have one for you. I need the subspace frequencies of Starfleet's border detection grids. Specifically those surrounding Earth.
+E: CONT'D then
+N: Pike looks up at him -- quiet rage. Then --
+C: PIKE
+D: Christopher Pike -- Captain, U.S.S. Enterprise, registry NCC-1701.
+C: NERO
+D: Christopher. Answer my question.
+E: beat; hardcore
+C: PIKE
+D: No. You answer for the genocide you just committed on a peaceful planet--
+C: NERO
+D: I prevented genocide. Where I come from, Christopher... this ship is just a mining vessel. I chose a life of honest labor to provide for myself... and the wife who was carrying my child. I sit here now... knowing you as enemies. Not just of today. But of tomorrow. I watched as your Federation did nothing. They let us burn to death... as our planet broke in half.
+E: beat, calms beat
+N: Curiosity behind Pike's eyes.
+C: PIKE
+D: Then Nero, you're confused. Romulus has not been destroyed. How can you blame the Federation for something that hasn't happened--?
+C: NERO
+D: It did happen. I remember it. I... felt it. When I lost her... I promised myself I would not speak another word until the day of my retribution. In twenty five years I forgot the sound of my own voice... but I didn't forget the pain. That feeling cannot be erased.
+E: then; pained MORE
+C: NERO
+D: A feeling that every surviving Vulcan now shares.
+E: CONT'D turning to anger now
+N: Pike just looks at him. Sees how fucking far GONE he is.
+C: PIKE
+D: If what you say is true... you can save Romulus. You have a second chance to --
+C: NERO
+D: -- yes, which is a gift I won't waste on mercy. My purpose, Christopher, is not simply to avoid the destruction of the home I love... ... but to create a Romulus which exists, free of the Federation. Only then will she be saved.
+E: beat beat
+N: And the "she" could refer to the planet... or to Nero's lost love. Either way, Pike knows a losing battle when he's fighting one. Ever so nobly, he quietly says --
+C: PIKE
+D: Then we have nothing more to discuss.
+N: Nero reaches for something under the counter Pike lies upon. Retrieves A FAMILIAR GLASS CONTAINER -- inside -- DOZENS OF CENTAURIAN SLUGS, the very ones used on Nero.
+C: NERO
+D: It's not the fault of the human race that Starfleet chose Earth as its center. You're a more noble race than my fallen cousins. I'll take no pleasure in your extinction.
+C: PIKE
+D: How reassuring.
+N: Nero opens the container, reaches for a pair of TONGS
+C: NERO
+D: The frequencies, please.
+C: PIKE
+D: Christopher Pike -- Captain, U.S.S. Enterprise, registry NCC-1701.
+N: Nero sad-smiles. What he expected.
+C: NERO
+D: As you wish.
+N: A ROMULAN GUARD HOLDS PIKE'S MOUTH -- Nero uses the tongs -- and OFF PIKE'S EXPRESSION --
+S: INT. SHUTTLE CRAFT - CONTINUOUS
+N: Our POV is BLURRY. We come into FOCUS on a blinking instrument panel. KIRK is stirring awake, his shoulder kills. He sits up: inside a ONE-MAN POD CRAFT. He WIPES THE GLASS -- looks up -- like a TUNNEL OF SNOW, 30 feet long, to the sky. THE PODCRAFT'S EMBEDDED ON THE SURFACE OF A VAST, ICE PLANET. Kirk's been MAROONED. He closes his eyes, his face falls...
+C: KIRK
+D: Computer... where am I?
+C: COMPUTER VOICE
+D: Current location Delta Vega: Class "M" Planet, unsafe. You have been ordered to remain in your pod until retrieved by Starfleet authorities.
+C: KIRK
+D: Bite me, how's that.
+N: The CANOPY RISES -- a blast of cold air hits Kirk -- with some agony, out he goes -- he CLIMBS UP THE TUBE OF SNOW -- and gets to the surface -- looks out. HE'S IN THE MIDDLE OF FUCKING NOWHERE. Finally:
+C: KIRK SONOFABITCH-BITCH-BITCH! THERE'S NOTHING
+D: HERE!!! YOU NECK-PINCHING MOTHERF--!!!
+E: CONT'D
+T: SMASH CUT TO:
+N: 156-7 OMIT 156-7
+S: EXT. DELTA VEGA - PLANET SURFACE - CONTINUOUS
+N: TRACKING along a massive ICE SHEET... Kirk ENTERS FRAME walking along, cold, pissed... whips out a TRICORDER, speaks into it:
+C: KIRK
+D: Lieutenant's log, supplemental: I'm preparing a testimonial for my Starfleet court martial assuming there's still a Starfleet left.
+N: From overhead, what we see -- what Kirk doesn't -- is something HUGE, SLITHERING UNDERWATER beneath the ice --
+C: KIRK
+D: Acting Captain Spock -- whose only form of expression's apparently limited to his left damn eyebrow -- has marooned me on Delta Vega in what I believe to be a violation of security protocol 49.09, governing the treatment of prisoners aboard a st--
+E: CONT'D
+S: EXT. DELTA VEGA - PLANET SURFACE - CONTINUOUS
+N: Kirk FREEZES at a nearby GROWL. He looks -- sees nothing -- then ANOTHER GROWL -- he turns -- some thirty feet away, an eleven foot-tall cross between a polar bear and a gorilla (it's a POLARILLA) steps out from behind a mass of ice. Sees Kirk. It's horrifying. Kirk takes a SLOW, SMALL STEP BACKWARD -- and the fucking thing CHARGES HIM -- KIRK RUNS, TERRIFIED -- and the POLARILLA PURSUES -- gaining -- it's gonna EAT HIM ALIVE WHEN SUDDENLY -- WHATEVER WAS BENEATH THE ICE EARLIER EXPLODES UP THROUGH IT -- IT'S NEARLY 30 FEET TALL, RED, HUNDREDS OF EYES -- IT SMACKS THE POLARILLA AWAY LIKE NOTHING AS KIRK FALLS TO THE ICE AND TURNS BACK -- HOLY SHIT! THIS THING IS SO MUCH WORSE! IT ROARS AS KIRK GETS TO HIS FEET AND RUNS, SCREAMING -- KIRK HAULS ASS AS THE THING COMES AFTER HIM -- THEN SUDDENLY HE FALLS -- DROPS -- and we see that Kirk is FALLING DOWN A MASSIVE SNOW MOUNTAIN! The huge red creature stops at the edge and ROARS LOUDLY -- until the ice shelf BREAKS AWAY! The creature starts to FALL AS WELL! Now Kirk is TUMBLING, the immense creature TUMBLING not far behind! And Kirk LANDS ON THE ICE, HARD -- sees a distant CAVE. Looks up at the FLAILING CREATURE that is about to CRUSH HIM -- Kirk tries to run, but the ice is TOO SLIPPERY -- FINALLY he gets footing and runs off toward the cave -- as the red creature LANDS HARD -- its sharp SPEAR LIMBS STAB into the ice as it pursues Kirk --
+S: INT. CAVE - DAY
+N: Kirk races through the darkened cave -- the creature comes after him -- Kirk goes as fast as he can -- the creature reaches out and fucking GRABS HIM -- pulls him toward the disgusting, wet, TEETHY MOUTH -- Kirk tries to hold on to anything he can -- but he's fucking LUNCH -- and just as you're SCREAMING, there's LIGHT -- FIRE LIGHT -- and a FIGURE APPEARS, WAVING A TORCH -- And the red creature's eyes ALL GO WILD -- and it DROPS KIRK and BACKS OFF, AFRAID -- the figure CHASES IT until it's gone. Kirk, on the ground, is freaked out, out of breath, and can't take his eyes off this man... who says:
+C: FIGURE
+D: The Hen-Gra. Notoriously afraid of heat.
+S: INT. CAVE - DAY
+N: And the Figure turns... we may have recognized the voice. IT'S SPOCK. As in NIMOY. HERE. Lit in the darkness by the fire. We'll refer to him as SPOCK PRIME. He looks at Kirk -- moves closer to him -- finally seeing him. And is amazed...
+C: KIRK
+D: Hey... thank you...
+C: SPOCK PRIME
+D: ... Jim?
+C: KIRK
+D: -- how d'you know my name?
+E: stunned
+C: SPOCK PRIME
+D: How did you find me--? Does Starfleet know of my presence?
+C: KIRK
+D: HOW DO YOU KNOW MY NAME?
+N: Spock looks deep into the eyes of the freaked out young man, feeling the full effect of fate playing its hand, but realizing he doesn't recognize him...
+C: SPOCK PRIME
+D: I have been... and always shall be... your friend.
+C: KIRK
+D: -- no, I don't know you -- the only Vulcan I know isn't exactly a buddy.
+N: Of all the things Spock predicted Kirk might say, it wasn't that. He's analyzing a thousand steps ahead, calculating:
+C: SPOCK PRIME
+D: You are James T. Kirk. Your father is George, as is your brother. Your mother's name is Winona -- you were born in 2233 --
+C: KIRK
+D: Stop. Please. I don't understand.
+N: As Spock nods, we PRE-LAP:
+C: SPOCK PRIME
+D: ... I am Spock. One hundred and thirty years senior to the Vulcan you know.
+C: KIRK
+D: Bullshit.
+E: beat, beat, beat
+S: 161A INT. CAVE - NIGHT 161A
+N: Firelight flickers -- shadows of Kirk and Spock Prime dance on the ice walls. Remarkable NIGHT STARS outside.
+C: SPOCK PRIME
+D: It's remarkably pleasing to see you again. ... especially after the events of today.
+E: re: Vulcan
+C: KIRK
+D: Old friend. Sir, I don't have any idea how you know what you know. But I don't know you and if you are Spock we're not friends. You hate me. You marooned me here for mutiny...
+C: SPOCK PRIME
+D: Mutiny? You are not the Captain?
+C: KIRK
+D: You're the captain. Pike was taken hostage.
+C: SPOCK PRIME
+D: ... by Nero.
+E: realizing, grave
+C: KIRK
+D: What do you know about him?
+C: SPOCK PRIME
+D: ... he is a remarkably...
+E: guilty, burdened MORE
+C: 161A CONTINUED: 161A SPOCK PRIME
+D: troubled Romulan. ... Please. Allow me -- it will be easier--
+E: CONT'D then
+N: Spock Prime reaches for Kirk's face -- Kirk grabs his wrist --
+C: KIRK
+D: What're you doing--?
+N: A skeptical beat, but Kirk finally releases his hand. Spock gently places his fingers on Kirk's cheek and temple --
+C: SPOCK PRIME
+D: Our minds... one and together...One hundred and twenty-seven years from now everything ends.
+E: whispering; a mantra
+N: Spock's eyes SNAP SHUT, Kirk JOLTS as if by an electric charge -- and the SCREEN OVEREXPOSES TO WHITE as we CUT TO our MIND MELD SEQUENCE:
+S: EXT. SPACE - NIGHT
+N: A SUPERNOVA. An EXPLODING STAR, like a LIGHT, EATING AWAY AT ALL AROUND IT --
+C: SPOCK PRIME
+D: A star in Beta Quadrant will go supernova -- and like a cancer left untreated... it will grow... and destroy everything.
+E: V.O.
+S: 162A INT. VULCAN SCIENCE ACADEMY 162A
+N: Now we're seeing VULCAN SCIENCE ACADEMY -- where SIX VULCAN SCIENTISTS study a HOLOGRAM of this event -- the star's ORIGIN, its PATH OF DESTRUCTION -- and SPOCK PRIME is among them --
+C: SPOCK PRIME
+D: I saw the beginning of it myself. Vulcan Science Academy devised a plan to stop it.
+E: V.O.
+S: 162B EXT. VULCAN SHIPYARD - NIGHT 162B
+N: PUSH IN as the JELLYFISH SHIP is under construction -- 162B CONTINUED: 162B
+C: SPOCK PRIME
+D: We built a ship containing a material capable of generating the only thing powerful enough to consume a supernova. A black hole.
+E: V.O.
+S: INT. JELLYFISH - CONTAINMENT HOLD - NIGHT
+N: Now we're INSIDE the ship -- the CONTAINMENT HOLD -- being ASSEMBLED by Vulcan Scientists --
+C: SPOCK PRIME
+D: I agreed to pilot the ship. Knowing I would not return.
+E: V.O.
+N: Now we see Spock Prime, in a ritual ceremony of a Vulcan Kamikaze pilot. Tea, sipped inside the Ark --
+C: SPOCK PRIME
+D: My sacrifice, in service of all races, seemed only logical.
+E: V.O.
+N: Now Spock Prime sits in the Jellyfish COCKPIT --
+C: SPOCK PRIME
+D: Unfortunately... before I could begin the mission... the supernova destroyed Romulus.
+E: V.O. CONT'D
+N: OMIT -- and suddenly we're OUT OF THE MIND MELD as KIRK GRABS SPOCK PRIME'S HAND AGAIN:
+C: KIRK
+D: Nero's planet was destroyed--
+C: SPOCK PRIME
+D: Yes. He of course blamed us. Believed Vulcan allowed his planet to die. Which was hardly the case. Let me continue.
+C: KIRK SPOCK PRIME
+D: This annoys me, I don't like -- I know, I know, I'm not it-- do we have to do it like surprised to hear you complain this--? -- allow me to finish.
+N: Spock Prime touches Kirk again and we go:
+S: EXT. SPACE
+N: -- the JELLYFISH SWOOPS PAST US -- and we PAN -- and see the MASSIVE SUPERNOVA in the infinite distance -- no sense of scale here -- but then -- THE NARADA APPEARS -- FIRES TORPEDOES at the Jellyfish.
+C: SPOCK PRIME
+D: Nero came after me. Determined to thwart my mission. If Romulus was allowed to die, he said... all planets should share its fate.
+E: V.O.
+N: 167A SPOCK PRIME IN THE COCKPIT, ROCKED AS TORPEDOES EXPLODE 167A CLOSELY. TIGHT ON SPOCK PRIME AS HIS MIND RACES --
+C: SPOCK PRIME
+D: I needed an exit. I knew if this mission failed... everyone, everywhere... would lose everything.
+E: V.O.
+N: Spock Prime LEAVES the cockpit --
+S: 167B INT. JELLYFISH - CONTAINMENT HOLD 167B
+N: Prime ENTERS AN AIRLOCK -- TUMBLES IN WEIGHTLESSNESS and enters THE CONTAINMENT ROOM. QUICK CUTS as he REMOVES RED MATTER FROM THE HOLD --
+C: SPOCK PRIME
+D: I realized: a large black hole could destroy the supernova. A smaller one... could be my escape. Could send me back in time, allowing me to complete my mission. So I created a black hole...
+E: V.O.
+N: Spock loads the CANNISTER with a small amount of RED MATTER into a JETTISON TUBE --
+S: 167C EXT. JELLYFISH - SPACE - NIGHT 167C
+N: -- and he FIRES THE CANNISTER INTO SPACE --
+S: 167D EXT. JELLYFISH - COCKPIT - NIGHT 167D
+N: Spock Prime back in the cockpit -- takes aim on his controls and FIRES AT THE CANNISTER --
+S: 167E EXT. JELLYFISH/NARADA - SPACE - NIGHT 167E
+N: A BLACK HOLE IS CREATED -- Spock Prime PILOTS TOWARD THE HOLE -- 167E CONTINUED: 167E
+C: SPOCK PRIME
+D: Nero must have understood what I was trying to do. Because he began racing for it.
+E: V.O.
+N: The NARADA and the JELLYFISH aiming for the BLACK HOLE -- 167F OMIT 167F
+S: 167G INT. JELLYFISH - COCKPIT - NIGHT 167G
+N: Spock Prime watches as the NARADA GOES IN -- LIGHTNING STORM- STYLE DISAPPEARING FIRST -- then SPOCK PRIME'S FACE -- WHITE WITH LIGHTNING -- OVEREXPOSED --
+C: SPOCK PRIME
+D: Nero simply got to it first. How long I was travelling... I couldn't tell you. It was timeless. But when I arrived...
+E: V.O.
+N: LIGHT on Spock Prime's face goes away -- he and the Jellyfish are back in SPACE -- 168-9 OMIT 168-9
+S: EXT. SPACE - NIGHT
+N: -- but now, facing him, is the NARADA.
+C: SPOCK PRIME
+D: Nero was waiting for me.
+E: V.O.
+N: 171-3 OMIT 171-3
+S: INT. CAVE - DAY
+N: KIRK INHALES, SHARPLY, having been there with Spock Prime. Back to the two men, in a cave: Kirk stares at him... his mind spinning because now he believes him. The result is overwhelmingly emotional.
+C: SPOCK PRIME
+D: Forgive me... emotional transference is an effect of the mind meld.
+C: KIRK
+D: ... so you do feel...
+E: sympathy, surprise
+C: SPOCK PRIME
+D: "Cthia" is the stricture that binds our emotions... but few of us are that perfectly Vulcan.
+N: Kirk gathers himself, wipes his eyes on his sleeve...
+C: KIRK
+D: Going back in time... you changed all our lives.
+C: SPOCK PRIME
+D: Yet remarkably, events within our timelines, characteristics, people... seem to overlap significantly. Tell me about the rest of the crew? Chekov-- Uhura --?
+C: KIRK
+D: Tactical and Communications --
+C: SPOCK PRIME
+D: -- Sulu --
+C: KIRK
+D: -- he's the helmsman, why?
+C: SPOCK PRIME
+D: Dr. McCoy would assert our meeting here is not a matter of coincidence... but rather, indication of a higher purpose.
+C: KIRK
+D: ... he'd call it a damn miracle.
+C: SPOCK PRIME
+D: Yes he would. Perhaps the time stream's way of attempting to mend itself. In both our histories, the same crew found its way onto the same ship in a time of ultimate crisis -- therein lies our advantage. We must go-- there's a Starfleet outpost not far from here.
+E: rises
+N: But Kirk stands -- stops him:
+C: KIRK
+D: Where you came from... did I know my father?
+C: SPOCK PRIME
+D: ... yes. You often spoke of him as your inspiration for joining starfleet.
+N: This is amazing for Kirk -- he looks off, trying to imagine that life. Spock intuits what this means.
+C: SPOCK PRIME
+D: You should know. He proudly lived to see you become captain of the Enterprise.
+E: CONT'D
+C: KIRK
+D: ... Captain?
+C: SPOCK PRIME
+D: A ship we must return you to as soon as possible.
+S: 174A EXT. SPACE - CONTINUOUS 174A
+N: The Enterprise STREAKS through frame in a warp blur --
+S: 174B INT. ENTERPRISE BRIDGE - CONTINUOUS 174B
+N: Sulu at his controls:
+C: SULU
+D: Warp three. Course one-five-one mark three, the Laurentian System.
+N: The turbolift opens -- McCoy enters, moves to Spock:
+C: MCCOY
+D: You wanted to see me?
+C: SPOCK
+D: Yes, Doctor. I'm aware that James Kirk is a friend of yours. Supporting me, as you did, must have been difficult.
+E: discreet tone
+C: MCCOY
+D: ... are you thanking me?
+C: SPOCK
+D: I'm simply acknowledging your difficulties.
+N: We're not sure how McCoy is taking this... 174B CONTINUED: 174B
+C: MCCOY
+D: Permission to speak freely, Sir.
+C: SPOCK
+D: I welcome it.
+C: MCCOY
+D: Do you. Okay then: are you out of your Vulcan mind? Were you doing the logical thing? Maybe. The right one? Debatable. But one thing's for damn sure -- that kid doesn't know how to lose. Just isn't in his DNA. Back home we have a saying: "If you're gonna ride in the Kentucky Derby, don't leave your prize stallion in the stable."
+C: SPOCK
+D: ... a curious metaphor, Doctor. As a stallion must first be broken before it can reach its potential.
+C: MCCOY
+D: My God, Man... you could at least act like it was a hard decision.
+C: SPOCK
+D: I intended to assist in the effort to re- establish communication with Starfleet. However, if crew morale would be better served by my roaming the halls weeping, I'll gladly defer to your medical expertise.
+N: A strong look and Spock turns away as Sarek enters the bridge. Spock moves to meet him. Off McCoy, fuming --
+S: 174C EXT. DELTA VEGA - PLANET SURFACE - DAY 174C
+N: A fucking BLIZZARD. Kirk and Spock Prime move through the maddening whiteout. Kirk yells through it:
+C: KIRK
+D: I AM SO PISSED OFF AT THE OTHER YOU RIGHT NOW!
+N: And Spock POINTS -- an OUTPOST -- half a mile away.
+S: INT. STARFLEET OUTPOST - DAY
+N: Long tile corridor. The door at the end opens -- SNOW AND WIND as Kirk and Spock Prime enter. Door closes. Silence again.
+C: KIRK
+D: ... hello?!
+N: Echo. Nothing. They head down. After a beat, a SMALL, DARK, ODDLY ALIEN CREATURE STEPS OUT. Eyes them curiously. This is KEENSER.
+C: KEENSER
+D: ... can I help you?
+C: SPOCK PRIME
+D: Are you the station chief?
+N: Keenser looks them over. Then:
+C: KEENSER
+D: ... no. This way.
+N: And they follow Keenser into a MASSIVE WAREHOUSE, filled mostly with junked space parts. A large, tarped SHUTTLE in the background. In the middle of the huge, depressing space is a table. And a STARFLEET OFFICER who is ASLEEP, legs kicked up, leaning back in a chair, a hat covering his face. Keenser taps the Officer's boot.
+C: STARFLEET OFFICER
+D: Hm.
+C: KEENSER
+D: Visitors.
+N: A beat -- and the Officer peers from under his hat. A cool, slow burn.
+C: STARFLEET OFFICER
+D: You realize how unacceptable this is.
+C: KIRK
+D: Excuse me?
+C: SPOCK PRIME
+D: ... Fascinating.
+E: re: the Officer
+C: KIRK
+D: What?
+N: Officer stands, unhappy about something. Keeser watches nearby --
+C: STARFLEET OFFICER
+D: I'm sure it's no' your fault, and I know youse lads are just doing your jobs, but could you no' have come a wee bit sooner?!
+E: MORE
+C: STARFLEET OFFICER
+D: Six months I've been living on nothing but Starfleet Protein Nibs and the promise of a real food delivery! Six months, boys! It's pretty clear what's going on here, isn't it? Punishment! Ongoing! For something that was clearly an accident!
+E: CONT'D
+C: SPOCK PRIME
+D: You're Montgomery Scott.
+C: KIRK
+D: You know him?
+C: SCOTTY
+D: Yes, that's me -- Scotty-- you're in the right place-- are there any other hard- working and equally-starving Starfleet officers around?
+C: KEENSER
+D: Me.
+C: SCOTTY
+D: You eat nothing. A bean and you're done for a week, I need food. And now you're here -- so. Thank you. Where is it.
+C: SPOCK PRIME
+D: You are in fact the Mr. Scott who postulated the theory of trans-warp beaming.
+C: SCOTTY
+D: Yes! That's exactly what I'm talking about! How d'ya think I ended up here? I got into a debate with my instructor on the issue of Relativistic Physics as they pertain to subspace travel... He seemed to think that the range of transporting say, a roast turkey, was limited to a few hundred miles -- so I told my instructor I could not only beam a bird from one planet to an adjacent planet in the same system -- which is no big deal anyway -- but if I were so inclined I could actually do it with a lifeform! So I tested it on Admiral Archer's prize beagle. Which... was a mistake.
+C: KIRK
+D: I know that dog. What happened to it?
+C: SCOTTY
+D: I'll tell ya when it reappears. Dunno. Feel guilty.
+C: SPOCK PRIME
+D: What if I told you your trans-warp theory was correct? That it is indeed possible to beam onto a ship that is travelling at warp speed. And that you only required the correct field equation to recrystallize dilithium?
+C: SCOTTY
+D: I haven't been stationed here that long. If such an equation had been discovered, I'da heard.
+C: SPOCK PRIME
+D: The reason you haven't heard of it, Mr. Scott... is because you haven't discovered it yet.
+N: Kirk reacts. Scotty reacts -- is almost spooked -- sobers up a bit... really regards Spock Prime. Skeptical. Amused.
+C: SCOTTY
+D: Y'from the future, are ya? Brilliant. D'they still have sandwiches where you're from? Piece and jam? Mince 'n tatties? Cockaleekie soup?
+C: KIRK
+D: What is he talking about?
+C: KEENSER
+D: Food.
+C: SPOCK PRIME
+D: Allow us access to your shuttle... and I will show you what a genius you actually are.
+N: Off Scotty, who can't help but be intrigued -- OMIT
+S: EXT./INT. SCOTTY'S SHUTTLE - TRANSPORTER PAD - MOMENTS LATER
+N: Scotty PULLS A TARP over much of the out-of-service shuttle.
+C: SCOTTY
+D: She's a wee bit dodgy: shield emitters are totally banjaxed, along wi' a few other things.
+N: Spock finishes speed-typing the FIELD EQUATIONS on the TRANSPORTER CONTROL PANEL -- amazingly fast.
+C: SCOTTY
+D: ... rapid. That's impressive.
+E: CONT'D
+N: Spock Prime steps aside:
+C: SPOCK PRIME
+D: Your equation for achieving trans-warp beaming.
+N: Scotty looks at the equations -- we watch his expression run the gamut: from confused, to dumbfounded, to quiet awe and delight:
+C: SCOTTY
+D: Imagine that! Never occurred to me to think of space as the part that's moving.
+C: SPOCK PRIME
+D: Point of fact: it did occur to you. Extrapolating Enterprise's course --
+E: he works the console
+C: SCOTTY
+D: -- Enterprise? Had its maiden voyage already, has it? Well, you must've done something right to be assigned to that ship, Kiddo. She's a well endowed lady -- love to get my hands on her ample nacelles, if you'll pardon the engineering parlance.
+C: SPOCK PRIME
+D: Now's your chance, Mr. Scott.
+C: SCOTTY
+D: Look, even if I believed you -- where you're from, what I've done-- which I don't -- we're still talkin' bout slingshotting aboard while she's going faster than light. Without a proper receiving pad, that's like tryin'a hit a bullet with a smaller bullet, wearing a blindfold. On a horse.
+C: SPOCK
+D: I calculate no more than a four meter margin of error.
+C: SCOTTY
+D: That's all well and good unless you rematerialize four meters outside the ship.
+N: As Spock works the keyboard, an ENTERPRISE SCHEMATIC rotates:
+C: SPOCK PRIME
+D: Agreed: the aft engineering bay is your best option: a large space and no unpredictable airlocks --
+C: KIRK
+D: -- you're coming with us, right?
+C: SPOCK PRIME
+D: No, Jim. My destiny lies along a different path.
+C: KIRK SPOCK PRIME
+D: Your destiny can wait -- he won't believe me, only you can Under no circumstances can he explain w-- be made aware of my existence. You must promise me this.
+E: simply, strong
+C: KIRK
+D: You're telling me I can't tell you I'm following your own orders? Why not? What happens?
+C: SPOCK PRIME
+D: Trust me. Above all. Jim, this is the one rule you cannot break. To stop Nero, you alone must take command of your ship.
+C: KIRK
+D: How, over your dead body?
+C: SPOCK PRIME
+D: Preferably not. There is, however, Starfleet Regulation 619. Yes. I forget what little regard you had for such things. 619 states that any commanding officer who is emotionally compromised by the mission at hand... must resign said command.
+E: off Kirk's confusion
+C: KIRK
+D: So I need to emotionally compromise you?
+C: SPOCK PRIME
+D: Jim. I just lost my planet. I can tell you. I am emotionally compromised. What you must do... is get me to show it.
+E: then
+N: PUSHING IN ON KIRK as this lands for him --
+C: KIRK
+D: Hm.
+C: SCOTTY
+D: Aye, then. Live or die, Laddie, let's get this over with. he Enterprise has a decent cafeteria I'm guessing.
+N: Scotty's on the pad. Kirk follows, looks at Spock:
+C: KIRK
+D: You know... coming back in time... changing history... that's cheating.
+C: SPOCK PRIME
+D: A trick I learned from an old friend.
+N: Something strikes Kirk -- his eyes GLINT with revelation. Spock responds enigmatically: a silent acknowledgment of what Kirk must do to get the ship. He raises his hand in the legendary Vulcan salute:
+C: SPOCK PRIME
+D: Live long, and prosper.
+E: CONT'D
+N: And Spock activates the transporter and they DEMATERIALIZE -- the light plays off his face as he watches them vanish --
+S: EXT. SPACE - CONTINUOUS
+N: The Enterprise SHOOTS THROUGH FRAME at warp --
+S: INT. ENTERPRISE - ENGINEERING BAY - CONTINUOUS
+N: Amid the ROAR of the ship's plasma drives, PARTICLES rematerialize... it's KIRK, eyes wide in suspense. He looks down at his legs, his chest, his arms to make sure he's still in one piece, glances over to share his relief with Scotty... BUT SCOTTY ISN'T THERE. A strange BANGING -- Kirk turns: the BANGING is coming from a large metal TANK -- then Scotty appears in a TRANSLUCENT PIPE -- FREAKING OUT -- BANGING ON THE CLEAR METAL -- Kirk's mind races -- he looks around for a way to save his new friend -- just then a STRONG CURRENT IS FELT inside the tube -- AND SCOTTY IS YANKED AWAY, DOWN THE TUBE!
+C: KIRK
+D: -- no-- shit!
+N: And Kirk runs after him -- down the length of the ORANGE, TWISTING and TURNING tubes -- SCOTTY SEEN every time he enters a CLEAR TUBE AREA -- then DISAPPEARING again into the ORANGE tubes -- and Scotty gets sucked UPWARDS -- and Kirk turns and looks -- FOLLOWS THE LENGTH OF TUBE -- SEEING WHERE IT'S HEADING -- TO A GIANT WATER TURBINE -- essentially? A MASSIVE FUCKING BLENDER.
+C: KIRK
+D: -- no--nonono--
+E: CONT'D
+N: And Kirk HAULS ASS to the control panel -- we see the huge machine -- overhead, the RELEASE VALVE under the pipe -- and Kirk works as fast as he can --
+C: KIRK
+D: COMEONCOMEONCOMEON -- like the simulator: manual control enabled, pressure seal: enabled -- shutdown--
+E: CONT'D
+N: -- but the COMPUTER SAYS:
+C: COMPUTER VOICE
+D: Turbine Shutdown Not Allowed.
+C: KIRK
+D: DAMNIT!
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: A display on the forward console, an ALARM FLASHES --
+C: CHEKOV
+D: Keptin, we're detecting unauthorized access to a water turbine control board!
+N: Spock moves from Sarek to Chekov --
+C: SPOCK
+D: Bring up video.
+N: Chekov brings up TWO DOZEN SECURITY VIDEO IMAGES ON ONE SCREEN. Spock points to one -- it ENLARGES -- and we see KIRK AND SCOTTY racing through the ship -- Spock's eyes narrow -- he moves to the Captain's chair -- hits comm:
+C: SPOCK
+D: Security, this is the captain -- seal engineering deck and bring me the intruders in turbine station three -- set phasers to stun.
+E: CONT'D
+S: INT. PIPE - CONTINUOUS
+N: INSIDE THE TUBE, SCOTTY TUMBLES, YELLING UNDERWATER as --
+S: 181A INT. ENTERPRISE - ENGINEERING BAY - CONTINUOUS 181A
+N: Kirk, AT THE PANEL, accesses the RELEASE VALVE CONTROL -- he watches Scotty disappear through a CLEAR SECTION -- Kirk times it -- waiting -- then he HITS THE BUTTON and Scotty DROPS THROUGH THE RELEASE VALVE AND SLAMS TO THE FLOOR -- hurt, wet, but BREATHING, deeply --
+C: KIRK
+D: You all right?
+C: SCOTTY
+D: -- nice -- -- ship. Really.
+E: recovering, looking around cough
+C: KIRK
+D: -- let's get to the bridge--
+S: 181B INT. ENTERPRISE - VARIOUS AREAS 181B
+N: Kirk and wet Scotty race through the ship -- only to finally turn a corner and be faced with PHASERS, AIMED RIGHT AT THEM. But suddenly PHASERS are at their heads. Two SECURITY GUARDS -- one, THE GUY HE GOT INTO THE FIGHT WITH AT THE BAR, YEARS AGO. SECURITY OFFICER #1 Come with me. Moon Beam. Off Kirk -- shit -- 182-3 OMIT 182-3
+S: INT. ENTERPRISE - BRIDGE [SET CHANGE]
+N: WOOSH -- bridge doors open -- Kirk and Scotty are ushered in by the Security Guards. Spock moves to them, containing his anger and dismay. McCoy is here as well. Spock walks right up to Kirk... raises his eyebrow.
+C: KIRK
+D: Surprise.
+C: SPOCK
+D: Who are you?
+E: to Scotty
+C: KIRK
+D: He's with me.
+C: SPOCK
+D: We're travelling at warp -- how did you manage to get aboard this ship?
+N: Kirk stares at the young Spock -- a different experience now --
+C: KIRK
+D: You're the genius, you figure it out.
+C: SPOCK
+D: As Captain of this vessel I order you to answer the question.
+C: KIRK
+D: Well I'm not telling. Captain.
+E: then
+N: HUH. That confounds Spock. And Kirk is off to the races --
+C: KIRK
+D: Does that frustrate you? My lack of cooperation... does it make you angry?
+E: CONT'D
+N: Spock again focuses on Scotty --
+C: SPOCK
+D: You are not a member of this ship's crew. Under penalty of court martial, I order you to explain to me how you beamed ab --
+C: KIRK
+D: -- Don't answer him.
+E: to Scotty
+C: SPOCK
+D: You will answer me.
+N: ON SCOTTY. Weighing all this. Then --
+C: SCOTTY
+D: I'd rather not take sides.
+N: Spock nods back to the SECURITY GUARDS, over this --
+C: SPOCK
+D: Escort them to the Brig.
+N: But before the guards can do so --
+C: KIRK
+D: What is it about you, Spock? Your planet was just destroyed -- your mother murdered -- and you're not even upset?
+C: SPOCK
+D: Your presumption that these experiences interfere with my abilities to command this ship is inaccurate--
+C: KIRK
+D: HA! And yet you said fear was necessary for command. I mean -- did you see that bastard's ship? Did you see what he did?
+C: SPOCK
+D: Yes, of course I--
+E: tense
+C: KIRK
+D: So are you afraid or aren't you?!?
+C: SPOCK
+D: I will not... allow you to lecture me about the merits of emotion.
+E: tenser
+N: Kirk gets close to Spock --
+C: KIRK
+D: Then why don't you stop me.
+N: Sarek watches, tense. McCoy, too. Spock blinks --
+C: SPOCK
+D: Step away from me, Mr. Kirk.
+C: KIRK
+D: What is it like? Not to feel? Anger. Or heartbreak. Or the need to stop at nothing to avenge the death of the woman who gave birth to you?!
+C: SPOCK
+D: -- back away --
+E: volcanic
+C: KIRK
+D: You must not feel anything! It must not even compute for you! You must not have loved her at all--!
+E: closer still
+N: -- WHAM! SPOCK HAS JUST HIT KIRK -- and Kirk goes to hit back, but Spock fucking DELIVERS A SERIES OF POWERFUL BLOWS -- Security stand back as the Captain attacks... And Spock is now fucking CHOKING Kirk -- HE SLAMS KIRK AGAINST THE WALL -- SPOCK'S CHOKING THE LIFE OUT OF HIM --
+C: SAREK
+D: Spock!
+N: And everything -- everything -- STOPS. Spock, red-faced, releases his grip. Kirk GULPS air and tumbles to the ground. Spock staggers back. Kirk's hardly able to speak, close to collapsing. But despite his brutalized face, his expression isn't about spite, or hatred... but compassion. Spock sees the faces of the STUNNED CREW staring at him. But worst of all? Sarek. His father. Spock levels his chin. Quickly wipes his eyes. Trying to regain some semblance of dignity... looks to McCoy. Softly --
+C: SPOCK
+D: Doctor. I am no longer fit for duty. I hereby relinquish my command on the grounds that I have been... emotionally compromised. Please note the time and date in the ship's log.
+N: JESUS. Spock just... QUIT. And after a beat, he leaves the room. Sarek follows a moment later. The crew just stands there in stunned SILENCE. Finally --
+C: SCOTTY
+D: I like this ship. It's exciting.
+N: McCoy turns to Kirk, exasperated --
+C: MCCOY
+D: Congratulations, Jim. Now we've got no Captain and no first officer to goddamn replace him.
+N: ON KIRK. The moment is upon him.
+C: KIRK
+D: Yeah we do.
+N: ON MCCOY. The CREW -- confused. Sulu just fucking POINTS at Kirk and they all realize HOLY SHIT -- Pike made KIRK the First Officer before he left!
+C: MCCOY
+D: WHAT?!
+C: KIRK
+D: Thanks for the support!
+N: And Kirk moves to the captain's chair, passing Uhura: 108A
+C: UHURA
+D: I sure hope you know what you're doing.
+C: KIRK
+D: ... so do I. Attention crew of the Enterprise. This is James Kirk...
+E: studies chair, sits, into mic
+S: INT. ENTERPRISE - CORRIDOR
+N: TRACKING WITH SPOCK, hearing the announcement as he walks stoically -- past CREW, hearing this --
+C: KIRK
+D: Mr. Spock has resigned commission and advanced me to acting Captain. I know you were all expecting to regroup with the fleet, but I've ordered a pursuit course of the enemy ship to Earth.
+E: V.O.
+N: OMIT
+S: INT. ENTERPRISE - BRIDGE [SET CHANGE]
+N: On KIRK as he ends the announcement:
+C: KIRK
+D: I want all departments at battle stations and ready in ten minutes. Either we're going down, or they are. Kirk out.
+N: Clicks off. PUSH IN ON KIRK, staring off --
+C: UHURA
+D: I want some answers.
+N: He looks up. Uhura is there. Pissed off:
+C: UHURA
+D: Right now. Where the hell'd you get trans-warp technology?
+E: CONT'D
+C: KIRK
+D: -- yeah, you know that's complicated --
+C: UHURA
+D: Do I look simple to you?!
+C: SULU
+D: I'm a PhD in astrophysics, I think I can handle it -- how'd you get back?
+C: CHEKOV
+D: You vant us to trust you but you von't tell us the truth?
+C: KIRK
+D: No. No, I won't-- hey, I'm the Captain now! I don't have to tell you anything! Now listen: we need to figure out a way to catch up and get to Nero's ship.
+C: SULU
+D: There's not a chance. They're gonna be in geosynchronous orbit around Earth in ten minutes. We'll never make it.
+C: MCCOY
+D: Even if we could, you can't go in guns blazing, not with their technology, that's suicide.
+C: KIRK
+D: Then we find a way to get on that ship and steal the black hole device away from them.
+C: SCOTTY
+D: Well you can forget transwarp. No way to predict the Narada's position from here.
+C: KIRK
+D: Uhura: anything from Captain Pike?
+C: UHURA
+D: No... I've been monitoring all channels.
+S: INT. ENTERPRISE - TRANSPORTER BAY [SET CHANGE]
+N: SPOCK stand here, staring at the place where his mother should have, but didn't, arrive. Sarek enters. Sees his son. They're alone for the first time in ages. A beat:
+C: SAREK
+D: You must not punish yourself. Speak your mind, Spock.
+E: beat
+C: SPOCK
+D: That would be unwise.
+C: SAREK
+D: What is necessary is always wise.
+N: Watch Spock's face. Struggling with what's pent-up inside...
+C: SPOCK
+D: I feel as conflicted as I once was. As a child. Have I made so little progress?
+C: SAREK
+D: You will always be a child of two worlds. I am grateful for that. And for you. And not only because you are all I have left of her.
+E: beat, softly painfully
+N: Spock looks at Sarek. This is as close to emotion as he'll get.
+C: SPOCK
+D: I feel anger. For the one who took her life. An anger I cannot stop.
+C: SAREK
+D: I believe she would say... do not try to. You asked me once. Why I married your mother. I married her because I loved her.
+E: then beat, simply
+N: Their look HOLDS -- and for Spock, a revelation...
+S: INT. ENTERPRISE - BRIDGE
+N: -- the strategy session continues in FULL SWING -- now Chekov, the youngest of the bunch, gets up the courage to chime in, incidently becoming the very first officer to say:
+C: CHEKOV
+D: Keptin Kirk? Excuse me, plees, could I...?
+N: All eyes shift to the wonder-kid who awaits permission to speak:
+C: KIRK
+D: Yes, Chekov-- you don't need to ask permission to--
+C: CHEKOV
+D: Based on the Narada's course from Vulcan, I've projected that Nero will travel past Saturn. If we could drop out of warp behind one of Saturn's moons, say, Titan, the magnetic distortion from the planet's rings will make us invisible to Nero's sensors. We could follow him to Earth by staying in his blind spot.
+C: KIRK
+D: What blind spot?
+C: CHEKOV
+D: Its exhaust wake. If we adjust our shield frequencies, they shouldn't detect us.
+C: MCCOY
+D: Wait a minute-- anyone understand this kid? How old are you?
+C: CHEKOV
+D: I am seventeen, Sir, how old are you?
+C: MCCOY
+D: We're all old enough to shave here.
+C: SPOCK
+D: Doctor... Mr. Chekov is correct.
+E: O.S.
+N: Everyone turns, surprised: SPOCK has entered the bay -- galvanized, full of purpose --
+C: SPOCK
+D: I have reviewed his telemetry. If Mr. Sulu can maneuver us into position, I can beam aboard Nero's ship.
+E: CONT'D
+C: KIRK
+D: I won't order you to do that, Mr. Spock.
+C: SPOCK
+D: Romulans and Vulcans share a common ancestry. Our cultural similarities will make it easier for me to access their ship's computer to locate the device.
+E: beat; a flicker of emotion MORE
+C: 111A SPOCK
+D: Also, my mother was human. Which makes Earth the only home I have left.
+E: CONT'D
+N: The crew looks at this very courageous Vulcan with deep respect - - but his focus is on Uhura, whose eyes smile back at him.
+C: KIRK
+D: Then I'm coming with you.
+C: SPOCK
+D: I would cite regulation, but I know you will simply ignore it.
+E: beat, considering
+C: KIRK
+D: See, we're getting to know each other.
+N: And a MOMENT -- a burgeoning friendship --
+S: EXT. BARREN LANDSCAPE
+N: PANNING ACROSS AN ALIEN LANDSCAPE... and even though it's in shadow, you start to recognize it as THE DARK SIDE OF THE MOON. OUR POV ascends now to see: THE ENTERPRISE DROPS OUT OF WARP IN THE DEAD SILENCE OF SPACE... And we move past it, along the orbit of the moon, cresting the horizon to see EARTH -- AND NERO'S SHIP HOVERING ABOVE IT.
+S: INT. NARADA - BRIDGE - NIGHT
+N: CLOSE ON NERO -- his face illuminated on the DARKENED BRIDGE of the Narada by SOFT BLUE LIGHT. Light radiated by EARTH. A BEAUTIFUL HOLOGRAM before him. He doesn't notice behind him, as those BLADES from his STAFF APPEAR BEHIND HIS NECK. Nero tenses, only now sensing this unforeseen danger: AYEL HOLDS THE WEAPON. Strong. Tough. But under it all... terrified.
+C: AYEL
+D: The men and I have discussed this. What we are about to do. We have to turn the ship around. We can save our home.
+E: beat
+N: Nero turns slowly and deliberately -- Ayel tenses:
+C: AYEL
+D: Stop.
+E: CONT'D
+N: Nero now faces Ayel, blades at his throat -- Ayel growing more nervous as he faces his master. The surrounding crew stare on, frozen in the moment, only slightly confirming their makeshift mutiny with scared looks.
+C: AYEL
+D: We can go back. That's what we want. We have taken our vengeance on Vulcan. No more. We want to go home now.
+E: CONT'D
+N: Nero considers this... nods gently.
+C: NERO
+D: There is no need, Ayel. To threaten me. I understand.
+E: beat
+N: Ayel is massively relieved. Nero gently reaches out, holds the staff (still aimed at him). He deactivates it -- the blades instantly RETRACT.
+C: NERO
+D: I understand. But you are wrong.
+E: CONT'D
+N: And just as Ayel realizes he's fucked, Nero somehow activates the staff in a way we have not seen -- AND THE BLADES APPEAR ON THE OTHER END -- THE END NOW FACING AYEL -- AND JUST AS AYEL'S EYES GO WIDE -- NERO THRUSTS THE BLADES INTO AYEL -- WHO FALLS TO THE FLOOR, DEAD! Nero's hard face turns to the rest of his crew.
+C: NERO
+D: We will return to Romulus when the Federation lies in ruins and not a moment before. When those who watched our people burn at last understand our pain, our loss. I refuse to return as a slave! We will return as conquerors!
+E: CONT'D
+N: ON THE FACES OF THE MEN, SUBMITTING TO HIS WILL, our MUSIC BUILDING -- and then, his eyes on Earth like a fucking LION eyes a gazelle--
+C: NERO
+D: Deploy the drill.
+E: CONT'D
+S: EXT. THE NARADA
+N: THE DRILL BAY DOORS open as they LOWER THE PLASMA DRILL.
+S: INT. U.S.S. ENTERPRISE - BRIDGE
+N: No sign of Kirk and Spock. Sulu's in the captain's chair. Chekov at helm.
+C: SULU
+D: Mr. Chekov, transfer manual control to the Captain's chair.
+C: CHEKOV
+D: Aye. I've projected the parabolic course you must follow. If you deviate by so much as a meter, we will be detected.
+E: works controls
+C: SULU
+D: Give me one quarter impulse burst for five seconds and I'll do the rest with thrusters. On my mark. Three... two... one... fire.
+S: EXT. U.S.S. ENTERPRISE - SPACE
+N: The impulse engines SURGE, shutting off as the ship slips out from behind the moon and into open space --
+S: INT. U.S.S. ENTERPRISE - BRIDGE - CONTINUOUS
+N: Sulu makes rapid-fire thruster combinations to stay on track -- a stealthy ballet of incredible dexterity. THE NARADA appears over the horizon in geosynchronous orbit, passing underneath the Enterprise as they arc in behind it.
+C: SULU
+D: All stop in three... two... one...
+S: EXT. THE NARADA/ENTERPRISE - CONTINUOUS
+N: The small Enterprise pulls into position behind the massive Narada's BLIND SPOT and comes to a gentle stop. Tension --
+S: INT. ENTERPRISE - BRIDGE - NIGHT
+C: SULU
+D: Transporter Room. We're in stable geosynchronous orbit behind the Narada.
+E: INTO CHAIR COMM
+C: CHEKOV
+D: No sign they've detected us --
+E: scanning
+S: INT. ENTERPRISE - TRANSPORTER ROOM - CONTINUOUS
+N: KIRK and SPOCK ready themselves for transport. STRAP ON UTILITY BELTS: COM-SETS, TRICORDERS, and of course, PHASERS --
+C: SCOTTY
+D: Well done, Mr. Sulu.
+E: on Communicator
+C: KIRK
+D: Whatever happens Mr. Sulu, if you feel you have a tactical advantage fire on that ship. Even if we're still aboard. It's an order.
+C: SULU
+D: Yessir. Good luck.
+N: Spock turns to Uhura, who hands him a small TRANSLATOR DEVICE:
+C: UHURA
+D: We'll be monitoring your frequency...
+N: Uhura gives the translator to Spock -- AND HE KISSES UHURA.
+C: SPOCK
+D: Thank you, Nyota.
+N: They part, revealing KIRK'S SHOCKED FACE. Uhura walks off, leaving the two men -- Kirk looking stunned at Spock.
+C: KIRK
+D: Her first name is...
+C: SPOCK
+D: I have no comment on the matter.
+N: Kirk still stunned as Scotty moves to transporter control.
+C: SCOTTY
+D: If there's any common sense to their ship design, I'll be puttin' ya in a cargo bay, shouldn't be a soul in sight.
+N: KIRK AND SPOCK STAND ON THE TRANSPORTER PAD, SIDE-BY-SIDE AND FACING THE SAME DIRECTION FOR THE FIRST TIME -- AN ICONIC IMAGE - - The moment of truth.
+C: KIRK
+D: Energize.
+N: Scotty hits the transport and Kirk and Spock DISAPPEAR --
+S: INT. NARADA - CARGO BAY - CONTINUOUS
+N: Kirk and Spock MATERIALIZE in the cargo bay... to find themselves suddenly smack-dab in the middle of SIX ROMULAN GUARDS working at cargo consoles!! For a split second they're as shocked as Kirk and Spock, until they ATTACK -- Kirk immediately engages the closest Romulan, struggles -- but Spock's a machine: his palm snaps up CRACKING a nose -- SLAMS a head against the wall -- as battle-ready as the Romulans are, it's like trying to catch a GHOST, Kirk finally knocks his one opponent unconscious, and turns to see it's ALL OVER --
+C: KIRK
+D: Mine had a gun.
+E: a touch insecure
+C: SPOCK
+D: I am trained in the Vulcan martial art of Suus Mahna.
+N: Kirk and Spock move to a still conscious Romulan as he struggles to get up. Spock reaches for the fallen Romulan's temples.
+C: SPOCK
+D: I am unable to meld with these Romulans -- there are subtle differences in their physiology I did not anticipate --
+E: CONT'D
+C: KIRK SPOCK
+D: -- punch him in the face -- make him talk! Suus Mahna his -- Suss Mahna is only intended ass! for self-defense, he's no longer a threat -- -- then pretend it's a threat - - I'm your captain, that's an order!
+N: Spock PUNCHES the Romulan HARD -- and via Uhura's comlink translator, speaks in SUBTITLED ROMULAN:
+C: SPOCK
+D: What is your computer access code?
+E: SUBTITLE CONT'D
+N: The guard SPITS green blood at Spock, who PUNCHES him again --
+C: SPOCK
+D: TELL! ME! THE! CODE!
+E: SUBTITLE CONT'D PUNCH PUNCH PUNCH
+S: INT. NARADA - BRIDGE - CONTINUOUS
+C: ROMULAN HELMSMAN
+D: The plasma drill is repaired and fully deployed.
+C: NERO
+D: Good. Let's begin.
+S: EXT. SUSPENDED DRILL - ABOVE CALIFORNIA - CONTINUOUS
+N: THE ENERGY TORNADO FIRES FROM THE DRILL INTO THE EARTH!
+S: EXT. SAN FRANCISCO - DAY
+N: The plasma beam SLAMS INTO SAN FRANCISCO BAY -- massive CONCUSSION CLOUDS FORM AROUND THE BEAM --
+S: 202A EXT. STARFLEET ACADEMY/COMMAND - CONTINUOUS 202A
+N: Cadets RUN to see the horrific sight of the plasma beam --
+S: INT. ENTERPRISE BRIDGE - CONTINUOUS
+N: As Uhura returns to the bridge, everyone's stations go DARK -- STATIC on screens --
+C: CHEKOV
+D: They've activated the drill --
+C: UHURA
+D: Communications and transporter inoperative --
+C: SULU
+D: They're on their own now.
+S: INT. NARADA - CONTINUOUS
+N: A ROTATING SHIP SCHEMATIC -- Spock typing at a console, searching -- accesses two inter-cam windows: on one, SPOCK PRIME'S SHIP, THE JELLYFISH -- in a lower containment hold -- on the other: PIKE, unclear if he's dead or alive.
+C: SPOCK
+D: What you refer to as the "Red Matter Device" is in the main hangar -- and I've located Captain Pike.
+C: KIRK
+D: Is he alive?
+C: SPOCK
+D: Unknown.
+C: KIRK
+D: Let's move.
+N: They cover each other with phasers as they move down the hall --
+S: INT. NARADA - MAIN HANGAR
+N: Captain Pike's shuttle and the Jellyfish sit parked among the equipment. Kirk and Spock stealthily board the Jellyfish --
+S: INT. JELLYFISH - COCKPIT - CONTINUOUS
+N: Kirk hits a console, a familiar voice comes to life:
+C: COMPUTER VOICE
+D: Voice print and face recognition analysis enabled.
+C: KIRK
+D: Spock, you'll be piloting the ship alone.
+C: SPOCK
+D: Which may be problematic, as I am unfamiliar with this ship's design.
+N: THE LASER GRID RESPONDS TO SPOCK'S VOICE, scans his features for ID -- THE HOLOGRAPHIC DISPLAY MATERIALIZES:
+C: COMPUTER VOICE
+D: Welcome back, Ambassador Spock.
+C: KIRK
+D: Wow. That's weird.
+E: awkwardly
+N: He looks to Kirk in surprise -- Spock's eyes fix with sudden understanding. Ambassador Spock... of course... suddenly all the pieces start coming together...
+C: SPOCK
+D: Computer: what is your manufacturing origin?
+C: COMPUTER VOICE
+D: Stardate 2397, commissioned by the Vulcan Science Academy.
+N: Spock looks at Kirk, a touch upset:
+C: SPOCK
+D: It appears you've been keeping rather important information from me.
+C: KIRK
+D: Just trust me. Can ya do that?
+N: Spock weigh his options. Trust. Finally:
+C: KIRK
+D: I'll get Pike.
+E: CONT'D
+N: Kirk exits --
+S: INT. NARADA [SET CHANGE]
+N: Kirk moves through various areas of the ship --
+S: INT. JELLYFISH - COCKPIT
+N: Spock works the control -- fires up the craft --
+S: EXT. NARADA - HANGAR - WITH JELLYFISH INSIDE
+N: LIGHTS COME ON -- he starts it up -- the ship begins to RISE -- and with the enormous JELLYFISH now OPERATING -- FLOATING IN THE HANGAR, Spock turns the ship and FIRES AT THE MASSIVE IRIS DOOR, BLOWING IT OPEN! DEBRIS AND LOOSE OBJECTS GET SUCKED INTO SPACE as --
+S: INT. NARADA - BRIDGE
+N: The ship SHUDDERS from within -- ALARMS --
+C: ROMULAN HELMSMAN
+D: Primary core rupture, warp engines off- line!
+C: NERO
+D: HOW?!!
+C: ROMULAN TACTICAL OFFICER
+D: Someone has detonated weapons in the main hangar!
+N: CLOSE -- NERO -- EYES WILD, REALIZING THEY HAVE A SABOTEUR:
+C: NERO
+D: Restore power! Engage auxiliary systems!
+N: OMIT
+S: EXT. NARADA - CONTINUOUS
+N: THE JELLYFISH FLIES OUT -- ANGLES TOWARD THE DRILL AND FIRES ANOTHER TORPEDO -- DIRECT HIT! THE MASSIVE RIG SWINGS -- THE TETHERS SNAPSNAPSNAP -- THE DRILL TILTS AND ROCKETS LOOSE, PLUMMETING DOWN... DOWN... DOWN... ... CRASHING INTO SAN FRANCISCO BAY
+S: INT. NARADA - BRIDGE - CONTINUOUS
+N: As the bridge crew fights to regain control:
+C: ROMULAN TACTICAL OFFICER
+D: The drill's been severed!
+C: ROMULAN COMMANDER
+D: Ambassador Spock's ship has been stolen as is heading out of the solar system!
+C: NERO
+D: -- WHO'S RESPONSIBLE FOR THIS?!
+N: A beat -- the Romulan Commander looks up from his console:
+C: ROMULAN COMMANDER
+D: ... Spock.
+E: darkly
+N: OFF Nero's fucking mega rage --
+S: EXT. SPACE - ABOVE EARTH
+N: The Narada turns -- accelerates in pursuit of the Jellyfish and AWAY FROM EARTH -- and now we're back to the imagery of the first few moments of the movie -- THE NARADA GAINING ON THE JELLYFISH, SPOCK AT THE CONTROLS --
+S: INT. NARADA - CONTINUOUS
+C: NERO
+D: Open a channel --
+E: to comms officer
+C: ROMULAN COMMUNICATIONS OFFICER
+D: Channel Open --
+C: NERO
+D: Spock -- I should've killed you when I had the chance.
+S: INT. NERO'S SHIP/ JELLYFISH - INTERCUTTING:
+N: SPOCK STARES WITH DEADLY FOCUS AT THE VIEWSCREEN:
+C: SPOCK
+D: Under authority granted me by the Europa convention, I'm confiscating this illegally obtained ship and order you to surrender your vessel. No terms. No deals.
+N: And Nero? Just grins in perfect contentment...
+C: NERO
+D: You can't cheat me again, Spock. I know you better than you know yourself.
+C: SPOCK
+D: Last warning: unconditional surrender or you will be destroyed.
+C: NERO
+D: Fire at will.
+E: to his Men
+C: ROMULAN COMMANDER
+D: Sir-- if you ignite the red matter, the--
+C: NERO
+D: I want Spock dead! Fire!
+N: Nero hurries to the controls -- operates them himself and --
+S: EXT. NARADA - CONTINUOUS
+N: -- FIRE IT DOES -- TORPEDOES BLAST FROM THE HOLD and to the jellyfish, which performs evasive maneuvers -- the torpedoes EXPLODE as --
+S: INT. NARADA - AIRLOCK SHAFT - CONTINUOUS
+N: Kirk moves through shadow into an airlock shaft, starts climbing ladder rungs --
+S: EXT. SPACE - CONTINUOUS
+N: The JELLYFISH TILTS, earth receding far behind it -- Spock veers to avoid being blown apart -- Nero's ship gaining -- firing --
+S: INT. NARADA - CORRIDORS - CONTINUOUS
+N: Kirk moves through the space -- into the TORTURE ROOM, where he finds PIKE, CLOSE TO DEATH -- Kirk begins unfastening his binds. Pike sees him through his fog -- amazed --
+C: PIKE
+D: ... Kirk?
+C: KIRK
+D: Came back, Sir. Just like you ordered.
+N: Kirk helps LIFT HIM -- but what he DOESN'T SEE are the FOUR GUARDS entering with weapons -- But PIKE, God bless him, does: summoning his last ounce of strength, he manages to UNHOLSTER KIRK'S PHASER AND BLASTS THE FOUR GUARDS OUT OF EXISTENCE! Safe, he SLUMPS, dropping the phaser --
+S: EXT. NARADA - SPACE - CONTINUOUS
+N: The Narada FIRES again, TEARING a gash in the Jellyfish's side.
+S: INT. JELLYFISH - CONTINUOUS
+N: An array EXPLODES --
+C: NERO ON COMMS
+D: ... you should've fled, Spock. Sight target, standby torpedoes... FIRE!
+C: COMPUTER VOICE
+D: Warning: Shields off-line.
+N: On Spock -- bad as things are, they just got worse -- his mind SPINS until:
+C: SPOCK
+D: Computer, prepare self destruct sequence.
+S: EXT. JELLYFISH - CONTINUOUS
+N: And the Jellyfish TURNS -- a new course RIGHT FOR THE NARADA --
+S: INT. SPACE - NARADA AND JELLYFISH - CONTINUOUS
+N: CLOSE ON SPOCK, bravely facing certain death -- on a collision course with the Narada -- looks like he's gonna sacrifice himself -- and we assume he'll pull away at the last second, of course he will, but he DOESN'T:
+S: EXT. NARADA AND JELLYFISH - CONTINUOUS
+N: SMASH! THE JELLYFISH EXPLODES, SPOCK SEEMINGLY KILLED -- AND IN THE BLAST, THE RED MATTER IGNITES! A MASSIVE BLACK HOLE STARTS TO FORM, THE BIGGEST ONE YET! STARS DRIFT TOWARD ITS CENTER, PULLED INTO THE SPHERE BY THE GRAVITY WELL AS IT STARTS TO EXPAND --
+S: INT. NARADA - BRIDGE - CONTINUOUS
+N: As the ship's ROCKED HARD, Nero sees the black hole BUILDING through the cockpit window:
+C: NERO
+D: FULL REVERSE!!! NOW, NOW!!
+S: EXT. SPACE - CONTINUOUS
+N: EVERYTHING'S GETTING SUCKED INTO THE EVER-EXPANDING BLACK HOLE -- A MASSIVE PULSE OF ENERGY PUMMELS NERO'S SHIP, SHEARING THROUGH ITS HULL -- AS THE NARADA TRIES TO REVERSE OUT OF THE GRAVITY WELL, THE ENTERPRISE IS REVEALED BEHIND IT -- HAVING BEEN THERE THE WHOLE TIME --
+S: INT. ENTERPRISE - TRANSPORTER BAY - CONTINUOUS
+N: IT'S A RUSH, CRAZY, TENSE AS HELL --Uhura, McCoy, a MED TEAM and ND OFFICERS race in as Scotty finishes receiving incoming signals: KIRK, SPOCK... AND PIKE MATERIALIZE ON THE PAD:
+C: KIRK
+D: Nice timing, Lieutenant --
+E: to Transporter Chief
+C: SCOTTY
+D: Never beamed two targets from two places onto the same pad before! That was pretty good!
+N: Kirk transfers Pike to McCoy, who urgently SCANS Pike and barks to a MED-TECH:
+C: MCCOY
+D: -- we're gonna need gastric stimulators, let's prep him for surgery, now!
+S: INT. NARADA - BRIDGE - CONTINUOUS
+N: Everyone's HURLED off their feet -- consoles fry -- FIRE --
+C: ROMULAN COMMUNICATIONS OFFICER
+D: Nero-- it's the Enterprise!
+C: NERO
+D: LOAD WEAPONS AND RAISE SHIELDS!!!
+C: ROMULAN HELMSMAN
+D: ENGINES USING ALL OUR POWER, SIR!
+N: Nero's eyes come UNHINGED --
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: WHOOSH: KIRK and SPOCK race back onto the bridge --
+C: CHEKOV
+D: Keptin! The enemy ship is losing power-- its shields are down!
+C: KIRK
+D: Hail them -- now!
+N: NERO appears on screen from the Narada bridge -- the Narada's on its last legs -- a beat before Nero TURNS, realizing Kirk's fucking GRINNING at him from the screen:
+C: KIRK
+D: This is Captain James T. Kirk of the U.S.S. Enterprise -- your ship is compromised -- too close to the singularity to survive without assistance -- which we are willing to provide.
+E: CONT'D
+C: SPOCK
+D: Captain -- what are you doing?
+E: sotto
+C: KIRK
+D: We show them compassion-- it may be the only way to earn peace with Romulus. It's logic, Spock! I thought you'd like that.
+E: sotto
+C: SPOCK
+D: No, not really, not this time.
+C: NERO
+D: I would rather suffer the death of Romulus a thousand times than accept assistance from you.
+C: KIRK
+D: You got it. Lock phasers! Fire everything we've got!
+E: turns
+S: EXT. SPACE - CONTINUOUS
+N: THE ENTERPRISE ARCS AROUND, FIRING A FULL SALVO AT THE NARADA -- AND THE HITS CONNECT, A DOMINO-EFFECT OF EXPLOSIONS RIPPLING ACROSS THE ALREADY WEAKENED SHIP -- IT STARTS NOSE-DIVING, TOWARD THE BLACK HOLE --
+S: INT. U.S.S. ENTERPRISE - BRIDGE
+C: KIRK
+D: Kirk to Engineering: get us out of here, Scotty!
+C: SCOTTY
+D: -- you bet yer ass, Captain --
+E: V.O.; COMMS
+S: INT. NARADA - CONTINUOUS
+N: The walls are RIPPING AWAY, PYLONS pull free from their moorings, into the ever-expanding sphere -- NERO -- IN THE CHAOS, KNOWING HE'S REACHED THE END, CLOSES HIS EYES:
+C: NERO
+D: Forgive me... Romulus...
+S: EXT. SPACE - CONTINUOUS
+N: AND THE NARADA IMPLODES, BUCKLING IN ON ITSELF, DISAPPEARING IN PIECES INTO THE BLACK VORTEX -- Leaving only the Enterprise -- its nacelles FLARE as the ship tries to make the quantum leap -- BUT: the black hole's now a TITANIC WHIRLPOOL so insanely strong that the Enterprise is held in place by the gravity well even at warp! IT SHAKES INTO A BLUR, trying to cut loose but it CAN'T --
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+C: KIRK
+D: WHY AREN'T WE AT WARP?!
+C: CHEKOV
+D: -- WE ARE --!
+C: SCOTTY OVER SPEAKERS
+D: CAPTAIN, WE'RE TRAPPED IN THE GRAVITY WELL! IT'S GOT US!
+C: KIRK
+D: GO TO MAXIMUM WARP! PUSH IT!!!
+S: INT. ENTERPRISE - ENGINEERING - INTERCUTTING:
+N: Scotty SHOUTS BACK into the com against the SCREAMING DRIVE:
+C: SCOTTY
+D: I'M GIVIN' HER ALL SHE'S GOT, CAPTAIN!
+C: KIRK
+D: ALL SHE'S GOT ISN'T GOOD ENOUGH! WHAT ELSE D'YOU GOT?!
+C: SCOTTY
+D: IF WE EJECT THE CORE AND DETONATE, THE BLAST COULD BE STRONG ENOUGH TO PUSH US AWAY BUT I CAN'T PROMISE ANYTHING!
+E: last desperate thought
+C: KIRK
+D: DO IT DO IT DO IT!
+N: Scotty SLAMS the activation panel and we see the WARP CORE eject down a tube, like an INSTANT PNEUMATIC RELEASE --
+S: EXT. ENTERPRISE - ABOVE THE BLACK HOLE - CONTINUOUS
+N: THE WARP CORE TUBE LAUNCHES FROM THE ENTERPRISE, STREAKING RIGHT INTO THE MOUTH OF THE BLACK HOLE -- AN INSANE, SILENT EXPLOSION: THE BLACK HOLE LIGHTS UP FROM HORIZON TO HORIZON, THE BLAST WAVE WHITING OUT THE FRAME! THE ENTERPRISE IS CONSUMED WITHIN IT: FOR A MINUTE, WE THINK IT'S GONE... UNTIL IT'S JETTISONED OUT INTO THE STARS, FLYING AWAY, LEAVING THE FIRESTORM BEHIND IT!
+S: INT. ENTERPRISE - BRIDGE - CONTINUOUS
+N: Everyone white-knuckles their seats as the blast DISSIPATES... and our crew sits, wide-eyed, trembling... finally, truly safe.
+S: EXT. STARFLEET ACADEMY - SAN FRANCISCO - DAY
+N: Back home.
+S: INT. STARFLEET ACADEMY - MEDICAL BAY/HANGAR - DAY
+N: Spock is seen in a medical office with Pike, who lies in bed, recovering -- McCoy monitors him - Spock exits -- walks through the corridor -- sees a VULCAN in silhouette, staring out at the Academy. Sarek. Spock moves to him -- says quietly:
+C: SPOCK
+D: Father...?
+N: Sarek turns -- but IT ISN'T SAREK. IT'S SPOCK PRIME. Who says:
+C: SPOCK PRIME
+D: I am not... our father.
+N: An incredible beat, our two Spocks in eye lock... both minds processing conversational possibilities at an incredible rate... surreal extensions of each other, separate but connected...
+C: SPOCK
+D: ... Fascinating.
+C: SPOCK PRIME
+D: There are so few Vulcans left. We cannot afford to ignore each other.
+N: Young Spock's eyes flicker in puzzlement...
+C: SPOCK
+D: Then why did you send Kirk aboard when you alone could've explained the truth?
+C: SPOCK PRIME
+D: Because you needed each other. Opposing yet complimentary opposites. It was that balance between us -- I should say you and Kirk -- that often made the impossible, possible.
+E: beat, simply
+C: SPOCK
+D: ... it was a test?
+C: SPOCK PRIME
+D: I'm in no position to pass judgment... my actions have robbed you of much. I could not also deprive you the revelation of all you can accomplish together... of a friendship that will define you both in ways you cannot yet realize.
+E: no: his heart heavy
+N: There is, to young Spock's surprise, vulnerability in that.
+C: SPOCK
+D: How did you persuade him to keep your secret?
+C: SPOCK PRIME
+D: I inferred universe-ending paradoxes would ensue should he break his promise.
+C: SPOCK
+D: You lied.
+C: SPOCK PRIME
+D: I implied.
+C: SPOCK
+D: A gamble...
+C: SPOCK PRIME
+D: An act of faith. One I hope you'll repeat in the future.
+N: Young Spock considers an enduring friendship between him and Kirk... for the first time, understanding it. But --
+C: SPOCK
+D: The future's not what it used to be... in the face of extinction, it's only logical I resign my Starfleet commission and help rebuild our race.
+N: 127A
+C: SPOCK PRIME
+D: And yet, you are in a unique position... you can be in two places at once.
+E: MORE
+C: SPOCK PRIME
+D: I urge you to remain in Starfleet: I've already located a suitable planet on which to establish a Vulcan colony, and assist in the foundation of a new science academy.
+E: CONT'D beat
+N: Young Spock takes that in, resolute...
+C: SPOCK
+D: My future cannot be determined by your past. We are one, but not the same.
+C: SPOCK PRIME
+D: Then I ask that you do yourself a favor. Put away logic. Do what feels right. The world you've inherited lives in the shadow of incalculable devastation... but there's no reason you must face it alone.
+N: Spock Prime moves to the door, stops. Offers the VULCAN SALUTE:
+C: SPOCK PRIME
+D: As my customary farewell would appear oddly self serving, I will simply say... good luck.
+E: CONT'D
+N: Their eyes hold. Spock turns, disappearing into the corridor. Young Spock stares at the empty doorway a beat, his mind a jumble of thoughts... and our MUSIC BUILDS...
+S: INT. STARFLEET CORRIDOR - HANGAR - CONTINUOUS
+N: As Spock Prime walks off down the corridor, he passes right by a man conferring with a nurse -- the man pauses, turns... it's SAREK. Suddenly overcome by a feeling that the stranger who's just passed him is... oddly familiar.
+S: INT. STARFLEET ACADEMY - COUNCIL CHAMBERS - DAY
+N: MUSIC STILL BUILDING -- glass walls reveal THE ENTERPRISE at dock, UTILITY CRAFTS floating around it, repairing. Standing at attention in rows, THE ENTERPRISE CREW -- over four hundred of them wearing DRESS UNIFORMS -- TRACK DOWN the faces, all proud -- and we STOP ON YOUNG KIRK. Composed, focused, a man. The ACADEMY PRESIDENT stands at a podium:
+C: ACADEMY PRESIDENT
+D: This assembly calls Captain James Tiberius Kirk...
+N: Kirk breaks from formation, pivots, marches down the hangar -- past UHURA... SULU... CHEKOV... SCOTTY. All Beaming. Notably absent, is Spock. Kirk ascends the stairs, snaps to attention:
+C: ACADEMY PRESIDENT
+D: Your inspirational valor and supreme dedication to your comrades are in keeping with the highest traditions of service and reflect utmost credit to yourself, your crew, and the Federation. For your... unique solution to the Kobayashi Maru, it's my honor to award you with a commendation for original thinking.
+E: CONT'D
+N: He opens a BOX -- glorious in repose, a MEDAL:
+C: ACADEMY PRESIDENT
+D: By Starfleet Order 28455, you are hereby directed to report to Commanding Officer, USS Enterprise, for duty as his relief.
+E: CONT'D
+N: Kirk turns. Walks to... PIKE. In a wheelchair now, wearing an ADMIRAL'S UNIFORM. Overnight, his hair's turned totally grey -- but despite his trauma, his pride's overwhelming. They SALUTE:
+C: KIRK
+D: I relieve you, Sir.
+C: PIKE
+D: I am relieved. Congratulations, Captain.
+N: Pike containing a smirk, pins the medal to Kirk's chest.
+C: KIRK
+D: Thank you, Sir.
+N: Kirk turns to the crowd. Eyes shining. WILD APPLAUSE. As Kirk rejoins his crew for hugs and congratulations, we go to the BACK of the hangar... SPOCK PRIME. Watching. Moved beyond words. He turns and leaves them to it... and our MUSIC SWELLS as --
+S: INT. U.S.S. ENTERPRISE - BRIDGE - CONTINUOUS
+N: The turbolift WHOOSHES open and in walks Kirk -- to every fan's delight, wearing his iconic GOLD SHIRT. All around him, our crew -- young and fresh-faced but no longer children -- in charge of the greatest starship ever built:
+C: SULU
+D: Maneuvering thrusters and impulse engines at your command, Sir.
+C: CHEKOV
+D: Weapons systems and shields on standby.
+C: UHURA
+D: Dock control reports ready. Yard Command signalling clear.
+C: KIRK
+D: Scotty how are we?
+N: SCOTTY (O.S. OVER COMM LINK) Dilithium chamber at maximum efficiency, Captain.
+C: MCCOY
+D: Same ship, different day.
+E: wry grin
+N: And Kirk pauses. His eyes go over to the empty science console with a sense of incompleteness. In fact, everyone on the bridge feels it. A bitter truth they'll have to accept.
+C: KIRK
+D: Mr. Sulu, prepare to engage thrus--
+N: WHOOSH: the turbolift door opens. SPOCK!!! Wearing his BLUE UNIFORM. Our hearts soar --
+C: SPOCK
+D: Permission to come aboard, Captain.
+C: KIRK
+D: ... Permission granted.
+C: SPOCK
+D: As you have yet to select a first officer, respectfully, I would like to submit my candidacy. Should you desire, I can provide character references.
+N: Kirk nearly laughs. Spock's eyebrow goes up. Something passes between them... it carries acceptance, and trust...
+C: KIRK
+D: It would be my honor, Commander. Maneuvering thrusters, Mr. Sulu. Take us out.
+C: SULU
+D: Aye, Captain.
+N: As the ship maneuvers out of dry dock, Spock takes his place next to Kirk. Gold and blue, side by side.
+S: EXT. STARBASE ONE - DRYDOCK - CONTINUOUS
+N: And the ship crests the drydock portal, drifting into space... blessed one last time by the voice of our Vulcan hero:
+C: SPOCK/NIMOY
+D: Space... the final frontier. These are the continuing voyages of the Starship Enterprise. Her ongoing mission... to explore strange new worlds... to seek out new life forms, and new civilizations... To boldly go, where no one has gone... before...
+N: The TREK THEME SOARS as the Enterprise warps off into a universe of infinite possibilities...
+T: FADE OUT.
+N: T H E B E G I N N I N G ADDENDUM TO SCRIPT: ALTERNATE SCENES ALTERNATE SCENE A THE FOLLOWING DIALOGUE TO BE ASSIGNED TO MAIN OR ADDITIONAL BRIDGE CREW IF TIME AND CASTING PERMITS.
+S: INT. KELVIN BRIDGE
+C: CAPTAIN ROBAU
+D: ... oh my God... A lightning storm... then this... Signal all departments: first contact protocols. Looks like we have someone new on the block. All Stop.
+E: to himself, boggled to deck
+C: KELVIN CREW MEMBER
+D: All stations, FC-3 procedures initiated..."
+C: KELVIN CREW MEMBER COMMS
+D: Broadcasting universal greeting on all open frequencies.
+C: FIRST OFFICER
+D: Sir, should we initiate an active scan?
+C: CAPTAIN ROBAU
+D: That could be seen as an act of provocation -- all readings passive--
+N: Crew members are glued to their telemetry, working consoles:
+C: KELVIN CREW MEMBER
+D: EM sensors in passive sweep...
+C: KELVIN CREW MEMBER
+D: Power signature detected -- level's increasing.
+E: CONT'D
+N: Suddenly, a WARNING BEEP --
+C: OFFICER PITTS CAPTAIN ROBAU
+D: Sir, I have a reading -- they've locked weapons on us! -- Red alert! Arm weapons!
+N: ALARMS BLARE -- LIGHTS GO RED as --
+S: EXT. SPACE - CONTINUOUS
+N: The Narada FIRES a TORPEDO -- IT HEADS FOR THE KELVIN -- then SEPARATES, fracturing into a multi-hit projectile --
+S: INT. U.S.S. KELVIN - CONTINUOUS
+N: Officers SCRAMBLE, brace for impact --
+C: FIRST OFFICER CAPTAIN ROBAU
+D: Torpedo locked on us at 320 degrees, mark two -- incoming -- Evasive pattern Delta-5! fast!
+C: CREW MEMBER
+D: Redirecting auxiliary power to forward shields!"
+C: CREW MEMBER
+D: Aft torpedo tubes are hot!
+E: CONT'D
+S: EXT. U.S.S. KELVIN - CONTINUOUS
+N: A direct hit SMASHES several decks along the DISH of the ship --
+S: INT. U.S.S. KELVIN - BRIDGE - CONTINUOUS
+N: Captain Robau helps a fallen CREW MEMBER up from the floor -- then, on his chair com:
+C: CAPTAIN ROBAU
+D: Damage report!
+T: INTERCUT with:
+S: INT. U.S.S. KELVIN - ENGINE ROOM - CONTINUOUS
+N: Moving with the Kelvin's CHIEF ENGINEER:
+C: KELVIN CREW MEMBER
+D: Diagnostic's back online -- rerouting to auxiliary console.
+N: KELVIN CREW MEMBER 2 Power grid junctions C-7 and E-3 are out...
+C: KELVIN CREW MEMBER
+D: Dispatch repair teams to deck 4.
+C: CHIEF ENGINEER
+D: Our shields did nothing, Sir! Never seen anything like it! Weapons off-line! Main power at 38 percent!
+N: ALTERNATE SCENE B
+C: SPOCK PRIME
+D: Then I ask that you do yourself a favor... put away logic, and do what feels right. The world you've inherited lives in the shadow of incalculable devastation... but there's no reason you must face it alone.
+N: And from around his neck, he removes the PENDANT that until now, we've only caught glimpses of. Places it on the table beside his younger self. The feeling in his eyes is profound...
+C: SPOCK PRIME
+D: This was a gift to me. Representing... a dream. One we were unable to fulfill. The way you can now.
+E: CONT'D softly
+N: And moves to the door. Stops. Offers the VULCAN SALUTE:
+C: SPOCK PRIME
+D: As my customary farewell would appear oddly self serving, I will simply say... good luck.
+E: CONT'D
+N: Their eyes hold. Spock turns, disappearing into the corridor. Young Spock stares at the empty doorway a beat, his mind a jumble of thoughts. Looks to the pendant... and realizes it's a HOLO-EMITTER. After considering a beat, he hits an activation button and a MOVING HOLOGRAPHIC MESSAGE materializes before him: CAPTAIN JAMES T. KIRK. WILLIAM SHATNER. As always, brash, wry, confident -- and SINGING:
+C: KIRK/ SHATNER
+D: Happy birthday to you, happy birthday to you... I know I know, it's illogical to celebrate something you had nothing to do with, but I haven't had the chance to congratulate you on your appointment to the ambassadorship so I thought I'd seize the occasion... Bravo, Spock -- they tell me your first mission may take you away for awhile, so I'll be the first to wish you luck... and to say... I miss you, old friend.
+E: stops, grins beat, emotional
+N: ... and we're PUSHING IN on Young Spock, taking in the image of Kirk's future self, the message, but above all -- the clear, unquestionable friendship these two men had...
+S: INT. CORRIDOR - CONTINUOUS
+N: As Spock Prime walks off down the corridor, he passes right by a man conferring with a nurse -- the man pauses, turns... it's SAREK. Suddenly overcome by a feeling that the stranger who's just passed him is... oddly familiar.
+C: KIRK/SHATNER
+D: I suppose I'd always imagined us... outgrowing Starfleet together. Watching life swing us into our Emeritus years...
+E: V.O.
+S: INT. STARBASE ONE - HANGAR - ETERNAL NIGHT
+N: MUSIC BUILDING -- glass walls reveal THE ENTERPRISE at dock, UTILITY CRAFTS floating around it, repairing. Standing at attention in rows, THE ENTERPRISE CREW -- over four hundred of them wearing DRESS UNIFORMS -- TRACK DOWN the faces, all proud:
+C: KIRK/SHATNER
+D: I look around at the new cadets now and can't help thinking... has it really been so long? Wasn't it only yesterday we stepped onto the Enterprise as boys? That I had to prove to the crew I deserved command... and their respect?
+E: V.O.
+N: And we STOP ON YOUNG KIRK. Composed, focused, proud. A man. And to every fan's delight, finally wearing his YELLOW SHIRT. The FEDERATION COMMANDANT stands at a podium:
+C: COMMANDANT
+D: This assembly calls Captain James Tiberius Kirk...
+N: Kirk breaks from formation, pivots, marches down the hangar -- past UHURA... SULU... CHEKOV... SCOTTY. All Beaming. Notably absent, is Spock. Kirk ascends the stairs, snaps to attention:
+C: COMMANDANT
+D: Your inspirational valor and supreme dedication to your comrades are in keeping with the highest traditions of service and reflect utmost credit to yourself, your crew, and the Federation. By Starfleet Order 28455, you are hereby directed to report to Commanding Officer, USS Enterprise, for duty as his relief.
+E: CONT'D
+N: Kirk turns. Walks to... PIKE. In a wheelchair now, wearing an ADMIRAL'S UNIFORM. Overnight, his hair's turned totally grey -- but despite his trauma, his pride's overwhelming. They SALUTE each other:
+C: KIRK
+D: I relieve you, Sir.
+C: PIKE
+D: ... I am relieved.
+N: He opens a BOX in his lap -- glorious in repose, a MEDAL:
+C: PIKE
+D: And as Fleet Admiral, for your... unique solution to the Kobayashi Maru, it's my honor to award you with a commendation for original thinking.
+E: CONT'D
+N: Pike containing a smirk, pins the medal to Kirk's chest...
+C: PIKE
+D: Congratulations, Captain.
+E: CONT'D a touch choked
+C: KIRK
+D: Thank you, Sir.
+N: Kirk turns to the crowd. Eyes shining. WILD APPLAUSE. OUR MUSIC SOARS. Bones leans in to Sulu, rolling his eyes:
+C: BONES
+D: ... Same ship, different day.
+N: As Kirk rejoins his crew for hugs and congratulations, we go to the BACK of the hangar... SPOCK PRIME. Watching. Moved beyond words. He turns and leaves them to it... as he goes...
+C: KIRK/SHATNER
+D: I know what you'd say -- `It's their turn now, Jim...' And of course you're right... but it got me thinking:
+E: V.O.
+S: INT. STARFLEET HOSPITAL - EARTH - DAY
+N: Our montage comes full circle as we END on Kirk's transmission:
+C: KIRK/SHATNER
+D: Who's to say we can't go one more round? By the last tally, only twenty five percent of the galaxy's been chartered... I'd call that negligent. Criminal even -- an invitation.
+E: MORE
+C: KIRK/SHATNER
+D: You once said being a starship captain was my first, best destiny... if that's true, then yours is to be by my side. If there's any true logic to the universe... we'll end up on that bridge again someday.
+E: CONT'D
+N: Stops, grins. Because this is the part he needs to say most...
+C: KIRK
+D: Admit it, Spock. For people like us, the journey itself... is home.
+N: Young Spock's face. Lost in feelings that flood through him. ALTERNATE SCENE C SKILL DOMES: Questions to be spoken or represented graphically and answers to be dispersed to Vulcan children at directors discretion. Q: What is the arc length of a curve from x equals a to x equals b? A: The integral, from a to b, of the square root of one plus the squared derivative of y with respect to x, d x. Q: Calculate the dimensionality of a fractal whose initiator divides into three equal parts, each of which is replaced by four parts. A: 1.26 Q: What is the dimensionality of a fractal whose initiator divides into r equal parts , each being replaced by N equal parts? A: Dimensionality equals the logarithm of N divided by the logarithm of r. Q: A cone is sliced by a plane that does not intersect the base, nor is the plane parallel to the base. What shape is formed by the intersection? A: An ellipse. Q: What is the formula for the volume of a sphere? A: Four-thirds pi times the radius cubed. Q: What is the electrical charge of an up-type quark? A: Positive two thirds. Q: A discount function with exponential discounting for all periods, and an additional scalar discount for the present, is called what? A: Quasi-hyperbolic. Q: An excessively impatient person, who discounts future values solely because they are not in the present, is called what? A: A hyperbolic or quasi-hyperbolic discounter. Q: In an infinitely repeated classic prisoners' dilemma, how many subgame perfect equilibria exist? A: Infinitely many. Q: How many equilibria exist in a classic Hawk-Dove strategic interaction game? A: Two in pure strategies and one in mixed strategies. (The mixed strategy equilibria is unstable.) Q: What are the two key features of a pure public good? A; Non-excludability and non-rivalry in consumption. Q: What is the only known intelligent life form to have achieved faster-than-light travel without political unification? A: Humans. Assuming, of course, you regard humans as intelligent. Q: What are the six recognized exceptions to the Prime Directive under Federation law? A: LEAVE UNANSWERED Q: What are the four key dimensions of Vulcan aesthetics? A: Leave unanswered Q: What term describes an action that is morally praiseworthy but not morally obligatory? A: Supererogatory. Q: When is an action said to be supererogatory? A: When it is morally praiseworthy but not morally obligatory. ALTERNATE SCENE D Miscellaneous dialogue to be dispersed by director to supporting crew or main cast at his/her discretion. CADETS AT STARFLEET:
+C: CADET
+D: Heard that guy passed second-year exams in his first term.
+C: CADET
+D: Ruining the curve for everyone.
+E: CONT'D
+C: CADET
+D: I'd like to load her photon tubes.
+E: CONT'D
+C: CADET
+D: Can't believe I failed the navigational comp.
+E: CONT'D
+C: CADET
+D: The Newton's not an antique, it's a classic. Give me the Newton over the Enterprise any day.
+E: CONT'D
+C: CADET
+D: Did you see the new assignment roster?
+E: CONT'D
+C: CADET
+D: I flunked the sub-atomic particles quiz.
+E: CONT'D
+C: CADET
+D: They better give me a red shirt for this.
+E: CONT'D
+C: CADET
+D: Do we have time to get married?
+E: CONT'D
+C: CADET
+D: I know this is sudden, but... will you marry me?
+E: CONT'D on one knee
+C: CADET
+D: I'm calling my Mom...
+E: CONT'D
+C: CADET
+D: Can't believe I'm on the Mayflower...
+E: CONT'D
+N: ROMULANS:
+C: ROMULAN OFFICER
+D: Secure the transport deck.
+C: ROMULAN OFFICER
+D: Security team to the docking bay. Report.
+E: CONT'D
+C: ROMULAN OFFICER
+D: Bring the prisoner to the bridge.
+E: CONT'D
+C: ROMULAN OFFICER
+D: Secure the prisoner and take him to the brig.
+E: CONT'D
+C: ROMULAN OFFICER
+D: Federation defenses are weak in this era.
+E: CONT'D
+C: ROMULAN OFFICER
+D: Prepare shuttles for evacuation.
+E: CONT'D
+C: ROMULAN OFFICER
+D: Communications -- monitor all Federation channels.
+E: CONT'D
+C: ROMULAN OFFICER
+D: Scramble signals on all Federation channels.
+E: CONT'D
+C: ROMULAN ENSIGN
+D: Anterior hull breach, deck level seven.
+C: ROMULAN ENSIGN
+D: Security breach in the docking bay, tracking now...
+E: CONT'D
+C: ROMULAN ENSIGN
+D: The Vulcans value logic but not honor.
+E: CONT'D
+C: ROMULAN ENSIGN
+D: No remaining signal - the vessel is gone.
+E: CONT'D
+C: ROMULAN OFFICER
+D: Long live the Romulan Star Empire.
+C: ROMULAN OFFICER
+D: We are being attacked.
+E: CONT'D
+C: ROMULAN OFFICER
+D: Stinking Klingons.
+E: CONT'D
+C: ROMULAN ENSIGN
+D: Captain we have a new contact.
+C: ROMULAN ENSIGN
+D: Firing solution ready.
+E: CONT'D
+C: ROMULAN ENSIGN
+D: Sir, tracking new contact.
+E: CONT'D
+C: ROMULAN ENGINEER
+D: Sir, we have a hull breach in the aft section.
+C: ROMULAN ENGINEER
+D: This is a mining vessel. We don't have the manoeuvrability to follow.
+E: CONT'D
+N: VULCANS:
+C: VULCAN CIVILIAN
+D: Where is planetary security?
+C: VULCAN CIVILIAN
+D: The planet is coming apart!
+E: CONT'D
+C: VULCAN CIVILIAN
+D: Hope is beyond reason.
+E: CONT'D
+C: VULCAN CIVILIAN
+D: Stay together and keep moving.
+E: CONT'D
+C: VULCAN CIVILIAN
+D: Planetary evacuation is in progress.
+E: CONT'D
+C: VULCAN CIVILIAN
+D: This is highly improbable.
+E: CONT'D
+C: VULCAN CIVILIAN
+D: It seems we are under attack.
+E: CONT'D
+C: VULCAN CIVILIAN
+D: I await my fate with a clear consciences.
+E: CONT'D
+C: VULCAN PRIEST
+D: An end is just a beginning.
+N: STARFLEET BRIDGE:
+C: ENSIGN
+D: All com channels open.
+C: ENSIGN
+D: We have clearance from Starfleet.
+E: CONT'D
+C: ENSIGN
+D: Proceeding as directed.
+E: CONT'D
+C: ENSIGN
+D: Transporter deck is operational.
+E: CONT'D
+C: ENSIGN
+D: Shields at one-hundred percent and stable.
+E: CONT'D
+C: ENSIGN
+D: Engineering reports warp core is stable.
+E: CONT'D
+C: ENSIGN
+D: Warp propulsion system is at maximum efficiency.
+E: CONT'D
+C: OFFICER
+D: Monitor all channels.
+C: OFFICER
+D: Bring up schematics for the Defiant, Newton, Armstrong, and Mayflower.
+E: CONT'D
+C: OFFICER
+D: Set a course for Rigel 3 and transmit to the other ships.
+E: CONT'D
+C: ENSIGN
+D: Warp drive is off line, we are on impulse only, repeat, impulse only.
+C: ENSIGN
+D: Sir, we've been detected -- Romulan vessel is turning about.
+E: CONT'D
+C: OFFICER
+D: Rerouting power to port shields.
+C: ENSIGN
+D: Hull breach on deck 38, atmospheric stabilization has been lost.
+C: ENSIGN
+D: Life support is fluctuating.
+E: CONT'D
+N: MEDICAL BAY:
+C: NURSE
+D: Class four casualties here, class three in the next door.
+C: DOCTOR
+D: Dose him alpha waves and resume compressions.
+C: DOCTOR
+D: Cortical stimulation's failing --
+E: CONT'D
+C: NURSE
+D: This should numb the pain.
+C: NURSE
+E: CONT'D
+N: Airways clear.

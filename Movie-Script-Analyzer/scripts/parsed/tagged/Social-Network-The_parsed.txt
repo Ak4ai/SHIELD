@@ -1,0 +1,3687 @@
+M: THE SOCIAL NETWORK
+M: Written by
+M: Aaron Sorkin
+M: May 28, 2009
+M: FROM THE BLACK WE HEAR--
+M: MARK (V.O.)
+M: Did you know there are more people with
+M: genius IQ's living in China than there
+M: are people of any kind living in the
+M: United States?
+M: ERICA (V.O. )
+M: That can't be true.
+M: MARK (V.O.)
+M: it is true.
+M: ERICA (V.O.)
+M: What would account for that?
+M: MARK (V.0.)
+M: Well first of all, a lot of people live
+M: in China. But here's my question:
+T: FADE IN
+S: INT. CAMPUS BAR - NIGHT
+N: MARK ZUCKERBERG is a sweet looking 19 year old whose lack of any physically intimidating attributes masks a very complicated and dangerous anger. He has trouble making eye contact- and sometimes it's hard to tell if he's talking to you or to himself. ERICA, also 19, is Mark's date. She has a girl-next-door face that makes her easy to fall for. At this point in the conversation she already knows that she'd rather not be there and her politeness is about to be tested. The scene is stark and simple.
+C: MARK
+D: How do you distinguish yourself in a population of people who all got 1600 on their SAT's?
+C: ERICA
+D: I didn't know they take SAT's in China.
+C: MARK
+D: I wasn't talking about China anymore, I was talking about here.
+C: ERICA
+D: You got 1600?
+C: MARK
+D: You can sing in an a Capella group.
+C: BRICA
+D: Does that mean that you actually got nothing wrong?
+C: MARK
+D: Or you row crew or you invent a 25 dollar PC.
+C: ERICA
+D: Or you get into a final club.
+C: MARK
+D: Or you get into a final club, exactly.
+C: ERICA
+D: I like guys who row crew.
+N: MARK (BEAT) Well I can't do that. And yes, it means I got nothing wrong on the test.
+C: ERICA
+D: Have you ever tried?
+C: MARK
+D: I'm trying now.
+C: ERICA
+D: To row crew?
+C: MARK
+D: To get into a final club. To row crew? No. Are you, like--whatever--crazy?
+C: ERICA
+D: Sometimes, Mark-seriously-YOU say two things at once and I'm not sure which one we're talking about.
+C: MARK
+D: But you've seen guys who row crew, right?
+C: ERICA
+D: No.
+C: MARK
+D: Okay, well.. they're bigger than me. They're world class athletes. And a second ago you said you like guys who row crew so I assumed you'd met one.
+C: ERICA
+D: I guess I meant I liked the idea of it. The way a girl likes cowboys.
+C: MARK
+D: The Phoenix is good.
+C: ERICA
+D: This is a new topic?
+C: MARK
+D: It's the same topic.
+C: ERICA
+D: We're still talking about the finals clubs?
+C: MARK
+D: Would you rather talk about something else?
+C: ERICA
+D: It's just that since the beginning of the conversation about finals clubs I think I may have had a birthday.
+C: MARK
+D: We can change the subject.
+C: ERICA.
+D: There are more people in China with genius IQ's than the entire population of--
+E: can't get over it
+C: MARK
+D: It's about exclusivity.
+C: T'RICA
+D: .....what is?
+C: MARK
+D: The final clubs. And that's how you distinguish yourself. The Phoenix is the most diverse. The Fly Club, Roosevelt punched the Porc.
+C: ERICA
+D: Which one?
+C: MARK
+D: The Porcellian, the Porc, it's the best of the best.
+C: ERICA
+D: I actually meant which Roosevelt.
+C: MARK
+D: Theodore.
+C: ERICA
+D: Okay, well, which is the easiest one to get into?
+N: MARK takes a cigarette from a pack, lights it, takes a drag and blows the smoke out before he says...
+C: MARK
+D: Hm.
+C: ERICA
+D: What?
+C: MARK
+D: why would you ask me that?
+C: ERICA
+D: I was just asking.
+C: MARK
+D: They're all hard to get into. My friend Eduardo made $300,000 betting on oil futures last summer and he won't get in. Money or the ability to make it doesn't impress anybody around here. Everybody can do that.
+C: ERICA
+D: He made $300,000 in a summer?
+C: MARK
+D: He likes meteorology.
+C: ERICA
+D: You said it was oil futures.
+C: MARK
+D: If you can predict the weather you can predict the price of heating oil. You asked me that because you think the final club that's easiest to get into is the one where I'll have the best chance,
+N: ERICA (BEAT) I've lost my place again.
+C: MARK
+D: You asked me which one was the easiest to get into because you think that's where I have the best chance.
+C: ERICA
+D: The one that's easiest to get into would be the one where anybody had the best chance.
+N: S.
+C: MARK
+D: I just think you asked--the placement of where you asked the question--
+C: ERICA
+D: I was honestly just asking. Okay? I was asking just to ask. Mark, I'm not speaking in code.
+C: MARK
+D: Erica--
+C: ERICA
+D: You're obsessed with the finals clubs. You have finals clubs OCD and you need to see someone about this who'll prescribe some sort of medication. You don't care if side effects may include blindness, okay, just do it.
+C: MARK
+D: Final clubs. Not finals clubs and there's a difference between being obsessed and being motivated.
+C: ERICA
+D: Yes there is.
+C: MARK
+D: Well you do--that was cryptic--so you do speak in code.
+C: ERICA
+D: I didn't mean to be cryptic.
+C: MARK
+D: I'm saving I need to do something substantial in order to get the attention of the clubs.
+C: ERICA
+D: Why?
+C: MARK
+D: Because they're exclusive.
+N: (BEAT) And fun and they lead to a better life.
+C: ERICA
+D: You think Teddy Roosevelt got elected president because he was a member of the Phoenix Club?
+C: MARK
+D: He was a member of the Porcellian and yes I do.
+C: ERICA
+D: Maybe he sang in an a Capella group.
+C: MARK
+D: I want to be straight forward and tell you that I think you should be a lot more supportive. If I get in I'll be taking you to the parties and you'll be meeting people that you wouldn't normally get to meet.
+N: ERICA (SMILES) You would do that for me?
+C: MARK
+D: You're my girlfriend.
+C: ERICA
+D: okay, well I want to be straight forward and tell you that I'm not anymore.
+N: MARK (BEAT) What do you mean?
+C: ERICA
+D: I'm not your girlfriend anymore,
+C: MARK
+D: Is this a joke?
+C: ERICA
+D: No, I'm sorry, it's not.
+C: MARK
+D: You're breaking up with me?
+C: ERICA
+D: You're going to introduce me to people I wouldn't normally get to meet? What the fuck is that supposed to mean?
+C: MARK
+D: Take it easy.
+C: ERICA
+D: What was it supposed to mean?
+C: MARK
+D: It was--Erica, the reason we're able to sit here and drink is that you used to sleep with the door guy.
+N: ERICA (PAUSE) I want to really try not to lose it now. (MORE)
+C: ERICA
+D: The door guy's name is Bobby. I haven't slept with the door guy, the door guy's a friend of mine. He's a perfectly good class of people and what part of Long Island are you from--England?
+E: CONT'D
+C: MARK
+D: I'm from Westchester.
+C: ERICA
+D: I'm going back to my dorm.
+C: MAFT
+D: Wait, wait, thisi reel?
+C: ERICA
+D: Yes.
+C: MARK
+D: I apologize, okay? Siddown.
+C: ERICA
+D: I'm going back to my dorm, I have to study.
+N: MARK ERICA---
+C: ERICA
+D: Yeah.
+C: MARK
+D: I'm sorry and I mean it..
+C: ERICA
+D: I appreciate that but--
+C: MARK
+D: Come on.
+C: ERICA
+D: ---I have to study.
+C: MARK
+D: You don't have to study. Let's just talk.
+C: ERICA
+D: I can't..
+C: MARK
+D: Why?
+C: ERICA
+D: Because it's exhausting. Going out with you is like dating a stairmaster.
+N: S.
+C: MARK
+D: All I meant is that you go to B.U. and so you're not likely to--I wasn't making a comment on your parents--I was saying you go to B.U.
+C: ERICA
+D: I have to go study.
+C: MARK
+D: You don't have to study.
+C: ERICA
+D: How do you know I don't have to study?!
+C: MARK
+D: Because you go to B.U.! ERICA stares at him...
+N: MARK (CONT'D) (BEAT) Do you want to get some food?
+C: ERICA
+D: I'm sorry you're not sufficiently impressed with my education.
+C: MARK
+D: And I'm sorry T don't have a rowboat.
+C: ERICA
+D: I think we should just be friends.
+C: MARK
+D: I don't need friends.
+C: ERICA OF
+D: I was being polite, I had no intention being friends with you.
+C: MARK
+D: You're really leaving. ERICA takes MARK's hand and looks at him tenderly..
+N: ERICA (CLOSE) Listen, You're going to be successful and rich. But you're going to go through life thinking that girls don't like you because you're a tech geek. And I want you to know, from the bottom of my heart, that that won't be true. It'll be because you're an asshole. And with that stinger, ERICA walks off and we stay on MARK as the pulsing intro to Paul Young's "Love of the Common People" CRASHES IN----
+C: ERICA
+D: And you're never getting into a final club. Along with the MUSIC, we slowly push in on MARK. A fuse has just been lit.
+E: CONT'D calling over her shoulder
+N: TITLE:
+C: HARVARD
+D: Fall. Semester, 2008
+T: CUT TO:
+S: EXT. BAR - NIGHT
+N: As MARK busts out of the bar, past Bobby the door guy and into the population of Harvard Square.
+T: CUT TO:
+S: EXT. HARVARD SQUARE - NIGHT
+N: As MARK continues on, he passes a group of people heading in the opposite direction for a party. As MARK's steady and determined stride continues, he'll. pass by all kinds of (seemingly) happy, well-adjusted, socially adept people. The vocals from the Paul Young song come in-- PAUL YOUNG LIVING ON FREE FOOD TICKETS WATER IN THE MILK FROM A HOLE IN THE ROOF WHERE THE RAIN CAME THROUGH WHAT CAN YOU DO? TEARS FROM YOUR LITTLE SISTER CRYING 'CAUSE SHE DOESN'T HAVE A DRESS WITHOUT A PATCH FOR THE PARTY TO GO BUT YOU KNOW SHE'LL GET BY
+T: CUT TO:
+S: INT. KIRKLAND HOUSE/LOBBY - NIGHT
+N: As the MUSIC CONTINUES and MARK busts into the lobby of his dorm. He doesn't look at anyone as he heads up the stairs and WE
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: A bedroom that's part of a three-bedroom suite. The MUSIC CONTINUES as MARK walks in, flicks his lap-top on without looking at it and walks out of frame as we stay on the laptop. PAUL YOUNG 'CAUSE SHE'S LIVING IN THE LOVE OF THE COMMON PEOPLE SMILES FROM THE HEART OF A FAMILY MAN DADDY'S GONNA BUY YOU A DREAM TO CLING TO MAMA'S GONNA LOVE YOU JUST AS MUCH AS SHE CAN
+C: AND SHE CAN
+D: Then a moment or two later, a glass with ice gets set down next to the lap-top. Then a carton of orange juice followed by a bottle of vodka. MARK's fingers dance easily on the keyboard---like a Juilliard pianist warming up. In the exact time it takes him to pour the vodka and orange juice over ice, the website he's just called up gets loaded onto the screen. Zuckonit.com This is the only place he's comfortable.
+N: TITLE: 8:13 PM He begins blogging.
+C: MARY,
+D: Erica Albright'â¢s a bitch. You think that's because her family changed their name from Albrecht or do you think it's because all B.U, girls are bitches? He takes a good gulp of his drink. We see the words we're hearing filling up his computer screen--
+E: V.0.
+C: MARK
+D: Folks, for the record, she may look like a 34D but she's getting all kinds of help from our friends at Victoria's Secret, She's a 348, as in barely anything there.. False advertising.
+E: V,O. CONT'D
+T: CUT TO:
+S: INT. MARX'S DORM ROOM - NIGHT
+N: Fresh ice gets dropped in the glass and a new drink poured. "Love of the Common People" continues. TITLE: 9:48 PM in back of MARK, sitting on the bed and hitting a bong, is BILLY. OLSEN.
+C: MARK
+D: The truth is she has a nice face. I need to think of something to help me take my mind off her. Easy enough, except I need an idea. MARK has moved his mouse to an icon on his desktop labeled "Kirkland Facebook". He clicks and opens it. A menu of photos appear. He blogs again.
+E: V.O.
+C: MARK
+D: I'm a little intoxicated, I'm not gonna lie. So what if it's not even 10PM and it's a Tuesday night? The Kirkland Facebook is open on my desktop and some of these people have pretty horrendous f acebook-pics. Billy Olson's sitting here and had the idea of putting some of these girls' faces next to pictures of farm animals and have people vote on who's hotter. .
+E: V.0. CONT'D
+T: CUT TO:
+S: INT. FINAL CLUB - NIGHT
+N: We'll be cutting back here a lot in this sequence, with the Paul Young song tying them together, as we show---mostly MOS--- preparations under way for the hottest party on campus tonight. We start on a good looking STUDENT fixing his tie in the bathroom mirror. He walks out of the bathroom and into the main area where he's immediately tossed a bottle of champagne by a similarly dressed STUDENT. We see that there are a couple of dozen other guys around. Our guy takes the champagne bottle and sticks it on the bar, which is being stocked by two sexy FEMALE uniformed BARTENDERS. Our guy walks past P. DJ's table where the DJ is setting up his incredibly high-end equipment. Our guy trots down a set of mahogany and red-carpet stairs, opens a heavy door and looks out to the sidewalk. 12, A BOUNCER in a tuxedo is standing by a velvet rope which is holding back three dozen STUDENTS. The students are mostly women and the women are all dressed to catch a man. Over all this, we HEAR MARK CONTINUINGâ
+C: MARK
+D: Good call, Mr. Olson! I think he's on to something.
+E: V.0.
+N: TITLE: 10:17 PM
+C: MARK
+D: year it's on. I'm not gonna do the farm animals but I like the idea of comparing two people together. It gives the whole thing a very Turing feel since people's ratings of the pictures will be more implicit than, say, choosing a number to represent each person's hotness like they do on hotornot.com. The first thing we're going to need is a lot of pictures. Unfortunately, Harvard doesn't keep a public centralized facebook so I'm going to have to get all the images from the individual houses that people are in. Let the hacking begin.
+E: V.0. CONT'D
+T: CUT. TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: There are two more kids-in the room with MARK--DUSTIN MOSKOWITZ and CHRIS.-BUGHES.
+C: MARK
+D: First u is Kirkland. They keep everything open and allow indexes in their Apache configuration, so a little NGET magic is all that's necessary to download the entire Kirkland facebook. Kids' stuff. On the computer screen, we've been seeing him download picture after picture of Harvard girls.
+E: V.0.
+T: CUT TO;
+S: EXT. FINAL CLUB -. NIGHT
+N: THREE COES, dressed kill, are talking BOUNCER. The BOUNCER O l up at TWO HAND CLUB ME BERS. The MEMBERS give him the nod and the THREE COEDS are SOME M let past the velvet rope. They're led. in to a party in full swing. The best and the brightest are checking out the hottest and the easiest.
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: MARK finishes another drink and gets back to his work. TITLE: 1:03 AM
+C: MARK
+D: Next is Elliot. They're also open but with no indexes on Apache. I can run an empty search and it returns all of the images in the database in a single page. Then I can save the page and Mozilla will save all the images for me. Excellent. Moving right along. Flying by at super-speed on MARR's computer screen have been commands and images that the rest of us can't possibly understand.
+E: V.0.
+T: CUT TO:
+S: INT. FINAL CLUB - NIGHT
+N: GIRLS are dancing with each other, doing tequila shots with guys and laughing at jokes. PAUL YOUNG T.T'S A GOOD THING YOU DON'T HAVE A BUSFARE IT WOULD FALL THROUGH A HOLE IN YOUR POCKET AND YOU'D LOSE IT IN THE SNOW ON THE GROUND YOU GOT TO WALK INTO TOWN TO FIND A JOB (WHAT'S A. JOB?) TRYIN' TO KEEP YOUR HANDS WARM WHEN THE HOLE IN YOUR SHOE LETS THE SNOW CONE THROUGH AND CHILLS YOU TO THE BONE NOW YOU BETTER GO HOME WHERE IT'S WARM Over this we HEAR MARK's blog posts starting to cascade into ONE ANOTHER--
+C: MARK
+D: Lowell has some security. They require a username/password combo and I'm going to go ahead and say they don't have access to main faa user database, so they have no way of--â¢
+E: V.0
+N: 14,
+C: MARK
+D: Adams has no security but limits the
+E: V.O. CONT'D
+N: RESULTS TO--
+C: MARK
+D: For Quincy I'm going to have to get a matching name and student I.D. combo and I'm in. All I have to--
+E: V.O. CONT'D
+T: CUT TO:
+N: MARK'S DORM ROOM - NIGHT Ins'r ions and images fly across MARK'S sereen- PAUL YOUNG WHERE YOU CAN LIVE IN THE LOVE OF THE COMMON PEOPLE SMILE FROM THE HEART OF A FAMILY MAN DADDY'S GONNA BUY YOU A DREAM TO CLING TO MAMA'S GONNA LOVE YOU JUST AS MUCH AS SHE CAN AND SHE CAN
+C: MARK .
+D: Dunster is intense. Not only is there no public directory but there's no--
+E: V.0.
+C: MARK
+D: Leverett is a little better. It's slightly obnoxious that they only let you view one picture at a time and I'm not
+E: V.0. CONT'D
+N: ABOUT TO--
+C: MARK
+D: --definitely necessary to break out the emacs and modify that pert script.
+E: V.0. CONT'D
+N: TITLE: 2:08 AM And now anew guy walks into Mark's room. This is EDUARDO SAVERIN--a sweet looking Brazilian sophomore who almost always wears a three--piece suit.
+C: EDUARDO
+D: What's going on?
+C: MARK
+D: Perfect timing. Eduardo's here and he's going to have the key ingredient.
+E: V.0.
+C: EDUARDO
+D: Mark. What's going on?
+N: 15,
+C: MARK
+D: Wardo.
+C: EDUARDO
+D: Did you and Erica split up?
+C: MARK
+D: How did you know that?
+C: EDUARDO
+D: It's on your blog.
+C: MARK
+D: Oh yeah.
+C: EDUARDO
+D: Are you alright?
+C: MARK
+D: I need you.
+C: EDUARDO
+D: I'm here for you.
+C: MARK
+D: No, I need the algorithm you used for the oil futures.
+C: EDUARDO
+D: Are you okay?
+C: MARK
+D: We're ranking girls.
+C: EDUARDO
+D: Why?
+C: MARK
+D: To watch the bottom 200's heads explode.
+N: EDUARDO (HEAT) You think that's such a good idea?
+C: MARY
+D: What's the algozithm?
+T: CUT TO:
+S: INT. FINAL CLUB - NIGL'3T
+N: The CLUB PRESIDENT is addressing the GUESTS from the top of THE STAIRS-
+C: CLUB PRESIDENT
+D: One of the oldest, one of the most exclusive clubs--not just at Harvard but in the world--and I want to welcome you to this year-'s first--
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: EDUARDO' is writing an equation with a grease marker on the window. When the equation's done it looks like this: GIRL A: EA = 1 + 10( b - Ra) / 400 GIRL B: BB 1 + 10(RA _ RB) / 400
+C: EDUARDO
+D: Give each.girl a.-base rating of 1400. At any time `Girl All has a rating R-a and "Girl B" has a rating R-b.
+C: MARK S
+D: When any two girls are matched up there' an expectation of which will win based on their current rating.
+C: EDUARDO
+D: Those expectations are expressed this way.
+E: tapping the window
+C: MARK
+D: Let's write it.
+T: CUT TO:
+S: EXT. FINAL CLUB - NIGHT
+N: A few more attractive co-eds get let in through the velvet rope.
+T: CUT TO t
+N: J_-NT. PARK'S ROOM - NIGHT TITLE: 2:55 AM MARK makes a few last key strokes and a new website comes up on the screen .
+C: FACEMASH
+D: MARK makes a few more keystrokes and two pictures of two Harvard girls come up on the screen. After a moment...
+C: ALL
+D: The one on the left. MARK clicks the girl on the left and another picture takes the place of the girl on the right.
+C: ALL
+D: On the right. MARY clicks the girl on the right while another picture takes the place of the girl on the left.
+E: CONT'D
+C: ALL
+D: Still the right.
+E: CONT'D
+C: EDUARDO
+D: It works.
+C: DUSTIN
+D: Who should we send it to first?
+C: EDUARDO
+D: Dwyer.
+C: CHRIS
+D: Neal.
+C: EDUARDO
+D: Who are you gonna send it to? MARK's made the link to e-mail and hits send.
+N: 18,
+C: MARK
+D: Just a Couple of people. The question is, who are they gonna send it to?
+T: CUT TOT
+S: INT. PHOENIX CLUB - NIGHT
+N: The party's in its drunken stage. We move to a room where there's a co-ed poker game underway with the girls smoking cigars, Aï¿½bra and a couple of pairs of stockings are out on the table, As move through the poker room, we see a computer behind one of the players. The computer is indicating that there's e-mail. A PLAYER 'turns around and opens the e-mail as the poker game and the party go on behind him. at it, then He hits a. link and FACEMASH opens. He looks
+C: PLAYER
+D: Check this out..
+E: to another player
+T: CUT TO:
+S: INT. ANOTHER DORM ROOM - NIGHT
+N: TWO MALE STUDENTS at a laptop.
+C: STUDENT
+D: The one on the left.
+T: CUT TO;
+S: INT. ANOTHER DORM ROOM - NIGHT
+N: THREE MALE STUDENTS AT A COMPUTER
+C: ALL
+D: On the right.
+T: CUT-TO:
+S: INT. ALL NIGHT DINER - NIGHT
+N: A bunch of STUDENTS around a computer.
+C: ALL
+D: The right.
+T: CUT TO:
+S: INT. FINAL CLUB -- NIGHT
+N: Dozens of partiers are around the comp uter. J. 9.
+C: FEMALE STUDENT
+D: She's my roommate.
+T: CUT TO:
+S: INT. CYBER CAFE - NIGHT
+N: A bunch of students around the computer--
+C: MALE STUDENT
+D: She will cut herself open if she gets a low score on this, can somebody figure out how to bust the curve?
+S: INT. ANOTHER DORM ROOM - NIGHT
+N: A FEW STUDENTS gathered at a computer---
+C: .ALL
+D: On the left.
+T: CUT TO:
+S: INT. ANOTHER DORM ROOM - NIGHT
+N: ANOTHER COMPUTER--
+C: ALL
+D: On the right.
+T: CUT TO:
+S: INT. ANOTHER DORM ROOM - NIGHT
+N: This time just a single student in his pajamas as he looks at two pictures of girls side by side.
+T: CUT TO:
+S: INT. ANOTHER DORM ROOM - NIGHT
+N: And another single student voting and
+T: CUT TO:
+S: INT. DORM ROOM - NIGHT
+N: We should instantly know that this dorm room is different. It's more modern and with less character and history than the others. A girl is at her computer and in the background is another girl we can't quite make out who's taking notes from a , i extbook.
+C: GIRL
+D: Oh shit, Albright? We rack focus to the studying girl and see that it's ERICA.
+E: to the other GIRL
+C: GIRL
+D: He blogged about you. ERICA looks at her for a moment, then gets up to look at her
+E: CONT'D
+N: ROOMMATES COMPUTER--
+C: GIRL
+D: No you don't want to read it. ERICA ignores her roommate, We see her mortification as she reads, and at that moment THREE GUYS appear in her open doorway- one of them wearing a padded bra over his Boston University sweatshirt.
+E: CONT'D
+C: GUY
+D: Erica. They lift, separate and support. Thanks for the tip.
+C: GIRL
+D: Get the fuck out, The three guys go on their drunken way as we SLOWLY PUSH IN on ERICA who's frozen in her humiliation and then
+T: CUT TO:
+S: INT. HARVARD DORM ROOM - NIGHT
+C: STUDENTS
+D: The left!
+S: INT. COFFEE HOUSE - NIGHT
+C: STUDENTS
+D: The right!
+S: INT. DINING HALL - NIGHT
+C: STUDENTS
+D: The left!
+S: INT. GIRLS' DORM ROOM - NIGHT
+C: STUDENTS
+D: The right!
+S: INT. MARK'S DORM ROOM - NIGHT
+N: As sets of photos go flying by on his computer screen. MARK is staring at the chaos of activity he's.cr.eated in the middle of the night.
+C: EDUARDO
+D: Mark?
+N: (BEAT) I wonder if maybe you. shouldn't shut it down before you get into trouble. MARK ignores him as we pre-lap a PHONE RINGING and
+T: CUT TO:
+S: INT. BEDROOM - NIGHT
+N: A man named COX is asleep next to his wife. It's his phone that's RINGING. COX wakes up and answers it--
+C: COX
+D: Hello?
+E: into ' phone 
+N: (LISTENS) Wait, what? (LISTENS) At 4 in the morning?
+T: INTERCUT WITH:
+S: INT. HARVARD COMMUNICATIONS OFFICE - SAME TIME
+N: A tired GRAD STUDENT who spends the night monitoring the campus computer system is looking at his computer. GRAD STUDENT (INTO PHONE) well there's a very unusual amount of traffic coming out of Kirkland House.
+C: COX
+D: You're saying it's unusual for 4 in the morning?
+C: GRAD STUDENT
+D: I'm saying it. would be unusual for Mother's Day.
+C: COX
+D: Alright. COX hangs up the phone.
+C: COX
+D: I have to go in.
+E: CONT'D
+C: COX'S WIFE
+D: What's going on?
+C: COX
+D: Harvard's computer system's about to crash.
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: Pictures are flying by on Mark's computer when suddenly they freeze, Then an icon comes up telling him he's no longer connected to the internet. Everyone is frozen silent for a moment...
+C: EDUARDO
+D: You don't think--
+C: MARY
+D: I do,
+C: EDUARDO
+D: Go see if it's everybody. DUSTIN, CHRIS and EDUARDO head out of the room. MARX drains what's left of the vodka and lights a cigarette as the guys start coming back in the room.
+C: DUSTIN
+D: Mine's down.
+C: CHRIS
+D: My computer's' frozen.
+C: EDUARDO
+D: I mean ...unless it's a coincidence I think this is-Us,
+C: MARK
+D: It's not a coincidence.
+N: EDUARDO (BAD) Holy shit. MARK (GOOD) Yeah,
+T: CUT TO;
+S: INT. DEPOSITION ROOM - DAY
+N: It's three years later and MARK is sitting with his LAWYERS at a large conference table. MARK is wearing a hoodie, sweatpants and Adidas flip-flops--a personal uniform that we'll come to understand. And while it may take us a while to notice it, MARK's a different person in these flash-forward scenes. Still tortured and complicated, but comfortable now with his own power. His lawyer is SY, who's accompanied by some junior associates, one of whom--a pleasant, pretty and professional young contemporary of Mark's named MARYLIN, we'll get to know. On the other side are EDUARDO and his lawyer, GRETCHEN, also a. â¢ mpanied by some associates. A STENOGRAPHER is typing the recor.. The room is glass on two sides and through the windows we can see the behemoths of Silicon valley--Oracle, SunMicrosystems, Google, etc. GRETCHEN is taking MARK's deposition.
+C: GRETCHEN
+D: So you were called in front of the Ad Board.
+C: MARK
+D: That's not what happened.
+C: GRETCHEN
+D: You weren't called in front of the Administrative Board?
+C: MARK
+D: No, back, I mean--That's--back at the bar with Erica Albright. She said all that? That I said that stuff to her?
+C: GRETCHEN
+D: i was reading from the transcript of her
+N: DEPOSITION SO--
+C: MARK
+D: why would you even need to depose her?
+C: GRETCHEN
+D: That's really for us to--
+C: MARK
+D: You think if I know she can make me look like a. jerk I'll be more likely--
+N: SY MARKÂ
+C: MARK
+D: --to settle, right?
+N: 24,
+C: SY
+D: Why don't we stretch our legs a minute, can we do that? It's been almost three hours and frankly you did spend an awful lot of time embarrassing Mr. Zuckerberg with the girl's testimony in the bar.
+C: MART
+D: I'm not embarrassed, it's just that she made a lot of that up.
+C: GRETCHEN
+D: She was under oath.
+C: MARK
+D: Then I guess that would be the first time somebody's lied under oath. People are stretching and getting coffee and talking quietly. MARK stays in his seat. MARYLIN, the attractive second year associate who's on Mark's legal team is still sitting too... about four seats down from Mark.
+C: MARYLIN
+D: Eight percent of the male population of Harvard had been on it within two hours?
+N: MARK (BEAT) Eighty.
+C: MARYLIN
+D: What?
+N: MARK ' ' Eighty percent of the male population. MARYLIN (PAUSE--EVEN) Wow.
+T: CUT TO:
+S: EXT. CHARLES RIVER - DAWN
+N: The Harvard Crew is practicing on two-man sculls. There are three boats that are running roughly even with each other and the two-man crews are rowing with all they've got. We're gliding along with them in the water-- CREW MEMBER (SHOUTING) Bring up the rate! 2 in 2! One..two-- 25, ANOTHER CREW MEMBER (DIFFERENT
+C: BOAT)
+D: Power 10 in 2! In 2!
+N: A THIRD CREW MEMBER (DIFFERENT
+C: BOAT)
+D: They had open water after a hundred meters. I don't think we're gonna catch 'em today. And we PULL BACK TO REVEAL that there's a fourth boat which is already five boat, ngths ahead of the other three.
+N: The fourth boat is being crewed by CAMERON and TYLER WINKLEVOSS----identical twins who stepped out of an ad for Abercrombie and Fitch. They know that the others aren't in their class and even though they're highly competitive athletes, they don't like showing anyone up, least of all their teammates.
+C: CAMERON
+D: Is there anyway to make this a fair fight?
+C: TYLER
+D: We could jump out and swim.
+C: CAMERON
+D: I think we'd have to jump out and drown.
+C: TYLER
+D: I'm not willing to do that.
+C: CAMERON
+D: What are we at three-quarter power? Let's drop down to a half.
+C: TYLER
+D: Or you could row forward and I could row backward.
+C: CAMERON
+D: I'd kick your ass.
+C: TYLER
+D: We're genetically identical, so biology and mathematics says we'd stay in one place not allowing for the current or the wind.
+C: CAMERON
+D: Just row the boat.
+N: 26, And the WINI{LEVOSS twins kick into full gear and open up an even wider lead as we.
+T: CUT. TO:
+S: INT. DINING HALL - MORNING
+N: Two stacks of The Crimson, Harvard's student newspaper, get dropped on the floor as TYLER and CAMERON walk by--their trays loaded with mountains of eggs and pancakes and carbs. Everyone knows and loves them in this 200 year old dining hall and they wave and shout to a few people and whisper to a couple of very pretty girls before taking a seat next to DIVYA NARENDRA, a nice looking Indian student whose face is in a copy of the Crimson.
+C: CAMERON
+D: What's up?
+C: DIVYA
+D: You guys hear about this?
+C: CAMERON
+D: What?
+C: DIVYA
+D: Two nights ago a sophomore at Kirkland crashed the computers.
+C: CAMERON
+D: Which computers?
+C: DIVYA
+D: All of them. Be crashed the whole system. TYLER picks up a copy-of the Crimson and begins reading while his brother and DIVYA keep talking.
+C: CAMERON
+D: How?
+C: DIVYA
+D: He set up a website where you vote on the hotness of female Harvard undergrads. What were we doing that none of us heard about this?
+C: CAMERON
+D: I don't know. Rowing, going to class, studying? How much activity was there on this thing that he crashed the--
+N: TYLER (READING) 22,000 votes. There were 22,000 hits, (MORE)
+C: TYLER
+D: Cam, this guy hacked into the facebooks of seven houses in two hours. He set up the whole site in one night while he was drunk.
+E: CONT'D
+C: CAMERON
+D: 22,000 hits?
+C: TYLER
+D: Yeah.
+C: CAMERON
+D: How do you know he was du- - - _
+C: TYLER
+D: He was blogging simultaneously. Divya?
+C: DIVYA
+D: I'm way ahead of you.
+C: TYLER
+D: This is our guy.
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+N: It's MARX and his LAWYERS again but this time on the other side of the table are TYLER and CAMERON, DLVYA and the.i.r lawyer, GAGE, whose family had first-class seats on the Mayflower. we' .l.]. be back and forth between the two deposition rooms a lot,
+C: CAMERON
+D: Cameron Winklevoss. W-I-N-K-L-E-VWO-S-S. Cameron's spelled the usual way.
+E: for the record
+C: TYLER
+D: Tyler. Winklevoss. Tyler's spelled the usual way and my last name is the same as my brother's.
+E: for the record
+T: CUT TO:
+S: INT. ADMINISTRATIVE HEARING ROOM - DAY
+N: MARK stands before a panel of ADMINISTRATORS as well as COX, the systems manager who was woken up in the opening sequence.
+C: ADMINISTRATOR
+D: Mr. Zuckerberg, this is an Administrative Board hearing.
+N: (MORE) 28,
+C: ADMINISTRATOR
+D: You're being accused of intentionally breaching security, violating copyrights and violating individual privacy by creating the website, WWW.FACEMASH.COM. You're also charged with being in violation of the university's policy on distribution of digitized images. Before we begin with our questioning you're allowed to make a statement. Would you like to do so?
+E: CONT'D
+N: MARK (BEAT) Uh...I've, you know, I've apologized in the Crimson to the ABHW, to Fuerza Latina and to any women at Harvard who might have been insulted as I take it they were by the things that have been said tome in the last week. As for any charges stemming from the breach of security, I believe I deserve some sort of recognition from this Ad Board. ADMINISTRATOR (PAUSE) I'm sorry?
+C: MARK
+D: Yes.
+C: ADMINISTRATOR
+D: I don't understand.
+C: MARK
+D: Which part?
+C: ADMINISTRATOR
+D: You believe you deserve recognition?
+C: MARK
+D: I pointed-out some pretty gaping holes in your system.
+C: COX
+D: Excuse me, may I?
+C: ADMINISTRATOR
+D: Yes.
+C: COX
+D: Mr. Zuckerberg, I'm in charge of security for all computers on the Harvard system. I can assure you of its sophistication and in fact it was that level of sophistication that led us to you in less four hours.
+C: MARK
+D: Four hours?
+C: COX
+D: Yes sir.
+C: MARE
+D: That would be impressive except the algorithm I used was written on my dorm room window. Keep up the great work.
+T: CUT TO:
+S: INT. CORRIDOR -- DAY
+N: As the heavy wooden door from the hearing slams shut behind MARK. EDUARDO is waiting for him.
+C: EDUARDO
+D: Well?
+C: MARK
+D: Six months academic probation. They walk out onto--
+S: EXT. QUAD - CONTINUOUS
+C: EDU.ARDO
+D: It could have been worse.
+C: MARK
+D: No it couldn't. They made me apologize.
+C: EDUARDO
+D: To who?
+C: MARK
+D: To them. Over and over.
+C: EDUARDO
+D: It's alright.
+C: MARK
+D: No.
+C: EDUARDO
+D: It's okay. You're fine.
+N: MARK (PAUSE) I shouldn't have said the thing about the farm animals. That was stupid. Everybody's mad at me now. 30,
+C: EDUARDO
+D: Maybe, but at least everybody knows you now.
+T: CUT TO:
+S: INT. LECTURE HALL - DAY
+N: MARX is in his Operating Systems class. This is considered the hardest class at Harvard and MARK is one of the 50 students with their laptops open as the professor takes them through an impossibly difficult lesson,
+C: PROFESSOR
+D: So let's look at a sample problem: Suppose we're given a computer with a 16- bit virtual address and a page size of 256 bytes. A GIRL scribbles something on a piece of paper. Then hands it to the student next to her and nods that it should be passed over to MARK. While that's happening--
+C: PROFESSOR
+D: The system uses one-level page tables, which start at address 0x0400. Maybe you want to have DMA. on your 16-bit system, who knows? The first few pages are reserved for hardware flags, etc. MARK opens the note., It reads "Asshole". He looks over and sees a couple of GIRLS looking at him with contempt.
+E: CONT'D
+C: PROFESSOR
+D: Assume page table entries have eight status bits. MARK closes his laptop, gets up and starts to head out of the hall.
+E: CONT'D
+C: PROFESSOR
+D: The eight status bits would be--
+E: CONT'D
+N: (RE: MARK) And I see we have our first surrender. Don't worry, Mr. Zuckerberï¿½, brighter, men than you have tried and failed at this class. MARK (CALLING BACK) 1 valid bit, 1 modify bit, 1 reference bit and 5 permission bits. MARK walks out of the lecture hall and we
+T: CUT TO:
+S: EXT. ACADEMIC BUILDING - DAY
+N: As MARK comes out and heads onto the quad-- CAMERON (OS) (CALLING) Mark? CAMERON and TYLER have been waiting by the entrance.
+C: CAMERON
+D: Are you Mark?
+E: CONT'D
+C: MARK
+D: Yeah.
+C: CAMERON
+D: I'm Cameron winklevoss.
+N: MARK
+C: TYLER
+D: Tyler Winklevoss.
+N: MARY (BEAT) Are you guys related?
+C: CAMERON
+D: Good.
+C: TYLER
+D: That's funny.
+C: CAMERON
+D: We've never heard that before.
+C: MARK
+D: Did I insult your girlfriends? What can I do for you?
+C: CAMERON
+D: No, you didn't insult our girl--
+N: (TO TYLER) Actually, I don't know. TYLER (TO CAMERON) We never asked.
+C: CAMERON
+D: We should do that.
+N: 32,
+C: TYLER
+D: Yeah.
+C: CAMERON
+D: No, we have an idea we want to talk to you about. Do you have a minute?
+N: MARK (PAUSE) You guys look like athletes.
+C: CAMERON
+D: We are.
+C: MART
+D: What do you do?
+C: TYLER
+D: We row crew.
+C: MARK
+D: Yeah, I've got a minute.
+E: pause---then smiles a little
+T: CUT TO:
+S: INT. PORCELLIAN CLUB - DAY
+N: The most exclusive of all the final clubs. DIIVYA is sitting in the main living room with a textbook open as the heavy wooden door opens and MARK is escorted in by TYLER and CAMERON.
+C: TYLER
+D: You ever been in the Porcellian?
+C: MARK
+D: No.
+C: TYLER
+D: We can't take you past the living room but we can sit here and talk.
+C: DIVYA
+D: H i.. MARK is stealing a glance around the room...
+C: CAMERON
+D: Mark? This is Divya Narendra, our partner.
+C: MARK
+D: Hi.
+C: DIVYA
+D: We were really impressed with Facemash and then we checked you out and you also built CourseMatch. MARK is looking at the framed black and white group pictures on the wall. of old Porcellian classes. He sees a pretty co-ed on the couch with her legs stretched over her boyfriend while they study.
+C: DIVYA
+D: Mark?
+E: CONT'D
+C: MARK
+D: Yeah .
+C: CAMERON
+D: CourseMatch. You go online, you get to see what courses your friends are taking?
+C: MARK
+D: Yeah.
+C: DIVYA
+D: And you invented something in high school.
+C: MARK
+D: An app for an MP3 player that recognizes your taste in music.
+C: DIVYA
+D: Anybody try to buy it?
+C: MARK
+D: Microsoft.
+C: DIVYA
+D: How much did they pay?
+C: MARK
+D: I didn't sell it. I uploaded it for free.
+N: DIVYA MARK
+C: DIVYA
+D: MARK gives a short shrug that says both "I don't know" and "Fuck you" at the same time.
+N: 3n,
+C: CAMERON
+D: Well we've been working for a while on an idea. It's called HarvardConnecti.on. You create your own page, Picture, bio, interests, friends.
+C: TYLER
+D: People can see your bio and request to be
+N: YOUR--
+C: MARK
+D: Yeah. How's this different from MySpace or Friendster?
+C: TYLER
+D: How?
+C: MARK
+D: Yeah.
+C: TYLER
+D: Harvard-dot-E--D-U.
+C: CAMERON
+D: Harvard.edu. The most prestigious e-mail address in the country.
+C: TYLER
+D: This site would be based on the idea that girls want to meet guys who go to Harvard. The difference between what we're talking about and MySpace,
+N: FRIENDSTER---
+C: MARK
+D: --is exclusivity,
+N: (BEAT) Right? TYLER (BEAT) Yes.
+C: CAMERON
+D: We want you to be an equal partner. Our first programmer graduated and went to work at Google. Our second programmer just got overwhelmed with school work. We want you to write the code and build the site and we'll provide---
+C: MARK
+D: I'm in.
+C: CAMERON
+D: --the money. What?
+C: MARK
+D: I'm in.
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM -- DAY
+N: The WINKLEVOSSES and DIVYA with GAGE.
+C: GAGE
+D: "I'm in"?, that's what you said?
+C: MARK
+D: It was three or four years ago, I don't know what I said.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+N: EDUARDO with GRETCHEN.
+C: GRETCHEN
+D: When did you come to Eduardo?
+C: MARK
+D: I don't understand that question.
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+C: GAGE
+D: Do you remember answering in the affirmative?
+C: MARK
+D: The affirmative?
+T: CUTTO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: GRETCHEN
+D: I'm asking when you came to Eduardo with the idea for Facebook.
+C: MARK
+D: It was called TheFacebook back then.
+T: CUT TO:
+N: TNT_ SECOND DEPOSITION ROOM - DAY
+C: GAGE
+D: This doesn't need to be that difficult.
+C: MARK
+D: I'm in the middle of two different lawsuits.
+C: GAGE
+D: Did you answer affirmatively? When Tyler and Cameron Winklevoss and Divya Narendra asked you to build HarvardConnection, did you say yes?
+C: MARK
+D: I said I'd help.
+T: CUT TO:
+N: TNT. FIRST DEPOSITION ROOM - DAY
+C: GRETCHEN
+D: When did you approach Mr. Saverin with the idea for TheFacebook?
+C: MARK
+D: I wouldn't say I approached him.
+C: GRETCHEN
+D: Sy?
+C: SY
+D: You can answer the question.
+C: MARK
+D: It was at a party at Alpha Epsilon Pi.
+C: GRETCHEN
+D: What's that?
+C: MARK
+D: The Jewish fraternity. It was Caribbean Night.
+T: CUT TO:
+S: INT. LARGE LECTURE HALL - NIGHT
+N: The lecture hall has been converted into "Alpha Epsilon Pi Caribbean Night, 2003" and the party is about as lame as it sounds. What's important is that this couldn't be less like the final club party we saw at the beginning if they were playing Pin the Tail on the Donkey. Some potted palm trees have brought in along with a steel drum set. The man playing the steel drum set has a yarmulke bobby pinned to his thinning hair. A table with a punch bowl and assorted cookies is nearby. EDUA.RDO, in baggy cargo shorts and a Hawaiian shirt buttoned up to the top, is standing with a few similarly dressed friends, including DUSTIN MOSKOWITZ and CHRIS HUGHES, in the sparsely populated room. On the other side of the room are a few girls--all Asian. One of the girls is wearing a bikini over her clothes. A television monitor has been set up with a. DVD running of Niagara Falls.
+C: EDUARDO
+D: It's not that guys like me are generally attracted to Asian girls. It's that Asian girls are generally attracted to guys like me.
+C: DUSTIN
+D: I'm developing an algorithm to define the connection between Jewish guys and Asian girls.
+C: EDUARDO
+D: I don't think it's that complicated. They're hot, they're smart, they're not Jewish and they can't dance.
+C: CHRIS
+D: Mark's here. They see MARK come in and look around. EDUARDO waves him over...
+N: EDUARDO (CALLING) Mark. MARK sees EDUARDO and waves him over to where he is. He wants to talk privately.
+C: EDUARDO
+D: I'll be back in a minute. EDUARDO joins MARK in the back of the room and they take up a spot next to a bay window that's covered on the outside with ice.
+E: CONT'D
+C: MARK
+D: I think I've come up with something.
+C: E DUARDO
+D: Hang on, I've gotta tell you something you're not going to believe.
+C: MARK
+D: What?
+C: EDUARDO
+D: I got punched by the Phoenix.
+N: MARK (BEAT) Are you kidding?
+C: EDUARDO
+D: No. I mean it's just the first of the four step process but they slipped the invitation under my door tonight. T go to the first punch party tomorrow and if they like me--
+C: MARK
+D: Yeah.
+C: EDUARDO
+D: --I get the second invitation and then the third and then who knows?
+C: MARK
+D: You got punched by the Phoenix.
+N: EDUARDO (PAUSE) It was, you know ...I'm sure it was just a diversity thing, And I'm never gonna make it in, it was just a diversity thing. So I'll just ride that'horse until--what did you want to talk about? (PAUSE) Mark?
+C: MARK
+D: Yeah.
+C: EDUARDO
+D: You said you think you've come up with something. It seems like MARK's just made a small decision in his head,
+N: MARK
+C: (PAUSE
+D: Yeah. I think I've come up with something. Come outside.
+C: EDUARDO
+D: It's 20 degrees outside.
+C: MARK
+D: I don't want to stare at that loop of Niagara Falls which has absolutely nothing to do with the Caribbean.
+T: CUT TO:
+S: EXT. QUAD NIGHT
+N: MARK and EDUARDO come outside and are immediately met by the freezing cold air.
+C: MARK
+D: People came to Facemash in a stampede, right?
+C: EDUARDO
+D: Yeah.
+C: MARK
+D: It wasn't because I put up pictures of hot girls. You can go anywhere on the internet and see pictures of hot girls.
+C: EDUARDO
+D: Yeah.
+C: MARK
+D: It was because I put up pictures of girls that people knew. So if people Want to go on the internet and check out their friends, why can't I build a website that offers that? An online community of friends. Pictures, profiles, whatever you can click into, visit, browse around. All from the privacy of your dorm room. I'm not talking about a dating site. I'm talking about taking the entire social structure of college and putting it online.
+C: EDUARDO
+D: I can't feel my legs.
+C: MARK
+D: I know, I'm totally pumped about this.
+N: BUT WARDO--
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: EDUARDO
+D: "It would be exclusive".
+T: CUT BACK TO:
+S: EXT. QUAD - NIGHT
+C: MARK
+D: --it would be exclusive. You'd have to know the people on the site to get in. Like getting punched.
+N: 40,
+C: EDUARDO
+D: This is interesting.
+C: MARK
+D: Like our own Final club except not only can we get into this one, we're the president.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: EDUARDO
+D: I told him I thought it sounded great. I mean it did, it was a great idea. There was no reason to hack, people were going to put their own pictures up. What they were interested in, what they were looking for, what classes they were taking... and people had the ability to invite their friends to join. Or put a different way, not invite their friends to join. In a world where social structure is very important, that was sexy.
+N: (BEAT) It was a big project and he was going to have to write tens ofâ¢thousands of lines of code so I wondered why'he was coming to me and not his roommates. Dustin Moskowitz and Chris Hughes were programmers.
+T: CUT TO:
+S: EXT. QUAD - NIGHT
+C: MARK
+D: We're gonna need a little start-up cash to rent'the servers and get it online.
+T: CUT TO;
+S: INT. FIRST DEPOSITION ROOM - NIGHT
+C: EDUARDO
+D: That was why.
+C: GRETCHEN
+D: Did he offer business terms?
+T: CUT TO:
+S: EXT. QUAD - NIGHT
+C: MARK
+D: We'll split it 70-30. 70 for me and 30 for you for putting up a thousand dollars and handling everything on the business end. You'll be CFO.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: GRETCHEN
+D: And you said?
+C: EDUARDO
+D: I said "Let's do it".
+C: GRETCHEN
+D: Okay. Did he add anything else?
+C: EDUARDO
+D: Yes. He said---
+T: CUT TO:
+S: EXT. QUAD - NIGHT
+C: MARK
+D: It probably was a. diversity thing but so what?
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: GRETCHEN
+D: Why do you think he said that?
+C: BY
+D: Gretchen, what's the relevancy?
+C: GRETCHEN
+D: This is discovery, I'm trying to discover.
+C: MARK
+D: They're suggesting I was jealous of Eduardo and began a plan to screw him out of the company.
+C: GRETCHEN
+D: Were you?
+N: SY GRETCHEN-- 42,
+C: MARK
+D: Jealous of Eduardo?
+C: SY
+D: Stop typing, we're off the record.
+C: MARK
+D: Ma'am, I know you've done your homework and so you know that money isn't a big part of my life, but at the moment I could buy Harvard University, take the Phoenix Club and turn it into my ping pong -room.
+T: CUT TO:
+S: EXT. QUAD - NIGHT
+N: EDUARDO's walking away and calls back to MARK-- EDUARDO (CALLING) I'll let you know how the party is, We stay on MARK for a moment longer, his wheels turning, BEFORE WE
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+N: EDUARDO's in different:.clothes and being questioned by GAGE.
+C: GAGE
+D: We recognize that you're a plaintiff in one suit involving Facebook and a witness in another.
+C: EDUARDO
+D: Yes sir,
+C: GAGE
+D: At any time in the three weeks prior to Mark telling you his idea, did he mention Tyler Winklevoss, Cameron Winklevoss, Divya Narendra or HarvardConnection?
+C: EDUARDO
+D: Yes. He said they'd asked him to work on their site but that he'd looked at what they had and decided it wasn't worth his time. Uhh, he said even his most pathetic friends knew more about getting people interested in a website than these guys.
+C: GAGE
+D: "These guys" meaning my clients.
+C: EDUARDO
+D: Yes. He resented--Mark resented that they- --that your clients, probably thought he would jump at the chance to rehabilitate his image after the Facemash thing but Mark didn't want to rehabilitate anything. With Facemash he'd beaten the Harvard computers, he'd beaten the Ad Board and he made the girls mad. Facemash did what he wanted it to do. MARK kind of nods a little to himself. It should be noted that these depositions have an extra element of dish ort as everything is being said within a few feet of the peop" being talked about.
+C: GAGE
+D: Were you aware that while Mr. Zuckerberg was building TheFacebook he was also communicating with the plaintiffs?
+C: EDUARDO
+D: Not at the time I wasn't. I am now.
+C: GAGE
+D: Were you aware that while Mr. Zuckerberg was building TheFacebook, he was leading the plaintiffs to believe he was building Harvard Connection?
+C: SY
+D: I have some problems with that question.
+C: EDUARDO
+D: No I wasn't. MUSIC kicks in that will tie this next section together as we
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: Two printouts of web pages are taped to a white board-- "Friendster" and "MySpace". Under the two pages, MARK draws a third page and titles it "TheFacebook". Then he makes the decision to turn the capital "T" into a lower case "t" and it becomes "theFacebook" as we
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+N: GAGE (READING) From mark Zuckerberg to Tyler Winklevoss. November 30, 2003. (MORE)
+C: GAGE
+D: "I read over all the stuff you sent me re Harvard Connection and it seems like it shouldn't take too long to implement, so we can talk about it after I get all the basic functionality up tomorrow night."
+E: CONT-D
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: The whiteboard is filled with diagrams now under the heading "theFacebook"--login page,, profile page, create account-We move over to see MARK at his computer. He opens the Emacs program and then Firefox, hits a few keys and the diagram on the whiteboard comes-to life on his computer as we
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+C: GAGE
+D: Mark Zuckerberg to Cameron Winklevoss. December 1, 2003. "Sorry I was unreachable tonight. I just got about three of your missed. calls. I was working on a problem set for my systems class." CAMERON and TYLER are looking blankly at MARK who's giving them a casual "I'm not scared.of'â¢you" look and we
+T: CUT TO:
+S: INT. PHOENIX HOUSE -,-NIGHT
+N: The MUSIC CONTINUES as EDUARDO and other prospective new members, all wearing tuxedos, are lined up in four rows. The boy at the front of each row has a bottle of Jack Daniels and drinks as long as they can before passing the bottle, relay style, to the boy in back of him as a few seniors look on. EDUARDO gets handed the bottle and starts in as we
+T: CUT TO:
+N: TNT. CLASSROOM - DAY It's an Art History class and as we run past the rows of STUDENTS we see that they all have the same painting up on their laptops as the PROFESSOR gives his lecture. When we get to MARK's laptop we see that he's writing code for theFacebook AND WE
+T: CUT TO:
+N: TNT. SECOND DEPOSITION ROOM - DAY
+C: GAGE
+D: Mark Zuckerberg to Cameron and Tyler Winklevoss. December 10, 2003. "This week has been pretty busy thus far with classes and work so I think it's probably best to postpone the meeting."
+T: CUT TO:
+N: INT, CAMERON AND TYLER'S DORM ROOM - NIGHT CAMERON, TYLER and DIVYA are reading the e-mail. DIVYA (READING) "I'm also really busy tomorrow." (BEAT) Anybody else feel like there's something up with this guy?
+C: CAMERON
+D: Tell him okay but we've gotta make sure we meet before we all head off for break.
+T: CUT TO:
+S: INT. EDUARDO'S DORM ROOM - NIGHT
+N: EDUARDO's at his desk with his head in a thick textbook when an envelope that says "Phoenix" is slipped under his door. Be turns and looks to see it-then pumps his fist in victory as WE
+T: CUT TO:
+N: TNT. MARK'S DORM ROOM - NIGHT Every available wall space is covered with a diagram or a printout. EDUARDO comes in with the envelope. EDUARDO MARK--
+C: MARK
+D: I need a dedicated Linux box running Apache webserver with a mySQL backend. It's gonna cost a little more money.
+C: EDUARDO
+D: How much more?
+C: MARK
+D: Two-hundred more.
+N: 46,
+C: EDUARDO
+D: Do we need it?
+C: MARK
+D: To handle the traffic.
+C: EDUARDO
+D: Do it.
+C: MARK
+D: I already did.
+C: EDUARDO
+D: Hey, guess what? I made the second cut.
+E: shows MARK the envelope
+C: MARK
+D: Good job. You should be proud of that right there, don't worry if you don't make it any further.
+C: EDUARDO
+D: I'll get outa,here.
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+N: The MUSIC CONTINUESâ GAGE (READING) Mark Zuck'erberg to Tyler and Cameron Winklevoss and Divya Narendra. December 15, 2003. "I have" a cs problem set that I'm just getting started with and it should be about 15 hours of coding so I'll be busy tomorrow night."
+T: CUT TO:
+S: INT. CAMERON AND TYLER'S DORM ROOM - NIGHT
+N: DIVYA (READING) "I won't really be free to meet until next Wednesday afternoon."
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+N: GAGE (READING) .have to cancel Wednesday afternoon. (MORE)
+C: GAGE
+D: I've basically been in the lab this whole time and also..."
+E: CONT'D
+T: CUT TO:
+S: INT. THE PORCELLIAN CLUB -- NIGHT
+N: DIArYA's reading 'off his blackberry to TYLER and CAMERON-- DIVYA (READING) "Won't be able to do it Saturday as I have to meet up with my parents to.."
+T: CUT TO:
+S: EXT. HARVARD YARD - NIGHT
+N: The MUSIC CONTINUES-- It's snowing and cold as hell. EDUARDO's now with a smaller group of prospective members, most of whom are in their underwear with a couple of them wearing pants. They're all blue and shivering. They're gathered around a statue of John Harvard as a senior announces--
+C: SENIOR
+D: As the plaque reads, this is John Harvard, founder of Harvard University in 1638. It's also called The Statue of Three Lies. What are the three lies?
+N: SOPHOMORE (SHOUTING) Sir!
+C: SENIOR
+D: Mr. Dowd,
+C: SOPHOMORE
+D: The three lies--
+N: (BEAT) THE FIRST-- (BEAT) Shit!
+C: SENIOR
+D: Take your pants off.
+C: EDUARDO
+D: I know.
+C: SENIOR
+D: Mr. Saverin.
+C: EDUARDO
+D: 1) Harvard was founded in 1636, not 1638. 2) Harvard wasn't founded by John Harvard and 3) That's not John Harvard.
+C: SENIOR
+D: who is it?
+C: EDUARDO
+D: A friend of the sculptor, Daniel. Chester-
+C: SENIOR
+D: You can?-.-tpi your shirt on. And as another kid simply falls to his hands and knees and throws up, we
+T: CUT TO:
+S: INT. EDUARDO'S DORM ROOM - NIGHT
+N: EDUARDO's studying at his desk but this time wrapped in blankets and wearing gloves when the envelope with "Phoenix" gets slid under his door. He smiles.
+S: INT. SECOND DEPOSITION ROOM - DAY
+C: GAGE
+D: 39 days after Mr. â¢Zuokerberg's initial meeting with my clients and he still hadn't completed work on HarvardConnection. But on January 11,
+N: 2003--
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - DAY
+N: A website called Network Solutions is up on Mark's screen. He hits a couple of keys and waits intently. Then the computer shows him what he wanted to see-- www.theFacebook.com-â¢--DOMAIN NAME REGISTERED
+T: CUT TO,
+S: INT. SECOND DEPOSITION ROOM - DAY
+C: GAGE
+D: To the best of your knowledge, had he even begun work on HarvardConnection?
+C: EDUARDO
+D: Not to my knowledge.
+T: CUT TO:
+S: INT. CAMERON AND TYLER'S DORM ROOM - NIGHT
+N: CAMERON's looking at his e-mail.
+C: CAMERON
+D: what in the hell is this?
+C: TYLER
+D: What?
+N: CAMERON (READING) "I'm still a little skeptical that we have enough functionality in the site to really draw the attention and gain the critical mass necessary to get a site like this to run."
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+C: GAGE
+D: This is the first time he mentioned any problem?
+C: DIVYA
+D: Yes it was.
+C: GAGE
+D: You'd sent 39 e-mails to Mr. Zuckerberg and received 13 return e-mails and this was the first time--
+C: DIVYA
+D: He had 42 days to study our system and get out ahead on---
+C: MARK
+D: Do you see any of your code on Facebook?
+C: GAGE
+D: Sy?
+N: SY (CALMING HIM) MARK--
+C: MARK
+D: Did I use any of your code?
+C: DIVYA
+D: You used our whole fuckin' idea!
+C: SY.
+D: Gentlemen.
+C: MARK
+D: Match-dot-com for Harvard guys?
+C: GAGE
+D: Can I continue with my deposition?
+C: MARK
+D: You know you really don't need a damn forensic team to get to the bottom of this. If you guys were the inventors of Facebook you'd have invented Facebook.
+C: DIVYA
+D: I'm just gonna stand over your shoulder while you write is a check.
+C: MARK
+D: No shit.
+N: SY (TO GAGE) Let's continue, DIVXA'a still staring at MARK, who just smiles a little as he looks down. GAGE (BEAT) February 4th, 2003-
+T: CUT TO:
+S: INT. COMPUTER SCIENCE LAB - DAY
+N: MARK is working at a station. We can see through the windows that it's a frigid, snowy February day in Cambridge but MARK':: in his hoodie and cargo shorts nonetheless. It looks like he hasn't slept in days.. On his monitor we can see that he's working on the profile page for theFacebook. DUSTIN MOSKOWITZ steps up to him quietly,
+C: DUSTIN
+D: Mark?
+N: (PAUSE) Mark. MARX turns his head and looks at him... DUSTIN (CONT'D) (QUIETLY) There's a girl in the art history class that you take. Her name is Stephanie Attic, Do you happen to know if she has a boyfriend? MARK just keeps looking at him--barely even blinking---"Why am I being interrupted?" DUSTIN (CONT'D) (BEAT) I mean, have you ever seen her with anyone? (BEAT) And if not, do you happen to know if she's looking to go out with anyone? MARK (PAUSE) Dustin. People don't walk around with a sign on them that says-- And MARK stops short right there. Because in his head, he's just discovered the cure for cancer. DUSTIN (PAUSE) Mark?
+S: EXT. CO&PUTER SCIENCE BUILDING - DAY
+N: As MARK, with his backpack stuffed, comes flying out of the building and into the snow, barely keeping his balance on the ice and we
+T: CUT TO:
+N: TNT. KIRKLAND HOUSE/LOBBY - MORNING The heavy door bursts open and MARK comes busting through. He makes his way with speed and intent up a flight of stairs. Then another. And then another until he gets to his floor. He sprints down his hall toward his dorm room and barely notices EDUARDO leaning against the door.
+C: EDUARDO
+D: We were supposed to meet at 9. MARK is searching the pockets of his shorts for his keys.
+C: EDUARDO
+D: Have you slept yet? MARK opens the door and they go into his suite--
+E: CONT'D
+C: MARK
+D: I have to add a feature.
+C: EDUARDO
+D: What are you adding?
+N: 52, MARK's in his own world as he sits at the computer and calls up theFacebook. The home page fills the screen. EDUARDO (CONT'D) (SIMPLY) Shit. (BEAT) That looks good. (BEAT) That looks really good.
+C: MARK
+D: It's clean and simple. No flashing lights. The CAMERA surveys the screen as MARK slips through some functions to show EDUARDO and we see things that are now familiar--A photo, sex, a profile, a list of attributes, a poke application, etc. MARK ) But watch. MARK's called up a the Emacs program and quickly writes out several lines of code...
+E: cONT' T
+C: EDUARDO
+D: What'd you write?. MARK goes back to the profile page. There's a new area to be filled in...
+C: MARK
+D: "Relationship Status", "Interested In".
+N: (BEAT) These two things are what drive life at college. Are you having sex or aren't you. It's why people take certain classes, sit`where they sit, go where they go, do what they do, and at its, um, center,`you know, that's what theFacebook is gonna be about, People are gonna log on because after all the cake and watermelon there's a chance they're gonna-
+C: EDUARDO
+D: --meet a girl.
+C: MARK
+D: --get laid. Yes.
+C: EDUARDO
+D: Really?
+N: MARK (BEAT) And that's it. EDUARDO (BEAT) What do you mean?
+C: MARK
+D: It's ready.
+C: EDUARDO
+D: It's ready?
+C: MARK
+D: Yeah.
+C: EDUARDO
+D: Right now?
+C: MARK
+D: It's ready, that was it. And here's the masthead, MARK hits another couple of keystrokes and the website's masthead comes up.
+C: EDUARDO
+D: You made a masthead.
+C: MARK
+D: Yeah.
+N: EDUARDO (READING) "Eduardo Saverin, Co-Founder and CFO."
+C: MARK
+D: Yeah.
+C: EDUARDO
+D: You have no idea how much that's going to mean to my father.
+C: MARK
+D: Sure I do.
+N: EDUARDO (PAUSE) When's it gonna go live?
+C: MARK
+D: Right now. Get your laptop out.
+C: EDUARDO
+D: Why do we need my laptop?
+C: MARK
+D: Because you've got e-mails for everyone at the Phoenix.
+N: 54, EDUARDO (BEAT) I'm not sure if it's gonna be cool with them that I spammed their--
+C: MARK
+D: It's not Spam.
+C: EDUARDO
+D: I didn't mean Spam, it's not Spam, it's
+N: JUST THAT--
+C: MARK
+D: If we send it to our friends it'll just bounce around the computer lab,
+C: EDUARDO
+D: I haven't gotten in yet.
+C: MARK
+D: These guys know people and these guys know girls. I need their e-mails.
+N: EDUARDO (BEAT) Sure. EDUARDO takes out his laptop--
+C: MARK
+D: Let's start with the president.
+C: EDUARDO
+D: "Jabberwockl2@Harvard E-D-U."
+C: MARK
+D: Like the Lewis Carrol?
+C: EDUARDO
+D: Yeah. MARK opens up an e-mail and is writing a short message, then includes a link to the site--
+C: MARK
+D: These guys.
+C: EDUARDO
+D: I know,
+C: MARK
+D: Think they're literary geniuses because the world's most obvious Lewis Carroll reference is in their--
+C: EDUARDO
+D: They're not so bad.
+C: MARK
+D: I'm just saying.
+C: EDUARDO
+D: You're right.
+N: MARK (DONE) Okay. He hits "Send".
+C: MARK
+D: The site's live.
+E: CONT'D
+N: EDUARDO (PAUSE) You know what? Let's go get a drink and celebrate. MARK is staring at the computer...
+C: EDUARDO
+D: Mark? MARK doesn't hear him. We just see MARK's head from the back and it's ever so slightly bobbing back and forth...
+E: CONT'D
+N: EDUARDO (CONT'D) (PAUSE) Mark? (BEAT) Are you praying?
+T: CUT TO:
+S: INT. CAMPUS PUB - NIGHT
+N: THE CROCODILLOS, Harvard's oldest male a Capella group, are singing at the front of the pub in their usual uniform of white tie and tails. Incongruously, but with surprisingly nice results, the group is covering a song from The Backstreet-Boys--"I Want it That Way"--and the pub full of students is loving it. We find a table in the back where DIVYA is sitting with some of his friends who are having a nice time. DIVYA's got his laptop open.
+C: MALE FRIEND
+D: When did the Crocodillos start covering the Backstreet Boys? What happened to Cole Porter and Irving Berlin?
+N: 56,
+C: FEMALE FRIEND
+D: It's a Valentine's theme. They're singing love songs.
+C: MALE FRIEND
+D: Good point, 'cause Cole Porter and Irving Berlin never wrote any love songs,
+C: FEMALE FRIEND
+D: Divya, what are you reading?
+C: DIVYA
+D: Seven different people spammed me the same link. We see DIVYA click his mouse on the link--
+C: FEMALE FRIEND
+D: What is it?
+N: DIVYA (DRYL Y) I don't know, but I'm really hoping it's video of kittens that look like the Marx Brothers 'cause I can never get enough file footage on my computer of animals doing... DIVYA trails off. We Slowly PUSH IN on his face as the blood starts draining away... MALE FRIEND (PAUSE) Div?
+C: DIVYA
+D: I--uh...I have to go. DIVYA shuts his laptop, grabs it off the table and starts to bolt out of the pub. His foot gets caught on a chair leg and he falls hard face-first to the floor.
+E: beat.
+C: DIVYA
+D: Shit. He starts out again, then comes back for his coat, grabs it; starts out and falls down all over again. Finally he's got it together and flies out of the pub and we
+E: CONT'D
+T: CUT TO;
+S: INT. BOATHOUSE - NIGHT
+N: CAMERON and TYLER are rowing in a large practice tank--a simulator with a hull, oars and rowable water. They're focused and charging away in perfect sync when the door at the end of the century-old boathouse opens and DIVYA charges In from the co:Ld with his laptop and a copy of the Crimson in his hands. DIVYA (CALLING) Hey! The twins are in the zone and don't pay any attention. DIVYA (CONT'D) (LOUDER) Hey !
+C: CAMERON
+D: Not now, we've got another 5000 meters.
+N: DIVYA (CALMLY) Okay. I just wanted to let you know Zuckerberg stole our website. TYLER stops rowing and then CAMERON. They look at DIVYA...
+C: DIVYA
+D: Mark Zuckerberg stole our website. It's been live for over 36 hours.
+E: CONT'D
+T: CUT TO-
+S: INT. CAMERON AND TYLER' S DORM ROOM - NIGHT
+N: They're in gear. CAMERON's taken a quick shower but didn't dry off'. He's in sweatpants with a towel over his shoulder, talking on the phone with his father and holding the Crimson. DIVYA's on his cell looking for MARK and TYLER, still in his practice clothes, has his desktop computer open to theFacebook and is studying it. DIVYA (INTO CELL) I left a message with his R.A., I left two, now I'm leaving one here. CAMERON (INTO PHONE) I'm looking at the article in the Crimson. DIVYA (INTO CELL) Narendra. CAMERON (INTO PHONE) Today's. - 58 DIVYA (INTO CELL) N-A---just tell him Divya, he knows who I am. (clicks off phone and starts to dial another number) Asshole knows who I am. CAMERON (INTO PHONE) It's titled, "Hundreds Register for New Facebook Website" and then the sub- headline is "Facemash creator seeks new reputation with latest online project." DIVYA (INTO CELL) It's me again. Can you try looking for his roommates? Their names are Chris Hughes and Dustin Moskowitz. CAMERON (INTO PHONE) No it's today's paper, it went online yesterday morning around 10. DIVYA (INTO CELL) I don't have the slightest idea. CAMERON (INTO HONE) Mr. Hotchkiss. DIVYA (INTO CELL) Thank you.
+C: CAMERON
+D: Ty, the lawyer's on the phone with dad.
+E: covering the phone
+N: (INTO PHONE) I'm here with my brother, Tyler, and our partner, Divya.
+C: TYLER
+D: "Welcome to theFacebook, TheFacebook is an online directory that connects people through social networks. You must have a Harvard.edu address to register."
+E: reading off the computer
+N: CAMERON (INTO PHONE) That's right. DIVYA (INTO CELL) I called earlier. I'm looking for Mark Zuckerberg. CAMERON (INTO PHONE) Yes sir, he's quoted a couple of times. I can read--it says, "'Everyone's been talking a lot about a universal .facebook within 1 arvard', he says"--he meaning Mark--"I think it's kind of silly that it would take the University a coupl-e-af years to get around to it. I can do Â± better than they can and I did in a week." DIVYA (INTO CELL) Could you leave word that Divya Narendra called, I appreciate it. CAMERON (INTO PHONE) I know, that's how he talks.
+C: DIVYA
+D: (off another copy of the
+C: CRIMSON)
+D: "As of yesterday evening, Zuckerberg said over 650 students had registered to use theFacebook.com. He said he anticipated that 900 students would have joined the site by this morning."
+N: CAMERON (INTO PHONE) Yeah, Divya was just reading that he'd signed up 650 people on the first day.
+C: TYLER
+D: If I were a drug dealer I couldn't give free drugs to 650 people in one day.
+C: DIVYA
+D: And this kid doesn't have four friends.
+C: CAMERON
+D: Guys, please, for just one second.
+E: quieting them so he can hear
+N: (INTO PHONE) That's what we'll do, Mr. Hotchkiss. We're gonna put it all, together right now and e-mail it to you. (LISTENS) You won't be able to get on the site yourself. (beat--.a little uncomfortable) (MORE)
+C: CAMERON
+D: Because you went to Ohio State. But we'll take care of everything and we'll talk to you first thing in the morning. This is a
+E: CONT'D
+N: GOOD GUY--- DIVYA (REACTING) Whoa !. ; CAMERON (INTO PHONE) --and he's very bright and I'm sure he didn't mean to...do what he did. (BEAT) Thank you very much, and dad, we'll talk to you in the morning too. Thanks. CAMERON hangs up,
+C: DIVYA
+D: This is a good guy?
+C: CAMERON
+D: We don't know that he'.s not a good guy.
+C: DIVYA
+D: We know that he took our idea and stole it. We know that-he lied to. our faces for a month and a half-while he--
+C: CAMERON
+D: He didn't lie to our faces.
+C: DIVYA
+D: He never saw our. faces! Fine, he lied to our e-mail accounts and he got himself a 42-day head start because he knows what apparently you don't which is that getting there first is everythinal
+C: CAMERON
+D: I'm a competitive racer, Div, I don't think you need to school me on the importance of getting there first.
+N: DIVYA (BEAT) Alright. That was your father's lawyer on the phone with you?
+C: CAMERON
+D: Yeah, well his in-house counsel, We're gonna send him everything and he'll look at it and if he thinks it's appropriate he'll send a cease and desist letter.
+C: DIVYA
+D: A cease and desist letter doesn't have any teeth.
+C: CAMERON
+D: You think we should hire lawyers and sue him?
+C: DIVYA
+D: I think we should hire lawyers and have them beat him senseless with a crescent wrench.
+C: TYLER
+D: We don't have to do that.
+C: CAMERON
+D: That's right.
+C: TYLER
+D: We can do it ourselves.
+N: CAMERON HEY--
+C: TYLER
+D: I'm six-five, 220-pounds and there are two of me.
+C: CAMERON
+D: And I'm saying let's Calm down until we know what we're talking about.
+C: DIVYA
+D: Just how much more information are you waiting for? We met with Mark three times, we exchanged 52 e-mails, we can prove that he looked at the code, he'd seen what Victor had already done and we talked at length about what we planned to do.
+N: (POINTING) The page looks the same: (THEN) What is that on the bottom?
+C: CAMERON
+D: It says "A Mark Zuckerberg Production".
+E: he's already seen it
+C: DIVYA
+D: On the home page?
+C: CAMERON
+D: On every page.
+N: 62 .
+C: DIVYA
+D: Hang on, 'cause I need a minute to let the classiness waft over me.
+N: CAMERON LOOK- TYLER (CALMLY) Cam. (he recites from the Crimson thout having to read it) They wr "Zuckerberg said that he hoped the prly options would help to restore his reputation following student outrage over Facemash.com". (BEAT) That's exactly what we said to him. He's telling us to go fuck ourselves. We know plenty of people at the Crimson. While we're waiting for dad's lawyer to look this over, we can at least---
+C: CAMERON
+D: No.
+C: TYLER
+D: --get something going in the paper so that people know-
+C: CAMERON
+D: What?
+C: TYLER
+D: That this thing is in dispute.
+C: CAMERON
+D: We're not starting a knife fight in the Crimson and we're not suing anybody.
+C: DIVYA
+D: Why not? CAMERON wants-to answer the question but doesn't..
+C: DIVYA
+D: Why not?
+E: CONT'D
+C: CAMERON
+D: He'll say it's stupid.
+E: beat--referring to TYLER
+C: TYLER
+D: Me?
+C: CAMERON
+D: Yeah.
+C: DIVYA
+D: Say it. Why not?
+C: CAMERON
+D: Because we're gentlemen of Harvard.
+N: (BEAT) This is Harvard. You don't plant stories and you don't sue people. (BEAT) That's why. There's a right way to do things. DIVYA (PAUSE) You thought be was going to be the only one who thought that was stupid?
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+C: GAGE
+D: During the time when you say you had this idea, did you know that Cameron and Tyler carne from a family of means?
+N: MARK (PAUSE) A family of means?
+C: GAGE
+D: Did you know that his father was wealthy.
+N: MARK (PAUSE) I'm not sure why you're asking me that.
+C: GAGE
+D: It's not important that you be sure why I'm asking you.
+C: MARK
+D: It's not important to you.
+C: GAGE
+D: Sy.
+E: asking for help again
+N: 'SY (TO MARK) Did you know that they came from money?
+C: MARK
+D: I had no idea whether they came from money or not.
+N: 64,
+C: GAGE
+D: In one of your e-mails to Mr. Narendra you reference Tate Winklevoss' consulting firm.
+N: MARY (BEAT) If you say so.
+C: GAGE
+D: Tate Winklevoss founded the firm and its assets are in the hundreds of millions.
+C: MARK
+D: or roughly the amount I paid in income tax last year, go on.
+C: GAGE
+D: You also knew that Cameron and Tyler were members of a Harvard final club called the Porcellian.
+C: MARK
+D: They made a point of pointing that out.
+C: TYLER
+D: Excuse us for inviting you in.
+N: GAGE (TO TYLER) Hey. (TO MARK) So it's safe to say you were aware that my clients had money?
+C: MARK
+D: Yes.
+C: GAGE
+D: Let.me tell you why I'm asking. I'm wondering why, if you needed a thousand dollars to start up your project, you didn't ask my clients for it. They'd demonstrated to you an interest in this kind of thing so--
+C: MARY
+D: From that you're deducing that I didn't go to them because I didn't want them to know what I was working on? I went to my best friend for the money because he's who I wanted to be partners with because of our similar vision and his superior business skills. Eduardo was president of the Harvard Investors Association and he was my best friend.
+C: GAGE
+D: Your best friend is suing you for 600- million dollars.
+C: MARK
+D: I hadn't heard, tell me more.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: SY
+D: Eduardo, what happened after the initial launch?
+C: GRETCHEN
+D: I'm sorry, Sy, would you mind addressing him as Mr. Saverin?
+C: SY
+D: They're best friends, Gretchen.
+C: GRETCHEN
+D: Not anymore.
+C: SY
+D: We just went through this on the-- nevermind. Mr. Saverin, what happened after the initial--
+C: EDUAPÏ¿½DO
+D: It exploded.
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+C: DIVYA
+D: Everyone on campus was using it. "Facebook me" was a common expression after two weeks.
+C: SY
+D: And Mark?
+C: DIVYA
+D: Mark was the biggest thing on a campus that included 19 Nobel. Laureates, 15 Pulitzer Prize winners, two future Olympians and a movie star.
+C: SY
+D: Who was the movie star?
+N: DIVYA (PAUSE) Does it matter? 66,
+C: SY
+D: No.
+T: CUT TO:
+N: EXT./EST. AUDITORIUMi - NIGHT The lamps in Harvard Yard light the snow falling.
+C: SPEAKER
+D: The seminal event for me was when he was in Harvard Square and picked up a copy of Popular Electronics Magazine that ha the MITS Altair Kit on the cover.
+E: VO
+S: INT. AUDITORIUM -- SAME TIME
+N: There's a lower-level and a balcony and both are full. MARK and EDUARDO are sitting in the second to last row of the balcony. We'll hear the SPEAKER but we'll only get to see him in a slightly blurry image as our attention is on MARK and EDUARDO.
+C: SPEAKER
+D: And it was a clear day, And I was up in my Radcliffe dorm. And he brought that up there and said, "Look, it's going to happen without us. We've got to do it now." And so I said..."Okay." He gets an appreciative LAUGH from the STUDENTS.
+C: SPEAKER
+D: Now the startingâ¢of this industry was very humble indeed. The kit computer on the cover-of that magazine-- We HEAR a little muffled giggling coming from the row behind MARK and EDUARDO, MARK is too into the speech to notice but the giggling registers as a slight annoyance on EDUARDO's face.
+E: CONT'D
+C: SPEAKER
+D: --had an 8080 processor in it, and you had to assemble it yourself and it came with 256K of memory. EDUARDO hears the giggling again and turns around. In the row behind them and a few seats over are two beautiful Asian students.--ALICE and JENNY. They're a little overly made- up for a lecture. JENNY, the one sitting closest to EDUARDO, is wearing a short skirt with a white shirt: open one button too far down the front and we can see a hint of the red bra she's wearing underneath.
+E: CONT'D
+N: She leans forward and whispers to EDUARDO-- JENNY (WHISPERING) Your friend--isn't that Mark Zuckerberg? EDUARDO (BEAT) You know Mark?
+C: JENNY
+D: Didn't he make theFacebook? EDUARDO smiles a little ...this has just never happened--
+C: EDUARDO
+D: Yeah. Both of us. It's mine and his. It's our--we're--yes.
+N: JENNY (STILL WHISPERING) Way cool. I'm Jenny. This is Alice. EDUARDO can't help noticing--just because it's in his line of sight--that down the row from the girls, someone else is pointing at them and whispering to a friend. Then back to the girls-- EDUARDO (WHISPERING) Very nice to meet you. JENNY (WHISPERING) Facebook me when you get home. Maybe we can all go out for a drink later. EDUARDO (WHISPERING) Certainly. I'll certainly--absolutely I will do that. EDUARDO turns back to the speaker, who MARK hasn't taken his eyes off of--
+C: SPEAKER
+D: There were a set of machines that came after that. The TRS-80, Apple II,
+N: COMMODORE PET--
+T: CUT TO:
+S: EXT. AUDITORIUM - NIGHT
+N: As the CROWD from the lecture spills out onto the snowy quad. EDUARDO--always in his suit-.-is buttoning up his overcoat as he walks and MARK zips up his hoodie.
+C: EDUARDO
+D: She said "Facebook me" and we can all have a drink later. Which is stunningly great for two reasons. One, she said "Facebook me". Right? And the other is that, you know--
+C: MARK
+D: They want to have drinks later.
+C: EDUARDO
+D: Yes: Have you ever heard so many different good things packed into one ordinary-sized sentence? A group of guys hustle up to MARK and EDUARDO--
+C: STUART
+D: Excuse me. Mark?
+C: MARK
+D: Yeah.
+C: STUART
+D: I'm Stuart Singer. I'm in your O.S. lab.
+C: MARK
+D: Sure.
+C: STUART
+D: Awesome job with theFacebook.
+C: VIKRAM
+D: Awesome job.
+C: MARK
+D: Thanks.
+C: BOB
+D: I'm Bob.
+C: MARK
+D: How you doin'.
+C: BOB
+D: You know, I could swear he was looking at you when he said the next Bill Gates could be right in this room.
+C: MARK
+D: I doubt it.
+C: BOB
+D: I showed up late, I don't even know who he was.
+N: MARK (BEAT) It was Bill Gates.
+C: BOB
+D: Oh shit, that makes sense. As MARK and EDUARDO walk on, we leave STUART, VIKRAM and BOB in the background---with STUART and VIKRAM admonishing BOB with--
+N: STUART/VIKRAM (TO BOB) Are you a moron?/Are you medically stupid?/You can't recognize Bill Gates when he's standing in front of you for an hour?/Mark Zuckerberg now thinks we got into Harvard on a dimwit scholarship./I'm gonna get a Glock 39 and I'm going to kill you./I'm actually going to kill you/etc.
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: As the door opens and MARK and EDUARDO come into the overheated warmth of the room.
+C: EDUARDO
+D: It's time to monetize the thing.
+C: MARK
+D: Those Asian girls were cute. What were their names?
+C: EDUARDO
+D: Did you hear what I said?
+C: MARK
+D: When?
+C: EDUARDO
+D: I said it's time to monetize the site.
+C: MARK
+D: What does that mean?
+C: EDUARDO
+D: I mean it's time for the website to generate revenue.
+N: 70,
+C: MARK
+D: No I know what the word means. I'm asking how do you want to do it?
+C: EDUARDO
+D: Advertising.
+C: MARK
+D: No. What were their names?
+C: EDUARDO
+D: We've got 4000 members.
+C: MARK
+D: 'Cause theFacebook is cool. If we start installing pop-ups for Mountain Dew it's
+N: NOT GONNA--
+C: EDUARDO
+D: Well I wasn't thinking it would be Mountain Dew but at some point--and I'm speaking as the business end of the
+N: COMPANY--THE SITE--
+C: MARK
+D: We don't even know what it is yet. We don't know what it is, what it can be, what it will be. We know it'â¢s cool, that's a -priceless asset and we're not giving it up. EDUARDO is sitting at MARK's desk and he's seen something sitting on top of a pile of'books.,,
+C: EDUARDO
+D: Mark, what is this?
+C: MARK
+D: What, EDUARDO holds up a letter that's on a lawyer's stationary.
+C: EDUARDO
+D: This,
+C: MARK
+D: I think it's called a cease and desist letter. What were their names?
+C: EDUARDO
+D: Who?
+C: MARX
+D: The girls. EDUARDO's speed reading the letter.
+C: EDUARDO
+D: When did you get this?
+C: MARK
+D: About 10 days ago. Right after we launched the site.
+C: EDUARDO
+D: Jesus Christ.
+C: MARK
+D: I liked th shorter one.
+C: EDUARDO
+D: They're saying--the Winklevoss twins are saying you stole their idea.
+C: MARK
+D: I find that to be mildly annoying.
+C: EDUARDO
+D: They find it to be property theft. Why--
+N: MARK LOOK--
+C: EDUARDO
+D: --why didn't you show this to me?
+C: MARK
+D: It was addressed to me.
+C: EDUARDO
+D: They're saying we stole theFacebook from Divya Narendra and the Winkâ
+C: MARX
+D: I know what it says.
+N: EDUARDO (PAUSE) Did we?
+C: MARK
+D: What?
+C: EDUARDO
+D: Please don't screw around with me now.
+C: MARK
+D: I'm not.
+C: EDUARDO
+D: Look at me.
+C: MARK
+D: What are you, my mother?
+C: EDUARDO
+D: The letter says we could face legal action.
+C: MARK
+D: No, it says I could face legal action.
+C: EDUARDO
+D: It's from a lawyer, Mark. They must feel they have some grounds for--
+C: MARK
+D: The lawyer is their father's house counsel, I checked it out, they're not,
+N: YOU KNOW---
+C: EDUARDO
+D: Do they have grounds?
+C: MARK
+D: Yes, the grounds are theFacebook is cool. and popular and sexy and HarvardConnection is lame. I didn't use any of their code, I didn't use anything. A guy who builds a really nice chair doesn.'t owe money to everyone who,,, ever built a chair. Th ey came to me with an idea, I had a better one.
+C: EDUARDO
+D: Why didn't you show me the letter?
+C: MARK
+D: I didn't think. it was a big deal..
+C: EDUARDO
+D: If there's' something wrong--if there's ever anything wrong--you can tell me. I'm the guy who can help.
+N: (PAUSE) - Is there anything you need to tell me?
+C: MARK
+D: No,
+C: EDUARDO
+D: What are we doing about this?
+C: MARK
+D: I went to a 3-L at Student Legal services and he told me to write them back.
+C: EDUARDO
+D: What did you say?
+T: CUT TO:
+N: TNT. SECOND DEPOSITION ROOM DAY GAGE (READING) "When we met in January, I expressed my doubts about the site--where it stood with graphics, how much programming was left that I had not anticipated--
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: EDUARDO (READING) "---the lack of hardware we had to deal with, the lack of promotion that was needed to successfully launch the website--
+T: CUT TO:
+S: INT. SECOND DEPOSITION ROOM - DAY
+N: GAGE (READING) "--etc." This was the first time you raised any of those concerns, right?
+C: MARK
+D: I'd raised concerns before.
+C: DIVYA/TYLER
+D: Bullshit./Not to us.
+N: GAGE (QUIETING) Fellas. (back to MARK) I'm talking about at the meeting in January to which this letter is referring.
+C: MARK
+D: Yeah.
+C: GAGE
+D: Let me re-phrase this. You sent my clients 32 e-mails. In the first 31, you didn't raise any concerns.
+N: MARX (BEAT) Is that a question? 74-
+C: GAGE
+D: In the 32nd e-mail you raised concerns about the site's functionality. Were you leading them on for six weeks?
+C: MARK
+D: No.
+C: GAGE
+D: Why hadn't you raised any of these--
+N: MARK (QUIETLY) It's snowing.
+C: GAGE
+D: I'm sorry?
+C: MARK
+D: It just started snowing.
+C: GAGE
+D: Mr. Zuckerberg, do I have your full attention?
+C: MARK
+D: No.
+N: GAGE (BEAT) Do you think I deserve it? . MARK What.
+C: GAGE
+D: Do you think I deserve your full attention?
+C: MARK
+D: I had to swear an oath before we began the deposition phase and I don't want to get arrested for perjury so I have a legal obligation to say no.
+C: GAGE
+D: Okay. "No" you don't think I deserve your attention.
+C: MARX
+D: I think if your clients want to stand on my shoulders and call themselves tall they have a right to give it a try. But there's no requirement that I enjoy being here listening to people lie. You have part of my attention--the minimum amount needed.
+N: (MORE)
+C: MARK
+D: The rest of my attention is back at the offices of Facebook where my employees and I are doing things that no one in this room, including and especially your clients, are intellectually or creatively capable of doing. Did I adequately answer your condescending question? GAGE just looks casually at MARK. MARK doesn't meet his gaze, or the looks from DIVYA, TYLER and CAMERON...
+E: CONT'D
+N: SY (BEAT) I've got 12:45. Why don't we.say that's lunch.
+C: GAGE
+D: Back at 2:30?
+C: SY
+D: Good. Everyone gets np and we
+T: CUT TO:
+N: INT. MARK'S DORM ROOM -â¢ NIGHT EDUARDO puts the letter back on. the desk and looks at MARK... EDUARDO (PAUSE) Their names were Jenny and Alice- They want to have drinks tonight.
+T: CUT TO:
+S: INT. MEN'S ROOM - NIGHT
+N: It's a nice men's room--mahopny stalls--in a nice club in Cambridge. We HEAR the thumping of the house music coming from the club. And then one of the wooden stall doors flies open and EDUARDO is shoved in, followed by JENNY, who did the shoving. She's all over him as she presses him back against the divider. EDUARDO's hands are sliding under JENNY'S white shirt and finding the red bra when they hear a noise. Someone's gone into the next stall. EDUARDO (WHISPERING) Shit. JENNY (WHISPERING) I don't care. JENNY keeps him pinned against the divider as she reaches down and unbuckles his belt.
+C: EDUARDO
+D: . Oh God.
+E: quietly--nervous
+N: JENNY (WHISPERING) That's right. And then he hears another noise from the stall next door. A thump against the divider. JENNY's got his fly unzipped. EDUARDO looks down at the space between the stalls. He sees a pair of Adidas flip-flops. Then the sound of moaning, Before EDUARDO has time to say anything, JENNY pulls her shirt open, revealing the red bra, and puts her hand down his pants as we
+T: CUT TO:
+S: INT. CLUB/MEN'S ROOM - NIGHT
+N: MARK and EDUARDO are standing guard outside the door. They're silent but very happy. A guy comes along to use the men's room.
+C: EDUARDO
+D: Sorry. It'll just be a minute. Some girls are freshening up in there.
+C: GUY
+D: Sweet. The guy goes off...
+E: nodding a little
+N: EDUARDO (PAUSE) Mark. (BEAT) We have groupies. MARK can't help a smile. Then he sees something...
+C: MARK
+D: I'll be right back.
+C: EDUARDO
+D: Where you going?
+N: MARK makes his way through the crowd toward a round booth. A girl is sitting there and even though her back is to MARK he can recognize her. She's with a girlfriend and three guys. When he makes it to the booth he says--
+C: MARK
+D: Erica? ERICA, from the opening scene, turns her head and looks up to see MARK. She's looking sexy for her Friday ni.ght on the town and the three guys she's with are studs. A few more friends of theirs are standing around at the edges of the booth.
+N: ERICA (PAUSE) Hi Mark.
+C: MARK
+D: I saw you from over there. I didn't know you came to this club a lot.
+C: ERICA
+D: It's my first time.
+C: MARK
+D: Mine too. It's not bad. It's not. great. The music's kind of lame. Could I talk to you alone for a second?
+C: ERICA
+D: I think I'm good right here.
+C: MARK
+D: okay. MARK is aware of everyone else around the booth.
+N: MARK (CONT'D) (BEAT) I don't know if you heard about this new website I launched.
+C: ERICA
+D: No.
+C: MARK
+D: ThePacebook?
+C: ERICA
+D: You called me a bitch on the internet, Mark.
+C: MARK
+D: I'm really sorry about that.
+C: ERICA
+D: On the internet.
+C: MARK
+D: That's why I came over.
+C: ERICA
+D: comparing women to farm animals?
+C: MARX
+D: I didn't end up doing that.
+C: ERICA
+D: It didn't stop you from writing it. As if every thought that tumbles through your head is so clever it would be a crime for it not to be published. The internet's not written in pencil, Mark, it's written in ink and you published that Erica Albright was a bitch.
+N: (BEAT) Right before you made some ignorant crack about my family's name, published my bra size and then rated women-based on their hotness. Why don't you say it to me now, why don't say it to my face?
+C: MARK
+D: I don't want to.
+N: REGGIE (A FRIEND OF ERICA'S) Erica, is there a problem?
+C: ERICA
+D: No, there's no problem.
+N: (PAUSE) You're not a real person, Mark. You write your bullshit from a dark room because you're a failure at human contact. I liked you and I was nice to you. MARK (PAUSE) I came over to say I was sorry for all that and to see if there was any chance--
+C: ERICA
+D: I don't want to be rude to my fxiends, I should be talking to them.
+C: MARK
+D: Okay.
+C: ERICA
+D: Hey Mark. A year from now you won't remember this conversation and you won't remember me.
+N: '79 .
+C: MARK
+D: I think you're wrong.
+C: ERICA
+D: Well... listen, good luck with your video game. It was an honest mistake on ERICA's part but a kidney punch to
+N: MARK. MARK (BEAT) Okay. MARK turns and goes and sees that EDUARDO has been standing at and watching from a distance with JENNY.
+C: EDUARDO
+D: That was cool, you did good. You talked to her, that was the right thing to do.
+N: (BEAT) It was good, Mark. MARK (IGNORING HIM) We have to expand.
+C: EDUARDO
+D: What?
+E: over the music
+C: MARK
+D: We have to expand. And MARK heads out the door. EDUARDO watches MARK and then looks back at the girls and answers the un-asked question--
+N: EDUARDO (BEAT) I don't know.
+C: ALICE
+D: Is he mad about something?
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - NIGHT
+N: The door closes behind DUSTIN MOSKOWITZ and CHRIS HUGHES. MARK and EDUARDO are waiting and JENNY and ALICE are sitting on the bed. Everyone's got a beer. Once the door is closed--
+C: MARK
+D: We're expanding theFacebook to Yale and Columbia. Dustin, I want you to share. the coding work with me. Chris, you're going to be in charge. of publicity and outreach. You can start by getting a story about the expansion in the B.U. student newspaper.
+C: CHRIS
+D: They hate doing stories about Harvard.
+N: MARK - Somebody at the newspaper will be a computer science major and they will have heard of me. Tell 'em Mark Zuckerberg will do 10 hours of free programming for theno .
+C: EDUARDO
+D: Why do you want a story in the B.U.---
+C: MARK
+D: Because I do. Here's the business arrangement. Eduardo's CFO and owns 30% of the company, Dustin's Vice President and Head of Programming and his 5% of the company will come from my end. Chris is Director of Publicity and his compensation will depend on the amount of work he ends up doing. Any questions?
+C: DUSTIN
+D: Who are the girls?
+C: EDUARDO
+D: Jenny and Alice,
+N: DUSTIN JENNY ALICE CHRIS
+C: JENNY
+D: Is there anything we can do?
+C: MARK
+D: No. That's it. Yale and Columbia, let's go.
+C: EDUA TDO
+D: And Stanford.
+C: MARK
+D: What?
+C: EDUJARDO
+D: Stanford. Its time for them to see this in Palo Alto.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+N: MARK is sitting alone in the now empty room. There's a computer on a table in the corner and MARK makes a few keystrokes and then reads the screen. MARYLIN, the young lawyer we met early on, comes in with a plastic salad container in her hand and sits at the far end of the table from MARK, who doesn't acknowledge her.
+C: MARYLIN
+D: You don't want any lunch?
+E: after a moment
+N: MARK (BEAT) No.
+C: MARYLIN
+D: You're welcome to some of my salad.
+C: MARK
+D: No thank you.
+C: MARYIJIN
+D: I know this must be hard.
+C: MARK
+D: who are you?
+C: MARYLIN
+D: I'm Marylin Delpy, I introduced myself this morning.
+C: MARK
+D: I mean what do you do?
+C: MARYLIN
+D: I'm a second year associate at the firm. My boss wanted me to sit in on the deposition phase. MARK nod--.
+N: 82 ,
+C: MARYLIN
+D: What are you doing?
+E: CONT'D
+C: MARK
+D: Checking in to see how it's going in Bosnia.
+C: MARYLIN
+D: Bosnia? MARK nods...
+C: MARYLIN
+D: They don't have roads but they have Facebook? MARK nods..,
+E: CONT'D
+C: MARYLIN
+D: You really hate the Winklevoss twins, don't you.
+E: CONT'D
+C: MARX
+D: I don't hate anybody.
+N: (PAUSE) The Winklevi aren't suing me for intellectual property-theft. They're suing me because for the first time in their lives the world didn't work the way it was supposed to for them.
+T: CUT TO;
+S: INT. TYLER AND CAMERON'S DORM ROOM - NIGHT
+N: TYLER and CAMERON are both studying when DIVYA busts in.
+C: DIVYA
+D: He's expanding.
+C: TYLER
+D: What?
+C: DIVYA
+D: He's expanding to Yale, Columbia and Stanford, it'll be in the Crimson tomorrow.
+N: TYLER (BEAT) Really.
+C: DIVYA
+D: Yeah.
+N: 83.â¢
+C: TYLER
+D: So that cease and Desist letter really scared the shit out of him, huh?
+C: DIVYA
+D: I want to hire a lawyer to file for injunctive relief and get this website taken down now!
+N: CAMERON LOOK--
+C: DIVYA
+D: Every minute it's up, Harvard Connection becomes less valuable, I want an injunction, I watt damages, punitive relief and I want him dead.
+C: CAMERON
+D: I want those things too!
+C: DIVYA
+D: Then why aren't we doing anything about it?! Because we're gentlemen of Harvard?!
+C: CAMERON
+D: Because you're not thinking about how it's going to look.
+C: DIVYA
+D: How's it going to look?
+C: CAMERON
+D: Like my brother and I are dressed in skeleton costumes chasing the Karate Kid around a high school gym.
+C: DIVYA
+D: He violated Massachusetts state law. Then when he goes to Connecticut, New York and California he'll have violated federal law. And by the way, he's violated Harvard law.
+C: CAMERON
+D: There's no such thing as Harvard Law.
+N: TYLER (PAUSE--REALIZING) Wait. Yes there is. (BEAT) Cam, there is. TYLER goes to the bookshelf and pulls down a manual. 84,
+C: TYLER
+D: Harvard Student Handbook. Every freshman is issued this book. Somewhere in here it
+E: CONT'D
+N: SAYS--- CAMERON (EUREKA) --you can't steal from another student. This is what we needed.
+C: DIVYA
+D: You think campus security is going to arrest him for copyright violation?
+C: CAMERON
+D: We're going to meet with the president.
+C: DIVYA
+D: You can't get a meeting with Larry Summers.
+C: CAMERON
+D: My brother and I pay tuition at this school, we carry a 3.9 GPA at this school, we've won trophies for this school and we'll be rowing in the Olympics for this school. I want a damn meeting with the-president of this school.
+N: (PAUSE) Why Stanford?
+C: DIVYA
+D: Why do you think?
+T: CUT TO
+S: INT. A GIRL'S COLLEGE APARTMENT (PALO ALTO) - MORNING
+N: A pretty 20 year-old co-ed, AMY, pulls a curtain open and the darkened room immediately fills with un-welcomed sunlight.
+C: AMY
+D: You don't know my name, do you? AMY's wearing nothing but a Stanford sweatshirt and talking to a skinny 22 year-old guy who's lying on her futon. There's other evidence on the walls that we're at Stanford University. There are also pieces of AMY'S clothing strewn about. The young man on the futon is SEAN PARKER.
+C: SEAN
+D: Is that something that's important to y ou?
+C: AMY
+D: Yes.
+C: SEAN
+D: If I say your name will you stop the enhanced interrogation techniques?
+C: AMY
+D: Yes.
+C: SEAN
+D: Amy.
+C: AMY
+D: Nice. What's my major?
+N: SEAN (PAUSE) Trombone.
+C: AMY
+D: Really?
+C: SEAN
+D: I remember something about a trombone.
+C: AMY
+D: That was the beer bong. Tu fais l'amour A la jolie fille et la mete de cote.
+C: SEAN
+D: French! Your major is French.
+C: AMY
+D: Oui. And what's yours?
+C: SEAN
+D: My major?
+C: AMY
+D: Yes.
+C: SEAN
+D: I don't have one.
+C: AMY
+D: You haven't declared?
+C: SEAN
+D: I don't go to school here.
+C: AMY
+D: You're kidding?
+C: SEAN
+D: No.
+C: AMY
+D: Where do you go to school?
+C: SEAN
+D: Grover Cleveland Elementary.
+C: AMY
+D: Seriously, you're not like 15 years old or anything are you?
+C: SEAN
+D: No, I'm 22.
+N: (BEAT) You're not like 15 years---
+C: AMY
+D: No.
+C: SEAN
+D: Good.
+C: AMY
+D: So what do you do?
+C: SEAN
+D: I'm an entrepreneur.
+C: AMY
+D: You're unemployed.
+C: Â¢ SEAN
+D: I wouldn't say that.
+C: ANY
+D: What would you say?
+C: SEAN
+D: That I'm an entrepreneur.
+C: .AMY
+D: What was your latest preneur?
+C: SEAN
+D: Well...I founded an internet company that let college kids download and share music for free.
+C: AMY
+D: Kind of like Napster?
+C: SEAN
+D: No, exactly like Napster.
+C: PAY
+D: What do you mean?
+C: SEAN
+D: I founded Napster.
+C: AMY
+D: Sean Parker founded Napster.
+C: SEAN
+D: Nice to meet you.
+N: AMY (PAUSE) You're Sea - arker?
+C: SEAN
+D: Ah, you see, the shoe's on the other, uh, table which has turned.
+C: AMY
+D: I just slept with Sean Parker?
+C: SEAN
+D: All night long, Sister Souljah.
+C: AMY
+D: You're a millionaire.
+C: SEAN
+D: Not technically.
+C: AMY
+D: What are you?
+C: SEAN
+D: Technically?
+C: AMY
+D: Yeah.
+C: SEAN
+D: Broke. There's not a lot of money in free music. Even less when you're being sued by everyone who's ever been invited to the Grammys.
+C: AMY
+D: I think you're cool.
+C: SEAN
+D: He too.
+C: AMY
+D: I have to hop in the shower and get ready for class. There's juice or anything else you can find. Help yourself.
+C: SEAN
+D: You mind if I check my e-mail?
+N: 88,
+C: AMY
+D: Go ahead. AMY heads into the bathroom but leaves the door a little ajar.. SEAN steps over to AMY's pink laptop and hits a key to wake it out of sleep mode. The shower starts running in the bathroom. The laptop springs to life and is open to something SEAN's never seen before--a Facebook page.; He sees AMY's picture and a short profile: Her major at Stanford, courses she's taking, books she likes, clubs she's a. member of...
+N: SEAN (CALLING) Amy? She can't hear him in the shower. SEAN explores around a little more. He knows his way around a computer. He sees her "friends". Friend after friend after friend. SEAN (CONY' D ) (almost a whisper) Jesus. He gets up and goes to the bathroom door--
+C: SEAN
+D: Amy?
+E: CONT'D
+N: AMY (CALLING BACK) YEAH:
+C: SEAN
+D: Can'you come out here?
+C: AMY
+D: Just a second.
+C: SEAN
+D: There's a fire, Amy.
+C: AMY.
+D: What?! AMY grabs a towel and jumps out of the shower--
+C: AMY
+D: Where?:
+E: CONT'D
+C: SEAN
+D: Okay, there isn't a fire, but I need to ask you something.
+C: AMY
+D: Are you kidding?!
+C: SEAN
+D: No.
+C: AMY
+D: I could have been killed!
+C: SEAN
+D: I3ow?
+N: AMY (BEAT) What do you need to ask me?
+C: SEAN
+D: I went to check my e-mail and there's a website open on your computer.
+C: AMY
+D: Yeah. After you went unconscious last night I went on theFacebook for a while.
+C: SEAN
+D: What's that?
+C: AMY
+D: 'iheFacebook? It. started at Harvard and standford's had it for about two weeks and it's awesome except it's addictive. Seriously, I'm on the thing five times a day, all my friends are.
+C: SEAN
+D: You mind if I grab a piece of paper and a pen?
+C: AMY
+D: What's wrong?
+C: SEAN
+D: Absolutely nothing. It's beautiful.
+C: AMY
+D: What are you talking about?
+C: SEAN
+D: I need to find... says âA SEAN scrolls down to the bottom of the page where it Mark Zuckerberg Production"
+N: 90,
+C: SEAN
+D: .Mark Zuckerberg.
+E: CONT'D
+T: CUT TO:
+S: INT. LARRY SUMMERS' OUTER OFFICE - DAY
+N: CAMERON and TYLER, in dark suits, are waiting to see the president of Harvard, The President's office is in one of the two oldest university buildings in the country, and the SECRETARY sitting at the desk i ven older. You get the sense that she thinks Harvard would be d -better place if it weren't for all, these students. She looks at them and the boys give her a polite smile and a small nod before she goes back to her work.
+C: CAMERON
+D: I've never been in this building.
+E: just making small talk
+C: SECRETARY
+D: This building is a hundred years older than the country.it's in.
+E: without really looking up
+N: CAMERON (THAT'S INTERESTING) Hm.
+C: SECRETARY
+D: So do be careful.
+C: TYLER
+D: We're just siting in the chairs.
+N: SECRETARY (INTO PHONE) Yes_. (INTO PHONE) Very good. She hangs up the phone.
+C: SECRETARY
+D: You can go in now. She points to a door and CAMERON and TYLER get up, quickly straighten themselves, and walk into
+E: CONT'D
+S: INT. SUMMERS' OFFICE - CONTINUOUS
+N: LARRY SUMMERS, a large man, is on the phone at his desk in his well-appointed office. A fire crackles in the sitting area and a 40-ish African-American woman, ANNE, in a pants suit is nearby going over some papers. SUMMERS waves the boys in-- SUMMERS (INTO PHONE) That's just their own stupidity, I should have been there. (INTO PHONE) Darkness is the absence of light and stupidity in that instance was the absence of me. SUMMERS motions for them to sit and they do. They take in some of the photographs around the room---SUMMERS with BILL CtINTON, etc. -SUMMERS (CONT'D) (INTO PHONE) Catherine, I have students in my office now. (INTO PHONE) Students. (INTO PHONE) Under. grads. (INTO PHONE) I don't know, from the looks of it I think they want to sell me sets of identical Brooks Brothers suits. We'll speak later. SUMMERS hangs up the phone--
+C: SUMMERS
+D: Good morning.
+E: CONT'D
+C: CAMERON
+D: Good morning, s_ir. I'm Cameron Winklevoss and this is my brother, Tyler. CAMERON is extending his hand but instead of taking it, SUMMERS reaches to the top of a pile of papers and pulls a ten- page letter off the top.
+C: SUMMERS
+D: Why are you here? There's silence while SUMMERS appears to read over the letter...
+C: SUMMERS
+D: That wasn't rhetorical.
+E: CONT'D
+C: CAMERON
+D: I'm sorry, I thought you were reading the letter.
+C: SUMMERS
+D: I've read the letter.
+C: CAMERON
+D: Well I think it's pretty self- explanatory. We had an idea for a website called HarvardConnection--we've since changed the name to ConnectU--and Mark Zuckerberg stole that idea and--
+C: SUMMERS
+D: What do you want me to do about it? CAMERON points to a row of Harvard Student Handbooks on the bookshelf behind SUMMERS.
+C: CAMERON V
+D: Well sir, in The Harvard Student Handbook, which is distributed to each freshman--under the heading "Standards of Conduct in the Harvard Community" and the sub-heading, "Honesty"--
+C: SUMMERS
+D: Oh dear God.
+C: CAMERON
+D: --it says, "The College expects that all students will be honest and forthcoming in their dealings with members of this community. All students are required to respect private and public ownership. Instances of theft, misappropriation or unauthorized use of or damage to property
+N: OR MATERIALS--
+C: SUMMERS
+D: Excuse me, Anne?
+C: ANNE
+D: Yes sir.,
+C: SUMMERS
+D: Punch me in the face. Go ahead-.
+E: beat--then to CAMERON
+N: CAMERON (BEAT) --will result in disciplinary action, including the requirement to withdraw from the College." That's what is says in the handbook.
+C: SUMMERS
+D: When did you memorize that?
+C: TYLER
+D: (a little frustrated with this
+N: BULLSHIT) (MORE) TYLER (CONY ' D ) Sir, it's against University rules to steal. from another student, plain and simple.
+C: SUMMERS
+D: You've spoken to your R,A.?
+C: CAMERON
+D: Yes sir, and the R.A. made a recommendation to the Ad Board but the Ad Board won't hear us.
+C: SUMMERS
+D: Have you tried dealing with Mr. Zuck.e.rberg directly?
+C: CAMERON
+D: Mr. Zuckerberg hasn't responded to any of our e-mails or phone calls for. the last' two weeks. He doesn't answer when we knock on his door at Kirkland and the closest we've come to talking face to face is when I saw him on. the quad and chased him through Harvard Square.
+C: SUMMERS
+D: You chased him?
+N: CAMERON (BEAT) I saw him and I know he saw me and I started after him and he disappeared
+C: SUMMERS
+D: You know he could have you arrested for harassment and attempted assault.
+N: TYLER (QUIETLY) This isn't happening.
+C: SUMMERS
+D: I don't see this as a University issue.
+C: TYLER
+D: Of course it's a University issue. There's a code of ethics and an honor code and he violated them both.
+C: SUMMERS
+D: You entered into a code of ethics with the university, not with each other.
+N: TYLER (BEAT) I'm sorry President Summers, what you just said makes no sense to me at all. 94,
+C: SUMMERS
+D: I'm devastated by that.
+C: CAMERON
+D: What my brother means is that if Mark Zuckerberg walked into our dorm room and stole our computer it would be a university issue, right?
+C: SUMMERS
+D: I really don't know. This office doesn't handle petty larceny and the only reason I agreed to see you--Anne; by did I agree to see them?
+C: ANNE
+D: Colleagues of their father.
+C: SUMMERS
+D: So you see?
+C: TYLER
+D: This isn't a petty larceny.
+N: CAMERON (CALMING) TY--
+C: TYLER
+D: This idea is potentially worth millions of dollars.
+C: SUMMERS
+D: Millions of dollars?
+C: CAMERON
+D: Yes.
+C: SUMMERS
+D: You might be letting your imagination run away with you.
+C: TYLER
+D: With all due respect I don't think you're in any position to make that call.
+C: SUMMERS
+D: I was U.S. Treasury Secretary, I'm in some position to make that call.
+C: TYLER
+D: Letting our imaginations run away with us is exactly what we were told to do in your freshmen address.
+C: SUMMERS
+D: Well. I would try letting your- imaginations run away with you on a new project.
+C: TYLER
+D: You would.
+C: SUMMERS
+D: Everyone at Harvard is inventing something or starting a new business in their dorm room- Harvard undergraduates believe that inventing a job is better than getting one so can I suggest again that the two of you come up with a new new project?
+C: CAMERON
+D: I'm sorry, but that-'s not the point, sir.
+C: SUMMERS
+D: What's the point?
+C: CAMERON
+D: You don't have to be an intellectual property expert to understand-the, difference between right and wrong.
+C: SUMMERS
+D: And you're saying that I don't?
+C: CAMERON
+D: Of course I'm not saying that.
+C: TYLER
+D: I'm saying that. SUMMERS looks at TYLER and then smiles...
+C: TYLER
+D: Just start another project? Like we're making a diorama for the science fair?
+E: CONT'D
+C: SUMMERS
+D: Yes. And if you have a goddam problem with that, Mr. Winklevoss, the courts are always at your disposal. Athletes don't get special treatment at this school.
+C: TYLER
+D: Do they get fairness?
+C: SUMMERS
+D: They don't get to run to daddy. Okay? This isn't 50 years ago.
+N: 96,
+C: TYLER
+D: Excuse me, sir, but in your analogy, is daddy our father or you?
+C: SUMMERS
+D: Both. Is there anything else I can do for you?
+C: TYLER-
+D: Well I wouldn't mind that much if you took a flying--
+N: CAMERON (STOPPING HIM) Ty. (BEAT) Thank you for your time, sir. We appreciate your seeing us.
+C: SUMMERS
+D: Get the door on your way out, would you?
+T: CUT TO;
+S: INT. SUMMERS OUTER OFFICE - DAY
+N: As CAMERON and TYLER exit, TYLER closes the door a little too hard and the brass doorknob comes off in his hand. He drops it on the SECRETARY'S desk as he exits
+C: TYLER
+D: I broke your 335 year old doorknob.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: GRETCHEN
+D: Eduardo, spring break, you and Mr. Zuckerberg took a trip to New York.
+C: EDUARDO
+D: Yes.
+C: GRETCHEN
+D: What was the purpose of the trip?
+C: EDUARDO
+D: As CFO, I'd set up some meetings with potential advertisers.
+C: GRETCHEN
+D: Who paid for the trip?
+C: EDUARDO
+D: It was paid for out of the thousand dollar account I'd set up a few months earlier.
+C: GRETCHEN
+D: At this point your thousand dollars was the only money that had been put into the company.
+C: EDUARDO
+D: Yes.
+C: GRETCHEN
+D: How did you feel the meetings'went?
+C: EDUARDO
+D: They went terribly.
+C: GRETCHEN
+D: Why?
+C: EDUARDO
+D: Mark was asleep.
+C: MARK
+D: I wasn't asleep.
+C: EDUARDO
+D: Can I re-phrase my answer?
+C: GRETCHEN
+D: Sure.
+C: EDUARDO
+D: I wish he'd been asleep.
+N: CTJT TO:
+S: INT. AD EXECUTIVE'S OFFICE - DAY
+N: EDUARDO, in a three-piece suit, is pitching the EXECUTIVE. MARK, in his hoodie and flip-flops, is completely detached and staring at the floor.
+C: EDUARDO
+D: .and we're at 29 schools now with over 75,000 members. People who go on theFacebook tend to stay on longer than almost any other site and here's the most impressive statistic--67% of people who try it once come back. Now if you'll
+N: ALLOW ME---
+T: EXECUTIVE
+N: Excuse me.
+C: EDUARDO
+D: Yes sir.
+T: EXECUTIVE
+N: (RE: MARIA) Are we boring him?
+T: CUT BACK TO:
+S: INT.. FIRST DEPOSITION ROOM - DAY
+C: GRETCHEN
+D: There was one more meeting scheduled for the New York trip.
+C: EDUARDO
+D: Yes. A dinner. It was set up through my girlfriend at the time.
+C: GRETCHEN
+D: Would you say that mark was excited about this meeting?
+C: EDUARDO
+D: Yes, very,
+T: CUT TO:
+S: INT. 66 - NIGHT
+N: 66 is a hip and trendy restaurant in Tribeca. The young crowd is drinking cocktails of all different colors and wearing Prada, We FIND EDUARDO,.in a three-piece suit and MARK in his hoodie and flip-flops, along with EDUARDO's now-girlfriend, JENNY, sitting at a table. with an empty seat waiting.
+C: JENNY
+D: They're not gonna card us here.
+C: EDUARDO
+D: They might.
+C: JENNY
+D: Look around.
+C: EDUARDO
+D: It' :l.l be embarrassing,
+N: JENNY (TO MARE) Tell him they're not gonna card us.
+C: MARK
+D: They're not gonna card us.
+N: EDUARDO MARK--
+C: MARK
+D: Are you gonna talk about ads again?
+C: EDUARDO
+D: Unless you're the Ballet Theatre of Hartford, the urpose of a business is to make a profit.'
+C: MARK
+D: This isn't a business.
+C: EDUARDO
+D: That's tough for me because I'm the business head of the company. MARK says nothing...
+N: EDUARDO (CONT'D) (PAUSE) He's 25 minutes late.
+C: MARK
+D: He's a god, he can be as late as he wants.
+C: EDUARDO
+D: He's not a god-
+C: MARK
+D: What is he?
+C: EDUARDO
+D: 25 minutes late.
+C: JENNY
+D: I think Wardo's jealous.
+T: CUT BACK TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: EDUARDO
+D: I honestly wasn't jealous. I was nervous.
+C: GRETCHEN
+D: Why?
+C: EDUARDO
+D: I didn't know him at all but I'd done an internet search and asked around. He struck me as kind of a wild man.
+T: CUT BACK TO:
+N: TNT. 66 - NIGHT
+C: JENNY
+D: Why?
+C: EDUARDO
+D: He crashed out of two pretty big internet companies in-spectacular fashion and he's got a reputation with drugs.
+C: MARK
+D: He also founded'the companies.
+C: EDUARDO
+D: We don't need him.
+C: MARK
+D: He's here. SEAN PARKER has stepped into the restaurant and is. saying hello to the hostess while hugging a waitress.
+E: nodding toward the door
+C: EDUARDO
+D: And he does own a watch. SEAN stops at a table to shake hands with a guy in a suit and kiss his girlfriend. It's sort of an incongruous sight--this 22 year old kid who's able to work a room like Sinatra. Who the hell is this?
+C: EDUARDO
+D: . Take your time...
+E: GONT'D quiet]
+C: JENNY
+D: Stop it. SEAN makes his way'over to MARK's table--
+C: SEAN
+D: I'm Sean Parker.
+N: EDU.ARDO (SHAKING HANDS) How do you do.
+C: SEAN
+D: You must be Eduardo, And Jenny. And Mark, its great to meet you.
+N: MARK (ALMOST BEAMING) Great to meet you.
+C: SEAN
+D: You guys don't have anything in front of you.
+C: EDUARDO
+D: We were waiting for--
+C: SEAN
+D: .Cori.
+E: to a. passing WAITRESS
+C: WAITRESS
+D: Hey baby boy.
+C: SEAN
+D: Could you bring out some things? The lacquered pork with that ginger confit? I don't know, tuna tartar, some lobster claws, the foie gras and the shrimp dumplings, that'll get us started. Jenny, what do you like to drink?
+C: JENNY
+D: An appletini?
+C: SEAN
+D: Great. Four.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: EDUARDO
+D: From that point on it was a Sean-a-thon. I'd never seen anyone perform a monologue at dinner before but that's what happened.
+T: CUT TO:
+S: INT. 66 - NIGHT
+N: The CA[ERA is moving around the table as SEAN--in and out of MOS-â¢-is telling story after story while food is brought, drinks put down, more food brought and more drinks put down. MARK is enthralled, JENNY is sexy and EDUARDO is polite.
+C: EDUARDO
+D: He took us through his episode with Napster .
+E: V.O.
+C: SEAN
+D: . tried to sell the company to pay the 35 million they said we owed in royalties and in the end we just had to declare bankruptcy but I made a name for myself.
+N: ].02.
+C: JENNY
+D: I'll say. EDUARDO And then he went to his second business venture which was Plaxo, an online rolodex.
+E: V.o.
+C: SEAN
+D: See, we had a VC from the beginning. Michael Moritz, a partner at Sequoia Capital who'd invested in Yahoo and Google. Moritz wanted to push me out from
+C: THE BE
+D: ginning and he hired private detectives to dig up everything on me they could. Did they find anything? No. But I was out of the company. I'm not done with Moritz and Sequoia Capital yet. I swear to God, Mark, before I'm 25 I'm gonna make those guys kiss my ass and then cry like girls, There will be retribution for Plaxo and I'm not just talking. I brought down the record companies with Napster and I'll bring down Michael Moritz,
+C: E DUARDO
+D: You didn't bring down the record companies, They won.
+C: SEAN
+D: In court.
+N: .EDUARDO (BEAT) Yes.
+C: SEAN
+D: Well.
+E: shrugging it off
+C: EDUARDO
+D: And he told story after story about life in Silicon Valley, parties at Stanford and-down in LA, friends who" d become billionaires--and then he finally got around to theFacebook.
+E: V.O.
+C: SEAN
+D: Tell me about your progress.
+C: EDUARDO
+D: Well... we're in 29 schools now and we
+N: HAVE OVER--
+C: SEAN
+D: (ignoring EDUARDO and going for
+C: MARK)
+D: Tell me about the strategy you're using.
+C: MARK
+D: Okay. For instance, we wanted Baylor in Texas but Baylor already had a social network on campus so instead of going right after them, we made a list of every school within a hundred miles and put theFacebook on those campuses first. Pretty soon all the Baylor kids were seeing their friends on our site and we were in.
+C: SEAN
+D: Perfect.
+C: EDAURDO
+D: Thank you, it was mine.
+N: JENNY (TO EDUARDO) Easy.
+C: EDUARDO
+D: Settle an argument for us, would you? I say it's time to start making money from theFacebook but Mark doesn't want advertising. Who's right?
+C: SEAN
+D: Neither of you. TheFacebook is cool, that's what it's got going for it.
+C: MART
+D: Yes.
+C: SEAN
+D: You don't want to ruin it with ads because ads aren't cool.
+C: MARK
+D: Exactly.
+C: SEAN
+D: it's like you're throwing the coolest party on campus and someone's telling you it's gotta be over at 11:00.
+C: MARY,
+D: Exactly.
+C: SEAN
+D: You don't even know what the thing is yâ¬t.
+N: 104,
+C: MARK
+D: I said exactly that.
+C: SEAN
+D: Row big it can get and how far it can go. Picture sharing, news feeds, a virtual champagne room, apps you haven't even thought of. This.is no time to take your chips down. A million dollars isn't cool. You know what's cool?
+C: EDUARDO
+D: You?
+C: SEAN
+D: A billion dollars. And that's where you're headed. A billion dollar valuation. Unless you take bad advice in which case you might as well have come up with a chain of very successful dry cleaners. When you go fishing you can catch a lot of fish or you can catch a big fish. You ever walk into a guy's den and see a picture of him standing next to fourteen trout? No, he's holding an. 800 pound marlin and that's what you want. Hey guys, it's your company, I don't have a dog in this fight. Irjust came to say hi.
+T: CUT TO
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: EDUO
+D: No, he came to hook an 800 pound marlin and he did. He owned Mark after that dinner. He picked up the check, told Mark they'd talk again soon and was gone. But not before he made his biggest contribution to the company.
+T: CUT BACK.TO:
+S: INT. 66 - NIGHT
+C: SEAN
+D: Oh Hey. Drop the "the". Just Facebook, It's cleaner. And SEAN heads out, patting backs and kissing waitresses along the way.
+E: signing the check
+N: MARK (KNOCKED OUT) Shit.
+C: EDUARDO
+D: That's gotta be some kind of land speed record for talking.
+C: MARK
+D: You want to end the party at eleven.
+C: EDUARDO
+D: I'm trying to pay for the party.
+C: MARK
+D: There won't be a party unless it's cool.
+N: (BEAT) What'd you think?
+C: EDUARDO
+D: Sure, let's drop the "the".
+C: MARK
+D: I meant catching the marlin instead of the 1.4 trout. Doesn't that sound good?
+C: EDUARDO
+D: Only if you're a trout.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: GRETCHEN
+D: I'M going to enter this as Plaintiff's Exhibit 54. Incorporation papers for Facebook, a Limited Liability Corporation registered in Florida-- Why Florida?
+E: -to EDUARDO for the record
+C: EDUARDO
+D: That's where my family lives.
+C: GRETCHEN
+D: ---and ask the respondent to stipulate that the documents of incorporation state the ownership as follows: 65 percent for Mark Zuckerberg, 30 percent for Eduardo Saverin and 5 percent for Dustin Mosokowitz .
+C: SY
+D: We stipulate.
+C: GRETCHEN
+D: And that was April 13th, 2004.
+C: SY
+D: You can mark it.
+N: 106, GRETCHEN (TO SY) Do you have anything here?
+C: SY
+D: Yes, thanks, Mr. Saverin, have you ever done anything that would be considered legitimate grounds for termination?
+C: EDUARDO
+D: No,
+C: SY
+D: You never did anything to embarrass the company or even seriously jeopardize it?
+N: EDUARDO (BEAT) No.
+C: SY
+D: No?
+C: EDUARDO
+D: No.
+C: SY
+D: You were accused of animal, cruelty-
+N: EDUARDO (PAUSE) Is this a Doke?
+C: SY
+D: I have an article here from The Crimson---
+N: EDUARDO JESUS CHRIST--
+T: CUT TO:
+N: TNT. MARK'S DORM ROOM - DAY
+C: MART:
+D: I can't have this, Wardo, MARK's talking about the Crimson article in his hand. EDUARDO is standing next to a crate that's holding--wait for it- a live chicken, DUSTIN is sitting at the desktop computer staring at something intently.
+C: EDUARDO
+D: It's bullshit, it's one of the other clubs playing a prank.
+C: MARK
+D: They identify you as--
+T: CUT BACK TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: EDUARDO
+D: I'd gotten into the Phoenix. I'd been accepted and as part of my initiation I had to, for one week, carry with me at all -Limes and take care of a chicken.
+T: CUT TO:
+N: TNT. MARK'S DORM ROOM - DAY
+C: MARK
+D: --one of the founders of Facebook. "Junior Eduardo Saverin, co-founder of Facebook, wa.s-- --I'm not the expert but being connected to torturing animals is probably bad for business.
+T: CUT TO:
+N: TNT. FIRST DEPOSITION ROOM - DAY
+C: EDUARDO
+D: I wasn't torturing the chicken, I don't torture chickens, are you crazy?
+C: SY
+D: Settle down please. I'm holding an
+N: ARTICLE--
+T: CUT TO :
+N: TNT. MARX'S DORM ROOM - DAY
+C: MARK
+D: This is scathing.
+C: DUSTIN
+D: Nine--hundred and fifty-six.
+E: without looking up
+N: TNT. FIRST DEPOSITION ROOM -- DAY
+C: EDUARDO
+D: Listen to me.
+E: trying to be calm
+N: (MORE)
+C: EDUARDO
+D: I was having dinner in the Kirkland Dining Hail with Mark and I had the chicken with me because I had to have the chicken with me at all times. This was college.
+E: CONT-D
+T: CUT TO:
+S: INT. MARK'S DORM ROOM - DAY
+C: MARK
+D: I'm gonna have to answer for this.
+C: DUSTIN
+D: Nine--hundred sixty-nine.
+T: CUT TO;
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: EDUARDO
+D: The dining hall was serving chicken for dinner and I had to feed my chicken so I just...I cut up little pieces,of chicken and gave it to the chicken.'There were a lot of people there and someone must have seen me and the next thing I knew I was being accused of forced cannibalism. At the end of the table, MARYLIN'tries but fails to stifle a small laugh. EDUARDO looks down the table...
+C: EDUARDO
+D: i didn't'know you can't do that. I dealt with the various animal rights groups, I dealt with the Associate Dean of the College, it was all fine.
+E: CONT'D
+T: CUT TO:
+S: INT.MARK'S DORM ROOM - DAY
+C: DUSTIN
+D: Nine-hundred and eighty-eight.
+C: EDUARDO
+D: Someone from the Fly or the Porc must have reported it. For all I know it was the Winklevoss twins who may have been tipped off by somebody else who was there.
+C: MARK
+D: Alright, let's just forget about it.
+C: EDUARDO
+D: I can't forget about it, I'm being accused of animal cruelty. It's better to be accused of armed robbery. I'm going to have to explain this to my father, I'm going to have to explain this to everyone, I'm going to have to--what is happening on that? EDUARDO's referring to a laptop that's open and displaying images of four paintings.
+C: MARK
+D: T. have my final coming up for "Postwar and Contemporary Art" and I haven't been to class. I'm supposed to write about those four paintings.
+C: EDUARDO
+D: Is that a Facebook page?
+C: MARK
+D: Yeah, I opened it under an alias. I posted the paintings and asked people to comment. Every once in a while I hop on and stir the pot to get a good debate going, it's beautiful.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+C: GRETCHEN
+D: Mr. 2uckerberg was cheating on his final exam?
+C: EDUARDO
+D: I'd rather not answer that, Gretchen.
+C: GRETCHEN
+D: Why not?
+C: EDUARDO
+D: Because I'm not suing him for cheating on his final exam and so that's not what friends do.
+C: GRETCHEN
+D: Well you just told us he was cheating.
+C: EDUARDO
+D: bops.
+N: (TO MARK) You told your lawyers I was torturing animals?!
+C: SY
+D: No, he didn't tell us about it at all. our litigators are capable of doing a Google search. in fact when we raised the subject with him he defended-yu. -
+N: MARK (BEAT) Oops.
+T: CUT TO.
+S: INT. MARK'S DORM ROOM - DAY
+C: DUSTIN
+D: Nine ninety-three, we are so close.
+C: MARK
+D: We're gonna need more money, Wardo.
+C: EDUARDO
+D: I agree. More servers, more apps--
+C: MARK
+D: ---and I want to hit that coal by the end of the summer. I'm interviewing people tomorrow--two interns to come to Palo Alto for the summer and we're-gonna have to pay them something.
+C: EDUARDO
+D: What?
+C: MARK
+D: I already found a house for rent on a street two-blocks.from the Stanford campus. It's a piece of junk but it's perfect and it's got a pool.
+C: EDUARDO
+D: When did you decide to go to California for the summer?
+N: MARK (BEAT) You mean when did I actually decide?
+C: EDUARDO
+D: Somewhere in the middle of The Sean Parker Variety Hour?
+C: MARK
+D: He was right. California's the place we've gotta be.
+C: EDUARDO
+D: You're Jed Clampett?
+C: MARX
+D: You guys got The Beverly Hillbillies in--â¢
+C: EDUARDO
+D: Yes, we got the show in Brazil, it was genius.
+C: MARK
+D: What's your problem with Sean?
+C: EDUARDO
+D: He doesn't bring anything to the table. He doesn't have money, Dustin's a better
+N: PROGRAMMER--
+C: MARK
+D: He's got connections to the VCs.
+C: EDUARDO
+D: We don't need VCs, we need advertisers and I've got connections to the VCs.
+C: MARK
+D: The real players and--
+N: EDUARDO LOOK--
+C: MARK
+D: --as someone who's just really embarrassed the company in a bad way--
+C: EDUARDO
+D: It was the Winklevosses, Mark!
+C: MARK
+D: Bang on.
+N: (TO DUSTIN) Hit refresh. DUSTIN hits "refresh" on the desk-top computer. Then smiles... DUSTIN
+C: MARK
+D: 150,000 members, Wardo.
+N: EDUARDO (BEAT--SINCERELY) Congratulations, dude.
+C: MARK
+D: Congratulations.
+N: EDUARDO (BEAT) He was obsessed with the guy from Sequoia Capital. He was followed by private detectives.
+C: MARK
+D: Who came up with nothing.
+C: EDUARDO
+D: Enough to get him out of Plaxo. The drugs, the girls--
+C: MARK
+D: We don't know any of that's true.
+C: EDUARDO
+D: You can read about it,
+C: MARK
+D: And you can read about you torturing birds.
+C: EDUARDO
+D: Don't fish eat other fish?! The marlins and the trout?!
+C: DUSTIN
+D: What the hell?
+C: MARK
+D: I'm interviewing interns at 10 tomorrow night in t}y CS lab. Get on board with this or not.
+T: CUT TO:
+S: INT. COMPUTER SCIENCE BUILDING/BASEMENT CORRIDOR NIGHT
+N: EDUARDO steps through double doors and stops for a moment as he HEARS an odd sound--RAUCOUS CHEERING from a'CROWD that's gathered in one of the classrooms. EDUARDO walks down to the classroom, opens the door and walks INTO--
+S: INT. CLASSROOM - NIGHT
+N: --where'60 or so STUDENTS are in a semi-circle, five and six deep, cheering on the contestants for the internship. All the desks in the room have been moved to the sides and five desks with laptops set up in the middle. Next to each laptop is a shot glass filled with Jack Daniels. 113, DUSTIN'S holding a. watch and MARK is walking slowly back and forth behind the five "interviewees" who are intensely typing at their keyboards. EDUARDO slowly makes his way through the crowd to MARK. He can see that on the computer screens are a whole lot of numbers and letters that neither he nor we can understand. He stands next to MARK and watches this for a moment. Every once in a while, one of the contestants will throw back their shot of Jack Daniels which will instantly get re-filled by a PRETTY ASIAN GIRL. Throughout all this the CHEERING CONTINUES. EDUARDO (PAUSE) Mark?
+C: MARY,
+D: Yeah.
+C: EDUARDO
+D: What's goin' on?
+C: MARK
+D: They have 10 minutes to get 'root access to a Python webserver, expose its SSL encryï¿½ti_on and then intercept all traffic over its secure port.
+C: EDUARDO
+D: They're hacking.
+C: MARK
+D: All behind a Pix Firewall Emulator. But here's the beauty.
+C: EDUARDO
+D: You know I didn't understand what you just said, right?
+C: MARL
+D: I do know that.
+C: EDUA.RDO
+D: What's the beauty?
+C: MARK
+D: Every 10th line of code written, they have to drink a shot. And hacking's supposed to be stealth, so anytime the server detects an intrusion, the candidate responsible has to drink a shot. I also have a program running that has a pop-up window appear simultaneously on all five computers--the last candidate to hit the window has to drink a shot. Plus every three minutes they all have to drink a shot.
+N: 114, DUSTIN (CALLING OUT) Three minutes. All five candidates drain their shot glasses and slam them down where they get re-filled by the pretty Asian girl.
+C: EDUARDO
+D: Can I ask--what part of the interns' jobs will they need to be able to do drunk?
+C: MARX
+D: You're right. A more relevant test would be seeing if they can keep a chicken alive for a week.
+N: (PAUSE) what I just said was mean and I'm sorry. (BEAT) Are we alright? We started this as a team. EDUARDO hands MARK a thick envelope---
+C: EDUARDO
+D: Here.
+C: MARK
+D: What's this?
+N: EDUARDO
+C: IN
+D: I opened a new account and put $18,000 it. Will that get you through the summer? MARK looks at EDUARDO... Suddenly two of the candidates hands shoot up almost at the
+N: SAME TIME-- CANDIDATE #1 Here! CANDIDATE #2 Right here! MARK glances over at the first screen, then the second...
+C: MARK
+D: welcome to Facebook. The place ERUPTS. The pretty ASIAN GIRL hits an mp3 player that's been hooked up to speakers and a Dr. Dre song blares out--"California, it's time to party..." The two winners are hugging each other and getting wild congratulations from the crowd.
+N: MARK looks back at EDUARDO and smiles...EDUARDO gives him a pat on the back and we
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - DAY
+N: GRETCHEN $18,000.
+C: EDUARDO
+D: Yes.
+C: GRETCHEN
+D: In addition to the $1000 you'd already put up.
+C: EDUARDO
+D: Yes.
+C: GRETCHEN
+D: A total of $19,000 now.
+C: EDUARDO
+D: Yes.
+C: MARK
+D: Hang on. MARK's scratching something out on a pad...
+C: MART{
+D: I'm just checking your math on that.
+E: CONT'D
+N: (BEAT) Yes, I got the same thing.
+C: GRETCHEN
+D: I can continue? MARK motions "ves"...
+N: GRETCHEN (CONT'D) (TO EDUARDO) After expressing misgivings about Mr. Zuckerberg 'taking the company and moving it to California for the summer, why did you turn around and put $18,000 in an account for his use?
+C: EDUARDO
+D: Wel1... .I figured we were a team and I wanted to be a team player. I figured Mark, Dustin and the new interns could work on the site while I worked on generating advertiser interest in New York.
+N: (MORE)
+C: EDUARDO
+D: And mostly I figured., you know...how much could go wrong in three months?
+E: CONT'D
+T: CUT TO:
+S: EXT. PALO ALTO HOUSE - DAY
+N: MARK is standing on the roof of this small, campus-area house as LOUD MUSIC plays. A ziï¿½'line is tied from the chimney and runs down over a small swimming pool where it's attached to a telephone pole on the other side. MARK grabs onto the handle that's connected to the zip line and flies out over the pool, jumping in with a splash and cheers from DUSTIN and the INTERNS who are waiting their turns on the roof. DUSTIN pulls the handle back up with_a rope that's been rigged, grabs the handle, takes off and jumps into the pool-to similar cheers. The handle gets pulled back on a rope, an INTERN grabs it,
+C: JUMPS--
+D: --and the brick chimney comes crashing down. The INTERN drops into patio furniture as bricks from the chimney come cascading down.
+N: EVERYONE SCRAMBLES--
+C: ALL
+D: Shit!/Are you alright?!/ Jesus!/etc-
+C: INTERN
+D: I'm okay.
+E: ERIC
+C: MARK
+D: You sure?
+C: ERIC
+D: Yeah.
+C: MARK
+D: Is anything broken?
+C: ERIC
+D: No. And at that moment a stray brick drops from the roof and crashes through a glass patio table.
+C: INTERN
+D: That's gonna out into the security deposit. From inside the DOORBELL RINGS--
+E: STEVEN
+C: DUSTIN
+D: That's the doorbell.
+C: MARK
+D: I didn't know we had a doorbell.
+N: DUSTIN (SHOUTING INSIDE) Andrew! Get the door!
+C: MARY.
+D: He's wired in. MARK walks into--
+S: INT. PALO ALTO HOUSE - CONTINUOUS
+N: The place is computer geek paradise. Computers are everywhere, along with some of the empty boxes they came in. Pizza boxes, Chinese food containers, empty beer bottles and white boards filled with indecipherable code fill the room. There are a couple of large mattresses on the floor and a large map of the U.S. with pins and tags showing the schools where they've already put Facebook and different pins showing the schools they're going for. As MARK walks to the door, he walks past ANDREW, who's sitting at a computer, writing code and completely oblivious to everything around him.
+C: MARK
+D: Andrew.
+E: snapping his fingers
+C: ANDREW
+D: Not now.
+C: MARK
+D: Good boy. MARK gets to the door and opens it. He's stunned to see SEAN PARKER standing there with his girlfriend, SHARON. They all look at each other for a moment---
+C: SEAN
+D: Mark?
+C: MARK
+D: Sean?
+C: SEAN
+D: Do you live here?
+C: MARK
+D: Yeah. Do you?
+C: SEAN
+D: We were right across the street, we saw the chimney come--
+C: MARK
+D: Yeah.
+C: SEAN
+D: Is anybody hurt?
+C: MARK
+D: No. You live across the street.
+C: SHARON
+D: I'm Sharon.
+C: SEAN
+D: This is my girlfriend, Sharon. She lives across the street and I was helping her move out when we saw the chimney--
+C: MARK
+D: Yeah, we had a zip line to the pool.
+C: SEAN
+D: You came to California.
+C: MARK
+D: Yeah.
+C: SEAN
+D: You made the right choice.
+T: CUT TO:
+S: INT. PALO ALTO HOUSE - LATER
+N: SEA,'s looking around the place. DUSTIN and the INTERNS are standing off to the side, happy to be in the presenbe of Sean Parker. ANDREW'S still locked into his computer. MARK's off in the kitchen.
+C: MARK
+D: Here you go. A beer comes flying out of the kitchen and SEAN catches it.
+E: OS
+C: MARK
+D: Sharon. Another beer comes flying out which SHARON had no idea was coming and so it smashes into the fireplace.
+E: OS CONT'D
+C: SHARON
+D: Oh God. I'm so sorry. And a brick comes down the chimney and crashes on top of the broken glass from the beer bottle.
+C: DUSTIN
+D: You know, ironically, we're paying an extra 50 bucks a month 'cause it has a working fireplace.
+C: SEAN
+D: This house is great. The team is great. It's exactly what it should be.
+N: (TO ANDREW) I'm Sean Parker. MARK comes out of the kitchen--
+C: MARK
+D: He's wired in.
+C: SEAN
+D: That's what I'm talkin' about. Where's Eduardo?
+C: MARK
+D: He's got an internship in New York.
+N: SEAN (BEAT) Eduardo didn't come out?
+T: CUT TO:
+S: EXT. RUBY SKYE - NIGHT
+N: An ultra-hip San Prancisco nightclub where a line of well- dressed young people stretches from the clipboard holding BOUNCER down the block. The BOUNCER motions to three SEXY GIRLS who are let in through the velvet rope. If this reminds us of the scene at the final club party at the beginning of this story than that's fine. The three SEXY GIRLS take us into
+S: INT. RUBY SKYE - CONTINUOUS
+N: It's a hundred-year old theater that's been converted into a 21st Century hot spot for Silicon Valley's rock stars. The lower level is a giant dance floor packed"with sweating 20- somethings bouncing to pounding house music. There are raised blocks where scantily dressed professional. dancers perform non- stop. A huge lighting grid hangs from the ceiling shooting colored lights and lasers everywhere. Also hanging from the ceiling are two trapeze bars with two performers swinging and contorting. 120, A WAITRESS holding a tray of colored drinks high over her head takes us through the crowd to a spiral staircase that's being guarded by two more BOUNCERS with clipboards. The staircase leads up to the 2nd level which is all VIP tables that look out over the dance floor. Each VIP area has a couple of couches and a table covered in bottles of vodka, tequila, rum, mixers, ice, glasses and a private waitress who's happy to bend over and pour a drink for you, And that's where we catch up with MARK and SEAN. Sitting next to SEAN is a BEAUTIFUL WOMAN and there's another standing behind him and leaning against the couch. MARK and SEAN have to speak the music.
+C: MARK
+D: I still can't believe I rented a house across the street from you.
+C: SEAN
+D: That's not my house. It was Sharon's. I was crashing there for a little. bit while I'm taking care of some things. But she's done for the summer so she's back at her parents' place and I'm homeless.
+C: NARK
+D: Yeah?
+N: (BEAT) You can crash at our. place for a few days if you want.
+C: SEAN
+D: That's sol..id man, thanks,
+N: BEAUTIFUL WOMAN #1 I'm going to the ladies' room;
+C: SEAN
+D: You got it.
+N: BEAUTIFUL WOMAN #2 I'll go with you. The two girls exit--
+C: MARK
+D: Your date looks so familiar to me,
+C: SEAN
+D: She looks familiar to a lot of people.
+C: MARK
+D: What do you mean?
+N: ].21.
+C: SEAN
+D: Look at any Victoria's Secret catalogue from the last six months.
+N: . MARK (PAUSE) You're kidding.
+C: SEAN
+D: No man. I'll tell you something, you know how I founded Napster?
+C: MARK
+D: I know everything there is to know about you Sean.
+C: SEAN
+D: Fuck Wikipedia, Mark, no you don't.
+N: (BEAT) I was going out with this girl in high school. And it was great. I thought it was great, but the whole time--almost the .whole time we were together., like five months--she was giving blow. jobs to the co-captain of the lacrosse team. And I found out and I was willing to forgive her but she told me she loved him. So I had this dream that I would make a billion dollar company.. Not a million dollar company--any hack can do that---a billion dollar company. And I would have business cards printed up that said, "I'm CEO.. .Bitch. " (BEAT) It's our time. We run the universe. Yeah, she's a Victoria's Secret model. I want to know where the fuck Eduardo is.
+C: MARK
+D: He has an internship.
+C: SEAN
+D: An internship?
+C: MARK
+D: In New York.
+C: SEAN
+D: The company's here. A billion dollar company is here. And what confuses me is that in New York, Eduardo introduced himself as the business head of Facebook. I've been at the front of two of the biggest things in the history of the internet and I can tell you that nothing, nothing is more important to a start-up than the energy and ambition of its founders.
+N: (MORE)
+C: SEAN
+D: You have to live and breathe the project every minute of every day and-night. Do you live and breathe Facebook?
+E: CONT-D
+C: MARK
+D: Yes.
+C: SEAN
+D: I know you do. I know those guys back at the house do. The guy's eyes did not blink when a beer bottle smashed into a fireplace 10 feet from his work, station. So I'll ask again--where's Eduar
+N: MARK (PAUSE) It'd be great if you stayed at the house with us.
+C: SEAN
+D: I think I should. The girls come back--
+N: WOMAN #1 You guys figure out a new way to get porn on your computer? WOMAN #2 You know most of it's bad but some of it's pretty good. MARK and SEAN aren't paying attention...
+C: SEAN
+D: What's your goal for the summer?
+C: MARK
+D: We want: to . be in a hundred schools.
+C: -SEAN
+D: okay. Okay good. I'll tell you what. Gesture of good faith. While you're getting yourself into a hundred schools, I'm gonna put you on two continents.
+N: MARK (BEAT) What?
+C: SEAN
+D: Let's line up some shots. You can take away the Cuervo, we'll have Don Julio 1942.
+E: to the WAITRESS
+C: WAITRESS
+D: Absolutely, Mr. Parker. The WAITRESS goes off--
+C: SEAN
+D: Mark?
+C: MARK
+D: Yeah.
+N: SEAN ' I never told her my name.
+T: CUT TO:
+S: EXT. THE THAMES -- DAY
+N: we're looking at a stone bridge crossing a perfectly straight stretch of water against the backdrop of the medieval town of Henley, England--founded in 1179. And after a moment of placid quiet--
+C: ---BOOSHI
+D: Two razor thin skulls explode out from under the bridge for the final, agonizing hundred-meter stretch of the ancient and prestigious Henley Royal Regatta. The two boats are neck and neck coming out of the bridge. The port-side boat is being crewed by the two Dutch members of the Ilollandia Roeiclub. The starboard boat is being crewed by a pair of identical twins wearing tank tops bearing the "H" of Harvard. We HEAR the ROAR come up from the CROWD in the viewing section. The crowd is dressed as if for opening day at Ascot -- the women in flowing dresses and wide-brimmed hats, the men i n blazers and brightly colored floral ties. But the young men in the boats can barely hear the crowd. Just their own breathing as they pull against the longest natural. straight stretch of water in the world--a mile and a half torture test against the best competition they've ever faced. And they're neck and neck. CAMERON and TYLER can't shake the Dutch. The CROWD is going crazy in their own English way as none of them can remember ever seeing two boats this close this late. Mixed in with the British crowd is a small contingent waving the flag of Holland and a slightly larger contingent of Americans.
+N: We'll notice a stoic man in a VIP viewing section and latex we'll be introduced to him as Cameron and Tyler's father, Next to him is their mother, who can barely watch. Back on the boats it's just the breathing as the skulls slice through the water like jet-powered knives. 50 meters now and there's still no daylight between them. We see a small trickle of blood from CAMERON's left hand begin to stream down his arm. 25 meters and the Dutch and American fans are going crazy-- even the British aristocracy can't help but get caught ups the closest race in the history of the competition. The 'ATH_PT'ï¿½ is silently willing his boys one more fraction of boat speed-- the MOTHER has her hands over her mouth in praying position. The blood that's covering CAMERON's left arm is being diluted by the sweat that's pouring down from his triceps as they dig, and pull, and pull, and pull, and---
+C: POP!
+D: --the finish gun is fired into the air, the oars come out of the water and the bodies of the crewmen slump over. CAMERON turns his head to the cheering crowd to see the Dutch group holding a giant flag and.jumping up and down. The Americans bring their giant flag down and fold it up. The two DUTCH CREW. MEMBERS pump their fists in the air and hug as the two boats skim along to a gentle stop. The MOTHER drops her head-and looks down. The FATHER refuses to look away. From CAMERON and TYLER, just the'breathing.,
+T: CUT TO:
+S: EXT. AWARD CEREMONY - DAY
+N: CAMERON and TYLER are standing with their coaches and next to the two DUTCH CREWMEN who are with their coaches. They're on a stand in the Steward's Enclosure, a sprawling and glamorous tented area for the exclusive use of members and their guests. After a moment, a man in a double breasted navy blazer steps out with his retinue in tow. The man is PRINCE ALBERT of Monaco. He receives a healthy clapping of golf applause as he approaches the stand. This conversation is done without microphones or anything as modern as that.
+C: AIDE
+D: His Royal Highness, Prince Albert. Sir, may I present Mr. Cameron Winklevoss and Mr. Tyler. Winklevoss of Harvard University.
+C: PRINCE ALBERT
+D: Brilliant race. Never seen a race that close. Less than one second, the steward tells me.
+N: TYLER (BEAT) Yes, Your Highness.
+C: PRINCE ALBERT
+D: My grandfather, Jack Kelly, was one of the premiere rowers of his day. I've been coming to Henley for 30 years. Never seen a race that close. Have you? Have you seen a race that close? CAMERON is thinking about starting a war with Monaco right now so he lets his brother do the talking.
+N: TYLER (BEAT) No, Your Highness. Mile and a half races are more commonly won by a boat length or two.
+C: PRINCE ALBERT
+D: Yes, that's absolutely right. Less than a second though in your case. Well as they say, I suppose it just came down to who wanted it more.
+N: CAMERON (SNAPPING) Oh what a bullshit cliche: You think we DIDN'T--- TYLER (EASY) Cam. There's an awkward silence for a moment...
+C: PRINCE ALBERT
+D: Will I have the pleasure of watching you both row again in Beijing?
+C: TYLER
+D: If we make the team, sir, yes. Thank you.
+C: PRINCE ALBERT
+D: I present you with your Second Place ribbons. On to the champions!
+N: 126, And off the APPLAUSE from the crowd, we
+T: CUT TO:
+S: INT./EXT. STEWARD'S TENT - DAY
+N: The regatta party is underway. Music, drinks, uniformed waiters, blazers and hats everywhere. TYLER and CAMERON have changed into their Harvard. blazers and are joined now by DIVYA. The three of them have tried to find an unpopulated spot. TYLER and DIVYA have glasses of beer and are standing but CAMERON's sitting at a table with a laptop open and watching film of the end of the race. Hitting reverse on the computer and watching, over and over again, the bow of the Dutch boat pull ahead by six inches at just the right moment.
+C: CAMERON
+D: Yeah. We didn't want it enough. That was the problem. Fuck you, you fucking little--
+C: DIVYA
+D: Casa. The guy' s the prince of a country the size of East Hampton. Let it go. MR. WINKLEVOSS has made his way over...
+C: MR. WINKLEVOSS
+D: Boys.
+C: TYLER
+D: Dad.
+C: MR. WINKLEVOSS
+D: Divya.
+C: DIVYA
+D: How are-you, Mr. Winklevoss.
+C: MR. WINKLEVOSS
+D: That was a tough beat. A tough beat.
+C: CAMERON
+D: I'm sorry, dad. You and mom flew all the way over.
+C: MR. WINKLEVOSS
+D: Listen to me good, you two. Don't you ever apologize to me for losing a race like that. Don't you ever apologize to anyone for losing a race like that. Another man comes along, MR. KENWRIGHT.
+C: KENWRIGHT
+D: -Boys.
+C: TYLER
+D: Oh. Mr. Kenwright. Dad, this is Mr. Kenwright, part of our host family this week.
+C: KENWRIGHT
+D: Pleasure to meet you.
+C: MR. WINKLEVOSS
+D: Good to meet you.
+C: KENWRIGHT
+D: I just had the most extraordinary phone chat with my daughter. She told me that she and her friends are all talking about the race, which ended just, a half-hour ago, via their computers. A new website called Facebook. Do you have this in America? Eve.ryon= is frozen...
+N: DIVYA (PAUSE) Your daughter doesn't go to school in the U.S.?
+C: KENWRIGHT
+D: No no. Cambridge. Majoring in French Literature, though I wasn't aware there was such a thing.
+N: TYLER (PAUSE) They have Facebook at Cambridge?
+C: RENWRIGHT
+D: And Oxford, St. Andrews, Warwick and the London School of Economics best as I can tell. because that's where her friends are.
+C: MR. WINKLEVOSS
+D: I'm going to find your mother.
+C: KENWRIGIT
+D: Good race, boys. Live to fight another day.
+C: TYLER
+D: Thank you. The men leave and CAMERON, TYLER and DIVYA are alone. CAMERON looks at them for a moment, then turns back to watching the
+N: RACE FILM--
+C: TYLER
+D: Turn it off.
+E: CONT'D
+N: (PAUSE) Turn it off, Cam. Look at me. CAMERON turns to his brother...
+C: TYLER
+D: I don't mind that we got beat by the Dutch by less than a second. That was a fair race, that was a good race and they had the better boat today and they'll see us again. What I mind is that we got beat by Mark Zuckerberg...by less than a second.
+E: CONT'D
+N: (BEAT) We tried the Ad Board, we tried the president of the University and we tried talking to him ourselves. Now I'm asking you. For the one-hundreth time. Let's take the considerable-resources at our disposal and sue him in a federal. court. CAMERON looks at his brother...then turns back to the computer. He watches the Dutch boat pull ahead at the last moment. TYLER and DIVYA are just about to give up when CAMERON swings back and says--
+C: CAMERON
+D: Let's fucking gut that little nerd.
+C: DIVYA
+D: Finally!
+E: jamming his fists in the air
+T: CUT TO:
+S: INT. PALO ALTO HOUSE - NIGHT
+N: There's a thunderstorm going on outside and rain is beating hard against the windows, DUSTIN, ANDREW-and the INTERNS are hard at work writing code. Green Day is pumping from the speakers. SEAN is pacing the house on his cell phone while two YOUNG WOMEN--dressed to go out for a party--are at the moment each on a free computer playing each other in a game of Counter- Strike. Basically they're shooting at each other and missing and laughing their heads off, it wouldn't appear as if the house has been cleaned since the last time we saw it and in fact there are signs of more wreckage as well as futons, pillows and blankets on the floor. SEAN (INTO PHONE) But check it out, I saw him today. (BEAT) (MORE) 129,
+C: SEAN
+D: Moritz, Michael Moritz, my Sequoia Capital---hang on. Are you guys using Wallhacks or Aimbots?
+E: CONT'D to the girls
+N: GIRL #1 we don't know, we're just shooting at each other. The DOORBELL RINGS but no one pays attention--
+C: SEAN
+D: Use Barr cks.
+N: GIRL #1 Like we know what that is. Now there's a KNOCKING at the door and we
+T: CUT TO:
+N: EXT_ PALO ALTO HOUSE - NIGHT Ra:i.n is soaking down on EDUARDO as he stands at the front door with a suitcase in his hand. A taxi is turning around in the driveway and heading off. EDUARDO knocks on the front door again as we
+T: CUT BACK TO.
+S: INT. PALO ALTO HOUSE - NIGHT
+N: SEAN (INTO PHONE) I saw him getting into his car and he saw me too, I know he did. (BEAT) A Porsche Carrera 911 Turbo. Hang on. SEAN leans over one of the girls, casually hits a few keys and easily kills several of the other girl's soldiers. GIRL #1 Yes! GIRL #2 Hey! GIRL #1 Bong hit.
+C: DUSTIN
+D: Anybody hear that banging? While the following is going on, here's what's happening: The girls have gone over to a 12-foot bong that starts at the floor and goes to the landing at the top of the stairs.
+N: 130, it gets lit at the bottom and smoked at the top so the girl who just got her soldiers hit trots up the stairs. SEAN (TO DUSTIN) You don't hear anything, you're supposed to be writing code.
+C: DUSTIN
+D: Dude, somebody's at the door. SEAN goes back to the cell phone conversation as he heads to
+N: THE DOOR-- SEAN (INTO PHONE) The guy hires a P.T, to follow me around. Who does that in real life? Michael Moritz and I are gonna meet in a dark alley, I'll take Sequoia Capital down with him. SEAN opens the door and the soaking wet EDUARDO is standing there...
+C: EDUARDO
+D: What the hell.
+N: SEAN (INTO PHONE) I'll call you back (TO EDUARDO) What's up? EDUARDO (LONG PAUSE) What's up? (BEAT) Mark was supposed to get me at the airport two hours ago, I've been calling his cell.
+C: SEAN
+D: He was on a 36 hour coding tear so he took a nap for a couple of hours. EDUARDO walks into the house and surveys the wreckage--
+C: EDUARDO
+D: What in hell happened here?
+C: SEAN
+D: Not happened--happening. The next big thing.
+C: DUSTIN
+D: Wardo!
+C: EDUARDO
+D: Hey man.
+N: SEAN (TO DUSTIN) Back to work. The girl at the bottom of the stairs has filled the bowl and lights a lighter-- GIRT, #1 You ready? GIRL #2 Go. EDUARDO watches as the girl at the top of the stairs takes a 12-foot hit from the tower-bong.
+C: EDUARDO
+D: Flow old are they, Sean?
+C: SEAN
+D: It's not polite to ask,
+C: EDUARDO
+D: How old are they?
+C: SEAN
+D: You think you know me, don't you.
+C: EDUARDO
+D: I've read enough.
+C: SEAN
+D: You know how much I've read about you? Nothing. MARK comes down the stairs--
+C: MARK
+D: Wardo.
+C: EDUARDO
+D: I waited an hour for you at the airport.
+C: MARK
+D: What time is it?
+C: EDUARDO
+D: It's midnight. Or 3AM in New York where I just came from.
+C: MARK
+D: You've gotta see some of the new stuff we've got. Dustin, show him the wall. I'm just calling it the wall.
+C: SEAN
+D: Forget the wall, tell him about the meeting I've got set up with Peter Thiel.
+N: (TO EDUARDO) You know Peter Thiel?
+C: EDUARDO
+D: No.
+C: SEAN
+D: Why would you? He just runs a two-billion dollar hedge fund called Clarium Capital and was the money behind PayPal.
+N: EDUARDO (TO MARK) Why's he setting up meetings?
+C: MARK
+D: Thiel may want to make an angel, investment.
+C: EDUARDO
+D: I don't care if he's an actual angel, why's he setting up business meetings?
+C: MARK
+D: You've had a long flight.
+C: EDUARDO
+D: No, I've had a long wait on the tarmac at JFK, theft a long wait at the passenger loading and unloading zone at SFO and in between there was a long flight. I run the business end of this company, he's a house guest living rent-free on a generous grant from the Eduardo Saverin Foundation.'
+C: SEAN
+D: How's the business end going? I see you got some big ticket ad buys lined up.
+N: EDUARDO LOOK--
+C: SEAN
+D: The Harvard Eartendi.ng Course, the Seneca Club's Red Party and the Mather House annual "Lather Dance". You're just one small step away from bagging Snookies Cookies, I can feel it.
+N: EDUARDO (TO MARK) Can I talk to you alone for a minute?
+C: MARK
+D: Sure.
+N: SEAN (CALLING OUT) Bong hit! G-IRL #2 I'm pretty baked.
+C: SEAN
+D: Don't worry about it, it's just from the pot. EDUARDO's followed MARK into--
+S: INT. KITCHEN CONTINUOUS
+C: MARK
+D: How's it going? How's the internship? How's Jenny?
+C: EDUARDO
+D: How's the internship?
+C: MARK
+D: Yeah.
+C: EDUARDO
+D: Mark.. .Jesus, I quit the internship. We've talked about this on the phone, were you even--I quit on my first day.
+C: MARK
+D: I do remember you saying that.
+C: EDUARDO
+D: Yeah, it was a pretty big deal.
+C: MARK
+D: How's Jenny?
+C: E DUAPRDO
+D: Jenny's psycho.
+C: MARK
+D: That can be fun.
+C: EDUARDO
+D: No I mean she's actually psychotic. She's insanely jealous and she's irrational and she's violent.
+C: MARK
+D: Still, it's nice you have a girlfriend.
+N: 134 ,
+C: EDUARDO
+D: I do not want that guy representing himself as part of this company.
+C: MARK
+D: You gotta move out here, Wardo, this is where it's all happening.
+C: EDUARDO
+D: Did you hear what I just said?
+C: MARK
+D: The con etions, the energy-
+N: EDUARDO MARK--
+C: MARK
+D: --the creativity.
+C: EDUARDO
+D: He's not part of the company.
+C: MARK
+D: We've got over 300,000 members, we're in
+N: 160 SCHOOLS INCLUDING--
+C: EDUARDO
+D: I'm aware of that.
+C: MARK
+D: --five in Europe.
+C: EDUARDO
+D: I'm aware of that, Mark, I'm the CFO.
+C: MARK
+D: We need more servers than I ever imagined we'd need. We need more programmers. We need more'money. He set uV the Thiel meeting. He's set up meetings all around town.
+C: EDUARDO
+D: He's set up other meetings?
+C: MARK
+D: Yes.
+C: EDUARDO
+D: Without me knowing anything about it?!
+C: MARK
+D: You're in New York!
+C: EDUARDO
+D: Riding subways 14 hours a day to get
+N: ADVERTISERS:
+C: MARK
+D: How's it going so far?!! EDUARDO looks at MARK for a long moment before we
+T: CUT TO:
+S: INT. BANK OF AMERICA BRANCH- DAY
+N: EDUARDO comes through the doors with single-minded intent, heads past the tellers and straight to a desk where he takes a bankbook out of his pocket and slaps it on the desk. BANKER (BEAT) Can I help you?
+C: EDUARDO
+D: I want to freeze this bank account and cancel all existing checks and lines of credit.
+T: CUT TO:
+S: EXT./EST. SAN FRANCISCO SKYSCRAPER - DAY
+N: 80 stories of polished granite.
+S: INT. TBIELL'S OUTER OFFICE - DAY
+N: We're in the offices of a guy who's hero is Gordon Gekko. MARK and SEAN are waiting--seated side by side--for a verdict. SEAN's wearing his best Prada, MARK's wearing his hoodie and Adidas flip-flops. After a moment...
+C: SEAN
+D: You know this is where they filmed Towering Inferno.
+N: MARK (PAUSE) That's comforting. The office door opens and PETER THIEL sticks his head out--
+C: PETER
+D: Come back in. They get up and walk into--
+N: ].36.
+S: INT. THIEL'S OFFICE - CONTINUOUS
+N: Several of Thiel's lieutenant's are sitting around.
+C: THIEL
+D: We've talked it over and congratulations. We're gonna start you off with a $500,000 investment. Maurice is gonna want to talk to you about some corporate restructuring.
+C: MAURICE
+D: We'll file as a Corporations eiaware and come up with a new stock strn ructure to allow for new investors,
+C: THIEL
+D: Now lemme ask you something. Who's Eduardo Saverin?
+T: CUT TO:
+S: INT. EDUARDO'S APARTMENT - NIGHT
+N: A summer sub-let. A studio apartment the size of a small too]. shed. EDUARDO is asleep on top of the covers in the un-air conditioned apartment when he wakes up to the sound of a key in the door; One lock un-locks, then another--
+C: EDUARDO
+D: Hello? --and then the last. The door opens and JENNY is framed by the dingy light of the hallway.
+C: EDUARDO
+D: Jesus .
+E: CONT'D
+C: JENNY
+D: When did you get back?
+C: EDUARDO
+D: You scared me. I need you to knock first.
+C: JENNY
+D: When did you get back?
+C: EDUARDO
+D: I got back this afternoon.
+C: JENNY
+D: And when were you going to call me?
+C: EDUARDO
+D: Jen, it was kind of a rough trip and I was tired and--
+C: JENNY
+D: Or answer one of my 47 texts? Did you know I sent 47 texts?
+C: EDUARDO
+D: I did, and I thought that was incredibly normal behavior.
+C: JENNY
+D: Are you mocking me?
+C: EDUARDO
+D: I brought you a present.
+C: JENNY
+D: Why does your status say "single" on your Facebook page?
+N: EDUARDO (BEAT) What?
+C: JENNY
+D: Why does your relationship status say "single" on your k'acebook page?
+C: EDUARDO
+D: I was single when I set up the page.
+C: JENNY
+D: And you just never bothered to change it?
+N: EDUARDO (BEAT)
+C: JENNY
+D: What?!
+C: EDUARDO
+D: I don't know how.
+C: JENNY
+D: Do I look stupid to you?
+C: EDUARDO
+D: No. Calm down.
+N: 138,
+C: JENNY
+D: You're asking me to believe that the CFO of Facebook doesn't know how to-change his relationship status on Facebook?
+C: EDUARDO
+D: It's a little embarrassing so you should take it as a sign of trust that I would tell you that.
+C: JENNY
+D: Puck you, Wardo.
+N: EDUARDO (CALMING) Easy.
+C: JENNY
+D: You didn't change it so you could fuck Silicon valley skanks every time you go out to see Mark.
+C: EDUARDO
+D: That is not even remotely true and I can promise you that the Silicon valley skanks don't care what anyone's relationship status is on Facebook. Please let me give you your present. EDUARDO's cell phone RINGS--
+C: 'JENNY
+D: Oh, your phone does work. EDUARDO reaches for his cell but JENNY grabs it first to check the ID.
+N: (CONT'D) It's Mark. JENNY tosses the still ringing phone back to him--
+C: EDUARDO
+D: Okay, this is gonna be tricky. Here, open your present. It's a silk scarf.
+C: JENNY
+D: Have you ever seen me wear a scarf?
+C: EDUARDO
+D: This'll be your first. EDUARDO's gotten the gift box out of his half un-packed suitcase, tossed it to JENNY and finally answered the phone.
+N: EDUARDO (CONT'D) (INTO PHONE) Yeah.
+T: INTERCUT WITH:
+S: INT. PALO ALTO HOUSE - SAME TIME
+C: MARK
+D: You froze our account? in the background there's a small celebration going on with SEAN, DUSTIN, the INTERNS and of course some GIRLS. Champagne is being sprayed from shaken bottles and the girls. are dancing to triumphant music.
+E: into his cell phone
+C: EDUARDO
+D: I did.
+C: MARY
+D: You froze the account.
+C: EDUARDO
+D: I had to get your attention, mark.
+C: MARK
+D: Do you realize that you jeopardized the entire company? Do you realize that your actions could have easily destroyed everything I've been working on?
+C: EDUARDO
+D: We've been working on.
+C: MARK
+D: Without money, the company can't function. What EDUARDO can't see behind his back is that JENNY has taken the gift box and lit it on fire with a cigarette lighter.
+C: MARK
+D: If the servers are down for even a day, our reputation is damaged irreversibly,. Users are fickle. Friendster has proven that fact. And JENNY's now dropped the flaming cardboard box into the wastebasket where the fire grows larger. She casually kicks the basket over with her foot.
+E: CONT'D
+N: EDUARDO LOOK-- 140,
+C: MARK
+D: Even a small exodus, even a few people leaving would reverberate through the whole user base. The users are interconnected, that's the whole fucking point! College kids are online because their friends are online and if one
+N: DOMINO--
+C: EDUARDO
+D: Holy shit!
+E: finally seeing the fire
+C: MARK
+D: --goes, all the dominos go! Do you get that?! I'm not going back to Caribbean Night at the Jewish fraternity!
+C: EDUARDO
+D: I've got a fire in a my apartment!
+C: MARK
+D: Did you like being nothing?! Did you like being nobody?! Did you like being a pasty- faced geek?! You wanna go back to that?!
+C: .EDUARDO
+D: I'm putting you on speaker. EDUARDO hits a button on his cell and tosses it down. We'll. keep hearing MARK'sâ¢voice as EDUARDO runs out into the hallway, grabs a fire extinguisher from its wall bracket, comes back in and sprays out the fire.
+C: MARK
+D: That was the act'of a child, not a businessman. And it certainly wasn't the act of a friend, You know how embarrassed I was when I tried to cash a check? And I was with a girl, Wardo. It happened in front of a girl. I'm not going back to that life,
+N: EDUARDO (SHOUTING) Yeah!
+C: MARK
+D: Okay, maybe you were angry, maybe you were frustrated. I'm ready to let, uh, to let bygones be bygones because I've got some good news. EDUARDO--with the fire now out--picks up the phone.
+C: EDUARDO
+D: I'm sorry. It .maybe was angry and it was childish. I needed to get your attention.
+N: ].41 .
+C: MARK
+D: I said I've got some good news.
+C: EDUARDO
+D: What is it?
+C: MARK
+D: Peter Thiel's just made an angel investment of a half a million dollars..
+N: EDUARDO (PAUSE) What?
+C: MARK
+D: A half a million dollars and he's setting us up in an office. They want to re- incorporate the company, they want to meet you and they need your signature on some documents so get your ass on the next flight back to San Francisco. I need my CFO,
+N: EDUARDO (BEAT--SMILES) I'm on my way. MARK EDUARDO
+C: MARK
+D: EDUARDO clicks the phone shut.
+C: JENNY
+D: You're going back there?
+C: EDUARDO
+D: Yes. Also I'm breaking up with you.
+T: CUT TO:
+S: INT. FACEBOOK OFFICE - DAY
+N: A glass conference room in the corner of a glass bullpen on a high floor of a high rise. Cartons are being unpacked, computers are everywhere along with bags of potato chips and boxes of cereal. In the conference room, EDUARDO is sitting with three LAWYERS at a round, glass table and documents have been put out in front of him. We can see through the glass that MARY, is working at a computer nearby. SEAN is also hovering in the background.
+C: LAWYER
+D: Four documents, These two are common stock purchase agreements allowing you to buy stock in the newly re-incorporated Facebook instead of the old stock which is now worthless, The third is the exchange agreement, that's for exchanging your old shares for new shares and this is the voter holding agreement.
+C: EDUARDO
+D: How many shares of stock will I own?
+N: LAWYER 1,328,334.
+C: EDUARDO
+D: Jesus Christ.
+C: LAWYER
+D: That's a 34.4% ownership share. Why the rise from the original 30%?
+C: EDUARDO
+D: Because you may need to dilute it to award shares to new investors.
+C: LAWYER
+D: I like dealing with business majors.
+N: LAWYER #2 You should know that Mark's already taken his percentage from 60 down to 51.
+C: EDUARDO
+D: Mark doesn't care about money and he needs to be protected.
+C: LAWYER
+D: Dustin Moskowitz owns 6.81%, Sean Parker 6-.47h__
+C: EDUARDO
+D: I can live with that.
+C: LAWYER
+D: And Peter Theil 7%. Would you like to use my pen?
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM EVENING
+N: It's dusk now and the sky outside the room is turning purple. EDUARDO seems lost in thought. GRETCHEN (HELPING) Eduardo? EDUARDO looks up. EDUARDO (PAUSE) I'm sorry. Could you please repeat the question?
+C: COURT REPORTER
+D: Counsel: "And when you signed these documents, were you aware that you were signing your own death certificate?"
+N: EDUARDO (PAUSE) No. (PAUSE) It was insanely stupid of me not to have my own lawyer look over all the-the, uh.. .I thought they were my lawyers. (BEAT) I was a Harvard business major. (then to MARK) I was your only friend. You had one friend. (BEAT) My father won't look at me. GRETCHEN (BEAT) Okay. Eduardo? Did Mr. Zuckerberg saying anything to you after you signed the papers?
+C: EDUARDO
+D: Well there was a lot of handshaking and congratulations. He'd already told me he wouldn't be coming back to school for at least a semester so we were saying goodbye for a while. And then before I left, he said----
+T: CUT TO:
+N: INT. rACE000K OFFICE -â¢ DAY
+C: MARE
+D: But you gotta come back. Somewhere around the end of November/early December.
+N: (MORE) 144,
+C: MARK
+D: Peter's gonna throw us an amazing party when we hit a million members, it's gonna be out of control. You've gotta come back for it.
+E: CONT'D
+C: EDUARDO
+D: A million members.
+E: quietly can't believe it
+C: MARK
+D: Yeah.
+C: EDUARDO
+D: Remember the algorithm on the window at Kirkland?
+C: MARK
+D: Yeah.
+C: EDUARDO
+D: Yeah, I'll be here.
+T: CUT TO:
+S: EXT. SAN FRANCISCO STREET - DAY
+N: A brand new black Escalade pulls up in front of a gleaming glass and chrome office building.. SEAN is at the wheel and MARK, in the passenger seat, is wearing brightly colored pajamas with his hair a mess. They get out of the car and huddle-on the sidewalk.
+C: MARK
+D: You sure about-this?
+C: SEAN
+D: Oh yes. You're 20 minutes late. You're going to walk in there and say you overslept. and you didn't have time to get dressed, They're gonna pitch you, Sequoia Capital is gonna pitch you. They're gonna .tell you why you should take their money. They're gonna beg you to take their money, You're gonna nod, you're gonna nod, you're. gonna nod and then you're -gonna say, "Which one of you is Michael Moritz?". Moritz is gonna say, "That's me". And you're gonna say, "Sean Parker says 'Fuck you.' And walk right on out.
+N: MARK (PAUSE) Okay. MARK heads into the office building. SEAN looks up to the windows of a high floor, points, and says--
+C: SEAN
+D: Fuck. You.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - EVENING
+C: EDUARDO
+D: In late November I got the e-mail from Mark telling me to come out for the millionth member party.
+C: GRETCHEN
+D: What else did the e-mail say?
+C: EDUARDO
+D: It said that we had to have a business meeting. That Mark and Sean had played some kind of revenge stunt on Michael Moritz and Sequoia capital. and that it had impressed Moritz so much that he was making an investment offer that was hard to turn down.
+T: CUT TO
+S: INT. NEW FACEBOOE OFFICES - NIGHT
+C: EDUARDO
+D: I went out to California and went straight to the new offices. And it's clear that we're in the offices of a new, high-tech, very successful internet company. The Facebook logo in blue metallic letters on the wall, the maple desks, new computer monitors, carpeting, a wall covered in graffiti by an artist commissioned for. the job and -tons of young employees.
+E: V.O.
+C: EDUARDO
+D: I didn't know whether to dress for the party or the business meeting so I kind of dressed for both. We see that most of the employees, especially the women, are dressed to go to an after-work, late-night party.
+E: V.0. CONT'D
+C: EDUARDO
+D: But it didn't matter.
+E: V.0. CONT'D
+C: GRETCHEN
+D: Why not?
+E: V.O.
+C: EDUARDO
+D: Because I wasn't called out there for either one.
+E: V.0.
+T: CUT TO:
+S: INT. FIRST DEPOSITION-ROOM - EVENING
+C: GRETCHEN
+D: What were you called out there for?
+E: V.O.
+C: EDUARDO
+D: An ambush.
+E: V.0.
+C: LAWYER
+D: Eduardo'.
+E: V.0.
+T: CUT BACK TO:
+S: INT. NEW FACEBOOK OFFICES - NIGHT
+C: LAWYER
+D: Eduardo. EDUARDO turns to see the LAWYER he dealt with earlier standing by the door to a glass conference room.
+C: LAWYER
+D: In here. EDUARDO walks across the bullpen; where no one makes eye contact, and into--
+E: CONT'D
+S: INT. CONFERENCE ROOM -CONTINUOUS
+C: EDUARDO
+D: At first I thought he was joking, giving me more contracts to sign. But then I started reading. As EDUARDO reads, we rack focus to MARK, who's sitting at a computer'with his back to EDUARDO, focused on his work. And then we see-SEAN step into the frame and lean against a desk a few yards away. And then back to EDUARDO, who's almost shaking...
+E: V.0.
+C: EDUARDO
+D: What is this?
+E: CONT'D
+N: LAWYER THESE ARE--
+C: EDUARDO
+D: What is this?
+C: LAWYER
+D: If you'll let me-- EDUARDO goes back out into--
+S: INT. BULLPEN - CONTINUOUS
+C: EDUARDO
+D: Mark? MARK doesn't look up from his computer--
+C: EDUARDO
+D: Mark. MARK still doesn't look up--
+E: CONT'D
+C: SEAN
+D: He's wired in.
+N: EDUARDO (PAUSE) I'm sorry?
+C: SEAN
+D: He's wired in.
+C: EDUARDO
+D: Is he?
+C: SEAN
+D: Yes. EDUARDO picks up MARK's laptop over his head and smashes it down on the desk, breaking it into pieces.
+C: EDUAK2DO
+D: How 'bout now, are you still wired in?
+C: SEAN
+D: (to the girl at the desk he's
+C: LEANING AGAINST)
+D: Call security. Everyone in the office is frozen, silent and watching.
+C: EL DUARDO
+D: You issued over 24-million new shares of stock.
+C: MARK
+D: You were told that if new investors came
+N: ALONG--
+C: EDUARDO
+D: How much were your shares diluted? How much were his?!
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - EVENING
+C: GRETCHEN
+D: What was Mr. Zuckerberg's ownership share diluted down to?
+C: EDUARDO
+D: It wa ï¿½
+C: GRETCHEN
+D: What was Mr. Moskowitz's ownership share diluted down to?
+C: EDUARDO
+D: It wasn't.
+C: GRETCHEN
+D: What was Sean Parker's ownership share diluted down to?
+C: EDUARDO
+D: It wasn't.
+C: GRETCHEN
+D: What was Peter Thief's ownership share diluted down. to?
+C: EDUARDO
+D: It wasn't.
+C: Â¢GRETCHEN
+D: What was your ownership share diluted down to?
+N: EDUARDO (PAUSE) Point-zero-three percent.
+T: CUT TO:
+S: INT. NEW FACEBOOK OFFICES - NIGHT
+C: MARK
+D: You signed the papers.
+C: EDUARDO
+D: You set me up.
+N: 1. 49.
+C: MARK
+D: You're gonna blame me because you were the business head of the company and you made a bad business deal with your own company?!
+C: EDUARDO
+D: It's gonna be like I'm not part of Facebook.
+C: SEAN
+D: It's not. gonna be like you're not part of Facebook, you're not part of Facebook.
+C: EDUARDO
+D: My name's on the masthead.
+C: SEAN
+D: Check again. EDUARDO is momentarily frozen...
+C: EDUARDO
+D: This is because I froze the account?
+C: SEAN
+D: You think we were gonna let you parade around in your ridiculous suits pretending you were running this company?
+C: EDUARDO
+D: Sorry, but my Prada's at the cleaners along with my hoodie and my fuck-you flip- flops you pretentious douchebag.
+C: SEAN
+D: Oooh, security is here. You'll be leaving now. Two SECURITY GUARDS have come in--
+C: EDUARDO
+D: :I'm not signing those papers.
+C: SEAN
+D: We'll get your signature.
+C: EDUARDO
+D: Tell me this isn't about me getting into the Phoenix.
+E: turning to MARK
+C: MARK
+D: That's right. It is. Maybe if you'd spent a little less time with your new friends and a little more time with the company
+N: THIS--Â¢Â¢
+C: EDUARDO
+D: You did it. I always knew you did it. You planted the story about the chicken.
+N: SEAN (PAUSE) What the fuck is he talking about? I didn't.
+C: EDUARDO
+D: You had me accused of animal cruelty.
+C: SEAN
+D: Seriously, what the fuck is up with the chicken?
+C: EDUARDO
+D: And I'll bet you just hated that they identified me as a co-founder of Facebook- -which I am! You better lawyer-up, asshole, 'cause I'm not comin' for my 30 percent, I'm comin' after everythin g
+N: SEAN (TO SECURITY) Get him outa here.
+C: EDUARDO
+D: I'm going.
+C: SEAN
+D: Hang on. SEAN hands EDUARDO aâ¢folded check.
+C: SEAN
+D: There's your $19,000. 1 wouldn't cash it, though, I drew it on the account you froze. EDUARDO looks. at SEAN. . .then suddenly and quickly cocks his fist back to punch him in the face. SEAN flinches as EDUARDO holds his punch and lets out a small laugh.
+E: CONT'D
+C: EDUARDO
+D: I like standing next to you, Sean. It makes me look tough in comparison. EDUARDO exits with the security escort. There's a long silence in the room...
+C: SEAN
+D: That's it. That's our show for tonight. I want to see everybody here get geared up for a party. We're gonna walk down to the club like it's the Macy's Thanksgiving Parade. Mackey, put it up on the screen, we've gotta be almost there. A young employee hits a remote and a few keys on his computer and a huge flat-screen displays a Facebook page with a read- out of the number of members.
+N: There's scattered applause and excitement as everyone watches. SEAN takes MARK aside.
+C: SEAN
+D: You alright?
+E: CONT'D
+C: MARK
+D: Yeah.
+N: (BEAT) You were kinda rough on him.
+C: SEAN
+D: That's life in the NFL.
+C: MARK
+D: No. You didn't have to be that rough on him.
+C: SEAN
+D: Listen, I'm putting together a party-.-
+C: MARK
+D: Sean? You didn't have to be that rough on him.
+C: SEAN
+D: I get it. I'll send flowers. I'm putting -together a party after the party at Gamma Phi Beta. Ashleigh over there's a sister and she says her friends are all down..
+C: MARK
+D: Ashleigh?
+C: SEAN
+D: Yeah.
+C: MARK
+D: That's great. I've been, you know, I've been talking to her a little. I don't know, I think she likes me.
+N: 152,
+C: SEAN
+D: Oh dude.
+C: MARK
+D: What?
+C: SEAN
+D: Yeah. An intern, ASHLEIGH, comes along With a small package--
+C: ASHLEIGH
+D: Excuse me, Mark?
+C: SEAN.
+D: We were just talkin' about you,Ash. We're on for tonight?
+C: ASHLEIGH
+D: Yeah.
+N: (TO MARK) This came in for you.
+C: MARK
+D: You can put it on my desk. ASHLEIGH puts the small package on Mark's desk.
+C: SEAN
+D: She's 19, I can't he.lp it, But I'll tell you what--after tonight.she's yours. in fact, I'm. gonna get' you in with all sorts of girls you wouldn't have met before.
+N: (CALLING OUT) Mackey! MACKEY (CALLING BACK) Yes sir!
+C: SEAN
+D: Refresh!
+C: MARK
+D: You'd do that for me? MACKEY hits the "refresh" key and the big screen shows--
+E: blandly to SEAN
+N: 1,000,002 CHEERS erupts throughout the place. SEAN grabs MARK and hugs him but MARK doesn't quite hug back--he's still hearing what SEAN just said.
+T: CUT TO:
+S: EXT. SORORITY HOUSE - NIGHT
+N: We can hear the thumping music coming 'from the party inside and college kids have spilled out onto the front lawn of this pristine, four-columned house.
+S: INT. SORORITY HOUSE - NIGHT
+N: It's dark but we can make out people dancing. The place is packed. UT TO
+S: INT. BEDROOM - NIGHT
+N: We hear the thumping music from the party. SEAN's in there with a couple of guys, ASHLEIGH and another GIRL. SEAN's got his cell phone out and will snap a picture every once in a while.
+C: GIRL
+D: I can't find a mirror.
+C: GUY
+D: Do it on anything. You can use a CD.
+C: ASHLEIGH
+D: Do it off this. ASHLEIGH's sat on the bed and unbuttoned her top so that she's in just a bra. She's offering her chest as a surface off of which to snort cocaine.
+C: GIRL
+D: Alright! The GIRL taps out some coke from a vial onto ASHLEIGH's chest and starts passing around a rolled up 20-dollar bill for everyone to have a turn and she herself will unbutton her shirt too for the same purpose. All this while SEAN is talking,
+C: SEAN
+D: The next transformative development? A picture sharing application. A place where you view pictures that coincide with your social life. It is the true... digitalization of real life. You don't just go to a party anymore, you go to a party with your digital camera and your friends relive the party on Facebook. And tagging. The idea that you could tag anyone you wanted in those pictures so that people could find themselves. Then a digital log of every change in a person's life, broadcast to all their friends instantaneously.
+N: 154,
+C: ASHLEIGH
+D: Would this be easier without the bra?
+C: GUY
+D: It's worth finding out. The girls start happily slipping off their bras--
+C: .SEAN
+D: I've spent hours--
+C: ASHLEIGH
+D: Why has the music stopped?
+C: SEAN
+D: I've spent hours watching what people do when they log on.
+C: ASHLEIGH
+D: Seriously, why has the music stopped? ASHLEIGH has a point. The music stopped in the addle of SEAN's speech and the sound outside from the party just doesn't sound like a party anymore.
+C: SEAN
+D: flow they always checked their friends' status updates, checked to see which of their friends had changed their profiles, changed their photos and mostly...We lived on farms, then we lived in cities and now we're gonna live on the internet.
+N: - ASHLEIGH Sean. Stop. Something's going on downstairs, SEAN stops talking-he senses it too now. SEAN walks out of the room to the-- INT, STAIRCASE LANDING - CONTINUOUS And out the window he sees a fleet of police cars with their lights flashing parked in front of the house. Then before he can react, the front door flies open-- POLICE with flashlights walk in--the beams of light streaking across the darkened party floor and the faces.. We HEAR muffled murmurs from the cops of "party's over" and "step to the side" and "nobody's leaving just yet", etc. SEAN bolts back into--
+S: INT. BEDROOM - CONTINUOUS
+N: --leaving the door open.
+C: SEAN
+D: It's the cops. And they all spring into action. The girls are putting their bras back on, SEAN is wiping down a night table with the palm of his hand to get the coke dust off.
+N: SEAN (CONT'D)
+C: POLICEMAN
+D: What's goin' on? They turn to see TWO POLICEMEN standing in the doorway, their flashlights scanning the room and hitting SEAN's eyes.
+N: SEAN (BEAT) We're sorry, was the music too loud? We've got kind of a celebration going.
+C: POLICEMAN
+D: Ladies, I need you to put your shirts on.
+C: SEAN
+D: I can have them turn the music down. One of the policemen casually takes SEAN's hand and sees that his palm looks like he just used it to erase a blackboard. The cop uses his finger to taste what it is.
+C: SEAN
+D: Yeah, that isn't mine.
+E: CONT'D
+C: POLICEMAN
+D: Okay, could you all stay where you are. And the handcuffs start to come out and we've got a room of terrified children.
+C: GIRL,
+D: Wait, can we just talk for a second? We start to move in on SEAM...
+N: POLICEMAN (TO SEAN) You got anything in your pockets I need to know about?
+C: SEAN
+D: No sir.
+N: - POLICEMAN Don't be stupid now,
+C: SEAN
+D: I don It.
+C: POLICEMAN
+D: What's this?
+E: out of SEAN's shirt pocket
+C: SEAN
+D: It's an Epipen,
+C: POLICEMAN
+D: And this?
+C: SEAN
+D: That's my inhaler.
+N: POLICEMAN #2 Ladies, how old are you?
+C: GIRL
+D: I'm 20.
+C: ASHLEIGH
+D: I'm 19,
+C: POLICEMAN
+D: Lying makes â¢ i_'E worse.
+C: ASHLEIGH
+D: I'm 17, I-'m sorry, I shouldn't have lied. SEAN closes. his eyes at hearing this news as we HEAR the sound of the-cuffs lock around his wrists and we
+T: CUT TO:
+S: INT. NEW FACEBOOK OFFICES - NIGHT
+N: A digital LED clock on the wall tells us it's 4:40AM. MARK is sitting at his computer alone. No one else is in the office. The San Francisco skyline is beautiful outside the floor-to-ceiling glass. His cell phone RINGS and he answers. 1. 57. MARK (INTO PHONE) Hello?
+T: INTERCUT WITH:
+S: EXT. POLICE STATION - NIGHT
+N: SEAN, freezing with no coat on, is sitting on the bottom of the steps to the police station.'The LAWYER we've seen before is standing in back of him. SEAN (INTO PHONE) Listen, something's happened. We see MARK listening on his end but can't hear SEAN's end of the conversation. MARK (PAUSE) Shit.
+C: SEAN
+D: It's alright, it's gonna be alright. I've posted bond-and I wasn't doing anything. I mean, I've got allergies so I can't---- We're back on MARK's side. He listens... listens...
+N: MARK 17? Back on SEAN's side-
+C: SEAN
+D: I think it was Moritz. I swear, I think it was Michael Moritz.
+N: MARK (EVENLY) This is gonna be news, Sean, it's gonna. be online any second. SEAN (BEAT) I know. MARK (BLANK) You know with anunderage intern and--
+C: SEAN
+D: It's cool, I've got it under control.
+N: 158, MARK (NO PANIC) I'll get it under control. I'll call our guys and see what the next move is. But this is gonna be news now.
+C: SEAN
+D: You think it was Moritz? 'Cause I do. And I'm gonna meet that guy in a dark alley one night. Or Eduardo? Did Eduardo have me followed?
+C: MARK
+D: Go home, Sean. I'll call our people. MARK clicks the phone shut. He sits there a moment. He looks at the small package. that Ashleigh dropped on his desk earlier. He opens up the brown paper wrapping and there's a box. He opens the box--a thousand brand new business cards. He takes one of the business cards out and looks at it. I'm CEO ...Bitoh And over this we HEAR a woman's voice...
+E: cool as ice
+C: MARYLIN
+D: Mark?
+E: V.0.
+T: CUT TO:
+S: INT. FIRST DEPOSITION ROOM - NIGHT
+N: MARK is sitting alone.-in the conference room. The only one left is MARYL?N,whose voï¿½.ce we just. heard. The lightp of the San Francisco skyline fill the huge picture windows.
+C: MARYLIN
+D: Mark? MARK looks up at her...
+C: MARYLIN
+D: Everyone's gone, MARK doesn't say anything...
+E: CONT'D
+C: MARYLIN
+D: We're done for the day,
+E: CONT'D
+N: MARK (PAUSE) Who would you rather he?
+C: MARYLIN
+D: I'm sorry?
+C: MARK
+D: My lawyer or their lawyer?
+N: MARYLIN (SMILES) Something tells me over the long run there's more money in being your lawyer. What happened to Sean?
+C: MAIM
+D: He cashed out most of his stock. Hey listen, all you had all day was that salad. You want to get something to eat?
+C: MARYLIN
+D: I can't.
+C: MARK
+D: I'm not a bad guy.
+C: MARYLIN
+D: I know that. I like you.
+C: MARK
+D: What happens now?
+C: MARYLIN
+D: Sy and the rest of them are at the Palm having a steak. Then they'll come back, up to the office and start working on a settlement agreement to present to you.
+C: MARK
+D: They're gonna want to settle?
+C: MARYLIN
+D: Oh yeah. And you're gonna have to pay some bonus money too.
+C: MARK
+D: Why?
+C: MARYLIN
+D: 'Cause you're gonna need these guys to sign a non-disclosure agreement and you're gonna need to be indemnified. They say one unflattering word about you in public and you own their house, wife and kids.
+C: MARK
+D: I invented Facebook.
+C: MARYLIN
+D: I'm talking about what a jury'll see. .That's what I do, that's what I'm doing here. I'm trying to specialize in voir dire--jury selection. Clothes, hair, wedding ring, speaking style, likability--
+C: MARK
+D: Likability?
+C: MARYLIN
+D: I've been licensed to practice law for all of-20 months and I could get a jury to believe you planted the story about Eduardo. You know how? Just by asking the question. Watch. Why weren't you at the sorority party that night?
+C: MARK
+D: You think I'm the one who called the police?
+N: MARYLIN - Doesn't matter, I asked the question and now everybody's thinking about it. You lost the jury in the first 10 minutes. MARK (PAUSE) Farm animals?
+C: .MARYLIN
+D: Yeah,
+C: MARK
+D: I was drunk and angry and stupid.
+C: MARYLIN
+D: And blogging.
+N: (PAUSE) Pay the fine. Get your parking validated. Get out of it. That's what Sy and the guys'll tell you in the morning.
+C: MARK
+D: Would anyone mind it I stayed and used the computer for a minute?
+C: MARYLIN
+D: No. There's a night guy downstairs. Stay as long as you want.
+C: MARK
+D: Thanks. I appreciate your help today,
+C: MARYLIN
+D: You're not an asshole, Mark. You just want to be.
+N: MARYI,IN, who's been putting on her coat, takes her briefcase and exits. MARK sits down at the computer. He logs on to Facebook. He -types a name in the-search box: "Erica Albright". Erica's name and picture come up, along with Boston University, '07. Mark smiles. She's on Facebook. He moves the mouse back and forth between two boxes: "Send a Message." and "Add as a Friend". He clicks on "Add as a Friend". A box comes up that reads: "Your request to add Erica Albright as a friend has been sent." Then MARK clicks to his homepage and waits for the response. And waits...
+C: TITLE:
+D: Cameron and Tyler Winklevoss received a settlement of 65 million dollars and signed a non-disclosure agreement, They rowed for the U.S. Olympic Team in Beijing and placed sixth.
+N: MARK is still waiting... Eduardo Saverin received an unknown Gash settlement. His name has been restored to the Facebook masthead as a founder. MARK is settling into his chair. He'll wait all night if he has to. Facebook has 180 million members in 60 countries. It's currently valued at 15 billion dollars. Mark zuckerberg is the youngest billionaire in the world. MARK waits... And waits... AND WE SNAP TO BLACK ROLL, MAIN TITLE

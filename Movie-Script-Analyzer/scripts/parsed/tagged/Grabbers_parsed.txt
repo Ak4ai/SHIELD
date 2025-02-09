@@ -1,0 +1,2743 @@
+M: GRABBERS
+M: Written by
+M: Kevin Lehane
+M: PRODUCTION DRAFT
+M: November 10, 2010
+M: Production Draft - PINK
+M: Revised, November 16, 2010
+M: Production Draft - BLUE
+M: Revised, November 19, 2010
+M: Production Draft - YELLOW
+M: Revised, November 28, 2010
+M: Production Draft - GREEN
+M: Revised, December 10, 2010
+M: Production Draft - GOLD
+M: Revised, January 28, 2011
+T: FADE IN:
+S: EXT. OCEAN - NIGHT
+N: Across the inky swell, a river of moonlight cuts a path to a lonely fishing tug drifting with the tide. THE MERRY WIDOW.
+S: INT. MERRY WIDOW GALLEY - NIGHT
+N: A light bulb waltzes with the sway of the boat. Three shabby Irish fishermen unwind after dinner, playing cards. The eldest and scruffiest (the SKIPPER) reveals his hand to a young deckhand (GREG). Read 'em and weep.
+C: GREG
+D: You can't be serious?
+N: Laughing, the Skipper unspools himself from the cramped table as he and ROY, the bloated first-mate, clamber above deck.
+C: GREG
+D: Every bloody night.
+S: EXT. MAIN DECK - NIGHT
+N: Roy and the Skipper check the hauled in nets, until ... A SILENT ARC OF LIGHT SLICES ACROSS THE SKY. It careens downwards in a furious trajectory and -- BOOM!! A mile off their port it collides with the sea.
+C: ROY
+D: Did you see that?
+C: SKIPPER
+D: ... Yeah.
+C: ROY
+D: A flare?
+N: The Skipper watches the water. Unsure. Greg leaps on deck brandishing a clutch of cards.
+C: GREG
+D: Ye cheated! There's five aces! I counted 'em!
+N: The Skipper brushes past Greg, distracted.
+C: SKIPPER
+D: Secure the lines. GRABBERS - Production Draft 28/1/2011 2.
+E: GOLD
+N: Greg looks to Roy.
+C: GREG
+D: Not so funny now, huh?
+N: Roy plucks one of the five aces from Greg's hand and flips it over. Its backing is red.
+C: ROY
+D: It's from a different deck, ya muppet.
+N: He sticks it to Greg's damp forehead and carries on as ordered. Greg turns the remaining aces over. They're blue.
+C: GREG
+D: ... Shite.
+S: EXT. OCEAN - NIGHT
+N: Foam rises as bubbles crest violently. Closing in, the Merry Widow casts its searchlight across the churning surf.
+S: INT. PILOTHOUSE / EXT. OCEAN
+N: The Skipper steers carefully, holding a radio mic.
+C: SKIPPER
+D: Haven Point. Haven Point. Haven Point. This is Fishing tug Merry Widow. Call sign echo whiskey niner ait fife. Position five nautical miles west of Erin Island. Responding to unknown distress flare. Over.
+E: INTO MIC
+N: The Skipper pulls back on the throttle, sloshing to a stop. He taps the sonar screen. A hazy shadow engulfs the readout.
+C: SKIPPER
+D: Definitely something ...
+C: ROY
+D: Over there!
+E: O.S.
+N: Roy shines his flashlight over the rail.
+C: ROY
+D: There's something in the water!
+N: Suddenly Roy wheels overboard, yanked into the murky sea. GRABBERS - Production Draft (GOLD) 28/1/2011 3. The Skipper drops the mic and rushes to the rail with Greg.
+C: SKIPPER
+D: Roy!
+N: Roy's glowing flashlight bobs in the water.
+C: SKIPPER
+D: Can you see him?!
+N: A hundred yards off on the opposite starboard side, far behind them, Roy surfaces SCREAMING! Greg and the Skipper rush to the starboard rail. Roy's gurgled, tortured cries mist in the air. The Skipper snaps into action. Seconds count.
+C: SKIPPER
+D: Don't lose him!
+N: Greg points, fixing Roy's position. The Skipper grabs a lifebuoy, lights it up and throws.
+C: SKIPPER
+D: Roy! Don't panic, mate. Swim for the buoy!
+C: GREG
+D: C'mon, Roy, kick!
+N: Roy's head strains the surface, his arms flailing in agonised spasms ... ... And then silence as he goes under. The sound of water sloshes and laps against the hull. The Skipper stares hopelessly at the water. Greg's pointed hand trembles. He lowers it. The Skipper shoves a lifejacket into Greg's chest.
+C: SKIPPER
+D: Put it on.
+C: GREG
+D: What happened?
+C: SKIPPER
+D: Just do it, boy.
+N: Greg does, fumbling. GRABBERS - Production Draft (GOLD) 28/1/2011 4. The Skipper loads a flare gun and aims it overhead -- WHOOSH! The glowing red beacon graffities the starry sky.
+C: COASTGUARD
+D: Merry Widow. Merry Widow. This is Coastguard Haven Point. Please respond. Over.
+E: O.S. VIA RADIO
+C: SKIPPER
+D: Radio a mayday! Move!
+E: off Greg's hesitation
+N: Greg scrambles back to the helm --
+S: INT. PILOTHOUSE / MAIN DECK - INTERCUT
+N: -- and snatches the radio mic.
+C: GREG
+D: Mayday-Mayday-Mayday. Merry Widow, uh, echo whiskey niner ait fife. Man overboard. Man overboard. Emergency assistance required. Position --
+E: INTO MIC SEARCHES CHART
+N: The Skipper scans the glassy sea with a flashlight.
+C: SKIPPER
+D: ROY?! ROY?!
+N: Subtly at first, the buoy's bight of rope twinges. The Skipper sees it. His eyes narrow -- -- it jerks like a fishing line. The Skipper grabs it and reels it in.
+C: SKIPPER
+D: C'mon, Roy, mate. Fight.
+N: UNDERWATER The buoy's rope moves towards the boat.
+S: INT. PILOTHOUSE - NIGHT
+N: Suddenly the trawler keels steeply. Greg grips the fittings for support as debris rains on him.
+C: GREG
+D: Jesus Christ! GRABBERS - Production Draft 28/1/2011 5.
+E: GOLD
+C: COASTGUARD
+D: Received Mayday, Merry Widow. Emergency rescue team dispatched. How many aboard? Over.
+E: O.S.
+N: Water laps over Greg's feet as the boat rights itself. Greg surveys the flooded deck. The Skipper's gone.
+C: GREG
+D: Please hurry.
+E: INTO MIC
+C: COASTGUARD
+D: Hold your position, Merry Widow, rescue chopper on its way. Over.
+E: O.S.
+N: Greg drops the mic and edges outside.
+S: EXT. MAIN DECK - NIGHT
+N: The deck swims with water. Greg holds his breath, listening.
+C: GREG
+D: Skipper?
+N: The abandoned C.B. mic swings to and fro. Almost playfully.
+C: COASTGUARD
+D: Merry Widow, how many aboard? Over.
+E: O.S.
+N: Greg rounds the pilothouse, breathing heavily. Suddenly what looks like a weird, headless black snake feels its way towards his boots. Greg turns and bolts. He scrambles to the stern amongst the nets and snatches a gutting-knife with both hands. Trapped against the rail, panting, he prays for help but -- -- HE'S DRAGGED OVERBOARD. His legs round in the air as he cascades into the sea.
+S: EXT. OCEAN - NIGHT
+N: Just beyond the Merry Widow, he surfaces gasping.
+C: GREG
+D: Oh Jesus. Oh Jesus. Oh Jes--
+N: He's gone. GRABBERS - Production Draft (GOLD) 28/1/2011 6.
+S: EXT. OCEAN - NIGHT
+N: In the moonlight the isolated Merry Widow reposes mournfully. G R A B B E R S
+S: INT. LIVING ROOM - MORNING
+N: CIARÁN O'SHEA lies face down on a sofa. His bed for the night. He gropes a dry bottle of whiskey as a mobile phone RINGS. He stirs awake. It's no surprise he looks like shite, but to be fair he's not bad looking after a wash.
+C: O'SHEA
+D: Uh ... Yeah?
+N: Someone we'll meet later as SGT KENIFICK replies.
+C: KENIFICK'S VOICE
+D: O'Shea, I take it you've left already because if you haven't, you're late. That ferry gets in at nine.
+E: via speaker phone
+N: O'Shea rises, eyes closed. Mouth dry.
+C: KENIFICK'S VOICE
+D: Where are you?
+C: O'SHEA
+D: ... On the way.
+C: KENIFICK'S VOICE
+D: So you're in the car?
+C: O'SHEA
+D: ... Yeah ...
+C: KENIFICK'S VOICE
+D: So you're driving while on the phone?!
+C: O'SHEA
+D: ... No.
+C: KENIFICK'S VOICE
+D: In the name of God, I don't b--
+N: O'Shea hangs up and drops his whiskey bottle in a bin where it CLATTERS with yesterday's bottle, and the day before's. GRABBERS - Production Draft (GOLD) 28/1/2011 7.
+S: EXT. O'SHEA'S HOUSE - MORNING
+N: An isolated house at the foothills of a mountain. A white Garda patrol jeep leaves the scene and --
+S: EXT. MOUNTAIN ROAD - MORNING
+N: -- rambles along the sunny coast. At the wheel, O'Shea is a very hungover, droopy eyed Garda.
+S: EXT. ERIN ISLAND - MORNING
+N: Lush green hills and whitewashed bungalows, pastel beaches and multi-coloured fishing boats. Enchanting.
+S: EXT. MARINA FERRY DOCK - DAY
+N: Colourful crowds of FAMILIES (TEENS, KIDS, PARENTS) file onto the MAINLAND FERRY as it lies moored in the harbour. GARDA LISA NOLAN hustles through the masses dragging a trolley bag and passing a sign that reads: OILEÁN ÉIRINN, CÉAD MÍLE FÁILTE Welcome to Erin Island Lisa opens a map and wrestles with it in the wind. Soon defeated, it blows out of her hands.
+C: LISA
+D: Shit!
+N: She chases it as if running down a mugger but it lifts skyward and twirls haughtily in the air. Suddenly inching towards her, driving with all the panache of an abandoned shopping trolley, comes O'Shea. Bleary-eyed and hunched over, he drops his window before her.
+C: O'SHEA
+D: Well?
+C: LISA
+D: Howya. O'Shea, is it? Ciarán? We spoke on the phone. I'm Garda Nolan, Lisa.
+C: O'SHEA
+D: You're not serious?
+N: She considers his bedraggled appearance. He looks like he wants to vomit on her. GRABBERS - Production Draft (GOLD) 28/1/2011 8.
+C: LISA
+D: Yeah, well. Just being polite.
+C: O'SHEA
+D: Are ya gettin' in or what?
+C: LISA
+D: I have a bag.
+N: He pops the boot and gazes back at the road, waiting.
+S: EXT. ROAD - DAY
+N: Tyres SPLASH and CRASH in the war against potholes.
+S: EXT. MOUNTAIN ROAD - DAY
+N: The jeep follows the mountain road ...
+S: INT. PATROL JEEP - DAY
+N: Wincing, O'Shea hugs the wheel feeling every agonising bump. A locket of Lisa's slick ponytail comes undone. She quickly yanks it back giving herself a face lift in the process. O'Shea belches under his breath and Lisa flinches. She pulls a packet of mints from her bag.
+C: LISA
+D: Would you like a mint?
+N: O'Shea stares at them, then at her. Barely reading the road.
+C: O'SHEA
+D: Nah thanks, they give me heartburn.
+N: He belches again as they jostle over another pothole. Lisa drops her window and her hair erupts in the sea breeze.
+S: EXT. GARDA STATION - DAY
+N: O'Shea and Lisa arrive at the station. Home from home.
+S: EXT. BEACH - DAY
+N: Across the grassy dunes, DR JIM GLEESON walks his dog. For a health practitioner, he just preaches. He flings a stick for his eager collie and it gallops over a dune. Dr Gleeson follows, rising over the hill and stops cold as he sees across the strand: A POD OF PILOT WHALES LAY BEACHED. GRABBERS - Production Draft (GOLD) 28/1/2011 9.
+S: INT. GARDA STATION - DAY
+N: SGT KENIFICK wipes a thumb along his desk. On the verge of retirement he looks more like tourist in his sunshine holiday garb. He rises to greet O'Shea and Lisa.
+C: KENIFICK
+D: Garda Nolan, lovely to have you. O'Shea, you look like shite. Would you go way and shave.
+C: O'SHEA
+D: A bit eager aren't ya?
+E: re. Kenifick's clothes
+C: KENIFICK
+D: Smooth crossing?
+E: TO LISA
+C: LISA
+D: Smoother than most.
+C: O'SHEA
+D: Coffee?
+C: LISA
+D: That'd be great, thanks.
+N: Lisa hands O'Shea a mug from her bag. He regards it.
+C: KENIFICK
+D: So what do you think of the place?
+C: LISA
+D: It's gorgeous, isn't it?
+C: KENIFICK
+D: 'Tis indeed.
+C: O'SHEA
+D: And quiet as shite.
+N: Kenifick and Lisa glance at O'Shea.
+C: O'SHEA
+D: Milk?
+E: TO LISA
+C: LISA
+D: Uhm, what kind?
+C: O'SHEA
+D: Cows. GRABBERS - Production Draft 28/1/2011 10.
+E: GOLD
+N: O'Shea and Lisa consider each other. Lines firmly drawn.
+C: LISA
+D: I'll take it black, thanks.
+N: Kenifick's mobile RINGS and he silences it.
+C: KENIFICK
+D: So you can have my desk while I'm gone. O'Shea will tell you, 'tis mostly administrative, processing permits and that sort. You might catch the odd bit of commotion every now and then but half the island's leaving for the show in Dungary so it'll be dead all weekend.
+C: LISA
+D: I'm sure we can find something to do.
+N: O'Shea rolls his eyes and passes Lisa her coffee.
+C: LISA
+D: Ta.
+N: She takes it and sits at her desk, feeling her surroundings.
+C: O'SHEA
+D: Is she really necessary?
+E: whispered to Kenifick
+C: KENIFICK
+D: You tell me.
+N: Lisa carefully arranges her desk how she likes it. Neat.
+C: O'SHEA
+D: You're only gone two weeks. I can handle two weeks.
+C: KENIFICK
+D: You could. But you wouldn't.
+N: Kenifick's mobile PINGS. He checks the text message.
+C: KENIFICK
+D: Don't be late, I said. What did I say?
+N: His phone RINGS again. GRABBERS - Production Draft (GOLD) 28/1/2011 11.
+C: KENIFICK
+D: I'm coming, I'm coming. Right, I'm off.
+C: LISA
+D: Not a bother.
+C: KENIFICK
+D: Rightio. Reports and files in the top drawer, anything you need, O'Shea will be here to show you round. O'Shea?
+C: O'SHEA
+D: You're gonna miss your boat.
+C: KENIFICK
+D: Slán.
+N: Kenifick leaves. An uncomfortable silence fills the air like two strangers in an elevator. Lisa sips her coffee. Hates it. O'Shea slumps at his desk, throws his feet up and sighs. Kenifick barges back in and O'Shea falls over himself to straighten up, burning himself with his coffee.
+C: KENIFICK
+D: Won't go far with no tickets. See you in a fortnight. Be good.
+N: He snatches them and leaves. O'Shea recovers and notices Lisa stifling a smile. The office phone RINGS and O'Shea sluggishly reaches for it. But Lisa beats him to it.
+C: LISA
+D: Garda Nolan.
+S: EXT. FISHING PORT (BY MAHER'S PUB) - DAY
+N: At the dock PADDY BARRETT sorts his lobster traps. All he's short is a parrot and a wooden leg. His traps appear empty, some mangled, but before he can protest one of the oblong traps leaps. He watches it and like a magic trick it leaps again. He squats down and gazes between the seaweed strewn cage. Nothing to be seen thanks to the seaweed. He prods it and lo, it shifts violently. Hopping mad. Paddy rises, wipes his frowning forehead with his cap and gestures to a fisherman packing ice crates on the dock. TADHG MURPHY saunters over. An alpha male in a beta body. GRABBERS - Production Draft (GOLD) 28/1/2011 12.
+C: PADDY
+D: Take a look at this.
+N: Paddy gently kicks the lobster trap, spurring it. On cue, it haphazardly jumps across the wet dock. Tadhg snickers.
+C: TADHG
+D: He's a biggun.
+C: PADDY
+D: He's not a lobster.
+C: TADHG
+D: Then what is it?
+N: Paddy shrugs. Tadhg kneels down and peers inside. SPLAT! A GEYSER OF GOO SPRAYS IN HIS FACE! Tadhg staggers to his feet, spitting furiously.
+C: TADHG
+D: Oh ya bastard, Paddy! Ya knew it was gonna do that.
+C: PADDY
+D: I didn't. On me life.
+N: Tadhg wipes away the slime with his sweater.
+C: TADHG
+D: Eurgh, the smell.
+C: PADDY
+D: So what is it?
+C: TADHG
+D: I dunno, it's a feckin octopus or something, it's covered in seaweed. But 'tis no feckin' lobster!
+N: Tadhg stomps off.
+C: PADDY
+D: An octopus?
+N: Paddy considers the lobster trap, eyes flashing.
+S: INT. PATROL JEEP - DAY
+N: Lisa drives safely, under the limit. A turning approaches.
+C: LISA
+D: Do I go...? GRABBERS - Production Draft 28/1/2011 13.
+E: GOLD
+N: O'Shea waits for the last second.
+C: O'SHEA
+D: ... Left.
+N: Lisa turns sharply, amusing O'Shea.
+C: O'SHEA
+D: So you're after the sarge's desk?
+C: LISA
+D: What makes you say that?
+C: O'SHEA
+D: Just wondering.
+C: LISA
+D: Well, I'm not. I'd some holidays saved that needed to be taken and this posting came up and I thought sure what harm, why not? Can't hurt with the review board, you know?
+N: O'Shea nods, sussing her out.
+C: O'SHEA
+D: Where are you stationed?
+C: LISA
+D: Dublin Central.
+C: O'SHEA
+D: And how's that working out for ya?
+C: LISA
+D: Great. We got drugs, muggings, murders and rapes. Always on the go.
+C: O'SHEA
+D: Well you can relax, there's none of that here.
+C: LISA
+D: You never know. It's the quiet places where all the mad shit happens. Just open a paper.
+N: O'Shea smirks out his window. Lisa notices.
+C: LISA
+D: What? GRABBERS - Production Draft 28/1/2011 14.
+E: GOLD
+C: O'SHEA
+D: I bet you haven't missed a day of work in your life.
+C: LISA
+D: And should I be ashamed of that?
+C: O'SHEA
+D: It's just a job.
+N: Arriving at the beach, Lisa parks sharply sending O'Shea colliding with the dashboard. He recovers, stunned.
+C: LISA
+D: Seatbelt. It is the law.
+S: EXT. BEACH ROAD - DAY
+N: O'Shea and Lisa get out of the parked jeep.
+S: EXT. BEACH - DAY
+N: O'Shea and Lisa trundle past some ONLOOKERS (folks we'll party with later) and head towards the whales. They plough forward until they're upon Dr Gleeson.
+C: DR GLEESON
+D: In all me years, never seen anything like it.
+C: O'SHEA
+D: Lisa Nolan, doctor Jim Gleeson. Resident physician.
+C: DR GLEESON
+D: Oh hello, love. How are ya?
+C: LISA
+D: Grand, thanks.
+C: O'SHEA
+D: You wouldn't have any Aspirin on ya, would ya, Jim?
+C: DR GLEESON
+D: I've a few winegums? Would ya like a winegum?
+C: O'SHEA
+D: You're all right.
+N: Lisa moves deeper down the beach and O'Shea follows. GRABBERS - Production Draft (GOLD) 28/1/2011 15.
+C: LISA
+D: I'd prefer it if you'd introduce me as Garda Nolan.
+C: O'SHEA
+D: Ah, no one minds.
+C: LISA
+D: I do.
+N: Lisa marches on, staggering awkwardly in the soft sand. O'Shea and Lisa arrive by the whales and ADAM SMITH, Ph.D. nods to O'Shea as they approach. Busy working.
+C: O'SHEA
+D: What happened?
+C: SMITH
+D: One second.
+E: writing in a pad
+N: Lisa's eyes light up at Smith's dismissal of O'Shea. A kindred spirit. Once Smith's ready, he ignores O'Shea and removes a glove to shake Lisa's hand. So very English.
+C: SMITH
+D: Smith.
+C: LISA
+D: Lisa.
+N: O'Shea stares at her. Typical.
+C: O'SHEA
+D: Smith's a marine psychologist or something, did I get that right?
+C: SMITH
+D: No. It's marine ecology.
+N: O'Shea shrugs, whatever.
+C: LISA
+D: That was quick.
+C: SMITH
+D: More fortunate really. I'm based here doing studies for the department of the marine.
+N: Smith hands O'Shea the tip of a tape measure. GRABBERS - Production Draft (GOLD) 28/1/2011 16.
+C: SMITH
+D: Hold this, please.
+N: O'Shea doesn't have a choice. Smith walks the length of the whales, stepping around Lisa and touching her as he goes.
+C: SMITH
+D: So how long are you here?
+C: LISA
+D: Two weeks.
+C: SMITH
+D: Oh, wonderful. Wonderful. Are you staying nearby?
+N: O'Shea interrupts, deliberately:
+C: O'SHEA
+D: So are they dead?!
+C: SMITH
+D: Hmm? No, they're just sleeping.
+N: Smith and Lisa share a smirk. O'Shea notices and lets the tape measure go, snapping back on Smith's fingers. Ouch.
+C: O'SHEA
+D: Slipped.
+N: O'Shea and Smith trade looks.
+C: LISA
+D: So what happened?
+C: SMITH
+D: Well they're pilot whales. It happens with them from time to time but no one really knows why.
+N: Lisa notes deep spider-vein gashes on the whales' bodies as if they were whipped with a huge cat-o'-nine-tails.
+C: LISA
+D: What are those marks?
+C: SMITH
+D: Not sure. Possible scratches off the rocks while washing up here.
+C: LISA
+D: They didn't beach themselves? GRABBERS - Production Draft 28/1/2011 17.
+E: GOLD
+C: SMITH
+D: No, they died at sea.
+C: O'SHEA
+D: All of them? At once?
+C: SMITH
+D: It's a strange one all right.
+N: O'Shea considers the ocean before him.
+S: EXT. PADDY'S HOUSE - DAY
+N: A charming little shithole.
+S: INT. PADDY'S BATHROOM - DAY
+N: Paddy kicks open the bathroom door. He plugs the bathtub and lets the tap run, filling it. He shuffles out and returns wearing a welders mask and dragging the lobster trap. He lifts the trap over the bath rim and drops it into the bath water where it BUBBLES. He removes his mask and peers in at it. What the feck?
+S: EXT. DERELICT SITE - DAY
+N: A dilapidated mill, long since operational. A sign reads "KEEP OUT". The jeep pulls up and O'Shea and Lisa step out.
+C: O'SHEA
+D: Hey, Daly, Cooney about?
+N: On the rim of a demolished "pit" DALY points to a ramp. Years of labouring have turned Daly into one big freckle. O'Shea follows Daly's directions up a ramp towards the demolished frame of a building. Daly elbows his MATE, ogling Lisa.
+C: DALY
+D: Now that is one arresting woman.
+N: DALY'S MATE WOLF-WHISTLES. Appalled, Lisa whips out her notepad and pencil.
+C: LISA
+D: You, what's your name?
+C: DALY'S MATE
+D: Przemyslaw Wojciechowski. GRABBERS - Production Draft 28/1/2011 18.
+E: POLISH ACCENT GOLD
+N: Lisa closes her pad. Forget it.
+C: LISA
+D: Carry on.
+N: In the pit DECLAN COONEY directs Daly. Although it's not possible, Cooney appears pregnant.
+C: O'SHEA
+D: Busy?
+C: COONEY
+D: Nah, just stripping an oil tank. This place is a death trap sure.
+C: O'SHEA
+D: I've warned the kids to keep out.
+N: Cooney walks along a horizontal ladder towards O'Shea. Alone and wandering, Lisa steps into the path of a JCB with a big mechanical claw but still gets splashed by chalky muck that stain her polished boots.
+C: LISA
+D: Watch where you're going.
+N: Cooney and O'Shea stroll down the ramp.
+C: COONEY
+D: Where's Kenifick?
+C: O'SHEA
+D: On holiday. Leaving me up the creek.
+C: COONEY
+D: Why? What's up?
+N: Behind O'Shea the JCB Claw grabs some scrap from the "pit".
+C: O'SHEA
+D: Well, remember that favour you owe me? I'm looking for some boys to help move a few things off the beach. An hours work, tops.
+C: COONEY
+D: What kinda things? GRABBERS - Production Draft 28/1/2011 19.
+E: GOLD
+S: EXT. BEACH - NIGHT
+N: "BEACH CLOSED" signs jut out of the rain soaked sand as Cooney, Daly and some HELPERS winch the last of the whales onto a JCB DUMP TRUCK, working in the rain. Cooney gives Daly's Mate, behind the wheel of the truck, the thumbs up and off he goes, engine rumbling.
+C: COONEY
+D: That'll do, boys. Pack it up.
+N: Daly wipes the rain from his face as the Helpers pack up.
+C: COONEY
+D: Don't forget the shovels.
+C: DALY
+D: I got 'em.
+N: Daly ventures towards the shoreline towards a pile of tools as everyone else leaves the beach. He gathers the tools, but then something catches his eye. He sweeps some sand off of --
+C: DALY
+D: -- What in the name of...?
+N: Daly rises, shocked by whatever it is he sees until -- BAM! A tentacle grabs onto Daly's foot and whips his weight out from under him. He collides with the wet sand. Winded.
+S: EXT. BEACH PROMENADE - NIGHT
+N: Cooney throws the ropes and tools into the car boot.
+S: EXT. BEACH - NIGHT
+N: Daly claws at the sand as he's dragged into the sea, yelling.
+C: DALY
+D: HELP! HELP ME!!
+N: As the ocean consumes him his gurgled CRIES drown out while in the sand his struggle is washed away without a trace.
+S: INT./EXT. COONEY'S CAR - NIGHT
+N: Cooney waves the other cars off, then sits in his car. He switches on the RADIO and checks his watch. Waiting.
+S: EXT. BEACH - NIGHT - MINUTES LATER
+N: Cooney scans the shore and finds the mislaid tools. GRABBERS - Production Draft (GOLD) 28/1/2011 20.
+C: COONEY
+D: Daly?
+S: INT./EXT. COONEY'S CAR - NIGHT
+N: Cooney sits back at the wheel, one leg resting outside his door, holding out for Daly's return as something moves in on his ankle. Not a second to spare Cooney pulls his foot inside, shuts the door and drives off. But the car stalls, snagged on something. He steps out, kneels and gazes under the chassis. BAM! He's dragged under face first, feet thrashing. The car rocks, the RADIO serenading his demise and the AIRBAG DEPLOYS.
+S: INT. MAHER'S PUB - NIGHT
+N: O'Shea leans on the counter, a whiskey before him. Avuncular proprietor BRIAN MAHER watches from behind the counter. ON A PUB TV: the white helicopter of the Coastguard circles the Merry Widow boat. Footage taken earlier in the day.
+C: RTE REPORTER
+D: -- search and rescue was called off as a search and recover operation became priority. A telling sign that the missing fishermen are believed to have perished.
+E: V.O. over TV images
+N: Lisa approaches the counter/reception and hands Brian a key.
+C: LISA
+D: Hi, do you have an iron?
+C: BRIAN
+D: We do indeed.
+N: Brian moves to get it and Lisa spots O'Shea, throwing her. Shoeless, she rises up on her toes. Gaining two inches.
+C: LISA
+D: Hi.
+N: An awkward silence.
+C: O'SHEA
+D: Would you like a drink?
+N: UNA MAHER eavesdrops while wiping the counter. Una has a face you could confide in, but shouldn't. GRABBERS - Production Draft (GOLD) 28/1/2011 21.
+C: LISA
+D: Another time, maybe.
+N: Brian hands Lisa the iron.
+C: LISA
+D: Thanks. See you tomorrow.
+E: TO O'SHEA
+C: O'SHEA
+D: Tomorrow's Sunday.
+C: LISA
+D: Oh, right. Well, I have a key so ... see you Monday then.
+N: She walks off and Una moves in, wiping under O'Shea's drink.
+C: UNA
+D: Sparks flying there, huh.
+C: O'SHEA
+D: What?
+C: UNA
+D: Do you like her?
+C: O'SHEA
+D: She's all right. A bit uptight.
+C: UNA
+D: You should talk to her.
+C: O'SHEA
+D: I do talk to her. I talked to her all day.
+C: UNA
+D: God, ye're all the same.
+C: BRIAN
+D: Ah leave him off, Una.
+C: UNA
+D: Listen to you. Eight years I was waiting for him to get down on his knee. Have ya ever heard the like of it? My family thought I was mad wasting me time on him. GRABBERS - Production Draft 28/1/2011 22.
+E: to O'Shea; about Brian GOLD
+C: BRIAN
+D: Ah feck them.
+C: UNA
+D: Ah feck you, Brian.
+N: Una shuffles off.
+C: BRIAN
+D: Same again?
+C: O'SHEA
+D: Go on.
+C: BRIAN
+D: I tell you what though if I weren't, you know, I'd be up them stairs like a shot.
+N: Brian feels Una's stare from across the bar. He smiles at her, placating. Grinning to himself at the far end of the counter, Paddy fixes O'Shea's stare.
+C: O'SHEA
+D: What is it, Paddy?
+C: PADDY
+D: Wouldn't you like to know?
+C: O'SHEA
+D: No, not really.
+N: O'Shea turns back to his drink.
+C: PADDY
+D: But you would, though.
+C: O'SHEA
+D: Nope.
+C: PADDY
+D: You would! If you were to know what I know you'd want to know.
+C: O'SHEA
+D: All right, tell us then.
+N: Paddy shuffles closer, all excited.
+C: PADDY
+D: Right, between you and me, I caught meself a sea monster today. GRABBERS - Production Draft 28/1/2011 23.
+E: GOLD
+C: PADDY
+D: Swear to God, may he strike me down. Ya don't believe me?
+E: CONT'D OFF O'SHEA
+C: O'SHEA
+D: Not a bit.
+C: PADDY
+D: I'm no liar!
+N: Brian snickers in the corner.
+C: BRIAN
+D: Ha!
+C: PADDY
+D: Feck off, you.
+C: O'SHEA
+D: All right, where is it?
+C: PADDY
+D: In me bathtub.
+C: O'SHEA
+D: In your bathtub?
+C: PADDY
+D: Having a bath.
+C: O'SHEA
+D: G'night, Paddy.
+N: O'Shea downs his drink and saunters off.
+C: PADDY
+D: Ignorant gobshite.
+C: O'SHEA
+D: What?
+E: stops, turns back
+C: PADDY
+D: Hmm?
+C: O'SHEA
+D: What did you say?
+C: PADDY
+D: Nothin'. Didn't open me mouth.
+C: BRIAN
+D: He called you a gobshite. GRABBERS - Production Draft 28/1/2011 24.
+E: GOLD
+C: PADDY
+D: You see you, if this wasn't the only feckin' pub on this shittin' island I'd piss on it than sooner come in here.
+E: TO BRIAN
+C: BRIAN
+D: Fine. You're barred.
+N: Paddy thinks a moment, then cracks a smile.
+C: PADDY
+D: Ah I'm joking, you know that. One more, huh?
+N: O'Shea scoffs and leaves them, following the hallway upstairs.
+S: INT. UPSTAIRS HALLWAY - NIGHT
+N: O'Shea removes a small hip flask from his pocket and drains it. Coughs. Composes himself and approaches ROOM #3.
+S: INT. LISA'S BEDROOM - NIGHT
+N: Lisa regards her chalk-stained boots. She brushes some of the dirt off them, sighs and returns to ironing her uniform. A KNOCK comes to her door and she opens it to find O'Shea.
+C: LISA
+D: Is everything all right?
+N: She glances down the hallway. O'Shea looks too, confused.
+C: O'SHEA
+D: What is it?
+C: LISA
+D: What do you want?
+E: REALISES
+C: O'SHEA
+D: Come on down for a drink.
+C: LISA
+D: I have work tomorrow.
+C: O'SHEA
+D: It doesn't matter out here. No one will know.
+C: LISA
+D: You're drunk. GRABBERS - Production Draft 28/1/2011 25.
+E: GOLD
+C: O'SHEA
+D: I am not. I'm sober as a judge.
+N: O'Shea slumps against the door, reclining casually. Or so he imagines.
+C: LISA
+D: Is that so? Say the alphabet backwards for me.
+C: O'SHEA
+D: ... Zed ... Et cetera.
+C: LISA
+D: I hope you're not driving?
+C: O'SHEA
+D: Course not. I'm taking Johnny's horse.
+C: LISA
+D: You're going to ride a horse while intoxicated?
+C: O'SHEA
+D: Yeah, so? The horse is sober.
+C: LISA
+D: Amazing, and you're in charge here.
+C: O'SHEA
+D: Listen, I think we got off on the wrong foot today.
+N: O'Shea changes weight to his other leg and accidentally kicks over Lisa's side-table.
+C: O'SHEA
+D: Feck.
+N: It clatters to the floor, knocking her toiletries over.
+C: O'SHEA
+D: Sorry.
+C: LISA
+D: It's OK.
+N: He helps her pick them up --
+C: O'SHEA
+D: What's that? GRABBERS - Production Draft 28/1/2011 26.
+E: notices a 'Stress Ball' GOLD
+N: Lisa grabs it off him, mortified as he rises with a headrush.
+C: O'SHEA
+D: Whoa, that last drink's gone straight to me head.
+C: LISA
+D: Just your head?
+C: O'SHEA
+D: Well, other places too.
+N: O'Shea grins suggestively, reading her wrong.
+C: LISA
+D: Do you get this drunk every night?
+C: O'SHEA
+D: Just high days and holidays.
+N: O'Shea rests against the wall. Eyes drooping.
+C: LISA
+D: Let's get you to bed.
+C: O'SHEA
+D: Now you're talking.
+S: EXT. GARDEN PATH - NIGHT
+N: Paddy crashes his bicycle into a fence and staggers in the gate, mumbling something about bastards and fences.
+S: INT. PADDY'S HOUSE - NIGHT
+N: Paddy pours himself a drink of what looks like homemade potcheen. Still muttering. THUD! The bathroom door rattles. He looks at it, wide-eyed.
+S: INT. PADDY'S BATHROOM - NIGHT
+N: The door yawns opens and Paddy creeps in, wearing his welders mask. He gazes into the tub and removes his mask. There just as he left it is the lobster trap, but it's BROKEN. Paddy leans down and checks the trap as behind him reflected through the slimy residue of his bathroom cabinet's mirror something black and slithery crawls up the wall behind him. We see it but Paddy doesn't until a HISS. Paddy turns and the GRABBER spits a barbed tongue and whips itself onto his face. Paddy slams against the bathroom mirror, as if leveled by a punch. The mirror shatters, obscuring the scuffle. GRABBERS - Production Draft (GOLD) 28/1/2011 27. Paddy tears it off his face, gasping and flings it away. Blood seeps from a three point puncture wound on his neck.
+C: PADDY
+D: You dirty ...
+N: Paddy stamps on it, whatever it is. Again and again, until out of breath, he staggers from the bathroom. A moment later he returns with a standing lamp and continues beating it. Over and over and over until he's exhausted.
+C: PADDY
+D: Bastard.
+S: EXT. BUNGALOW - NIGHT
+N: The warm glow of light from within would attract every moth within a mile if it were a dry Summer's night, but it's not. It's raining and it's attracting something far more sinister.
+S: INT. BEDROOM / BUNGALOW - NIGHT
+N: IRENE MURPHY, cocooned in a bathrobe and slippers, snatches a pair of socks and a sweater off the floor. Muttering, she sniffs the sweater and recoils. It reeks. On a mission she marches through the open plan home passing Fisherman Tadhg gazing at the TV.
+C: IRENE
+D: Tadhg, you're stinking. Would you get in the bath already, I can smell you from here.
+C: TADHG
+D: I'm watching this.
+C: IRENE
+D: What were you doing at all today?
+E: TO HERSELF
+N: Irene enters the kitchen --
+S: EXT. KITCHEN - NIGHT
+N: -- and dumps it in a wash basket for tomorrow's load -- A BANG against the window. Irene startles. She leans, hands cupped around her eyes pressed up against the glass, staring out into the darkness. Any second now she's going to be pulled through ... only not. She tightens her robe instead. GRABBERS - Production Draft (GOLD) 28/1/2011 28.
+C: IRENE
+D: God, 'tis blowing a gale out.
+E: TO HERSELF
+C: TADHG
+D: What?
+E: O.S.
+C: IRENE
+D: I said 'tis ... nothing. I don't know why we had to move here.
+N: There was nothing wrong with me Mam's house.
+S: INT./EXT. BUNGALOW / BEDROOM - NIGHT - INTERCUT
+N: Tadhg scoffs, channel hopping with the remote.
+C: TADHG
+D: Apart from your Mam.
+E: TO HIMSELF
+N: Irene appears behind him.
+C: IRENE
+D: What was that?
+N: Tadhg flicks the TV channel onto a 'TREMORS'. (Alternative: 'FAIR CITY' is on.) THUD! The door trembles with the weight of a knock. THUD! Cooney headbutts the door, his head flopping like a dolls, jaw slack, eyes shut. He's dead. With arms stretched above his head, weight supported by his intertwined wrists and feet barely touching ground, something is swinging him. THUD! Tadhg rouses and clears his throat.
+C: TADHG
+D: Irene?
+N: Irene blow-dries her hair. She pauses to listen. GRABBERS - Production Draft (GOLD) 28/1/2011 29.
+C: IRENE
+D: What?
+C: TADHG
+D: Someone's at the door.
+C: IRENE
+D: I'm not dressed.
+N: THUD! Tadhg glances disapprovingly at the clock.
+C: TADHG
+D: All right, all right.
+N: He peers through the door-window. Cooney seems drunk off his ass dirty dancing with the letterbox. Hips swiveling.
+C: TADHG
+D: It's that bloody Declan Cooney and he's pissed as a fart.
+N: Irene throws her eyes up and rises, tying her dressing gown.
+C: IRENE
+D: Don't give that cowboy any money.
+N: He'll only piss it up the wall. Tadhg opens the door.
+C: TADHG
+D: Cooney, you look like death. What are you doing?
+N: Cooney swings suggestively to Tadhg's open mouthed horror.
+C: IRENE
+D: What does he want?
+C: TADHG
+D: To dance?
+E: TO HIMSELF
+N: Irene joins Tadhg at the door. Suddenly Cooney collapses, crumpling like a pile of wet laundry.
+C: IRENE
+D: Jesus.
+C: TADHG
+D: Cooney? Are you all right, mate?
+N: Tadhg steps over Cooney's broken twisted body. GRABBERS - Production Draft (GOLD) 28/1/2011 30.
+C: TADHG
+D: Cooney?
+N: Suddenly Tadhg's pounced upon and whipped up out of sight.
+C: IRENE
+D: Tadhg! Tadhg!
+N: Irene chases after him as roof tiles tumble down on her. HE'S GONE. She scurries inside and locks the door.
+S: INT. BUNGALOW - NIGHT
+N: The TV flickers as the reception falters. Outside the window the satellite dish bounces onto the driveway. Irene backs through the bungalow, shaking. The violent SCUFFLE on the roof rattling the ceiling light-shade.
+C: IRENE
+D: Honey? Oh God. Oh God.
+N: A WEIRD, PITCHED ROAR takes Irene's breath away. Whatever snatched Tadhg sounds unnatural, huge and mean. Soot tumbles down the chimney drawing Irene's attention. She runs and kneels before the fireplace and receives a blast of black soot to the face. She coughs and sputters and reaches up to close the chimney chute. Fumbling, whimpering. INSIDE THE CHIMNEY CHUTE Something descends towards her, gaining speed. Irene grabs blindly at the clasp ... Her eyes dart open. That's not the clasp! She SCREAMS and flies up the chute like a mouse sucked up a hoover. And as her CRIES die out all that's left in the open fireplace is a pair of orphaned fluffy pink slippers.
+S: INT. MAHER'S PUB - MORNING
+N: Lisa DINGS the reception bell. Una stumbles to her call.
+C: UNA
+D: Good morning. Sleep well?
+C: LISA
+D: Grand, thanks. Do I have something to sign?
+C: UNA
+D: Oh yeah. The big one. GRABBERS - Production Draft 28/1/2011 31.
+E: GOLD
+N: Una grabs her bill and hands it to Lisa.
+C: LISA
+D: How's the weather looking?
+C: UNA
+D: Oh, there's a storm coming.
+C: LISA
+D: Really? Are the gulls flying low or something?
+C: UNA
+D: No, it's on the telly.
+N: Una gestures to the TV weather report. Lisa smiles. Of course. She fishes out her credit card.
+C: UNA
+D: So, you're working with O'Shea?
+C: LISA
+D: Temporarily.
+C: UNA
+D: He's a nice fella isn't he? Quite a catch.
+C: LISA
+D: Depends what you're fishing.
+N: Una hands Lisa her receipt to sign and watches her writing.
+C: UNA
+D: Single? So's O'Shea. Well, widowed.
+E: off Lisa's nod
+N: Lisa looks up.
+C: LISA
+D: Widowed?
+C: UNA
+D: Why do you think he's here? Sure there's no want for him round this neck of the woods but I suppose he wanted the peace. Or his superiors thought he did. He doesn't say, God love him.
+N: Lisa smiles uncomfortably and hands her receipt to Una. GRABBERS - Production Draft (GOLD) 28/1/2011 32.
+C: UNA
+D: So will you be sticking to the same room all week? Because we have a few doubles. There's more room in those, you know yourself.
+N: Una winks knowingly.
+C: LISA
+D: The single room is fine.
+C: UNA
+D: Are you sure now? You never know if you want to stretch your legs later on. Give it a week and we'll be booked solid, so we will.
+C: LISA
+D: I'll think about it.
+N: Lisa hightails it.
+S: INT. CELL, GARDA STATION - MORNING
+N: Panned out on a rubber mattress you'd swear O'Shea was dead if he wasn't SNORING like a Granddad. The heavy cell door flies open and SLAMS off the wall. Lisa stand in the doorway as O'Shea jerks awake.
+C: LISA
+D: Morning.
+C: O'SHEA
+D: Wha..?
+C: LISA
+D: How much does a place like this go for? I mean it's close to the beach, all mod-cons. It's perfect.
+C: O'SHEA
+D: I ... uh, what happened?
+C: LISA
+D: Section four point one of the Public Order Act. It is an offence for any person to be present in any public place while intoxicated to such an extent as would give rise to a reasonable apprehension that the person might endanger themselves or any other in the vicinity. GRABBERS - Production Draft 28/1/2011 33.
+E: GOLD
+C: O'SHEA
+D: You arrested me?!
+C: LISA
+D: For your own good.
+C: O'SHEA
+D: Let me out of here.
+C: LISA
+D: Relax. You passed out before I could find your house.
+N: The phone RINGS! Lisa picks it up.
+C: LISA
+D: Garda Nolan.
+S: EXT. MARINE CENTRE - MORNING
+N: Paddy escorts O'Shea and Lisa along the short wooden pier, past the moored yachts and into the marine research centre.
+C: PADDY
+D: So I get a reward for discovering it, right? A finders fee?
+C: O'SHEA
+D: We'll discuss it later.
+C: PADDY
+D: But I get something, right?
+N: They enter.
+S: INT. LAB - MORNING
+N: Shrivelled tentacles spill over the gurney as a hideous mouth gapes open as if in the dentist's chair. Smith stands over it, forceps in hand, as O'Shea, Paddy and Lisa enter.
+C: O'SHEA
+D: Eurgh.
+C: SMITH
+D: Is that your professional opinion?
+N: Smith removes his surgical-mask revealing an excited grin.
+C: PADDY
+D: A Grabber.
+C: O'SHEA
+D: A what? GRABBERS - Production Draft 28/1/2011 34.
+E: GOLD
+C: SMITH
+D: I told you I'm not calling it that. It needs a binomial nomenclature, one identifying its genus and class and once I've figured that out --
+C: PADDY
+D: I discovered it. I get to name it.
+N: Smith smiles at Lisa.
+C: SMITH
+D: Hi.
+N: Lisa smiles at Smith.
+C: LISA
+D: Hi.
+N: O'Shea smiles at Lisa. Mocking.
+C: O'SHEA
+D: Hi.
+N: Lisa's smile drops. Paddy looks confused.
+C: PADDY
+D: Hello.
+E: TO LISA
+C: LISA
+D: What is that thing?
+C: SMITH
+D: I haven't a clue. I've never seen anything like it. It's a completely foreign species. I can't even begin to originate or class it.
+C: PADDY
+D: A Grabber.
+N: Smith sighs.
+C: LISA
+D: And this attacked you?
+N: Paddy pulls his collar back exposing his bandaged neck.
+C: PADDY
+D: Stuck on the ceiling, it was. Like a pancake. Nearly ripped me throat out. GRABBERS - Production Draft 28/1/2011 35.
+E: GOLD
+N: O'Shea leans in for a closer look of the creature.
+C: O'SHEA
+D: Is it dead?
+C: SMITH
+D: I'm not sure.
+N: O'Shea leans back, and half-steps away too for good measure.
+C: O'SHEA
+D: You're not what?
+C: SMITH
+D: Well basic tests I've done so far have shown up nothing usual or normal. It's beyond mystifying. Really I can't be certain without opening it up.
+N: Paddy WHACKS it with his walking stick. Nothing.
+C: PADDY
+D: 'Tis dead.
+C: SMITH
+D: Would you stop doing that? It isn't any wonder it bit you.
+N: Lisa stares at its multi-fanged jaws.
+C: LISA
+D: What's that in its mouth?
+C: SMITH
+D: Its tongue. Check it out.
+N: Smith takes hold of its tongue and extends it three foot with a barbed tip like a mace. Off O'Shea and Lisa's awed faces.
+C: LISA
+D: That's not a tongue.
+C: O'SHEA
+D: It's a weapon.
+C: PADDY
+D: It spits like a frog and strangles ya. Whippet fast, and sharp.
+C: SMITH
+D: I'm guessing it bleeds its prey like a leech. Consuming the blood, like some sort of vampiro toothis. GRABBERS - Production Draft 28/1/2011 36.
+E: GOLD
+C: O'SHEA
+D: Vampiro what?
+C: SMITH
+D: Toothis. It's a rare deep sea squid but this isn't that, not in Irish waters. No, this is something totally different. Something ... alien. In that it's undocumented.
+E: off their looks
+C: PADDY
+D: It's gotta be worth a fortune.
+C: SMITH
+D: But here's the thing...
+N: Smith picks up a sponge, daubs it in a tray of water and --
+C: SMITH
+D: -- When I tried to clean some dirt off of it --
+C: PADDY
+D: I stood on it a few times.
+C: SMITH
+D: -- this happened --
+N: -- he delicately dabs the tip of a tentacle. The Grabber's skin reacts, rehydrating. Smith watches it expectantly. Suddenly the tip twitches. Smith smiles at them.
+C: SMITH
+D: All this thing needs to survive is blood ... and water.
+N: O'Shea frowns, watching it.
+C: PADDY
+D: Could you put it on the eBay, do ya think?
+C: SMITH
+D: You are not putting this on eBay. You're lucky she didn't kill you.
+C: O'SHEA
+D: She? GRABBERS - Production Draft 28/1/2011 37.
+E: GOLD
+C: SMITH
+D: Yeah, it's a female from what I can tell.
+C: PADDY
+D: How can you tell?
+C: SMITH
+D: It's got no testicles.
+N: A long silence, Paddy nods. I see.
+C: SMITH
+D: And ... she was pregnant.
+N: He reveals an EGG SPAWN. Gelatine and gooey. Inside is a baby Grabber; a Jack-in-the-box type creature aka a JUMPER.
+C: LISA
+D: That's disgusting.
+N: Lisa recoils: it stinks. Smith toys with it, marveling.
+C: SMITH
+D: We're dealing with something extraordinary here. And if it looks like this when it hatches, then this species nests on land.
+N: O'Shea and Lisa share a look. Uh oh.
+S: INT./EXT. PATROL JEEP - DAY
+N: O'Shea switches gears as they make their way along the coast.
+C: LISA
+D: Do you reckon those things had anything to do with those dead whales?
+N: O'Shea considers her, thinking. They pass the promenade and O'Shea cranes his head to see something.
+C: LISA
+D: What is it?
+C: O'SHEA
+D: That's Declan Cooney's car.
+S: EXT. BEACH PROMENADE - DAY
+N: Cooney's car sits abandoned, its door open and airbag flat. O'Shea and Lisa pull in behind it and step out of the jeep. GRABBERS - Production Draft (GOLD) 28/1/2011 38.
+C: O'SHEA
+D: Cooney?!
+N: O'Shea takes a LEPRECHAUN KEYCHAIN from the ignition, then notes some unusual scratches along the car's body work.
+C: LISA
+D: Where could he be?
+C: O'SHEA
+D: Nowhere without his keys. Do you believe in coincidences?
+C: LISA
+D: Not really.
+C: O'SHEA
+D: Neither do I.
+N: O'Shea looks around and focuses on the Murphy's Bungalow up ahead and overlooking them.
+C: O'SHEA
+D: Come on.
+C: LISA
+D: Where are we going?
+C: O'SHEA
+D: When you're looking for answers you gotta go asking questions.
+N: He walks off. Lisa's impressed.
+S: EXT. BUNGALOW - DAY
+N: Lisa steps over some broken slate tiles and rings the DOORBELL. No one's home. O'Shea spies in the window to the LIVING ROOM Lisa copies him. They notice: all the house lights are on.
+C: O'SHEA
+D: All the lights are on.
+S: EXT. BUNGALOW - DAY
+N: O'Shea turns and bumps into Lisa, behind him. She steps aside. O'Shea smiles. Something's different about her. Her hair's down, she's dressed casual. She looks nice. GRABBERS - Production Draft (GOLD) 28/1/2011 39.
+C: O'SHEA
+D: How come you're not in uniform?
+C: LISA
+D: It's Sunday. Hey, neither are you!
+E: off O'Shea's look
+N: O'Shea smiles to himself.
+C: O'SHEA
+D: It suits you.
+N: Lisa reads him wrong, so just to piss him off --
+C: LISA
+D: -- Smith's a nice fella, isn't he?
+C: O'SHEA
+D: Oh he's positively smashing.
+E: KNOCKS AGAIN
+C: LISA
+D: A proper gentleman. And such polite company.
+C: O'SHEA
+D: Uh huh. Tadhg? Irene?
+C: LISA
+D: A lovely fella.
+N: Lisa throws O'Shea a pointed look. O'Shea shrugs her off.
+C: O'SHEA
+D: He's like you, he's married to his job.
+C: LISA
+D: I'm not-- I take pride in my work. Unlike yourself.
+C: O'SHEA
+D: Shush, I'm working.
+N: O'Shea raps on the door and calls in the letterbox.
+C: O'SHEA
+D: Tadhg? Irene?
+C: LISA
+D: You're looking in the wrong place, Columbo. GRABBERS - Production Draft 28/1/2011 40.
+E: GOLD
+N: She gestures to the fallen roof tiles. MINUTES LATER O'Shea sets a ladder against the roof (from the garage) and before he even has the option, Lisa climbs it.
+C: LISA
+D: Hold it steady.
+C: O'SHEA
+D: You're something else, you know that. You should've joined the army, not the guards.
+N: O'Shea sneaks a glance of Lisa's arse as she climbs.
+C: LISA
+D: Stop talking to yourself. It's very distracting.
+C: O'SHEA
+D: I'm not talking to myself, I'm talking to you.
+C: LISA
+D: Uh huh, great. There's something up here.
+E: NOT LISTENING
+C: O'SHEA
+D: Could you be a bit more specific?
+C: LISA
+D: It's a --
+N: -- A checked shirt, the sleeve of which leads towards a lump that's buried under more rags.
+C: O'SHEA
+D: Well?
+C: LISA
+D: Ugh, it stinks like that thing.
+N: Lisa tugs on the sleeve and THUMP-THUMP-THUMP-THUMP! Something rolls towards her.
+C: LISA
+D: Oh the Divine Mother of Jesus --
+N: Lisa leans sharply out of its way as down below: O'Shea sneaks a sip of his flask. GRABBERS - Production Draft (GOLD) 28/1/2011 41.
+C: LISA
+D: Watch out!
+N: O'Shea looks up to see TADHG'S SEVERED HEAD spinning towards him. BOP! Headbutted in the face, O'Shea clutches his nose.
+C: O'SHEA
+D: Aw Jesus Cock!
+N: Lisa looks down at the gawping severed head, sickened.
+C: LISA
+D: You broke its nose.
+S: INT. DOCTOR'S SURGERY - DAY
+N: Dr Gleeson replaces a sheet over Tadhg's head as Lisa paces on a mobile phone, O'Shea watching.
+C: O'SHEA
+D: What killed him, Jim?
+C: DR GLEESON
+D: The fact he's just a head!
+N: Dr Gleeson turns back, writing.
+C: DR GLEESON
+D: Jesus what do you think? You bring me someone with a head cold or a headache and I could do something. You bring me just a head and you're taking the piss.
+C: LISA
+D: So when can they get here? ... Tomorrow? ... And what about the state pathologist?
+E: INTO PHONE for O'Shea's benefit
+C: DR GLEESON
+D: They could bury him in a shoebox. That's not right.
+C: LISA
+D: Doctor, we need to know.
+E: hand over receiver
+C: DR GLEESON
+D: I don't know. A tiger? GRABBERS - Production Draft 28/1/2011 42.
+E: GOLD
+C: O'SHEA
+D: A tiger?!
+C: LISA
+D: I can't say that.
+N: Dr Gleeson loosens his tie.
+C: DR GLEESON
+D: I'm telling you his head was torn off. By something big.
+N: O'Shea shares a look with Lisa.
+S: INT. GARDA STATION - DAY
+N: O'Shea uploads crime scene photos of Tadhg's bungalow onto a laptop as Lisa paces on the phone.
+C: LISA
+D: No, no, don't put me through I've already spoken to -- ugh. Thanks.
+E: INTO PHONE
+N: Lisa sighs. She's been at this a while, it seems. O'Shea pulls his hip flask from his jacket pocket and furtively sneaks a sip, savouring it.
+C: PADDY
+D: Holy Christ, wait till I tell ya!
+N: O'Shea chokes on his drink, coughing. He spins to face Paddy, quickly hiding his flask.
+C: O'SHEA
+D: Jesus, Paddy.
+C: PADDY
+D: What? What's wrong with ya?
+C: O'SHEA
+D: What is it?
+C: PADDY
+D: Come look for yourself.
+N: Lisa looks at O'Shea. A silent exchange. Lisa hangs up.
+S: INT. PADDY'S BATHROOM - DAY
+N: A demolished wall offers a new entrance to the backyard, where amongst rubble, Paddy's scratched bathtub lays. GRABBERS - Production Draft (GOLD) 28/1/2011 43.
+C: PADDY
+D: How am I supposed to wash meself?
+N: O'Shea thinks...
+S: INT. PADDY'S HOUSE - DAY - SECONDS LATER
+N: O'Shea unrolls a map of Erin Island on the living room table. He points at four spots on the map. A zig-zag pattern.
+C: O'SHEA
+D: OK, we're here. Here's where Cooney's car was abandoned. Here's Tadhg and Irene Murphy's house and here's where the whales washed up.
+C: LISA
+D: OK, so what does that mean?
+N: O'Shea stares blankly.
+C: O'SHEA
+D: I have no idea. I was hoping it would show some sort of pattern.
+C: PADDY
+D: It's the letter zed!
+C: LISA
+D: Did you show that thing to anyone else before we saw it?
+E: TO PADDY
+C: PADDY
+D: Tadhg Murphy got a look of it when I brought it in. It gawked on him, but that was it.
+N: Lisa and O'Shea share a look.
+C: PADDY
+D: Why?
+C: LISA
+D: We think there might be another one of those things, at least one anyway.
+C: PADDY
+D: Are you serious? GRABBERS - Production Draft 28/1/2011 44.
+E: GOLD
+C: O'SHEA
+D: Yeah. That thing you caught couldn't have fertilised that egg by itself, which would mean there's a male out there big enough and strong enough to knock a hole in your bathroom wall.
+C: LISA
+D: Smith said it needs water, right?
+E: OFF THAT
+C: O'SHEA
+D: He says a lot of things.
+C: PADDY
+D: Mostly bollocks.
+C: LISA
+D: Whatever. But if it needs water to survive, how could it be moving about on dry land?
+N: Water drips in Paddy's demolished bathroom, Paddy stares at it. Drip-drip-drip.
+C: PADDY
+D: It was raining! When it rains there's no such thing as dry land.
+N: O'Shea and Lisa consider this.
+C: LISA
+D: There's a storm due tonight.
+C: PADDY
+D: It'll piss it down.
+N: O'Shea steels, and studies the map intensely.
+C: O'SHEA
+D: OK, all this is on the west side of the island, right? So that would make this area its territory; which would mean it's got to be somewhere close. Somewhere with access to the waters around the west beach.
+C: PADDY
+D: The black rock caves. I caught the female just beyond there.
+N: O'Shea considers this. He looks to Lisa: GRABBERS - Production Draft (GOLD) 28/1/2011 45.
+C: O'SHEA
+D: What do you think?
+C: LISA
+D: I think we've got at least two missing persons. We need to take a look.
+S: EXT. BEACH - DAY
+N: Paddy leads O'Shea and Lisa towards the rocky beach where the tide's quickly coming in. (Note: O'Shea and Lisa have taken a pair of flashlights and O'Shea's Garda hat from the jeep.)
+C: PADDY
+D: Ya know what's to blame for all this? Global warming. Ya got your icebergs meltin' and your thingmajigs floodin'. The whole world's drownin' and we don't have the gills for it.
+E: talking away to himself
+N: Following a few paces behind Paddy, O'Shea takes a pull off his flask which Lisa notices.
+C: O'SHEA
+D: What?
+C: LISA
+D: I didn't say anything.
+C: O'SHEA
+D: You gave me that look.
+C: LISA
+D: What look?
+C: O'SHEA
+D: The "I feel sorry for you" look.
+C: LISA
+D: No I didn't.
+C: O'SHEA
+D: Yeah you did.
+C: LISA
+D: No, I gave you the "I feel embarrassed for you" look. Big difference.
+N: She walks on faster, leaving him trailing behind. Thinking. GRABBERS - Production Draft (GOLD) 28/1/2011 46.
+C: O'SHEA
+D: Sure that's worse!
+N: Paddy rounds some rocks and comes upon the cliff face.
+C: O'SHEA
+D: Look, I know I'm no dandy fop, Ph. D. Smith type.
+C: LISA
+D: What's Smith got to do with your raging alcoholism? Hmm?
+C: O'SHEA
+D: I'm not a raging-- You're some character you know that. A real character. I'm a social drinker.
+C: LISA
+D: Uh huh. Of course you are.
+N: O'Shea takes a big swig of his flask just to piss her off.
+C: LISA
+D: Lovely.
+C: PADDY
+D: We're here.
+S: EXT. BEACH, CAVE MOUTH - DAY
+N: They stand before the cave mouth, taking it in. Dark and oppressive and claustrophobic. Water drips within. A wave washes up behind them, drenching their feet.
+C: PADDY
+D: Tides coming in. Another hour and this place will be under water.
+C: O'SHEA
+D: Wait here.
+C: PADDY
+D: You can be sure of it.
+N: Lisa and O'Shea turn on their high beam flashlights and venture into the cave, Mulder and Scully style. Water drips from the cave walls while the sound of crashing waves echoes throughout. At the cave mouth, the dregs of a wave wash over Paddy's boots. He looks into the cave, anxiously. GRABBERS - Production Draft (GOLD) 28/1/2011 47. Venturing further into the shadowy cave, Lisa finds an arched entrance to the rising ocean as fog creeps around her feet. O'Shea rounds some rocks, finding Lisa and seeing her flashlight has found a fisherman's shredded slicker. (The remains of the Merry Widow's Deckhand Greg.)
+C: LISA
+D: Are we missing some fishermen?
+C: O'SHEA
+D: Hello!
+E: CALLS OUT
+N: Lisa jolts, startled by O'Shea.
+C: LISA
+D: My heart! What are you doing?
+C: O'SHEA
+D: Just checking. Well, if you know of a better way? Hello?!
+E: CALLS AGAIN
+C: LISA
+D: What are you expecting? "Helloooo, 'tis only me."
+N: A SHADOW rises up stealing the light. O'Shea and Lisa turn. They lift the flashlights and take in the horrifying sight.
+C: O'SHEA
+D: Run!
+N: They take off, running for the slim cave mouth. Their lights dancing in the darkness as they scramble for the exit -- leading onto the beach. The narrow gap allows just one person at a time. And at a push. Lisa edges through first.
+S: INT./EXT. BEACH CAVE OPENING - DAY - CONTINUOUS
+N: O'Shea waits behind Lisa, watching behind them, and sees the light of his flashlight go dark, swallowed by something coming his way.
+C: O'SHEA
+D: Lisa! Hurry!
+C: LISA
+D: I'm trying!
+C: O'SHEA
+D: Move your arse! GRABBERS - Production Draft 28/1/2011 48.
+E: GOLD
+N: O'Shea pushes on her arse as she squeezes through.
+C: LISA
+D: Get your hands off my arse!
+N: O'Shea shoves harder.
+C: LISA
+D: I swear to God, if you don't stop!
+N: Lisa kicks back at him, but he keeps pushing. She tumbles onto the seaweed strewn sands, drenched by the incoming tide, as O'Shea squeezes through next. Soon, wedged in himself.
+C: O'SHEA
+D: If I die in here I want you to know it's all your fault!
+C: LISA
+D: Oh shut up.
+N: Lisa wraps her arms around O'Shea, cheek-to-awkwardly- intimate-cheek and pulls, dragging him loose. With effort. The Grabber rushes towards O'Shea, gaining speed. Almost on him when he escapes, seconds to spare. BAM! The Grabber fills the gap in the rock face, trapped by its own bulk. It snarls as one of its tentacles slithers out towards them, but quickly retreats back inside.
+C: LISA
+D: The size of it.
+N: They back up, horrified.
+C: O'SHEA
+D: It's OK. It can't get us on dry land. Not when it's not raining, it can't.
+N: WHIPAH! A barbed tongue shoots out from the darkness of the cave and lances O'Shea's Garda hat clean off his head. O'Shea blinks, feeling his bare head.
+C: O'SHEA
+D: ... What?
+N: A THUNDER-CRACK from the ominous rain clouds.
+C: LISA
+D: Leg it! GRABBERS - Production Draft 28/1/2011 49.
+E: GOLD
+S: EXT. BEACH - DAY
+N: Paddy steps out of the way of an oncoming wave and kicks something with his heel. He kneels down and finds an EGG.
+C: PADDY
+D: Mother of God.
+N: Eggs piled high like a fun fare ball pit. He barely has time to process this as O'Shea and Lisa come bounding towards him.
+C: PADDY
+D: The eggs are buried on the beach! There's feckin' loads of 'em!
+C: LISA
+D: Run!
+N: Paddy regards the egg then takes off after O'Shea and Lisa. And in the gouged out sand beneath their feet more exposed EGGS flutter with life. These things are close to hatching.
+S: INT. LAB - DAY
+N: O'Shea, Lisa and Paddy stumble in, making a beeline for the Grabber female on the table. Smith looks up from his laptop to see O'Shea who has a petrol can and a plan in mind.
+C: SMITH
+D: Good, you're back. I have a theory! Those whales were killed as a food source for their spawn --
+C: O'SHEA
+D: The eggs are buried at the beach.
+C: SMITH
+D: Exactly.
+C: LISA
+D: We know.
+C: SMITH
+D: Oh.
+C: PADDY
+D: Well done.
+C: SMITH
+D: What are you doing?
+C: O'SHEA
+D: Everywhere that's been, the other one's followed. GRABBERS - Production Draft 28/1/2011 50.
+E: GOLD
+C: SMITH
+D: You found another one? Where?
+C: O'SHEA
+D: It tried to eat us! And it's HUGE and looking for her ... but this will be the last place it looks.
+N: He pours petrol all over it. Lisa hands him the lighter.
+C: SMITH
+D: Are you mad? Don't do that!
+N: Lisa takes a fire extinguisher off the wall.
+C: SMITH
+D: No, stop, you'll --
+C: LISA
+D: Smith, it's for the best.
+C: SMITH
+D: No, you muppet! If he lights that in here you'll--
+N: O'Shea drops the lighter and BOOM! It flashes up in flames. WHOOSH! The sprinklers blast to life and water rains down on them, the lab and the dormant amphibious bloodsucking alien.
+C: SMITH
+D: -- get it wet.
+C: O'SHEA
+D: Shit.
+C: SMITH
+D: You really are Irish.
+N: Lisa drops the fire extinguisher.
+C: LISA
+D: Shut it off!
+C: PADDY
+D: See ya later, lads.
+N: Paddy scampers out as O'Shea, Lisa and Smith scramble for the mains under the sink. Six hands fighting to shut it off. Once they do, every surface drips. A fish-tank overflows. They rise slowly from the slick floor. It's eerily quiet. Smith picks up a stool. Lisa grabs a scalpel. O'Shea rolls up a magazine. They creep forward. GRABBERS - Production Draft (GOLD) 28/1/2011 51.
+C: SMITH
+D: Careful. Once it's wet I don't know what it can do.
+N: O'Shea edges closer. It's unscathed from the fire.
+C: O'SHEA
+D: It didn't burn.
+C: LISA
+D: Is it dead?
+C: O'SHEA
+D: I --
+N: BOOM! It launches to life, sprays O'Shea with goo and dives onto him, wrapping around his face, head and neck. Lisa and Smith leap to his aid and battle what looks like a dozen boa constrictors working as one, choking him. O'Shea flails and smashes into lab units, knocking a utility closet open. Brooms and mops fall out as O'Shea slumps onto the wet floor. Lisa and Smith pull tentacles loose and O'Shea gasps for air. His drained, ashen skin pocked with bleeding bite wounds. Smith flings the limp Grabber across the lab and it hits the wet floor, flopping woozily and vomiting blood. It bears down on its tentacles and springs itself onto the ceiling like an octopus shot out of an air cannon. SPLAT! It hits the fluorescent light and hangs from it, upside down. Smith blinks, agog.
+C: SMITH
+D: OK, it's an alien.
+N: O'Shea feels his wounds. Furious, he grabs one of the mops surrounding him and jabs at the Grabber with the handle.
+C: O'SHEA
+D: You vicious little fu--!
+N: The Grabber bites down on the handle and hangs on. O'Shea suddenly takes the full weight of it. It totters above their heads, swaying. Lisa and Smith duck.
+C: LISA
+D: Ah! Jesus! O'Shea! GRABBERS - Production Draft 28/1/2011 52.
+E: GOLD
+N: O'Shea drops it onto the floor and Lisa yanks a steel cabinet over, pinning it down. Trapped, the Grabber thrashes.
+C: O'SHEA
+D: We need to kill it.
+C: SMITH
+D: No! You can't! It's the scientific discovery of our time, imagine all that we could learn FROM --
+N: The cabinet flips, exposing the Grabber. Smith SCREAMS and brains it with his stool. Scared shitless, O'Shea and Lisa pile in with their boots. All three whacking and stamping until they're sure it's dead. Sweating and in shock, they catch their breath.
+C: SMITH
+D: I think we got it.
+C: O'SHEA
+D: Good man.
+E: PATS SMITH
+N: O'Shea flicks the Grabber goop out of his hair.
+C: SMITH
+D: It's still moving.
+C: LISA
+D: We need to get help.
+C: O'SHEA
+D: They'll never make it across the water.
+C: LISA
+D: If those eggs hatch, with no whales to eat --
+C: SMITH
+D: -- they'll head in land to feed.
+C: O'SHEA
+D: Finishing each other's sentences now?
+C: LISA
+D: What?
+C: O'SHEA
+D: Nothing. GRABBERS - Production Draft 28/1/2011 53.
+E: GOLD
+C: PADDY
+D: They're hatching.
+N: The trio turn to notice Paddy has joined them looking down at the smooshed Grabber. O'Shea considers Paddy.
+C: O'SHEA
+D: It took three of us to get that thing off me.
+C: PADDY
+D: I woulda helped but I've a bad back, gives me shocking pain, you know yourself.
+C: O'SHEA
+D: How are you still alive?
+C: PADDY
+D: Diet and exercise.
+C: O'SHEA
+D: No, when that thing attacked you. You should be laid out in a box right now, but you're not. What makes you so special?
+C: PADDY
+D: I was always lucky.
+N: O'Shea disregards him and takes a swig of his flask as Lisa considers the bloody sick. Queasy.
+C: SMITH
+D: Mustn't have liked your blood much.
+C: LISA
+D: What have you been eating?
+N: O'Shea stills, hearing that question.
+C: O'SHEA
+D: You were drunk!
+E: TO PADDY
+S: EXT. MAHER'S PUB - DAY
+N: Storm clouds gather over the idyllic drinking hole as gales jeer and waves pile on the pub's neighbouring harbour.
+S: INT. DR GLEESON'S SURGERY - DAY
+N: Dr Gleeson peers at the Grabber's severed head in a beaker, gawping away like a fish head. He squirms. GRABBERS - Production Draft (GOLD) 28/1/2011 54.
+C: DR GLEESON
+D: Grabbers?
+C: SMITH
+D: No, it's a cryptozoological amphibious sanguivore.
+C: LISA
+D: Not a tiger.
+E: to Dr Gleeson
+N: Dr Gleeson removes his glasses to stare at O'Shea.
+C: DR GLEESON
+D: Where are you getting all these heads?
+C: O'SHEA
+D: Come on.
+N: O'Shea leads the group leaving Dr Gleeson to add --
+C: DR GLEESON
+D: This place has gone to the dogs.
+S: EXT. STEPS TO MAHER'S PUB - DAY
+N: O'Shea, Lisa, Dr Gleeson, Smith and Paddy head for the pub. O'Shea's setting the pace leaving Paddy hustling to keep up.
+C: O'SHEA
+D: They're like leeches, right? They feed off your blood. Well when one of them bit Paddy, it almost died, why?
+C: PADDY
+D: Slow down for fuck sake.
+C: LISA
+D: Because Paddy was so intoxicated his blood-alcohol level was toxic.
+C: O'SHEA
+D: Exactly. If we taint our blood with booze, we're poisonous to eat.
+C: SMITH
+D: In theory.
+C: PADDY
+D: And you told me to cut back. GRABBERS - Production Draft 28/1/2011 55.
+E: to Dr Gleeson GOLD
+N: Dr Gleeson shrugs.
+C: O'SHEA
+D: We have just one night where we have to deal with this on our own. Tomorrow, we'll be sorted. We'll get off the island, they'll nuke the beaches or whatever they do, but all we have to worry about is tonight. And it's simple. We have a lock-in. We stay out of the rain and we drink. We can't stop them coming but we can be ready.
+E: turns to face them
+N: O'Shea backs into the pub. Lisa, Smith, Paddy and Dr Gleeson look at each other -- wow -- and follow him inside.
+S: INT. MAHER'S PUB KITCHEN - DAY
+N: Brian stares, incredulous.
+C: BRIAN
+D: What?
+C: SMITH
+D: A hostile migra --
+C: DR GLEESON
+D: -- Grabbers.
+C: SMITH
+D: God sake.
+C: BRIAN
+D: Are ye for real?
+C: PADDY
+D: Are we for real? Are YOU for real? Show him.
+N: Smith plops a beaker covered with a tea cosy on the counter. He raises it just a tad to show Brian.
+C: BRIAN
+D: That? Sure you could kill that with a hammer.
+C: O'SHEA
+D: That's just the tip of the blood sucking iceberg.
+N: Brian considers the four of them; all look gravely serious. GRABBERS - Production Draft (GOLD) 28/1/2011 56.
+C: BRIAN
+D: Grabbers.
+E: CONVINCED
+C: SMITH
+D: I give up. Yes, a Grabber.
+N: Smith covers the beaker again.
+C: DR GLEESON
+D: But if its allergic to booze can't we just hose 'em with vodka or some shit?
+C: O'SHEA
+D: No, that won't work.
+C: BRIAN
+D: How do you know?
+C: SMITH
+D: Because alcohol is a poison. It needs to be ingested to take affect. Also to preserve specimens I keep them in an alcohol based solution. Just like with this one, right now.
+N: Smith taps the tea cosy.
+C: BRIAN
+D: It's filled with?
+C: SMITH
+D: Yep.
+C: PADDY
+D: Can you drink it?
+C: DR GLEESON
+D: So what if we sprayed whiskey in its mouth?
+C: PADDY
+D: Feck that. A waste of whiskey.
+C: LISA
+D: If you want to get that close to it, good luck.
+N: Una passes with a washing basket. She stops, seeing them.
+C: UNA
+D: What's going on here then? GRABBERS - Production Draft 28/1/2011 57.
+E: GOLD
+C: BRIAN
+D: Just discussing something.
+C: UNA
+D: Looks like you're plotting something.
+C: O'SHEA
+D: No, no. More like planning.
+C: UNA
+D: Huh. Carry on.
+E: thinks, smiles
+N: She leaves, grinning.
+C: BRIAN
+D: Great. It's her birthday next week now she thinks this is something for her.
+C: DR GLEESON
+D: She's in for a shock.
+S: EXT. MAHER'S PUB - DAY
+N: O'Shea, Lisa, Smith, Brian and Dr Gleeson huddle.
+C: O'SHEA
+D: Listen, the only people that know about this are us and it's gotta stay that way or we'll have a panic on our hands.
+N: The group confer, sharing glances.
+C: LISA
+D: How drunk are we talking here?
+C: SMITH
+D: Paddy levels of drunkenness.
+N: They laugh loudly.
+C: DR GLEESON
+D: You're gone off your game, boy.
+C: LISA
+D: No offence but I don't think my body can handle Paddy levels.
+C: PADDY
+D: It takes years of practice. GRABBERS - Production Draft 28/1/2011 58.
+E: GOLD
+C: BRIAN
+D: If those things do come for us, we'd be lambs to the slaughter if bombed out of our brains.
+C: LISA
+D: And with everyone hammered there's no one in a fit state to call the shots. The non-alcoholic shots.
+C: DR GLEESON
+D: Yeah but single someone out and they'll be sought as the only meat on the menu.
+C: LISA
+D: But what's to keep us safe from ourselves, forget what's outside, we could fall over and break our necks trying to conga. Statistics prove put a large number of people in a confined space, ply them with booze and --
+C: PADDY
+D: -- you've got a hooley.
+C: LISA
+D: That's not what it said.
+C: O'SHEA
+D: This will work. And I'll keep order. I won't be drinking.
+N: Lisa almost steps back to take a closer look of him.
+C: LISA
+D: You? We'll both do it.
+C: SMITH
+D: That would put you both at risk. I suggest it's just O'Shea.
+C: O'SHEA
+D: Thanks. Only one of us need risk it and I know these people and this island better than you. It should be me.
+E: TO LISA
+C: SMITH
+D: I agree. GRABBERS - Production Draft 28/1/2011 59.
+E: GOLD
+N: Lisa ushers O'Shea aside (leaving the others talking amongst themselves).
+C: LISA
+D: I see what you're doing here but have you forgotten you're a dependent alcoholic organising a piss up in a brewery! I'll do it. It'll be easier.
+C: O'SHEA
+D: Lisa, I'm good to no one when I drink. I know that. So do you. I can do this.
+C: PADDY
+D: It's gonna rain any minute.
+N: Lisa looks at him, holding his stare. O'Shea doesn't flinch. FINALLY --
+C: LISA
+D: OK. But just so you know, I don't drink. I've never even been drunk. I don't know if I can.
+C: O'SHEA
+D: Of course you can. And you'll be the best drunken Guard this country's ever seen. You'll probably get promoted.
+C: LISA
+D: Ah stop.
+N: O'Shea smiles encouragingly. He takes out his flask and hands it to her. Suddenly he seems taller.
+C: SMITH
+D: Right, if we're doing this we'll need a blood test from a healthy subject. Lisa, you're the fittest person here.
+C: LISA
+D: You charmer. It's true, though.
+E: BLUSHES
+C: O'SHEA
+D: Brian, I want a table of everything Paddy had last night.
+C: BRIAN
+D: What night was last night? GRABBERS - Production Draft 28/1/2011 60.
+E: GOLD
+C: PADDY
+D: Saturday night.
+C: LISA
+D: Oh you gotta be joking me!
+C: PADDY
+D: Oh it was a big one.
+C: BRIAN
+D: Comin' right up.
+S: INT. MAHER'S PUB - DAY - LATER
+N: The table has six empties on it. Lisa sees double that though as she grips her seat for balance.
+C: LISA
+D: He never liked me as much as her. She was the talented one, Daddy's little girl. That bitch!
+N: O'Shea holds her beer hand steady.
+C: O'SHEA
+D: Come on. Three fingers.
+C: LISA
+D: But I got you guys. I love you all. Even you.
+E: PRODS O'SHEA
+C: BRIAN
+D: She's langers.
+N: She downs the dregs and breathes deeply through her nose while stroking her hair as only drunk women do.
+C: O'SHEA
+D: There, that's everything.
+N: Brian, Dr Gleeson and Smith don't know if they should clap. Paddy reaches into his pocket sheepishly.
+C: PADDY
+D: I also had a snifter of ...
+N: A small bottle of what looks like water. O'Shea stares him, knowing the answer before he asks.
+C: BRIAN
+D: What's that? GRABBERS - Production Draft 28/1/2011 61.
+E: GOLD
+C: PADDY
+D: A little home brew.
+C: BRIAN
+D: You bring potcheen into my bar?
+C: PADDY
+D: A bird never flew on one wing.
+C: O'SHEA
+D: When this is over we need to talk.
+C: PADDY
+D: Ah come off it, this could save all our lives yet.
+N: Paddy pours a drop for Lisa.
+C: PADDY
+D: There ya go, pet.
+N: Brian takes the bottle of potcheen from Paddy.
+C: BRIAN
+D: I'll take that.
+C: PADDY
+D: You will in me shit.
+C: O'SHEA
+D: Paddy.
+N: Lisa downs the potcheen and rests her head on the table.
+C: LISA
+D: I need to pee.
+S: INT. DISUSED PUB - DAY
+N: Dr Gleeson draws blood from Lisa. O'Shea, Brian and Paddy watch. Smith marks up a petri dish with his blood.
+C: LISA
+D: Ow.
+N: Smith places his petri dish of blood next to a cage and -- WHIPAH! A tongue shoots out and hoovers up all the blood. Brian's shocked. Paddy almost chuckles.
+C: O'SHEA
+D: Now the tainted blood. GRABBERS - Production Draft 28/1/2011 62.
+E: GOLD
+C: BRIAN
+D: If you're right, this will kill it?
+N: O'Shea presents Lisa's petri dish of blood and WHIPAH -- it hoovers it up. The group leans in expectantly and BLEURGH! The Grabber projectile vomits up all the blood, startling and revolting them -- Ugh! And then it warps, withers and shrivels. Dead. O'Shea holds the breathalyser in Lisa's mouth.
+C: O'SHEA
+D: Blow. Point two.
+E: READS
+C: DR GLEESON
+D: Holy Christ!
+C: O'SHEA
+D: OK, now we know what we gotta do. Keep our blood alcohol levels at point two.
+N: The group's horrified, except for Paddy.
+C: DR GLEESON
+D: You unnatural eejit. You're what'll kill us. Point two?!
+E: TO PADDY
+C: SMITH
+D: How are we going to determine that based on each person's body mass index?
+C: DR GLEESON
+D: You're looking at up to ten pints each depending on height and weight.
+C: BRIAN
+D: We'll have to do shots. Properly tear the arse out of it.
+C: O'SHEA
+D: So lets do it.
+C: BRIAN
+D: Who's going to pay for all this by the way? GRABBERS - Production Draft 28/1/2011 63.
+E: A THOUGHT GOLD
+S: EXT. MOUNTAIN ROAD - DAY
+N: The patrol jeep parks at the chapel.
+S: EXT. CHAPEL - DAY
+N: Brian, O'Shea and Lisa make their way towards the chapel doors.
+S: INT. CHAPEL - DAY
+N: FR POTTS, an incredulous elder statesman, finishes mass. His eclectic congregation of forty or so ISLANDERS bless themselves -- FISHERMEN, HOUSEWIVES, OAPs, Una, etc.
+C: FR POTTS
+D: Mass has ended, go in peace to love and serve the Lord. Amen.
+N: O'Shea, Brian and Lisa enter the back of the chapel.
+C: O'SHEA
+D: Is this everyone?
+C: BRIAN
+D: It's Fr Potts last mass, so everyone that didn't leave yesterday for the thing in Dungary.
+N: O'Shea and Lisa walk up the aisle towards Fr Potts as people rise to leave, some chatting to each other as they go.
+C: O'SHEA
+D: Father, do you mind if I say a few words?
+C: FR POTTS
+D: Go mad.
+N: O'Shea takes to the pulpit.
+C: O'SHEA
+D: Can I have your attention please?
+N: The congregation looks up, considering O'Shea. MAMIE, a grey haired granny, tuts to her neighbour.
+C: MAMIE
+D: Oh here we go. GRABBERS - Production Draft 28/1/2011 64.
+E: GOLD
+C: O'SHEA
+D: Folks, just a quick announcement, at Maher's Tavern tonight we're having a bit of a shindig and you're all coming to join us for what will be a great night's craic!
+N: A wall of silence.
+C: UNA
+D: You're throwing a party?
+C: O'SHEA
+D: Yeah.
+C: UNA
+D: Why?
+C: O'SHEA
+D: Who needs a reason to have a laugh?
+N: Lisa gestures to O'Shea, still drunk but she'll field this one.
+C: LISA
+D: It's a welcome party for me.
+N: Lisa seems very proud of herself for coming up with that.
+C: UNA
+D: A welcome party? But you're leaving in a fortnight.
+C: LISA
+D: So it's a goodbye party. Whatever.
+C: UNA
+D: You only just got here.
+C: LISA
+D: What's her problem?
+E: TO O'SHEA
+C: O'SHEA
+D: What we mean to say is --
+N: A FISHERMAN rises to leave.
+C: LISA
+D: -- Hey bucko! Where are you going? This party's for your benefit. And all of you are gonna be there too. It's the law! GRABBERS - Production Draft 28/1/2011 65.
+E: GOLD
+C: LISA
+D: And I swear to God I'll arrest any one of you who isn't. Chalk it down!
+E: CONT'D
+N: Lisa glares at the congregation.
+C: FISHERMAN
+D: Are you coddin' us, love?
+C: LISA
+D: What's your name?
+N: He wilts.
+C: O'SHEA
+D: What Garda Nolan means is we'd love your company. There's no point going home to a cold, empty house in weather like tonight when we'll be right across the street from here and we'll have music and craic and company -- and a FREE BAR!
+C: BRIAN
+D: What?!
+N: HILDA, a stout woman, grabs her coat.
+C: HILDA
+D: Sold!
+C: O'SHEA
+D: That's the spirit! So c'mon, it's a party and the drinks are on us!
+S: INT. MAHER'S PUB - NIGHT
+N: The JUKEBOX bellows with The Dubliners "Whiskey in the Jar" as Brian wades through the forty strong patrons. The drink's flowing, the merriment's joyous, ignorance is bliss.
+S: INT. PUB KITCHEN - NIGHT
+N: O'Shea, Lisa, Paddy, Smith and Dr Gleeson are gathered over a table.
+C: O'SHEA
+D: Weapons. What have we got?
+N: Lisa fumbles some skillets, knives and bats.
+C: LISA
+D: Crap. GRABBERS - Production Draft 28/1/2011 66.
+E: GOLD
+C: DR GLEESON
+D: I've got a nail-gun.
+N: THWACK! He nails a board of wood.
+C: DR GLEESON
+D: And a board with a nail in it.
+N: O'Shea nods. OK.
+C: PADDY
+D: I've got a hurley and a pellet gun.
+C: SMITH
+D: What are we gonna do with a pellet gun?
+C: PADDY
+D: Shoot pellets. But I don't have any pellets.
+C: SMITH
+D: Great, well you can just wave it at them then.
+C: O'SHEA
+D: All right, what have you got?
+C: SMITH
+D: I've got a flare gun.
+N: Everyone's impressed, except Paddy.
+C: LISA
+D: I dibs the flare gun.
+N: Brian slams a huge colourful Super-soaker before them.
+C: BRIAN
+D: C.P.S. forty-one hundred pump action twin jet Super Soaker. Shoots twenty feet. The nephew's.
+C: PADDY
+D: A water pistol? This thing likes the water.
+C: BRIAN
+D: It's a water pistol if you use water. Fill it with petrol and you've got a flamethrower.
+C: LISA
+D: I dibs the water pistol. GRABBERS - Production Draft 28/1/2011 67.
+E: GOLD
+C: O'SHEA
+D: Right, well look sharp. You know your stations: guard each exit and don't let anyone out. Bottoms up.
+N: They each raise shot glasses and knock them back. Lisa licks her salted wrist.
+C: LISA
+D: Tequila!
+N: She sucks the lime slice and everyone disperses. Alone, O'Shea considers the back window as the first drops of rain pelt against it. The MUSIC builds. This is it.
+S: EXT. BEACH - NIGHT
+N: Lapped by the surf, the detritus of egg spawns litter the shore as streams of track marks trail inland.
+S: EXT. MAHER'S PUB - NIGHT - LATER
+N: Rain begins to fall, hard and fast. No turning back now.
+S: INT. MAHER'S PUB - NIGHT
+N: MUSIC belts out of the Jukebox as folks get flutered. (Something with "rain" in its title.)
+S: EXT. MAHER'S PUB - NIGHT
+N: Dr Gleeson guards the back entrance with his nail gun, watching the rain through a gap in the side door.
+S: INT. MAHER'S PUB - NIGHT
+N: Brian tends bar, pouring shots. One for you, one for me. Mamie from the chapel leans on the counter, pisht.
+C: MAMIE
+D: Two shandies, Brian pet.
+N: Brian knocks up two shandies but spikes both with blinding double shots of vodka.
+C: BRIAN
+D: How's the heart, Mamie?
+C: MAMIE
+D: Tip top.
+C: BRIAN
+D: Thank Christ for that. GRABBERS - Production Draft 28/1/2011 68.
+E: TO HIMSELF GOLD
+N: He palms them to her, guilty as sin. She sips one and coughs, teary eyed. The wind knocked out of her.
+C: MAMIE
+D: Perfect.
+N: She staggers off.
+S: INT. PUB KITCHEN - NIGHT
+N: Smith sips his vodka coke, watching the back door and standing by with the walkie talkie.
+S: INT. MAHER'S PUB - NIGHT
+N: Paddy sips his pint by the front door while Una dances with Hilda, Mamie and others.
+S: INT./EXT. PATROL JEEP - NIGHT
+N: O'Shea and Lisa sit on stakeout outside the pub, rain pelting against the windscreen.
+C: LISA
+D: I dunno, you know?
+N: She doubles up, laughing. O'Shea fights off a smile.
+C: LISA
+D: C'mere. Listen. Listen. At the end of the day, you know? I dunno. I'm so into you right now. Joke. Kinda.
+E: MUFFLED
+N: She watches his reaction and stifles a burp.
+C: O'SHEA
+D: How much have you had?
+C: LISA
+D: Not enough to fancy you.
+C: O'SHEA
+D: Then keep drinking.
+N: O'Shea puts the breathalyser in her mouth.
+C: O'SHEA
+D: Blow. GRABBERS - Production Draft 28/1/2011 69.
+E: GOLD
+C: LISA
+D: That's it, is it? You think I think I fancy you. That's the sitchuashun we got, huh?
+C: O'SHEA
+D: No more for you.
+E: OFF BREATHALYSER
+C: LISA
+D: Well I do. So whatcha wanna do 'bout it? Arrest me?
+N: She smiles coyly. Or tries to.
+C: O'SHEA
+D: You know as flattering as it is to hear a beautiful drunk slurring her feelings for me, now's not the time.
+N: Lisa scoffs, then something (slightly) sobers her.
+C: LISA
+D: Why do you drink so much, Ciarán?
+C: O'SHEA
+D: For the craic.
+C: LISA
+D: Yeah right, and I work everyday 'cause I'm driven.
+N: Lisa hears herself aloud. The admission sinks her.
+C: LISA
+D: Always chasing them goals, you know? Always chasing. Always running.
+N: O'Shea considers her, recognising her vulnerability.
+C: O'SHEA
+D: You're too hard on yourself.
+N: Lisa wells up, the drink making her emotional.
+C: LISA
+D: I feel like I've known you for years. I don't know why.
+C: O'SHEA
+D: Maybe because I put years onto people. GRABBERS - Production Draft 28/1/2011 70.
+E: GOLD
+C: LISA
+D: ... Yeah. That's true.
+N: They gaze at each other until O'Shea looks away first. Lisa hiccups. As ladylike as possible.
+C: LISA
+D: I'm sorry about your wife, O'Shea. I really am.
+C: O'SHEA
+D: My what?
+C: LISA
+D: Una told me, how she died. I'm so sorry.
+C: O'SHEA
+D: Una said what? Of all the stories. Una is the biggest gossip going. You shouldn't listen to her. No one died. We just ... we didn't work out.
+C: LISA
+D: Oh. Ah shite, I'm sorry.
+C: O'SHEA
+D: You're grand.
+C: LISA
+D: ... Did you split because ... because of your alcoholickissness?
+C: O'SHEA
+D: I didn't drink back then. No, she met someone else. It happens.
+N: O'Shea hides it well but this hurts. Lisa notices.
+C: LISA
+D: Feck her, O'Shea. If you want I'll find her and do her in for you?
+N: O'Shea smiles. Lisa reciprocates drunkenly.
+C: O'SHEA
+D: A toast. From an alcoholic to a workaholic. To getting out of this alive.
+E: raises his coffee
+N: A moment shared and then... GRABBERS - Production Draft (GOLD) 28/1/2011 71.
+C: LISA
+D: Hmm, toast.
+N: O'Shea smiles and grabs the C.B. Radio.
+C: O'SHEA
+D: Patrol to Base. Patrol to Base. Come in, over.
+S: INT. PUB - NIGHT - INTERCUT
+N: Smith belches under his breath and clutches a walkie-talkie. Behind him, people are reenacting the 'Siege of Ennis' which involved dancing jigs and holding hands for some reason.
+C: SMITH
+D: Reading you loud and clear. Over.
+C: O'SHEA
+D: How are we doing?
+E: V.O.
+N: Smith regards the Islanders enjoying the craic.
+C: SMITH
+D: Ignorance is bliss.
+C: O'SHEA
+D: Great. Keep it up. Over.
+E: V.O.
+N: Smith moves back into the kitchen.
+S: INT. PUB KITCHEN - NIGHT - CONTINUED
+N: Smith goes to finish his vodka coke but it's already empty. He goes to make another but then notices Paddy's potcheen bottle sitting idle on the counter. He considers it. Uncorks it. Sniffs it. Pours himself a drop. Tastes it. Hmm, likes it. And pours himself a lethal dose of it, smiling away to himself. Sure God love him, he's fucked.
+S: INT. MAHER'S PUB - NIGHT
+N: Brian ticks a chart, tabulating whose had what and how much. Hilda from the chapel orders.
+C: HILDA
+D: Two pints please, Brian.
+N: Brian ticks a piece of paper and starts pouring her pints.
+C: BRIAN
+D: Both for you? GRABBERS - Production Draft 28/1/2011 72.
+E: GOLD
+C: HILDA
+D: No. Jesus, what'cha take me for?
+C: BRIAN
+D: Right, right. Are you sure?
+C: HILDA
+D: I am!
+C: BRIAN
+D: Grand, grand. C'mere Hilda, you're looking well. Did you lose weight?
+N: Hilda lights up, delighted with herself.
+C: HILDA
+D: Aw, really? Well I have been doin' the walkin'.
+C: BRIAN
+D: Yeah, yeah. How much would you say you lost? Would I be right in thinking you're around fourteen stone?
+N: She stares, gobsmacked.
+C: BRIAN
+D: No? Fifteen? Yeah, I better go with fifteen to be safe.
+S: INT. MAHER'S PUB - NIGHT
+N: Dr Gleeson sways past Paddy as he returns from the back.
+C: PADDY
+D: Ya all right?
+C: DR GLEESON
+D: Ugh, bloated.
+C: PADDY
+D: Ya haven't touched your pint. Ya gonna finish it?
+C: DR GLEESON
+D: Hold onto it for me.
+N: Dr Gleeson walks off, giving Paddy his nail gun. Paddy waits a few seconds then siphons a sup off Gleeson's drink.
+S: INT. DOWNSTAIRS HALLWAY - NIGHT
+N: Outside the MEN'S BATHROOM Dr Gleeson joins a long queue. GRABBERS - Production Draft (GOLD) 28/1/2011 73.
+C: DR GLEESON
+D: C'mon, c'mon. Is some bloke doin' his makeup or what?
+N: He shuffles on his feet. He can't wait a minute longer.
+C: DR GLEESON
+D: Ah, feck the likes of this.
+N: He abandons the line.
+S: EXT. MAHER'S PUB ALCOVE - NIGHT
+N: Dr Gleeson sneaks out, spots the Patrol Jeep and ducks into the alcove -- out of sight. He leans against the wall, peeing. Rain runs down the corrugated roof. Relief. For now. He zips up, turns and sees ... JUMPERS. Dozens of them. Dr Gleeson chills. Limbless bouncing piranhas. They move clumsily, regularly toppling over as they hop, leap and jump. They're not very intelligent or agile but they're inquisitive. And starving. For a moment there's a curious stand-off, and then a Jumper hops closer startling Dr Gleeson.
+C: DR GLEESON
+D: Whoa, feck off!
+N: Dr Gleeson kicks it like a football and it launches through the air, SQUEALING. With beaks gaping, spiked tongues curling, the rest of the Jumpers move in on him.
+S: INT./EXT. PATROL JEEP - NIGHT
+N: O'Shea tosses a peanut into the air to catch in his open mouth but he misses as he stares, slackjawed at --
+S: EXT. MAHER'S PUB - NIGHT
+N: -- Dr Gleeson staggering blindly in the rain, a Jumper clamped onto his head, swallowing him down to his nose.
+C: DR GLEESON
+D: Christ Almighty, me head!
+N: O'Shea bounds from the jeep, hurley in hand. Lisa flanks him, staggering with a golf club.
+C: O'SHEA
+D: Jim, don't move! GRABBERS - Production Draft 28/1/2011 74.
+E: GOLD
+N: Dr Gleeson stumbles forward as Jumpers maul him and others circle like fat toddlers around an ice-cream truck. He falls to his knees before O'Shea and Lisa.
+C: DR GLEESON
+D: Get it off! Get it off!
+N: Lisa stamps the group as if scaring off a load of stray cats.
+C: LISA
+D: Git! G'wan! Shag off!
+N: The Jumpers keep their distance as O'Shea drags the Jumper off Dr Gleeson's head, like tugging on a wedged welly. He pulls it off and the Jumpers disperse into the shadows.
+C: O'SHEA
+D: You OK, Jim?
+N: Dr Gleeson catches his breath, gasping, his hair stood up on his head like a gelled explosion.
+C: DR GLEESON
+D: I had to piss.
+N: Suddenly the silhouette of a tree behind Dr Gleeson comes alive. They're not branches, they're tentacles. Flashes of lightning reflect off its slick, oily skin as -- A TORNADO OF BLACK FEELERS SLITHER FORWARD. 25 foot of ugly. Off Lisa and O'Shea's horrified faces, Dr Gleeson turns to meet Medusa on a bad hair day. The Grabber seizes him, lifts him high and dangles him over its jaws like plucked grapes. Then drops him before he can scream. Devoured like a banana in a blender. Dr Gleeson's dead. Or at least incredibly injured. The Grabber spits a pip: Dr Gleeson's head. It lands at Lisa's feet. No, he's definitely dead.
+C: LISA
+D: Fuck that.
+N: Lisa bounds for the jeep. The Grabber ROARS! Spittle flying out of its gaping maw.
+S: INT. MAHER'S PUB - NIGHT
+N: "The Irish Rover" bellows on the JUKEBOX. People clap and jig. Una swings Fr Potts, linked onto him, until he flies loose of her and staggers into Paddy's table. Wahey! GRABBERS - Production Draft (GOLD) 28/1/2011 75.
+C: FR POTTS
+D: Jesus Christ, Una.
+N: Everyone's having a ball. The Pogues with The Dubliners carry outside, accompanying the action as --
+S: INT./EXT. PATROL JEEP - NIGHT - INTERCUT
+N: Lisa climbs behind the wheel and O'Shea hurries to catch up.
+C: LISA
+D: Get in.
+N: She opens the passenger door for him but tears off leaving him behind. Driving drunk.
+C: O'SHEA
+D: WAIT! Oh Jesus Mary Mother of God.
+N: She slams on the brakes. Skids.
+C: LISA
+D: Shite. Get in.
+N: O'Shea catches up and dives in the backseat.
+C: O'SHEA
+D: Drive! Drive!
+N: Lisa does, but reversing towards the Grabber.
+C: O'SHEA
+D: AHH, THE OTHER WAY! THE OTHER WAY!
+N: They ram into the Grabber, the car jolting violently.
+C: LISA
+D: Shite!
+C: O'SHEA
+D: Let me drive!
+C: LISA
+D: I'm not feeling so good. I need a drink to calm me nerves.
+N: She reaches for a quick swig but O'Shea bats the bottle away from her puckered lips.
+C: O'SHEA
+D: Get us out of here!
+C: LISA
+D: I can't drive with you shaking me. GRABBERS - Production Draft 28/1/2011 76.
+E: GOLD
+N: Lisa crunches gears and the tyres smoke and spin, fighting against the drag. The Grabber smothers the jeep, its fetid breath fogging the windscreen. O'Shea SCREAMS! Lisa sobs.
+C: O'SHEA
+D: We're gonna die!
+N: O'Shea grabs at the handbrake, putting them in gear, desperate to get them moving.
+C: O'SHEA
+D: Put your foot on the clutch!
+C: LISA
+D: I am arresting you for the murder of Doctor Gleeson. You are not obliged to say anything unless you wish to do so, but whatever you say will be taken down in writing and may be given in evidence.
+C: BRIAN
+D: Base to Patrol. O'Shea we're running short here. We're dry on four taps and out of spirits and wines. Over.
+E: V.O.
+N: O'Shea grabs the radio.
+C: O'SHEA
+D: BRIAN, GET THE DOOR, OPEN THE DOOR!
+E: INTO RADIO
+N: Lisa switches on the PATROL LIGHTS and PALMS THE HORN. The Grabber leaps back from the jeep and flares up like a huntsman spider, hissing.
+C: LISA
+D: Fuck that.
+N: Lisa bounds from the jeep leaving O'Shea staring in shock. He kicks open his door and scrambles after her as the Grabber leaps onto the jeep and smashes it. Seconds to spare. Lisa turns to look.
+C: LISA
+D: It's eating the jeep.
+N: O'Shea runs past, grabbing her hand and pulling her along.
+C: O'SHEA
+D: Let it! GRABBERS - Production Draft 28/1/2011 77.
+E: GOLD
+S: EXT. PUB KITCHEN - NIGHT
+N: Brian opens the side door and stops as he sees the chaos.
+C: BRIAN
+D: Merciful shit.
+N: He turns back and --
+S: INT. PUB KITCHEN - NIGHT
+N: -- grabs his super soaker off the coat rack.
+C: BRIAN
+D: Smith!
+N: Smith lifts his head up off the kitchen table. His eyes are furiously blood shot and he looks like he's had a stroke.
+C: SMITH
+D: I can't feel my face.
+E: DROOLING
+C: BRIAN
+D: Smith, the lighter!
+C: SMITH
+D: I think I'm drunk, Brian.
+C: BRIAN
+D: Hurry!
+N: Smith rises and stagger-runs to Brian but slams into the wall instead. He slides onto the floor where he lulls, confused.
+C: SMITH
+D: Your floor is broken.
+N: O'Shea and Lisa barrel in. O'Shea looks for stuff to barricade the door.
+C: O'SHEA
+D: Grab the table.
+N: Brian belches, also pissed.
+C: BRIAN
+D: Smith! Light me!
+N: Remaining slumped on the floor, Smith sparks a Zippo lighter and holds it up for Brian to light the gun nozzle. But like fellas after ten pints trying to stick their key in the front door they can't synchronize their movements. GRABBERS - Production Draft (GOLD) 28/1/2011 78. Brian squats, the way only a drunk would, to steady himself.
+C: BRIAN
+D: Nearly. Put the other light away. ... Stall on now. That's it ...
+C: O'SHEA
+D: Brian, forget that help us barricade the door.
+C: BRIAN
+D: Almost there.
+N: O'Shea and Lisa drag the heavy table into position.
+S: INT. PUB KITCHEN - NIGHT
+N: Finally Brian sets the wick in the nozzle of the super-soaker alight, pumps furiously and aims it out the door.
+C: BRIAN
+D: All right you ugly bollocks, have some of this shit!
+N: He takes squirts and ... nothing happens. Except the gun tip melts and lights ablaze.
+C: BRIAN
+D: Ahh, Christ!
+N: The Grabber ROARS getting closer.
+C: O'SHEA
+D: That's gonna blow! Get rid of it!
+N: Brian tosses the super-soaker outside and slams the door, double-bolting it, just in time as Una sways in, drink in hand, to find O'Shea, Lisa, Smith and Brian in a right state.
+C: UNA
+D: What's goin' on?
+E: SLURRED
+C: O'SHEA
+D: Nothing!
+N: BOOM! A bright flash of fire blossoms outside. O'Shea barricades the door with furniture.
+C: UNA
+D: What was that? GRABBERS - Production Draft 28/1/2011 79.
+E: GOLD
+C: BRIAN
+D: What was what?
+N: Brian grabs a glass of wine.
+C: BRIAN
+D: Here, honey, have a drink.
+C: UNA
+D: I have a drink.
+C: BRIAN
+D: Have two.
+C: UNA
+D: I've drunk enough.
+C: O'SHEA
+D: Move back.
+N: THUD! The door rattles.
+C: UNA
+D: Who is it?
+E: CALLS OUT
+C: BRIAN
+D: It's nobody, honey.
+C: LISA
+D: Who wants toast?
+C: SMITH
+D: I do.
+C: O'SHEA
+D: Is every one all right?
+C: LISA
+D: Grand.
+N: BLEURGH! Smith vomits against the wall.
+C: UNA
+D: Mother of Jesus!
+N: POP! Lisa's toast arrives. She butters it.
+C: O'SHEA
+D: Is this what I'm like when I'm drunk?
+N: Lisa stares at him, chewing toast. Eyes swimming. GRABBERS - Production Draft (GOLD) 28/1/2011 80.
+C: LISA
+D: You're worse.
+N: O'Shea hustles every one out of the kitchen.
+S: INT. MAHER'S PUB - NIGHT - CONTINUOUS
+N: O'Shea pushes through the oblivious patrons towards the bar. Brian flicks the taps. They hiss and sputter.
+C: BRIAN
+D: We're dry.
+E: TO O'SHEA
+C: PADDY
+D: We're what?!
+C: BRIAN
+D: Unless someone goes outside to change the kegs, we're done drinking for the night.
+N: Paddy's devastated.
+C: PADDY
+D: No! NO!
+N: He thumps the counter.
+C: PADDY
+D: I was just gettin' a taste for it.
+N: The gang talk over the din. The Islanders still blissfully unaware of what's happening. For a moment O'Shea's lost in his own world as he notices he's absentmindedly clutching a pint from the counter. He considers it, then pushes it away, grabs a chair and rises.
+C: O'SHEA
+D: Folks, listen carefully. We're moving this party upstairs.
+C: FR POTTS
+D: Ah now, what kind of party is this?
+C: O'SHEA
+D: It's just a precaution.
+C: UNA
+D: A precaution to what?
+N: O'Shea thinks. Mamie rises with her coat. GRABBERS - Production Draft (GOLD) 28/1/2011 81.
+C: MAMIE
+D: I'm goin' home. I'm pisht.
+E: SLURRED
+N: She sits back down again, losing her balance.
+C: O'SHEA
+D: You can't. No one can.
+C: FR POTTS
+D: Why?
+C: LISA
+D: It's raining.
+N: People look, huh?
+C: FISHERMAN
+D: Someone better tell us what's really going on here? Right now!
+S: INT. MAHER'S PUB - NIGHT
+N: Panic and confusion spreads through the crowd.
+C: UNA
+D: This party isn't for me, is it, Brian?! You lied to me!
+C: BRIAN
+D: You see you! This is your fault. You brought that thing on the island.
+E: TO PADDY
+C: UNA
+D: What thing?
+N: Smith hangs onto the pub wall, edging towards the front door as everyone's attention is focused on the commotion inside.
+C: SMITH
+D: Are these my sausages?! Kill me. GRABBERS - Production Draft 28/1/2011 82.
+E: MUMBLING PUKES GOLD
+C: PADDY
+D: Ah relax. You'll give yourself angina.
+E: TO BRIAN
+C: BRIAN
+D: I'll give ya angina. Outside, now! I claim ya!
+C: O'SHEA
+D: No! You can't go outside!
+C: LISA
+D: Because of the rain.
+E: to Fr Potts et al
+N: Lisa winks sleepily at the huddled masses as O'Shea gets between Brian and Paddy, separating them.
+C: BRIAN
+D: C'mon then, put 'em up.
+E: TO PADDY
+C: PADDY
+D: Right you are! I'm sick of your bollocks.
+N: Brian rolls up his sleeves. Paddy takes out his teeth.
+C: O'SHEA
+D: Paddy! Brian! Cop on, I'm asking ya! Now's not the time for this.
+N: Paddy and Brian drunkenly box (by missing every punch, and falling over a lot). Una repeatedly punches Brian's arm.
+C: UNA
+D: Stop fightin! Stop fightin!
+E: PUNCHING HIM
+N: Fr Potts holds onto the huddled and terrified Islanders. Lisa looks them all in the eyes, swaying and smiling.
+C: LISA
+D: Don't worry, we have it all under control. There's nothing trying to kill you.
+N: Smith opens the front door, letting a chilling breeze into the pub. Everyone turns to see.
+C: SMITH
+D: We need more alcohol. GRABBERS - Production Draft 28/1/2011 83.
+E: DRY HEAVES GOLD
+N: Smith staggers out the open door.
+C: MAMIE
+D: Thanks be to Jesus, let me out of here!
+C: O'SHEA
+D: No!
+N: O'Shea runs to the door holding people back from trying to follow. Folks jostle to see out windows and over shoulders.
+C: O'SHEA
+D: Get back! Smith, what are you doing? Smith!
+S: INT./EXT. MAHER'S PUB - NIGHT
+N: Smith staggers out into the rain.
+C: SMITH
+D: It's raining again.
+N: O'Shea, Lisa and Paddy hang at the door, watching.
+C: O'SHEA
+D: Smith, listen to me. It's bigger than you think. Get back inside now! Please, I'm begging you.
+C: SMITH
+D: I need a picture with it. For National Geographic. And Facebook.
+C: PADDY
+D: Feck your photos, change the kegs! What? He's flutered, sure he'll be fine. G'wan, Smith! Fine fella y'are!
+E: OFF O'SHEA
+N: A GROWL in the darkness. A hint of movement in the blackest shadows. O'Shea pales. Smith raises his digital camera.
+C: O'SHEA
+D: Smith, mate! Listen to me!
+N: FLASH! He snaps a photo and The Grabber lights up for a split second, ten feet from Smith.
+C: SMITH
+D: Shush, you'll scare it.
+T: INTERCUT SMITH with THE PUB.
+N: GRABBERS - Production Draft (GOLD) 28/1/2011 84.
+C: UNA
+D: Oh my God!
+C: FR POTTS
+D: What the fuck was that?
+C: PADDY
+D: A Grabber.
+N: FLASH! Eight feet away from Smith. And moving slowly. FLASH! Five feet. FLASH! Two. FLASH! The Grabber breaths on Smith, the air misting as its black lips unfurl back, revealing its pink bladed throat.
+C: SMITH
+D: Steady. You don't want to eat me. I'm ripped to the tits!
+N: Tentacles molest Smith, writhing all over him, mussing his hair. Licking and tasting his sweat.
+C: SMITH
+D: Sticky.
+N: The Grabber recoils, having tasted his sweat. Yuck!
+C: SMITH
+D: See! I told you. It's just an animal, it doesn't want to hur--
+E: turns to others, grins
+N: -- OOF! The Grabber flicks Smith out its way like a peanut, sending him shooting off into the night sky. Folks SCREAM and whimper. Complete shock.
+C: PADDY
+D: He flew?!
+N: The Grabber charges straight for them. O'Shea slams the door and turns, back flush against it --
+C: O'SHEA
+D: Everyone, upstairs! Now!
+N: The pub door collapses and JUMPERS flood in, breaching the fort. No doubt about it now, they're on a sinking ship. A stampede for the stairs. GRABBERS - Production Draft (GOLD) 28/1/2011 85.
+S: INT. UPSTAIRS HALLWAY - NIGHT - CONTINUOUS
+N: Islanders clamber into the corridor, petrified.
+S: INT. STAIRWAY - NIGHT - CONTINUOUS (SAME LOCATION)
+N: O'Shea pulls a cabinet over, leaving obstacles in his wake.
+S: INT. UPSTAIRS HALLWAY - NIGHT - CONTINUOUS
+N: O'Shea and some others push furniture down the stairs, blocking access with a fortified wall of rubble. The upstairs hallway is jammed as Brian opens a door into an OLD DISUSED UPSTAIRS PUB, allowing people to filter in. The ruckus below sounding like a bar brawl.
+C: O'SHEA
+D: Everyone, stay calm. They can't get up here.
+C: FR POTTS
+D: And what in the name of fuck were those things?
+C: PADDY
+D: Jumpers.
+C: FR POTTS
+D: Ha?
+C: PADDY
+D: They jump.
+N: THUD! CRASH! BANG! Islanders whimper. O'Shea moves through the hallway, through the crowd.
+C: O'SHEA
+D: Has anyone been bitten? You haven't been bitten because of the alcohol you've been drinking. They're allergic to drunk people. So there's no need to panic, we're safe up here. Has anyone got a mobile on them?
+E: no one has
+N: Everyone takes out a phone, some take out two.
+C: O'SHEA
+D: Call the mainland. Call the Coastguard. Call whoever you can get through to. GRABBERS - Production Draft 28/1/2011 86.
+E: GOLD
+N: They start dialling.
+C: MAMIE
+D: Father, is it the apocalypse?
+C: FR POTTS
+D: Jesus, I hope not.
+N: O'Shea catches his breath, hunched against the corner. He looks up to Una, Brian, Lisa and Paddy watching him. He forces the best smile he can muster.
+C: O'SHEA
+D: We'll be fine!
+S: EXT. MAHER'S PUB - NIGHT
+N: The Grabber retreats into the darkness.
+S: INT. DISUSED PUB - NIGHT - LATER
+N: Brian opens the door to a supply closet. O'Shea and Lisa flank him. The closet's full of innocuous cleaning products, blankets, etc.
+C: BRIAN
+D: It's just linen and cleaning stuff. Nothing we can really use.
+C: FISHERMAN
+D: Why can't ya just shoot it? Ye guys must have some guns.
+N: Brian closes the closet.
+C: O'SHEA
+D: We're the Gardai. Not the LAPD. An Garda Siochana will succeed not by force of arms or numbers, but on their moral authority as servants of the people.
+E: off their faces
+N: Lisa gasps. She grins at him with drunken pride. O'Shea almost blushes.
+C: FISHERMAN
+D: We're bolloxed.
+C: BRIAN
+D: Yep.
+N: Brian shuts the door. GRABBERS - Production Draft (GOLD) 28/1/2011 87.
+S: INT. DISUSED PUB - NIGHT
+N: O'Shea watches the windows.
+C: O'SHEA
+D: Something's not right. It can't be that hungry.
+N: Eavesdropping, Paddy chimes in.
+C: PADDY
+D: It's the female. It's following her scent. Sure didn't she slime you in the lab? Like with me bathroom and Tadhg Murphy.
+C: O'SHEA
+D: Tadhg Murphy's dead!
+N: Some hallway people whimper, overhearing O'Shea.
+C: O'SHEA
+D: No, no, Tadhg Murphy's fine. He's at the festival on the mainland.
+C: LISA
+D: And so's his wife.
+N: The Islanders gasp. Irene's dead too?! Ah fuck.
+S: EXT. MAHER'S PUB - NIGHT
+N: THUD! A dead sheep slams the door (as Cooney did).
+S: INT. LISA'S BEDROOM - NIGHT
+N: Brian peeks out the bedroom window. Brian rounds the corner, back towards O'Shea et al ...
+C: BRIAN
+D: It's swinging one of Tommy Riordan's sheep at the door.
+N: Paddy, Lisa, Una and O'Shea look. THUD! THUD! GRABBERS - Production Draft (GOLD) 28/1/2011 88.
+C: LISA
+D: My cat does that, then leaves it on the doorstep as a present.
+C: PADDY
+D: A mating ritual.
+N: THUD! CRASH! BANG!
+C: O'SHEA
+D: What the hell does that mean?
+C: PADDY
+D: It'll try to mount you, somehow. Failing that it'll most likely rip you limb from limb in frustration.
+C: O'SHEA
+D: Grand. Ah sure what can ya do.
+C: LISA
+D: Play hard to get.
+N: THUD! The Grabber ROARS and slithers off into the shadows.
+C: HILDA
+D: Oh, God. What does it want?
+N: O'Shea looks at the scared Islanders. He's what it wants. The sound of WINDOWS SHATTERING. Islander's whimper.
+C: UNA
+D: It's not gonna stop, is it? We won't survive the night. We're on a sinking ship.
+N: Brian breathalyses himself sorrowfully.
+C: O'SHEA
+D: What's your reading?
+C: BRIAN
+D: Too drunk to drive a car but not drunk enough. We're sobering up. All of us.
+N: O'Shea nods tensely. Brian consoles Una as another loud THUD shakes the floor and the ceiling light shade above them.
+C: UNA
+D: We can't just sit here. It'll bring the walls down around us. GRABBERS - Production Draft 28/1/2011 89.
+E: GOLD
+C: PADDY
+D: What if we threw a bomb at it?
+C: BRIAN
+D: Have you got semtex on you?
+C: PADDY
+D: Not on me, no.
+C: BRIAN
+D: How about we like push it off a cliff or something.
+C: UNA
+D: Or electrocute it? I don't know.
+C: PADDY
+D: I vote we feed it Father Potts. Unless it eats shit it'll choke to death.
+C: FR POTTS
+D: I beg your pardon.
+N: Fr Potts perks up from the darker corner.
+C: PADDY
+D: Feck, is he in here? I was joking, Father. I apologise.
+N: Fr Potts disregards him.
+C: UNA
+D: If we can't destroy it, what can we do?
+C: O'SHEA
+D: What about the phones?
+E: to Fr Potts
+N: Fr Potts shakes his head. Nothing.
+C: O'SHEA
+D: OK, we know it does two things: it drinks blood and it breathes water. We took away one, we could take away the other.
+C: UNA
+D: What do you mean?
+C: O'SHEA
+D: We need to keep it away from water. Dry it out somehow. GRABBERS - Production Draft 28/1/2011 90.
+E: GOLD
+C: PADDY
+D: Look outside.
+E: re. the rain
+C: O'SHEA
+D: There's got to be some way we can stop it, fight fire with fire.
+N: Lisa notices her police boots from the day before, seeing the chalky stains all along them. An idea!
+C: LISA
+D: The Grabber! Not the Grabber- Grabber, the mechanical one! The big yoke, with the arm and the thing and you know? That big aul whatchamacallit you crush things with. The feckin' thing at Cooney's site! What's it called?
+E: off their confusion
+C: PADDY
+D: A Grabber?
+C: LISA
+D: Exactly! With that thing you could grab it, hoist it up and trap it. It's raining now but it has to stop some time right? And when it does it'd be stuck. Once the sun comes up it'd cook. That'd dry it out.
+N: O'Shea's eyes brighten, he smiles at Lisa. She smiles back, properly proud of herself.
+C: PADDY
+D: You think you can catch that thing?
+C: UNA
+D: Sure 'tis lepping about all over the shop.
+C: BRIAN
+D: You'd need some sort of...?
+N: O'Shea clenches the leprechaun key-ring in his fist.
+C: O'SHEA
+D: -- A death trap. GRABBERS - Production Draft 28/1/2011 91.
+E: GOLD
+S: INT. DISUSED PUB - NIGHT - CONTINUOUS
+N: O'Shea moves to a window to clock a white PICKUP TRUCK parked outside in the rain. His purposeful stride instilling confidence in the others. O'Shea's back in charge.
+C: O'SHEA
+D: Have you got the keys to your truck?
+E: TO BRIAN
+N: Brian checks his pockets.
+C: BRIAN
+D: They'd be in the kitchen. On the table, I think.
+C: O'SHEA
+D: I need them.
+C: UNA
+D: You can't go downstairs, those things will tear you to pieces.
+C: BRIAN
+D: She's right.
+C: PADDY
+D: You might not get past them, but someone else could.
+C: FR POTTS
+D: You'd be talking about the drunkest person we got.
+N: All eyes fall on Lisa as she licks her dry mouth. Off their LOOKS --
+C: O'SHEA
+D: Absolutely not, it's too risky. Paddy you go.
+C: PADDY
+D: What? Feck off! Brian should go.
+N: Brian considers it. Una's having none of it.
+C: BRIAN
+D: I could try...
+C: UNA
+D: Not a hope. GRABBERS - Production Draft 28/1/2011 92.
+E: GOLD
+C: LISA
+D: Slow down there. I'll do it.
+E: rises, swaying
+C: O'SHEA
+D: No. It's too dangerous.
+C: LISA
+D: Which is exactly why you'll want the best drunken guard this country's ever seen. Right?
+N: Lisa looks at him, holding his stare. O'Shea smiles.
+S: INT. TOP OF STAIRS - NIGHT - LATER
+N: The gang rally around Lisa at the stairway blockade. O'Shea hands her the nail-gun.
+C: O'SHEA
+D: If you get in trouble. Pull the trigger.
+N: She takes it in her hands, drunkenly marveling.
+C: LISA
+D: Oooh, savage.
+N: She pulls the trigger and a nail stabs the wall inches from Paddy's head.
+C: O'SHEA
+D: Careful.
+C: BRIAN
+D: You missed.
+N: Paddy throws Brian a withering look.
+C: O'SHEA
+D: Just get the keys and come right back. I'll do the rest.
+N: Fr Potts blesses her.
+C: LISA
+D: Got it. Just the keys.
+N: They pull away debris, allowing a gap. Lisa and O'Shea's gaze holds a second longer than necessary. Lisa smiles.
+C: LISA
+D: I'll be all right. GRABBERS - Production Draft 28/1/2011 93.
+E: GOLD
+S: INT. STAIRWAY - NIGHT - INTERCUT
+N: Lisa scrambles through. Una steals a glimpse downstairs.
+C: UNA
+D: Look what they've done to the carpets!
+N: Brian consoles Una as O'Shea and Paddy seal the gap. Suddenly Lisa TRIPS and slips down some stairs. Waking the dead. O'Shea, Brian, Una and Paddy gasp, listening. Lisa picks herself up.
+C: LISA
+D: IT'S OK! I'M ALL RIGHT!
+C: O'SHEA
+D: Shush!! Keep your voice down!
+C: PADDY
+D: She's a goner.
+N: O'Shea looks at Paddy, then at Brian.
+C: BRIAN
+D: How are you gonna get to the truck?
+C: O'SHEA
+D: Run very fast.
+C: UNA
+D: Love, you're not that fast.
+C: FR POTTS
+D: You'll need a decoy.
+C: PADDY
+D: I got it. If its you it wants, then we give it what it wants. We fashion a dummy, dress it up like bait and confuse the shite out of it. It won't know where to look when there's two of you.
+C: FR POTTS
+D: And how the hell do we make a dummy?
+N: O'Shea looks at Paddy, he likes that idea.
+C: O'SHEA
+D: Improvise. GRABBERS - Production Draft 28/1/2011 94.
+E: GOLD
+S: INT. MAHER'S PUB - NIGHT
+N: Jumpers mill about, tearing the place asunder. One studies itself in a mirror, until it can't stand itself any more. It attacks the mirror and knocks itself out. Another chokes while trying to eat a pool ball. Lisa rounds a corner, slumping lazily against the wall.
+C: LISA
+D: Focus.
+N: She takes a deep breath and moves in amongst them. She sidesteps over one and dips her hand into a peanut bowl. She palms them into her mouth, chews and scans the room. A Jumper leaps onto the counter beside her. POP! It collapses back. Another Jumper climbs onto her foot.
+C: LISA
+D: Get off.
+N: She kicks her leg and the Jumper flies off and smacks into the JUKEBOX, turning it on. Mundy's "Galway Girl" blasts.
+S: INT. DISUSED PUB - NIGHT
+N: Brian, Una, Fr Potts, O'Shea and Paddy grab supplies. A mop, a broom, a coat rack, marigold gloves, twine. The MUSIC BLEEDS UPSTAIRS:
+C: UNA
+D: I love that song.
+C: PADDY
+D: What is she doing at all?
+N: They begin assembling something as O'Shea masks his concern:
+C: O'SHEA
+D: Hurry.
+S: INT. PUB KITCHEN - NIGHT
+N: Lisa searches for the keys. She scans the floor, finding the full bottle of potcheen Smith drank. She tucks it in her jacket pocket and continues searching as behind her the back door slowly opens; its lock broken. GRABBERS - Production Draft (GOLD) 28/1/2011 95. Tentacles reach inside, snaking silently towards her as she finds Smith's Zippo lighter and holds onto it. She spots the keys under a stove and reaches, straining. Her face flush with the floor as the tentacles close in. Suddenly a stray tentacle knocks a dangling skillet -- -- CLANG! Lisa spins and fires the nail gun as tentacles rush towards her. A hail of nails stab the wall and BLOW OUT the wall mounted fuse box -- BANG!
+S: INT. DISUSED PUB - NIGHT
+N: Sudden DARKNESS is met with SCREAMS! MAHER'S PUB Lisa dives into the main bar and flips the Zippo lighter as the Grabber seizes her leg. The lighter falls beyond reach and takes fuel off the coat rack. Flames crawl high upon the jackets and coats.
+C: LISA
+D: UH FIRE! FIRE!
+N: The Grabber drags Lisa across the pub floor.
+S: INT./EXT. DISUSED PUB - NIGHT - CONTINUOUS
+N: Paddy, Brian and O'Shea slot the mop into the coat rack and slide a broom through the horizontal gap, its clear now they're building a scarecrow. O'Shea puts his jacket over it, dressing it. Una sniffs the air in the hall.
+C: UNA
+D: Do you smell smoke?
+S: INT. MAHER'S PUB - NIGHT - CONTINUOUS
+N: Lisa grabs hold of the bar counter foot rail, but she's quickly pulled from it and slides into the PUB KITCHEN towards the gaping jaws that fill the backyard door frame. She grabs broken bottles off the floor and stabs at the tentacle, glassing them. She grabs Dr Gleeson's board with a nail in it and slams it home. It uncoils around her feet. Free, she runs for the pub front door. GRABBERS - Production Draft (GOLD) 28/1/2011 96.
+S: INT. UPSTAIRS HALLWAY WINDOW - NIGHT
+N: O'Shea frantically pulls apart the blockade as smoke funnels up towards them. People panic.
+C: FR POTTS
+D: We're going up in flames!
+C: O'SHEA
+D: Where is she?
+C: BRIAN
+D: You gotta go now.
+C: O'SHEA
+D: I need those keys.
+C: BRIAN
+D: We can't wait, son.
+N: O'Shea opens the hallway window and climbs out. He nods towards Brian awaiting his cue: do it.
+S: INT. DISUSED PUB - NIGHT
+N: Brian flings the window open towards the rain.
+C: PADDY
+D: Yoohoo! Come and get me, you rotten bastard!
+N: Paddy, Fr Potts, Brian and Una pick up O'Shea's scarecrow decoy and chuck it out the window into the back yard. Brian shuts the window and SPLAT-BANG! Everyone jumps back! Startled as -- -- the Grabbers's mouth fills the window, kissing glass. It crawls upwards, smudging the window. Folks stare, horrified. Brian looks back at O'Shea's open window. He runs to it.
+S: EXT. MAHER'S PUB - NIGHT
+N: O'Shea drops onto the back wall and shimmies along it.
+C: BRIAN
+D: Run, O'Shea, run!
+N: O'Shea looks back at Brian and sees pitching itself over the roof of the pub -- the GRABBER. It cascades towards him like a sticky spaghetti slinky, tentacles tumbling. GRABBERS - Production Draft (GOLD) 28/1/2011 97. Suddenly skidding around the corner, spewing up mud, comes Lisa in Brian's old pickup. She parks right below O'Shea.
+C: O'SHEA
+D: Lisa?
+C: LISA
+D: Would ya come on for fuck sake!
+N: O'Shea's never been so pleased to see her behind the wheel.
+S: INT./EXT. PICKUP - NIGHT
+N: THUMP! O'Shea jumps in the pickup.
+C: O'SHEA
+D: GO!
+C: LISA
+D: I'm breaking so many laws. Drinking on duty. Driving under the influence. Speeding. Driving without lights on.
+C: O'SHEA
+D: PUT YOUR LIGHTS ON!
+C: LISA
+D: Ah that's better.
+E: SHE DOES
+N: They tear off, leaving the Grabber behind. ROARING!
+S: INT. UPSTAIRS WINDOW - NIGHT
+N: Brian, Paddy and Una watch from the window.
+C: PADDY
+D: Good luck, boy.
+N: Brian hands Paddy an axe. (Burying the hatchet.)
+C: BRIAN
+D: Let's bury the hatchet, Paddy... into the heads of those feckin' things!
+C: PADDY
+D: Jumpers.
+C: UNA
+D: Come on!
+N: Paddy takes the axe and the trio turn to go to work. GRABBERS - Production Draft (GOLD) 28/1/2011 98.
+S: EXT. MOUNTAIN ROAD - NIGHT
+N: Brian's pickup races along, splashing through a puddle and leaving an empty road in its wake, that is until the Grabber appears over the hill, ripping along and gaining on them.
+S: EXT. DERELICT SITE - NIGHT
+N: Rain dribbles down the "KEEP OUT" sign as the pickup smacks into it, knocking it down. Lisa and O'Shea bail out and regard the empty site. Lisa runs towards the trucks as -- -- O'Shea makes a beeline for the site's gennie. He starts it up and light fills the site from big work lamps dotted about.
+C: O'SHEA
+D: It's following me, so you get the crusher and I'll lure it into position.
+N: Lisa backs into O'Shea, dread painted on her face.
+C: LISA
+D: It's gone.
+C: O'SHEA
+D: What is?
+C: LISA
+D: The crusher, the JCB. It's gone. It's not here anymore.
+N: On that -- A ROAR! They turn and see the Grabber staring at them from across camp. It stalks forward like a cat approaching its prey. O'Shea and Lisa back up, keeping their distance. No sudden movements.
+C: LISA
+D: Ciarán.
+C: O'SHEA
+D: I know.
+C: LISA
+D: What are we gonna do now?
+C: O'SHEA
+D: Fuck knows.
+N: O'Shea takes out and checks the flare gun. Two cartridges. He looks around him, looking for ideas. He sees something -- GRABBERS - Production Draft (GOLD) 28/1/2011 99.
+C: O'SHEA
+D: I've got an idea.
+N: Lisa clocks something, too. On the other side of them.
+C: LISA
+D: I've got an idea too.
+C: O'SHEA
+D: What's your idea?
+C: LISA
+D: Why, what are you thinking?
+C: O'SHEA
+D: I'M THINKING--
+N: The Grabber lurches forward sounding the starter pistol and storms towards them.
+C: LISA
+D: Wait! We're not ready!
+E: at the Grabber
+C: O'SHEA
+D: Run!
+C: LISA
+D: Give me the keys!
+N: O'Shea tosses Cooney's leprechaun key-chain at Lisa. She reaches to catch it but it sails past her drunken hands.
+C: LISA
+D: Got 'em. Shit!
+N: Lisa staggers after the keys and snatches them off the footprints she left in the cement, now dry and rock hard.
+C: LISA
+D: Got 'em!
+N: O'Shea runs the incline of the ramp, gunning for the pit.
+S: INT./EXT. BULLDOZER - NIGHT - CONTINUOUS
+N: Lisa slams into the bulldozer and stabs Cooney's keys into the driver's door but they won't open. They're --
+C: LISA
+D: -- the wrong keys. It won't open. GRABBERS - Production Draft 28/1/2011 100.
+E: SPOTS SOMETHING GOLD
+N: She grabs a 2x4 off the ground and smashes the cabin's window. She climbs inside, grabs a screwdriver off a toolbox and sets to work jacking the ignition.
+C: LISA
+D: ... Breaking and entering. Jacking a stolen vehicle ...
+S: INT. DERELICT SITE - NIGHT - CONTINUOUS
+N: O'Shea finds the pit as the Grabber follows him, ROARING. He darts across the metal ladder laid over the pit like a rickety bridge. The concrete hole waiting to swallow him up. The Grabber edges towards the pit, snarling. It reaches the edge and stalls, feeling its surroundings. O'Shea is almost at the other side of the ladder when the Grabber snatches hold of it and yanks it away from under him. O'Shea just makes the safety of the rim giving him a foothold with a twenty foot drop onto shards of broken barrels and iron girders beyond that. If he slips he's dead. The Grabber considers him, edging no further. O'Shea sees the oil tanks, he aims the flare gun at the drums. Finger on the trigger, ready and waiting.
+C: O'SHEA
+D: Come on, you langer. Just a little closer. Move. Hey, you want me, you're going have to come across and get --
+N: -- WHIPAH! The Grabber's barbed tongue shoots across the pit and lances the air around him. O'Shea's well within reach.
+C: O'SHEA
+D: Awwwwww bollocks.
+N: WHIPAH! O'Shea jumps left. WHIPAH! He jumps right. Inches to spare each time as O'Shea tries to take aim while ducking. He fires and the flare misses the oil drum. It strikes an exposed girder and lands in the pit, glowing and smouldering. He ducks the tongue and reloads, balanced precariously.
+S: INT./EXT. BULLDOZER - NIGHT - CONTINUOUS
+N: Lisa jacks the screwdriver into the ignition and turns. The ENGINE rumbles to life along with the radio. She moves to put on her seat-belt but stops herself. Feck it. GRABBERS - Production Draft (GOLD) 28/1/2011 101. She flips the lights on, full beam. Releases the hand-brake. Steels herself and slams the foot down, switching gears. All the while absentmindedly mumbling along to the radio. Treads spin, spitting mud. Here she comes...
+S: INT. PIT - NIGHT
+N: WHIPAH! The tongue lashes out and O'Shea ducks it.
+C: O'SHEA
+D: Enough! Piss off!
+N: WHIPAH! The tongue strikes again but this one lances O'Shea's shoulder and spins him like a top! O'Shea smacks off the pit's floor, just missing an iron girder. Ouch! He lands hard on his shoulder, struck with utter agony. Tentacles surround, curling towards him. He grabs his strewn flare gun and buries himself in the corner of the pit, rain and mud dribbling down upon him. He reloads and takes aim at the oil drums. This final shot will certainly kill him. Yet he's willing to do it. He grips the trigger, summoning all he has ... AS THE SOUND OF AN ENGINE DRAWS CLOSE. Headlights shine over the pit --
+S: INT./EXT. BULLDOZER / RAMP - NIGHT - CONTINUOUS
+N: -- Lisa slams her foot down, gunning it. Eyes burning.
+C: LISA
+D: Get away from him, you --!
+N: The Grabber turns, seeing Lisa a second too late as she slams into it with a SLOPPY-THUD! The Grabber ROARS, obscuring her last word. She waits for it to stop squealing and ...
+C: LISA
+D: Cunt.
+E: Alternative: langer.
+S: EXT. PIT - NIGHT - CONTINUOUS
+N: The Grabber crashes into the pit as the bulldozer pivots and pins it; its scoop slamming down and severing the Grabber's extended tongue. O'Shea rises, back to the pit wall, inches from the carnage. He stuffs the flare gun in his belt and climbs the bulldozer's treads towards level ground. GRABBERS - Production Draft (GOLD) 28/1/2011 102. Tentacles whip and flail around him as Lisa clambers from the cabin and grabs his hand.
+C: LISA
+D: I got you.
+N: She helps him climb out and they catch their breath. Elated.
+C: O'SHEA
+D: You took your sweet time.
+N: Lisa reveals Paddy's potcheen bottle.
+C: LISA
+D: I think this calls for a celebration.
+N: O'Shea laughs but then his face drops. He looks down to see a tentacle wrap around his waist.
+C: LISA
+D: O'Shea!
+N: It pulls him off his feet as he grabs Lisa's bottle. Pulled towards the Grabber's snapping maw, it draws him in, jaws snarling. Almost grinning. It's going to enjoy this. But at the last moment O'Shea pops the cork and chucks the bottle into its mouth.
+C: O'SHEA
+D: Sláinte.
+N: The Grabber chokes and spasms. A monstrous wail and -- -- O'Shea is flung into the air.
+S: EXT. DERELICT SITE RAMP - NIGHT - CONTINUOUS
+N: O'Shea lands. He spits up dirt as Lisa runs to him.
+C: O'SHEA
+D: He couldn't handle his drink.
+N: She leans in close as if to kiss him. O'Shea puckers up. But Lisa grabs the flare gun from his belt and runs back to the precipice of the pit.
+C: O'SHEA
+D: ... What are you...?
+N: She aims it at the oil drums. The ROAR of the Grabber. GRABBERS - Production Draft (GOLD) 28/1/2011 103.
+C: LISA
+D: Oh shut your hole.
+N: She fires! KABOOOOOM! The shockwave hurtles Lisa onto her arse beside O'Shea. Both laid out in the mud. Grabber gunk and rain pelts them.
+C: O'SHEA
+D: Jesus, you're dangerous.
+C: LISA
+D: I know!
+E: THRILLED
+N: They laugh.
+S: EXT. GRASSY HILL OVERLOOKING BEACH - DAWN
+N: No longer raining, O'Shea and Lisa look absolutely filthy as they come walking over the hillside. She hiccups demurely.
+C: LISA
+D: You look like crap.
+C: O'SHEA
+D: So do you.
+N: They shuffle on together. Battle-scarred. Limping. Side-by- side. Lisa takes O'Shea's flask from her pocket.
+C: LISA
+D: Here.
+N: She hands it to him. O'Shea remembers it for a brief moment, then lets it fall away. Lisa smiles. Proud of him. They stagger on, the beautiful sea panorama before them. Casually they fill the pauses, at ease with the world.
+C: LISA
+D: I think I'll take some time-off.
+C: O'SHEA
+D: You know if you lived here you'd be home already.
+N: Lisa absorbs the vista before her.
+C: LISA
+D: Home of the Erin Island Grabbers. It's gonna get mental round here. GRABBERS - Production Draft 28/1/2011 104.
+E: GOLD
+C: O'SHEA
+D: I'll need all the help I can get.
+N: O'Shea puts his arm around her, and they seem right together.
+C: LISA
+D: You want to get some breakfast?
+C: O'SHEA
+D: Yeah.
+C: LISA
+D: First, lets get out of these wet clothes.
+C: O'SHEA
+D: Sounds good.
+N: They laugh, and stumble on arm-in-arm into the sunrise.
+S: EXT. SHORE - DAWN
+N: In the ripples of sand, a different pattern is obvious, some unusual tracks lead to water... Jumpers. They made it.
+T: FADE OUT.
+N: THE END

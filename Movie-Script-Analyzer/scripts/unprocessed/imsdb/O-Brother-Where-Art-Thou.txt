@@ -1,0 +1,36 @@
+ 
+
+O Brother Where Art Thou? Script at IMSDb.
+
+
+
+   
+    
+    
+	
+	    The Internet Movie Script Database (IMSDb)
+
+   
+    
+   
+      
+      
+	The web's largest movie script resource!
+	
+    
+<!--
+google_ad_client = "pub-9108429103930209";
+//google_alternate_ad_url = "http://www.filemania.com/ad_fc728.html";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_channel ="";
+google_ad_type = "text";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "000000";
+google_color_text = "000000";
+//-->
+
+

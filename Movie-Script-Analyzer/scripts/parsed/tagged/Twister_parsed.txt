@@ -1,0 +1,2623 @@
+M: 'Twister'
+M: Written by
+M: Michael Crichton
+M: and
+M: Anne-Marie Martin
+M: 1st draft
+M: September 20 1994
+M: Introduction
+M: There have been thunderstorms during the day, with clouds
+M: hanging low and dark over the land. Now, in late afternoon,
+M: the wind suddenly drops. The air becomes oppressively still.
+M: There is silence, and a feeling of foreboding.
+M: The sky tums ugly, shades of purple or green, In the
+M: distance, a faint, lacy whirl of dust spins across the
+M: ground.
+M: A tornado is forming.
+M: Now a gray condensation funnel appears from the clouds
+M: above. It descends tentatively toward the ground, a fragile
+M: ropelike finger.
+M: Stretching downward, in silence.
+M: As it touches the ground, the funnel begins to rotate
+M: faster. There is a deep rumbling sound, like the roar of an
+M: enormous freight train, as the tornado moves over the land,
+M: churning dust and debris at its base.
+M: What happens next, no one can predict.
+M: Most tornadoes lose power within a few minutes, the
+M: funnel shrinking and tilting forward, roping out -- vanishing
+M: as quickly as they have come.
+M: But at other times, the tornado on the ground grows
+M: steadily in strength and roaring power. The base widens from
+M: a hundred yards to a diameter of half a mile or more. Winds
+M: reach 300 miles an hour. Such huge tornadoes may stay on the
+M: ground for an hour, leaving behind a path of devastation a
+M: hundred miles long, before they, too, finally dissipate and
+M: disappear back into the sky.
+M: What makes one tornado last for a few seconds, and
+M: another last for an hour, causing death and destruction? No
+M: one really knows. Scientists have made complex computer
+M: models, laboratory simulations, and observations on the
+M: ground.
+M: But still, even today, no one really knows.
+M: The United States has more tornadoes than any nation on
+M: Earth. Although tornadoes occur everywhere on our planet, the
+M: geography of the U.S. is uniquely suited for tornado
+M: formation. Each spring, cold, dry air coming down from Canada
+M: meets warm, wet air flowing up from the Gulf of Mexico. These
+M: weather fronts meet over the broad, flat prairies of the
+M: central United States, producing enormous thunderclouds of
+M: great beauty and power. Some of these thunderclouds --
+M: perhaps one in a thousand -- will produce tornadoes.
+M: In Kansas, Oklahoma, and Texas, tornadoes occur so
+M: commonly that the area has long been known as "Tornado
+M: Alley." The frequency of tornadoes in the central states
+M: has made this the ideal place for scientists to observe
+M: tornado formation. Each spring, a group of scientists known
+M: as storm chasers travel up and down this region, searching
+M: for tornadoes and studying them in a variety of ways.
+M: These storm chasers are unusual people.
+N: They combine the rigor of hard scientists with the instincts of naturalists and hunters. Their season is short, only a few months each year. Their work is fast-paced and sometimes dangerous, for they are studying the most unpredictable -- and potentially deadly -- phenomena of nature. Above all, they must be patient, for in a good year, they will witness two, or perhaps three, tornadoes. In a bad year, they will see none at all. More than a thousand tornadoes touch down in the United States every year, but most are fleeting, lasting only a few minutes. Many occur at night, or in remote regions, and they are never seen by anyone at all. Historically, the elusive nature of tornadoes has meant that they have rarely been filmed. Most newsreel footage showed the aftermath, the shattered towns and destroyed farmhouses, long after the tornado itself had vanished. In fact, prior to 1965, only two tornadoes were ever recorded by movie cameras. Tornadoes might be mysterious and feared, but they were also largely unseen. Eyewitness accounts of their behavior were wild, and wildly conflicting. All that changed with the advent of home video cameras. By the late 1980s, these cameras were common in households across the country, and soon, literally hundreds of home videos began to record tornadoes of all sorts. From this wealth of new visual information came scientific understanding. The behavior of tornadoes began to be much better understood, at least descriptively. For example, tornadoes were recognized to have a distinct life cycle, marked by distinct visual stages. At the same time, the scientific approach to tornadoes became more sophisticated. A nationwide system of Doppler radar gave storm chasers much better information about where a tornado was likely to occur. And the chasers themselves employed more advanced techniques, portable Doppler radars, particle photogrammetry, and even, in the case of pioneer Howard Bluestein, a special instrument pack called TOTO (for Totable Tornado Observatory), which was intended to be carried on the back of a truck, placed in the path of the tornado, taken up inside the funnel. The work of the storm chasers and the visual drama of the tornadoes themselves had long interested my wife Anne-Marie Martin, who from time to time would announce that somebody should make a movie on the subject. My answer was always the same: It's a good subject, but what's the story? In late 1993, she argued for a very simple structure, a romantic triangle set against the background of a race to place an instrument pack in a tornado. She felt the tension of chasing tornadoes would lead people to behave in an exaggerated fashion -- to say things they wouldn't ordinarily say, and do things they wouldn't ordinarily do. She proposed a short, intense time-course for the story, no more than a day or two. And she argued for a lot of scientific dialogue which would carry undercurrents of personal meaning behind the technical surface. I was doubtful about this, because I had tried exactly that procedure in a script called "ER," and so far, no one had made it. Nevertheless, her idea took hold. From the beginning, the subject seemed to me inherently visual, and therefore should be a script, not a book. Tornadoes are an ideal film subject, because unlike most meteorological phenomena, they are small enough to fit within the film frame, and they last a short time, changing rapidly. By comparison, a hurricane is hundreds of miles across, too big to see in a single image, and it goes on for hours, with little change. Tornadoes are much more contained, and visually compelling. We were further encouraged by early research that showed the premise was valid. Not only had real scientists attempted to put instrument packs into funnels. But there had been many recorded episodes when so-called "outbreaks" of tornadoes occurred -- as many as a hundred tornadoes touching down in a single day, often only a few minutes apart. That was what we required for our story, and it did indeed happen. It wasn't even rare: outbreaks of forty or more tornadoes had occurred seven times in the past ten years. The worst recorded outbreak, according to Ted Fujita, had taken place in April 1974, when 148 tornadoes touched down in a day, producing 2,400 miles of damage path. So it seemed as if the story was possible. Eventually, with some trepidation, we decided to write the script together, and we began in January 1994. It was not clear to either of us how this would work out, or whether it would work at all. We had plenty of advice that collaboration was a good way to end a marriage. But, as it turned out, we had an easy time working together; the structure was unusually clear, dictating what should happen next. And, invariably, we drew our episodes and details from actual recorded events, making up nothing. This was important because tornadoes are so inherently dramatic, it is easy to become excessive in the usual Hollywood manner, and we wanted the incidents to remain true to underlying reality. That reality was always worrisome. Because what we didn't know, during the spring and summer of 1994, was whether it would be possible to film the sequences we were so cheerfully writing. We were relying on computer graphics to accomplish this, but it is far more difficult to make a tornado in a computer than a dinosaur. On the other hand, George Lucas's Industrial Light and Magic is one of the most continuously successful R&D operations in American history. Thus, we blithely assumed that ILM's rapid advances in computer graphics would continue, so that by the time we were finished writing, it would be possible to simulate tornadic motion onscreen. And that turned out to be true. We saw a film test in January 1995 that was chilling in its verisimilitude. As is so often the case with big Hollywood movies, other hands took over the project, and moved it off in other directions. What audiences will see includes the work of many other, uncredited writers, but readers may be interested to see how the project appeared at an earlier time. Meanwhile, in the real world, Howard Bluestein and other researchers had long since abandoned their attempts to place an instrument pack in a tornado funnel. They tried for five seasons, and never succeeded -- although they did determine that TOTO was too light, and too easy to tip over in tornadic winds. But we have the greatest admiration for the tenacity and daring of the real storm chasers, and, as we wrote this screenplay, we hoped that they would be amused to find that in the movies, at least, their attempts met with success. -Michael Crichton
+T: FADE IN:
+S: EXT. RURAL OKLAHOMA - STORMY DAY
+N: CLOSE ON TALL GRASS, blowing in the wind A GIRL of ten runs through the grass towards us. Wind whips her dress and hair.
+C: GIRL
+D: Mommy! Mommy! She passes us, and continues forward toward her farmhouse. Black and menacing skies behind. The Wind builds fast. Trees are bent over.
+C: NEAR HER HOUSE
+D: HER FATHER stands by the open storm cellar, waving to her as the girl runs up. The wind is very strong.
+C: FATHER
+D: Come on! He hurries down into the cellar, handing the girl to the mother below. With a final worries look, the father closes the cellar doors, tugging them shut against the wind.
+C: TIGHT ON THE DOORS
+D: They begin to rattle, then to vibrate, as the unseen hand of the wind tries to rip them away. TRACK SIDEWAYS from the doors, past windows -- as they rattle, then explode -- to the corner of the house. We see the house squeak and twist on its foundations. The whole house is being twisted, like a cap off a jar. Then the house lifts and moves off the foundation -- we see the concrete slab -- the wind builds to a scream -- and suddenly THE HOUSE IS GONE, just lifted up, gone. Blackness envelops everything.
+C: A TV NEWS REPORT
+D: A HOME VIDEO IMAGE with REC in the corner, it shows a more distant view of the house we just saw, being hit by a tornado and the house carried away.
+C: NEWSCASTER
+D: This was the scene just a few minutes ago as a twister touched down near Lancaster.
+E: over MORE
+C: NEWSCASTER
+D: This is the peak season for tornadoes, and it's why Oklahoma is known as "tornado alley".
+E: CONT'D
+C: IN THE NEWS ROOM
+D: The NEWSCASTER sits in front of a chromakey map of Oklahoma, with superimposed weather fronts.
+C: NEWSCASTER
+D: National Weather Service is calling this the biggest storm front since 1922. It's brought teams of storm researchers from all over the country. Many more tornadoes are expected in the next 24 hours. As the newscaster speaks, white letters slide across the bottom of the screen: TORNADO WATCH FOR THE COUNTIES OF... EXT. OKLAHOMA COUNTRYSIDE - STORMY DAY A threatening BLACK SKY hangs low over flat green fields, a lone white farmhouse. LIGHTNING crackles sharply down. A CAR drives by in foreground. EXT. THROUGH A CAR WINDSHIEL Drops of water spatter the windshield. The road stretches ahead. INT. THE CAR BILL HARDING, 35, cowboy-rugged in jeans and a work shirt, squints at the road ahead as he drives. Beside him, MELISSA HUNTLEY is 30, pretty in a patrician, button-down way. Tailored pants and a white shirt. Looking out window:
+C: MELISSA
+D: Do you think we'll get there in time?
+E: concerned
+C: BILL
+D: Yeah, Almont's a hundred miles north of here. No problem -- we'll be in Phoenix by nightfall.
+C: MELISSA
+D: I can't wait.
+E: kisses him
+N: He's reluctant to stop the kissing, kisses her back.
+C: MELISSA
+D: It's finally happening...
+E: CONT'D happy
+C: BILL
+D: Yeah. Just one more problem...
+C: MELISSA
+D: You want to go over it again?
+C: BILL
+D: Maybe we better.
+C: MELISSA
+D: Okay. When you see her, you're going to say...
+C: BILL
+D: Jo, nice to see you again. I'm sure you know why I'm here today. The truth is, it's time we acknowledge --
+E: very calm, reciting
+C: MELISSA
+D: Both acknowledge...
+C: BILL
+D: Yeah, right, it's time we both acknowledge that our marriage is over. We both need to go on with our lives now.
+E: continuing recitation
+C: MELISSA
+D: Good, good. And...
+E: prompting
+C: BILL
+D: And I want you to see these stipulations and waivers for the divorce, Jo.
+C: MELISSA
+D: And you have your pen ready... Bill pulls his pen out, holding it like a knife.
+C: BILL
+D: It's ready!
+C: MELISSA
+D: And no anger...
+C: BILL
+D: No anger. No.
+C: MELISSA
+D: Good. Want to go over it again?
+C: BILL
+D: No. I got it. I'm ready. I am. I feel good. EXT. THE ROAD AHEAD Drops of water spatter the windshield. The road stretches straight. We're beyond the town, now. Open country. Thunder rumbles. Bill studies the sky.
+E: like a boxer
+C: BILL
+D: Tower building. Nice base forming up. She'll be around here somewhere... As they drive on, Bill looks out the window, scanning.
+C: BILL
+D: There!
+E: CONT'D
+C: IN THE DISTANCE
+D: Across the fields, a STORM CHASE TEAM: four dusty vehicles, parked in disarray along a dirt road.
+C: BILL'S CAR
+D: Guns down the road toward them.
+C: BY THE PARKED CARS
+D: Bill slams on the breaks. As he starts to get out, he takes a LEGAL FILE with black ribbon with him.
+C: MELISSA
+D: I'd like to come with you.
+C: BILL
+D: No, honey, I should do this alone.
+C: MELISSA
+D: I know you'll be great.
+N: She gives him a big, toe-curling kiss. Time stops: there's real passion here. They break. Bill looks into her eyes.
+C: BILL
+D: Thanks. Bill gets out, shuts the door, and walks calmly toward the parked cars, which are old and battered.
+C: THE CHASE TEAM
+D: All young graduate students in their 20s, dressed casually in shorts and T-shirts. Their equipment, like their vehicles, has seen better days. TIMMY lies beneath a pickup truck, working on the suspension; DUSTY sits inside another truck, receiving a fax from a cracked portable machine held together with gaffer's tape; RICK, a doughnut in his mouth, tightens a spindly antenna to the roof of a station wagon; a tangle of wires runs down inside. They look up, smile as they recognize Bill, and greet him warmly.
+C: RICK
+D: Hey, Bill.
+C: BILL
+D: Hi, Ricky. Dusty falls in step with Bill, walking with him.
+C: BILL
+D: Hey, Dusty. How's the old fax?
+E: CONT'D
+C: DUSTY
+D: Holding together. Barely. This an official visit?
+E: sees folder with ribbon
+C: BILL
+D: Just tying up loose ends...
+C: DUSTY
+D: She's having a real bad day.
+C: BILL
+D: Sorry to hear that. Dusty drops back as Bill walks on. Timmy slides out from beneath a truck, wipes greasy hands on a rag.
+C: TIMMY
+D: Ooh boy...
+E: nervous swallow
+C: JO WILDER
+D: She's bent over, working in the trunk of a car. She wears dirty khaki shorts and a faded T-shirt with a rip in it. She yells at her tense assistant, LARRY, as she brings out a big outmoded VHS video camera with a bulky, weatherproof housing, now open. In front of the housing is a rod and marked plastic plate, with crosshairs.
+C: JO
+D: You idiots! ... There's grass in the autofocus mount, that's why it's jammed. Damn it, Larry, didn't you clean it yesterday? Bill arrives. Larry tries to signal this to Jo, whose back is turned.
+C: LARRY
+D: I'm sorry, Jo, but... Jo turns the housing upside down, shakes out grass.
+C: JO
+D: Sorry? What good does sorry do? You jam the driveboard, you blow the photogrammetry to hell, particle velocities aren't worth a damn, vectors cant be read, the sigma-K point's beyond three-SDs, we might as well be out there with a goddamn Brownie! Go seal this now. I don't want to miss the next one for something as stupid as this! She slams the trunk of the car, still furious, then notices Larry's expression. Still angry:
+C: JO
+D: What?!
+E: CONT'D
+C: LARRY
+D: Bill. She turns. She's 35, with a grease smudge on her face, hair in disarray; she'd be pretty if she gave a damn. She looks at Bill as if she'd like to hit him. Larry steps back. Suddenly, to the amusement of all, she puts on a big smile.
+C: JO
+D: Bill! Well... Welcome back.
+E: searching for words
+C: BILL
+D: Hello, Jo. Nice to see you again.
+C: JO
+D: Nice to see you too, Bill. Larry stands there, grinning. In this tense moment, focus turns away from Jo, to him.
+E: notes his manner
+C: LARRY
+D: Hi, Bill.
+C: BILL
+D: Hiya, Larry. How're things?
+C: LARRY
+D: Pretty good. Got a big storm front today.
+C: BILL
+D: Yeah, I'd say. As she speaks, Jo tucks in her T-shirt, tidying up.
+C: JO
+D: Biggest in forty years! We got LP contours, good overhangs, clean updraft arc -- This is it! I'm glad you stopped pouting and decided to come back.
+C: BILL
+D: Pouting?
+C: JO
+D: What would you call it?
+C: BILL
+D: Jo, I'm sure you know why I'm here today. I've come here because because --
+E: gets hold of temper
+C: JO
+D: What's that? Somebody die?
+E: pointing to folder
+C: BILL
+D: I've come here because it's time that we both acknowledge that our marriage is over --
+E: reciting
+C: JO
+D: Yeah, we made a mess. I know.
+C: BILL
+D: And we both need to get on with our lives...
+C: JO
+D: Yes. Right.
+C: BILL
+D: I'm sure you agree.
+C: JO
+D: I do...
+E: amused by his stiffness
+C: BILL
+D: Good. Then I just need your signature on these stipulations and waivers. And then the divorce will be final. Jo abruptly walks away, suddenly busy with her equipment. She moves around the car.
+E: opening folder
+C: JO
+D: I already signed those.
+C: BILL
+D: No, you didn't.
+E: chasing her
+C: JO
+D: Well, I signed something.
+C: BILL
+D: Well, it wasn't these.
+C: JO
+D: Well then, what'd I sign?
+C: BILL
+D: I don't know!
+E: frustrated
+C: JO
+D: Look, do we have to do this now?
+C: BILL
+D: Yes, we do.
+C: JO
+D: Because we have a monster LP cell here, and you and I have a lot of work to do, in fact you could --
+C: BILL
+D: I'm not staying.
+C: JO
+D: Bill, this is the one we've been waiting for! The biggest storm since '49, and --
+E: disbelief
+C: BILL
+D: Jo...
+C: JO
+D: What's the rush? You getting married or something?
+E: joking
+C: BILL
+D: Yes. I am. A dozen emotions cross her face.
+C: JO
+D: Oh. When?
+C: BILL
+D: Next week.
+C: JO
+D: Oh... Okay... She turns away, to hide her feelings. She sees a portable thermal-paper fax machine on the roof of her cat. Like everything else in her team, it's beat-up.. It is printing out an image of he big storm.
+C: JO
+D: I guess you really need the papers signed, then...
+E: CONT'D
+C: BILL
+D: Yeah, I do.
+N: CLOSE ON JO, thinking. Staring at the fax. CLOSE ON THE FAX, spitting out the storm image, on curling paper. Jo turns back to Bill.
+C: JO
+D: Well, sure. Of course I'll sign, Bill.
+C: BILL
+D: You will?
+E: amazed
+C: JO
+D: Of course. What did you think, I'd stand in your way? Who are you marrying? Is that her?
+E: looking
+C: BILL
+D: Yes.
+C: JO
+D: I've got to meet her. What does she do?
+C: BILL
+D: She's a psychologist.
+C: JO
+D: Good! I'm glad you're getting professional help. Jo strides toward the car, where Melissa stands waiting. Bill chases after her.
+C: JO
+D: She doesn't look like a shrink. What's her name?
+E: CONT'D
+C: BILL
+D: Melissa. They've reached the car. Jo reaches out both hands, shakes Melissa's hand vigorously.
+C: JO
+D: Melissa. So nice to meet you. I'm Jo.
+C: MELISSA
+D: Hello...
+E: friendly-cautious
+C: JO
+D: Congratulations on your marriage. I'm sure you'll be very happy.
+C: MELISSA
+D: Thank you...
+C: BILL
+D: Jo... You gonna sign the papers?
+C: JO
+D: Of course. Got a pen? Bill's pen is whipped put so close to her face, she has to pull back. She takes the stack of divorce papers and puts the on the roof of the car, starts to sign. The papers bristle with red tags.
+C: BILL
+D: Where they're marked...
+C: JO
+D: Lots of place... Okay... As she signs, Jo glances at Melissa, the two women appraise each other, beneath superficial smiles.
+C: JO
+D: TO tell you the truth, I'm glad this is happening. It's a relief, it's finally over... Here, too?
+E: CONT'D still signing
+C: BILL
+D: Just initials. Jo continues to sign steadily, one page after another. Bill and Melissa exchange glances -- it's working!
+C: JO
+D: I'm sorry you had to go out of your way for this... Where do you two go from here?
+E: still signing
+C: MELISSA
+D: Phoenix.
+C: JO
+D: What takes you to Phoenix?
+C: MELISSA
+D: That's where we're going to live. Jo is almost at the end of the documents. She comes to the last page, pauses.
+C: JO
+D: Oh... I'd love to hear all your plans. Her pen is poised over the final signature. Bill and Melissa holding their breath.
+C: MELISSA
+D: Well... I'm sure, but you see --
+C: JO
+D: Great! Let's talking about it over lunch! We can finish it all up then. Bill and Melissa just stare. They have no choice. INT. CATTLEMAN'S LOUNGE - DAY A honky-tonk joint but it's the best place to eat in Winslow, Oklahoma. Outside the window, storm clouds are dark. At the table, Jo's elbow leans on the still unsigned documents, pinning them down. Over coffee:
+E: pouncing closes papers
+C: MELISSA
+D: So we'll be down in Phoenix, because Bill is going to work at the television station there.
+C: JO
+D: Television...
+E: impressed
+C: MELISSA
+D: Yes, he'll be reporting on camera. Starting next week.
+C: JO
+D: What will he be reporting?
+E: looking at Bill
+C: BILL
+D: I'll be --
+C: MELISSA
+D: He'll be doing the weather.
+C: JO
+D: Weatherman in Phoenix! Great. Steady work...
+E: sincere
+C: MELISSA
+D: Well, Bill spent so many years teaching meteorology at the university, we thought weatherman's a natural...
+C: JO
+D: Weatherman's a perfect fit for Bill. And what about you, Melissa?
+C: MELISSA
+D: I have my clinical practice. I specialize in the psychological care of people with reproductive difficulties.
+C: JO
+D: Very challenging.
+E: looking at Bill
+C: MELISSA
+D: Yes, it is. I'll be sorry to give it up, but... Bill and I plan to start a family right away.
+C: JO
+D: Wonderful. I'm glad you're going to give him all the things I never could... As she talks, Jo opens the papers to the last page.
+C: MELISSA
+D: Thank you. I appreciate how you're handling this.
+C: JO
+D: Oh, it's time for everybody to move on. What's past is pas.
+E: picks up pen before signing MORE
+C: JO
+D: The only thing I regret is that Bill's leaving. Right at the moment that his research is finally going to pay off.
+E: CONT'D
+C: BILL
+D: I couldn't care less.
+C: JO
+D: There are six hundred tornadoes every year, and they destroy a lot. Mostly her in the farmbelt. I grew up here, and I can tell you -- when you see a farm destroyed, you see a poor family lose everything...
+E: to Melissa
+C: BILL
+D: Jo, don't do this.
+C: MELISSA
+D: But there are warnings, aren't there?
+C: JO
+D: The warning time's too short. These storms are huge -- that front covers a hundred thousand square miles. It'll drop a lot of tornadoes today -- but nobody knows where, because nobody knows what makes a cell drop a tornado in a particular place. We'll never understand the internal structure of a tornado unless we get right inside it.
+E: pointing out the window empathetic
+C: MELISSA
+D: You want to get inside a tornado?
+C: JO
+D: I want to put an instrument package inside is. That was Bill's idea -- to put instruments right in the vortex. EXT. THE RESTAURANT -- BY JO'S PICKUP A tarp pulled down the back of a pickup, revealing THREE WHITE INSTRUMENT PACKS, laid out side by side. They're the size of garbage cans, they bristle with dials and antennas. But they have a distinctly homemade look.
+C: JO
+D: Bill put five years of his life into this... Bill inspects the packs, lifts one out, sets it upright on the ground.
+C: JO
+D: They're designed to be placed in the damage path, so they get sucked up in the funnel, where they break open, releasing a hundred little transmitters... Bill has lifted open the lid of the pack, and we see it is stuffed with multicolored clear plastic balls, each ball containing electronic instrumentation.
+E: CONT'D
+C: JO
+D: ...that measure all parts of the tornado simultanesouly.
+E: CONT'D
+C: BILL
+D: You fixed the multiplexing?
+C: JO
+D: Wider frequency spectrum. And new shear and static sensors.
+C: BILL
+D: Pretty good... Melissa notices Bill's interest.
+E: impressed
+C: JO
+D: We get one of these in the damage path, we'll get a complete vortex profile for the first time in history -- enough to predict where a cloud will drop a tornado. The warning will go from five minutes to fifteen. It'll save hundreds of lives.
+E: to Melissa
+C: MELISSA
+D: But how can you get one of these inside a tornado?
+C: BILL
+D: That's the problem. Nobody's managed to get one in the damage path. Howie Bluestein tried for years.
+C: JO
+D: And Jonas has come close.
+E: meaningfully
+C: BILL
+D: Jonas.
+E: contemptuous
+C: MELISSA
+D: Who's Jonas?
+C: JO
+D: We both used to work for a guy named Jonas Miller. Until he went and --
+C: BILL
+D: Forget it, Jo.
+C: JO
+D: No, this is important --
+C: BILL
+D: Not anymore.
+C: MELISSA
+D: Jonas has packs like this?
+C: JO
+D: Yes, but Jonas's never done it, either. Because you need perfect conditions -- and we have them today.
+E: MORE
+C: JO
+D: The biggest spawning supercell in a half a century. Lifted index minus five -- it'll drop major vortices around here: F-4s, maybe even an F- 5. No one's ever gotten close to an F-5. And lived to tell about it.
+E: CONT'D points to the sky
+C: MELISSA F-5? JO
+D: Fujita scale, zero to five. Bill's one seen an F-3. Bill still examines the pack. Without lookin up:
+C: BILL
+D: Four.
+C: JO
+D: Three.
+C: BILL
+D: It was an F-4 in Ambrose.
+C: JO
+D: And you got pretty close to that one.
+C: BILL
+D: Damn close. I was a hundred yards from the laterals, so close you could -- Then he realizes what he's saying, breaks off.
+E: remembering
+C: JO
+D: Bill's the best vortex trackhound I ever saw. Got an instinct for what they're gonna do. Bills puts the instrument pack back in the truck.
+C: BILL
+D: Sign the papers, Jo.
+C: JO
+D: Okay. I'll take you back to your car, and you can be on your way.
+E: gives up, big sigh
+C: BILL
+D: And sign the papers.
+C: JO
+D: Sure. Let's go. They get into Jo's truck. EXT. DRIVING ON THE ROAD - STORMY DAY All three together in the pickup truck. Uncomfortable silence. Spotter CB radios cackle, talking from all around about the cell and the cap will break. Light rain starts. As she drives, Jo glances up at the sky. Bill does, too. When Jo notices his interest, he ducks back, pretends indifference. Melissa watches this without comment. Now Jo is glancing along the side of the road, as if she's looking for something. She sees a piece of rusty old fender up ahead, smiles to herself. She swerves up ahead, drives right over the metal. There is a loud BANG! and the truck begins to wobble. Jo pulls off the road. EXT. AT THE SIDE OF THE ROAD - LIGHT RAIN They all get out and survey the blowout.
+C: JO
+D: Ah hell. Bill looks under the truck.
+C: BILL
+D: Where's the spare? There's no spare. Bill rolls eyes. Jo ignores the look, goes to the cab, picks up the radio. A pause -- then with a glance over her shoulder, she flips the dial to another frequency, with a taped marker: SCUMBAG.
+C: JO
+D: Dusty? You reading? This is Jo. I've got a blowout on highway 9, four miles north of town. Dusty? Come and get us. We need help. She slams the door in apparent rage, leans against the truck. Looks at Bill.
+E: on CB
+N: Bill just shakes his head at her Their pickup is alone on an empty road. The road stretches away, disappearing in a cloud of fog and rain. Then we hear A DEEP RUMBLING SOUND, from down the road. Bill frowns. Jo turns to look. Melissa comes to stand beside Bill. The sound builds. Lightning cracks down. THEIR VIEW OF THE ROAD -- RAINY DAY From out of the rain at the far end of the road, taking up all lanes, come FOUR SILVER WINDSTAR VANS. Once in the clear, they shift with military precision: two vans move to the front, two stay behind. A moment later, another shift, two dropping back into waiting spaces, so all four are now in single file, boring down the road toward us. It's the Blue Angels, but on the ground.
+C: JO
+D: Ah hell.
+E: CONT'D
+C: MELISSA
+D: Who is that?
+C: BILL
+D: That... is Jonas. The four vans come right up to us, and then pull over at an angle onto the opposite side of the road, one after another, matching angles exactly. Then, in a group, they all back up, swinging around in a 180 so they face outward, ready to go again. The silver vehicles are sleek. Stenciled on the side of each vehicles is NSSL ATMOSPHERIC RESEARCH TEAM. Out of each van, TEAM MEMBERS leap athletically out, in identical crisp clothes -- white T-shirts and black shorts. They stand at attention by the vans. Stepping out of the lead van is JONAS MILLER, 40, bearded, and tough. He wears a bomber jacket and a tie, conveying a vaguely military bearing. The minute Bill sees him he bunches his fists, trying to control himself. Bad blood here. Jonas comes over, all charm and graciousness.
+C: JONAS
+D: Happened to hear your transmission, Jo...
+C: JO
+D: Of course you did, you listen all the time.
+C: JONAS
+D: You look beautiful today. We all really miss you at the lab. Men! Firestone 325! The clock is running! Across the road, the men scramble. Open the back of one van, which contains a complete travelling workshop and repair area. Spare tires, everything.
+E: glances at truck
+C: JONAS
+D: Ma'am. Dr. Jonas Miller, director of the Atmospheric science Lab, Oklahoma Polytechnic University.
+E: CONT'D to Melissa
+C: MELISSA
+D: Melissa Huntley... Jonas gives a charming smile, turns. Now all business.
+C: JONAS
+D: Bill. Thought you might come back sooner or later. No hard feelings. Bill doesn't shake it. His gaze is cold, furious. He forces his hands at his sides.
+E: extends hand
+C: BILL
+D: Yeah, there are. Jonas seems amused by how barely controlled Bill is. Around them, Jonas's men move in balletic coordination, like a pit-stop crew.
+C: JONAS
+D: Twenty-seven seconds! We drill in the off-season for time. I always see that's the difference between professionals and amateurs.
+E: to Jo MORE
+C: JONAS
+D: You're not still angry about that old instrument-pack business are you? After all, it was my lab.
+E: CONT'D back to Bill
+C: BILL
+D: You stole our idea.
+C: JONAS
+D: An idea's not worth much unless you can execute it. You've got to put the pack in the tornado. You're never gonna do it, because you can't. That's a five-hundred-mile dry line running from Kansas to Teas, average duration on the ground two point five minutes -- how're you going to get there, and get a pack in? You can't you've already tried. Bill's furious. Jo's watchful. Jonas's cold, laying out the truth.
+C: JONAS
+D: How many years did you try, Bill? Running around the countryside, never quite doing it... You wasted your chance with the technology, just like you wasted your chance with everything else. We have satellite comlink, we have NEXRAD real time, we have on-board pulsed Doppler, and we're going to get this done. The days of sniffing the dirt are over, Bill. The tire is changed. Jonas's men leap back, at attention.
+E: CONT'D lets it hang
+C: TEAM IN UNISON
+D: Time!
+C: JONAS
+D: Thirty-nine seconds! Nice work! They jog back to the vans. Lightning crackles from the sky. Jonas glances up.
+C: JONAS
+D: Well, nice to see you all again and catch up. You take care out there. It's risky when you're unprepared.
+E: CONT'D MORE
+C: JONAS
+D: Jo, always a pleasure. And he kisses her hand, and heads back to the van. His care are already pulling out in formation. Jonas jumps in lithely in the lead van while its moving. And they all streak off, down the road. Jo swears, and they all get back into the truck, slams doors.
+E: CONT'D turns
+C: JO
+D: You know what this is about? There's a big NSF grant to the first team that gets a package inside a twister. Big grant means big lab, and big lab means big influence over the new storm- warning system. They start down the road.
+C: JO
+D: We get the grant, we'll build the warning system in six months. Jonas gets it, it'll take six years. We want to use the existing network, which is perfectly fine, but Jonas'll start from scratch. His corporate sponsors see this as a two-billion dollar government project. You don't think they contributed those fans vans just for the sake of science, do you? Jonas doesn't care if people die in the meantime. Silence in the truck. Judiciously:
+E: CONT'D
+C: MELISSA
+D: Can you beat him?
+C: JO
+D: I could beat him if I had Bill. All eyes turn to Bill. He shrugs, apparently indifferent.
+C: BILL
+D: Not my problem anymore.
+C: JO
+D: I don't know how you can walk away from this.
+C: BILL
+D: Well I am. BACK AT JO'S TEAM IN THE FIELD - AFTERNOON There is a light rain. Thunder rumbles ominously; the sky is darker, as Jo's pickup pulls up beside Bill's rental car. There is a sense of impending menace -- a tornado anytime now. They all get out. Bill slams the door, furious.
+C: BILL
+D: I knew this was going to happen -- Jo and Melissa get out. Bill is heading for his car.
+C: JO
+D: Just one day. All I'm asking for is one day.
+E: to Melissa
+C: BILL
+D: No, Jo.
+C: JO
+D: I'll sign tomorrow.
+C: BILL
+D: No! That's it! We're leaving!
+C: MELISSA
+D: Now, wait a minute, Bill...
+C: BILL
+D: No. No! They both get in the car, slam doors. Melissa is soothing.
+E: furious
+C: MELISSA
+D: Bill: remember our goal.
+C: BILL
+D: The hell with the goal! I'm not giving in to her! The hell with her!
+E: furious
+C: MELISSA
+D: You're right. You're right.
+E: soothing
+C: BILL
+D: The hell with her!
+C: MELISSA
+D: You're, you're right... But she could tie up this divorce for years. She can put our lives on hold. I don't want to drag this on... And you know it will. Bill is shaking his head no, but he knows it's true. Her arguments are working on him. And, also, he's looking at the sky. The growing supercell.
+C: MELISSA
+D: Honey, stay for a day and get it over with.
+E: CONT'D
+C: BILL
+D: I just want to get rid of her!
+C: MELISSA
+D: I do, too. One day. Do it for us, and we'll be rid of her. We can handle anything for one day. Bill nods, gets out of the car, turns to Jo, holds up one finger pointing to the sky and shouts:
+E: kisses his cheek
+C: BILL
+D: One day! Jo grins.
+C: THE SUPERCELL ABOVE
+D: The roiling supercell makes a HUGE RUMBLING and TWO BOLTS OF LIGHTNING crack down in rapid succession. A reply from the sky. The challenge accepted.
+C: ON THE GROUND
+D: The wind picks up, ruffling the divorce papers in Jo's hand. She clutches them tightly. THE REST OF HER TEAM Looking up at the sky. Sitting in their cars, hearing the CB radio voices, which are getting excited.
+C: RADIO OVER
+D: A tristate tornado alert continues for the rest of the day with four reported sightings from Kansas to as far south as Odessa, Texas. National Weather Service emphasizes that conditions remain extremely dangerous...
+E: etc.
+C: JO TO ONE SIDE
+D: Dusty works with Jo, loading the instrument packs from her truck back into the van. They look at Melissa, standing beside Bill. Obviously in love. Rick crosses, carrying a camera.
+C: RICK
+D: Your mom called, Jo.
+C: JO
+D: Okay... Jo can't take her eyes off Bill.
+E: distracted
+C: DUSTY
+D: Why're you doing this, Jo? Let him go.
+C: JO
+D: All I want is an instrument reading.
+C: DUSTY
+D: Uh-huh...
+C: JO
+D: Hey. Bill places the instruments, we get our readings, and he's out of here. Everybody's happy. Okay?
+C: DUSTY
+D: Okay, Jo...
+E: not believing
+C: MELISSA AND BILL
+D: A nearby RINGING of a phone. Bill pays no attention. He's preoccupied, looking at the sky. Melissa looks over, opens the car doo, sits in the front seat, opens her purse. She takes out a phone.
+C: MELISSA
+D: Dr. Huntley. Yes, well, I'm off duty right now... Uh-huh... Well, if it's that serious, all right, put her on... I thought she was going to start Clomed next month. Melissa sees everybody begin to shout, and start running toward their cars.
+C: MELISSA
+D: What's happening?
+E: CONT'D hand over phone
+C: RICK AT CAR
+D: With the door open, he sits, listens to a radio, headset to his ear.
+C: RICK
+D: Tornado! On the ground! It's on the ground! Looks like five miles west near R forty-five...
+C: BILL
+D: He squints as he sees: A TORNADO - AFTERNOON A long, narrow funnel has dropped down from the black sky, several miles away. It is everyone's image of a tornado: narrow, classic funnel, pale gray color, touching the ground with a fine tip. Seen from a distance, it is graceful, mysterious, and makes us want to see more.
+C: MELISSA
+D: She stares, mesmerized.
+C: JO
+D: Jumps in her truck, turns on the ignition. TIMMY IN THE STATION WAGON As he starts the engine, Rick leaps in. Dusty in another truck. All the cars getting ready to peel out. DUSTY DRIVING OVER TO MELISSA He reaches out, hands her a radio.
+C: DUSTY
+D: Follow us. Stay two miles behind. Still on the phone, Melissa slides behind the steering wheel, starts the engine.
+C: MELISSA
+D: Uh, something's come up, I got to call back...
+E: on phone
+C: JO'S TRUCK
+D: As Bill opens the driver's door. She smiles.
+C: BILL
+D: Move over. He half pushes her to the passenger side, gets in, slams the door, guns the engine.
+C: JO
+D: You're so butch. Bill floors it. All around them, cars are driving off, squealing tires, plumes of dust. A scene of frantic chaos.
+C: MELISSA
+D: Waving as Bill drives off. Then, worried, she starts after them.
+C: IN JO'S TRUCK
+D: Jo looks back. In a voice imitating a newscaster:
+C: JO
+D: Well, the weekend weather here in Phoenix is going to be gorgeous! Get zinc on that nose! Get some umbrella drinks! Here are the numbers, a high of a hundred and seventeen, a low of a hundred and one, and of course zero percent relative humidity! Perfect! As they drive, we barely hear superimposed the weather service announcing a tornado warning, and the constant crackle of CB voices, intense, active, everybody trying to get to the tornado. EXT. THE TRUCK ON THE ROAD Bill races at eighty, toward pitch-black skies.
+E: CONT'D We always hear this whenever we chase.
+N: Cars come in the opposite direction, their drivers glancing over their shoulders, veering toward Bill. He swerves, dodges.
+C: IN JO'S TRUCK
+D: Jo is looking at Bill as he drives.
+C: JO
+D: The subtropical moisture moving in from Texas is causing some thunderstorms in the central United States but as usual, absolutely nothing her in the skies over Phoenix. We might even pop a hundred and twenty today, so it's a fabulous day to stay inside a dark room with your air conditioner on full!
+C: DUSTY
+D: Jo? Over.
+E: on CB
+C: JO
+D: You stay in Phoenix, Melissa's pretty skin is going to look like an ostrich wallet.
+E: serious now
+C: DUSTY
+D: Jo, it's Dusty, over.
+E: on CB
+C: JO
+D: Weatherman? Are you kidding me?
+C: DUSTY
+D: Jo, over.
+E: on CB
+C: BILL
+D: Are you going to talk to Dusty? Jo picks up the CB mike.
+E: trying to keep his temper
+C: JO
+D: Here, Dusty.
+E: to CB
+C: DUSTY
+D: We're on highway 40 going south. Where are you?
+E: on CB
+C: JO
+D: Where are we? I don't know, wait a minute. She looks at a map. Bill takes the CB mike as he drives.
+C: BILL
+D: Dusty, we're on 424 going east.
+C: JO
+D: West.
+C: BILL
+D: East!
+C: JO
+D: No, Bill, it's --
+C: BILL
+D: East! Read the map! You still can't read a map.
+C: JO
+D: I can read a goddamn map! Maybe northeast...
+E: furious, looks at map
+C: BILL
+D: East!
+C: JO
+D: Okay... Why are we fighting. Look, it's only for a day. Let's try to get along.
+E: sigh
+C: BILL
+D: Fine with me. She looks at him, offers her hand. He reaches over and shakes it.
+C: JO
+D: Friends?
+C: BILL
+D: Friends.
+C: JO
+D: Good. I'm glad. They both stare at the road.
+C: JO
+D: Because I've been thinking about our marriage, Bill. And the truth is, it wasn't all your fault.
+E: CONT'D
+C: BILL
+D: All my fault --
+C: JO
+D: You weren't great. And, I wasn't a perfect wife. I admit it.
+C: BILL
+D: You weren't a wife at all!
+C: JO
+D: Look: everything would have been fine, except you had a problem with my career.
+E: tighter
+C: BILL
+D: Your career? It had nothing to do with your career.
+C: JO
+D: I don't know what else to call it --
+C: BILL
+D: We were going to buy a house, and you took the down payment and spent it on a new Doppler radar --
+C: JO
+D: Because we needed a new Doppler, ours was outmoded, even you said so --
+C: BILL
+D: But that money was for our house!
+C: JO
+D: Bill: I'm sorry, but a house just didn't that important.
+C: BILL
+D: I know!
+C: JO
+D: Well, it didn't!
+C: BILL
+D: I know! That's the problem! It wasn't a relationship! You just did whatever you wanted you wanted to do!
+C: JO
+D: This is ridiculous. Bill is looking across the field, at the tornado.
+E: throwing hands up
+C: BILL
+D: That's right.
+E: no longer listening
+C: THE TORNADO
+D: Churning in the distance.
+C: BACK IN THE TRUCK
+D: As they chase it, hearing the mixes voices on the CB.
+C: VOICE ONE
+D: It's an F-1 going west, vortex looks fifty meters in diameter.
+E: on CB crackle
+C: VOICE TWO
+D: -- route 424, we're miles from it. Is it turning?
+E: on CB
+C: DUSTY
+D: Looks like it's crossing the road about five miles from here, going --
+E: on CB crackle
+C: JO
+D: Say again, Dusty?
+E: grabbing mike back
+C: DUSTY
+D: Going east...
+E: on CB
+C: JO
+D: East. Hey! Bill steps on the gas.
+C: THE TORNADO
+D: It's closer, a mile ahead on their left, moving over a flat alfalfa field. It's running parallel to the road. We can see where the funnel touches the ground, swirling up dust powerfully. We heard the DEEP RUMBLING ROAR that sounds like an express train.
+C: BACK INSIDE THE TRUCK
+D: They stare in silence as the drive.
+C: THE TORNADO
+D: It's still ahead of us, approaching a barn near the side of the highway. It HITS THE BARN -- THE TIMBERS BLOW APART like pick up sticks.
+C: BACK IN THE TRUCK
+D: They swerve to avoid timbers lying on the road, and keep going. They are pulling alongside the tornado, then ahead of it.
+C: JO
+D: You have to get farther ahead.
+E: CONT'D
+C: BILL
+D: I know it. Soon he's about a half miles ahead of the tornado, which we now see out the back window.
+C: JO
+D: You're going to have to go into the field.
+C: BILL
+D: I'm trying. He's going ninety down the road, and he has to pull left into the field to intercept it. There's a sloping grass embankment, leading down to a four-foot wide irrigation ditch running parallel to the road.
+E: scanning roadside
+C: JO
+D: Go down here. Now. Now!
+C: BILL
+D: Wait a minute, just wait a minute...
+C: JO
+D: Lost your nerve? That's it. Bill swerves left, the truck tilts onto the embankment, it's hairy at a hundred miles an hour, then he drops into the ditch. Feeling his way, the truck roaring along. He's in the ditch. The truck vibrating like a washboard. He get his left wheels up, out of the ditch. Jo looks back at the tornado, now behind them and about a half mile across the field. She swings forward.
+C: JO
+D: Come on, let's go. Bill's having trouble controlling the truck in the ditch at this speed. The steering wheel shakes like a jackhammer. The truck swerves, and then both wheels are back inside the ditch.
+E: CONT'D
+C: JO
+D: Bill...
+E: CONT'D
+C: BILL
+D: I'm trying. Half a mile ahead, a concrete irrigation crossing blocks the ditch. They're roaring right toward it. Bill jerks the wheel left, trying to jump the wheels out of the ditch. But the ditch is getting deeper. Soon its almost three feet deep. He can't possibly get the truck out now. The concrete bridge rushes closer.
+C: BILL
+D: This was a good idea.. There's only one thing to do. He slams on the brakes, the truck fishtails, the dust and chunks of dried mud fly, the truck squeals and races forward to the bridge... And stops, twenty feet before decapitation. They both jump out of the truck. Jo goes to get the instrument pack.
+E: CONT'D sarcastic
+C: BILL
+D: Jo! He grabs her and they run for cover.
+E: CONT'D
+N: BENEATH THE IRRIGATION DITCH COVER They're squeezed together, huddled inside the covered drainage ditch overpass. Turning back, they can see their truck, the wheels and headlights. Jo stares at the landscape beyond. The tall grasses on the embankment whip, wilder and wilder, and then finally flatten. The roar of the tornado increases in fury, building unbelievably. The truck begins to shiver.
+C: BILL
+D: Get back. He pulls her deeper into the hole. She shakes him off, annoyed.
+E: CONT'D
+C: JO
+D: I know what I'm doing.
+C: JO'S TRUCK
+D: Suddenly it speeds forward as if shoved by a giant hand, and it slams into the embankment, crumpled bumper inches from their faces. And in the next moment, the truck is gone. They are staring at an empty irrigation ditch.
+C: MELISSA DRIVING
+D: Looking forward, worried, trying to find Bill. On the road beside her, the truck falls out of the sky, smashing down and falling apart.
+C: MELISSA
+D: Bill! She stops, jumps out of her car, runs to the wreckage.
+E: screaming
+C: MELISSA
+D: Bill! Oh, Bill...
+E: CONT'D
+C: BILL
+D: What?! She turns. Bill and Jo and running flat-out up the embankment, toward her. Jo clutching the pack.
+C: MELISSA
+D: Bill!
+C: BILL
+D: I'm fine! Get in the car! He signals her to go to the passenger seat. He jumps in behind the wheel. Bill guns the car, Jo climbs in the backseat. Jo is concerned about the pack, is checking it carefully.
+C: MELISSA
+D: Bill, I thought you were dead, that was the just the most awful feeling, Bill...
+C: BILL
+D: Sorry, honey. It's fine.
+E: full of adrenaline, focused
+C: JO
+D: Everything is fine! Gamma V is twelve and holding! Go!
+E: referring to the pack
+C: ON THE ROADWAY ABOVE
+D: Jonas's sleek convoy rushes past, pursuing the tornado. They swerve around the wreckage and the parked car as if they weren't there.
+C: JO
+D: Shit! Melissa stares. Bill floors it.
+E: CONT'D
+C: THE TORNADO AHEAD
+D: Still moving parallel to the road, it's now about a mile ahead of them.
+C: WIDE ON THE CAR
+D: As it chases the tornado. Ahead in the distance are Jonas's vans. INT. JONAS'S VAN In the lead van, Jonas wears a headset, sits with a monitor in the dashboard. He looks from the monitor to the tornado and back again. ON THE MONITOR, the tornado is shown in false colors, swirling. Little vector arrows flash, data overlaid on the image.
+C: JONAS
+D: We got a DD oh four on this? The column's starting to look unstable. Is the path moving, or do we have asymmetry?
+C: IN THE SECOND VAN
+D: Windowless, low light, crammed with electronics. TWO AIDES work among the monitors, which are analyzing the satellite imagery, local video imagery, laying out damage paths, calculating wind velocities.
+C: AIDE ONE
+D: Dr. Miller, NEXRAD calls it firm. The 700 jet max is stable. That path should hold.
+C: JONAS
+D: Okay, let's go for it.
+C: AIDE TWO
+D: Ready, Dr. Miller. They get out their version of the instrument packs: black and chrome, ultra-high-tech, glowing with dials and lights, clearly expensive and sophisticated.
+C: BACK IN JONAS'S CAB
+D: Jonas sits forward, facing the tornado ahead.
+C: DRIVER
+D: Jonas, we got fleas. Jonas looks in the side mirror. Behind them, he sees Bill's car trying to catch up. Jonas gives a dismissing wave. Forget it. INT. BILL'S CAR He's catching up to Jonas. Radio voices. But he's frowning, looking at the tornado. He seems worried.
+C: BILL
+D: I don't like this...
+C: JO
+D: Just go! He pulls out to pass the vans. Water spray from the vans hits the windshield. Everybody's going a hundred.
+C: THE ROAD
+D: They are running parallel, Bill passes one van after another.
+C: JONAS'S VAN DRIVER
+D: Jonas? Look at this. Jonas looks over. Bill's car is now neck and neck. Jo looks out her window and smiles at Jonas. She raises both hands in fists, and then flips the double bird
+C: JONAS
+D: She's got a lot of spirit, doesn't she?
+E: amused
+N: Abruptly, Bill's car loses speed, and drops back abruptly. Jo looks stricken, turns away from the window. Jonas and driver watch in the rearview mirrors. Bill's car fall back, then makes a U-turn, goes the other way.
+C: DRIVER
+D: They're turning around.
+C: JONAS
+D: Probably forgot something
+C: IN BILL'S CAR
+D: Jo's furious.
+C: JO
+D: What the hell are you doing?
+C: BILL
+D: The midlevel's disorganized. It's gonna shift its track.
+C: JO
+D: Jonas doesn't think so.
+C: BILL
+D: Jonas has no instincts.
+C: JO
+D: Yeah, but he's direct-linked to the storm center, Bill. And he's going for it.
+C: BILL
+D: Look at the column. Look at the angle. Look at it! Jo looks, studies it, frowns.
+C: JO
+D: Maybe... You think it's --
+C: BILL
+D: Yeah. I do.
+C: MELISSA
+D: What?
+C: JO
+D: It's gonna turn.
+C: BILL
+D: Wasn't there a road back here...
+C: JO
+D: Yeah, there was...
+C: BILL
+D: There! THE FARM FIELD TO THEIR RIGHT A dirt road goes straightaway from the highway. Bill turns onto it, the car bouncing on the rougher road.
+C: GOING DOWN THE ROAD
+D: The tornado is diminishing, off to their right. Still going away from us. We no longer really feel its power. The phone rings. Melissa answers it.
+C: MELISSA
+D: Dr. Huntley. No, I'm off duty -- well, if it's really an emergency. This'll be quick. Louise? Now, honey, just calm down. There's nothing to cry about. Louise: didn't we already talk about the penis issue?... Looks to me like it's still going the other way.
+E: covers phone with hand into phone covers phone
+C: BILL
+D: Wait.
+C: THE TORNADO
+D: Rumbling, churning up the dirt of the field. It's going right for a farmhouse, some distance back from the road. THE TORNADO ON A COMPUTER SCREEN In false colors. Jonas is looking at the monitor.
+C: JONAS
+D: Looking good, looking very good...
+C: THE TORNADO
+D: It doesn't hit the farm house, but veers off to the left. It makes a slow curve, turning away from the road.
+C: DRIVER
+D: Uh, Jonas.... Jonas looks up from his monitor, sees the tornado going away.
+C: JONAS
+D: No! No! He looks back over his shoulder and sees the tiny shape of Bill's car, driving across the field.
+C: JONAS
+D: He's in position to intercept. INT. BILL'S CAR As they drive, Melissa is bent over, head down, concentrating on her call. Trying to block out all the radio sounds in the car.
+E: CONT'D
+C: MELISSA
+D: Yes, it is unnatural... but we don't have a choice here, with his motility, a penis is just not gonna do the job. Why are you crying? How much progesterone have you have today? Let's face reality here. As she speaks, she looks up, sees the tornado.
+C: THE TORNADO
+D: Rumbling, much closer now. Looking powerful and churning, a primordial force. It is much more frightening up close.
+C: INSIDE THE CAR
+D: Melissa gets off fast:
+C: MELISSA
+D: Louise? I'll call you back. Hangs up. Car is filled with a mixture of excited radio voices.
+E: CONT'D
+C: VOICE ONE
+D: East southwest, shifting due south -- it's going south! Estimate Fujita two, large wedge on the ground, and it's very unstable...
+E: on CB
+C: DUSTY
+D: Jo, it's looking really unstable.
+E: on CB
+C: JO
+D: Yeah, we can see it. They drive beneath the inky black cloud. The tornado spinning toward them. Farmland, flat.
+E: on CB
+C: VOICE ONE
+D: Wedge is eighty meters on the ground, lateral columns unstable... Melissa finally realizes it's coming toward them.
+E: on CB
+C: MELISSA
+D: Oh my God... Out the window, lightning cracks down. The storm gains power. They are closing in on the tornado
+C: OUTSIDE THE CAR
+D: Rocketing toward the tornado at ninety miles an hour, we hear a melange of tense voices over.
+C: VOICE ONE
+D: Rapid condensation! It's happening! Rapid condensation!
+E: on CB
+C: VOICE TWO
+D: Very large Dust picking up on the front leading wedge! I have upflow!
+E: on CB crackle
+C: BACK IN THE CAR
+D: A conversation against a constant radio chatter. Melissa stares at the tornado. She rubs her hands on her knees.
+C: MELISSA
+D: Are we going to be okay?
+E: tense
+C: BILL
+D: Sure. We know what we're doing. The car driving at eighty miles an hour toward the tornado.
+C: JO
+D: Yeah, we've never had a problem... Except for, well, there was Ted.
+C: BILL
+D: Ted was a jerk.
+C: JO
+D: What happened was his own fault.
+C: MELISSA
+D: What happened?
+C: JO
+D: He ran out of gas. And got tossed. She cranes her neck over, looks at the gas gauge.
+C: MELISSA
+D: Tossed? The question hangs in the air. The car drives forward, toward the tornado. No one answers her.
+C: BILL
+D: He pushed too hard.
+C: VOICE THREE
+D: Doppler estimate winds at one hundred eighty miles an hour, so stay back...
+E: on CB
+C: MELISSA
+D: Listen, uh...
+E: having doubts
+C: BILL
+D: Sounds like an F-2 or --
+E: to Jo
+C: JO
+D: Maybe F-3. What do you figure, another minute?
+E: turning on the instrument pack
+C: BILL
+D: Yeah. Here's rain. Rain spatters the windshield. Bill turns on the wipers.
+C: BILL
+D: First you see rain, maybe hail. Then the wind picks up. Then you see debris in the air, and you know you're close. Melissa is squeezing her knees so tight her fingers are white. She is trying to keep it together, and asks as calmly as she can:
+E: CONT'D explaining to Melissa
+C: MELISSA
+D: When do you know you're too close? The tornado is off to the right, on Melissa's side, dark and swirling fast. Melissa stares in horror.
+C: MELISSA
+D: I'm getting a really bad feeling here... You're gonna have to stop... Bill doesn't her, he's squinting at the tornado with a professional eye. He's totally focused now: this close, it's dangerous. Melissa is tense. Her phone rings again. She snatches it up furiously.
+E: CONT'D
+C: MELISSA
+D: What! What's it about!
+E: CONT'D edgy MORE
+C: MELISSA
+D: Look: I don't care if he doesn't like boxer shorts, you tell him that those tight little bunhuggers are cooking his balls like a baked potato. Tell him! Hangs up. Fumbling with the phone, so nervous, she can't turn it off properly. The tornado is now developing a distinct sharp W-bend, a kink in the funnel.
+E: CONT'D
+C: BILL
+D: We got helical procession...
+E: worries
+C: JO
+D: Let's go anyway.
+C: MELISSA
+D: Let's not. This seems very unwise...
+C: BILL
+D: The vortex is breaking down. We may get multiples.
+C: MELISSA
+D: Multiples?
+C: JO
+D: Or we may not.
+E: looking up
+C: BILL
+D: Jo... You're pushing.
+E: dead serious
+C: JO
+D: Do it! A SECOND TORNADO FUNNELS DOWN on their left, touches ground on the other side of the road. There're tornadoes now out both windows.
+C: JO
+D: Yes! A carousel!
+E: CONT'D gleeful
+C: BILL
+D: We're getting out.
+N: Thick dust everywhere. A few yards ahead of them, a COW FLIES SIDEWAYS across the road, literally carried through the air four feet above the ground, blown to the left by the tornado.
+C: DUSTY
+D: Jo? Get out of there. You're going right into a big suction vortex and you can't see it.
+E: on CB
+C: MELISSA
+D: Oh my God we're gonna die! Bill! From the left, out of the other tornado, THE COW COMES FLYING BACK the other way, and Bill swerves to miss it, brakes squealing, and the cow is blown in the field to the right, instantly gone. Directly ahead, A THIRD VORTEX spirals down, 100 yards from them. It's lacy, almost see-through... And Bill immediately turns away, but the wind spins their car 180 degrees, it's lifted and swung around like an amusement- park ride, and Melissa screams -- she just loses it, throws her hands over her face -- as Bill struggles for control, the car sliding wildly in his hands, as if it's on ice. The are enveloped in dust. Suddenly there is a loud whump! and the two tornadoes suck up back into the clouds above. And then whump! the third goes. Abruptly, it's over: the car is driving on an empty road. Clear air between the black clouds overhead and the ground. The CB squawkers very active. Bill now driving in calm. He immediately puts his arm around Melissa.
+C: BILL
+D: Everything's fine. Are you okay, honey?
+C: MELISSA
+D: What happened?
+E: stunned, shaky
+C: BILL
+D: Multiple vortices are unstable. Everything's fine now... Jo watches this. She turns off the power on the pack beside her. Suddenly:
+E: kisses her forehead
+C: MELISSA
+D: Stop the car! Bill pulls over, and she flings open the door, leans out, and throws up. As she retches, Jo smiles slightly. Bill sees it, gets out of the car. EXT. THE CAR - DESERTED FIELD Melissa is walking away. Bill goes over to her, hugs her. Jo watches from inside the car. As Bill hugs her, he looks up at the sky.
+C: THE SUPERCELL ABOVE HIM
+D: It rumbles, and flashes with inner lightning. It might be laughing at him. He lost this round. EXT. ROADSIDE TRUCK STOP - AFTERNOON The sky is turning pink and gold as Jo's team pulls over to the side of the road. They all get out. Melissa gets out on her side of the car, and Jo gets out of the backseat.
+C: MELISSA AT THE DOOR
+D: She closes her door, looks stunned. Puncturing the metal side of her door is a delicate twig, with leaves at the end. It's slammed into the door like a missile. Jo pulls the twig out.
+C: JO
+D: I'm thirsty. Melissa looks at the punctured door and shudders. AT THE TRUCK STOP - LATER Jo's team parked in sunlight, with dark skies behind them. Larry on the telephone. Faxes coming in to Tim in one vehicle. Over by the soft-drink machine, Melissa and Jo are talking. Bill and Dusty carry the instrument pack from the sedan to the pickup. They strap the pack down in the back of the pickup; Bill glances toward the two women.
+C: DUSTY
+D: Is Melissa okay?
+C: BILL
+D: Yeah, sure.
+C: DUSTY
+D: On the radio, she sounded pretty upset.
+C: BILL
+D: I think she's okay.
+E: squinting
+C: JO AND MELISSA TALKING
+D: By the Coke machine. Jo gives Melissa a coke. Melissa's hand trembles as she takes it.
+C: JO
+D: The first time you see one of these things, it can be pretty upsetting. I grew up around here, so I've seen a lot of 'em. Melissa just looks at her.
+E: sits beside her
+C: JO
+D: Every spring, the start up. You get used to 'em after a while.
+E: CONT'D
+C: MELISSA
+D: I don't think so....
+C: JO
+D: First one I ever saw, was in first grade. We all had to go into the school hallway and lie down, holding hands. It blew all the windows out. And our teacher peed in her pants. Don't be embarrassed, it's normal to be scared.
+C: MELISSA
+D: I'm not embarrassed...
+C: JO
+D: Good.
+C: MELISSA
+D: Why should I be embarrassed?
+E: getting offended
+C: JO
+D: You shouldn't be, that's what I'm saying.
+C: MELISSA
+D: Well, I'm not.
+C: JO
+D: It takes a special kind of person to do this.
+C: MELISSA
+D: That's clear...
+E: not saying all she could
+C: JO
+D: You can see how much Bill loves it. He doesn't even think about it, he just goes --
+E: continuing her thoughts
+C: MELISSA
+D: Look, let's get one thing straight. The only reason we're here is to get that paper signed.
+C: JO
+D: You think if I sign that paper, he'll just walk away from here?
+C: MELISSA
+D: Yes, I do.
+C: JO
+D: It's not that simple.
+C: MELISSA
+D: Why don't you sign the paper, and we'll find out.
+C: JO
+D: Let me tell you something about Bill. He's not going to be able to walk away from this storm. I know him.
+C: MELISSA
+D: You used to know him.
+C: JO
+D: If you make him leave now, it'll always be unfinished business in your life. Because he doesn't want to leave.
+C: MELISSA
+D: Then sign. And we'll see if he wants to leave.
+C: JO
+D: It's about the papers --
+C: MELISSA
+D: Yes it is. You just won't admit it. Your relationship's over and you can't accept that he loves somebody else now. So you refuse to sign. Classic.
+C: JO
+D: Save it for your patients.
+C: MELISSA
+D: He doesn't care anymore. Melissa swigs Coke, looks at Jo with barely concealed contempt. As if she's tired of this game.
+C: MELISSA
+D: If you're so sure of yourself, then sign. Jo stares at Melissa. The two women stare each other down.
+E: CONT'D
+C: JO
+D: Maybe I will. Jo gets up, walks away. She looks over at Bill, standing to one side, watching the storm with Dusty. Jo squints. Then she turns away. AT THE SIDE OF THE TRUCK STOP Jo on the pay phone, making a call. In the background, a flatbed truck brings in Jo's wrecked car.
+C: JO
+D: Mom? Hi, it's me. We're fine... In Seward. Yes, it's only twenty miles, but -- you sure it's not too much trouble? Dinner would be great, Mom. The guys'd love it. oh, Bill's here, too. Uh-huh. Well. I don't know, it's complicated. He's uh, kinda got somebody with him. No, uh, I think we gotta bring her. Okay, see you soon. She hangs up. Walks over to the car. Where the team is stripping out the scanner, seeing if it still works.
+E: CONT'D
+C: JO
+D: Hey guys, steak tonight!
+E: CONT'D
+C: RICK
+D: All right! Real food! You think it's a good idea?
+E: lower
+C: JO
+D: I think it's a great idea. Jo glances back at Melissa, then:
+C: JO
+D: Now, who's gonna rent a car? The team in unison turns away from her.
+E: CONT'D
+C: TEAM
+D: Aw, Jo.
+E: etc.
+C: JO
+D: Who hasn't done it yet? Larry? Larry, let's go. INT. RENTAL CAR AGENCY - AFTERNOON A stern-looking rental agent fills out the forms.
+E: choosing
+C: AGENT
+D: How long will you be keeping the car?
+C: LARRY
+D: Uh... a day.
+E: very tense
+C: AGENT
+D: And will you be taking our added collision and damage coverage?
+C: LARRY
+D: Yes.
+C: AGENT
+D: Is that the two-hundred-fifty- dollar deductible or do you want --
+C: LARRY
+D: I want all the coverage. All the coverage. Everything you got.
+S: EXT. RENTAL AGENCY - AFTERNOON
+N: As Jo gets behind the wheel of a new pickup, squeals out in a cloud of dust, goes down the road.
+S: INT. SEVERE STORM CENTER LAB - AFTERNOON
+N: Beneath fluorescent lights, intense activity, people hurrying, scientists at monitors. Move past big swirling images of the storm front, which covers several midwestern states. A scientist talks on the phone.
+C: FIRST SCIENTIST
+D: We've got tristate watch advisories from Texas to Kansas, the jet max is still above three hundred millibars and we should see more tornado activity in all three sectors... Conditions remain very hazardous going into the night...
+C: SECOND SCIENTIST
+D: Jonas for you on two...
+C: FIRST SCIENTIST
+D: Yeah, Jonas. You're where? As he listens, he moves his cursor over the huge cloud front. He clicks near the center of the cloud. A little tag onscreen: JONAS MILLER. He punches buttons, and the storm colors change to artificial reds and blues and greens.
+E: punches button
+C: FIRST SCIENTIST
+D: I'm looking at the radar now. I've got no TVCs at the moment but they seem to be developing all around you... Yeah... Watch yourself out there, Jonas. WIDE ON TRUCK STOP - AFTERNOON In a cloud of dust, Jonas and his team pull in, parking their vans in formation side by side. Jonas gets out, acts concerned.
+E: CONT'D
+C: JONAS
+D: You okay in that last one, Joe?
+C: JO
+D: Yeah, it was nothing. Dropped a pair of sisters and roped out.
+C: JONAS
+D: The core was weak on Doppler. That's why we didn't chase it.
+E: nodding
+C: JO
+D: Uh-huh. Well, we have to try harder.
+C: JONAS
+D: I'm just glad you're all right. His tone says: You were a fool to chase it. Jo doesn't answer. Jonas looks judiciously at the sky.
+C: JONAS
+D: Well... looks like we'll get more touchdowns before the day is over. NSSL's got mesocyclones near the Kansas border, and more in the south, too. Hard to know which direction to head.
+E: CONT'D
+C: JO
+D: Uh-huh... So: which way you going to head, Jonas?
+C: JONAS
+D: I'm going to have a cup of coffee and consider the data. Watch the cars, Eddie. Still smiling, Jonas goes into the truck stop with his crew.
+E: smiling turns to one of his team
+C: JO
+D: That son of a bitch is going to wait to see what Bill does. THEIR POV - BILL Standing with Dusty, staring at the sky, hands in his pockets. Kicking the dirt, watching the wind puff it. Staring up again. INT. THE CAFE Jonas and his team slide into a Naugahyde booth. Everybody pops open their laptops in front of them: pow-pow-pow! It's an IBM convention. Then they turn
+N: BACK TO JO AND TIMMY Jo sees Jonas and his boys, sitting in a booth, staring out at Bill.
+C: JO
+D: What a bunch of vultures. Jo takes out a pack of gum, unwraps a stick, offers some to Timmy, who shakes his head.
+C: TIMMY
+D: You really think Jonas'll just wait and follow us?
+C: JO
+D: No law against it. Jo unwraps another piece of gum, and pops it in her mouth. Timmy looks as she takes out a third stick of gum, chews it too. Her mouth is now a little bulging. Timmy looks bewildered.
+C: JO
+D: Would you excuse me? She strides past Melissa, who stands to one side, talking on her cellular phone.
+E: CONT'D
+C: MELISSA
+D: Yes, I understand it's a problem... Well, we just have to get through these bad days... BY JONAS'S VANS - AFTERNOON As Jo comes up, chewing, EDDIE, a fresh-faced college boy, stands by the van, looking up at the big thunderhead.
+C: JO
+D: Hey, Eddie.
+C: EDDIE
+D: Hiya, Jo.
+C: JO
+D: Hell of a cloud.
+C: EDDIE
+D: Yeah, sure it... What're you doing here, Jo?
+E: as Jo comes closer
+N: Jo casually leans back against the van on the driver's side, standing beside Eddie.
+C: JO
+D: Oh, I'd just like to look at your new FA scanner.
+C: EDDIE
+D: You know I can't show you that, Jo. Jonas'd kill me.
+C: JO
+D: Yeah, he would. Want some gum?
+C: EDDIE
+D: Sure. As he opens the gum, Jo turns her attention skyward, to the thunderhead.
+C: JO
+D: I think we're getting a bigger anvil. The dry line may be widening.
+C: EDDIE
+D: Yeah. It looks like we're getting more updraft.
+C: JO
+D: No beavertail yet.
+C: EDDIE
+D: I was wondering that could be one starting there.
+E: pointing
+C: JO
+D: Where? As they talk, her hand slips inside the open driver's window.
+C: EDDIE
+D: There. See along there? Maybe some early striations...
+C: JO
+D: I think you're right. That could very well be the start of a beavertail.
+C: EDDIE
+D: That's what I think, yes.
+C: JO
+D: Then that cloud could be dropping a tornado any minute now.
+C: EDDIE
+D: I don't think so, Jo.
+C: JO
+D: Why not?
+C: EDDIE
+D: 'Cause you're standing here like nothing was happening.
+C: JO
+D: Not for long Eddie. You ever want a decent job, come an see me. Jo heads across the parking lot, to where Bill stands with Dusty. BILL AND DUSTY - AFTERNOON Backs to us, they stare at the gigantic thunderhead rising five miles into the sky, beautiful in the afternoon light. They are dwarfed by the huge cloud formation as they study it.
+E: punches his shoulder walking away
+C: BILL
+D: Wind's dropped.
+C: DUSTY
+D: Yeah. Lightning crackles down from the base of the cloud. INT. THE CAFE - AFTERNOON CLOSE ON A COMPUTER SCREEN showing overlapping windows: Doppler radar in false colors, millibar contour diagrams, velocity fields, etc. These are abstractions of the storm outside.
+C: JONAS
+D: Looks like rapid gusts fronting away from the main updraft. You got this curve at three hundred millibars where the low-level vorticity isn't exceeding point oh two.
+N: WIDEN to see Jonas and his team ignore the sky and looking at screens on a table cluttered with coffee cups and portable computers, cellular modems, and cellular faxes.
+C: JONAS
+D: The meso is never going to develop this low, but... do we have any data higher up? Find me some data on what's happening at higher levels... EXT. HIGH LEVELS OF THE STORM CLOUD - AFTERNOON The thunderhead roiling, an anvil cloud cutting horizontally. Thunder rumbles. PAN DOWN the giant cloud to Bill and Dusty, their backs to us, still watching the sky. The cloud is now a distinct purple-green.
+E: CONT'D aides shuffling papers
+C: BILL
+D: Going green.
+C: DUSTY
+D: Yeah. Bill holds out his hand. Dusty drops the car keys into it. They continue to stare up.
+C: BACK INSIDE THE CAFE
+D: Jonas and his team nose to nose with their screens.
+C: JONAS
+D: In the absence of a mechanism to generate low-level rotation, I don't think we'll have a tornado, no --
+C: ANOTHER AIDE
+D: Hey, Jonas, look! They turn to look out the window -- where they see Jo and her team climbing into their vehicles, getting ready to pull out of the parking lot. Melissa is still talking on her cellular phone, Dusty grabs her and pulls her into his car. The booth empties as Jonas and his team clamber over each other and rush outside. EXT. THE TRUCK STOP - AFTERNOON As Jonas and his team come out. The sun is setting, everything is red around the ugly purple-green cloud. They are just in time to see Jo's vehicles pulling away.
+C: JONAS
+D: Go! His team sprints for their cars. Jonas gets in the passenger side of the van; Eddie is driving. INT. JONAS'S VAN Jonas stares down the highway, focused only on the departing cars. Eddie's putting the key in the ignition.
+C: JONAS
+D: Move it, Eddie!
+C: EDDIE
+D: What the... Eddie bends around the wheel to look. The steering wheel has A HUGE GOB OF GUM COVERING THE IGNITION stuck into the lock.
+C: EDDIE
+D: Where's the keys...
+E: CONT'D
+C: JONAS
+D: Nitrogen! Nitrogen! I need spare keys for van one! Now! You were talking to her. How man times have I told you -- From the backseat, he's handed a small spray can with a long plastic tube. Jonas sprays the steering column. It turns frosty white around the gum.
+E: on intercom accusing
+C: JONAS
+D: Jo is not to be trusted. The frozen gum pulls away in a lump, unclogging the ignition. Meanwhile, a van pulls alongside, Jonas opens his door, catches tossed keys, gives them to Eddie.
+E: CONT'D
+C: JONAS
+D: Go!
+E: CONT'D
+C: WIDE ON PARKING LOT
+D: As Jonas's team peels out, in louds of dust.
+C: INSIDE JONAS'S VAN
+D: Ahead, the road is deserted. They zoom down it.
+C: JONAS
+D: Get on the frequencies, monitor them!
+C: TECH VOICE
+D: We already got 'em, Jonas. Eddie punches a dashboard button.
+E: on intercom
+C: MELISSA
+D: Are you between eleven and fourteen? And it still hasn't turned blue?
+E: on radio
+C: EDDIE
+D: Must but some kind code...
+C: MELISSA
+D: Remember, lie on you back afterward for fifteen minutes. No, no, oral sex would just be a waste of time...
+E: on radio
+C: JONAS
+D: Turn that off.
+C: EDDIE
+D: But...
+C: JONAS
+D: Off! Eddie turns it off. Jonas stares out the window.
+C: EDDIE
+D: There might have been some good information there...
+E: resentfully
+C: JONAS
+D: They'll have to quit for the night pretty soon. It's getting too dark for them. But we can keep going all night, right men?
+E: staring out window opening panel
+S: INT. THE BACK OF THE VAN
+N: Illuminated by a red nightlight, it is crammed floor to ceiling with electronic equipment.
+C: TECHNICIAN ONE
+D: Right, Jonas. Go all night if you want. INT. BILL'S PICKUP TRUCK - DARK AFTERNOON Jo and Bill driving along.
+E: REALLY DUSTY'S
+C: BILL
+D: Getting dark... We're going to have to stop soon.
+C: JO
+D: Unless you want to keep going.
+C: BILL
+D: Night tornadoes? We don't have the equipment, it's much too dangerous.
+C: JO
+D: Too dangerous?
+E: incredulous
+C: BILL
+D: I'm on my way to Phoenix tomorrow.
+C: JO
+D: And you don't want to hurt yourself. You have a goal in life. You're going to Phoenix to get domesticated.
+C: BILL
+D: I'm going to settle down, yes.
+C: JO
+D: Have a steady life.
+C: BILL
+D: Right.
+C: JO
+D: Going to the TV station every day, wearing makeup... playing golf with the station manager... getting ahead in your career as a weatherman.
+C: BILL
+D: Sounds pretty good to me. Lightning cracks down, sharp and close. It starts to rain. Bill flicks on the wipers.
+C: JO
+D: I sure never thought I'd see you with a leash around your neck, eating out of a dish with your name on it.
+C: BILL
+D: The trouble with you is, you think you know everything about me, and you don't.
+C: JO
+D: Yeah?
+C: BILL
+D: Yeah.
+C: JO
+D: What's going to keep you from running away from her, the way you ran away from me?
+C: BILL
+D: Ran away?
+C: JO
+D: Hey. I came home one day and all your stuff was gone. You didn't even leave a note on the pillow.
+C: BILL
+D: What's the difference? You never talked to me.
+C: JO
+D: Well, Mr. Communication, neither did you. You just hit the road.
+C: BILL
+D: I got tired of trying to talk to you.
+C: JO
+D: And you'll get tired again. A beat of silence.
+C: JO
+D: You don't know what trying is. EXT. THEIR TRUCK IN ON THE ROAD - SECOND TORNADO Passing a row of tall trees along the side of the road, a windbreak for a farm. As their truck passes the trees, we see off to the right ANOTHER TORNADO. It's black against a dark green sky, and distinctly bigger than the last one. INT. THEIR TRUCK Bill and Jo are entirely focused on the tornado.
+E: CONT'D
+C: VOICE ONE
+D: On the ground! Tornado on the ground!
+E: on CB going crazy
+C: JO
+D: Dusty? You see it?
+E: on CB
+C: DUSTY
+D: We see it, Jo. Looks like a hundred meter wedge.
+E: on CB
+C: BILL
+D: Maybe more. Good shape, F-2...
+C: JO
+D: Vertical columns...
+C: BILL AND JO
+D: ...should hold.
+E: CONT'D in unison, the same thought
+C: BILL
+D: Yeah, it should...
+E: CONT'D
+C: CB VOICE FOUR
+D: Large wedge, going north northeast, I'm seeing it from highway 44... moving about thirty miles an hour... They're both looking at the tornado. Judging it.
+C: BILL
+D: This might be the one...
+N: HIS POV - THE TORNADO Churning toward them, it will intersect their road a few miles ahead.
+C: BACK INSIDE THE PICKUP BILL
+D: You're gonna cross the road? Go on, do it... I'll be there...
+E: talking to tornado
+C: JO
+D: Dusty? Get ready to set up. INT. DUSTY'S CAR Driving along, across from the farmhouse with the windbreak we just saw -- they're a few miles behind Jo and Bill, on a parallel road. Beside Dusty, Melissa sits tensely. The tornado is off to their left.
+E: on CB
+C: DUSTY
+D: You gonna go for this one?
+E: on CB
+C: BILL
+D: Yeah. We are. Melissa reacts with concern. But Dusty's businesslike:
+E: on CB
+C: DUSTY
+D: Where are you now?
+E: on CB
+C: JO
+D: We're about two Miles from it... and we have hail. INT. BILL'S TRUCK Outside, hail starts to fall, rattling on the truck, bouncing on the road ahead. It's small -- golf ball-size.
+E: on CB
+C: DUSTY
+D: When should I set up?
+E: on CB
+C: JO
+D: Set up now.
+N: Bill watches the sky, choosing the moment.
+C: JO
+D: We have upflow! Dusty! Upflow!
+E: CONT'D on CB
+C: BILL
+D: I'll untie the pack. He pulls over, jumps out, climbs into the back. Simultaneously, Jo gets behind the wheel, floors it. In the open back of the pickup, Bill bends over the instrument pack, and starts unstrapping the buckles. The tornado is still a distance away, but the wind is howling around him, flattening the prairie grass, whipping his hair around his face. The hail hammers him. Hitting his hands, making it difficult to work.
+C: JO
+D: You okay?
+E: leaning out of cab
+C: BILL DRIVE!
+D: Jo is driving at eighty miles an hour toward a black sky and a blacker tornado, which has an ugly greenish-purple tinge. Bill is in the back of the pickup, fumbling with the knotted ropes that hold down the instrument pack, trying to get them open in this whirlwind. Inside, Jo is concerned.
+C: JO
+D: We have debris. Inside the cab, clouds of earth and tree branches thump against the windshield, the side of the truck. Bill, in the back, debris flying around his head. It's all getting slowly worse... EXT. DUSTY'S CAR - SIDE OF THE ROAD His trunk is up; he and Timmy hastily take out tripods, video cameras, computers, radio receivers, while listening to the CB radio.
+C: VOICE FIVE
+D: Getting really wild
+E: on CB crackle
+C: VOICE SIX
+D: I don't believe this. I just saw a red pickup driving right into the core guy standing up in the back!
+E: on CB crackle
+C: MELISSA
+D: Is that Bill?
+C: DUSTY
+D: Probably. Rick?
+E: on CB
+C: RICK
+D: Setting up now.
+E: on CB
+C: DUSTY
+D: Take this. He hands her a video camera with etched plastic panels mounted in front of the lens. Dusty moves away from the car toward the field, where he sets up a tripod. Melissa hurries after him. By the time she gets there, Timmy takes the camera and places it on the tripod. Meanwhile, Dusty is hurriedly setting up the radio receivers and connecting them to the portable computers.
+E: to Melissa
+C: DUSTY
+D: Bill's putting the pack in the path. We'll record the data. Video, for photogrammetry. And over there, telemetry data. Rick's over there. Rick is across the field, about half a mile away, also setting up.
+E: CONT'D working fast points
+C: ACROSS THE FIELD
+D: Rick and Larry are setting up. They work fast.
+C: LARRY
+D: Gimme that mount...
+E: with tripod
+C: RICK
+D: I'm getting hungry.
+C: LARRY
+D: And the calibrator... Rick hands him more equipment. They can see Dusty and Melissa in the distance. BACK TO MELISSA AND DUSTY
+C: MELISSA
+D: You're triangulating?
+C: DUSTY
+D: Yeah. He sights through the video camera. Through the camera, with the REC buttons and day-timers lit, we see the powerful twisting cloud. Beside him, Melissa is worried. The sky is dark and low. She looks at the tornado in the distance.
+C: MELISSA
+D: This is dangerous, why do you people do this, when you think about it, it's kind of crazy, it really is...
+C: BACK TO BILL'S PICKUP
+D: The hail is denting the surface of the hood like a thousand hammer blows. The whole car is starting to look lumpy. In the back, Bill's hands are cut by debris and hail as he struggles to untie wet cords. The wind is a continuous high- pitched scream, and we hear underneath it the deep ominous rumble of a gigantic freight train. He looks up at the tornado.
+C: THE TORNADO
+D: Harsh and roaring, a dangerous green. This is the closest we have ever been. The deepening green sky is illuminated by sudden flashes of lightning. It's a nightmarish scene. The tornado hits power lines across the field, causing a series of FLASHING EXPLOSIONS.
+C: BACK ON THE ROAD
+D: It's clearly dangerous here: a whole tree flies through the air, and sheets of metal siding spin like giant Frisbees.
+N: The entire wall of a house, with a window and door, comes tumbling end over end down the road. The air is dense with dust.
+C: JO DRIVING
+D: Grim as she goes down the road. Debris bangs constantly against the truck and windows. Suddenly something shatters the side window by her face. She slams on the brakes, twists the wheel.
+C: JO
+D: That's it! EXT. THE TRUCK It comes to a stop, Bill still in the back. Jo gets out of the truck and heads for the tailgate. They shout in the wind, hardly able to hear each other.
+C: BILL
+D: Get back in the truck! She throws down the tailgate, and starts to pull at the instrument pack. Bill is up by the ca, near the top of the pack. There's still one cord tied.
+C: JO
+D: Come on!
+C: BILL
+D: Jo, don't! I haven't -- She pulls hard, and the breakaway lid of the instrument pack pops off, and Jo falls back, pulling the rest of the pack with her. That releases the contents of the pack -- dozens of round plastic balls tumble out of the pack, bounce around her on the pavement, and spin away in all directions as the wind catches them. Jo looks stunned, turns to Bill. She climbs on the truck.
+C: JO
+D: What happened?
+E: coming closer, shouting
+C: BILL
+D: It was still tied! He turns and leaps over the side panel, lands on the road.
+N: Bill climbs in the cab and accelerates hard in a U-turn. She hangs on, slides open the window behind Bill's head, and thrusts her face through, into the cab and screams:
+C: JO
+D: Why didn't you tell me?
+C: BILL
+D: I can't tell you anything! As the truck drives away, we see the tornado coming across the road, right where they were. A few of the balls are picked up, but not many.
+C: IN THE REARVIEW MIRROR
+D: Bill sees that the balls aren't picked up by the wind. He is attentive to this. Even though he's driving like hell. in the back of the Pickup Jo turns to look at the tornado crossing the road, spinning some of the balls that are still there. It flings aside the white shell of the instrument pack.
+C: JO
+D: We had perfect position. Then she turns, puts her face back into the cab.
+E: to herself
+C: BACK IN THE CAB JO
+D: We had perfect position. Perfect! That was the one!
+E: CONT'D
+C: BILL
+D: And we woulda had it! If you weren't in such a rush...
+C: JO
+D: Why didn't you tell me?
+C: BILL
+D: I tried.
+C: JO
+D: Not hard enough!
+C: BILL
+D: You didn't listen, you were in such a goddamn hurry...
+C: JO
+D: That's right, everything's my fault, the marriage is my fault, it's all my fault --
+C: BILL
+D: This time it is --
+C: JO
+D: Hey, you left me!
+C: BILL
+D: I didn't want to! I was crazy about you! BACK TO MELISSA AND DUSTY Down the road, packing up the equipment, they hear the argument on the handheld radio, the shouting voices on the CB.
+C: JO
+D: You never said so.
+C: BILL
+D: I'm saying it now! I was crazy about you!
+C: JO
+D: Great, now you tell me! It's over now, right?
+C: BILL
+D: You're impossible!
+C: JO
+D: Just tell me! Come on, say it, cowboy! Tell me it's over for good! Tell me you love somebody else! Tell me to my face! Melissa listens more intently than she lets on.
+C: BILL
+D: You're so goddamn pushy...
+E: on CB
+C: JO
+D: Look at you, you don't know what you want! Dusty shakes his head. Melissa is listening to all this, very cool, her face impossible to read.
+E: on CB contemptuous
+C: MELISSA
+D: Unhealthy relationships are very hard to end... Dusty senses her distress, tries to smooth it over.
+C: DUSTY
+D: They never did get along. Always picking at each other. He clicks the radio. We now head scattered spotters, shouting excitedly about the storm. They trudge back to the car, Dusty first, Melissa following.
+C: MELISSA
+D: Second marriages are usually much healthier. More mature.
+C: DUSTY
+D: Uh-huh. They continue back to the car. Thunder rumbles. INT. JO'S TRUCK - LATE AFTERNOON Jo on the CB as they drive.
+E: still walking
+C: JO
+D: Dusty? Get going. We're gonna be late for dinner.
+E: on CB
+C: DUSTY
+D: We'll beat you there, Jo. Rick's already on his way.
+E: on CB
+C: RICK
+D: Steak! Steak!
+E: on CB
+C: LARRY
+D: Gravy! Hash browns!
+E: on CB
+C: BILL
+D: Wait a minute...
+C: JO
+D: We're going to Guthrie.
+C: BILL
+D: No we're not.
+C: JO
+D: It's all arranged. Mom's expecting you.
+C: BILL
+D: No, Jo.
+C: JO
+D: Relax: we're just gonna eat. Looks like you haven't had any meat in a long time. EXT. OUTSKIRTS OF GUTHRIE - LATE AFTERNOON The cars drive past an old 50s gas station, a motel, and a drive-in movie theater with a neon sign that says: THE GALAXY. EXT. JO'S PARENTS' FRONT YARD - EVENING The mailbox says JIM & MARGARET WILDER. It's painted red, white, and blue. The house is a white wood-frame house. The team's cars all pulled around it. Larry inspects the pockmarked rental car, shaking his head, then turns away. EXT. JO'S PARENTS' BACK YARD - EVENING Margaret, Jo's mother, brings out a big platter of steaks. Bill immediately takes it from her, helping out. Jim follows with several pounds of mashed potatoes, a pile of bread. At the table in the backyard, everybody falls to as if they've never eaten before. Everybody talking, lively. Melissa stand to one side, uncertain. Margaret goes over to her, hands her a cup of coffee.
+E: Nothing green served here.
+C: MARGARET
+D: You take cream?
+C: MELISSA
+D: Just a little.
+C: MARGARET
+D: From around here, Melissa?
+C: MELISSA
+D: Dallas, originally.
+C: MARGARET
+D: I've got a sister in Dallas. Big city now.
+C: MELISSA
+D: Yes, it is.
+C: MARGARET
+D: Yes... it is. The moment goes awkward. Jim comes over, puts his arm around Melissa, steers her to the table.
+E: not knowing what to say
+C: JIM
+D: Come on, darlin', better get in there. These boys won't leave anything but tablecloth. Melissa slips into a spot at the table. They pass her food, all still talking. Rick's piling stuff on her plate.
+C: RICK
+D: Better fill up. In this business, you'll never know when you'll eat again.
+C: LARRY
+D: Keep your strength up. Melissa picks up a fork, hesitates. It's not her style. She glances at Bill, across the table. He's eating, but silent. Timmy sees Melissa hesitate.
+C: TIMMY
+D: Here, gotta have gravy. Timmy pours a big puddle of gravy over her entire plate.
+C: RICK
+D: Margaret's gravy is famous.
+C: LARRY
+D: Makes the meal.
+C: TIMMY
+D: Yeah, we haven't had it since -- Jim, when did that last twister come through here?
+C: BILL JIM
+D: That's right, bill, '92. That was the year that you and Jo got -- Margaret elbows Jim. Melissa starts to cut, furiously.
+C: DUSTY
+D: Say, Jim, you ever find out whose leg that was?
+C: TIMMY
+D: That tornado dropped a guy's leg on Jim's roof. Melissa looks at the roof.
+E: explaining to Melissa
+C: JIM
+D: Heck of a time gettin' it down offa there. Boys helped me some.
+C: JO
+D: Had a nice snakeskin boot on it, too.
+E: mouthful of food
+C: RICK
+D: Damnedest thing, a whole leg, just lying on the rood. Melissa is appalled. They're all eating continuously as they talk. Melissa resumes cutting her steak, slowly.
+C: DUSTY
+D: What'd you finally do with that leg, Jim?
+C: JIM
+D: Put it in the freezer. Margaret hated that.
+C: MARGARET
+D: I did.
+E: nodding as she serves
+C: JIM
+D: But I figured somebody might come to claim it... 'Course it coulda blown from Tulsa. Coulda been hundreds of miles.
+C: TIMMY
+D: Like that birdcage?
+C: JIM
+D: Yeah. My brother in Shawnee, finds a birdcage in his cornfield. Bird's still in it, shriekin'.
+E: to Melissa MORE
+C: JIM
+D: Cage got a pet-shop sticker from Norman, eighty miles away. My brother called. Pretty soon the owner showed up and took it back. Some kind of expensive bird. Guess they were glad to have it.
+E: CONT'D
+C: TIMMY
+D: What happened to the leg? Still got it?
+C: JIM
+D: Well. Nobody claimed it, so we finally buried it.
+C: MARGARET
+D: I needed the freezer for my steaks. Melissa is about to bite the steak, stops.
+C: JIM
+D: Put it out by the petunia bed over there. They're doin' real good, too. Thunder rumbles. Bill gets up from the table, to look at the sky.
+C: MARGARET
+D: Always makes me nervous when he does that.
+C: THE SKY
+D: Rolling clouds, streaks of gold as night falls.
+C: BILL STARING
+D: Thoughtful. BACK TO THE BACKYARD - LATER It's dark, the meal is over. Lanterns on the table as they all clear up, still talking. The house lit inside. Melissa outside with Timmy, clearing the table.
+C: TIMMY
+D: So, these, ah, reproductive problems you deal with in you practice, is it usually the man's fault? She is looking past Timmy, toward the house.
+N: Through the kitchen window, she sees Jo and Bill at the sink, scraping dishes and washing. Nothing particularly happening -- but they're together. Working in an easy, coordinated way.
+C: MELISSA
+D: No, there's many different etiologies...
+E: distracted
+C: TIMMY
+D: 'Cause I read that thinning hair is a sign of virility.
+C: MELISSA
+D: Is what?
+E: not listening to him
+C: TIMMY
+D: Thin hair. Is it a sign of, you know... virility?
+C: MELISSA
+D: Yes, there are studies that show high testosterone levels in balding men. Yes... As she talks, picks up plates to take them in -- an excuse for her to go inside.
+C: MARGARET
+D: Here, let me take that.
+C: MELISSA
+D: It's no trouble.
+C: MARGARET
+D: I wouldn't dream of it. Guests don't work at our house. Melissa looks at the kitchen, where Bill is working. INT. KITCHEN - EVENING As Margaret enters.
+C: MARGARET
+D: Bill, you've got to get out of here now, I love to have you for a couple of hours, but let's face it. Anywhere you are, sooner or later, there's gonna be a storm.
+C: BILL
+D: Not for a while, Margaret. Air's too dry.
+C: MARGARET
+D: So you say. But I want you moving.
+C: JO
+D: We gotta fix the packs anyway. And the cars need work. Henderson's station still open all night, mom?
+C: MARGARET
+D: I believe so... EXT. FRONT YARD - NIGHT Everybody saying good-bye, hugging, getting into their cars. Margaret hands Rick a big aluminum foil-wrapped pack.
+C: RICK
+D: Thanks, I'll need a snack later. First engines start. Melissa in the backseat with Bill, she waves to the parents. Jo embraces her mother, kisses her good-bye. Mother whispers in her ear:
+C: MARGARET
+D: Be smart, honey.
+C: JO
+D: Take care, Mom. Cars drive off. Jo runs to get in with Dusty. Waving good- bye, the team pulls out onto the road. EXT. GAS STATION - NIGHT As seen before, an old 50s gas station, with a Mobil flying horse sign, and an adjacent motel -- a row of little log cabins. A buzzing neon sign says FREE TV IN EVERY ROOM. A short distance away, the drive-in movie plays to a handful of parked cars. The screen big and blue. The chase vehicles are pulled up around the station. The garage door is up, and the area around the grease pit is brightly lit.
+S: INT. GARAGE - NIGHT
+N: The station wagon up on the lift. A MECHANIC, late 20s, helps Timmy down in the pit, working. Bill working at a tool bench, Jo getting boxes out of the back of the sedan. Horns honking from the street. Jo turns and looks out.
+C: OUTSIDE ON THE STREET
+D: Jonas and his team, honking and driving fast down the road in the night. Jonas waves cheerfully.
+C: JONAS
+D: You boys quitting already? We got two hook echoes in a fifteen-mile radius, going to be a busy night.
+E: on CB
+C: JO
+D: Blow me.
+E: to herself
+C: BILL AT THE WORKBENCH
+D: With the white instrument pack upright and before him. The pack is full of balls. Bill has removed one of the balls, and is gluing the electronic innards into a box instead; he has a stack of these boxes. Jo comes over, bringing more.
+C: JO
+D: Jonas is still going.
+E: CONT'D
+C: BILL
+D: Yeah? Hand me that tape. Jo does, picks up one finished unit, inspects it thoughtfully.
+C: JO
+D: Why didn't we think of this before?
+C: BILL
+D: I don't know, spheres were a mistake. They'll never get lifted up. You need flat surfaces for lift... that's why airplanes have wings...
+E: nodding
+C: JO
+D: You wrap the sensors with tape?
+E: opening a ball
+C: BILL
+D: Yeah, that tape there.
+E: head nod
+C: JO
+D: And you set 'em in like this?
+C: BILL
+D: Other way. Yeah. They're working smoothly together, side by side.
+E: as she flips it
+C: JO
+D: Glue?
+C: BILL
+D: There. Pass me those pliers. Melissa comes over, trying to hide anxiety.
+E: head nod
+C: MELISSA
+D: Bill, I'm sorry to interrupt you, but I need to ask you something.
+C: BILL
+D: Yeah...
+E: looking at equipment
+C: MELISSA
+D: Alone.
+C: BILL
+D: Now?
+C: MELISSA
+D: Right now.
+C: BILL
+D: What is it? She doesn't answer, just puts her arm on his shoulder, starts to lead him out. Stay with Jo at the table, as she hears:
+E: turns to her
+C: BILL'S VOICE
+D: Really...
+E: soft laugh
+C: MELISSA'S VOICE
+D: Can't work all night...
+N: Bill laughs again. Jo tries to continue working, finally can't stand it, turns to look. She sees Bill and Melissa arm and arm, going across the street to the motel. In front of the motel room, Melissa grabs and kisses him, a passionate moment. The rest of the team is standing around in the garage, trying not to notice. Jo turns away, her face tight. Dusty crosses to her.
+C: DUSTY
+D: Guess Jonas's going all night. He's got the equipment for it.
+C: JO
+D: Nothing we can do about it.
+C: DUSTY
+D: He's got a couple of hook echoes out there, just a few miles away.
+C: JO
+D: I know that! Tell me something I don't know! She stalks angrily out of the garage. INT. MOTEL ROOM - NIGHT Bill and Melissa rolling on the bed, kissing passionately and struggling to get each other's clothes off. Buttons an zippers, urgency... He can't get her tight trousers off.
+E: blowing
+C: MELISSA
+D: Just a minute... She rolls away, onto her back, kicks her legs in the air, getting her pants off. Meanwhile he hears the TV, looks toward it as he unbuttons his shirt.
+C: TV ANNOUNCER
+D: Going into the night, severe storm warnings remain in effect across Kansas, Oklahoma, and down into northern Texas... She throws her pants away, rolls off the bed, circles to the TV, clicks it off and walks directly toward him, swinging her hips. He grabs her, she jumps on him, straddling him, they begin kissing again. It's hot.
+E: etc.
+N: While they kiss:
+C: MELISSA
+D: Oh honey... feels like it's been so long...
+C: BILL
+D: Ummm.
+C: MELISSA
+D: I miss this...
+C: BILL
+D: Ummm...
+C: MELISSA
+D: Oh, I wish we could leave now.
+C: BILL
+D: Yeah... I know.
+C: MELISSA
+D: Let's... let's do it...
+C: BILL
+D: Ummm...
+C: MELISSA
+D: I mean tonight. Let's go. Bill lifts his head away.
+C: BILL
+D: What?
+C: MELISSA
+D: Let's just get in the car... and go.
+E: kissing his ear
+C: BILL
+D: Melissa... I know... I know how you feel..
+E: kissing her again
+C: MELISSA
+D: You feel good...
+C: BILL
+D: But I can't...
+C: MELISSA
+D: Why not?
+E: still kissing
+C: BILL
+D: The papers...
+C: MELISSA
+D: Forget the papers. We'll get a lawyer... Let's just go.
+E: kissing
+C: BILL
+D: I can't.
+C: MELISSA
+D: Honey, you can. We can just go.
+C: BILL
+D: No, I can't. I've got to finish this. This breaks the kissing, she pulls back a little.
+C: MELISSA
+D: Why?
+C: BILL
+D: I know how to make it work. The break widens. They're apart now.
+C: MELISSA
+D: Who cares?
+E: annoyed
+C: BILL
+D: I do. It's important. We're talking about saving lives.
+C: MELISSA
+D: What about our life?
+C: BILL
+D: If I can get those instruments in a tornado, I'll learn more in two minutes than anybody has learned in the previous two hundred years. I can't stop now. She looks at him, sees his obsession. She makes a choice, and has to work very hard to come back, warmly:
+C: MELISSA
+D: I understand, Bill. I love you. Got and do what you've got to do.
+E: kisses him chastely
+N: He looks at her, uncertain how she is really feeling. She's smiling as she starts to put her shirt back on.
+C: MELISSA
+D: I can wait until tomorrow. Go on. Really. EXT. BURGER STAND - NIGHT CLOSE ON BILL'S HANDS as he works on one of the electronic packs. Cup of coffee nearby. Wider, we see everybody on Jo's team sitting at wooden picnic benches, finishing coffee and doughnuts. Jo is trying to fix a portable fax, which spits out bits of paper and crackles. In the background, the huge blue screen of the drive-in movie theater. The picture plays against scattered cloud lightning. A radio on the table gives us spotters and Jonas intermittently, but mostly just crackles static. Occasional distant thunder. Black night, no wind. Everybody turns to look at Melissa make an entrance. Melissa has changed clothes but has a carefully disheveled look. She has pinned her hair up; little wet tendrils hang down. She enters languorously, yawns, stretches, pretending she got laid.
+E: CONT'D
+C: MELISSA
+D: Boy, am I hungry. I could eat a horse. Anybody want another one? Jo gives her a black look. THE REST OF THE TEAM They are awkward. Then:
+C: RICK
+D: Sure, I'll take one.
+C: DUSTY
+D: You just had two steaks!
+C: RICK
+D: So? Jo glares at them like they're traitors. Melissa come over to Jo.
+C: MELISSA
+D: How about you, Jo? Hungry?
+C: JO
+D: Yeah. Get me a hot dog. Melissa goes to the stand. A gust of wind blows Jo's hair. Thunder rumbles again. Jo frowns. Suddenly the CB radio starts to go:
+E: stares her down
+C: VOICE ONE
+D: Tornado! On the ground! Jonas, do you see it?
+E: on CB
+C: VOICE TWO
+D: Tornado on the ground! It's on the ground! Jonas? Over. Everybody freezes. Everybody listens to the CB.
+E: on CB
+C: VOICE THREE
+D: Jonas, are we going for it? Over.
+E: on CB
+C: JONAS
+D: Damn right we're in perfect position.
+E: on CB crackle
+C: VOICE TWO
+D: It's F-2, going north northeast, near highway 80.
+E: on CB
+C: JONAS
+D: We're on highway 80 right in the damage path. It'll cross right where we are.
+C: VOICE ONE
+D: Going to place
+E: on CB crackle
+C: JONAS
+D: I'm placing the package now. Men! Prepare to place! Jo's team listens, exchanges glances. Everybody waiting to see if it happens.
+C: JO
+D: Damn it... She tosses her crumpled-up doughnut paper toward the trash can. Misses -- it falls to the ground, and blows away in the gathering wind.
+C: JONAS
+D: Right, the instrument pack is out, it is right in the damage path... Satisfactory.
+E: crackle crackle
+C: VOICE TWO
+D: Say again, Jonas? Jonas? Tense silence. Bill fingers one of his spheres, nervously.
+E: on CB
+C: JONAS
+D: Coming right toward the pack, perfect placement... Still coming... Here is comes...
+E: crackle crackle
+C: VOICE ONE
+D: Jonas, the tornado
+E: on CB crackle
+C: VOICE TWO
+D: Moving to --
+E: on CB crackle
+C: VOICE THREE
+D: Damn, it's
+E: on CB crackle
+C: VOICE TWO
+D: Jonas?
+E: on CB
+C: VOICE ONE
+D: Jonas? Come in. Jonas? A ling silence. Nothing but crackling radios. Tense looks among the team.
+E: on CB
+C: VOICE TWO
+D: Jonas?
+E: on CB
+C: JONAS
+D: Goddamn it, I missed it! Can't believe it! The group breaks into cheers as tension releases.
+E: crackle crackle
+C: VOICE TWO
+D: Jonas, why did
+E: on CB crackle
+C: JONAS
+D: Damn it. incompetents!
+E: crackle
+C: VOICE THREE
+D: Say again? Jonas?
+E: on CB
+C: JONAS
+D: Pack up, men! Damn! Jo's cheerful, smiling in relief.
+E: crackle
+C: JO
+D: Anybody want coffee? A few isolated drops of rain spatter down. The wind is higher. It's hard to work outside. They all get up, start heading back.
+C: BILL
+D: I'm going back to the garage.
+C: JO
+D: Five coffees, please.
+E: to counter boy
+C: VOICE THREE
+D: Changed direction, heading
+E: on CB crackle
+C: VOICE RWO
+D: Never catch it now, but it's still on the ground. BY THE HAMBURGER STAND - NIGHT Inside the hamburger stand, LIGHTS FLICKER momentarily.
+E: on CB crackle
+C: COUNTER BOY
+D: Which way did he say it was heading? Lightning flashes for an instant behind Jo showing us A THICK BLACK FUNNEL ILLUMINATED BY THE LIGHTNING. This is a night tornado, seen only when lightning shows it. It's very dangerous and very scary. The lightning fades and the tornado is again hidden in the black night sky.
+C: COUNTER BOY
+D: Holy shit! Pa! Pa! They boy runs toward the motel office. As he goes, TWO POLICE CARS, sires howling and lights flashing, rush by. Jo turns and looks back at
+E: CONT'D
+C: THE SKY
+D: Two lightning flashes in rapid succession show us the funnel clearly. It is thick and churning and wide, looks about a quarter mile across. And coming toward us.
+C: THE DRIVE IN
+D: The handful of cars empty, patrons running to the basement beneath the projection booth.
+C: BACK TO JO
+D: The wind blows harder, more insistent. Jo watches a final moment, her curiosity getting the better of her caution.
+C: BILL
+D: Jo! Come on! She starts to run.
+E: O.S.
+C: JO RUNNING
+D: Fast as she can. We hear the freight-train rumble of the approaching tornado.
+C: AT THE GARAGE
+D: Bill is at the side door, shouting, waving her in.
+C: BILL
+D: Move your ass!
+E: CONT'D
+C: JO RUNNING
+D: She reaches the garage and runs inside. Bill pulls the door shut behind her, but after a moment the door bangs back and forth on its hinges. INT. THE GARAGE - AS THE TORNADO APPROACHES Wind whining, papers fluttering, lights flickering. Bill gestures urgently:
+C: BILL
+D: Down there!
+C: IN THE GREASE PIT
+D: As they jump down into the pit. It's six feet deep and everybody else is down there already -- Dusty, Tim, Rick, Melissa, and the Mechanic. Above them is Tim's station wagon.
+C: MELISSA
+D: Oh Bill, I'm scared.
+E: clutching him
+C: BILL
+D: It's okay. He puts his arms around her. Jo watches them. Bill's eyes meet Jo's for a moment. The freight-train roar comes closer. Muffled EXPLOSIONS. The sound of breaking glass, as windows blow out. They instinctively look up.
+C: BILL
+D: Get you heads down! The wind is howling and building above them. Stuff is beginning to fly around the room; sound of banging and breaking glass.
+E: CONT'D
+N: They can see the destruction above only through the spaces between the station wagon and the edge of the concrete pit. And they have to duck; things are dropping on their heads. The wind builds, faster and faster. It doesn't seem possible for it to get faster, but it does. RIVERS AND LUGS slam against the side of the car like a rainstorm of metal. Melissa clutches Bill, holding him hard. A hissing pneumatic air hose falls and whips like a writhing snake around the pit, making them duck away. The mechanic grabs it and steps on it, to hold it fast. The mechanic grins. In the next instant, a metal lid slashes his cheek, drawing a gush of blood and a scream we can't hear over the wind. More dust is flying the air is now thick, dense. The wind is a shrieking scream. The car above them begins to rock back and forth ominously. There is the sound of an EXPLOSION up above, but we don't know what it is. They glance upward, squinting in the dust. The car above rocks back and forth more wildly. Suddenly, ANOTHER CAR comes slamming in from the side and knocks Tim's car off its hydraulics. Hubcaps, spinning like saucers, bang down into the pit, carom off the walls. Tim's car, toppled partly on its side, hangs lower into the pit. Unbalanced by the weight of a second car, one side of the metal runner bends. Tim's cat comes lower. Oil begins to glug down. The wind screams. The Galaxy drive-in sign, its neon arrow pointing, slams into the car above them, and the neon sputters out. Melissa buries her face into Bill's shoulder, her fingers clutching him. And suddenly the wind lessens... and lessens... and then stops. Abruptly. Silence She realizes, takes her face out of his shoulder, looks down. At her feet, a spinning hubcap goes slower and slower, then stops. Melissa looks up.
+C: WHAT'S ABOVE THEM
+D: The two cars overhead. The glug of oil. An unearthly silence from everywhere else. Bill starts to climb up, picking his way around the cars. INT. THE GARAGE - AFTERWARD - NIGHT As Bill and the others climb out of the pit, one by one, in silence. Tim's car has been punctured so many times by flying metal it looks like the car from Bonnie and Clyde. Bill walks forward. One wall of the garage has been knocked in by the car that hit Tim's car, and through the open wall we see the gas station pumps outside, the lights flickering above them. A Cadillac is up on two wheels, leaning against the pumps. A FAAT DRIVER staggers out. Sound of distant SIRENS. Dazed, Bill and the others walk outside, through the open wall.
+C: MELISSA
+D: That was awful...
+C: BILL
+D: We were lucky. That was just downdrafts and microbursts. The tornado missed us. Jo rushes out, energized, worried about her family.
+E: point down highway
+C: JO
+D: Which way did it go? EXT. THE GARAGE AREA - NIGHT As Jo runs out to the center of the road, into a transformed landscape. The hamburger stand leans at a crazy angle, distorted, as if a big hand has pushed it sideways. The drive-in screen is just gone, dazed people coming out to look for their cars. The motel office is a shattered heap of rubble. The counter boy walks with his father away from the wreckage; he's holding his head. But he's okay.
+C: JO
+D: Dusty! The radio! I want to know! Where did it go? Dusty runs to a car, turns on radio. Jo stares a moment. Then a POLICE CAR and AMBULANCE rush by, lights and sirens.
+N: She starts running back to the car.
+C: DUSTY AT CAR
+D: With radio in his hand.
+C: DUSTY
+D: Jo? It's going north.
+C: JO
+D: Nooo... They all pile into the cars, and head off following the police. EXT. GUTHRIE - NIGHT The neat little town dark, asleep. Lightning flashes in the sky. Suddenly the air-raid sirens go off. Lights start to come on in the houses. INT. WILDER HOUSE - PARENTS' BEDROOM - NIGHT Sirens continue as Jim flicks on the light, and they both get up, pull on bathrobes. We see the contents of the bedroom. Jim goes to the window, looks out. Margaret, sleepy, picks up the bedside clock, then turns.
+E: starting to run
+C: MARGARET
+D: You see it?
+C: JIM
+D: Yeah. He turns away from the windows, takes her hand. Sound buildings, curtains at the windows blowing harder. INT. WILDER KITCHEN - NIGHT They don't turn on the lights, they make their way by lightning flashes as the open the basement door, head down. Jim at top of the stairs, pauses, looking.
+C: JIM
+D: Where's that flashlight? Someone's always movin' it.
+C: MARGARET
+D: Leave it. He finds the flashlight, flicks it on. Wind steadily building. He pulls out the stove, turns off the gas line.
+C: MARGARET
+D: Jim! Come on! Suddenly, all the kitchen windows explode, flying glass everywhere. EXT. DRIVING ON HIGHWAY - NIGHT Following a police car, its lights flashing. It's going to Guthrie.
+E: CONT'D over
+C: INSIDE JO'S CAR VOICE FIVE
+D: Wedge moving north northeast, past Guthrie now...
+E: on CB
+C: VOICE SIX
+D: I see it from highway 80...
+E: on CB
+C: VOICE SEVEN
+D: Still very strong. Right by highway 80... Very stable and holding.
+E: on CB
+C: VOICE FIVE
+D: Looks like it hit Guthrie pretty bad... Click! Jo turns the radio off. Silence in the car. The car turns off the highway, toward the town. EXT. BILL'S CAR - NIGHT As they drive off the highway toward Guthrie. The sky is lit by lights and fires. Even from a distance, a scene of destruction.
+E: on CB
+C: THE ROAD AHEAD
+D: Fire trucks spray foam over burning telephone poles and timbers which lie like pick up sticks across the road. EXT. GUTHRIE - DRIVING SLOWLY - NIGHT Harsh sweeping searchlights reveal houses flattened to heaps of timber. Rescuers work to get survivors out of the rubble.
+N: Dazed families walk the street, looking at the apocalypse scene. There are police cars and ambulances; flashing lights everywhere. THE GLARE OF HOT TV LIGHTS A crew interviews Jonas.
+C: JONAS
+D: This tornado was an F-4 or F-5, and you can see the terrible destruction and suffering... This is exactly what I want to avoid with a proper warning system, which I intend to supervise.
+C: BACK TO BILL'S CAR
+D: Progress is difficult, the road in places entirely blocked with timbers and rubble, power lines down and crackling. They have to proceed at a crawl. Rescuers shine lights up into a tree, we see a child's bicycle, nothing else.
+C: IN THE CAR
+D: Melissa is stunned. Jo near tears
+C: JO
+D: Left up here. They drive on, past the harsh glare of acetylene torches as rescuers cut open a car crushed like a beer can. A RESIDENTIAL STREET - NIGHT Houses are crushed, or tilt at an angle. A car has turned upside down, its headlights shine into a tree across the road. A man impaled on the branches like a spear. A dog whimpers at his feet. Bill drives around the tree, going onto somebody's lawn. Then back on the road.
+C: JO
+D: Right, turn right. It's just ahead. They turn the corner; their progress is blocked by a heap of timbers that once was a house.
+N: Jo can't stand it any longer, gets out of the car and starts to run. Bill parks, runs, too. Melissa gets out of car, dazed.
+S: EXT. FRONT OF WILDER HOSUE - NIGHT
+N: The mailbox tilted over at an angle. As Jo runs up, we see the house is partly crushed. You can still recognize the ground floor, but the second story has been smashed halfway down as if by a giant fist.
+S: EXT. WIDLER BACKYARD - NIGHT
+N: The picnic bench they ate at has been driven laterally into the side of the house; it sticks out, tablecloth still there. Rubble and timbers all over the lawn, heaped up toward the house. Jo runs forward.
+C: JO
+D: Mom! Dad! She starts pulling timbers away. Trying to get to the kitchen. Her way is blocked. She flings timbers in frustration, frantic. Bill comes up behind her. He has a flashlight.
+C: BILL
+D: Up here. He jumps up onto the piled rubble. It shifts precariously. He goes in through a window. She follows. INT. WILDER HOUSE - NIGHT As Bill lands in the back bedroom. Everything is cockeyed. The whole house is creaking ominously.
+C: BILL
+D: Jim! Margaret! He hears faint voices, rhythm like a radio. He moves forward. Jo starts crawling through the window behind him.
+C: IN THE KITCHEN
+D: Water overflows from the sink, onto the floor, which is tilted at a crazy angle. A scraping sound from above. A lamp crashes at his feet.
+N: He looks up -- the entire ceiling has broken loose and is hanging down, so we can see up to the second floor bedroom above. Everything tilts down, the furniture threatening to fall on us at any moment. Bill shines his light up, trying to see what might happen. A side table slides down and falls, fluttering farm magazines and shattering knickknacks on the ground. Bill goes to the sink, turns the taps off. A PORTABLE RADIO on the counter gives news:
+C: RADIO
+D: -- and very dangerous tornado estimated at F-4 has hit the town of Guthrie a few minutes ago with reports of damage and some casualties. Police and ambulances from the neighboring -- A beam swings down, and smashes the radio. He ducks away. Jo comes in after Bill
+C: JO
+D: Mom? Dad?
+C: JIM'S VOICE
+D: Jo, be careful -- She looks over. His voice is coming from behind a toppled hutch, dishes smashed on the floor. She and Bill pull the hutch away. It's hard work on the slanted floor. Around them, the house creaks again.
+C: THE BEDROOM ABOVE
+D: Big stuff still up there. A bed, dresser, a big TV set. Furniture shifts slightly.
+C: THE KITCHEN BELOW
+D: Jo peers down, calling:
+C: JO
+D: Dad? Are you all right? Dad?
+E: no answer
+C: JIM'S VOICE
+D: Think so.
+E: after pause
+C: JO
+D: How's mom? He doesn't answer. Behind the hutch, the door to the basement is gone. A gaping hole. She steps forward.
+C: JO
+D: Dad? Where's Mom?
+E: CONT'D
+C: JIM
+D: Jo... there's no stairs. She turns to Bill, holds out her hands. He takes them, and holding her by the arms, lowers her down into the basement.
+C: BILL
+D: Okay?
+C: JO
+D: Yeah. He releases her. More sliding sounds make him look up. The dresser smashes down as he jumps back. He has to push it away to get to the basement.
+C: UPSTAIRS
+D: The heavy TV set begins to move, then stops.
+C: IN THE BASEMENT
+D: Jo coughs, looks around. She moves over to her father, who is crouched down by her mother. Margaret is pinned to the wall by the refrigerator, which has come down from above.
+C: JIM
+D: Can't move it by myself.
+C: JO
+D: Bill? We need you.
+C: BILL
+D: I'm here.
+E: climbing down
+C: JO
+D: Mom... we'll get you out. Her mother does not speak, nods weakly. They start to pull away the refrigerator. As it moves clear, we see her dress is bloody around the shoulder and chest. It looks bad.
+E: to Mother
+C: JO
+D: Maybe we shouldn't move her.
+E: CONT'D
+C: BILL
+D: Got to. Get that ironing board. Right over their heads, visible from where they are, is the bedroom and its contents. A standing floor lamp falls like a missile.
+C: THE BEDROOM UPSTAIRS
+D: The TV slides, then stops, held only by its cord.
+C: IN THE KITCHEN
+D: They get Margaret up on the makeshift ironing board stretcher. Jim and Jo above, Bill still below, pushing up. Margaret is halfway out and vulnerable to the TV above. Bill sees it and pushes hard.
+C: THE TV
+D: It slides, falls free, and hangs from the cord for the briefest instant before the cord snaps at the back of the set and the set descends like a bomb.
+C: THE KITCHEN
+D: Margaret pulled clear and Bill twists and the set crashes down, splintering the kitchen floor, then falling to the basement, right where Bill was. Jo looks horrified.
+C: THE BASEMENT
+D: Dust obscures our view. Bill scrambles to his feet, he's okay, and climbs onto the trashed set, reaching up to haul himself out. Above him, the whole house creaks.
+C: MELISSA OUTSIDE THE HOUSE
+D: Running to meet and ambulance driving down the street.
+C: DRIVER
+D: Ma'am? You all right?
+C: MELISSA
+D: There's somebody inside. The ambulance pulls over.
+E: pointing to the wilder house
+C: AT THE WINDOW
+D: As they get Margaret out. The paramedics take her. Bill goes back, helps Jim climb out. We see that his trouser leg is bloody.
+C: JIM
+D: It's okay. See to Jo. Bill helps Jo out the window, she climbs into his arms. THey move away from the house. With a rumble the house collapses, folding like a house of cards. Bill holds Jo, doesn't set her down.
+C: JO
+D: Thanks. Melissa sees it. But it was only a moment; Bill sets Jo down, they go over to Margaret, being loaded into the ambulance. Jim gets in the ambulance with his wife. Overhead, a HELICOPTER thumps by, light glaring down.
+C: IN WILDER BACKYARD
+D: Jo is trying to get into the ambulance with parents.
+C: JO
+D: Mom...
+E: CONT'D
+C: PARAMEDIC
+D: She's going to be okay. Got a broken shoulder. Jo looks stricken.
+C: MARGARET
+D: You go on now, honey.
+C: JO
+D: I just want you to be okay, Mom.
+E: tearfully
+C: MARGARET
+D: I'll be fine. Go get it, Jo. The ambulance pulls out, siren going. It reveals Dusty and Timmy and the other cars. All pulled up at the house, Jo sighs. She looks at her parent's house, which is gone. Bill puts his arm around her shoulder.
+C: JO
+D: Shit.
+C: BILL
+D: Yeah. Thunder rumbles overhead. Bill looks up, frowns.
+C: THE SKY ABOVE
+D: Start of dawn breaking, a pale ugly green. A flash of lightning, a challenge to Bill, rousing him. ON THE GROUND - PREDAWN From Dusty's car, they hear the CB radio, still going. The spotters, everything, still going. Jo slowly hears it, realizes.
+C: VOICE FOUR
+D: Tornado is still very stable, going southwest now...
+E: on CB
+C: JO
+D: It's still on the ground?
+E: disbelief
+C: VOICE TWO
+D: Large wedge on the ground west... it's been down fifty minutes now...
+E: on CB crackle
+C: VOICE THREE
+D: No sign of letting up...
+E: on CB
+C: VOICE ONE
+D: Now Ashland... passing Ashland...
+E: on CB crackle
+C: JO
+D: Ashland? That's only ten miles from here. Bill's still looking at the sky, thoughtful.
+E: realizing
+C: BILL
+D: I'm going to get this one.
+E: to himself
+C: JO
+D: Dusty? Mount up.
+C: DUSTY
+D: We going?
+C: BILL
+D: We're going. Everybody heads for the cars. Bill looks over at Melissa.
+C: MELISSA
+D: Bill, I can't do this. I could never do this.
+E: beat
+C: BILL
+D: I know. They look at each other. Deeply into each other's eyes.
+C: MELISSA
+D: I need to get on with my life now. Do you understand what I'm telling you? He nods, slowly.
+E: beat
+C: JO'S VOICE
+D: Bill, you coming or not? Bill doesn't answer. HONKING.
+C: JO'S VOICE
+D: Bill, let's go! Bill turns, runs. Abruptly, Melissa turns away, walk off.
+E: CONT'D
+C: THE TEAM'S CARS
+D: Moving out, single file, through the rubble in the town. EXT. A SIGN - LEAVING GUTHRIE - PREDAWN As the team drives past it, in their cars. Back onto the highway. Bill turns his lights on as he drives, going fast.
+S: EXT. DRIVING ON HIGHWAY - EARLY MORNING
+N: Sunrise over flat farmlands. From beneath, it lights up low- hanging clouds, making an image both beautiful and menacing. The tornado is in the far distance, many miles away, obscured where dark clouds reach the ground.
+C: IN BILL'S TRUCK
+D: The usual excited CB babble of voices. Bill squints at the tornado.
+C: ON THE HIGHWAY
+D: There are other cars on the road -- all going the other way, away from the tornado. They honk and flash their lights in warning. The tornado is rumbling, churning up debris.
+C: BILL
+D: Place it right in the road, I think.
+C: JO
+D: Unless you think somebody'll hit it.
+C: BILL
+D: Nobody'll be there. You want to place it on the side of the road?
+C: JO
+D: Might be safer.
+C: BILL
+D: No...
+C: JO
+D: We only have one backup left after this. We got to do this right. The tornado ahead is menacing and grim.
+C: JO
+D: Half mile more...
+E: CONT'D focused
+C: BILL
+D: Right. There is now debris in the air.
+C: JO
+D: Debris, we have debris. Dusty, set up! Only a crackle comes back from the radio.
+E: on CB
+C: BILL
+D: Did he hear you?
+C: JO
+D: I don't know. Dusty?
+E: on CB
+C: BILL
+D: He's gotta set up, we're close now.
+C: JO
+D: Dusty, we're close now. And they are.
+E: on CB
+C: THE TORNADO
+D: The funnel as wide as the two-lane highway, it is greenish- yellow up close, and seems to pulse with inner fury. Debris swirling in the funnel is large -- sides of barns, whole trees. Jo stares at the churning funnel. It's really scary, even for her.
+C: DUSTY
+D: Hear us
+E: on CB crackle
+C: BILL
+D: Yeah.
+C: DUSTY
+D: Set up need to
+E: on CB crackle crackle crackle
+C: JO
+D: Dusty?
+C: DUSTY
+D: Can't see you, you must be on the other
+E: on CB crackle
+C: JO
+D: Say again, Dusty?
+C: DUSTY
+D: Try to
+E: on CB crackle
+C: JO
+D: Damn! I don't know if he's in position.
+C: BILL
+D: We are! EXT. THE HIGHWAY - DAY Bill spins the truck around in a 180 and jumps out, running to the back to unload the instrument pack. Jo jumps out the other side. They work quickly together. They place the white instrument pack in the center of the road -- perfectly in the path of the tornado -- and run back to the truck.
+C: BACK IN THE CAB
+D: As they jump in.
+C: JO
+D: Let's get moving! Bill floors it, and the truck races away from the solitary white instrument pack.
+C: JO
+D: Dusty?
+E: CONT'D looking back
+C: DUSTY
+D: Jo...
+E: on CB crackle
+C: JO
+D: Dusty, are you in position? Shit, we're in position and he's not!
+E: very tense
+N: A hundred yards down the road, Bill slows to a crawl. He and Jo look ack at the instrument pack, white against the ugly swirling cloud.
+C: JO
+D: This could be it... Jo rests a video camera on the back of the seat, and begins to film.
+E: CONT'D
+C: JO
+D: Five seconds, Dusty.
+E: CONT'D
+C: DUSTY
+D: We're all set up, Jo.
+E: on CB
+C: JO
+D: Great!
+E: relieved
+C: DUSTY
+D: But I'm not getting any readings yet.
+C: JO
+D: You will!
+C: WHAT THEY SEE
+D: The instrument pack upright in the road, alone. Farther up the road, there is a line of twenty tress planted as a windbreak. As the tornado approaches, the branches whip and snap; the trees bend... writhe... Then, staring at the far end of the line, the trees begin to be uprooted, one by one, pulled out by the giant hand of wind.
+C: BACK IN THE CAB
+D: They stare, mesmerized.
+C: THE APPROACHING TORNADO
+D: The trees uprooted, as the tornado approaches the waiting instrument pack. One tree lands on the road and skids sideways, narrowly missing the instrument pack -- which still stands.
+C: BILL
+D: Close. The pack is starting to shiver in the strengthening wind. The sound is louder.
+C: JO
+D: Come on... come on... just a little more... Their truck is struck by increasingly large debris -- branches -- branches and flying clods of dirt bang hard against the cab, sometimes rocking it. They watch the instrument pack.
+E: talking to pack
+C: THE PACK
+D: The top of the pack is rippling as the wind builds... the pack shimmies... and then begins to slide laterally, across the highway.
+C: BILL
+D: No! The pack picks up speed, sliding sideways.
+C: BILL
+D: It's too light.
+E: CONT'D
+C: JO
+D: Easy... easy... Don't give up... The pack almost skids to the side of the road... then a branch off a tree strikes a glancing blow... and then a big limb comes down splat! and crushes the pack. Gone.
+C: JO
+D: Okay. Give up. The atmosphere now is thick, lots of dirt in the air. The asphalt begins to life up from the highway in big chunks. Tree limbs scrape across the hood of the truck and blow away, screeching on metal, scratching the paint. It's nightmarish.
+E: CONT'D
+C: BILL
+D: Let's get out of here. Bill puts the truck in gear and floors it, and the truck streaks forward. But a big tree limp, blown by the wind, comes skidding sideways across the road, and slams beneath the truck. Like a wedge it lifts up the rear wheels, entangling branches in the underside of the truck, and spinning their truck around so they face the approaching tornado again. Bill puts the truck in reverse, tries to back off the limb. The wheels engage, spin in the air.
+N: Bill shifts gears, back and forth. He's trying to rock the truck, trying anything to get free. Jo stares at the approaching funnel. The wind screams. Bill's hand shifting gears.
+C: JO
+D: Bill? getting close.
+C: BILL
+D: I know.
+C: JO
+D: Holy shit, what is that?
+E: staring ahead
+C: THE VIEW AHEAD
+D: From the core of the tornado, A SOLD WALL OF METAL as wide as the road itself emerges, and comes straight toward them. It looks impossibly big. But they can't tell what it is, its online obscured by other debris.
+C: JO
+D: Bill... And suddenly the shape comes clear: they are looking at the roof of a BIG DIESEL TRUCK AND TRAILER, caught by the tornado, and literally flying toward them through the air. As they watch, the truck touches down on the concrete, and starts tumbling toward them, rolling side over side. It fills the entire width of the road. They are still trapped by the branches of the tree, with the huge diesel truck tumbling toward them. Fast. Bill stomps the gas and spins the wheel. The truck grinds against the branches. They don't move.
+E: CONT'D
+C: BILL
+D: This is not good. The diesel trailer tumbles down the road toward them. Bill steps on the gas, rubber burns the branches of the tree holding them up. The trailer tumbling forward, filling their entire field of view.
+N: Bill's truck gets free, bumper ripping away and then the wheels contact concrete and squeals as the truck jolts forward... The trailer tumbles up just as they start to move. They're going to get away -- then the trailer hits them a glancing blow, not a full impact, but it sends their little pickup truck spinning away like a toy, spinning in concentric 360s, to one side of the side of the road and then down the embankment.
+C: IN THE SPINNING TRUCK
+D: They hang on for dear life, the landscape swirling around them like a bad carnival ride. BENEATH THE UNDERPASS - DAY Their truck careens down the embankment, and comes to a rest in a concrete underpass, built for another road that crosses beneath the highway. Bill's truck spins a final time, and unexpectedly comes to rest in this place of relative protection. Several other cars are parked there, their passengers hiding up in the angle of the underpass. They stare as the wind is whipped all around them, dust and debris flies, the tornado passes, and there is relative silence. Bill and Jo stare at each other. Both gasping in the aftermath.
+C: DUSTY
+D: Jo! Jo! Are you there? Jo! Jo reaches for the radio answer him. Then they hear a creaking, almost human cry, but it is metal rending... RIGHT IN FRONT OF THEM The big diesel comes crashing down, nose first, and for a moment pauses, standing upright. Its radiator grill is on the ground, its rear wheels are still hooked to the roadway above. The creaking continues... The truck begins to twist sideways... The truck folds and partially falls on a parked car -- a 50s car painted sparkly metallic red. It flattens the front like a tin can, but the rest sticks out unharmed, like the ruby slippers of the Wicked Witch. A gigantic cloud of dust and steam rises.
+E: on CB
+N: Then silence.
+C: INSIDE BILL'S TRUCK
+D: They watch as people run toward the truck, to help the driver. To one side, a TEENAGE BOY looks dejected at his crushed ruby car.
+C: DUSTY
+D: Jo! Bill! You all right? Jo!
+E: CONT'D on CB
+C: JO
+D: We're all right. We're in the underpass of 80 and 124. Ten miles north of Guthrie.
+E: looking
+C: DUSTY
+D: Twister's still heading northeast down 80 --
+C: JO
+D: Down 80? Let's go. Bill steps on the gas. The truck squeals out of the underpass, starts driving diagonally up the embankment, back onto the road.
+E: realizing
+C: BILL
+D: The pack's too light.
+C: JO
+D: Make it heavier.
+C: BILL
+D: Have to be a lot heavier... A moment. They smile at each other, realizing...
+C: JO
+D: Dusty? Where are you?
+C: BACK ON THE HIGHWAY
+D: Now patchy, with places where asphalt has been lifted up, Bill speeds south, chasing the tornado.
+C: DUSTY
+D: We're north on 80, Jo, east side of the road.
+C: JO
+D: We're on our way. Where is Jonas?
+C: DUSTY
+D: Haven't seen him.
+C: THE TORNADO
+D: Powerful and rumbling. Unchanged in form. It's now several miles ahead of us.
+C: BACK IN THE TRUCK
+D: Crossing that farm near 80 and 5 now... Bill is focused on the tornado, frowning. He shakes his head. He sees something he doesn't like.
+E: on CB
+C: VOICE ONE
+D: Large wedge, must be a quarter miles across.
+E: on CB
+C: VOICE THREE
+D: Lateral columns very strong, it's an F-4, F-5...
+E: on CB
+C: JO
+D: Jeez...
+C: BILL
+D: Yeah. This is the one. EXT. WIDE ON THE OKLAHOMA COUNTRYSIDE - DAY Dense black storm clouds in the distance, several miles away. A dark focus tells us where the twister is, though we can't see the funnel yet. Lightning flashes. Bill drives fast. Dusty's and Rick's cars pulled over on the side of the highway. They stand and watch the storm. AT THE SIDE OF THE HIGHWAY - DAY Bill screeches to a stop, jumps out of the truck.
+C: BILL
+D: Dusty! You still got those bungees? Dusty ducks down, comes back with a snaky handful of cords. Bill grabs them, turns:
+N: Down the highway -- thoom! thoom! thoom! thoom! -- Jonas's silver fleet rushes past.
+C: BILL GO!
+D: He runs back to Jo, jumps in the back of the truck.
+E: CONT'D
+C: BILL
+D: Drive! Jo squeals out. Rick and Dusty follow, gunning engines, spewing dust.
+E: CONT'D
+C: JO DRIVING
+D: Listening to the spotters talking. Jonas is miles ahead. IN THE BACK OF THE PICKUP Bill lifting the final pack. POV DUSTY - FOLLOWING THE PICKUP We see Bill in the back of the tuck, lifting up the instrument pack and starting to tie it upright to the rear of the cab.
+C: DUSTY
+D: What the hell is he doing? Jo, what're you doing?
+E: on CB
+C: JO
+D: Just... don't follow us too close.
+E: on CB crackle
+C: DUSTY
+D: Oh boy... EXT. THE BED OF THE TRUCK - DRIVING ALONG Bill at work, tying the pack upright, wind whipping his hair. In the distance, lightning crackles. Bill looks up. We can see the tornado now, wide and churning, about ten miles away. Jo throws the window. she's got the CB mike in her hand.
+E: glance to Timmy
+C: JO
+D: You do it?
+C: BILL
+D: Where's Jonas?! INT. JONAS'S VAN Driving fast. Much closer to the tornado, and getting ahead of it. Jonas hears it, talks on the headset.
+C: JONAS
+D: About to eat your lunch, Bill. Outside, the car drives past a John Deere dealership. Tractors laid out in neat rows. The tornado on the other side of the road.
+C: JONAS
+D: We'll be drinking champagne by the time you get here. Go another five miles, then van number 2, take highway 18 and place the pack while we set up. Not gonna be long now... EXT. BACK OF THE FLATBED - DRIVING ALONG Bill stares forward, trying to see the geography.
+E: CONT'D to his people looks at tornado
+C: BILL
+D: He must be on the side road!
+C: JO
+D: Yeah! Bill squints in the wind, stares at the tornado.
+C: THE TORNADO
+D: Rumbling, moving, churning beneath the storm cloud. BILL IN THE BACK OF THE TRUCK
+C: BILL
+D: It's not gonna hold that path...
+C: JO
+D: What do you want to do?!
+C: BILL
+D: Turn left up here!
+C: JO
+D: Too early!
+C: BILL
+D: Do it! INT. DUSTY'S CAR - FOLLOWING He sees Bill working, as Jo turns left, onto a smaller road. The tornado is ahead and to their right, still in the distance. The usual cacophony of voices and radios:
+C: VOICE ONE
+D: Big wedge! High vortex, high condensation! Moving north northeast!
+E: on CB
+C: VOICE TWO
+D: Oh, mama! Picking up speed!
+E: on CB
+C: VOICE THREE
+D: Jonas, it's going north northeast.
+C: JONAS
+D: Roger! Men! Position!
+E: on CB
+C: THE TORNADO
+D: It is moving through farmlands, open fields. It is huge.
+C: VOICE ONE
+D: This is the big one! True F-5! F-5!
+E: on CB
+C: VOICE TWO
+D: Vortex turning, it's turning...
+E: on CB
+C: JONAS ON THE ROAD
+D: Three vans pull over, the fourth continues rocketing along. They are all ahead of the tornado. There is light wind as they get out, set up their equipment. BILL IN THE BACK OF THE TRUCK Squinting. Too far away to see, be he senses:
+C: BILL
+D: What's he doing?
+C: JO
+D: Setting up!
+C: BILL
+D: Gimme the radio! JONAS PARKED ON THE ROAD Jonas looks through binoculars at his final van, now parked a half mile away, the men setting up the instrument pack. Jonas expects the tornado to pass him and hit the pack. Jonas is surrounded by telemetry instrumentation, antennas sticking up.
+C: BILL
+D: Jonas! Get out of there!
+E: CONT'D on CB
+C: JONAS
+D: Bill, you just lost. Men! Ready to read!
+E: on CB drops CB handset
+C: BILL
+D: Jonas! It's gonna turn! Get out!
+E: on CB
+C: JONAS
+D: Stand by! The tornado is closer. Wind whips wildly.
+E: ignoring him
+C: CLOSE ON JONAS
+D: Staring forward, entranced.
+C: JONAS
+D: Beautiful...
+E: CONT'D
+C: BILL
+D: Jonas! Get out! Get out!
+E: on CB
+C: JONAS
+D: We're in control!
+E: on CB
+C: WIDER ON JONAS'S TEAM
+D: Past their cars to the tornado in a field, a quarter mile away. It is thick and black and roaring. And turning. Jonas's team sees it, panic on their faces. They run to their vans but it's too late. The tornado engulfs them, a sudden instant of flying bodies and tossed cars. Then roaring blackness.
+N: The tornado moves past. Everything is gone -- their vans, everything. Not a trace. BILL IN THE BACK OF THE TRUCK Staring. Jo looks at him, concerned.
+C: BILL
+D: Keep going.
+C: THE TORNADO
+D: Rumbling toward us.
+C: THE JOHN DEERE DEALERSHIP
+D: Tractors all laid out, and the tornado approaching from behind it. It moves in, and the dealership explodes.
+C: JO DRIVING
+D: As the first of the flying tractors comes banging down, bouncing across the road. She swerves. Another tractor coming. She squeals, turns again. In the back, Bill just hangs on. She swerves left and right. It's raining tractors.
+C: BEHIND THEM
+D: Dusty following with Timmy. Crumpled tractors all around. One blows laterally across the road, twirling like a top. INT. RICK'S CAR BEHIND DUSTY Rick's frightened.
+C: RICK
+D: I don't believe this.
+C: JO
+D: Heads up! A BIG TRACTOR comes swinging through the air, bounces in the road in front of him. He swerves. The wheel breaks free, smashes forward into the windshield.
+E: on CB
+C: IN DUSTY'S CAR
+D: Timmy looking back.
+C: TIMMY
+D: Rick! Rick! BY THE SIDE OF THE ROAD A big dent in Rick's car. The wheel jammed into the windshield. Rick pushes the door open, shaken.
+E: on CB
+C: RICK
+D: I'm okay. JO IN THE FRONT OF THE TRUCK, STILL DRIVING
+E: on CB
+C: DUSTY
+D: He's okay! IN THE BACK OF THE TRUCK Bill was looking back, now turns forward again.
+E: on CB
+C: BILL
+D: Tell Dusty to stay back!
+C: IN THE TRUCK JO
+D: Dusty, stay back! Stay back! Oh shit! DIRECTLY AHEAD - A WHOLE HOUSE Complete and upside down, sliding on its roof toward them, and spinning like a top as it goes. There is no time to avoid it. They drive straight into the house, hitting the second floor window. INT. THE HOUSE The truck crashes through the bathroom. Fixtures on the ceiling. The truck spins with the house, twisting. A SINK crashes down in the back near Bill.
+E: on CB looking forward
+S: EXT. THE HOUSE
+N: As the truck comes shooting through the other side.
+C: IN THE TRUCK
+D: Shaken, Jo accelerates, driving again. Looks back. IN THE BACK OF THE TRUCK Bill gets to his feet, throws the sink out of the pickup, looks forward. ON THE ROAD - JO'S TRUCK Driving toward the tornado. Dusty following at a distance.
+C: THE TORNADO
+D: Close now, all menace and power.
+C: BACK OF THE TRUCK
+D: Bill tying the last of the knots. He finished, knocks on the window. Gives her the high sign. She nods. INT. DUSTY'S CAR - FOLLOWING
+C: JO
+D: Dusty, set up here.
+E: on CB
+C: DUSTY
+D: Here? What're you doing?
+C: JO
+D: We're going in. He pulls his car over the side of the road. Bill looks back, waves good-bye from the back of the truck.
+E: on CB
+C: DUSTY
+D: Crazy bastards. They're gonna punch the core.
+C: TIMMY
+D: Yeah. In your truck.
+C: VOICE ONE
+E: on CB crackle MORE
+C: VOICE ONE
+D: just blew the hell out of a bunch of tractors. Twister's going toward a farm near Lincoln now.
+E: CONT'D
+C: THE TORNADO
+D: Rumbling with immense power. PAN to A SUBSTANTIAL FARM, with many buildings, freshly painted. A beautiful place. EXT. THE MAIN FARMHOUSE A housewife, LOUISE, 35, stands by the open door to the storm cellar, yelling. The tornado in the distance. The air is still.
+C: LOUISE
+D: George! Where's Dorothy? Her husband GEORGE is across the farm, closing the door. A young girl comes running.
+C: LOUISE
+D: Get in there with your brother. George, come on! The husband comes up, they both pause to watch, mesmerized. Then George looks to one side, stares.
+E: CONT'D
+C: GEOERGE
+D: What the hell?!
+C: WHAT HE SEES
+D: Jo driving a pickup truck across his alfalfa field. Bill standing up in the back.
+C: GEORGE AND LOUISE LOUISE
+D: Get in! They climb down, and she closes the door. EXT. THE PICKUP - DRIVING ALONG Bill stands, holding on, as the truck jounces across the field toward the tornado. INT. THE CAB Jo has trouble holding on to the wheel as the truck bounces in the field
+C: THE TORNADO
+D: Getting very close now.
+C: THE INSTRUMENT PACK
+D: As Bill ties the last of the bungees, making it secure.
+C: IN THE CAB
+D: Jo glances back, then forward. Up ahead, the tornado churns, dense and powerful and wide. They are a quarter mile away.
+C: DUSTY
+D: Jo? Its's too big. Get out! It's not worth it! She stares forward grimly.
+E: on CB
+C: JO
+D: Yes it is. Ahead, a split-rail fence blocks her way. She glances back at Bill, then drives through it.
+C: BILL IN THE BACK
+D: He sees it coming but is still knocked on his butt. He shakes his head He's taking a lot of abuse here.
+C: BILL
+D: Next time I'll drive. He quickly stands, stares at the tornado.
+E: to himself
+C: THE TORNADO
+D: Seen this close, it's unbelievable. The sound is deafening, shaking them, ferocious.
+C: BILL IN THE BACK
+D: Awestruck by the power they are driving toward. His face is coated with dust. He leans down to the window.
+C: BILL
+D: Get ready!
+E: CONT'D
+C: INSIDE THE CAB
+D: Ahead of Jo, the entire windshield is filled with the swirling tornado. Jo drives tensely. She's terrified.
+C: JO
+D: Ready! Ready!
+E: tense
+C: BACK OUTSIDE
+D: Bill faces the tornado. He grimaces, shouts.
+C: BILL
+D: Count of three! THree!
+C: INSIDE THE CAB
+D: Jo staring forward. BILL STANDING UP IN THE BACK OF THE TRUCK
+C: BILL
+D: Two!
+E: CONT'D
+C: JO INSIDE CAB JO
+D: Two? Suddenly, he sticks his head in the window.
+C: BILL JUUMMMMMMP! FOLLOWING THE TRUCK
+D: As they both bail -- she jumps out the driver's side, he flings himself off the opposite side of the flatbed, as the truck races forward.
+C: JO LANDING
+D: Hitting the dirt hard, rolling in alfalfa. She scrambles to her feet, looks around.
+C: BILL IN THE FIELD
+D: Getting to his feet. Jo comes running up, sees he's okay. They watch the truck driving away, toward the vortex.
+C: THE TRUCK
+D: Driving away from them, as they watch.
+N: The truck drives forward, chasing the tornado... And then drives right into the funnel. And disappears. For an instant, nothing happens. Then suddenly, the dark swirling funnel is filled with BRIGHTLY COLORED BOXES that spiral upward in every part of the funnel.
+C: BILL AND JO
+D: Stare in amazement. EXT. THE ROADSIDE A FEW MILES AWAY Dusty watches through his video recorder.
+C: DUSTY
+D: Is it registering? Timmy looks at the computer screens, which squeal and beep and fill with descending columns of numbers, reading telemetry off the packets.
+C: TIMMY
+D: It's reading! Incredible! It's reading!
+C: DUSTY
+D: All right!
+C: TIMMY
+D: They did it! They start screaming and cheering, too. They don't pat attention to the following CB babble:
+C: VOICE FIVE
+D: What the hell?
+E: on CB
+C: VOICE SIX
+D: What is all that junk?
+E: on CB
+C: VOICE FOUR
+D: Beats me, I thought it hit a pickup truck.
+E: on CB
+C: VOICE TWO
+D: Wedge is changing direction, now going due east, guys. Changing direction!
+E: on CB
+N: Dusty and Timmy just keep cheering. BACK TO JO AND BILL - IN THE FIELD Still jumping around, yelling, giving high-five, low-five, sideways-five.
+C: THE TORNADO
+D: As if it senses their victory, it turns, rumbling angrily.
+C: BILL AND JO
+D: They look at the funnel, instantly realize.
+C: JO
+D: It's turning...
+C: BILL
+D: Yeah. Bill grabs her arm, and they start running across the field. Ahead of them is the farmhouse, previously seen. The tornado is behind them. It is a half mile away. It is rumbling toward them.
+C: BILL AND JO
+D: Running hard. The thick black funnel fills the sky behind them. Closing in.
+C: UP ON THE ROAD
+D: Dusty watches.
+C: DUSTY
+D: Oh boy. What're you doing?
+E: turns to Timmy
+C: TIMMY
+D: Filming it.
+E: video in hand
+C: JO AND BILL
+D: Running hard, gasping, going on. The wind screaming in their ears.
+C: AHEAD OF THEM
+D: A large SHED, a substantial structure, the first of the farm buildings.
+N: Without hesitation, they run inside, slam the door.
+S: INT. THE SHED.
+N: They've crouched over, hands on knees, gasping for breath. They slowly look up, around them: the shed is full of sickles, scythes, reapers, and hay rakes -- sharp, curving metal blades that hang on the walls and stand on the ground, gleaming in the light.
+C: BILL
+D: Not in here. Still gasping, they run out again.
+C: OUTSIDE THE SHED
+D: The tornado has gotten much closer while they were inside. As they run toward the farmhouse, the shed behind them EXPLODES as the tornado hits it.
+C: BILL
+D: Down! He drags Jo facedown, in the dirt, just as a DECAPITATING BLADED REAPER screams through the air, bouncing in the dirt all around them, scattering the blades. They get up and start running again. Ahead of them is the FARM POND and beyond that the SPLIT-RAIL FENCE which leads to the main farm buildings. They pass the pond, running hard. The water is ruffling, whipping. Spirals up dense spray as the tornado hits it.
+E: CONT'D
+C: BY THE FENCE
+D: On the run, Bill vaults over it, so he's on the farm side, runs side by side with Jo, parallel to the fence.
+C: BILL
+D: Come on! Jo looks uneasy, and we think she can't do it, then... she vaults easily, landing on the other side of him. Behind them, the tornado tears up the fence, flipping rails like matchsticks, shooting them in all directions.
+E: CONT'D
+C: THE TORNADO BEHIND THEM
+D: It passes the pond, and SLAMS DOWN THE ROOF OF THE SHED, still intact.
+S: EXT. THE FARM COMPOUND
+N: Bill and Jo see the farmhouse up ahead, but it's too far away, they head for the barn, which is nearest. As they open the big barn door, FENCE RAILS THUNK into the wooden door like a series of missiles, penetrating several feet into the wood.
+S: INT. THE BARN
+N: Bill gets the door closed as more rails slam into the door, right behind his hands. Another almost smashes his face. The wind is screaming. Jo grabs him, and they turn. They look desperately for someplace safe. The air in the barn is starting to fill with bits of swirling hay -- it's like a blizzard. The wind screams. The hay flies faster. It lashes their faces and arms, leaving thin streaks of blood. Jo pulls Bill down to the ground. They are surrounded by flying hay. The wind is worsening. Above them, pieces of the barn is being pulled away, revealing black sky above. They move forward against the wind. They see nothing but hay on the floor around them. But as the wind continues, they hay is blown away, revealing a SMALL WOODEN PUMPHOUSE nearby.
+S: EXT. THE PUMPHOUSE
+N: Jo sees it, tugs at Bill, pulling him forward. As they go, the side walls of the barn start to creak inward, then are sucked upward, board by board.
+C: BILL AND JO
+D: Moving away, into the pumphouse, they close the door. There are pipes inside. They stand on either side of the pipes, clutching each other and the pipe. They wind builds.
+C: ISIDE THE PUMPHOUSE
+D: As the boards of the house are sucked up, one by one, streaking into the sky, progressively exposing them. The wind louder and louder. Finally the entire pumphouse is gone, they are just standing exposed exposed, holding on to the pipe for dear life.
+C: THEIR FEET
+D: Being pulled away from the ground.
+C: THEIR FEET
+D: Being pulled away from the ground.
+C: THEIR BODIES
+D: Swung up by the vortex, until they are hanging upside down.
+C: THEIR HANDS
+D: Clutching at the pipe and each other, hugging and holding on to dear life. The pipe they are holding on to is starting to shiver, to pull free from the concrete...
+C: THEIR HANDS
+D: Inexorably slipping away, as they are being pulled up into the storm.
+C: THEIR FACES
+D: Wincing, fighting to hold on. The sound building to a crescendo, and then changing... the light is changing, too. Now a pale unworldly blue.
+C: THEIR BODIES
+D: Being slowly released by the lessening wind, turning in the blue light back to the ground. They fall to the ground and look up, not understanding what has happened. THE VIEW ABOVE - THE EYE The roof lifts away in big chunks, and suddenly they are staring right up into the center of the tornado, a bright blue swirling circle like the eye of God. For a moment, they see it, then the tornado moves on, and LIGHTNING CRACKS DOWN, harsh and malevolent, and they duck as the wind screams. They clutch each other. They are obscured from view by flying dust and debris. CLOSE ON BILL AND JO Pressed together, face to face, with chaos all around them. Then, slowly, it diminishes. Then silence. The tornado has passed. They are very close together. She looks at him. He looks at her. Their faces inch closer.
+C: JO
+D: We did it.
+C: BILL
+D: Yeah. We did. The pack really world.
+C: JO
+D: It was a good idea.
+C: BILL
+D: Yeah... Well... He looks away, breaking the moment. Jo looks away, too.
+E: suddenly uneasy
+C: JO
+D: We have a lot to do.
+C: BILL
+D: Yeah...
+C: JO
+D: I mean, I've got to get grant approval for the new warning system, and we need a bigger lab, and you have to start the computer analysis of the data --
+C: BILL
+D: I do?
+C: JO
+D: Yes, of course, we have to generate models off all this data, and I need to run the lab --
+C: BILL
+D: No. You can do the analysis, I'll run the lab.
+C: JO
+D: I don't think so...
+C: BILL
+D: You don't?
+C: JO
+D: No, I don't.
+C: BILL
+D: Do you always have to do things the hard way?
+E: a pause, then
+C: JO
+D: Well, I married you... At that moment the tension between them breaks, and then, surrounded by destruction, they start to laugh. The tornado fades in the distance, dissipates...
+E: really considering it
+N: And is gone.

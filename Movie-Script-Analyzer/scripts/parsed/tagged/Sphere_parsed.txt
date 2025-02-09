@@ -1,0 +1,3765 @@
+M: SPHERE
+M: by Stephen Hauser
+M: based on the novel, SPHERE, by Michael Crichton
+M: March 5, 1996
+S: EXT. STREET IN GEORGETOWN -- MIDDLE OF THE NIGHT
+N: Fog hangs above the street, amongst the streetlamps. Apartment buildings line the curb, it is very quiet. In one building, six floors up, a bedroom light is on. WE SEE the silhouette of Norman's WIFE looking out the window.
+C: WIFE
+D: What kind of a crash was it?
+E: O.S.
+C: NORMAN
+D: You seen my suitcase?
+E: O.S.
+C: WIFE
+D: There's nothing on the news about a crash. Did he say what airline?
+E: O.S.
+C: NORMAN
+D: He didn't say much at all. Honey --
+E: O.S.
+C: WIFE
+D: In the closet. I don't understand, Norman -- why would they call you?
+E: O.S.
+C: NORMAN
+D: Don't be so supportive, honey.
+E: O.S.
+C: WIFE
+D: Well, I can't imagine five years of unemployment --
+E: O.S.
+C: NORMAN
+D: Four. Four years --
+E: O.S.
+C: WIFE
+D: Four years of unemployment would look too good on a resume.
+E: O.S.
+C: NORMAN
+D: Keep watching the news. Are you watching the news?
+E: O.S.
+C: WIFE
+D: How are you getting to the airport? You need money for the bus?
+E: O.S.
+N: A tinted-window black SEDAN travels down the street, pulls up in front of the apartment building. A U.S. NAVY decal is on the door.
+C: WIFE
+D: There's a U.S. Navy car outside, Norman.
+E: O.S.
+C: NORMAN
+D: What?
+E: O.S.
+C: WIFE
+D: Was it a military crash?
+E: O.S.
+C: NORMAN
+D: I don't know.
+E: O.S.
+C: WIFE
+D: They never used to send a Navy car.
+E: O.S.
+T: CUT TO:
+N: THE LOUD, HARD CHOPPING OF A HELICOPTER PROPELLER
+S: EXT. PACIFIC OCEAN -- DAY
+N: Blinding sunlight, as the helicopter WHIPS by, speeding above the Pacific Ocean.
+S: INT. HELICOPTER -- DAY
+N: Norman, 53, disheveled, unshaven, sits in the back. He studies a pamphlet in his hand: "AIRCRASH SURVIVAL: HOW TO COPE". The PILOT, in the cockpit, turns to him.
+C: PILOT
+D: What kinda work you in, Dr. Johnson?
+N: Norman quickly stuffs the pamphlet into his dufflebag.
+C: NORMAN
+D: I'm in psychology. Was. Still am really, just been a while. I treat aircrash survivors.
+E: beat
+C: PILOT
+D: Oh, so you're that Dr. Johnson.
+C: NORMAN
+D: You've heard of me?
+C: PILOT
+D: Well, everybody's been talking about that report you wrote.
+C: NORMAN
+D: What report?
+C: PILOT
+D: Huh?
+C: NORMAN
+D: What report?
+C: PILOT
+D: You mean you don't know?
+C: NORMAN
+D: Know what?
+N: The pilot glances back at him again.
+C: PILOT
+D: Must be another Johnson then. Been flying so many scientists out here -- can't keep everyone straight.
+C: NORMAN
+D: Who's everyone?
+C: PILOT
+D: Physicists, mathematicians, geologists, you name it.
+C: NORMAN
+D: Geologists? At a plane crash?
+C: PILOT
+D: Strange, isn't it? In the middle of the ocean no less.
+C: NORMAN
+D: What the hell would a geologist be doing at a plane crash?
+N: Norman looks out the window and sees a group of ships circling in the water.
+S: EXT. SHIP DECK -- DAY
+N: The helicopter descends down onto the helipad, wind gusting about. A young, female OFFICER -- holding her hat to her head -- rushes to greet Norman, as he climbs out of the helicopter. She looks down crudely at his shotty, nylon dufflebag.
+C: OFFICER
+D: Any other bags, Dr. Johnson?
+C: NORMAN
+D: Just that. Careful, it's heavy.
+N: She lugs it over her shoulder, no problem.
+C: OFFICER
+D: No other equipment? Scientific instruments?
+C: NORMAN
+D: No, they didn't say --
+C: OFFICER
+D: This way, sir.
+N: Norman follows the officer away from the helipad.
+S: INT. SHIP
+N: She leads Norman down a flight of stairs.
+C: OFFICER
+D: Captain Barnes wants to see you right away, sir.
+C: NORMAN
+D: Captain who?
+C: OFFICER
+D: Barnes. He's very eager to meet you. Been calling us every half hour to see if you're arrived.
+C: NORMAN
+D: Really?
+N: As they march down a hallway, Norman looks down at his wrinkled suit, tries to smooth it out.
+C: OFFICER
+D: By the way sir, I've read your report. I think it's brilliant.
+C: NORMAN
+D: What report?
+C: OFFICER
+D: You mean they haven't told you yet?
+C: NORMAN
+D: Told me what?
+N: She staightens up, like she might have said too much.
+C: OFFICER
+D: This way, sir.
+S: INT. BARNES' OFFICE
+N: CAPTAIN HAROLD BARNES, 60s, immaculate, proud of who he is, talks on the phone.
+C: BARNES
+D: How's he look?... Well, we can't all be officers, can we? They tell me he's brilliant.
+E: laughs
+S: EXT. BARNES' OFFICE
+N: Norman stands in front of the door. The doorplate reads: PROJECT COMMANDER -- CAPTAIN HAROLD BARNES. Norman straightens his big-knotted tie. Deep breath.
+S: INT. BARNES' OFFICE
+N: As the door opens, Barnes is putting down the phone, rises from his desk, as Norman steps inside.
+C: BARNES
+D: Dr. Norman Johnson. Welcome aboard.
+N: They shake hands.
+C: NORMAN
+D: Thank you, Colonel.
+C: BARNES
+D: Captain.
+C: NORMAN
+D: Captain. Right, forgive me.
+N: Barnes looks at Norman, sizing him up. An akward silence.
+C: NORMAN
+D: Well, thanks for the opportuninty here -- my wife appreciates it.
+C: BARNES
+D: Don't thank me, Dr. Johnson. You weren't my choice. The Pentagon made me take you.
+C: NORMAN
+D: The Pentagon? I didn't know I had friends in Washington.
+E: smiling
+N: Norman tries to laugh as Barnes ushers him to the door...
+C: BARNES
+D: Come with me. The team's already waiting.
+C: NORMAN
+D: What team?
+S: INT. HALLWAY
+N: Barnes leads Norman down the corridor, lined with OFFICERS and GUARDS.
+C: BARNES
+D: What have you been told so far?
+C: NORMAN
+D: The usual. Plane crash. Survivers unknown. Routine stuff really.
+C: BARNES
+D: Anything else?
+C: NORMAN
+D: Nothing else.
+N: A GUARD unlocks a large, steel door.
+C: GUARD
+D: Captain Barnes. Dr. Johnson.
+C: NORMAN
+D: Hello.
+N: Norman looks at the guard as they proceed through the doorway, wondering how the guard knows his name.
+C: BARNES
+D: You talk to any reporters? Any press?
+C: NORMAN
+D: Press? No, I haven't.
+N: The steel door shuts loudly behind them.
+C: BARNES
+D: Good. Security's been our biggest worry. Now that you're here we can shut this thing down tight.
+C: NORMAN
+D: From what? What's with all the security?
+C: BARNES
+D: Well, we don't have all the facts yet.
+N: Another GUARD opens up another large steel door...
+S: INT. TECH ROOM
+N: Barnes leads Norman through the room, crammed with video monitors, screens, and grids. Officers talk into radios. Technicians work on computers.
+C: BARNES
+D: We're moving fast considering the storm.
+C: NORMAN
+D: Storm? What storm?
+C: BARNES
+D: A cyclone's on it's way in. I thought they would have told you on the phone.
+C: NORMAN
+D: They didn't tell me anything.
+N: Norman tries to keep pace...
+C: BARNES
+D: We've had divers working around the clock. Take a look at this...
+N: ANGLE ON a large VIDEO SCREEN -- shows a diver walking on the ocean floor, holding a bright artificial flashlight.
+C: NORMAN
+D: How deep is he?
+C: BARNES
+D: A thousand feet.
+C: NORMAN
+D: A thousand? An airplane crashes into a thousand feet of water -- I don't want to sound pessimistic here, but I assume there are no survivors.
+C: BARNES
+D: Survivors? No, I wouldn't think so.
+C: NORMAN
+D: Then why am I here?
+C: BARNES
+D: What?
+C: NORMAN
+D: What do you need me for?
+N: ON THE VIDEO SCREEN -- the diver shines his light on a large, metallic OBJECT.
+C: BARNES
+D: What crashed wasn't an airplane, Dr. Johnson. It's a bit larger than that.
+N: Barnes walks toward a TECHNICIAN, sitting at a keyboard.
+C: BARNES
+D: Bring up the grid, would you?
+E: to technician
+N: ANGLE ON THE MONITOR as an IMAGE OF THE CRAFT begins to form.
+C: NORMAN
+D: What is it? A military spacecraft? Like a shuttle or satellite?
+C: BARNES
+D: Something like that. That doesn't surprise you?
+E: beat
+C: NORMAN
+D: Not really, no. Something of the military crashes in the ocean -- it explains why there was nothing on the news, why you've kept everything a secret... When did it crash?
+C: BARNES
+D: As best we can estimate, it crashed four hundred years ago.
+N: A beat.
+C: NORMAN
+D: Four hundred? You're kidding, right?
+N: ANGLE ON THE MONITOR -- showing a grid depicting an image of the craft and a small layer of ROCK above it.
+C: BARNES
+D: See this? Coral. Geologists measured the coral growth on top of the craft to be over five meters thick.
+C: NORMAN
+D: Geologists?
+C: BARNES
+D: Coral grows at a rate of two and a half centimeters a year --
+C: NORMAN
+D: -- Wait a second --
+C: BARNES
+D: -- dating the crash at least that old.
+C: NORMAN
+D: Hold on --
+C: BARNES
+D: Maybe older --
+C: NORMAN
+D: -- there's got to be some mistake here -- a four hundred year old military spacecraft? There's no such thing... our space program isn't even forty years old.
+C: BARNES
+D: Extraordinary, isn't it?
+C: NORMAN
+D: It's impossible.
+C: BARNES
+D: I'm afraid it is Dr. Johnson... because it's sitting on the bottom of our ocean floor.
+S: INT. STAIRWELL
+N: Barnes and Norman shuffle down the stairs.
+C: BARNES
+D: Off the record, I don't mind telling you, this thing scares the shit out of me.
+C: NORMAN
+D: It doesn't make any sense.
+C: BARNES
+D: We think it might. That's why we brought you here. We've assembled your team -- they're waiting for us now.
+C: NORMAN
+D: What team?
+C: BARNES
+D: The one you recommended. In the ULF report you wrote for the Bush administration.
+C: NORMAN
+D: ULF report? Nobody's mentioned that in years. You mean someone actually read it?
+N: As they head down a hallway, Barnes pulls the ULF REPORT out from under his arm, hands it to Norman. Norman looks at it, almost embarrassed to be holding it.
+C: BARNES
+D: Your report's become our bible down here, Dr. Johnson. We've been carrying out each of your recommendations -- one by one -- to the smallest detail.
+C: NORMAN
+D: But sir, I don't understand. This report -- these recommendations... they're for an encounter with extra- terrestrial life.
+S: INT. BRIEFING ROOM
+N: ON A VIDEO SCREEN -- sonar video of the spacecraft.
+C: BETH
+D: How big is this spacecraft?
+E: O.S.
+C: BARNES
+D: Of what we're able to measure, roughly twenty-six hundred feet.
+E: O.S.
+C: TED
+D: A half a mile long?
+E: O.S.
+C: BARNES
+D: The wing dimension alone is larger that any aircraft we've seen.
+N: The team members sit around the conference table: TED FIELDING, 41, geologist, boyish and happy to be here. BETH HALPERIN, 36, biochemist, mother of three who's never worn an apron. ARTHUR LEVINE, 54, marine biologist, pudgy and quiet. HARRY ADAMS, 32, mathamatician, African-American, wire-glasses, no bullshit.
+C: HARRY
+D: How much damage?
+C: BARNES
+D: To the craft? None. Not a scratch.
+C: HARRY
+D: Right. So you're saying it survived a high speed impact with water without a scratch?
+C: BARNES
+D: I'm not saying anything, Harry, I'm just stating the facts. The outer metal is made of a titanium alloy, built into an epoxy- resin honeycomb. The necessary technology to bond this type of metal has never been invented.
+E: continuing
+C: TED
+D: Never invented?
+N: ON NORMAN, watching the team...
+C: BETH
+D: In basic English, what does all this mean?
+C: BARNES
+D: Basic English? There's no way this spacecraft was constructed on our planet.
+N: A LOUD MECHANICAL WHIRR
+S: INT. TESTING ROOM -- LATER
+N: A large, X-Ray APPARATUS moves to the side, revealing Norman's FACE. ON BETH -- standing next to him.
+C: BETH
+D: Five years. No phone calls. What am I -- a leper?
+N: Norman sits up...
+C: NORMAN
+D: Beth, look, can I trust you with a little secret?
+C: BETH
+D: I love secrets.
+C: NORMAN
+D: That ULF report everybody's patting me on the back about?
+C: BETH
+D: I've read it twice, Norman. It's brilliant.
+C: NORMAN
+D: It's bullshit. The report's a joke.
+C: BETH
+D: That's quite a secret.
+E: beat
+C: NORMAN
+D: I spent a week reading Sagan and watching re-runs of the Twilight Zone. Seriously. I was just trying to pay the mortgage on my house -- I had no idea --
+N: ANGLE ON TWO NAVY CORPSMEN, standing behind glass in the next room, monitoring Beth and Norman.
+C: BETH
+D: Do yourself a favor, Norman. Are you listening? Don't tell anyone what you just told me.
+C: NORMAN
+D: C'mon, Beth -- that report's like the blind leading the blind.
+C: BETH
+D: Because when we get down there --
+C: NORMAN
+D: Wait -- down where?
+C: BETH
+D: To the spacecraft. To investigate.
+C: NORMAN
+D: Underwater?
+C: BETH
+D: What do you expect? For them to bring it up here?
+C: NORMAN
+D: We can't go down there. We're not prepared. That deep? That takes years of training, Beth. We're just scientists. Lab scietists. We wear ties and lab coats to work -- not oxygen tanks.
+C: BETH
+D: Well, you must have realized the chances an encounter like this would happen here. In the ocean. 70 percent of the earth's surface is water, Norman. That's first grade geography.
+E: off his look
+C: NORMAN
+D: It never occurred to me.
+C: BETH
+D: Well, let's pray that's the only mistake you made. Have you said anything to Barnes about this?
+C: NORMAN
+D: The timing has never seemed quite right.
+C: BETH
+D: Just keep your mouth shut, alright? This could mean everything to our careers, you know that? Don't jeopardize this.
+C: NORMAN
+D: What -- are you threatening me?
+E: nervous laughter
+S: EXT. SHIP -- LATE AT NIGHT
+N: THE SKY -- clouds looming on the horizon. ANGLE ON ARTHUR LEVINE, leaning against the railing, looking out at the water. ON NORMAN, approaching him. Arthur never looks at Norman, he just stares out at the water.
+C: ARTHUR
+D: I don't know you, but I'll be honest with you. I don't like this. I don't like any of this. Especially, the water.
+C: NORMAN
+D: Seasick? A marine biologist?
+C: ARTHUR
+D: I don't belong here. None of us belong here. Look at that.
+N: ANGLE ON THE WATER, an ocean of seemingly endless, choppy waves.
+C: NORMAN
+D: Makes you feel pretty small, doesn't it?
+C: ARTHUR
+D: It scares the shit out of me.
+T: CUT TO:
+N: CLOSE ON NORMAN, lying on a cot. It is dark. His eyes are open. He stares at the ceiling.
+T: CUT TO:
+S: INT. DESCENT PLATFORM
+N: A porthole hatch to the DESCENT SUB unlatches loudly. A SUB-OFFICER help Norman lower himself through the hatch.
+S: INT. DESCENT SUB
+N: Norman steps down the ladder into the sub compartment. Seated in a circle area: Ted, Beth, Harry, and Arthur. Ahead of them, Captain Barnes sits with the pilot in the sub's cockpit, separated by a wall of plexiglass. Norman takes a seat between Beth and Ted.
+C: BARNES
+D: Our descent will take 13 minutes. Descending at a speed of 80 feet per minute.
+E: O.S. through the intercom
+N: Across from Norman, Harry is WHISPERING something quietly into Arthur's ear.
+C: BARNES
+D: Pressure adjustments will cause the sub to lurch at times, but don't be alarmed. It's perfectly normal...
+E: O.S.
+N: Arthur's face drips with sweat, as Harry continues to whisper into his ear.
+C: BARNES
+D: The sub's interior atmosphere will experience moisture as we descend, and the temperature will drop rapidly. Just relax and remain seated during the descent.
+E: O.S.
+N: Norman watches Arthur, dripping with sweat.
+C: BARNES
+D: We have clearing from the base.
+E: O.S.
+N: Red interior lights flicker on in the compartment, and WE HEAR the sub make a HISSING sound. The sub lurches, and begins to lower in the water.
+C: NORMAN
+D: Arthur?
+N: Harry has gotten to Arthur. Arthur is on the verge of panic.
+C: NORMAN
+D: Arthur? You alright?
+C: ARTHUR
+D: Open the hatch door, please.
+N: Harry continues to whisper in his ear.
+C: ARTHUR
+D: Captain, open the hatch door, please ... the hatch door, Captain. Open it, please.
+C: BARNES
+D: Calm down, Dr. Levine.
+E: O.S.
+C: ARTHUR
+D: Let me out, Captain. Open the door!
+C: BARNES
+D: Please, Dr. Levine.
+E: O.S.
+N: Arthur leaps violently out of his seat, scrambles to the plexiglass wall.
+C: BARNES
+D: Sit down, Dr. Levine! You're in a military operation now --
+E: through the plexiglass
+N: Arthur bangs on the plexiglass wall with his fists.
+C: BARNES
+D: ... Your civil rights have been overridden!
+C: ARTHUR
+D: Open it, Captain!
+C: BARNES
+D: Dr. Levine, please! Return to your seat!
+N: Arthur VOMITS, violently, heaving, splattering the plexiglass wall.
+C: ARTHUR
+D: Open the fucking door!
+N: The sub LURCHES again, coming to a stop. The compartment is totally silent, as they begin ascending to the surface. ON HARRY smiling a sly, evil grin directed right at Norman. The sub lurches again, and WE HEAR clanking metal. The hatch door opens. And Arthur, wiping the vomit from his mouth, climbs up the ladder and out the hatch door.
+C: BARNES
+D: Anybody else?
+E: O.S.
+N: Silence. The hatch door LOCKS, loudly. The sub lurches, and begins descending.
+C: TED
+D: Pussy.
+C: BETH
+D: What's that -- mistake number two, Norman?
+C: NORMAN
+D: He wasn't feeling well.
+C: TED
+D: He's a pussy.
+N: Harry is still staring at Norman...
+C: HARRY
+D: How are you feeling, Norman?
+C: NORMAN
+D: What?
+C: HARRY
+D: You holding up alright?
+C: NORMAN
+D: Fine. I'm fine.
+C: HARRY
+D: Don't be defensive.
+C: NORMAN
+D: I'm not being defensive.
+C: HARRY
+D: You sound defensive.
+C: NORMAN
+D: I'm fine.
+C: TED
+D: What'd you say to him?
+E: to Harry
+C: HARRY
+D: To who? Arthur? Nothing. Nothing that Norman doesn't already know.
+C: TED
+D: What does Norman already know?
+C: HARRY
+D: Norman thinks we shouldn't be going down. Thinks it's a mistake.
+N: Norman looks over at Beth.
+C: HARRY
+D: She told me what you said, Norman.
+C: TED
+D: What is it, Harry?
+C: HARRY
+D: Just one of Norman's many secrets.
+N: ON NORMAN, saying nothing.
+S: EXT. OCEAN
+N: WE SEE the sub descending into darker waters.
+S: EXT. DH-8 HABITAT -- ARRIVING DOCK
+N: The SUB descends into the AIRLOCK, metal clanks against metal. Around it, the DH-8: interwoven cylinders lit up with lights.
+S: INT. AIRLOCK -- PRESSURIZING ROOM
+N: CLOSE ON THE HATCH DOOR closing tightly, locking.
+C: OFFICER
+D: One moment for pressurizing.
+E: O.S.
+N: A SOFT WHIRR. ANGLE ON -- Barnes and the four remaining team members standing in the small, claustrophobic pressurizing room. Like sardines. Nobody says anything. A long beat. THE DOOR in front of them, opens. TEENY FLETCHER, 30s, a big-boned female officer, stands before them. She wears a black plastic PAD, a "talker", around her neck. She hands each member their own "talker". Norman takes his.
+S: INT. DH-8 HALLWAY
+N: Fletcher leads Barnes and the team members down the hallway. Each of them wears the "talkers" around their necks.
+C: BARNES
+D: They pressurize us with helium.
+C: NORMAN
+D: What's wrong with oxygen?
+C: BARNES
+D: It's a corrosive gas. On earth, it makes a half-eaten apple turn brown and puts the ugly, iron rust on an Oldsmobile. At a pressure this low, oxygen becomes toxic. Breathe it down here, and it'll do to your dick what it does to the Oldsmobile.
+C: TED
+D: Important safety tip. Thanks Captain.
+N: Fletcher listens through her radio earpiece, turns to Barnes...
+C: FLETCHER
+D: Captain, the divers have the airlock mounted at the door. The robot is now in position to enter the spacecraft.
+C: TED
+D: Robot? What robot?
+S: INT. VIDEO FEED ROOM
+N: CLOSE ON A MONITOR -- showing the robot in front of the curved gray metal of the spacecraft.
+C: BARNES
+D: Edmunds, bring up the robot's camera feed.
+N: JANE EDMUNDS, 32, the unit archivist, works the control panel. Another MONITOR clicks on -- showing the robot's POV of the door.
+C: TED
+D: Captain, you know, I really appreciate you hauling us a thousand feet below sea level so we can watch this historical event on television.
+C: BARNES
+D: Nobody goes inside, until we know what's inside.
+N: ON THE MONITOR -- THE ROBOT CAMERA scans the spacecraft hull, stops on a rectangular panel mounted to the left of the door.
+C: BARNES
+D: Can you open that panel?
+C: EDMUNDS
+D: Working on it now, sir.
+N: ON THE MONITOR -- a robotic CLAW extends out to the panel. Trying to pry the panel open.
+C: TED
+D: I'd like it noted in the report that I think we should be doing this ourselves. Making a manned entry...
+N: The claw is clumsy, and keeps banging into the metal.
+C: TED
+D: I'd also like it noted --
+C: BARNES
+D: Duly noted, Ted. Edmunds, try using suction.
+N: ON THE MONITOR -- another robotic arm extends out, with a rubber sucker. It pushes against the panel, but doesn't suck.
+C: EDMUNDS
+D: It's not sucking, sir.
+C: BARNES
+D: Thank you, I can see that. Try something else.
+C: EDMUNDS
+D: We don't have anything else to try, Sir.
+C: BARNES
+D: Well, shit -- find something, do something... make something up --
+C: TED
+D: What about a crowbar?
+N: Barnes straightens up, looks at Ted...
+C: BARNES
+D: What about a crowbar?
+C: TED
+D: What if we go out there, you know -- wedge a crowbar in the door and pry the thing open.
+C: HARRY
+D: Pry the thing open? What are we -- neanderthals?
+C: BETH
+D: All that banging and pounding. I don't know. We should think about making a good first impression.
+C: HARRY
+D: For who? The fish?
+C: BETH
+D: For whoever's in that thing.
+C: BARNES
+D: Or whatever's in that thing.
+N: ON THE MONITOR -- the spacecraft, sitting there silently, staring back at them.
+C: BARNES
+D: Norman, what do you think?
+N: Norman, quiet in the corner, perks up...
+C: NORMAN
+D: Me? Well -- I don't really... I mean, you could... you know, you could make a real solid case... a crowbar?
+N: All eyes on Norman.
+C: NORMAN
+D: I don't know.
+N: A beat as they all stare at him.
+C: TED
+D: I'm secure enough with that.
+S: INT. CHANGING ROOM
+N: ANGLE ON A LOCKER door opening. Inside is an elaborate JUMPSUIT and HELMET with the name: "JOHNSON", stenciled above the faceplate.
+C: NORMAN
+D: Are we all -- I mean, is it necessary for all of us to go... out there?
+N: The other team members take their suits out of their lockers.
+C: BARNES
+D: Nothing to be nervous about. These suits are wired and electrically heated. Each equipped with an alarm that triggers automatically if life- support sustems go below optimum.
+N: Norman holds his jumpsuit out and away from him, like it's something nuclear.
+C: TED
+D: It's just like swimming, Norman... You know how to swim, don't you?
+C: HARRY
+D: You're not afraid of the water, are you, Norman?
+N: They all look over at him.
+C: BETH
+D: Isn't there a psychological term for that, Dr. Johnson?
+E: half smiling
+C: NORMAN
+D: Yeah. Drowning.
+E: under his breath
+S: INT. AIRLOCK ROOM -- (A CYLINDER)
+N: Dressed in jumpsuits and helmets -- Barnes jumps into a POOL of ocean water, cut out from the floor, leading to the ocean. It looks like a tiny swimming pool. Ted jumps in next. Beth, Harry, and Norman are left...
+C: BETH
+D: You're next, Norman.
+C: NORMAN
+D: No. Go ahead. Really. Ladies first.
+E: nervous as hell
+C: BETH
+D: Such a gentlemen when you're scared shitless.
+N: She hops in. Norman watches, looks up at Harry, next to him.
+C: HARRY
+D: Go ahead. Ladies first.
+C: NORMAN
+D: No, why don't --
+N: Harry nudges him forward.
+C: HARRY
+D: C'mon.
+C: NORMAN
+D: Wait a second, I --
+N: Harry pushes him again. Norman catches himself.
+C: NORMAN
+D: Geez, c'mon, alright. Gimme a minute. Let me get my bearings --
+N: Harry pushes him again.
+C: HARRY
+D: C'mon, Norman.
+C: NORMAN
+D: Look, would you --
+N: And Harry just pushes him in. Norman slips and falls awkwardly... into the ocean depths.
+T: CUT TO:
+N: BLACK. Quiet. Only THE SOUND OF NORMAN -- BREATHING. For a couple beats. Now... NORMAN'S POV -- from inside his helmet -- a light SHINES from behind him -- casting his SHADOW onto the murky ocean floor. Norman's head turns, and he's BLINDED by a light -- it's Harry, the light SHINING from the top of Harry's helmet. WE HEAR Harry's voice, static, through Norman's helmet.
+C: HARRY
+D: The switch is on your waist.
+E: O.S.
+N: ON NORMAN -- his GLOVE -- fumbling at his waist. HIS HELMET LIGHT -- FLICKERS on. ON NORMAN -- slowly, beginning to walk on the ocean floor. HIS FEET -- squashing gently, lightly into the muddy ground. NORMAN'S POV -- can barely make out the others in front of him, their helmet lights STROBING the dark water, crossing each other, like searchlights on a foggy night. CLOSE ON NORMAN'S FACE -- eyes cold, BREATHING. Couple beats. And HEARS:
+C: TED
+D: Look at that thing.
+E: O.S.
+N: Norman's eyes look up... WE PULL BACK... LONG, HIGH, WIDE SHOT of the team -- their little helmet lights tiny and insignificant almost as... IN FRONT OF THEM -- the SPACECRAFT. Dwarfing them in size, looming large, majestic, like nothing we've ever seen. The enormous tail fin, in the distance, extends high out of the coral. In the huge MOUND OF CORAL covering the spacecraft, WE SEE a tunnel -- cut out like a cave -- lined with tiny, dim lightbulbs.
+S: INT. TUNNEL
+N: About 60 feet deep. Narrower than they'd like. Norman descends, clumsily, awkwardly -- pushing off the bulky, iron handles fastened to the coral walls. THE LOUD HISSING OF AIR
+S: INT. SPACECRAFT AIRLOCK
+N: CLOSE ON NORMAN'S FACE as he watches the water recede, down past his faceplate. THE LOUD BANGING OF METAL Ted has wedged a crowbar into the door and BANGS at it with a sledgehammer.
+C: HARRY
+D: Easy Ted, we're not mining gold.
+C: TED
+D: Gimme some room here, will you? Back off. Gimme some space.
+N: They all back away, cramming into the far corner of the airlock as Ted keeps swinging.
+C: BETH
+D: Looks alot like an airplane door, doesn't it?
+N: Ted stops and looks at the door.
+C: TED
+D: Alot like. You know, I noticed it before, but I didn't...
+C: HARRY
+D: Shutup, Ted. You didn't notice shit. Keep hammering.
+C: NORMAN
+D: You want me to try?
+C: TED
+D: You're a 53 year old shrink, what are you gonna do?
+C: BARNES
+D: Give him the hammer, Ted.
+N: Norman takes the hammer. Walks up to the wedge. Gets his bearings. Rears back... then stops.
+C: TED
+D: What is it, your back give out?
+N: Something has caught Norman's eye. He looks down at the wedge.
+C: BARNES
+D: What is it, Norman?
+C: NORMAN
+D: Take a look.
+N: Barnes comes toward him. The others follow. Barnes bends down, looks closely down at the wedge in the door.
+C: BARNES
+D: It's chipped.
+C: HARRY
+D: Chipped? The door? How can it be chipped?
+C: BARNES
+D: I don't know how it can be chipped, but it's chipped.
+C: HARRY
+D: I thought you said there wasn't any damage done in the crash?
+C: BARNES
+D: I did.
+C: HARRY
+D: Then how can it be chipped?
+N: ON BETH -- she touches the door with her palms, feels around.
+C: BETH
+D: There's heat coming the door.
+C: BARNES
+D: Back away then.
+C: BETH
+D: Wait a minute --
+C: BARNES
+D: I said back away.
+C: BETH
+D: Would you wait a minute?
+N: THE DOOR STARTS TO RUMBLE Barnes unstraps a GUN -- nearly the size of an uzzi -- from his buckle.
+C: BARNES
+D: Ted, get her away from the door.
+C: TED
+D: What are you going to do -- shoot her?
+N: The RUMBLING louder...
+C: BARNES
+D: Get her away!
+N: THE DOOR begins to slide open. Beth backs away. THE DOOR, sliding, is revealing COMPLETE BLACKNESS inside. The door stops, it's open, it's quiet. They all stand there, looking at BLACKNESS. A long beat.
+S: INT. SPACECRAFT
+N: ON NORMAN -- cautiously stepping inside. His helmet light SHINES on the others ahead of him, walking along a 5 foot wide CATWALK, suspended high in the air. Metallic BEAMS and RAFTERS criss-cross above them. Norman looks over the railing -- his light STROBES through 40 feet of darkness, dimly lighting the LOWER HULL, a dense network of STRUTS and GIRDERS.
+C: TED
+D: Look at this.
+C: BARNES
+D: What is it?
+N: Ted SPOTLIGHTS the OUTER HULL.
+C: TED
+D: Some sort of lead or something.
+C: BARNES
+D: Radiation shield, you think?
+C: TED
+D: A foot and a half thick? That'd withstand a helluva lot of radiation.
+N: Beth's light SHINES down onto the CATWALK. WE SEE FOOTPRINTS outlined on the dusty floor.
+C: BETH
+D: Hold on --
+C: BARNES
+D: What is it?
+C: BETH
+D: Any of you get ahead of me -- walk this far up?
+C: TED
+D: No. I don't think so.
+C: BETH
+D: Well, think. Because there's footprints here that aren't mine.
+C: TED
+D: Well, they're not mine.
+N: ON THE FOOTPRINTS -- large, like the boots they're wearing.
+C: BARNES
+D: Calm down, alright? They gotta be somebody's here. Let's stay together, please.
+T: CUT TO:
+N: LONG SHOT -- seeing them suspended high in the air on the catwalk, walking. Their tiny streams of LIGHT moving about. WE SEE just how ominous this spacecraft really is.
+C: BETH
+D: It's empty. Why would someone build a ship like this?
+C: HARRY
+D: You'd have to ask them.
+N: They approach a DOOR, at the end of the catwalk.
+C: BARNES
+D: Alright, Beth, do that thing you did before.
+C: BETH
+D: How about I just press the button?
+N: She presses a button near the door. The door SLIDES open.
+C: BARNES
+D: Or just... press the button.
+N: Barnes holds out his gun, and enters. The others behind him.
+C: TED
+D: Strange, isn't it? You know -- how it would have a button.
+C: NORMAN
+D: Earth doesn't have a patent on buttons, Ted.
+C: TED
+D: Still, make a note I recognized that.
+N: ON BARNES -- leading them through a small hall. It seems to be opening up into some sort of room -- when Barnes stops. Dead in his tracks.
+C: TED
+D: What's wrong?
+C: BARNES
+D: What do you make of this?
+E: serious
+N: ON NORMAN -- as he steps around Barnes, his light BRIGHTENING on: A SIGN that reads: "Trash."
+C: TED
+D: What the hell?
+E: softly
+N: Very softly, Harry begins to laugh.
+C: TED
+D: English?
+C: HARRY
+D: That's right.
+N: Norman looks up and SEES more of the room as his light SHINES throughout it: TABLES, COUCHES and CHAIRS -- made of leather, very comfortable looking. They begin to slowly wander about...
+C: BETH
+D: I don't get it.
+C: TED
+D: It doesn't make any sense.
+C: HARRY
+D: You don't think it does? I think it's rather obvious.
+C: TED
+D: Is it some sort of joke? Like one of those hoaxes?
+C: HARRY
+D: A spacecraft half a mile long -- with 500 tonnes of coral on top of it? Someone went to a lot of trouble. Try again.
+C: TED
+D: But it's impossible.
+C: HARRY
+D: Is it?
+N: Beth touches the table, it's metal, but it's soft and rubbery.
+C: TED
+D: Why would this ship carry instructions in English?
+C: HARRY
+D: Think about it.
+C: TED
+D: Unless, this alien spacecraft was -- you know -- somehow presenting itself to Americans in a way that would make us feel comfortable.
+C: NORMAN
+D: 400 years ago? I'm sure Christopher Columbus would've loved these accomodations.
+C: BETH
+D: Good theory, Ted.
+C: TED
+D: Well, what's your theory?
+C: BETH
+D: I'm a woman. I don't theorize. I only deal with facts.
+C: HARRY
+D: All the facts you need are right in front of you.
+C: TED
+D: Gimme a minute here... I think I've got it.
+C: HARRY
+D: Do you?
+C: TED
+D: If it is an alien spacecraft --
+C: HARRY
+D: Save your breath. It's not an alien spacecraft.
+C: BETH
+D: Then what is it?
+C: HARRY
+D: It's an American spacecraft.
+E: beat
+C: TED
+D: An American spacecraft? Half a mile long? And buried 400 years? Yeah, good theory, Harry.
+C: HARRY
+D: It's been obvious from the start, hasn't it, Captain? That's why all the secrecy, why no one was told about it?
+C: BARNES
+D: We had considered it.
+C: TED
+D: Considered what? That it's American? How would you think it's American?
+C: HARRY
+D: The chip in the door.
+N: ON NORMAN -- glancing up at Harry...
+C: HARRY
+D: We take a weeny little wedge, bang on it a couple of times, and bust off a chunk of the metal. Yet any spacecraft -- even at a low velocity, say 200 miles an hour -- crashes into the water -- it's gonna be like hitting concrete, it would crumple like paper. But there isn't a dent to be seen anywhere. Not even a scratch.
+C: TED
+D: Meaning?
+C: HARRY
+D: Meaning it didn't land in the water.
+C: TED
+D: Please. It must have flown here --
+C: HARRY
+D: It didn't fly here. It arrived here.
+C: TED
+D: Arrived? From where?
+C: HARRY
+D: Not where. When. 400 years ago. From our future.
+N: A quiet moment as they take this in.
+S: INT. SPACECRAFT -- DEEPER INSIDE
+N: Ted and Barnes trek through a vast cargo bay, like two ants wlth flashlights.
+C: TED
+D: Time travel. I always thought it was one of those myths... like Santa's reindeer.
+C: BARNES
+D: What would we be working on in the future that would make us want to come back?
+C: TED
+D: Maybe we didn't want to come back.
+N: BACK IN -- THE ROOM Norman, Harry, and Beth...
+C: BETH
+D: What are you looking for?
+C: HARRY
+D: A light switch. A button opened that door -- the craft runs on some sort of power.
+N: ON NORMAN -- as he sits down in one of the CHAIRS.
+C: BETH
+D: What's that noise?
+N: They LISTEN to a GIRGLING NOISE.
+C: NORMAN
+D: Sounds a little like water --
+N: SUDDENLY -- the chair Norman's in -- wraps around him, squeezing him inside, padding sliding around his head, his shoulders enveloping him -- sucking him inside...
+C: BETH
+D: Norman!
+C: NORMAN
+D: Get this thing off me.
+N: Beth bends down, presses a button, the CHAIR releases Norman...
+C: BETH
+D: I think the chair thinks you want to fly this thing.
+N: ON BETH's FACEPLATE -- as she's looking down -- WE BEGIN TO SEE -- reflected in her faceplate: yellow digital lettering sputtering across... "RV-LHOOQ... DCOM1... " Her EYES look up slowly... as we
+T: CUT TO:
+N: THE BLACK SCREEN in front of the chairs, lit up with bright yellow lettering: "RV -- LHOOQ -- DCOMl -- U.S.S STAR VOYAGER" "ASSIMILATING DATABASE" as a series of numbers race upwards in count... And the desk in front of them LIGHTS UP, a control panel coming to life.
+C: HARRY
+D: Nice work, Norman.
+C: NORMAN
+D: Whatever I can do to help.
+N: ON THE SCREEN as it changes, now filled with columns:
+C: SHIP SYSTEMS DATA SYSTEMS QUARTER MASTER
+D: FLIGHT RECORDS
+N: Harry punches some keys on the control panel.
+C: HARRY
+D: A flight recorder. Our future is about to be seen in our present.
+N: ON THE SCREEN as it changes:
+C: FLIGHT DATA SUMMARIES
+D: FDS 01/01/47-12/31/49 FDS 01/01/50-12/31/52 FDS 01/01/53-12/31/55 FDS 01/01/56-12/31/56 FDS 01/01/56-02/01/56 FDS 02/02/56-UNKNOWN ENTRY EVENT
+C: NORMAN
+D: 01-01-47. Two thousand-forty seven. 50 years in our future.
+C: HARRY
+D: Unknown Entry Event.
+N: Harry pauses, looks down, and punches more keys... ON THE SCREEN -- as it expands in size, widens around them, curving... WE SEE a galaxy of stars, planets coming OFF THE SCREEN, into the room, becoming three dimensional, suspended in air, giving the illusion of depth. The IMAGE begins streaking outward, TOWARD US, moving rapidly, like we're flying through it. The stars and other space matter streaking by.
+C: BETH
+D: What's that cluster of stars there? In the center?
+N: Harry stares, walking around the desk, moving into the 3-D image...
+C: HARRY
+D: Our answer.
+C: NORMAN
+D: To what?
+C: HARRY
+D: Time travel. A black hole.
+N: The CLUSTER of stars grows brighter and brighter, as it comes closer and closer, brightening. The FIELD twists and turns as the SCREEN and FIELD become BLINDING as WE ENTER the cluster, the black hole. ON NORMAN -- his face, bright, FRIGHTENED as he HEARS:
+C: HARRY
+D: Ted? Captain?
+E: O.S.
+C: BARNES
+D: Yes, Harry.
+E: O.S.
+C: HARRY
+D: We know how this craft got here. Where it's been.
+E: O.S.
+C: BARNES
+D: So do we. And it seems to have picked up something on it's travels.
+E: O.S.
+N: STILL ON NORMAN -- frightened...
+C: NORMAN
+D: Picked up something? What is it?
+C: BARNES
+D: I don't know. But it's something alien.
+E: O.S.
+T: CUT TO:
+S: INT. CARGO BAY
+N: ANGLE ON our six team members' BOOTS, in the distance. AS WE PAN UP and AROUND WE SEE a curved surface appear: a surface of slowly swirling green and blue fluids. Like mercury. Mesmerizlng. AS WE COME AROUND, the team stands looking at the SPHERE, 30 feet in dlameter, held by a GIANT CLAW gripping it from the top. They walk around it, circling it, looking up at it.
+C: HARRY
+D: This answers one of our questions.
+C: NORMAN
+D: Which one? Let me get the list out.
+C: HARRY
+D: This spacecraft was designed to pick things up. They see things they want -- these claws go out and bring it in. They come across this. This... sphere. Find it interesting, curious. They draw it inside to take back home.
+C: NORMAN
+D: But on the way home, they miss their turn, go too far, into the past.
+C: HARRY
+D: Our present.
+C: BARNES
+D: But what does it do? This... sphere.
+C: TED
+D: Maybe it's a message of some sort, you know? See this red here.
+N: ANGLE ON THE SPHERE -- some dark red MARKINGS on it's surface...
+C: TED
+D: Looks like a design, some writing, maybe. Maybe it was sent to meet the spacecraft with a message.
+E: continuing
+C: HARRY
+D: Look closely. That isn't writing. Those are grooves.
+N: ON THE RED GROOVES -- engraved into the surface.
+C: HARRY
+D: No. They don't represent a message. They aren't decorative at all. They have another purpose entirely.
+C: BARNES
+D: What?
+C: HARRY
+D: To conceal a small break in the surface of the sphere.
+C: BARNES
+D: A break for what?
+S: INT. HABITAT -- HALLWAY
+N: DOWN A LONG CORRIDOR -- WE SEE Barnes, through a half-closed door, pacing, talking on the phone...
+C: BARNES
+D: ... it's definitely something alien ... another civilization, yes, sir... Well, we don't know yet, but we think we've found a door...
+S: INT. VIDEO FEED ROOM
+N: Edmunds, Barnes, and the team members (minus Ted) look at the monitor.
+C: BARNES
+D: So how do we get it open?
+C: HARRY
+D: Ted seems to have some ideas.
+N: ON THE MONITOR -- Ted pushing on the SPHERE door. Banging into it with his shoulder.
+C: NORMAN
+D: Maybe we shouldn't.
+C: BARNES
+D: What?
+C: NORMAN
+D: If it is alien, maybe we shouldn't try to open it at all.
+C: HARRY
+D: Man is man, all he knows is man, and all he can think of is what he knows. The anthropomorphic problem. Good, Norman.
+E: nodding to Norman
+C: BARNES
+D: The what?
+C: NORMAN
+D: I mentioned it in my report. Didn't you read the report?
+C: HARRY
+D: Everything ever written about extra- terrestial life imagines that life is essentially human. If it doesn't look human, it's a reptile or a big insect or something, having human values, human understanding.
+C: BARNES
+D: So? What's the problem?
+C: HARRY
+D: It's nonsense. There's enough difference between our own species to prove that.
+C: BETH
+D: Take politics, our views on abortion, the death penalty...
+C: HARRY
+D: Cannibalism, to be extreme. And now we're talking about a new life form. Their values and ethics may be incomprehensible.
+C: BARNES
+D: Like "Thou shall not kill"?
+C: NORMAN
+D: Or maybe, it can't be killed.
+C: BARNES
+D: You mean, what's in that thing is immortal?
+C: NORMAN
+D: I don't know. That's the point.
+C: BARNES
+D: Everything can be killed.
+C: BETH
+D: Not everything. Even on earth. Take ... yeasts.
+C: BARNES
+D: Yeasts? Thank you, Beth, but I don't think we're gonna open it up and find a loaf of bread.
+C: HARRY
+D: And we're just talking about three- dimensional creatures. What if it's five or six or seven-dimensional? So dimensional that we couldn't even see it to kill it.
+C: NORMAN
+D: Good point. I don't know what you're talking about, but good point.
+C: BARNES
+D: Or it could contain some great benefit to us, some astonishing new idea or technology to help mankind.
+C: HARRY
+D: It could. But the odds of it being any use to us are against it.
+C: BARNES
+D: You don't know that.
+C: HARRY
+D: Let's say whoever made this thing is a thousand years ahead of us, just like we are to, say, medieval Europe. Suppose you went back to medieval Europe with a TV set. There wouldn't be any place to plug it in.
+C: BARNES
+D: Just tell me worst case. Worst case of what we might find?
+C: BETH
+D: It could breathe in air and exhale cyanide gas.
+C: NORMAN
+D: Disrupt our brain waves, interfere with our ability to think.
+C: HARRY
+D: Produce radioactive waste and disintegrate us into nothing.
+T: CUT TO:
+N: CLOSE ON PRINTER, TYPING: "Surface winds at 25 knots -- Estimated Time of Departure -- 01:45 hrs"
+T: CUT TO:
+S: INT. DH-8 HALLWAY
+N: Empty, sterile. WE HEAR the repeating sound: THWAP. Almost like a dripping faucet. THWAP... THWAP...
+S: INT. LIVING QUARTERS
+N: Harry on his bunk, staring at the wall, flicking his middle finger at his cheek: THWAP... THWAP.
+C: HARRY
+D: You realize, Norman, that we are all going to die.
+N: Norman is lying in his own bunk, below Harry.
+C: NORMAN
+D: Don't be so optomistic, Harry.
+C: HARRY
+D: I'm completely serious. There is something very important missing from that spacecraft. You know what that is?
+C: NORMAN
+D: Not a clue.
+C: HARRY
+D: A sign that the builders knew time travel through a black hole was possible.
+C: NORMAN
+D: I don't follow you.
+C: HARRY
+D: On that flight recorder, they called the black hole an "Unknown Entry Event." They didn't know what a black hole was. Fifty years from now, men are going to build that ship in a very tentative, experimental way, with no knowledge that time travel through a black hole is possible.
+C: NORMAN
+D: So what?
+N: Harry leans his head over his bunk.
+C: HARRY
+D: So, we know. We know it went through a black hole. We saw it. Norman -- when we'd get to the surface, we'd tell someone about the black hole, wouldn't we? It'd go in some report like some big discovery. So in fifty years when they build that ship, they'd make precautions for a black hole. But they didn't. The called it an Unknown Entry Event.
+E: beat beat
+C: NORMAN
+D: Meaning we're never gonna get the chance to tell anyone.
+C: HARRY
+D: Meaning we're never gonna get to the surface alive... to tell anyone.
+N: Norman gets out of his bed.
+C: NORMAN
+D: I can't believe that, Harry.
+C: HARRY
+D: Gimme another explanation.
+N: Norman pacing.
+C: NORMAN
+D: I can't. If I had a minute to think, maybe, but I know you're wrong.
+C: HARRY
+D: Am I?
+C: NORMAN
+D: Look -- we're under a lot of pressure, we're tired, you're not thinking straight.
+C: HARRY
+D: You mean, you think I'm cracking?
+C: NORMAN
+D: No. I didn't say that.
+C: HARRY
+D: Then what, Norman?
+N: Norman stops pacing, a beat.
+C: NORMAN
+D: It's what's in that sphere, isn't it, Harry? Whatever you think is in that thing -- you think it's going to kill you.
+C: HARRY
+D: Curious, isn't it? What's inside? Before I die, I'd sure like to open it and see.
+S: INT. VIDEO FEED ROOM
+N: CLOSE ON MONITOR: Video of the sphere. RAPIDLY rewinding.
+C: BARNES
+D: What caused it?
+C: EDMUNDS
+D: Nothing. I don't know. Everything was normal. No changes at all.
+C: HARRY
+D: When did it happen?
+C: EDMUNDS
+D: Seconds ago. Here!
+N: PLAYBACK: WE SEE the sphere -- idle. Nothing around it. Then it's DOOR slowly OPENS, revealing BLACKNESS inside. A beat. And then it closes.
+C: BARNES
+D: Let me see that again.
+N: Edmunds plays it again. This time... WE MOVE IN ON HARRY, staring at the monitor.
+C: HARRY
+D: I'd sure like to open it and see.
+E: to himself
+N: ON HARRY -- those cold, intelligent eyes.
+T: CUT TO:
+N: CLOSE ON PRINTER, TYPING: "... 30 knots -- ETD -- 00:19 min"
+T: CUT TO:
+S: INT. HALLWAY
+N: CLOSE ON -- Norman and Barnes.
+C: BARNES
+D: Don't get hysterical, Norman.
+C: NORMAN
+D: I'm telling you, Harry's lost it. He's saying there's a deathwish out for each of us.
+C: BARNES
+D: Look, the ships are clearing out. They're taking us topside in a matter of minutes. Someone can check him out there, if it's that imprtant.
+C: NORMAN
+D: All I'm saying is, someone should keep an eye on him.
+C: BARNES
+D: Just worry about yourself.
+S: INT. COMMUNICATIONS ROOM
+N: Barnes on the phone with the surface. Ted talking to him anyway...
+C: TED
+D: Can I stay, sir? I'm willing to risk it. I am. After what we just witnessed.
+C: BARNES
+D: What? No, I know they're civilians...
+E: into phone
+S: INT. LIVING QUARTERS
+N: ON NORMAN -- gathering his things. Stuffing his shotty dufflebag. Beth, at her bunk, doing the same. Norman stands up. Looks at the bunk above him: unpacked clothes, unpacked belongings, a notebook lying there saying: PROPERTY OF DR. HARRY ADAMS. ON NORMAN -- panicking, looking around for Harry.
+T: CUT TO:
+N: BACK IN -- COMMUNICATIONS ROOM
+C: BARNES
+D: ... I said send the subs down, damn it!
+E: into phone
+N: Barnes out the door, Ted at his heels...
+C: TED
+D: Did you hear me, sir, because --
+C: BARNES
+D: Ted, shut up. Are you packed? Ready to go? I want everyone packed. Now!
+N: ON NORMAN -- running at them...
+C: NORMAN
+D: Harry's missing.
+C: BARNES
+D: What do you mean, he's missing?
+C: NORMAN
+D: He's missing. He's gone. He left.
+C: BARNES
+D: He's here somewhere. Find him. The sub's on it's way. Go! C'mon!
+E: they look at him
+N: Norman runs off. Barnes storms down the hall...
+C: BARNES
+D: How can he be missing?
+C: TED
+D: Sir, about leaving --
+C: BARNES
+D: We're on the bottom of the fucking ocean -- he can't just walk outside!
+S: INT. VIDEO FEED ROOM
+N: Edmunds working the monitors, stops. Seeing something on a screen. Staring in horror...
+C: EDMUNDS
+D: Oh my gosh...
+E: to herself
+S: INT. COMMUNICATIONS ROOM
+N: Barnes, phone to his ear...
+C: BARNES
+D: Gimme a report, I want --
+C: HARRY
+D: Ladies and Gentlemen...
+E: O.S.
+C: BARNES
+D: Who is that? Where's that coming from?
+C: HARRY
+D: Please watch your closest monitor...
+E: O.S.
+N: Barnes turns... ON HIS MONITOR -- Harry, in jumpsuit and helmet, stands in front of the SPHERE. Barnes quickly puts on his headset mic...
+C: BARNES
+D: What's he doing there?
+S: INT. VIDEO FEED ROOM
+N: Edmunds, Norman, Beth, Ted staring at the monitor...
+C: TED
+D: I thought he was with you, Norman.
+N: Through the speakers...
+C: BARNES
+D: Get him out of there. I thought I told you people --
+E: O.S.
+C: EDMUNDS
+D: Harry? Can you copy?
+E: into her mic
+N: ON THE MONITOR -- Harry, before the SPHERE...
+C: HARRY
+D: Pay close attention. I think you will find this of interest.
+N: The sphere DOOR slowly opens.
+C: TED
+D: What the hell is he doing?
+N: Harry steps up and into the sphere. The door closes slowly behind him.
+T: CUT TO:
+N: PRINTER, TYPING: "... ETD -- 00:15 min"
+T: CUT TO:
+S: INT. COMMUNICATIONS ROOM
+N: Norman with Barnes...
+C: BARNES
+D: Don't tell me I told you so, Norman, because I don't want to hear it. Ted, I want everything by the door -- ready to go!
+E: yelling past him
+S: INT. VIDEO FEED ROOM
+N: ON MONITOR -- labled: "SUB DESCENT" -- it's still.
+C: EDMUNDS
+D: Subs are still at surface, sir.
+E: into mic
+S: INT. COMMUNICATIONS ROOM
+C: BARNES
+D: Send them, damn it! I know, but I'm not gonna be held responsible --
+E: into phone
+N: Norman with him...
+C: NORMAN
+D: You can't just leave Harry down here, sir.
+C: BARNES
+D: I told you people, nobody goes anywhere unless I say.
+C: NORMAN
+D: But sir --
+C: BARNES
+D: No "buts". If he wants to be left, we'll leave him. Hello? Yes, the subs -- I want a report... Hello... Yes, a report. Gimme... shit.
+E: into phone
+C: EDMUNDS
+D: I'm getting no sub reading, sir.
+E: O.S.
+C: BARNES
+D: They're coming.
+T: CUT TO:
+N: PRINTER, TYPING: "... ETD -- 00:13 min"
+T: CUT TO:
+S: INT. VIDEO FEED ROOM
+N: ON NORMAN -- staring at the monitor of the sphere, idle.
+C: BARNES
+D: Any sign of Harry?
+E: O.S.
+C: EDMUNDS
+D: Nothing, sir.
+S: INT. COMMUNICATIONS ROOM
+C: BARNES
+D: Fuck him. What? Hello?
+E: into phone
+S: INT. VIDEO FEED ROOM
+N: ON MONITOR -- labeled "SUB DESCENT"...
+C: EDMUNDS
+D: Sir, I am still getting absolutely no reading on sub movement...
+T: CUT TO:
+N: PRINTER, TYPING: "... ETD -- 00:11 min"
+T: CUT TO:
+S: INT. COMMUNICATIONS ROOM
+C: BARNES
+D: Yes, a report... Hello?
+E: into phone
+N: Beth, inside now...
+C: BETH
+D: I am not leaving without him. Do you hear me? We come down as a team, we leave as a team.
+C: BARNES
+D: What are you -- his mother? Get Norman, I want everyone ready to go. Edmunds, the subs?
+E: into mic
+C: EDMUNDS
+D: Nothing, sir.
+E: O.S.
+C: BARNES
+D: What the hell is going on here?
+S: INT. CORRIDOR
+N: Beth rushes by Ted, carrying bags to the door...
+C: BETH
+D: Norman? Where's Norman?
+C: TED
+D: By the bunks.
+S: INT. LIVING QUARTERS
+N: Beth running in...
+C: BETH
+D: Norman?... Norman?
+N: Can't see him anywhere. INTO THE BATHROOMS
+C: BETH
+D: Norman!
+S: INT. COMMUNICATIONS ROOM
+C: BARNES
+D: Edmunds, do you have a 20 on Norman?
+C: EDMUNDS
+D: Yes, sir.
+E: O.S.
+C: BARNES
+D: Well, where the fuck is he?
+C: EDMUNDS
+D: In the ship, sir.
+E: O.S.
+N: Barnes spins to see the monitor...
+C: BARNES
+D: What?
+N: ON MONITOR -- Norman, in jumpsuit and helmet, running through the ship. Barnes slipping on headset mic...
+C: BARNES
+D: Norman? Norman!
+S: INT. SPACECRAFT
+N: Norman running across a catwalk...
+C: BARNES
+D: You get your ass back here. You have no authority whatsoever to be in there. You hear me?... Norman? Don't go hero on me now.
+E: O.S.
+T: CUT TO:
+N: PRINTER, TYPING: "... ETD -- 00:05 min EVACUATION IMMINENT"
+S: INT. VIDEO FEED ROOM
+C: EDMUNDS
+D: Sir, if the subs haven't left by now...
+C: BARNES
+D: They've left, keep watching!
+E: O.S.
+C: EDMUNDS
+D: Sir! Sir, the door -- it's opening.
+N: ON THE MONITOR -- the sphere door, slowly opening. Revealing: BLACKNESS.
+C: BARNES
+D: Where is he? Damn it! Can you see him?
+E: O.S.
+N: A still moment and then Harry tumbles out the sphere, and falls to the ground.
+S: INT. COMMUNICATIONS ROOM
+N: Barnes, squinting at Harry on his monitor.
+C: BARNES
+D: How does he look? Can you tell?
+E: O.S.
+N: Harry lies motionless.
+C: EDMUNDS
+D: He looks... dead, sir.
+E: O.S.
+N: ON BETH -- in the hall, hearing that.
+S: INT. SPACECRAFT
+N: Norman, running, blindly, through a hall, around corners...
+C: BARNES
+D: Norman, get out of there now! Norman?
+E: O.S.
+S: INT. VIDEO FEED ROOM
+C: EDMUNDS
+D: If the subs aren't here yet, sir --
+S: INT. COMMUNICATIONS ROOM
+N: Barnes, into his headset.
+C: BARNES
+D: They'll be here. Norman -- can you hear me?...
+S: INT. SPACECRAFT
+N: ON NORMAN -- running...
+C: BARNES
+D: You don't have time! Get the hell out of --
+E: O.S.
+N: Barnes' voice goes static, and cuts out.
+S: INT. VIDEO FEED ROOM
+N: ON THE MONITOR -- flickering, losing power...
+C: EDMUNDS
+D: Sir, we're losing it.
+N: ON THE MONITOR -- flickering, fading, and all the lights and monitors SHUT DOWN.
+S: INT. SPACECRAFT
+N: ON HARRY -- lying still, face down under the sphere. Goes to him. Checks Harry's LIFE SUPPORT BADGE. Still blinking -- he's still alive. Norman, pauses, looks up, staring at... THE SPHERE Mesmerizing. He can see himself, reflected in the swirling mass, staring back at himself. The door begins to open, closes. Begins to open.
+S: INT. CORRIDOR
+N: Dark. Ted, Beth, and Barnes wander throughout.
+C: TED
+D: What the hell happened?
+N: The lights flicker back on.
+C: BARNES
+D: They switched us over.
+C: TED
+D: To what?
+C: BARNES
+D: Internal power.
+C: BETH
+D: What for?
+T: CUT TO:
+N: THE OCEAN FLOOR -- a cable falling from the surface, coiling around and around.
+T: CUT TO:
+N: ANGLE ON their dufflebags piled in the corner by the door. They've been left behind.
+S: INT. HABITAT HALLWAY -- LATER
+N: LOOKING DOWN A LONG CORRIDOR -- it's quiet. WE PEEK inside the cafeteria...
+C: BARNES
+D: The surface ships will be back. After the storm clears.
+E: O.S.
+C: BETH
+D: How long will that be?
+E: O.S.
+S: INT. CAFETERIA
+N: Barnes speaks to the team (minus Harry and Norman)...
+C: BARNES
+D: They told me about sixty hours.
+C: BETH
+D: Two and a half days?
+C: TED
+D: How long can we last down here?
+C: EDMUNDS
+D: Comfortably? Seventy-two hours.
+C: BETH
+D: Comfortably -- what's that mean -- with oxygen?
+T: CUT TO:
+S: INT. LIVING QUARTERS
+N: CLOSE ON HARRY'S FACE Harry lies on his bunk. He begins to slowly awake. WE BEGIN TO HEAR A SCRATCHING NOISE, like nails on a chalkboard. It gets LOUDER as Harry comes to. He puts his fingers to his temples. Norman stands beside, him writing in his notebook.
+C: HARRY
+D: What is that? That noise?
+C: NORMAN
+D: What noise?
+C: HARRY
+D: It's like...
+N: ANGLE ON Norman's pen -- as he stops writing, the NOISE stops. Harry sighs. Norman looks down at his pen.
+C: NORMAN
+D: Harry, can you tell me about the sphere?
+C: HARRY
+D: What are you still doing here?
+C: NORMAN
+D: You remember opening the door?
+C: HARRY
+D: You were all supposed to leave. You weren't supposed to stay down here.
+C: NORMAN
+D: Tell me about the door. Do you remember how you opened the door to the sphere?... Harry?
+C: HARRY
+D: You don't understand about the sphere.
+C: NORMAN
+D: Then explain it to me.
+N: Harry pauses, staring almost like a frightened little boy.
+C: HARRY
+D: Norman?
+C: NORMAN
+D: What is it, Harry?
+C: HARRY
+D: What happens on page 87? Have you ever read page 87?
+C: NORMAN
+D: Page 87 of what, Harry?
+C: HARRY
+D: I could never read that far. I never wanted to.
+C: NORMAN
+D: That far in what, Harry?
+N: Harry doesn't say anything. Norman waiting...
+C: HARRY
+D: You shouldn't be here, Norman. It's too dangerous for you and the others to be down here.
+S: INT. BATHROOM/SHOWER FACILITIES
+N: Beth comes out from behind a vinyl shower curtain. A towel wrapped around her.
+C: BARNES
+D: Beth -- I wanted to have a word with you...
+E: O.S.
+N: Barnes washes his hands at the sink, looking at her in the mirror in front of him.
+C: BARNES
+D: Back at the door -- I asked you to back away.
+C: BETH
+D: Yeah. I heard you.
+C: BARNES
+D: There are procedures, Beth, that I want followed. My procedures. And considering what's going on, I want you to follow them very closely.
+C: BETH
+D: Forgive me. I've never read the Navy manual. I wonder what it says about bathroom and shower procedures.
+E: a beat
+N: He walks to the door, then turns.
+C: BARNES
+D: And Beth, one other thing. I'd like from now on for you to address me as Captain or sir in front of the men.
+S: INT. HABITAT HALLWAY
+N: A LONG CORRIDOR -- LOOKING into the cafeteria...
+S: INT. CAFETERIA
+N: Harry is eating at a table, seems more relaxed. The team members around him, eating too. Beth, cold. Harry sprinkles salt on the dish of food in the middle.
+C: TED
+D: Hey, go easy on the salt, will ya? We're not a bunch of icy streets here.
+C: HARRY
+D: Salt's good for you, Ted. Helps you from getting impotent.
+C: TED
+D: Impotent? I'm not impotent.
+C: NORMAN
+D: These aren't half bad, Fletcher. You might have a second career coming.
+E: off food
+C: HARRY
+D: What are they?
+C: FLETCHER
+D: Squid...
+N: Harry stops mid-chew. Frightened.
+C: FLETCHER
+D: ... there was a whole flock of them out there earlier. It's strange. It's dead down here, and then all of a sudden --
+N: Harry drops his fork. He begins COUGHING. HACKING. CHOKING loudly. GAGGING. He HACKS out the squid from his mouth...
+T: CUT TO:
+S: INT. HABITAT CORRIDOR
+N: A long, empty corridor. All is quiet.
+T: CUT TO:
+N: CLOSE ON A MONITOR -- a series of numbers: 00032125262632 032629 301321 04261037 18 3016 06180 82132 2903305 1822 04261013 0830162137 1604 4298756 08301632125262632 032629 301321 04261037 18 3016 06 82132 2903305 1822 04261013 0830162137 1604 4268756 08301632125262632 032629 301321 04261037 18 3016 06 82132 2903305 1822 04261013 0830162137 1604 0830164
+C: NORMAN
+D: When did it come across?
+C: EDMUNDS
+D: Minutes ago. Harry's trying to decode it in his room now.
+C: NORMAN
+D: Where's it coming from?
+C: EDMUNDS
+D: No idea. We have no surface support. It transmitted too fast to be coming from underwater.
+C: NORMAN
+D: Is it coming from our own computer?
+C: EDMUNDS
+D: Harry thinks it's some sort of discharge from our own system, but I've seen it discharge before -- and it didn't look anything like this.
+S: EXT. HABITAT -- UNDERWATER
+N: SWARMS of pretty, pink JELLYFISH. Everywhere. FROM UNDER THE HABITAT -- Fletcher swims up to them with a net. It's beautiful. Eerie. Almost idyllic.
+S: INT. LIVING QUARTERS
+N: Harry, on his bunk with decoding papers in his hands, turns to Norman, entering the room.
+C: NORMAN
+D: Getting anywhere with those?
+C: HARRY
+D: There's some sort of pattern here. It'll take a minute.
+C: NORMAN
+D: Have you looked outside? Jellyfish. Everywhere. I hate jellyfish. Harry, what happened in the cafeteria?
+E: sits on the table
+C: HARRY
+D: Don't do this. Don't psychoanalyze me. I hate squid. Period. Just like you hate jellyfish.
+C: NORMAN
+D: You said something to me, before -- about how we were all going to die.
+C: HARRY
+D: Did I?
+C: NORMAN
+D: You don't remember that?
+C: HARRY
+D: I don't remember much. It's like my memory is on the tip of my tongue -- but I can't taste any of it. Funny, my senses are much keener though. Purer. Hearing, seeing, smelling. Like, I can smell your sheets, Norman. You tried to wash it out earlier, But I can still smell the urine. Don't worry, I'm not going to tell the others. It's normal, really, isn't it? In a crisis. The stress. The panic.
+E: beat
+S: INT. VIDEO FEED ROOM
+N: Beth, Ted, and Barnes watch... ON A MONITOR -- Fletcher outside, with the jellyfish.
+C: BARNES
+D: Fletcher? What are you doing out there?
+E: into the mic
+C: FLETCHER
+D: They're like pink snow, sir. Sticky.
+E: O.S.
+C: TED
+D: She says jellyfish are a delicacy. You know, I never knew that.
+C: BARNES
+D: Get out of there. I don't want anyone going anywhere outside, understood?
+C: FLETCHER
+D: They're warm. I can feel the heat on my legs.
+E: O.S.
+C: BARNES
+D: Fletcher, I want you back here.
+T: CUT TO:
+N: BACK IN -- LIVING QUARTERS Norman sitting on the table...
+C: NORMAN
+D: What happened to you inside that sphere, Harry?
+N: A long beat. Harry becomes concerned...
+C: HARRY
+D: Why? Does someone else want to go inside?
+T: CUT TO:
+S: INT. VIDEO FEED ROOM
+N: ON THE MONITOR -- Fletcher, the jellyfish clinging to her facemask, her suit...
+C: FLETCHER
+D: I can't see, they're smearing the faceplate. My arms... the fabric...
+E: O.S.
+N: Fletcher's suit tears...
+C: BARNES
+D: Fletcher, get away from there...
+C: FLETCHER
+D: It's burning...
+E: O.S.
+C: BARNES
+D: Get out of there!
+C: FLETCHER
+D: I can't see...
+E: O.S.
+C: BARNES
+D: Fletcher! Now!
+C: FLETCHER
+D: I can't...
+E: O.S.
+N: ON BETH -- bolting out of the room. Barnes turning to her...
+C: BARNES
+D: Nobody move.
+C: BETH
+D: But she's --
+C: BARNES
+D: Nobody move!
+C: FLETCHER
+D: They're eating through... Somebody --
+E: O.S.
+T: CUT TO:
+N: ON FLETCHER -- UNDERWATER -- jellyfish eating into her plastic faceplate... she's COUGHING, GASPING.
+S: INT. VIDEO FEED ROOM
+N: They watch... ON THE MONITOR -- Her body twisting, contorting. Her suit, ripping apart. SCREAMING. She convulses. Her body falling. HER HORRIFYING SCREAM FADING INTO...
+S: INT. DECONTAMINATION LAB
+N: CLOSE ON -- Fletcher's face. Cold, dead. Eyes open. Jellyfish rooted in her skin.
+T: CUT TO:
+S: INT. LABRATORY
+N: CLOSE ON A MICROSCOPIC IMAGE of a jellyfish. ON NORMAN -- in the corner of the lab, inspecting a MEDICAL KIT.
+C: NORMAN
+D: What is this, Beth? You taking valium?
+N: Beth, looking into the microscope.
+C: BETH
+D: Sedatives. Whatever my mood calls for.
+N: Norman picks up a book, next to the kit: 20,000 Leagues Under the Sea.
+C: NORMAN
+D: Where'd this come from?
+C: BETH
+D: The library.
+C: NORMAN
+D: We have a library?
+C: BETH
+D: A bad one. It was the only book in there. Norman, come here, look at this.
+C: NORMAN
+D: No, thank you. I hate jellyfish.
+N: Walking toward her...
+C: NORMAN
+D: ... when I was six, my younger brother and I -- we went swimming in the Pacific. At my mother's beach house. We both felt stinging, and when we came out of the water, he was wearing jellyfish head to toe. Killed him.
+C: BETH
+D: My gosh, Norman.
+C: NORMAN
+D: Yeah, it was awful.
+C: BETH
+D: What about you? What happened to you?
+C: NORMAN
+D: Me? Well, I was wrapped in seaweed. It itched for a while, but I survived. Beth, do you find it... curious that we're seeing all this life down here. Nothing, and then these enormous flocks of squid. Then jellyfish?
+E: beat
+C: BETH
+D: Normally, I'd say no. Everything's quiet now -- no ships, no divers, no electricity. Makes sense. But what's curious is -- these aren't normal jellyfish.
+C: NORMAN
+D: What do you mean -- not normal?
+C: BETH
+D: They have six tentacles. A new species. And the squid too. They had no stomach.
+C: NORMAN
+D: Wait a minute.
+C: BETH
+D: What?
+C: NORMAN
+D: You knew about the squid not being normal. Before Fletcher went out there?
+C: BETH
+D: Yeah, why?
+C: NORMAN
+D: And you didn't tell anyone?
+N: Beth, nervous...
+C: BETH
+D: What? Why...
+C: NORMAN
+D: Beth --
+C: BETH
+D: I mean, I'm not... I wasn't absolutely sure if... they --
+C: NORMAN
+D: They are or they aren't. Which is it?
+C: BETH
+D: What?... Wait. Don't... why are you --
+C: NORMAN
+D: Beth.
+C: BETH
+D: Nobody said... Norman... What? Why are you looking at me like that?
+C: NORMAN
+D: Beth --
+N: She backs away from Norman, knocking off a speciman jar, it SHATTERS on the floor. She starts breaking down. Norman watching her, falling to the ground, picking up the glass, hurriedly...
+C: BETH
+D: I didn't do anything wrong. I didn't mean...
+C: NORMAN
+D: Beth.
+N: She's crying, glass in her hands. She looks up at Norman, frightened, nervous...
+C: BETH
+D: You wouldn't go and tell the others, would you?
+N: Norman hesitates, goes to her, tries to hold her, but she pushes him away.
+C: BETH
+D: I hate this place, Norman. I want out.
+T: CUT TO:
+S: INT. HABITAT -- HALLWAY
+N: LOOKING DOWN -- at the room where Barnes was on the phone earlier. He stands there now, hand on the knob. CLOSES it shut.
+T: CUT TO:
+S: INT. ROOM
+N: Barnes sits, Norman in front of him, worked up...
+C: NORMAN
+D: I'm not paranoid. I know Beth. She can be drastic.
+C: BARNES
+D: How drastic?
+C: NORMAN
+D: You don't want to know.
+C: BARNES
+D: I think I do.
+C: NORMAN
+D: A while back, Beth and I -- we worked at the same university. She was assisting a chemist there -- I forget his name -- doing research, experiments. She was also living with him. Yeah, I know. And when she finished her work, he kicked her out, broke off the relationship, and published five papers -- all her work -- without any thank you or acknowledgement.
+E: off Barnes' look
+C: BARNES
+D: She should've known better.
+C: NORMAN
+D: She put a razor to her wrists a day later.
+C: BARNES
+D: When was this?
+E: a beat
+C: NORMAN
+D: '81, I think. She tried again five years ago. I thought you should know.
+E: beat
+C: BARNES
+D: So you knew this when you wrote your report?
+C: NORMAN
+D: At the time, I don't know, I thought putting her on the list -- it might help her career -- catch her a break.
+C: BARNES
+D: You knowingly recommended a woman with suicidal tendencies for a government operation --
+C: NORMAN
+D: Wait a second --
+C: BARNES
+D: -- and then brought her down here --
+C: NORMAN
+D: -- I didn't know it would come to this --
+C: BARNES
+D: -- without a cautionary word to anyone. You know, Ted said something to me earlier. I think he's right. He said, "When you got a guy who -- if he wasn't here -- he'd be standing in the unemployment line, you gotta question if you got the right guy."
+E: beat
+N: ON NORMAN -- sweating.
+T: CUT TO:
+N: ON THE MONITOR -- a series of numbers: 00032125262632 032629 301321 04261037 18 3016 06180 82132 2903305 1822 04261013 0830162137 1604 083106 21 1822 0330313130432 00032125262632 032629 301321 0 4261037 18 3016 0618082132 2903305 1822 04261013 08 30162137 1604 08301621 1822 0330313130432 000321252 62632 032629 301321 04261037 18 3016 0618082132 290 3305 1822 04261013 0830162137 1604 083016 21 1822 03 30313130432 00032125262632 032629 301321 04261037 1 8 3016 0618082132 2903305 1822 04261013 0830162137
+C: HARRY
+D: It's the same as before, but the spacing's different now. It's definitely nonrandom. See...
+N: Harry sitting at the monitor, shows Ted, Barnes, Norman, and Edmunds a PRINTOUT of the screan -- indicating a pattern.
+C: HARRY
+D: It's a single sequence repeated over and over.
+C: BARNES
+D: We're all very proud of you, Harry, but what the hell is it?
+C: TED
+D: Maybe it's a message?
+C: EDMUNDS
+D: From what?
+C: TED
+D: The sphere. Maybe the sphere --
+C: EDMUNDS
+D: We're not hooked up to the sphere.
+C: HARRY
+D: Well, if it's a discharge --
+C: TED
+D: It's not a discharge. Right, Edmunds? You said before, right? So it's gotta be a message.
+C: BARNES
+D: From the sphere?
+C: TED
+D: What's inside the sphere.
+C: HARRY
+D: If it is a message, it's probably a substitution code. I'll work on it.
+C: TED
+D: Yeah, I'll work on it, too.
+C: BARNES
+D: You do that.
+E: to Ted, flat
+S: INT. BATHROOM/SHOWER AREA
+N: Ted, nervous, anxious -- with five or six printouts in his hand -- has Norman's ear in front of the sink...
+C: TED
+D: He's manic, Norman. You know that? This reliance on Harry is misplaced. You hear me? Totally misplaced. He's overlooking things. Obvious things.
+C: NORMAN
+D: Like what?
+N: Ted hands him a printout...
+C: TED
+D: It's not some fucking substitution code, it's a direct visual representation.
+C: NORMAN
+D: You mean a picture?
+C: TED
+D: Take a look. I rearranged the numbers. Put 'em up to the light. Go ahead. Squint at it.
+E: Norman does
+C: NORMAN
+D: I don't see anything.
+C: TED
+D: Squint harder.
+C: NORMAN
+D: Please, Ted.
+C: TED
+D: Try this one.
+E: hands him another printout
+C: NORMAN
+D: This is like nursery school.
+C: TED
+D: Don't you see it? It's a picture of the creature.
+C: NORMAN
+D: The creature?
+C: TED
+D: Inside the sphere. Look, that's the vertical torso, three legs, two arms. There's no head, so I'm guessing the creature's head is located within the torso itself, you know?
+N: ON NORMAN -- Ted's lost it.
+C: NORMAN
+D: Well, how about we wait and see what Harry comes up with?
+C: TED
+D: Sure, why not. Give him the trophy. That pretentious son of a bitch. You heard him, Norman. All that "someone went to a lot of trouble, try again" bullshit. And "impotent". Where does he get off saying I'm impotent? He's a fucking self-righteous, little prick.
+T: CUT TO:
+N: CLOSE ON MONITOR -- spirals now.
+C: HARRY
+D: ... I asked myself, why would the sphere be using a code? If you're trying to communicate, why use a code?
+C: TED
+D: See? No code. What'd I say?
+E: to Norman
+C: HARRY
+D: Codes are for hiding information. So it's making a mistake. It's making a code without intending to. I figured it's probably substituting numbers for letters... Then I began to wonder what an alien intelligence would make of our keyboard. And since we're getting spirals, I imagined the keyboard as a spiral. So I translated it...
+C: NORMAN
+D: That's brilliant.
+N: Ted grimaces at Norman.
+C: HARRY
+D: ... spiralling out of the center, you see: "G" is one, "B" is two, "H" is three, and so on... when I got the message.
+C: BARNES
+D: What's the message?
+C: HARRY
+D: I have to tell you. It's strange.
+C: BARNES
+D: How do you mean, strange?
+N: Harry picks up his yellow pad of paper and reads:
+C: HARRY
+D: "Hello. How are you? I am fine. What is your name? My name is Jerry."
+T: CUT TO:
+S: INT. HALLWAY
+N: Barnes walks briskly down the hall, Norman with him...
+C: BARNES
+D: He translated it wrong. "My name is Jerry"? It's like "See Spot run."
+C: NORMAN
+D: The message doesn't show a lack of intelligence. It's smart. It's approaching us in a simple way. Like you would a dog. Holding out your hand, letting it sniff, get used to you.
+C: BARNES
+D: What am I -- a dog, now?
+N: Barnes ducks his head into the Video Feed room...
+C: BARNES
+D: Edmunds, get in here. I need you for this.
+C: EDMUNDS
+D: In a minute, sir.
+N: BACK IN COMMUNICATIONS ROOM - Barnes storming through the room, the others (minus Edmunds) around the monitor.
+C: BARNES
+D: I want a name. A real name. This thing's full name, rank and serial number.
+C: TED
+D: Captain, I personally feel we should ask much more substantive questions --
+C: BARNES
+D: I am not gonna explain in some damn report that one person died in a deepsat expedition so we could meet an alien named Jerry.
+C: HARRY
+D: First, we have to see if he'll talk at all.
+E: on the keyboard, typing
+N: ON THE MONITOR -- "0032125252632" The monitor BLINKS, reply: "0032125252632"
+C: HARRY
+D: Okay, Jerry's talking.
+N: Harry types -- "0002921 301321 0613182108142232"
+C: TED
+D: What'd you say?
+C: HARRY
+D: "We are friends".
+C: BARNES
+D: Cut the friends crap, get a name.
+N: "004212232"
+C: HARRY
+D: "Yes". Good. Now let's see if it'll switch over to English letters.
+N: "0032125252632 = Hello" Reply: "0032125252632 = Hello"
+C: BARNES
+D: It's not talking, it's mimicking.
+C: TED
+D: Give him a chance. He's speaking our language, not the other way around.
+C: HARRY
+D: Good idea, Ted.
+E: typing
+C: TED
+D: Thank you.
+E: confused
+N: "0032125252632 = Hello. Hello = 0032125252632" No reply.
+C: BARNES
+D: What's he doing?
+N: Reply: "Hello = 0032125252632. 0032125252632 = Hello."
+C: BARNES
+D: Ignorant. The thing's ignorant.
+C: HARRY
+D: It's not ignorant.
+C: TED
+D: Maybe it's pretending to be ignorant.
+N: Harry types "===" Reply: Harry types "=,=" Reply: "7 & 7"
+C: BARNES
+D: Are you enjoying yourself, Harry, because I don't know what the hell you're doing.
+C: HARRY
+D: He understands me fine.
+N: Harry types: "Yes" Reply: "0004212232" Harry types: "Hello" A long beat. Reply: "I am delighted to make your acquaintance. The pleasure is entirely mine I assure you." They stare, stunned, at the screen.
+C: NORMAN
+D: Well, he's polite.
+C: TED
+D: Unless it's an act.
+C: BETH
+D: Why should it be an act?
+N: "Are you the entity HECHO in Mexico?"
+C: BARNES
+D: Mexico? Where'd he get Mexico?
+N: "Are you the entity made in the U.S.A.?"
+C: TED
+D: He doesn't wait for an answer.
+C: BETH
+D: Who says it's a he?
+C: BARNES
+D: Not now, Beth. Please. I want to know who we're talking to before we start talking. Where's Edmunds?
+C: HARRY
+D: She's not gonna know, sir.
+C: TED
+D: Ask him. C'mon. Say something.
+E: to Harry
+N: Harry types: "We are. Who are you?" Reply: "We are"
+C: BARNES
+D: Hell's that mean? "We are" what?
+N: Harry types: "We are the entities from the U.S.A. Who are you?" "Entities = entity?"
+C: TED
+D: We have to teach him plurals?
+N: Harry: "No" "You are a many entity?" "No. We are many separate entities." "I understand. Is there one control entity?"
+C: BARNES
+D: What?
+C: HARRY
+D: He's saying, "Take me to your leader." He wants to know who's in charge.
+C: BARNES
+D: I'm in charge.
+N: "Yes. The control entity is Captain Harald Barnes"
+C: BARNES
+D: With an "o". Harold with an "o".
+C: HARRY
+D: What -- you want me to retype it?
+N: Harry: "Who are you?" "I am one" "Where are you from?" "I am here" "Where is the location from where you began?"
+C: TED
+D: "From where you began?" That's not even good English.
+N: "I am from AWARENESS"
+C: BARNES
+D: What is that, a planet?
+N: "Where is AWARENESS?" "AWARENESS is" "Did you make a journey?" "Yes. Did you make a journey?" "Yes" "I make a journey. You make a journey. We make a journey together. I am Happy."
+C: BARNES
+D: Great, okay. Ask him about his weapons.
+C: NORMAN
+D: That's smart. Let's talk about guns and violence.
+C: BARNES
+D: You don't think weapons are important?
+C: NORMAN
+D: I think we should be careful. Consider his emotional response.
+C: TED
+D: You want to put him on your couch, Norman. Grill him about his childhood?
+C: NORMAN
+D: When he uses a phrase like "I am Happy", I think we should think twice about what we ask him.
+N: "Do Not Be Afraid" The all stare at the screen, stunned.
+C: NORMAN
+D: Jerry, can you understand what we're saying?
+N: "Every word" Norman walks up to the screen, close to it.
+C: NORMAN
+D: Jerry, can you read our minds?
+N: "Yes Norman" Barnes goes to the intercom...
+C: BARNES
+D: Edmunds, I want you in here. Now.
+N: Norman focuses on the screen, staring. ON THE SCREEN -- blank. Norman concentrating, on the screen. THE SCREEN -- blank.
+C: NORMAN
+D: Jerry, are you there?
+N: "Yes, Norman"
+C: BARNES
+D: We shouldn't talk here. Shut it off.
+N: "I do not wish to Intrude"
+C: NORMAN
+D: We would like to talk alone.
+N: "I do not agree. That is not possible. I enjoy to talk with you."
+C: NORMAN
+D: And we enjoy talking with you.
+N: "Let us talk now"
+C: NORMAN
+D: We'd like to talk with you more. We admire your talents and your great power and understanding.
+N: "Thank you"
+C: NORMAN
+D: And in your great understanding, you know that we are entities who must talk in private -- with each other.
+N: "Do Not Be Afraid"
+C: NORMAN
+D: We're not afraid, we are uncomfortable.
+N: "Am I offended you?"
+C: NORMAN
+D: Not at all, we enjoy you very much, but we need to talk alone, without you listening.
+N: "I shall oblige"
+C: NORMAN
+D: Thank you.
+N: "But I am Not Happy"
+C: NORMAN
+D: Jerry?...
+N: "We'll be Right Back after a short break for these Messages from our Sponsor"
+C: NORMAN
+D: Jerry? Are you still there?
+N: SCREEN -- blank.
+C: NORMAN
+D: Jerry?
+N: SCREEN -- blank.
+C: BARNES
+D: Edmunds? Get in here. I want to know exactly how this is being transmitted.
+E: into intercom
+C: HARRY
+D: She's not gonna know.
+C: BARNES
+D: She wired this system.
+C: HARRY
+D: If the technology of that sphere is advanced enough -- the way it functions is gonna appear to us like magic.
+N: ON TED AND NORMAN -
+C: TED
+D: Don't gimme that psychology bullshit, Norman. Psychology isn't a science, it's superstition. It's a bunch of soft, subjective theories without any hard data to back it up. With an intellect like this, emotions don't mean shit.
+N: ON HARRY AND BARNES -
+C: HARRY
+D: It's like showing Leonardo da Vinci a laptop computer. He'd run screaming "witchcraft". And you couldn't explain it to him, either. Modems, microchips, particle physics.
+C: BARNES
+D: Edmunds?
+E: into intercom
+N: ON TED AND NORMAN -
+C: TED
+D: Don't make stuff up, these emotional theories, just so you can feel important here.
+C: NORMAN
+D: Frankly, Ted, I'd be much happier if Jerry was just a cold, emotionless intellect.
+C: TED
+D: Why's that?
+C: BARNES
+D: Edmunds?
+E: into intercom
+C: NORMAN
+D: Because if Jerry is powerful and also emotional...
+C: BARNES
+D: Damn it, Edmunds?
+C: NORMAN
+D: ... it raises a very serious question: What happens if Jerry gets mad?
+S: INT. VIDEO FEED ROOM
+C: BARNES
+D: Edmunds? Can you copy?
+E: O.S.
+N: An empty chair. Edmunds is not here. WE HEAR a repeating THUMP. THUMP. THUMP.
+C: BARNES
+D: Edmunds?
+E: O.S.
+N: ON A MONITOR -- WE SEE her body, wedged in a light stand bracket, floating in the water, lifeless. Her helmet THUMPING against the wall of the habitat.
+S: INT. UNDERWATER -- OUTSIDE THE HABITAT
+N: Norman and Beth, in jumpsuits and helmets, walk out from under the habitat. Still HEARING the THUMPING. They pause, looking around.
+C: BETH
+D: Coast is clear.
+N: They go to the south end of the habitat. The THUMPING louder. Norman climbs up the grid-like STANCHION, the support beam holding up the habitat. The BODY above him -- flapping in the current. THUMPING against the wall. He climbs, reaching the body. A BOOT swings, catches the LOOP in his air hose. BUBBLES shoot out.
+C: BETH
+D: Norman, your suit -- it's leaking.
+N: The BOOT comes off in Norman's hand -- and the NAKED FOOT, gray flesh, purple toenails, KICKS his faceplate. Startles him.
+C: BETH
+D: Norman. Look at this.
+N: ON EDMUNDS' SUIT -- a long TEAR in the fabric, revealing red, mangled FLESH. Droplets of BLOOD float past Norman's faceplate.
+C: BETH
+D: Her flesh has been macerated. Chewed. I've never seen a bite like this before.
+N: Norman pulls her body out. Edmunds' FACEPLATE whips around -- and Norman SEES her staring eyes, mouth open in horror.
+C: NORMAN
+D: I can't feel her bones. She's like a sponge.
+C: BETH
+D: She was crushed. Feel her skin -- it's like sandpaper.
+C: NORMAN
+D: What could have done this?
+N: WE HEAR A SENSOR: PONG. PONG. PONG.
+S: INT. VIDEO FEED ROOM
+N: Barnes at the monitors, Ted with him. PONG. PONG. PONG.
+C: TED
+D: What is that?
+C: BARNES
+D: The sensors are picking up something outside.
+C: TED
+D: What?
+N: Barnes flips a switch...
+C: BARNES
+D: It won't register. It's too big to image.
+C: TED
+D: Too big?
+S: EXT. UNDERWATER
+N: WHITE EGGS, the size of golf balls descend from above. Hundreds of them. Beth catches one, inspects it...
+C: BETH
+D: Norman.
+C: NORMAN
+D: What are they?
+C: BETH
+D: Eggs.
+N: From inside their helmets...
+C: BARNES
+D: You people need to hurry back. The sensors have activated. I don't think you're alone out there.
+E: O.S.
+S: INT. CORRIDOR
+N: Ted walks with Norman and Beth...
+C: NORMAN
+D: What was it?
+C: TED
+D: Barnes didn't know. Couldn't get a reading.
+C: NORMAN
+D: Has Harry spoken with Jerry?
+C: TED
+D: Not that I know of. Why?
+S: INT. COMMUNICATIONS ROOM
+N: Norman and Ted at the console...
+C: NORMAN
+D: Jerry?
+N: No reply.
+C: NORMAN
+D: Jerry, are you there?
+N: No reply.
+C: TED
+D: You think Jerry has something to do with what killed Edmunds? With what's out there?
+C: NORMAN
+D: I'm not sure.
+S: INT. LABRATORY
+N: CLOSE ON AN EGG Beth, scalpel in hand, is making an incision into the shell.
+C: BETH
+D: Looking at the coating here, it's definitely marine invertebrate.
+N: Barnes, Norman, Harry and Ted stand around the table.
+C: BARNES
+D: Well, until we know exactly what it is, nobody goes outside, understood?
+C: TED
+D: What was Edmunds doing outside?
+C: BARNES
+D: Resetting the sub.
+C: TED
+D: What sub?
+C: BARNES
+D: In the dome hanger. All our tapes are transferred to the sub. It's on a 12 hour timer. If someone doesn't reset the "delay" button, the sub ascends to the surface with the tapes.
+C: NORMAN
+D: What for?
+C: BARNES
+D: If something should happen to us, the Navy will at least have partial records of what happened.
+C: NORMAN
+D: At least our obituaries will be accurate. That's reassuring.
+N: ON THE EGG -- splitting open. A slimy pinkish-brown FLUID oozes out. A FETUS underneath. They cover their mouths from the smell.
+C: BARNES
+D: What is it?
+N: Beth picks at it with forceps...
+C: BETH
+D: I'm not sure. I've never seen anything like it.
+C: BARNES
+D: You're a fucking biochemist, aren't you? Can't you tell us something.
+N: Beth glares at Barnes...
+S: INT. CLOSET AREA -- DARK
+N: Beth, holding a piece of paper in her hand, pulls Norman inside, pressing on him...
+C: BETH
+D: ... He lied to us. He left us down here.
+C: NORMAN
+D: C'mon, Beth. Don't make this personal. He told me himself they were taking us back.
+C: BETH
+D: Yeah, he told you. Think. What was Barnes doing before they cut that cable loose? He was on the phone. Except that cable is a thousand feet long, Norman. They would've broken off communication with us four, five minutes before they cleared out.
+C: NORMAN
+D: So what?
+C: BETH
+D: So who was Barnes talking to at the last minute? Nobody.
+C: NORMAN
+D: You're jumping to conclusions, Beth. Don't get worked up --
+C: BETH
+D: Fuck you, Norman! It's right here...
+N: She shows him the printout in her hand, putting a flashlight on the words, reads...
+C: BETH
+D: "Although advised of risks, all personnel elect to remain down for duration of storm to continue investigation of alien sphere and associated spacecraft. Signed, Barnes, USN."
+C: NORMAN
+D: Where did you get this?
+C: BETH
+D: In Edmunds' things.
+C: NORMAN
+D: You went through Edmunds' things?
+C: BETH
+D: He's not just a Navy captain -- he works for the fucking Pentagon.
+C: NORMAN
+D: Calm down, Beth. Alright?
+C: BETH
+D: Don't tell me to calm down!
+C: NORMAN
+D: It's done, alright? It's over! And there's not a damn thing we can do about it now, okay?
+N: He turns to leave...
+C: BETH
+D: You said something to him, didn't you?
+C: NORMAN
+D: What?
+C: BETH
+D: You told him about me?
+N: ON NORMAN -- pausing, staring at her...
+C: NORMAN
+D: Beth --
+C: BETH
+D: You did, didn't you?
+C: NORMAN
+D: Don't do this.
+C: BETH
+D: You bastard.
+C: NORMAN
+D: Beth, I didn't. Hold it together. Alright?
+N: She looks at him, piercing into his eyes...
+C: BETH
+D: Yeah, okay. Sure, Norman.
+C: NORMAN
+D: Beth --
+C: BETH
+D: No, I should stay calm. Like you say. Right, Norman? Stay calm.
+N: Norman looks at her, concerned, knowing she doesn't believe him...
+C: BETH
+D: Fletcher and Edmunds are dead, Norman. And the only one we can trust to run this place is a fucking liar.
+T: CUT TO:
+S: INT. CONTROL ROOM
+N: ON THE OXYGEN REGULATOR -- bobbing up and down -- keeping track of the little that's left.
+T: CUT TO:
+S: INT. VIDEO FEED ROOM
+N: Barnes, Norman, Beth, and Ted are gathered around the monitors. Barnes addresses Norman...
+C: BARNES
+D: I don't want you talking to Jerry.
+C: NORMAN
+D: But sir, I think it's imperative. I think the messages, the animals we've seen, what killed Edmunds, the reading you got earlier -- I think they're all related.
+C: TED
+D: Jerry isn't hostile, Norman. He said earlier -- we were his friends --
+C: NORMAN
+D: Of course he did. He's been isloated for 400 years. He wants someone to talk to. Look, you put a human being in isolation for four days, they can become neurotic, sometimes psychotic. We're talking about 400 years here. An alien that shows emotional responses. I think we need to address him, before he reacts further.
+C: BARNES
+D: You think he killed Edmunds?
+C: NORMAN
+D: Yes, I do. Whatever's out there, I think is his response to us refusing to talk to him earlier.
+C: BARNES
+D: Bullshit. What's out there isn't alien. It's an animal.
+C: NORMAN
+D: Maybe so. But I think we need to ask Jerry about it.
+C: BARNES
+D: No. I think we should shut down the communication lines inside the habitat. He might be listening now.
+C: BETH
+D: I think he already is.
+N: They turn to the monitors: ON THE MONITOR: "DO NOT IGNORE ME"
+C: BETH
+D: Nice work, Captain sir.
+C: BARNES
+D: Shut up, Beth. I don't want to hear it.
+C: NORMAN
+D: Jerry, we don't want to ignore you.
+N: "Don't underestimate my power"
+C: NORMAN
+D: We don't.
+N: "Yes you do"
+C: NORMAN
+D: Jerry --
+N: THE MONITOR blinks back -- WE SEE the sphere. It is closed. Still. WE HEAR the SENSOR: PONG. PONG. PONG.
+T: CUT TO:
+S: INT. LABRATORY
+N: Harry, alone, stares at THE FETUS on the table.
+T: CUT TO:
+S: INT. VIDEO FEED ROOM
+N: ON THE SONAR IMPULSE MONITOR -- lines jumping higher. PONG. PONG. PONG. Barnes, Norman, Beth, and Ted watching it.
+C: NORMAN
+D: Jerry?
+N: No response.
+C: NORMAN
+D: Jerry?
+N: The MONITOR flashes: "I'm Not Listening" -- blinks back. AN OUTSIDE CAMERA FEED -- infra-red -- a large IMAGE streaks by.
+C: BARNES
+D: Direction's east coming!
+C: BETH
+D: What was that?
+N: Barnes flips a switch...
+C: BARNES
+D: Going active.
+C: NORMAN
+D: Jerry?
+N: No response.
+C: BETH
+D: It looked like a tentacle. Of a squid.
+N: THE MONITORS -- BEEPING now.
+C: BARNES
+D: A squid? The size of a whale? I don't think so. Target acquired. Sixty yards.
+E: beat
+N: PONG. PONG. PONG.
+C: BETH
+D: What if it attacks?
+C: BARNES
+D: Fifty yards and closing.
+C: BETH
+D: What do we use for defense?
+C: BARNES
+D: We're a habitat. Not a castle. The only defense we have is High Voltage.
+C: BETH
+D: High Voltage?
+C: BARNES
+D: It sends 200 volts throughout the cylinder surface. But we've never used it underwater before.
+N: PONG. PONG. PONG.
+C: BARNES
+D: Forty yards.
+C: BETH
+D: But you've tested it?
+C: BARNES
+D: Sure. Each time it started fires inside the habitat.
+N: PONG. PONG. PONG.
+C: BARNES
+D: Thirty yards.
+C: BETH
+D: What are you saying -- we can't stop what's out there?
+N: THE MONITORS blink: "I AM COMING". The monitor blinks to BLANK.
+C: BARNES
+D: What the hell? It shut us down.
+E: bangs on the monitors
+C: NORMAN
+D: Jerry? Please. Stop this.
+C: BARNES
+D: Ted, go into the control room. Listen for my instructions.
+N: Ted goes out the door. ALL THE MONITORS -- blank.
+C: BETH
+D: Where is it?
+C: BARNES
+D: Why can't I -- ? What the hell is going on here?
+N: They HEAR a metallic CLANKING.
+C: BETH
+D: What was that?
+C: BARNES
+D: He's right beneath us.
+N: THE MONITORS blink: "I AM HERE".
+T: CUT TO:
+S: INT. LABRATORY
+N: Harry looking at the FETUS on the table. It suddenly SLIDES down the table. The room is rocked. ON SHELVES -- Jars, petry dishes, test tubes SLIDE off shattering to the floor.
+S: INT. CORRIDOR
+N: BANG! TED is thrown ruthlessly against the wall. His HEAD striking metal, splitting open his forehead. THE WALLS -- CRACKING and GROANING. WATER breaks through a crack, spreading out onto the floor.
+S: INT. VIDEO FEED ROOM
+N: Barnes...
+C: BARNES
+D: Ted? Ted?
+S: INT. CONTROL ROOM
+N: Ted, stumbles, reaches for the headset...
+C: TED
+D: Sir, we're leaking!
+N: Blood dripping from his forehead.
+S: INT. VIDEO FEED ROOM
+C: BARNES
+D: Increase positive pressure!
+C: BETH
+D: That's our reserve air.
+C: BARNES
+D: It's either that or we grow gills.
+N: BANG! They grip onto the console...
+S: INT. CONTROL ROOM
+N: Ted, drousy, BLOOD gushing from his head, keeping balance, searches for the PRESSURE GAGE.
+C: BARNES
+D: Ted? Ted, are you with me?
+E: O.S.
+N: Finds the GAGE. Turns it.
+C: TED
+D: Increasing positive pressure.
+S: EXT. HABITAT -- UNDERWATER
+N: AIR BUBBLES burst out of the walls.
+S: INT. CORRIDOR
+N: ON THE FLOOR -- the WATER scurrying back through the leaks in the wall.
+S: INT. VIDEO FEED ROOM
+N: Barnes, watching the monitors.
+C: BARNES
+D: That's enough Ted. Shut it off!
+E: beat
+S: INT. CONTROL RROM
+N: THE PRESSURE GAGE -- the needle RISING... ON THE HEADSET -- in the air, dangling from it's cord.
+C: BARNES
+D: Ted? Ted!
+E: O.S.
+N: ON TED -- passed out on the floor. Blood covering his face.
+S: INT. VIDEO FEED ROOM
+N: Beth and Norman BOLT out the door INTO THE HALLWAY Running. BANG! They're thrown against the wall.
+S: INT. CONTROL ROOM
+N: THE PRESSURE GAUGE -- rising, higher, higher.
+S: INT. CORRIDOR
+N: THUMP! Norman and Beth, losing their balance, stumbling to their feet, running... ON TED -- SLIDING out of the Control Room, down the corridor, taken by the water. Beth grabs him, as Norman stumbles INTO THE CONTROL ROOM finds the PRESSURE GAGE, shuts it off.
+S: INT. VIDEO FEED ROOM
+N: BANG! Barnes grips his headset as he's thrown to the floor.
+C: BARNES
+D: Norman! Norman can you hear me?
+S: INT. CONTROL ROOM
+N: Norman grabs the headset, slips it on...
+C: NORMAN
+D: Yes, sir. I'm here.
+C: BARNES
+D: You see the lever on the green box? Upper right hand corner?
+E: O.S.
+N: Norman sees it, reads it:
+C: NORMAN
+D: High Voltage Defense System.
+N: ON BETH -- in the hall, tending to Ted, looks up at Norman.
+S: INT. VIDEO FEED ROOM
+C: BARNES
+D: You see the lever next to it?
+S: INT. CONTROL ROOM/CORRIDOR
+N: Beth yelling...
+C: BETH
+D: Don't do it, Norman!
+C: BARNES
+D: Do you see it?
+E: O.S.
+N: ON NORMAN -- turning from Beth, to the lever.
+C: NORMAN
+D: I see it.
+C: BARNES
+D: Pull it.
+E: O.S.
+C: BETH
+D: Don't pull it, Norman. It'll start a fire we can't stop. Norman?
+C: BARNES
+D: Do it, Norman, it's the only choice we have. This thing is gonna crush us.
+E: O.S.
+C: BETH
+D: Norman, don't do it!
+N: BANG! The WALLS CREAKING and SCREECHING.
+S: INT. VIDEO FEED ROOM
+N: Barnes on the floor, a MONITOR crashes alongside him, SPITTING SPARKS, flashing: "I WILL KILL YOU"
+C: BARNES
+D: Do it now!
+S: INT. CONTROL ROOM/CORRIDOR
+N: Norman, sweating...
+C: BETH
+D: Don't do it!
+C: BARNES
+D: Now!
+N: BANG! CREAKING, GROANING of metal.
+C: BETH
+D: Norman, please! Don't!
+N: BANG!
+C: BARNES
+D: Pull it, damn it!
+E: O.S.
+N: ON NORMAN -- puts his hand on the lever.
+C: BETH
+D: Norman!
+N: He PULLS the lever.
+S: INT. HABITAT
+N: DOWN THE CORRIDORS -- a loud HUM from the generators. The lights DIMMING. BANG! WE HEAR what seems to be a SQUEAL, as the metal RENDS and CREAKS.
+S: INT. VIDEO FEED ROOM
+N: An ALARM SOUNDS. Barnes looks up... THE WARNING BOARD lights up.
+C: BARNES
+D: Fire in Communications Room!
+S: INT. COMMUNICATIONS ROOM
+N: FIRE ROARS out from the walls...
+S: INT. CORRIDOR
+N: CLOSE ON FIRE EXTINGUISHER CASE -- Beth whips it open, grabs it. ON NORMAN -- picking up Ted, lugging him awkwardly over his shoulder. ON BARNES -- running down the corridor towards them. BANG! Barnes falls to the floor, taken away by the water.
+T: CUT TO:
+N: ANOTHER CASE ON THE WALL -- whips open -- Beth grabs GAS MASKS. She hears...
+C: BARNES
+D: Help!
+E: O.S.
+N: She looks DOWN THE CORRIDOR at... BARNES -- on the floor, flailing in the water, SCREAMING, as his legs are caught in a CRACK in the wall. Desperate...
+C: BARNES
+D: Beth! Help, I can't -- !
+N: ON BETH -- staring at him. Just watching him. Not moving.
+C: BARNES
+D: Beth!
+N: BARNES -- his body falling through the crack, his HEAD BANGS into the wall, stuck in the crack, water choking him...
+C: BARNES
+D: Be--
+N: ... trying to SCREAM, his NECK RIPPING, SNAPS, and his body vanishes into the ocean. ON BETH -- cold, turns away.
+S: INT. COMMUNICATIONS ROOM
+N: FIRE blasts out from the wall... BETH and NORMAN (still with Ted) wearing GAS MASKS, RUSH into the room...
+C: BETH
+D: Stay low!
+N: Beth sprays WHITE FOAM on the fierce FLAMES, licking up the side padding, smoke boils to the cieling. BANG! The room is rocked.
+C: NORMAN
+D: It won't stop.
+N: Norman falls to the floor, losing Ted. TED -- SLIDES away and UNDER the computer CONSOLE. BANG! The computer CONSOLE breaks -- COMPUTERS, MONITORS, fall, CRUSHING on Ted's legs. He SCREAMS out in agony. NORMAN scrambles towards him through the smoke when... THE CONSOLE catches fire, erupts in flame. Ted underneath it. BETH -- her extinguisher out of foam. NORMAN -- runs to a wall, finds an EXTINGUISHER CASING, it's been bent, can't get it open. TED -- reaches out in desperation as his LEGS catch fire.
+C: TED
+D: Norman!
+N: NORMAN -- BASHES the casing in with his shoulder, grabs the extinguisher, turns... TED -- his entire body on fire. BANG! Norman falls, dropping the extinguisher -- it rolls across the floor. He reaches out -- can't get it. CLOSE ON TED -- his face burning...
+C: TED
+D: Norman! Nor--
+N: BANG! The lights go out. DARKNESS NORMAN -- watches in horror as he watches TED, lit in flame, burning to death. NORMAN -- reaches for the wall for balance, grabs METAL, and he's ELECTRICUTED. Falls backward, head first, and EVERYTHING GOES... BLACK A long beat.
+C: NAVY SEAMAN
+D: Dr. Johnson? Dr. Johnson?
+E: O.S.
+S: INT. COMMUNICATIONS ROOM
+N: WE FOCUS in on Norman, as he awakens. NAVY SEAMAN, 40s, African- American, standing above him.
+C: NAVY SEAMAN
+D: Norman Johnson.
+C: NORMAN
+D: Does this mean what I think it means?
+C: NAVY SEAMAN
+D: It's over, sir, The storm has cleared.
+C: NORMAN
+D: The ships?
+C: NAVY SEAMAN
+D: They're topside. We're ready to take you home, sir.
+E: O.S.
+N: The Navy Seaman helps Norman to his feet. Norman is smiling, it's over.
+S: INT. HALLWAY
+N: Norman and the Navy Seaman walk down the hall.
+C: NORMAN
+D: How are the others?
+C: NAVY SEAMAN
+D: The others, sir?
+C: NORMAN
+D: Beth and Harry?
+C: NAVY SEAMAN
+D: They're in the sub, sir. Waiting.
+N: Norman sighs, smiling. The relief, the jubilation.
+C: NORMAN
+D: That whole time -- I couldn't stop thinking of what Harry was saying earlier...
+C: NAVY SEAMAN
+D: What was that, sir?
+C: NORMAN
+D: About the time paradox. How we were all going to die -- that there was no way we would make it out of here alive --
+E: the Seaman nodding
+N: As Norman looks up, the Navy Seaman, still walking and nodding, begins to slowly DISAPPEAR. Disintigrating. VANISHING before his eyes. Norman stops, looks around him. He's gone.
+S: INT. VIDEO FEED ROOM
+N: Norman watches on a monitor -- the VIDEO of him walking down the hall, the Navy Seaman walking next to him.
+C: NORMAN
+D: ... how we were all going to die -- that there was no way we would make it out of here alive --
+E: O.S.
+N: ON THE MONITOR -- the Seaman disappers. Norman stops tape. Looks over at the MONITOR showing the SPHERE. It is closed. THE SCREEN goes BLACK. Flashes up: "Hello Norman"
+C: NORMAN
+D: Jerry?
+N: "Yes Norman"
+C: NORMAN
+D: Jerry, did you create that man?
+N: "The entity Navy Seaman was a Manifestation. Did you have a Happy talk?"
+C: NORMAN
+D: Jerry, are you manifesting what's destroying our habitat?
+N: "Did you have a Happy talk?"
+C: NORMAN
+D: Jerry, answer me.
+N: "No."
+C: NORMAN
+D: Jerry?
+N: A beat. "Stop calling me Jerry" The MONITOR shuts off. Norman looks over at ANOTHER MONITOR labled "AIRLOCK FEED". ON THE SCREEN -- Beth is putting on her jumpsuit.
+S: INT. AIRLOCK
+N: REFLECTED IN THE POOL OF WATER -- WE SEE Beth, slipping on her boots.
+C: NORMAN
+D: Where are you going in such a hurry?
+E: O.S.
+C: BETH
+D: I have to reset the sub.
+N: Norman stands in the doorway...
+C: NORMAN
+D: Forget the sub.
+C: BETH
+D: Don't bother me, Norman.
+C: NORMAN
+D: It's not worth the risk.
+C: BETH
+D: It's also our only way out of here! It holds three people. And there's only three of us left now.
+C: NORMAN
+D: You, me and Harry?
+C: BETH
+D: You, me and Harry. He's asleep.
+C: NORMAN
+D: Wake him, then. Let's go. Get outta --
+C: BETH
+D: We can't. The storm. The waves would toss us around worse than we got down here. And we have four days of decompression when we get up top.
+C: NORMAN
+D: Four days?
+C: BETH
+D: Get the helium out of our bloodstream. We go to the surface now, we'd pop like a soda bottle.
+N: She begins to put on her helmet, when she stops.
+C: BETH
+D: Maybe you should go. To the sub.
+C: NORMAN
+D: Why should I go?
+C: BETH
+D: You should know how it works. Just in case.
+C: NORMAN
+D: In case you die, too?
+C: BETH
+D: I don't trust Harry to do it.
+C: NORMAN
+D: I would. But my suit --
+C: BETH
+D: I fixed your suit.
+N: She goes to it. Brings it to him.
+C: NORMAN
+D: You fixed my suit?
+E: watching her closely
+C: BETH
+D: You don't trust me?
+C: NORMAN
+D: But I don't know how --
+C: BETH
+D: You press a button, Norman. It's not brain surgery. Here, go ahead. You only have 15 minutes to reset it. Go on, Norman...
+N: She hands him a BRIEFCASE, the tapes inside.
+C: BETH
+D: ... I'll watch the sensors for you.
+S: EXT. UNDERWATER
+N: Norman drops to the bottom with the BRIEFCASE. Lands on the ground. BREATHING. Checks his LIFE SUPPORT BADGE. She must've fixed it.
+C: BETH
+D: You're clear, Norman.
+N: He walks along, out from under the habitat. Carefully, looking around.
+C: BETH
+D: The sub's a 100 feet in front of you. You see it?
+E: O.S.
+C: NORMAN
+D: I can't see anything. How does it look? Still clear?
+C: BETH
+D: Still clear.
+E: O.S.
+N: Norman, hesitantly, ventures out. The DARK WATER. Looking around. Anything could be out here. Walking. WE HEAR him BREATHING. His BREATHING gets shorter. He looks at his LIFE SUPPORT BADGE.
+C: BETH
+D: What's the matter?
+E: O.S.
+C: NORMAN
+D: You fixed this suit? Beth?
+E: no reply
+C: BETH
+D: Yes, Norman. I did. You're just nervous.
+E: O.S.
+C: NORMAN
+D: My air isn't... I'm coming back.
+C: BETH
+D: You can't. Counter's at 10 minutes. You don't have time.
+E: O.S.
+N: His BREATHING is short, but managable. He continues on. AHEAD OF HIM -- the DOME HANGER attached to a large, gray cylinder, forty feet high.
+C: NORMAN
+D: Still clear?
+C: BETH
+D: Still clear.
+E: O.S.
+N: UNDERNEATH THE DOME HANGER -- Norman climbs up to the hatch DOOR. Looks below him. Nothing around him. He SPINS the wheel, and pushes the HATCH OPEN. Lifts himself up, awkwardly. Grabs HANDHOLDS, and PULLS himself up into the POCKET OF AIR trapped inside the dome. THE SUB -- in front of him. He finds the hatch, opens it, climbs inside the sub.
+S: INT. SUB
+N: Norman sits in the small seat.
+C: NORMAN
+D: I'm in. Hello?
+E: beat
+N: No answer. He bangs at his helmet...
+C: NORMAN
+D: Beth?
+N: He searches the sub's CONTROL PANEL. Gadgets, switches, buttons. Up top -- a flashing red-lit BUTTON: "TIMER HOLD". Punches it. It stops flashing, and a small screen glows: "TIMER RESET -- COUNT: 12:00:00". It begins counting backwards.
+C: NORMAN
+D: Beth? Hello?
+N: No answer. He looks at the Control Panel: A VIDEO SCREEN with the choices: "DESCEND, ASCEND, SECURE, SHUTDOWN... " THUMP! The sub slightly SWAYS. Norman sits still, nervous. THUMP! Harder this time. Norman looks through the GLASS WINDSHIELD. Sweating. Can't see anything in here. BANG! It SWAYS faster, harder, back and forth. He grips the seat.
+C: NORMAN
+D: Beth! Beth! There's something -- !
+N: THUMP! BANG! He's thrown around in the sub. He can't see anything, tosses around. He reaches for the doorhandle. BANG! He looses grip, his legs fly up in the air. The Sub almost turns over on it's side.
+C: NORMAN
+D: Beth! Shit!
+N: His HELMET BANGS into the glass, WE SEE his look of terror. Water SPLASHING up from below. Then, EVERYTHING stops. The sub SWAYS to a still. He sits quietly. Waiting. Listening. Reaches for the doorhandle, cautiously climbs out. Stands on top of the sub. Keeping balance. He looks around, finds a DOOR inside the dome. Tries to open it. Locked. Looks around. Nothing else. Looks down at the water. Can he risk it? His BREATHING short.
+C: NORMAN
+D: Beth? Can you hear me?
+N: No reply. He dips his leg slowly, quietly into the water. Grimacing. Then, cautiously slips down into the water...
+S: EXT. UNDERWATER
+N: CLOSE ON HIS FACE -- terrified. Looking everywhere. Searching. Doesn't see anything. Lands on the bottom. His LIFE SUPPORT BADGE beeping. Shortness of BREATH. He walks, trying to run, out from under the dome hanger. The DARK WATER. Can't see anything. Scared to death.
+C: NORMAN
+D: Beth? Beth? Shit.
+N: THE HABITAT -- ahead of him. Norman goes to a STANCHION. Grips onto it. Twists around. Looking. Searching. Doesn't see anything. LIFE SUPPORT BADGE bleeping faster. Barely BREATHING.
+C: HARRY
+D: ... you there? Norman?
+E: O.S.
+C: NORMAN
+D: Harry?
+C: HARRY
+D: Norman, where are you?
+E: O.S.
+C: NORMAN
+D: I can't breathe... Am I... clear?
+C: HARRY
+D: You're clear. You see the airlock?
+E: O.S.
+N: Norman, twists around, and as he does... A SEA SNAKE HISSES at his faceplate. Norman SCREAMS. ON HIS HAND -- holding the snake, not the girder, lets go.
+C: HARRY
+D: Norman!
+E: O.S.
+N: Norman falls... looking up: The SNAKE wrapped around the STANCHION, slithering between the grid-like posts. THE SNAKE'S HEAD comes at Norman, as he falls to the ocean bottom. Backpeddaling on his arms and feet. THE SNAKE, HISSING, coming at him. It's long TONGUE flicking at him, inches from his faceplate. Norman backpeddaling, can't BREATHE, the SNAKE coming down on him, Norman falls on his back, the TONGUE WHIPPING across his faceplate, when... NORMAN is whisked up. HARRY has him by the collar of his suit. Taking him up.
+S: INT. AIRLOCK
+N: They burst out of the water. Harry throws Norman onto the floor. Unhooks his helmet -- Norman BREATHES, fast and furious.
+S: INT. CORRIDOR
+N: Norman, panting, walks with Harry...
+C: NORMAN
+D: Thank you. My suit -- Beth said she fixed it --
+C: HARRY
+D: What happened to her?
+C: NORMAN
+D: What do you mean? She's not here?
+C: HARRY
+D: When I woke up, nobody was here.
+C: NORMAN
+D: She was supposed to be watching the sensor for me.
+C: HARRY
+D: Her suit's gone.
+C: NORMAN
+D: Beth left?
+C: HARRY
+D: I thought she was with you.
+S: INT. VIDEO FEED ROOM
+N: Norman and Harry at the mic...
+C: BETH
+D: ... what do you mean? I'm in the ship.
+E: O.S.
+C: NORMAN
+D: What are you doing in the ship? Beth?
+E: beat
+C: BETH
+D: Getting food. We were out of food. what's wrong? You sound mad.
+E: O.S.
+C: NORMAN
+D: Yeah, well, I get that way when I'm facing death and someone deserts me.
+C: BETH
+D: Deserts you? Harry said he'd take over for me.
+E: O.S.
+C: NORMAN
+D: He what?
+N: Harry shakes his head: "no way".
+C: BETH
+D: When he woke up, he said we were out of food. He told me to get some from the ship.
+E: O.S.
+C: HARRY
+D: I never said that.
+C: BETH
+D: Yes you did. Norman, I wouldn't leave you out there. You know that.
+E: O.S.
+C: HARRY
+D: We never even had a conversation, Norman.
+C: BETH
+D: Harry? That's bullshit. We stood right there --
+E: O.S.
+N: Harry covers the mic...
+C: HARRY
+D: She's cracking, Norman.
+C: NORMAN
+D: You didn't say that about the food?
+C: HARRY
+D: I was just in the cafeteria, there's plenty of food in there. Take a look for yourself.
+C: NORMAN
+D: But why would she -- ?
+C: HARRY
+D: She's lying, Norman. Just like she lied about fixing your suit.
+N: Harry uncovers the mic...
+C: BETH
+D: You get it straightened out?
+E: O.S.
+C: NORMAN
+D: I think so, Beth. Yes.
+S: INT. CAFETERIA
+N: Norman, sitting at a table, eating a couple pieces of cold chicken. A salad, some fruit, and boxes of crackers on the table. Beth walks in, carrying a bag of food.
+C: BETH
+D: What's Harry doing with your suit in there?
+C: NORMAN
+D: Fixing it.
+C: BETH
+D: Fixing it? But I fixed -- Where'd you get all that?
+E: notices the food
+C: NORMAN
+D: The refridgerator.
+C: BETH
+D: The refridgerator.
+C: NORMAN
+D: It's a pretty common place to look for food when you don't think you have any.
+C: BETH
+D: That wasn't in there before.
+C: NORMAN
+D: We must've had it delivered then.
+C: BETH
+D: Wait a second --
+C: NORMAN
+D: 1-800-Deepsea delivery. I hear they're good.
+C: BETH
+D: None of this was here before.
+C: NORMAN
+D: Did you look? It was on the top shelf.
+C: BETH
+D: No, it wasn't. I swear none of this was here. None of it. You think he hid it? Earlier. He must've hid it.
+E: beat
+C: NORMAN
+D: You think?
+C: BETH
+D: You don't believe me.
+C: NORMAN
+D: All I know is I opened that refridgerator --
+C: BETH
+D: Damn it, Norman. I swear. I had a whole conversation with the man when he woke up.
+C: NORMAN
+D: This being after you so carefully fixed my suit.
+C: BETH
+D: You think it's me? You think I'm saying there was a conversation when there wasn't?
+C: NORMAN
+D: I don't know, Beth. I wasn't there.
+C: BETH
+D: Damn it, Norman! He's lying. Don't you get it? There is something seriously fucked up going on here -- and he's causing it. Why can't you believe me?
+N: TO HER LEFT -- she looks -- HARRY is standing in a doorway, cold, holding Norman's jumpsuit. He turns away. ON BETH -- looking back at Norman, tears rolling down her eyes.
+T: CUT TO:
+S: INT. AIRLOCK
+N: Harry neatly hangs Norman's jumpsuit under the hook labled: "JOHNSON". Smoothens it out for him.
+T: CUT TO:
+S: INT. CAFETERIA
+N: ON BETH -- sitting at a table, her face in her hands. ON NORMAN -- looking at her, as he closes a box of crackers. Wraps cellophane over the chicken. Walks with it over to the refridgerator. Opens it, placing the chicken inside... but he can't. INSIDE THE REFRIDGERATOR are BOOKS -- neatly lined up on each of the shelves. NORMAN -- backs away. What the hell? Norman now looks at the CUPBOARDS. Goes to them. INSIDE THE CUPBOARD Books, neatly stacked. Norman, panicking, opens each of the cupboards, all of them with BOOKS. All of the books are the same. Entitled: "20,000 Leagues Under The Sea by Jules Verne." Norman looks over at Beth.
+C: BETH
+D: What is it, Norman? Norman?
+N: She comes to him. He stands there, bewildered, scared, mind racing.
+C: BETH
+D: Norman?
+N: Norman paces, frantic almost, running his hands through his hair, trying to think. Stops. Turns to Beth.
+C: NORMAN
+D: Page 87.
+C: BETH
+D: What?
+C: NORMAN
+D: Page 87. "I could never read that far."
+N: Norman quickly plucks a book from a shelf, turns pages, gets to page 87. Reads...
+C: NORMAN
+D: "Our fisherman frequently see some that are more than four feet long. Some skeletons of squids...
+C: BETH
+D: Squids?
+C: NORMAN
+D: "... according to calculations of some naturalists, one of these animals, only six feet long, would have tentacles 27 feet long. That would make a formidable monster."
+N: He looks up from the book, realizing something...
+C: BETH
+D: Norman?
+N: SNAPS the book closed.
+T: CUT TO:
+S: INT. LIVING QUARTERS
+N: CLOSE ON HARRY'S DUFFLEBAG -- Norman rifles through notebooks. Turning pages. TEARS off the first Jerry transmission. Beth, standing at the doorway, keeping watch down the hall.
+C: BETH
+D: Norman, what is it?
+N: Norman grabs Harry's YELLOW PAD OF PAPER.
+T: CUT TO:
+N: THEIR FEET -- scurrying through the water soaked corridor. Norman ushers her into the Control Room. Looks around. SHUTS the door.
+T: CUT TO:
+S: INT. CONTROL ROOM
+N: Norman SCRIBBLES on the printout, glancing at the yellow pad of paper...
+C: NORMAN
+D: After the attack, a Navy guy woke me up -- I don't know -- I thought he was an illusion. But I checked the tape, and Jerry said he manifested him.
+C: BETH
+D: Manifested?
+C: NORMAN
+D: Created. Brought to life. I don't know. But at the end, Jerry said, "Stop calling me Jerry". And --
+N: Norman stops, staring at the pad.
+C: NORMAN
+D: He translated it wrong.
+C: BETH
+D: What?
+N: Norman picks up the pad of paper, reads...
+C: NORMAN
+D: Hello. How are you? I am fine. What is your name?... My name is Harry.
+T: CUT TO:
+S: INT. CORRIDOR
+N: Harry is walking towards the Living Quarters...
+C: NORMAN
+D: Remember when we first spoke to Jerry, Barnes kept asking for Jerry's real name? But Harry never would? He didn't because he was afraid the screen would say "Harry", instead of Jerry. We weren't talking to an alien intelligence when we talked to Jerry, we were talking to Harry... or a part of Harry.
+E: O.S.
+C: BETH
+D: What do you mean, a part of Harry?
+E: O.S.
+N: BACK IN -- CONTROL ROOM
+C: NORMAN
+D: When did the messages start? The animals outside start showing up? After Harry came out of the sphere.
+C: BETH
+D: You think, in the sphere --
+C: NORMAN
+D: He acquired some sort of power. A power to manifest things.
+C: BETH
+D: But how?
+C: NORMAN
+D: I don't know.
+C: BETH
+D: How can the sphere do that?
+C: NORMAN
+D: I don't know, Beth. I'm not the fucking alien that built the thing. But it can. When Harry came out of the sphere, he mumbled something about page 87. How he would never read that far -- he was too scared to. Then you found the book, remember in your lab. Then in the cafeteria -- and page 87 talks about a giant squid...
+C: BETH
+D: Which I told Barnes was attacking --
+C: NORMAN
+D: It's his fear. The squid. He's manifesting his fears. Making them real.
+C: BETH
+D: But why is he doing it?
+C: NORMAN
+D: He must not realize he is. Like the Navy crewman -- Harry was sleeping then. He must've manifested his dream.
+C: BETH
+D: His dream? You can't control your dreams. And you can't control your fears, can you?
+C: NORMAN
+D: No. I mean, we've always believed we can think anything we want without consequences. You ever read the Bible? It talks about our sinful nature, you know? I mean, we can think, and believe, and desire whatever we want, but there's a part of us -- a shadow side, as Jung called it -- that can't be controlled. It's evil. It's inside us. It's what we are.
+E: shaking his head off her look
+T: CUT TO:
+N: IN -- THE LIVING QUARTERS It's dark. Harry lies on his bunk, asleep.
+C: BETH
+D: And that's the part of Harry that's being manifested.
+E: O.S.
+C: NORMAN
+D: Must be. And if it is -- it's a part of him not even he can control.
+E: O.S.
+N: Harry opens his eyes, stares at us. WE BEGIN TO HEAR A LOW INSISTENT BEEPING...
+S: INT. VIDEO FEED ROOM
+N: ON SCREEN -- a transmission comes across... "CQX VDX MOP LKI... " Beth and Norman watch...
+C: NORMAN
+D: Looks like some sort of code.
+C: BETH
+D: Why would Harry go back to using a code?
+C: HARRY
+D: You mean Jerry, don't you?
+E: O.S.
+N: Harry leaning against the doorframe, enters the room.
+C: BETH
+D: Jerry. Right. I said Jerry, didn't I?
+C: HARRY
+D: That's a hell of a mistake to make, Beth.
+C: BETH
+D: I'm sorry. Slip of the tongue.
+C: HARRY
+D: Yeah, I don't know how you could make that confusion.
+N: Norman watching them...
+C: HARRY
+D: Wisconsin's your answer.
+C: NORMAN
+D: Wisconsin?
+C: HARRY
+D: Navy transmission. They're sent from Wisconsin.
+E: off screen
+C: NORMAN
+D: How do we decode it?
+C: HARRY
+D: Don't have to. Watch. It'll do it for you.
+N: THE SCREEN -- jumbling it's letters until finally... "SURFACE SUPPORT VESSELS TO YOUR LOCATION ETA: 1600 HOURS. END." Norman and Beth smile...
+C: NORMAN
+D: The cavalry is on it's way.
+N: THE SCREEN -- "16:00:00"... it begins decending in count.
+C: BETH
+D: Just in time, too.
+C: HARRY
+D: In time for what?
+C: BETH
+D: What?
+C: HARRY
+D: Just in time for what?
+N: Beth, nervous, tries to cover...
+C: BETH
+D: Our habitat, I mean. This place can't handle another attack.
+C: HARRY
+D: Another attack?
+N: A long beat, as Beth stares at Harry.
+C: HARRY
+D: Why are you looking at me like that?
+C: BETH
+D: Like what? I'm not --
+C: HARRY
+D: You're staring at me.
+C: BETH
+D: No I'm not. I'm not star--
+C: HARRY
+D: Yes you are...
+N: Harry looks at both of them, suspiciously...
+C: HARRY
+D: Did I miss something? You two seemed to patch things up awfully fast.
+N: A tense beat.
+C: NORMAN
+D: We just figured, you know, the three of us -- we need to... work together through this.
+C: HARRY
+D: The three of us.
+C: NORMAN
+D: That's right.
+C: HARRY
+D: Is that why the two of you went through my dufflebag?
+E: beat
+N: Norman glances at THE SCREEN behind Harry: "I WILL KILL YOU ALL."
+S: INT. LABRATORY
+N: CLOSE ON THE MEDICAL CABINET -- WHIPPING open. Norman quickly digs through the medicines...
+C: NORMAN
+D: Diphenyl parlene.
+C: BETH
+D: Something for burns.
+E: O.S.
+C: NORMAN
+D: Ephedrine hydrochloride.
+N: Beth at the computer, looking up the names...
+C: BETH
+D: It's for motion sickness.
+C: NORMAN
+D: Valdomet.
+C: BETH
+D: Ulcers.
+C: NORMAN
+D: Sintag.
+C: BETH
+D: A synthetic opium analogue.
+C: NORMAN
+D: Does it cause drowsiness? That's all we need. To get him unconscious -- put him under.
+C: BETH
+D: Nothing about drowsiness.
+C: NORMAN
+D: Tarazine?
+C: BETH
+D: Tranquilizer. Causes drowsiness.
+C: NORMAN
+D: Bingo.
+C: BETH
+D: "... and may also cause bizarre halucinations".
+N: Norman throws it on the floor. Picks another...
+C: NORMAN
+D: Riordan?
+C: BETH
+D: Antihistamine. For bites.
+C: NORMAN
+D: Damn it! Chloramphenicol?
+C: BETH
+D: Antibiotic.
+C: NORMAN
+D: Parasolutrine?
+C: BETH
+D: How do you spell it?
+C: NORMAN
+D: P-a-r-a-s-o...
+C: BETH
+D: It's a soporific.
+C: NORMAN
+D: What's that?
+C: BETH
+D: Causes sleep.
+C: NORMAN
+D: It's like a sleeping pill?
+C: BETH
+D: "... used as an anesthetic if given in combination with paracin trichloride... "
+N: Norman digs, finds paracin trichloride...
+C: NORMAN
+D: Here we go.
+T: CUT TO:
+N: BETH -- mixing the medicines...
+C: NORMAN
+D: "20 cc's of parasolutrine in combination with 6 cc's of paracin given IV produces deep sleep suitable for emergency surgical procedures... no cardiac side effects ... REM activity is surpressed... "
+E: O.S. reading from the computer
+C: BETH
+D: How long does it last?
+C: NORMAN
+D: Three to six hours.
+C: BETH
+D: I'll just boost the doses.
+C: NORMAN
+D: What? Wait -- isn't that dangerous?
+C: BETH
+D: How fast does it take effect?
+C: NORMAN
+D: Doesn't say.
+C: BETH
+D: What if it takes 20 minutes, Norman? What if it takes an hour? And he can fight it off? We can't afford that.
+N: Beth goes to the cabinet, grabs another medicine. Norman comes over as she adds it to the mix...
+C: NORMAN
+D: What is that? What are you doing? What do you want to do -- kill him?
+N: A beat...
+C: BETH
+D: It's an idea.
+C: NORMAN
+D: Beth --
+C: BETH
+D: To be on the safe side. I mean --
+C: NORMAN
+D: You want to kill him?
+C: BETH
+D: Look, it's either him or us, Norman. Another attack, and we go down with this place.
+N: She fills the LARGE SYRINGE with the clear liquid mix.
+C: BETH
+D: You ever given an injection before.
+C: NORMAN
+D: Thirty years ago. In residency. I passed out. You?
+C: BETH
+D: Only lab rats. Here.
+N: She hands him the syringe...
+C: BETH
+D: Give him the whole thing. Hurry, before he wakes up.
+N: Norman looks at the syringe, like it's an assault rifle.
+C: NORMAN
+D: Where do I stick it?
+T: CUT TO:
+S: INT. LIVING QUARTERS
+N: Harry sleeps on his bunk. The door to the room is closed.
+S: INT. CAFETERIA
+N: Norman spirals down the stairway from the lab. Hurrying through the dark cafeteria, the syringe at his side. INTO THE HALLWAY shuffling down the corridor, nervously. Glancing at the syringe. ROUNDS A CORNER and SEES in front of the Living Quarters... TWO AFRICAN-AMERICAN NAVY CREWMEN -- standing guard of the door. Norman stops, hides behind the wall.
+T: CUT TO:
+S: INT. LABRATORY
+N: Norman comes in...
+C: NORMAN
+D: He's got Farrakahn's army standing guard. What's plan B?
+N: Suddenly, BANG! The room shakes. Shelves fall. Cabinet doors swing open. Norman falls to the floor. THE COMPUTER MONITOR -- crashes down in front of his face. It reads: "I WILL KILL YOU ALL"
+S: INT. CORRIDOR
+N: Norman and Beth running...
+C: BETH
+D: Harry!
+N: BANG! Water shoots through the wall. Gushing out onto the floor. The walls CRACKING. ON HARRY -- running out of his room...
+C: HARRY
+D: What is it?
+C: NORMAN
+D: You know what it is, Harry.
+N: BANG! They lose their balance, still running...
+C: NORMAN
+D: It's the squid! Stop it!
+C: HARRY
+D: Stop what? What are you -- ?
+N: BANG! Another CRACK -- water gushing inside.
+C: NORMAN
+D: You know damn well what. You're doing it!
+N: Norman grabs Harry, pushes him up against the wall.
+C: HARRY
+D: Doing what? I'm not doing anything -- !
+N: Beth takes the syringe from her palm, and STABS Harry in the SHOULDER. HE SCREAMS IN HORRIFYING PAIN, FADING OVER INTO...
+S: INT. ANOTHER CORRIDOR
+N: Quiet now.
+S: INT. CAFETERIA
+N: Norman and Beth sit at a table, sipping coffee.
+C: NORMAN
+D: I'm sorry.
+C: BETH
+D: For what?
+C: NORMAN
+D: Not believing you.
+C: BETH
+D: You're not sorry. You're scared. You're a psychologist, Norman. You pride yourself on knowing when someone's lying to you, not telling you the truth. And now you're scared ... because you're not sure you can tell anymore.
+E: beat
+N: ON NORMAN -- watching her, sizing her up.
+S: INT. VIDEO FEED ROOM -- LATER
+N: ON HARRY -- lying on a STRETCHER in the corner, propped up with pillows and a blanket. An IV in his arm. NORMAN -- at the console, stares at the MONITOR of the SPHERE. A long beat. His reflection staring back at him. He slips on the headset...
+C: NORMAN
+D: Beth?
+S: INT. LIVING QUARTERS
+N: The room is empty.
+C: NORMAN
+D: Beth?
+E: O.S.
+S: INT. CORRIDOR
+N: Empty.
+C: NORMAN
+D: Can you copy?
+E: O.S.
+S: INT. AIRLOCK
+N: ON THE JUMPSUIT HANGERS -- the jumpsuit under the name "DR. BETH HALPERIN" is missing.
+C: NORMAN
+D: Beth?
+E: O.S.
+S: INT. VIDEO FEED ROOM
+N: Norman at the mic...
+C: BETH
+D: What is it, Norman?
+E: O.S.
+C: NORMAN
+D: Where are you?
+C: BETH
+D: In the sub. Resetting the timer. Why?
+E: O.S.
+N: ON THE MONITOR -- Beth sitting in the sub.
+C: NORMAN
+D: The sphere looks different.
+C: BETH
+D: What do you mean, different?
+E: O.S.
+C: NORMAN
+D: The grooves around the door -- they've shifted. And the pattern -- the fluids -- they look darker now.
+C: BETH
+D: How's Harry?
+E: O.S. beat
+N: ON HARRY -- the IV in his arm.
+C: NORMAN
+D: He's fine.
+T: CUT TO:
+N: CLOSE ON A MONITOR: "12:30:00"... descending in count.
+T: CUT TO:
+S: INT. CAFETERIA
+N: Norman pouring himself more coffee, alone.
+T: CUT TO:
+S: INT. AIRLOCK
+N: Beth's suit still gone.
+T: CUT TO:
+S: INT. VIDEO FEED ROOM
+N: Harry lying on the stretcher, still. Norman watching him from above, sipping his coffee. HEARS A SOFT BEEPING Norman goes to the console, sits. Checks the monitors. Looks around the console, not knowing what it is. A FLASHING LIGHT on the Sensor Board. Norman still doesn't know what it means. THE MONITORS go blank.
+C: NORMAN
+D: Beth --
+N: The MONITORS flash up: "I AM COMING." Norman spins around, goes to HARRY -- lying still. Norman grabs Harry's wrist. Checking pulse. Norman returns to the console, slips on the headset...
+C: NORMAN
+D: Beth? Beth? Can you hear me? Get the hell out of there.
+N: THE MONITORS boot up again. Norman looks at the SUB VIDEO MONITOR -- the sub is gone from under the dome.
+C: NORMAN
+D: Beth? Beth? Shit.
+E: beat
+N: No reply. MORE BEEPING. Panicking. Bangs on the headset.
+C: NORMAN
+D: Beth? I'm getting some sort of reading. There's something --
+N: He scans the MONITORS, looking for movement. Anything. They are all still. Norman turns to looks at Harry... CLOSE ON HARRY'S FACE -- still. BACK ON -- NORMAN, sweating...
+C: NORMAN
+D: And whatever it is, it's not coming from Harry.
+N: Norman looks at the monitors: ON AN OUTSIDE CAMERA FEED -- a bright LIGHT blinds the SCREEN. It's Beth in the sub, moving along the habitat. The Sub's CLAW ARMS carry large RED BOXES. The lettering on the boxes isn't in focus. Norman squints at the MONITOR -- can't make it out.
+C: NORMAN
+D: Beth? What is that? What are you doing?
+N: The Sub's CLAW ARMS drops one of the BOXES, plumping it softly on the muddy floor.
+C: NORMAN
+D: Can you hear me? Beth? Can you copy? Get inside, there's something out there.
+N: ON ANOTHER MONITOR -- the Sub moves forward. Churning up the sediment. It stops again, and releases another box. Norman BANGS on the headset.
+C: NORMAN
+D: Damn it, Beth, I know you hear me.
+N: THE MONITORS blink: "I AM COMING FOR YOU" ON NORMAN -- breathing heavy.
+C: NORMAN
+D: What the hell?
+N: ANOTHER MONITOR -- the Sub in view -- a closer view. It releases it's last box. Norman can read the lettering now: "CAUTION: TEVAC EXPLOSIVES"
+C: NORMAN
+D: Beth? C'mon. What are you -- ?
+N: THE MONITORS flash: "I WILL KILL YOU"
+C: NORMAN
+D: Oh shit.
+N: Norman WHIPS off his headset, bursts out of his seat, OPENS a CABINET. Searching for tapes. Another cabinet. Then another. A shelf labled: "SPHERE" -- all the tapes are gone.
+C: NORMAN
+D: It's her.
+N: THE MONITORS flash: "I WILL KILL YOU" ON THE HEADSET -- resting on the console. WE HEAR faintly...
+C: BETH
+D: Norman? Norman?
+E: O.S.
+S: INT. CORRIDOR
+N: Norman pushes Harry and his IV down the corridor. Hurrying. An inch or two of water on the floor.
+S: INT. LIVING QUARTERS
+N: CLOSE ON A METAL CASE -- labled: "Captain Harold Barnes." Norman BANGS it against the wall, trying to bust the LOCK. BANGING. BANGING. Breaks the lock. Digs inside the case. Pulls out a GUN.
+S: INT. ANOTHER CORRIDOR
+N: Norman pushing Harry and the IV stand. Wheels him into... BATHROOM/SINK AREA Norman stops. Turns off the main lights. The room goes dark. The florescent LIGHT above the sinks stay on. Norman wheels Harry inside, places him by a wall. Checks the IV. Norman goes to a STALL. Steps inside. Keeps the stall door open. Can still see Harry about 10 feet away. Norman looks at the GUN. COCKS it. Pinches his finger.
+C: NORMAN
+D: Ouch.
+N: He waits. Listening.
+S: A FAINT HIGH-PITCHED HISSING SOUND
+N: Norman looks over at the sinks. A FAUCET is on. Water HISSING faintly from it. Norman ignores it. Waiting in the dark. Listening. ON THE FAUCET -- the water running. ON NORMAN -- looking at it. Can't ignore it. Tries. But can't. Norman walks quietly through the inch of water on the floor. OVER TO THE SINKS The light above them on. Norman turns the faucet off. The water stops. But the HISSING SOUND remains. Norman looks at the faucet, queerly. Turns it back on. Then off. The HISSING SOUND still there. It isn't the water. Norman looks down at his feet... THE FLOOR -- seems to be moving. Something swimming in the water. CLOSE ON NORMAN'S PANTLEG -- a long, tubular SEA SNAKE slithers up inside his pantleg, HISSING. His pants BULGING as the SNAKE slowly slides up past his knee. HISSING LOUDER As more SNAKES comes through the crack in the wall. NORMAN watches with horror in the mirror in front of him as the SNAKE slithers up to his groin, and across the inside of his shirt. Another SNAKE begins WRAPPING itself around the outside of Norman, sliding up around his neck. WE HEAR FOOTSTEPS COME FROM DOWN THE HALL NORMAN, standing still, watches as more SNAKES crawl up his sides, slithering around his arms, his shoulders, his neck, under his chin, over his face. Their forked tongues FLICKING and HISSING.
+C: BETH
+D: What time is it, Norman?
+E: O.S.
+N: NORMAN looking in the MIRROR -- as Beth comes up behind him in her jumpsuit.
+C: BETH
+D: Do you know the time?
+N: Norman GLARES at her in the mirror. His body STIFF.
+C: BETH
+D: I have to know the time of day, Norman. Do you know?
+N: SNAKES covering his eyes, SLITHERING across his mouth.
+C: NORMAN
+D: Your watch.
+E: through his teeth
+N: A SNAKE flicking it's tongue at Norman's lips. Trying to get inside his mouth.
+C: BETH
+D: What was that? I couldn't hear you.
+C: NORMAN
+D: Your watch.
+C: BETH
+D: Oh yes, my watch. I almost forgot.
+N: She looks at her watch.
+C: BETH
+D: Splendid.
+N: She begins grabbing the SNAKES off of him, carefully dropping them to the ground. SNAKES writhing in her hands, twisted around her wrists. Shakes them off. Some drop in the sink. She bends out of view -- and the SNAKE inside Norman's shirt, MOVES back down the way it came. Past his stomach, his groin. Norman HEAVES from his chest, VOMITS on the mirror...
+T: CUT TO:
+S: INT. CAFETERIA
+N: CLOSE ON A POT -- pouring a white, milkish DRINK into a cup. Beth walks it over to Norman, sitting at a table, looking ill.
+C: BETH
+D: Isotonic glucose supplement.
+N: Norman looks at the cup.
+C: BETH
+D: Go ahead, drink it.
+N: Norman places the cup down.
+C: BETH
+D: What's wrong, Norman?
+C: NORMAN
+D: I'm feeling better.
+C: BETH
+D: Are you?
+N: Beth takes a seat. Stares at him. A long beat.
+C: BETH
+D: It's getting cold.
+C: NORMAN
+D: You think I'd really drink that?
+C: BETH
+D: You don't think I put something in it, do you?
+C: NORMAN
+D: You put explosives around the habitat, I can't imagine what you'd put in a drink.
+C: BETH
+D: I did do that, didn't I?
+N: A beat. She picks up the drink, and begins sipping it. Norman watches her.
+C: NORMAN
+D: How do you feel about snakes?
+C: BETH
+D: Snakes? What do you mean, exactly?
+C: NORMAN
+D: You know what I mean.
+C: BETH
+D: Am I afraid of them? Not during the day. Sea snakes are diurnal. When the sun's out, they don't bite. Fortunately for you, I had on my watch. This is quite good.
+E: off cup
+C: NORMAN
+D: What are they doing down here? In the bathroom? Suddenly appearing.
+C: BETH
+D: You tell me.
+C: NORMAN
+D: Do you fear them?
+C: BETH
+D: Don't you?
+C: NORMAN
+D: Are you manifesting them?
+C: BETH
+D: If I was, then I would've had to have gone in the sphere, wouldn't I?
+C: NORMAN
+D: Did you?
+C: BETH
+D: What's the phrase -- "keeping up with the Joneses"?
+C: NORMAN
+D: Why did you go in the sphere, Beth?
+C: BETH
+D: Same reason I put explosives around the habitat. For defense. For the power. To protect myself.
+C: NORMAN
+D: Against what? Harry's unconscious. He's not a threat.
+C: BETH
+D: No, he isn't.
+C: NORMAN
+D: He can't manifest.
+C: BETH
+D: No, he can't.
+C: NORMAN
+D: Then why, Beth? Why go in? Why put out explosives? Why manifest the snakes?
+C: BETH
+D: You think I manifested the snakes?
+C: NORMAN
+D: Someone did.
+C: BETH
+D: Yes, someone did. But it wasn't me, Norman. It was you. You manifested the snakes.
+E: beat
+N: A long beat between them.
+C: NORMAN
+D: Beth you're losing it. C'mon.
+C: BETH
+D: C'mon -- what?
+C: NORMAN
+D: You're lying --
+C: BETH
+D: Am I lying? Are you sure? Are you absolutely sure I'm lying? Then explain to me about the jellyfish. Earlier. Why did we see jellyfish? Harry doesn't fear jellyfish. You do. They're your fear, aren't they?
+E: off his look
+C: NORMAN
+D: But --
+C: BETH
+D: And the snakes? You want to know about the snakes? You saw one outside earlier, didn't you? When you thought I had deserted you -- you were terrified.
+C: NORMAN
+D: That's when you went in the sphere.
+E: realizing
+C: BETH
+D: One lonely, terrifying sea snake.
+C: NORMAN
+D: You manifested that, Beth.
+C: BETH
+D: Did I? Or was that you? When you were hiding in the bathroom -- all conspiratorially like you were -- you became frightened, didn't you? Terrified. Like you were with the snake earlier -- and suddenly you have snakes slithering all over the floor. You did that, Norman.
+E: beat
+C: NORMAN
+D: You're insane.
+C: BETH
+D: Am I? Or am I making so much sense that you're going insane?
+C: NORMAN
+D: I never went in that sphere.
+C: BETH
+D: You don't remember you did. But I'm sure you remember running like some fucking hero to get Harry, don't you? You remember that.
+C: NORMAN
+D: Yes.
+C: BETH
+D: You remember before you picked him up -- when you looked up at the sphere, you remember that -- when the sphere opened? That's right. But you can't remember going inside, can you? No, of course not. Harry couldn't either, could he? "Like everything's on the tip of my tongue", he said.
+E: off his look
+C: NORMAN
+D: That's bullshit.
+C: BETH
+D: Is it?
+C: NORMAN
+D: Beth, the message said Harry. "My name is Harry". My name isn't Harry.
+C: BETH
+D: No, it isn't. Your name is Norman. But your younger brother -- what was his name? The one who was stung when you were younger. The one that died. The one you couldn't save. What was his name? "Mommy, we're going out to the ocean -- to go swimming." "But I don't want to go swimming, Norman. I'm scared." "C'mon, Harry, it'll be fine, it'll be fun." You heartless fuck. That's why you're so scared of the water, isn't it?
+E: imitating resuming
+C: NORMAN
+D: Shut up, Beth --
+C: BETH
+D: When you were in that sub -- and that squid was attacking you -- are you sure it was the squid that was attacking? Do you know? "I can't get Beth on the radio. I'm in this tiny sub on the bottom of the fucking ocean. All alone. Surrounded by all this water." Was it really the squid that was attacking you, Norman -- or was it something else -- one of your fears? You never really saw what it was, did you?
+N: Norman stares up at her, frightened. Is she right?
+C: BETH
+D: I'm not scaring you, am I Norman? I hope I'm not frightening you. The last thing I want to do is frighten you. You feel okay, don't you?
+C: NORMAN
+D: It's not me, Beth. I swear. It can't be.
+C: BETH
+D: "It's not me, Beth. It's not me. It can't be. I'm not doing anything." Just like Harry said before I stabbed him with the needle.
+N: Norman looks at her palm -- SEES the NEEDLE in her hand. Norman backs up, away.
+C: NORMAN
+D: Don't, Beth.
+C: BETH
+D: But I have to, Norman.
+C: NORMAN
+D: I promise --
+C: BETH
+D: Promise what, Norman? Tell me!
+C: NORMAN
+D: Beth --
+C: BETH
+D: You think I'd belive you? Believe anything you might say now? After you lied to me about telling Barnes about my past. About my problems. My problems. Not yours. Not his. Mine.
+C: NORMAN
+D: Don't, Beth. Please.
+C: BETH
+D: It's either this... or I kill you.
+N: The GUN in her other hand.
+C: NORMAN
+D: Beth --
+N: She comes at him, needle in hand...
+C: BETH
+D: It's your choice. Because it's not safe for you to be awake. To be walking around. To be thinking about things.
+C: NORMAN
+D: It's not safe for you to be either.
+C: BETH
+D: You think I care? You think I care if I die? Would I put explosives around the habitat -- set on vibration sensors -- that can trigger automatically, if I cared about myself? Would I? I've tried twice before, Norman, why wouldn't I try a third time? I'm not thinking about myself -- No, Norman, I'm thinking about you. Your safety. Protecting you from your own self.
+E: almost laughing
+N: She lunges at him with the needle, missing. He RUNS for the SPIRAL STAIRCASE leading to the lab. Norman grabs the handrail, begins climbing the stairs. Beth's at his feet, grabbing for his ankles.
+C: BETH
+D: Norman! I'm doing this for you, Norman.
+N: He frantically crawls up the stairs, her grasping at his heels.
+C: BETH
+D: Norman.
+N: Climbing, climbing -- round and round -- the STAIRS never seem to end. He looks up: THE STAIRS -- expanding in front of him, strangely increasing in number. He climbs, racing, PANTING. Beth, right behind him, laughing almost.
+C: BETH
+D: Come here, Norman.
+N: She GRABS his ANKLE. She raises the NEEDLE. Norman turns, KICKS her in the FACE. She WAILS, blood SPITTING from her nose. Climbing, climbing. The STAIRS increasing above. He LUNGES for the top step, GRABS it. Pulls himself up... INTO THE LAB Scrambling. He stares down at Beth -- the GUN pointing at him.
+C: BETH
+D: Norman --
+N: He SLAMS the HATCH DOOR, on top of her, BASHING her head down. He holds the DOOR closed. Trying to regain his breath.
+C: BETH
+D: This is what I'm talking about, Norman. Don't you see? It's in you. This vindictiveness. This rage.
+E: O.S.
+C: NORMAN
+D: Get away from the door, Beth.
+N: He slides a heavy FILE CABINET over on top of the door.
+C: BETH
+D: Oh, Norman, I don't want to come in...
+E: O.S.
+N: The door's METAL PIVOT turns...
+T: CUT TO:
+N: ON BETH -- on the stairs, spinning the door's WHEEL...
+C: BETH
+D: ... I want to lock you in.
+T: CUT TO:
+S: INT. LABRATORY
+N: Norman staring at the wheel. CLICK! It's locked from the outside. Norman falls to his knees. PANTING.
+T: CUT TO:
+S: INT. LABRATORY -- LATER
+N: CLOSE ON A SURVEILLANCE VIDEO CAMERA -- in the upper corner of the room.
+C: BETH
+D: You're a psychologist, Norman. You of all people, don't want to admit to your shadow side...
+E: O.S.
+T: CUT TO:
+S: INT. VIDEO FEED ROOM
+N: ON A MONITOR -- WE SEE Norman -- sitting in a corner of the lab, staring up at US.
+C: BETH
+D: ... You have a professional stake in believing in your own mental health, don't you? Don't you, Norman?...
+E: O.S.
+T: CUT TO:
+S: INT. LABRATORY
+N: Norman, huddled on the floor.
+C: BETH
+D: Of course you're going to deny it. You want to blame someone else. You want to blame Beth. Because you hate Beth.
+E: O.S.
+C: NORMAN
+D: Don't fuck with me, Beth.
+C: BETH
+D: I'm not fucking with you, Norman. You've fucked yourself.
+E: O.S.
+N: Norman JUMPS up, looks at the ground -- WATER on the floor. Rising in level.
+C: NORMAN
+D: Turn off the water, Beth.
+N: The entire floor is covered in water, rising higher, and rising fast.
+C: NORMAN
+D: Beth!
+C: BETH
+D: You're frightened, aren't you, Norman?
+E: O.S.
+N: Norman, WADING through the water, searching...
+C: NORMAN
+D: Where is it coming from, Beth?
+C: BETH
+D: Don't you know?
+E: O.S.
+N: Rising higher...
+C: NORMAN
+D: Beth, stop it!
+C: BETH
+D: Stop what? Don't blame me. It's not me.
+N: Norman frantically checking for a crack, a leak.
+C: NORMAN
+D: Then where's it coming from?
+C: BETH
+D: From you, Norman. From your mind. You're doing it.
+E: O.S.
+N: It's up to his waist. He climbs on top a lab bench. Puts his hands to his temples, straining. WE HEAR Beth laughing. A SPECIMEN BOTTLE -- EXPLODES right next to him.
+C: BETH
+D: There's no ventalation in the room, Norman. The pressure's going to kill you.
+E: O.S.
+N: Another BOTTLE SHATTERS, shooting fragments of glass across the room.
+C: NORMAN
+D: Stop it!
+C: BETH
+D: It's you, Norman. Your fear of drowning. You have to face it.
+E: O.S.
+N: Microscope lenses CRACK. Bottles, Test Tubes, Dishes EXPOLDE.
+C: BETH
+D: C'mon, Norman. Let me put you under. Before you kill yourself!
+E: O.S.
+N: SHATTER! CRACK! Bottles floating in the water POP! The water too high -- Norman swimming in it now, keeping afloat. His FACE strains from the pressure. He looks at the CAMERA in the corner...
+C: BETH
+D: It's over, Norman.
+E: O.S.
+N: Next to the CAMERA, he SEES the HATCH DOOR in the ceiling.
+C: BETH
+D: Don't even think it. You don't have your suit, Norman. The water will freeze you.
+E: O.S.
+N: He reaches up at the door. Can't get it. The water rising. He DIVES down in the water... UNDERWATER He swims to a cabinet near the floor, OPENS it, searches, THINGS floating out -- AN OXYGEN CYLINDER and MASK -- he GRABS it.
+T: CUT TO:
+N: NORMAN'S FACE -- bursts above water level, slips on the mask, BREATHES.
+C: BETH
+D: It won't help, Norman. Your body is boyant. You're gonna shoot right to the surface and explode, Norman. Don't you get it? It's over.
+E: O.S.
+N: He BREATHES a last breath, reaches up to the ceiling HATCH DOOR, SPINS it.
+C: BETH
+D: Norman, what are you doing! You're insa--
+E: O.S.
+N: The DOOR opens and WATER gushes inside. He grabs the frame of the door, and his body shoots up through the hole...
+T: CUT TO:
+S: EXT. OCEAN -- UNDERWATER
+N: His body upside down, his hand holding onto the frame. He grabs a PIPE next to it, pulls himself hand over hand, along the pipe. HIS FACE -- straining from the freezing chill. MOVING along the pipe, hand over hand. He loses grip. His body thrusts upwards. CLOSE ON HIS RIGHT HAND -- purple, frozen, holding onto the pipe. Barely gripping. HIS FACE -- his eyes fluttering. He blows air from his mouth, BUBBLES burst from his lips. HIS BODY slightly descending. HIS LEFT HAND -- grips the pipe. He continues on. HAND OVER HAND. Pulling himself... UNDER THE HABITAT He SEES the airlock in front of him. He SCOOTS along, but slower, now. He stops. Can't continue. He clasps his hand to his CHEST, it's burning. He SEES the airlock. His eyes fluttering, he's losing consciousness. He can't do it. And he lets go of the pipe. FLOATING UPWARDS -- is he gone? HIS HEAD -- BANGS into the habitat floor. His body flat underneath it. Being sucked upwards against it. He pushes forward... trying to grab the floor with his hands. He's inches from the airlock. Plants his feet against the wall -- and pushes forward. His body SUCKED UP and away...
+T: CUT TO:
+S: INT. AIRLOCK
+N: ... His head BURSTS above the water level, BIG BREATH. GASPING. He flails his arms over to the ladder. Grips the ladder, but his hands are like ice. Can't hold it. He slips. Flailing in the water. He HEAVES his chest over the METAL RIM. Twists his legs around, out of the water, and flops his body onto the deck. Shivering. Tries to get up. Falls over. His body shaking. His lips purple. His eyes barely open, looking at... HIS JUMPSUIT -- hanging on the wall. Norman crawls toward the suit, his body shaking violently. He reaches out for his boots on the floor. Can't grip them. Inches his HEAD toward his suit, tries to BITE at his suit, but his TEETH chattering.
+C: BETH
+D: I know what you're doing, Norman. But you can't save yourself.
+E: O.S.
+N: He grips the wall, his hands pulling him up. He RIPS his suit off the hanger.
+C: BETH
+D: It's over, Norman. It's all over.
+E: O.S.
+N: Slipping on his suit, he HEARS a MAN'S voice...
+C: MAN
+D: Your attention, please. Your attention, please. All construction personnel clear the blast area now. Tevac explosives are now activated. Countdown beginning. Mark 15 minutes, and counting.
+E: O.S.
+N: ON NORMAN -- as he slips on his helmet, his teeth -- chattering.
+T: CUT TO:
+N: CLOSE ON THE AIRLOCK HATCH DOOR -- Norman trying to open it.
+C: BETH
+D: Locked. Don't try, Norman. You can't get in. I won't let you in.
+E: O.S. through Norman's helmet
+N: Norman turns, dives back in the water.
+T: CUT TO:
+N: UNDERWATER Norman swims out from under the habitat. Looks around at the cylinders, the walls. Goes to the outside of a WALL. Looking for a CRACK, a LEAK, a way in. TO HIS LEFT -- Barnes' body, floating, hooked to the wall. Norman goes to him. SEES the CRACK. Climbing inside. Struggling through the CRACK, careful not to rip his suit.
+T: CUT TO:
+S: INT. CORRIDOR
+N: Flooded to the top with water. Completely filled. Norman emerges through the crack. MOVES down the hall. A BOX OF CORN FLAKES floats by his faceplate.
+C: BETH
+D: Norman, where are you? I can't see you, Norman. Tell me where you are.
+E: O.S.
+N: Norman pulls at the cylinder's HATCH DOOR. He HEARS faintly through his helmet...
+C: MAN
+D: Twelve minutes, and counting.
+E: O.S.
+N: He OPENS the door. Slips inside, the water going with him.
+T: CUT TO:
+S: INT. VIDEO FEED ROOM
+N: BEEP! BEEP! BEEP! A SCREEN -- flashes: "D CYLINDER HATCH DOOR -- OPEN" The CHAIR in front of the console -- spinning, empty. Beth just left.
+T: CUT TO:
+S: INT. CORRIDOR
+N: Norman closes the door. Runs. Down the corridor...
+T: CUT TO:
+S: INT. BATHROOM-SINK AREA
+N: Norman ducks inside. THE STRETCHER, the IV -- empty. Harry's not there.
+T: CUT TO:
+S: INT. ANOTHER CORRIDOR
+N: ON NORMAN -- running.
+C: MAN
+D: Eleven minutes, and counting. Please evacuate.
+E: O.S.
+C: NORMAN
+D: Beth? Can you hear me? Beth.
+E: no reply
+S: INT. VIDEO FEED ROOM
+N: Norman runs inside... The chair, stopping it's spin. BEEP! BEEP! BEEP! THE MONITOR -- flashes: "B CYLINDER -- DOOR OPEN". Norman's out the door.
+T: CUT TO:
+S: INT. CORRIDOR
+N: Norman, running. SEES the B Cylinder door. Goes to it. Spins it, OPENS.
+T: CUT TO:
+S: INT. B CYLINDER
+N: Norman climbs inside, takes off his helmet. THE CYLINDER -- a maze of pipes and equipment. Heaters, controls, and wires everywhere. Difficult to see. THROUGH PIPES WE SEE NORMAN -- walking through the cylinder. Holding his helmet at his hip.
+C: NORMAN
+D: Beth?
+C: BETH
+D: Leave me alone, Norman.
+E: O.S.
+N: He goes to her voice in the back. Past pipes, equipment.
+C: NORMAN
+D: I can't do that.
+N: ON BETH -- huddled in the back corner, wedged among pipes. Her eyes red. Holding the GUN in her hand. Pointing at Norman as he SEES her through the pipes. ABOVER HER HEAD -- a computer SCREEN, reading: "DETONATION SEQUENCE 09:32"... descending in count. Norman stares up at the SCREEN, concentrating.
+C: BETH
+D: You can't stop it, Norman. You can't fight me.
+C: NORMAN
+D: I know. You're too strong, Beth.
+C: BETH
+D: Oh please, don't shrink me, Norman. Not now.
+C: NORMAN
+D: I --
+C: BETH
+D: Don't tell me about me. I already know too much.
+C: NORMAN
+D: Beth -- gimme the gun.
+C: BETH
+D: Oh, sure. Here. Anything else, Beth can get you? Some more chicken, perhaps. Let Beth check the fridge.
+C: NORMAN
+D: C'mon --
+C: BETH
+D: Top shelf, is it?
+C: NORMAN
+D: Let's get out of here, Beth. Let's go home.
+N: She sees HER REFLECTION on a PIECE of BROKEN GLASS on the floor. She puts her fingers to her matted hair, tries to comb it. Over the intercom...
+C: MAN
+D: Nine minutes, and counting.
+E: O.S.
+C: NORMAN
+D: C'mon, Beth.
+N: ON THE GUN -- WE SEE Beth's wrists. The two scars.
+C: BETH
+D: It's over, Norman. Go on, get outta here.
+N: Norman walks toward her. Beth freaks...
+C: BETH
+D: What is that? What are you doing?
+C: NORMAN
+D: What?
+C: BETH
+D: You hear that?
+C: NORMAN
+D: Hear what?
+C: BETH
+D: Get away from me!
+C: NORMAN
+D: Beth --
+C: BETH
+D: Get away --
+N: BAM! From behind her -- Harry -- WHACKS Beth across the head with a WRENCH, sending her to the ground. Norman goes to her, checking her pulse.
+C: HARRY
+D: Did I kill her?
+C: NORMAN
+D: I don't think so.
+C: HARRY
+D: I could hit her a little harder. More toward the cranium.
+N: Norman stares at the NUMBERS on the SCREEN above him.
+C: HARRY
+D: If she's still conscious, you can't fight her. You can't stop the numbers.
+N: Over the intercom...
+C: MAN
+D: Eight minutes and counting.
+E: O.S.
+C: HARRY
+D: Killing her's the only way --
+C: NORMAN
+D: Hey! Look! We didn't kill you, alright? And believe me Harry, I would've found great pleasure in bashing your head in.
+N: Norman RIPS off a piece of her t-shirt, ties it to the wound around her head.
+C: HARRY
+D: Fine.
+C: NORMAN
+D: Help me lift her.
+S: INT. CORRIDOR
+N: Norman, carrying Beth in his arms, races awkwardly down the hall...
+C: HARRY
+D: We're never gonna make it.
+C: NORMAN
+D: Shut up and open the door.
+N: Harry does.
+S: INT. AIRLOCK
+N: Harry, in his suit now, helps Norman slip on Beth's boots and jumpsuit.
+C: HARRY
+D: How much time you figure to get to the surface?
+C: NORMAN
+D: Two and a half minutes. Once we're in the sub.
+C: HARRY
+D: How far away's the sub?
+C: MAN
+D: Six minutes and counting.
+E: O.S.
+C: NORMAN
+D: A little less than six minutes.
+S: EXT. UNDERWATER
+N: Norman carrying Beth on his back, hurries through the water.
+C: MAN
+D: Five minutes. I repeat five minutes to detonation.
+E: O.S.
+T: CUT TO:
+S: EXT. UNDERWATER
+N: UNDERNEATH THE SUB'S DOME HANGER Norman tries to climb up the ladder with Beth on his back. She falls off, deadweight to the ground.
+C: NORMAN
+D: Shit. Harry! I'm gonna have to lift her up to you.
+E: picking her up
+N: Harry leans down from the Sub's airlock...
+C: HARRY
+D: Alright. Hurry.
+N: Norman pushes her up to him, but she bends at the waist.
+C: HARRY
+D: I can't reach her.
+C: NORMAN
+D: Hold on.
+N: Norman flops her up in the air, but she bends again at the waist.
+C: HARRY
+D: Push her, c'mon.
+C: NORMAN
+D: I'm trying. Shit. Here -- catch her.
+N: He flops her up again.
+C: HARRY
+D: Missed.
+C: NORMAN
+D: Are you trying, damn it? Just --
+C: MAN
+D: Four minutes and counting.
+E: O.S.
+N: Norman loses grip, drops her.
+C: NORMAN
+D: Hold on.
+C: HARRY
+D: Hurry, Norman. Four minutes.
+C: NORMAN
+D: I heard! I heard!
+N: Picking her up...
+C: HARRY
+D: Three fifty-six, three fifty-five, three --
+C: NORMAN
+D: Shut up and catch.
+N: Norman flops her up once more, and Harry grabs her AIR HOSE.
+C: HARRY
+D: I got her. I got her.
+N: Harry pulls her toward the airlock, Norman climbs up after.
+S: INT. SUB AIRLOCK
+N: The pocket of air around the sub. The three of them crammed inside. Norman opens the door on top of the sub.
+C: NORMAN
+D: Alright, here, I'll... wait, you -- just give her to me.
+N: Norman takes Beth and pushes her on top the sub. The sub sways back and forth.
+C: HARRY
+D: Norman, what are you --
+N: They lose balance, Beth almost falls, Norman catches her.
+C: NORMAN
+D: Shit. Alright, Harry, get in there.
+N: Harry jumps on top of the sub. Slides inside it. Reaches his arms out, catching Beth's legs.
+C: MAN
+D: Three minutes and counting...
+E: O.S.
+C: NORMAN
+D: Take her, come on. Just --
+N: Beth's LEG swings up and hits Harry in the helmet.
+C: HARRY
+D: C'mon, Norman!
+C: NORMAN
+D: I'm trying to keep balance with --
+C: HARRY
+D: Gimme a second --
+C: NORMAN
+D: Just pull her -- down like inside -- Harry, work with me here!
+C: HARRY
+D: Her legs are in the way.
+C: NORMAN
+D: You got her?
+N: Harry pulls Beth down inside, as Norman steps on top of the sub, helps push Beth's head inside.
+C: NORMAN
+D: Get her out of the seat, I need room to sit. Harry?
+C: HARRY
+D: I'm trying. There.
+C: MAN
+D: Two minutes-thirty and counting.
+E: O.S.
+N: Norman drops inside.
+S: INT. SUB
+N: Norman in the seat. Beth's leg hangs over his right shoulder. Harry looks at Norman who assesses the flight controls.
+C: HARRY
+D: You know how to work this thing?
+C: NORMAN
+D: No idea.
+C: HARRY
+D: Well, press something!
+C: NORMAN
+D: Wait!
+C: MAN
+D: Two minutes and counting.
+E: O.S.
+C: HARRY
+D: How long did you say --
+C: NORMAN
+D: Shut up. Let me think.
+N: Norman presses a button. THE SCREEN -- blinks: "DESCEND, ASCEND, SECURE, SHUTDOWN... " Norman hits "ASCEND". The Sub WHIRRS, RUMBLES and drops down below. Norman works the steering wheel, gliding it upwards.
+S: EXT. UNDERWATER
+N: The SUB comes out from under the dome. Rising above the habitat...
+C: HARRY
+D: Less than a minute, we're never gonna make it.
+C: NORMAN
+D: Nine hundred feet to surface.
+C: HARRY
+D: It's not fast enough, Norman. There's a helluva lot of explosive down there.
+S: EXT. UNDERWATER
+N: The sub ascends past the spacecraft tail fin.
+S: INT. SUB
+N: Harry looking down below him...
+C: MAN
+D: Thirty seconds to detonation.
+E: O.S.
+C: HARRY
+D: The shock wave's gonna crush us, Norman.
+C: NORMAN
+D: Maybe. Brace yourself.
+N: Harry just stares at Norman. Norman grabs Beth, trying to stablilize her.
+C: HARRY
+D: How's that working out, by the way?
+E: off Norman's suit
+C: NORMAN
+D: Good. Thank you. Now that I have it on. Why are you laughing? You don't even know what that means.
+E: Harry laughs
+C: HARRY
+D: No. I don't. But I always said to myself, when I die, I want to die laughing.
+N: Harry laughs. Ascending... waiting... and then... A THUNDEROUS EXPLOSION below them... Rocking the sub, spinning it up and around, surging it upwards to the surface. THROUGH THE WINDSHIELD -- RACING toward the surface, toward the SUNLIGHT -- it's BLINDING -- and the screen GOES WHITE.
+T: CUT TO:
+S: INT. DECOMPRESSION ROOM
+N: A pale, white room. ON NORMAN -- sleeping. His eyes begin to open. He awakes. BETH -- is next to him, looking at him. There is a long beat.
+C: BETH
+D: Thank you.
+N: Norman looks up at her...
+C: NORMAN
+D: You know, I think you really need to see a psychologist.
+N: She stares back at him, and smiles. Begins laughing with him.
+S: EXT. DECOMPRESSION CHAMBER
+N: TWO NAVY CREWMEN stand outside the door, looking in. CREWMAN #1 Has anyone spoken to them yet? CREWMAN #2 (shakes his head) The Admiral's going over the tapes they brought up now. CREWMAN #1 Does he know yet what really happened down there? Looking INSIDE -- Norman, Harry, and Beth sit at a table.
+S: INT. DECOMPRESSION CHAMBER
+N: At the table...
+C: HARRY
+D: They're going to want answers and they're going to keep asking until they get them.
+C: BETH
+D: We can refuse to talk.
+C: HARRY
+D: Won't make any difference. The tapes document everything.
+N: A long beat.
+C: NORMAN
+D: There is one possibility.
+C: HARRY
+D: We all kill ourselves? Bad joke. Sorry, Beth.
+E: laughing, then
+N: She smiles.
+C: NORMAN
+D: The power allows us to manifest our fears, right? What if we feared the power to go away?
+C: HARRY
+D: You mean forget?
+C: NORMAN
+D: It would erase all our knowledge of it. All of our power.
+C: BETH
+D: Would it work?
+C: NORMAN
+D: Yes. And I think we already know it will.
+C: BETH
+D: How's that?
+C: NORMAN
+D: Down below, Harry said we would all have to die. Since there was no evidence on that spacecraft that anybody knew time travel through a black hole was possible -- and we all knew -- then we would all have to die before we could tell anyone. Death was the only logical explanation. But sitting here, we still know. So how is that possible? Unless we make ourselves forget.
+E: beat
+S: INT. SHIP'S HALLWAY -- LATER
+N: Norman, Harry, and Beth walk with the CREWMEN.
+S: INT. ADMIRAL'S OFFICE
+N: The ADMIRAL, 60s, many stripes on his sleeves, sits behind his desk. Harry and Beth sit in front of him. The TAPES on the desk.
+C: ADMIRAL
+D: There are some questions that we need to address here.
+C: HARRY
+D: What about?
+C: ADMIRAL
+D: When you were being transferred to decompression, Dr. Adams, you mentioned something about a squid.
+C: HARRY
+D: A what?
+C: ADMIRAL
+D: A squid. However, there doesn't seem to be any squid recorded on these tapes.
+C: BETH
+D: A squid? I don't remember anything about a squid. Did you say something about a squid, Harry?
+E: to Harry
+N: Harry shakes his head.
+S: EXT. SHIP DECK -- DAY
+N: A bright, sunny day. ON THE HELIPAD -- the helicopter's propeller begins whirling.
+S: INT. HELICOPTER
+N: An OFFICER sits in the passenger's seat, glancing at a clipboard.
+C: OFFICER
+D: You all ready to go, Dr... ?
+N: The PILOT from the opening scene...
+C: PILOT
+D: Johnson. The psychologist. The one that wrote the report.
+N: ON NORMAN -- in the back.
+C: NORMAN
+D: What report?
+T: CUT TO:
+N: BLACK.

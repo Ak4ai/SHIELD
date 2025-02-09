@@ -1,0 +1,3773 @@
+M: INCEPTION
+M: Written by
+M: Christopher Nolan
+M: SHOOTING SCRIPT
+T: FADE IN:
+N: DAWN. CRASHING SURF. The waves TOSS a BEARDED MAN onto wet sand. He lies there. A CHILD'S SHOUT makes him LIFT his head to see: a LITTLE BLONDE BOY crouching, back towards us, watching the tide eat a SANDCASTLE. A LITTLE BLONDE GIRL joins the boy. The Bearded Man tries to call them, but they RUN OFF, FACES UNSEEN. He COLLAPSES. The barrel of a rifle ROLLS the Bearded Man onto his back. A JAPANESE SECURITY GUARD looks down at him, then calls up the beach to a colleague leaning against a JEEP. Behind them is a cliff, and on top of that, a JAPANESE CASTLE.
+S: INT. ELEGANT DINING ROOM, JAPANESE CASTLE - LATER
+N: The Security Guard waits as an ATTENDANT speaks to an ELDERLY JAPANESE MAN sitting at the dining table, back to us.
+C: ATTENDANT
+D: He was delirious. But he asked for you by name. And... Show him.
+E: in Japanese to the Security Guard
+C: SECURITY GUARD
+D: He was carrying nothing but this...
+E: in Japanese
+N: He puts a HANDGUN on the table. The Elderly Man keeps eating.
+C: SECURITY GUARD
+D: ...and this.
+N: The Security Guard places a SMALL PEWTER CONE alongside the gun. The Elderly Man STOPS eating. Picks up the cone.
+C: ELDERLY JAPANESE MAN
+D: Bring him here. And some food.
+E: in Japanese
+S: INT. SAME - MOMENTS LATER
+N: The Elderly Man watches the Bearded Man WOLF down his food. He SLIDES the handgun down the table towards him.
+C: ELDERLY JAPANESE MAN
+D: Are you here to kill me?
+E: in English
+N: The Bearded Man glances up at him, then back to his food. The Elderly Japanese Man picks up the cone between thumb and forefinger.
+C: ELDERLY JAPANESE MAN
+D: I know what this is.
+N: He SPINS it onto a table- it CIRCLES gracefully across the polished ebony... a SPINNING TOP.
+C: ELDERLY JAPANESE MAN
+D: I've seen one before. Many, many years ago...
+N: The Elderly Japanese Man STARES at the top mesmerized.
+C: ELDERLY JAPANESE MAN
+D: It belonged to a man I met in a half-remembered dream...
+N: MOVE IN on the GRACEFULLY SPINNING TOP...
+C: ELDERLY JAPANESE MAN
+D: A man possessed of some radical notions...
+N: The Elderly Japanese Man STARES, remembering...
+C: COBB
+D: What's the most resilient parasite?
+E: V.O.
+T: CUT TO:
+S: INT. SAME ELEGANT DINING ROOM - NIGHT (YEARS EARLIER)
+N: The speaker, COBB, is 35, handsome, tailored. A young Japanese man, SAITO, eats as he listens.
+C: COBB
+D: A bacteria? A virus?
+N: Cobb gestures at their feast with his wine glass-
+C: COBB
+D: An intestinal worm?
+N: Saito's fork pauses, mid-air. Cobb GRINS. A third man is at the table- ARTHUR. He jumps in to save the pitch-
+C: ARTHUR
+D: What Mr. Cobb is trying to say-
+C: COBB
+D: An idea.
+N: Saito looks at Cobb, curious.
+C: COBB
+D: Resilient, highly contagious. Once an idea's taken hold in the brain it's almost impossible to eradicate. A person can cover it up, ignore it- but it stays there.
+C: SAITO
+D: But surely-to forget...?
+C: COBB
+D: Information, yes. But an idea? Fully formed, understood? That sticks... In there, somewhere.
+E: taps forehead
+C: SAITO
+D: For someone like you to steal?
+C: ARTHUR
+D: Yes. In the dream state, conscious defenses are lowered and your thoughts become vulnerable to theft. It's called extraction.
+C: COBB
+D: But, Mr. Saito, we can train your subconscious to defend itself from even the most skilled extractor.
+C: SAITO
+D: How can you do that?
+C: COBB
+D: Because I am the most skilled extractor. I know how to search your mind and find your secrets. I know the tricks, and I can teach them to your subconscious so that even when you're asleep, your guard is never down.
+N: Cobb leans forwards. Holding Saito's gaze.
+C: COBB
+D: But if I'm going to help you, you have to be completely open to me. I'll need to know my way around your thoughts better than your wife, your analyst, anyone. If this is a dream and you've got a safe full of secrets, I need to know what's in that safe. For this to work, you have to let me in.
+E: gestures around
+N: Saito gives this a flicker of a smile. Rises. A BODYGUARD opens double doors which give onto a LAVISH PARTY.
+C: SAITO
+D: Gentlemen. Enjoy your evening as I consider your proposal.
+N: They watch Saito leave. Arthur turns to Cobb, worried-
+C: ARTHUR
+D: He knows.
+N: Cobb motions silence. A TREMOR starts, they steady their glasses, Cobb glances at his watch- THE SECOND HAND IS FROZEN.
+C: ARTHUR
+D: What's going on up there?
+N: And we-
+T: CUT TO:
+N: FILTHY BATHROOM - DAY (FEELS LIKE DIFFERENT TIME) Cobb, ASLEEP, SITTING IN A CHAIR AT THE END OF A STEAMING BATH. The chair is up on a cabinet- the bottom of the legs level with the rim of the tub. A sweating man (40's) watches over Cobb. This is NASH. A distant EXPLOSION rumbles through the room. Nash moves to the window, parts the curtains. Outside: a CHAOTIC DEVELOPING-WORLD CITY- the street filled with RIOTERS- SMASHING, BURNING. Nash checks Cobb's left wrist: above his watch, tape holds TWO THIN YELLOW TUBES in place. Nash looks at Cobb's watch- THE SECOND HAND CRAWLS UNNATURALLY SLOWLY. Nash follows the tubes to a SILVER BRIEFCASE at Arthur's feet: ARTHUR IS ASLEEP in an armchair. Tubes connect the briefcase to Arthur's wrist. Nash follows another set of tubes from the briefcase to where they pass under the door to the bedroom. Through the crack of the door, Nash sees SAITO ASLEEP on the bed, tubes running to his wrist. BOOM- a closer EXPLOSION, and we-
+T: CUT TO:
+S: INT. BULLET TRAIN COMPARTMENT - DAY (FEELS LIKE DIFFERENT TIME)
+N: Nash, ASLEEP. Head ROCKING AGAINST THE WINDOW as the train BUMPS OVER A ROUGH PIECE OF TRACK. A Japanese Man, TODASHI (18) watches Nash nervously. He checks Nash's wrist: TWO YELLOW TUBES CONNECT NASH WITH THREE OTHER SLEEPING MEN IN THE COMPARTMENT: COBB, ARTHUR, SAITO. Todashi checks his watch: THE SECOND HAND TICKS IN REAL TIME. Another TRAIN PASSES in the opposite direction with a MIGHTY WHUMP- Todashi's eyes FLY to Nash's sleeping face- NASH JERKS WITH THE MOVEMENT OF THE TRAIN, and we-
+T: CUT TO:
+S: INT. FILTHY BATHROOM - CONTINUOUS
+N: Another EXPLOSION- Nash CHECKS the sleeping Cobb and we-
+T: CUT TO:
+S: EXT. ROOFTOP TERRACES, JAPANESE CASTLE - NIGHT
+N: A LOW TREMOR RUMBLES THROUGH THE CASTLE. Cobb and Arthur steady themselves against the wooden rail. Several TILES and pieces of MASONRY fall. Below them a BLACK SEA churns. Other GUESTS wander the massive terraces.
+C: ARTHUR
+D: Saito knows. He's playing with us.
+C: COBB
+D: I can get it here. The information's in the safe- he looked right at it when I mentioned secrets.
+N: Arthur nods. Then spots someone over Cobb's shoulder.
+C: ARTHUR
+D: What's she doing here, Cobb?
+N: Cobb turns to see a beautiful woman, elegantly dressed, staring out at the sea. This is MAL. Cobb watches her.
+C: COBB
+D: You just get to your room. I'll take care of the rest.
+C: ARTHUR
+D: See that you do. We're here to work.
+N: Arthur brushes past Mal, shaking his head. She nears Cobb. Looks out at the DROP. The WIND WHIPS HER HAIR-
+C: MAL
+D: If I jumped, would I survive?
+C: COBB
+D: With a clean dive, perhaps. Mal, why are you here?
+N: She turns to look at him. Amused.
+C: MAL
+D: I thought you might be missing me...
+N: She smiles. He leans in, mesmerized.
+C: COBB
+D: I am. But I can't trust you anymore.
+N: She stares up at him, inviting.
+C: MAL
+D: So what?
+S: INT. BEDROOM SUITE, JAPANESE CASTLE - MOMENTS LATER
+N: Mal sips champagne as she studies a painting by Francis Bacon.
+C: MAL
+D: Looks like Arthur's taste.
+N: Cobb is looking down through the window at the GUARDS patrolling the castle at ground level.
+C: COBB
+D: Actually, Mr. Saito is partial to postwar British painters.
+N: He turns to Mal, donning a pair of black leather gloves.
+C: COBB
+D: Would you sit down?
+N: Mal lowers herself gracefully into a leather wingback chair. Cobb approaches, pulls out a length of BLACK ROPE and kneels at Mal's feet. She looks down at him.
+C: MAL
+D: Tell me...
+N: Cobb TIES the rope around the CHAIR LEGS.
+C: MAL
+D: Do the children miss me?
+N: Cobb pauses. He lets his gloved fingers lightly touch Mal's ankle. He looks up at her.
+C: COBB
+D: You can't imagine.
+N: Mal looks away, uncomfortable. Cobb gets to his feet, letting out the rope as he moves back to the window.
+C: MAL
+D: What're you doing?
+N: Cobb tosses the rope out-
+C: COBB
+D: Getting some air.
+N: He tugs on the rope, testing. The weight of the chair, with Mal on it, holds.
+C: COBB
+D: Stay seated. Please.
+N: And with that, he JUMPS. Mal considers the open window.
+S: EXT. JAPANESE CASTLE WALL - CONTINUOUS
+N: Cobb RAPPELS down the wall, darting past windows. He stops at a particular one. Gets out a glass cutter- Suddenly he starts DROPPING-
+S: INT. BEDROOM SUITE, JAPANESE CASTLE - CONTINUOUS
+N: The EMPTY CHAIR SLIDES across the floor- WEDGES under the window-
+S: EXT. JAPANESE CASTLE WALL - CONTINUOUS
+N: Cobb JOLTS to a stop 15 ft. lower. He looks up at the bedroom window. Shakes his head. Starts climbing back.
+S: INT. KITCHEN, JAPANESE CASTLE - MOMENTS LATER
+N: Cobb drops silently from the window into the darkened kitchen. He pulls a PISTOL from his belt, screwing a SILENCER onto the barrel as he GLIDES across the room.
+S: INT. HALL, JAPANESE CASTLE-CONTINUOUS
+N: Cobb SLIPS through the shadows towards a GUARD stationed at the head of a GRAND STAIRCASE... The Guard HEARS something- TURNS- PEERS into the shadows... Cobb FLASHES out of the shadows, silenced pistol up, AIMING- PHHT- head shot- the Guard starts to drop... but Cobb is already there to CATCH him, sliding on his knees and lowering the Guard SILENTLY to the floor.
+S: INT. DINING ROOM, JAPANESE CASTLE - CONTINUOUS
+N: Cobb moves to a PAINTING. With practiced hands he removes it from the wall, revealing a SAFE. Cobb spins the dial, pulls it OPEN, GRABS an envelope from within, stuffs it into his waistband, where there is already an IDENTICAL ENVELOPE. LIGHTS COME ON. Cobb freezes.
+C: SAITO
+D: Turn around.
+E: O.S.
+N: Cobb turns. At the far end of the room: Saito. Next to him is Mal, gun in hand. She smiles at Cobb.
+C: MAL
+D: The gun, Dom.
+N: Cobb doesn't move. Mal motions outside- two GUARDS drag Arthur into the room. Mal puts the gun to his head.
+C: MAL
+D: Please.
+N: Cobb slowly places his gun at his end of the long table, then SLIDES it along the polished ebony. It comes to rest HALFWAY down the length or the table.
+C: SAITO
+D: Now the envelope, Mr. Cobb.
+N: Cobb reaches into his waistband, removes ONE of the envelopes, SLIDES it along the table. Steps back, hands raised.
+C: COBB
+D: Did she tell you, or have you known all along?
+C: SAITO
+D: That you're here to steal from me? Or that we're actually asleep?
+E: beat
+N: Arthur gives Cobb an I-told-you-so look.
+C: SAITO
+D: I want to know who your employer is.
+N: Mal COCKS the gun at Arthur's temple.
+C: COBB
+D: No point threatening him in a dream.
+C: MAL
+D: That depends on what you're threatening. Killing him would just wake him up... but pain? Pain is in the mind...
+N: Mal LOWERS the gun and SHOOTS Arthur in the leg- Arthur drops, SCREAMING- Mal looks at Cobb, cold.
+C: MAL
+D: And, judging by the decor, we're in your mind, aren't we, Arthur?
+N: Cobb watches Arthur's PAIN. Mal aims at Arthur's other leg... Cobb SPRINGS for the table, SKIDDING along its polished surface- he GRABS his gun- SHOOTS ARTHUR BETWEEN THE EYES- Arthur DROPS- the room starts to SHUDDER in a MASSIVE EARTHQUAKE- Cobb SPRINGS for the door- Arthur's eyes stare at the ceiling, DEAD, and we-
+T: CUT TO:
+S: INT. FILTHY BATHROOM - DAY
+N: Arthur's EYES OPEN as he WAKES IN THE ARMCHAIR- he GRABS at the tubes at his wrist, YANKING them free-
+C: NASH
+D: What're you doing?! It's too soon-
+N: FLUID spurts from the tubes as Arthur STRUGGLES with the SILVER CASE on the bathroom floor.
+C: ARTHUR
+D: I know! We have to reconnect the loop before they wake up!
+N: Arthur grabs the case and pushes through the door to the bedroom- following the tubes to where they meet Saito's wrist- SAITO LIES ON THE BED ASLEEP. Saito STIRS and we-
+T: CUT TO:
+S: INT. JAPANESE CASTLE CORRIDOR - NIGHT
+N: Cobb LURCHES towards the stairs, as all around him the building BUCKS and HEAVES-
+S: INT. DINING ROOM, JAPANESE CASTLE - CONTINUOUS
+N: Saito and the Guards PANIC. Mal walks calmly through the destruction, picks up the envelope and turns to Saito.
+C: MAL
+D: He was close. Very close.
+S: EXT. GRAND STAIRCASE, JAPANESE CASTLE - CONTINUOUS
+N: Cobb runs up the stairs, pulling out the SECOND ENVELOPE-
+S: INT. DINING ROOM, JAPANESE CASTLE - CONTINUOUS
+N: Saito RIPS open the envelope, pulls out sheets of paper. He looks at Mal, PANICKED. He turns to the Guards-
+C: SAITO
+D: Stop him!
+N: Mal, confused, looks at the sheets of paper: THEY ARE BLANK. Mal smiles, amused.
+S: INT. GRAND STAIRCASE, JAPANESE CASTLE - CONTINUOUS
+N: As Cobb runs up the stairs he reads the TYPEWRITTEN SHEETS from his envelope, and we-
+T: CUT TO:
+S: INT. DILAPIDATED HOTEL ROOM - DAY
+N: Arthur OPENS the silver case: a COMPLEX MECHANISM of TUBES, SYRINGES, DOSAGE CONTROLLERS. Arthur's hands fly across the machine's controls as he glances at Saito's STIRRING face-
+C: ARTHUR
+D: I'm not going to make it! Wake Cobb!
+S: INT. FILTHY BATHROOM - CONTINUOUS
+N: Nash turns to Cobb. Raises his hand and SMACKS him across the face, and we-
+T: CUT TO:
+S: INT. GRAND STAIRCASE, JAPANESE CASTLE - NIGHT
+N: Cobb is SMASHED sideways off his feet...
+S: INT. DINING ROOM, JAPANESE CASTLE - NIGHT
+N: The CEILING CRACKS above Saito- he looks up as a TON of STONE floods down, CRUSHING HIM and we-
+T: CUT TO:
+S: INT. DILAPIDATED HOTEL ROOM - DAY
+N: Saito's eyes FLICKER OPEN. AWAKE.
+S: INT. FILTHY BATHROOM - CONTINUOUS
+N: Nash SMACKS Cobb again-
+C: NASH
+D: He won't wake!
+S: INT. DILAPIDATED HOTEL ROOM-CONTINUOUS
+N: Arthur crouched by Saito, connects the second tube.
+C: ARTHUR
+D: Dunk him!
+N: A CLICK: Arthur looks up to find Saito with a gun to his head and a finger to his lips, gesturing silence...
+S: INT. FILTHY BATHROOM - CONTINUOUS
+N: Nash puts his hand on Cobb's forehead and PUSHES HIM BACKWARDS- as Cobb starts to FALL BACKWARDS in the chair we are in SLOW MOTION, and we-
+T: CUT TO:
+S: INT. GRAND STAIRCASE, JAPANESE CASTLE - NIGHT
+N: Cobb, full speed, picks himself up, scrambling to read the last sheet of paper. He stares at it PUZZLED- bullets hit around him as the Guards race up the stairs and we-
+T: CUT TO:
+S: INT. FILTHY BATHROOM - DAY
+N: Cobb in SLOW MOTION, hits the WATER- head THRASHING as he goes under- and we-
+T: CUT TO:
+S: INT. GRAND STAIRCASE, JAPANESE CASTLE - NIGHT
+N: Cobb glances up from the paper as WATER EXPLODES IN THROUGH ALL THE WINDOWS, FLOODING THE ENTIRE HALL- COBB IS SWAMPED BY WATER, SPUN IN ALL DIRECTIONS AT ONCE- HE PULLS DEEPER OR FOR THE SURFACE, WE CAN'T TELL... HE BREAKS THE SURFACE, GASPING FOR AIR IN THE BATHTUB IN THE-
+S: INT. FILTHY BATHROOM - DAY
+N: Cobb's AWAKE, GULPING AIR, getting his bearings. Saito SMASHES into the room, KNOCKING Nash down- Cobb LAUNCHES himself out of the tub, FLYING dripping wet across the room to SLAM Saito against the door- the gun DROPS, Cobb's fist CONNECTS with Saito's jaw and the struggle is over.
+S: INT. DILAPIDATED HOTEL ROOM - MOMENTS LATER
+N: Cobb, wet but composed, sits, turning Saito's gun in his hand. Nash holds Saito's arms behind him. Outside, the sounds of RIOTING grow louder.
+C: COBB
+D: You came prepared.
+C: SAITO
+D: I bring the gun because not even my head of security knows this apartment. How did you find it?
+N: Arthur, at the window, looks out at the WORSENING VIOLENCE.
+C: COBB
+D: Hard for a man in your position to keep a love nest totally secret... particularly when there's a married woman involved.
+C: SAITO
+D: She would never...
+C: COBB
+D: And yet, here we are.
+N: Saito is silent.
+C: COBB
+D: With a dilemma.
+C: SAITO
+D: You got what you came for.
+C: COBB
+D: Not quite. The key piece of information wasn't there, was it, Mr. Saito?
+N: Arthur looks over at Cobb, worried.
+C: ARTHUR
+D: They're getting closer, Cobb.
+T: CUT TO:
+S: INT. BULLET TRAIN COMPARTMENT - DAY
+N: Todashi slips a pair of HEADPHONES over Nash's ears, then pulls out an MP3 player and we-
+T: CUT TO:
+S: INT. DILAPIDATED HOTEL ROOM - DAY
+N: Saito's eyes are on the floor.
+C: COBB
+D: You held something back because you knew what we were up to...
+N: Cobb uses the barrel of the gun to raise Saito's chin.
+C: COBB
+D: So why let us in at all?
+N: Saito smiles, defiant. VIOLENT NOISES echo up the stairway...
+C: SAITO
+D: An audition.
+C: COBB
+D: Audition for what?
+C: SAITO
+D: It doesn't matter. You failed.
+C: COBB
+D: I extracted all the information you had in there.
+C: SAITO
+D: But your deception was readily apparent.
+N: And we-
+T: CUT TO:
+S: INT. BULLET TRAIN COMPARTMENT - DAY
+N: Todashi opens the SILVER BRIEFCASE, revealing the complex mechanism of syringes and controllers- FOUR CONTROLLERS DISPLAY COUNTDOWNS. Todashi waits for the first countdown to hit "30," then HITS PLAY on the MP3 player- He watches Nash's sleeping face as he RAISES the volume... Through Nash's headphones: the opening bars of Edith Piaf's "Non, je ne regrette rien," and we-
+T: CUT TO:
+S: INT. DILAPIDATED HOTEL ROOM - DAY
+N: In the distant background, strange MASSIVE low-end MUSICAL start, sounding like DISTANT HORNS...
+C: SAITO
+D: So leave me and go.
+C: COBB
+D: You know the corporation who hired us won't accept failure. We won't last two days...
+N: The DISTANT, SLOWED-DOWN MUSIC is becoming LOUDER, as are the SHOUTS coming up the stairs. Arthur looks at his watch, its SLOW SECOND TICKING MARKS TIME WITH THE MASSIVE MUSIC.
+C: ARTHUR
+D: Come on, Cobb.
+C: COBB
+D: So now I have to do this the old- fashioned way-
+N: Cobb GRABS SAITO AND PUTS HIS HEAD TO THE FLOOR, gun pressed into his cheek. Saito looks into Cobb's eyes- sees he will pull the trigger. Saito BLINKS, looks away in shame- When he NOTICES SOMETHING. And starts LAUGHING.
+C: SAITO
+D: I've always hated this carpet.
+N: Cobb's eyes flick to the carpet and back.
+C: SAITO
+D: It's stained and frayed in such distinctive ways...
+N: Cobb looks up at Nash, who shrugs, at a loss.
+C: SAITO
+D: But very definitely made of wool. Right now I'm lying on polyester.
+N: Cobb glares at Nash, and we-
+T: CUT TO:
+S: INT. BULLET TRAIN COMPARTMENT - DAY
+N: Todashi watches the first of the countdowns hit ZERO- He looks up at Arthur, STIRRING, and we-
+T: CUT TO:
+S: INT. DILAPIDATED HOTEL ROOM-DAY
+N: Saito turns from the carpet to look up at Cobb.
+C: SAITO
+D: Which means I'm not lying on my carpet, in my apartment... You've lived up to your reputation, Mr. Cobb... I'm still dreaming.
+E: smiles
+N: Cobb looks over to Arthur, but ARTHUR HAS VANISHED, and we-
+T: CUT TO:
+S: INT. BULLET TRAIN COMPARTMENT - DAY
+N: Arthur's eyes flicker open, AWAKE. He RIPS at his tubes.
+C: TODASHI
+D: How'd it go?
+C: ARTHUR
+D: Not good.
+N: Arthur checks the remaining three countdowns, and we-
+T: CUT TO:
+S: INT. DILAPIDATED HOTEL ROOM - DAY
+N: Saito gets to his feet, looking admiringly at Cobb.
+C: SAITO
+D: A dream within a dream-I'm impressed.
+N: Cobb lowers the gun. Defeated. Glances at his watch. The music REVERBERATES, the RIOTERS BANG ON THE DOOR, and we-
+T: CUT TO:
+S: INT. BULLET TRAIN COMPARTMENT - DAY
+N: Arthur retracts the tubes into the case as he watches the next countdown hit ZERO, and we-
+T: CUT TO:
+S: INT. DILAPIDATED HOTEL ROOM - DAY
+N: Another BANG on the door- Saito, confident now, approaches Cobb. Nash is behind Saito.
+C: SAITO
+D: But in my dream, we really ought to be playing by my rules...
+C: NASH
+D: Ah, yes, but you see, Mr. Saito-
+N: Saito turns to Nash-
+C: COBB
+D: We're not in your dream-
+N: Saito turns back to Cobb, BUT COBB HAS VANISHED-
+C: NASH
+D: We're in mine.
+N: Saito SPINS back to Nash- the DOOR SMASHES OFF ITS HINGES AS RIOTERS POUR INTO THE ROOM, SWARMING OVER NASH... BUT NASH IS GONE. The music DIES. Saito and the rioters stand there in the SILENCE, the light DWINDLING... and we-
+T: CUT TO:
+S: INT. BULLET TRAIN COMPARTMENT - DAY
+N: Nash' eyes open, AWAKE.
+C: ARTHUR
+D: Asshole!
+E: O.S.
+N: Nash BLINKS. Arthur is in his face, furious.
+C: ARTHUR
+D: How could you get the carpet wrong?!
+C: NASH
+D: It wasn't my fault!
+C: ARTHUR
+D: You're the architect-
+C: NASH
+D: I didn't know he was going to rub his damn cheek on it!
+N: Cobb pulls Arthur away from Nash.
+C: COBB
+D: Lets go.
+C: ARTHUR
+D: And you-what the hell was all that?
+C: COBB
+D: I had it under control.
+C: ARTHUR
+D: I'd hate to see out of control-
+C: COBB
+D: There's no time for this-I'm getting off at Kyoto.
+C: ARTHUR
+D: Why? He's not gonna search every compartment.
+C: COBB
+D: I can't stand trains.
+N: Arthur moves to the briefcase. Turns a dial.
+C: ARTHUR
+D: I can keep him under for one minute-
+N: Arthur hits a button- A PLUNGER DEPRESSES. Cobb RIPS the tape off Saito's wrist, ROLLS up his tubes. Arthur SLAMS the silver case shut. Todashi pulls open the door-
+C: COBB
+D: Every man for himself.
+N: Arthur and Nash EXIT, heading in different directions down the corridor. Cobb hands Todashi a thick roll of CASH, looks at Saito, who stirs. Cobb moves off.
+S: EXT. JAPANESE COUNTRYSIDE - CONTINUOUS
+N: The BULLET TRAIN speeds through the lush landscape.
+S: INT. BULLET TRAIN COMPARTMENT - CONTINUOUS
+N: Saito WAKES GENTLY. Looks around the compartment, empty but for Todashi, reading a comic. Saito looks down at his wrist. Sees a small mark. Rubs it. SMILES.
+S: EXT. TOKYO - DUSK
+N: Moving over the vast city towards a high rise. A HELICOPTER thumps into frame, heading for a pad on the roof.
+S: INT. APARTMENT, TOKYO - CONTINUOUS
+N: Cobb sits, waiting. Checks his watch, restless. He pulls a HANDGUN. Checks it is loaded. places it on the table in front of him. Pulls out a PEWTER SPINNING TOP, SPINS it on the table ... He INTENT STUDIES the top's spin... As he stares, the sound of a FREIGHT TRAIN builds and builds- the top WOBBLES, TIPS onto its side- the sound of the train STOPS. the PHONE RINGS- Cobb GRABS it- CHILDREN'S VOICES (over phone) Hi, Daddy! Hi, Dad.
+C: COBB
+D: Hey, guys. How are you?
+N: CHILDREN'S VOICES (over phone) Good. Okay, I guess. Cobb closes his eyes, trying to picture his children: INSERT CUT: COBB's MEMORY- a LITTLE BLONDE BOY (3), back towards us, crouches IN A GARDEN, looks at something in the grass...
+C: COBB
+D: Who's just okay? Was that James?
+N: JAMES (over phone) Yeah. When are you coming home?
+C: COBB
+D: I can't. Not for a while.
+N: INSERT CUT: A LITTLE BLONDE GIRL (5), also FACE UNSEEN, joins JAMES, CROUCHING BESIDE HIM... JAMES (over phone) Why?
+C: COBB
+D: Well, James, like I've told you-I'm away because I'm working...
+N: LITTLE GIRL (over phone) Grandma says you're never coming back. Cobb pauses. Takes a breath. INSERT CUT: James and Philippa, FACES UNSEEN, lift their heads from the grass, responding to someone's call- they RUN AWAY FROM US ACROSS THE GARDEN...
+C: COBB
+D: Philippa, can you ask Grandma to pick up the phone-
+N: PHILIPPA (over phone) She's shaking her head. Cobb TENSES, as if about to SMASH the phone.
+C: COBB
+D: Well, we'll just have to hope Grandma's wrong about that won't we?
+C: JAMES
+D: Daddy?
+E: over phone
+C: COBB
+D: Yes?
+N: JAMES (over phone) Is Mommy with you? Cobb looks like he just got punched- INSERT CUT: COBB'S MEMORY- MAL, WIND BLOWING HER HAIR, SMILES CALMLY...
+C: COBB
+D: No. No, we talked about this, James. Mommy's gone.
+N: JAMES (over phone) Where? GRANDMA'S VOICE (over phone) Time to go, kids. Say bye-bye-
+C: COBB
+D: I'll give some presents to Grandpa, okay? Just be good for-
+N: Cobb STARES at the dead phone. Then DOWNS his drink- A KNOCK at the door. Cobb GRABS the top, the gun- MOVES to the door- cracks it: Arthur.
+C: ARTHUR
+D: Our ride's on the roof.
+N: Cobb nods. Moves to pick up his bag. Arthur watches.
+C: ARTHUR
+D: Cobb... are you okay?
+N: Cobb looks up.
+C: COBB
+D: Yeah, why?
+C: ARTHUR
+D: Down in the dream... Mal showing up like that ...
+C: COBB
+D: Yeah. I'm sorry about your leg.
+C: ARTHUR
+D: It's getting worse, isn't it?
+C: COBB
+D: One apology's all you're getting, Arthur. Now, where's Nash?
+C: ARTHUR
+D: Hasn't shown. Wanna wait?
+C: COBB
+D: We were supposed to deliver Saito's expansion plans to Cobol Engineering two hours ago. By now they know we failed. Time to disappear.
+E: shakes head
+S: INT. CORRIDOR - CONTINUOUS
+N: Cobb and Arthur head towards the elevator.
+C: ARTHUR
+D: Where will you go?
+C: COBB
+D: Buenos Aires. I can lie low there. Maybe sniff out a job when things quiet down. You?
+C: ARTHUR
+D: Stateside.
+C: COBB
+D: ) 'Course. Send my regards.
+E: wistful
+N: Arthur looks at Cobb. Nods. Sympathetic.
+S: EXT. ROOFTOP HELIPAD - NIGHT
+N: The HELICOPTER sits, ROTORS SPINNING. As Cobb and Arthur reach the door, it SLIDES OPEN. Cobb steps up into the leather-padded interior. He freezes.
+S: INT. HELICOPTER ON PAD - CONTINUOUS
+N: Nash, BEATEN BLOODY, sits on the far side, slumped against the wine. Beside him: SAITO. He nods politely at Cobb.
+C: SAITO
+D: He sold you out. Thought to come to me and bargain for his life...
+N: Saito's BODYGUARD offers Cobb a GUN.
+C: SAITO
+D: So I offer you the satisfaction.
+C: COBB
+D: That's not how I deal with things.
+C: SAITO
+D: Would you work with him again?
+N: Cobb shakes his head. Saito's BODYGUARDS PULL Nash from the chopper. Saito motions Cobb and Arthur to sit. The chopper RISES. Cobb watches Nash DRAGGED across the pad.
+C: COBB
+D: What will you do to him?
+C: SAITO
+D: Nothing. But I can't speak for your friends from Cobol Engineering.
+N: Saito looks out at the city slipping by.
+C: COBB
+D: What do you want from us?
+C: SAITO
+D: Inception.
+N: Arthur raises his eyebrows. Cobb is poker-faced.
+C: SAITO
+D: Is it possible?
+C: ARTHUR
+D: Of course not.
+C: SAITO
+D: If you can steal an idea from someone's mind, why can't you plant one there instead?
+C: ARTHUR
+D: Okay, here's planting an idea: I say to you, "Don't think about elephants."
+E: MORE
+C: ARTHUR
+D: What are you thinking about?
+E: CONT'D Saito nods
+C: SAITO
+D: Elephants.
+C: ARTHUR
+D: Right. But it's not your idea because you know I gave it to you.
+C: SAITO
+D: You could plant it subconsciously-
+C: ARTHUR
+D: The subject's mind can always trace the genesis of the idea. True inspiration is impossible to fake.
+C: COBB
+D: No, it isn't.
+C: SAITO
+D: Can you do it?
+C: COBB
+D: I won't do it.
+C: SAITO
+D: In exchange, I'll give you the information you were paid to steal.
+C: COBB
+D: Are you giving me a choice? Because I can find my own way to square things with Cobol.
+C: SAITO
+D: Then you do have a choice.
+C: COBB
+D: And I choose to leave.
+S: EXT. AIRFIELD - MOMENTS LATER
+N: The helicopter sets down next to a PRIVATE JET.
+S: INT. HELICOPTER - CONTINUOUS
+N: Saito indicates the plane.
+C: SAITO
+D: Tell the crew where you want to go, they'll file the plan en route.
+N: Cobb and Arthur look at each other. Then move for the door.
+C: SAITO
+D: Mr. Cobb...? There is one other thing I could offer you. How would you like to go home? To America. To your children.
+E: Cobb stops
+N: Cobb turns back to Saito.
+C: COBB
+D: You can't fix that. Nobody could.
+C: SAITO
+D: Just like inception.
+N: Cobb considers this. Arthur touches his arm.
+C: ARTHUR
+D: Cobb, come on-
+C: COBB
+D: How complex is the idea?
+C: SAITO
+D: Simple enough.
+C: COBB
+D: No idea's simple when you have to plant it in someone else's mind.
+C: SAITO
+D: My main competitor is an old man in poor health. His son will soon inherit control of the corporation. I need him to decide to break up his father's empire. Against his own self-interest.
+C: ARTHUR
+D: Cobb, we should walk away from this.
+C: COBB
+D: If I were to do it. If I could do it... how do I know you can deliver?
+C: SAITO
+D: You don't. But I can. So do you want to take a leap of faith, or become an old man, filled with regret, waiting to die alone?
+N: Cobb looks at Saito. Barely nods.
+C: SAITO
+D: Assemble your team, Mr. Cobb. And choose your people more wisely.
+S: INT. PRIVATE JET - LATER
+N: Cobb reclines his seat. Arthur picks at a salad, angry.
+C: ARTHUR
+D: I know how much you want to go home-
+C: COBB
+D: No, you don't.
+E: sharp
+C: ARTHUR
+D: But this can't be done.
+C: COBB
+D: It can. You just have to go deep enough.
+C: ARTHUR
+D: You don't know that!-
+C: COBB
+D: I've done it before.
+N: Arthur is taken aback. Cobb turns to the window.
+C: ARTHUR
+D: Did it work?
+C: COBB
+D: Yes.
+E: quiet
+C: ARTHUR
+D: Who did you do it to?
+N: Cobb looks at Arthur. Closed. Arthur shrugs.
+C: ARTHUR
+D: So why are we headed to Paris?
+C: COBB
+D: We're going to need a new architect.
+S: INT. GREAT HALL, ÉCOLE D'ARCHITECTURE - MORNING
+N: Cobb, carrying a shopping bag, looks into a lecture hall: no students, just a RUMPLED PROFESSOR hunched over paperwork.
+S: INT. LECTURE HALL - CONTINUOUS
+C: COBB
+D: You never did like your office.
+E: O.S.
+N: PROFESSOR MILES looks up, squinting. Recognizes Cobb.
+C: MILES
+D: No space to think in that broom cupboard.
+N: Cobb steps down past the empty wooden rows.
+C: MILES
+D: Is it safe for you to be here?
+C: COBB
+D: Extradition between France and the U.S. is a bureaucratic nightmare.
+C: MILES
+D: I think they'd find a way to make it work in your case.
+N: Cobb hand Miles the shopping bag.
+C: COBB
+D: Can you take these back for the kids?
+C: MILES
+D: It'll take more than the occasional stuffed animal to convince those children they still have a father.
+C: COBB
+D: I know. I thought you could talk to Marie about bringing them on vacation. Somewhere I could meet-
+C: MILES
+D: Why would she listen to me?
+C: COBB
+D: You were married for twenty years.
+C: MILES
+D: She blames me as much as you.
+C: COBB
+D: Doesn't she understand that my kids need me?
+C: MILES
+D: Yes, she does. We all do. Go back and face the music, Dom. Explain what Mal did.
+C: COBB
+D: Be realistic, Stephen. They'd never understand- they'd lock me up and throwaway the key. Or worse.
+C: MILES
+D: You think what you're doing now is helping your case?
+C: COBB
+D: Lawyers don't pay for themselves. This is what I have. This is what you taught me.
+C: MILES
+D: I never taught you to be a thief.
+C: COBB
+D: No, you taught me to navigate other people's minds. But after what happened with Mal there weren't a whole lot of legitimate ways for me to use that skill.
+N: Miles looks at Cobb.
+C: MILES
+D: Why did you come here, Dom?
+N: Cobb shifts slightly.
+C: COBB
+D: I found a way home. A job. For powerful people. If I pull it off, I can get back to my family. But I need help.
+N: Miles realizes something.
+C: MILES
+D: My God. You're here to corrupt one of my brightest and best.
+C: COBB
+D: If you have someone good enough, you have to let them decide for themselves. You know what I'm offering-
+C: MILES
+D: Money?
+C: COBB
+D: No, not just money: the chance to build cathedrals, entire cities- things that have never existed, things that couldn't exist in the real world...
+C: MILES
+D: Everybody dreams, Cobb. Architects are supposed to make those dreams real.
+C: COBB
+D: That's not what you used to say. You told me that in the real world I'd be building attic conversions and gas stations. You said that if I mastered the dream-share I'd have a whole new way of creating and showing people my creations. You told me it would free me.
+N: Miles looks at Cobb, sad.
+C: MILES
+D: And I'm sorry. I was wrong.
+C: COBB
+D: No, you weren't. Your vision was a vision of pure creativity. It's where we took it that was wrong.
+C: MILES
+D: And now you want me to let someone else follow you into fantasy.
+C: COBB
+D: They won't actually come on the job, they'll just design the levels and teach them to the dreamers.
+C: MILES
+D: Design them yourself.
+C: COBB
+D: Mal won't let me.
+N: Miles looks at Cobb. Appalled.
+C: MILES
+D: Come back to reality, Dom. Please.
+C: COBB
+D: You want to know what's real, Stephen? Your grandchildren waiting for their dad to come back.
+E: MORE
+C: COBB
+D: This job-this last job-is how I get there.
+E: CONT'D
+N: Miles looks down, fiddles with his papers.
+C: COBB
+D: I wouldn't be standing here if there were any other way. I can get home. But I need an architect who's as good as I was.
+N: Miles looks Cobb in the eye. Decides.
+C: MILES
+D: I've got someone better.
+S: INT. CORRIDOR - LATER
+N: Miles and Cobb stand by as STUDENTS file out of a lecture.
+C: MILES
+D: Ariadne...
+N: A young woman carrying books turns. This is ARIADNE.
+C: MILES
+D: I'd like you to meet Mr. Cobb.
+N: She sizes him up with quick eyes. Offers her hand.
+C: ARIADNE
+D: Pleased to meet you.
+C: MILES
+D: If you have a few moments, Mr. Cobb has a job offer to discuss with you.
+C: ARIADNE
+D: A work placement?
+C: COBB
+D: (smiles Not exactly.
+S: EXT. ROOFTOP, ÉCOLE D'ARCHITECTURE - MOMENTS LATER
+N: Ariadne leans against the parapet, overlooking Paris. She unwraps a sandwich, watching Cobb pull out a pad of GRAPH PAPER and a PEN. He offers them. She bites her sandwich.
+C: COBB
+D: A test.
+C: ARIADNE
+D: Aren't you going to tell me anything?
+E: mouth full
+C: COBB
+D: Before I describe the job, I have to know you could do it.
+C: ARIADNE
+D: Why?
+C: COBB
+D: It's not, strictly speaking, legal.
+N: Ariadne raises her eyebrows.
+C: COBB
+D: You have two minutes to draw a maze that takes me one minute to solve.
+N: Ariadne takes the pad and pen. Cobb looks at his watch.
+C: COBB
+D: Go.
+N: She starts DRAWING LINES on the grid, constructing a maze.
+C: COBB
+D: Stop.
+N: Ariadne hands the pad and pen to Cobb. He glances at the pad, then, looking her in the eye, TRACES the solution. She is taken aback. Cobb RIPS off the sheet, hands the pad back.
+C: COBB
+D: Again.
+N: She traces straight lines, CONCENTRATING...
+C: COBB
+D: Stop.
+N: She hands Cobb the pad, a touch pleased. Cobb solves the puzzle instantly, as before. Her smile falls.
+C: COBB
+D: You'll have to-
+N: She GRABS the pad, frustrated... but this time she FLIPS it over and starts drawing on the BLANK CARDBOARD of the back. Cobb watches, surprised. He smiles as he sees that she's drawing CIRCLES, creating a maze based on concentric rings. Ariadne hands back the pad, defiant. Cobb takes the pen, starts the maze. This time he gets stuck. Nods.
+C: COBB
+D: More like it.
+E: working the maze
+S: EXT. NARROW STREET, PARIS - DAY
+N: Arthur stops at a warehouse door. Consults a piece of paper.
+S: INT. WORKSHOP - CONTINUOUS
+N: A large, dusty warehouse. The SLIDING DOOR cracks open. Arthur enters. Looks around, approvingly.
+S: INT. SAME - LATER
+N: Arthur DRAGS LAWN CHAIRS into the middle of the room. He erects a table. Lays out several SILVER CASES, unpacking them, laying out lines of tubing, MECHANISMS...
+S: EXT. PARISIAN CAFE - DAY
+N: Cobb and Ariadne sit at an outdoor table.
+C: COBB
+D: They say we only use a fraction of the true potential of our brains... but they're talking about when we're awake. While we dream, the mind performs wonders.
+C: ARIADNE
+D: Such as?
+C: COBB
+D: How do you imagine a building? You consciously create each aspect, puzzling over it in stages... But sometimes, when your imagination flies-
+C: ARIADNE
+D: I'm discovering it.
+C: COBB
+D: Exactly. Genuine inspiration.
+N: Cobb leans forwards and draws on the paper table cloth.
+C: COBB
+D: In a dream your mind continuously does that...
+N: Cobb has drawn a circle made of two arrows.
+C: COBB
+D: It creates and perceives a world simultaneously. So well that you don't feel your brain doing the creating. That's why we can short- circuit the process...
+C: ARIADNE
+D: How?
+C: COBB
+D: By taking over the creating part.
+N: Cobb draws a straight line between the two arrows.
+C: COBB
+D: This is where you come in. You build the world of the dream. We take the subject into that dream, and let him £111 it with his subconscious
+C: ARIADNE
+D: But are you trying to fool him that the dream is actually real life?
+C: COBB
+D: While we're in there, We don't want him to realize he's dreaming.
+E: nods
+C: ARIADNE
+D: How could I ever get enough detail to Convince him that it's real?
+C: COBB
+D: Our dreams reel real while we're in them. It's only when we wake up we realize things were strange,
+N: Ariadne gestures around them-
+C: ARIADNE
+D: But all the textures of real life- the stone, the fabric. cars... people... your mind can't create all this.
+C: COBB
+D: It does. Every time you dream. Let me ask you a question: You never remember the beginning of your dreams, do you? You just turn up in the middle of what's going on.
+C: ARIADNE
+D: I guess.
+C: COBB
+D: So... how did we end up at this restaurant?
+C: ARIADNE
+D: We came here from...
+N: Ariadne trails off, confused.
+C: COBB
+D: How did we get here? Where are we?
+N: Ariadne THINKS, unable to remember. A FAINT RUMBLE begins.
+C: ARIADNE
+D: Oh my God. We're dreaming.
+N: Cobb nods. The RUMBLE is BUILDING.
+C: COBB
+D: Stay calm. We're actually asleep in the workshop. This is your first lesson in shared dreaming, remember?
+N: Ariadne looks around, mind REELING. Cobb BRACES- The restaurant VIOLENTLY FRAGMENTS, EXPLODING AND IMPLODING PARTICLES OF FURNITURE, WALLS, PEOPLE FLYING AROUND- Ariadne WONDERS at the MAYHEM WHIRLING around them- Cobb SHIELDS his head against the debris. She sees him-
+C: ARIADNE
+D: If it's just a dream, why are you covering your-
+E: shouting over noise
+N: Ariadne is WIPED FROM HER SEAT BY A MASSIVE BLAST and we-
+T: CUT TO:
+S: INT. WORKSHOP - DAY
+N: Ariadne JOLTS awake.
+C: COBB
+D: Because it's never just a dream.
+E: O.S.
+N: Ariadne turns to Cobb's voice. They are both sitting in the lawn chairs. Arthur watches over them.
+C: COBB
+D: And a face full of glass hurts like hell, doesn't it? While we're in it, it's real.
+C: ARTHUR
+D: That's why the military developed dream sharing-a training program where soldiers could strangle, stab and shoot each other, then wake up.
+C: ARIADNE
+D: How did architects get involved?
+C: COBB
+D: Someone had to design the dreams. Let's go another five minutes-
+E: to Arthur
+C: ARIADNE
+D: We were only asleep for five minutes? We talked for an hour at least...
+C: COBB
+D: When you dream, your mind functions more quickly, so time seems to pass more slowly.
+C: ARTHUR
+D: Five minutes in the real world gives you an hour in the dream.
+C: COBB
+D: Let's see how much trouble you can cause in five minutes.
+N: And we-
+T: CUT TO:
+S: EXT. SAME PARISIAN STREET - DAY
+N: Ariadne walks down the crowded street with Cobb. Cobb looks around at the street, the cafe, approving.
+C: COBB
+D: It's good. You've got the cafe, the layout... you forgot the book shop but pretty much everything else is here.
+N: Ariadne looks at the passers-by.
+C: ARIADNE
+D: Who are the people?
+C: COBB
+D: They're projections of my subconscious.
+C: ARIADNE
+D: Yours?
+C: COBB
+D: Sure-you are the dreamer, I am the subject. My subconscious populates your world. That's one way we get at a subject's thoughts-his mind creates the people, so we can literally talk to his subconscious.
+C: ARIADNE
+D: How else do you do it?
+C: COBB
+D: Architecture. Build a bank vault or a jail, something secure, and the subject's mind will fill it with information he's trying to protect.
+C: ARIADNE
+D: Then you break in and steal it.
+C: COBB
+D: Exactly.
+N: Ariadne wonders at the detail of the street.
+C: ARIADNE
+D: I love the concrete sense of things- Real weight, you know? I thought a dream space would be all about the visual, but it's the feel of things. Question is, what happens as you start to mess with physics...
+E: stamps foot
+N: She CONCENTRATES on the street. The street starts to BEND IN HALF- the buildings on either side FOLDING IN until they form the INSIDE OF A CUBE OF CITY, GRAVITY FUNCTIONING INDEPENDENTLY ON EACH PLANE. Ariadne looks up (or down) at the people on the opposite city surface. Cobb watches her excitement.
+C: ARIADNE
+D: It's something, isn't it?
+C: COBB
+D: Yes. It is.
+E: quiet
+N: As they walk, Ariadne notices more and more of the projections STARING at her.
+C: ARIADNE
+D: Why are they looking at me?
+C: COBB
+D: Because you're changing things. My subconscious feels that someone else is creating the world. The more you change things, the quicker the projections converge on you.
+C: ARIADNE
+D: Converge?
+C: COBB
+D: They feel the foreign nature of the dreamer, and attack-like white blood cells fighting an infection.
+C: ARIADNE
+D: They're going to attack us?
+C: COBB
+D: Just you, actually.
+N: They walk along the street to where it joins the next gravitational plane. They step up onto the different plane and walk down the street towards a river. As Ariadne approaches, steps emerge from the flagstone, and she leads Cobb up onto a small jetty. As she concentrates, pillars emerge and a BRIDGE starts to telescope out from the jetty. They step onto it as it grows. Cobb is impressed.
+C: COBB
+D: It's beautiful... but if you keep on changing things...
+N: People crossing the bridge STARE at Ariadne. Several of them BUMP her shoulder as they pass.
+C: ARIADNE
+D: Mind telling your subconscious to take it easy?
+C: COBB
+D: That's why it's called subconscious. I don't control it.
+N: The bridge now spans the Seine. Cobb marvels at it.
+C: COBB
+D: Arched stone, iron pillars... it's...
+N: Cobb pauses, thinking. Remembering. INSERT CUT: Mal, hair blowing, turns to Cobb, smiling, laughing. He smiles back. They are on the same bridge.
+C: COBB
+D: I know this bridge. This place is real- You didn't imagine it, you remembered it...
+E: serious
+C: ARIADNE
+D: I cross it every day on my way to the college.
+E: nods
+C: COBB
+D: Never recreate places from your memory. Always imagine new places.
+C: ARIADNE
+D: You have to draw from what you know-
+C: COBB
+D: Use pieces-a streetlamp, phonebooths, a type of brick-not whole areas.
+E: tense
+N: Several people around them ECHO Cobb's attitude...
+C: ARIADNE
+D: Why not?
+C: COBB
+D: Because building dreams out of your own memories is the surest way to lose your grip on what's real and what's a dream.
+C: ARIADNE
+D: Did that happen to you?
+N: Cobb says nothing. He stands there, starinq at Ariadne. PEOPLE around her stop and look at her, hostile.
+C: COBB
+D: Look, this isn't about me-
+N: Cobb reaches for Ariadne's arm, turns her to him-
+C: ARIADNE
+D: Is that why you need me to build your dreams?
+N: A passerby GRABS Ariadne's shoulder-
+C: COBB
+D: Leave her alone-
+N: More of the crowd join in, PULLING at Ariadne, holding her arms open- Cobb PULLS people off- the crowd PUSHES him away- Cobb sees someone WALKING PURPOSEFULLY through the crowd towards the helpless, Ariadne- it is Mal. She approaches with even strides- Ariadne stares at her, uneasy.
+C: ARIADNE
+D: Wake me up, Cobb.
+N: As Mal walks, she pulls out a LARGE KNIFE-
+C: COBB
+D: Mal, no!
+C: ARIADNE
+D: Wake me up!
+N: Ariadne SCREAMS as Mal LUNGES at her with the knife and we-
+T: CUT TO:
+S: INT. WORKSHOP-DAY
+N: Ariadne WAKES, BREATHING HARD. Arthur moves to her-
+C: ARTHUR
+D: It's okay.
+C: ARIADNE
+D: Why couldn't I wake?
+C: ARTHUR
+D: The only way to wake from inside the dream is to die.
+N: Cobb, in the lawn chair opposite, PULLS his tubes out.
+C: COBB
+D: She'll need a totem.
+C: ARIADNE
+D: What?
+C: ARTHUR
+D: Some kind of personal icon. A small object that you can always have with you, and that no one else knows,
+N: Cobb gets to his feet, Ariadne stares at him, furious. He heads to the bathroom.
+C: ARIADNE
+D: That's some subconscious you've got, Cobb. She's a real charmer!
+E: calls after him
+C: ARTHUR
+D: Sounds like you've met Mrs. Cobb.
+C: ARIADNE
+D: She's his wife?
+E: surprised
+N: Arthur nods, pulling off Ariadne's tubes.
+C: ARTHUR
+D: So. A totem. You need something small, potentially heavy...
+S: INT. BATHROOM, WORKSHOP - CONTINUOUS
+N: Cobb takes out his PEWTER SPINNING TOP, SPINS it on the marble counter...
+S: INT. WORKSHOP - CONTINUOUS
+N: Ariadne looks at Arthur, puzzled.
+C: ARIADNE
+D: Like a coin?
+C: ARTHUR
+D: Too common. You need something that has a weight or movement that only you know.
+S: INT. BATHROOM, WORKSHOP - CONTINUOUS
+N: Cobb STUDIES the spin of the top as it decays, becoming more and more ECCENTRIC...
+S: INT. WORKSHOP - CONTINUOUS
+C: ARIADNE
+D: What's yours?
+N: Arthur holds out a DIE.
+C: ARTHUR
+D: A loaded die.
+N: Ariadne reaches for it- Arthur snatches sit away-
+C: ARTHUR
+D: I can't let you handle it. That's the point. No one else can know the weight or balance of it.
+C: ARIADNE
+D: Why?
+C: ARTHUR
+D: So when you examine your totem...
+S: INT. BATHROOM, WORKSHOP - CONTINUOUS
+N: Cobb's spinning top WOBBLES OVER.
+C: ARTHUR
+D: You know, beyond a doubt, that you're not in someone else's dream.
+E: O.S.
+N: Cobb GRABS it like a drowning man reaching for a lifeline.
+S: INT. WORKSHOP - CONTINUOUS
+N: Ariadne thinks this over.
+C: ARIADNE
+D: That's not an issue for me.
+C: ARTHUR
+D: Why not?
+C: ARIADNE
+D: Arthur, maybe you can't see what's going on, maybe you don't want to. But Cobb's got problems he's tried to bury down there. I'm not going to open my mind to someone like that.
+N: Ariadne gets to her feet. Walks away.
+C: COBB
+D: She'll be back.
+E: O.S.
+N: Arthur turns. Cobb is standing in the bathroom doorway.
+C: COBB
+D: I've never seen anyone pick it up so fast. And one reality won't be enough for her now. When she comes back, get her building mazes.
+C: ARTHUR
+D: Where will you be?
+C: COBB
+D: I've got to talk to Eames.
+C: ARTHUR
+D: Eames? But he's in Mombasa. Cobol's backyard.
+C: COBB
+D: Necessary risk.
+C: ARTHUR
+D: There are plenty of other thieves.
+C: COBB
+D: We don't just need a thief. We need a forger.
+S: INT. GAMBLING DEN, MOMBASA - DAY
+N: Crowded, bustling, smoke-filled. a westerner (40's), shabby suit, is squeezed in at a dice game. This is EAMES. He FIDDLES with his last two chips.
+C: COBB
+D: Rub them against each other all you like, they're not going to breed.
+E: O.S.
+N: Eames looks up to see Cobb.
+C: EAMES
+D: You never know.
+N: Eames tosses down his last chips. The dice are rolled...
+C: COBB
+D: Drink?
+N: Eames loses.
+C: EAMES
+D: You're buying.
+N: Cobb follows Eames. Eames mysteriously produces two stacks of chips and puts them down in front of the cashier. Cobb pulls one off the top, squints at the embossed name.
+C: COBB
+D: You're spelling hasn't improved.
+N: Eames GRABS the chip. Hands it to the cashier.
+C: EAMES
+D: Piss off.
+C: COBB
+D: How's your handwriting?
+N: Eames takes his money. Smiles at Cobb.
+C: EAMES
+D: Versatile.
+S: INT. STREET, MOMBASA - CONTINUOUS
+N: Eames leads Cobb down the quiet street.
+C: EAMES
+D: Word is, you're not welcome in these parts.
+C: COBB
+D: Yeah?
+C: EAMES
+D: There's a price on your head from Cobol Engineering. Pretty big one, actually.
+C: COBB
+D: You wouldn't sell me out.
+N: Eames looks at Cobb, offended.
+C: EAMES
+D: `Course I would.
+C: COBB
+D: Not when you hear what I'm selling.
+E: smiles
+S: EXT. BALCONY OF A COFFEE HOUSE - LATER
+N: A ramshackle balcony overlooking a bust street. Eames pours.
+C: COBB
+D: Inception.
+N: Eames's glass stops halfway to his mouth.
+C: COBB
+D: Don't bother telling me it's impossible.
+C: EAMES
+D: It's perfectly possible. Just bloody difficult.
+C: COBB
+D: That's what I keep saying to Arthur.
+C: EAMES
+D: Arthur? You're still working with that stick-in-the-mud?
+C: COBB
+D: He's a good point man.
+C: EAMES
+D: The best. But he has no imagination. If you're going to perform inception, you need imagination.
+C: COBB
+D: You've done it before?
+C: EAMES
+D: Yeas and no. We tried it. Got the idea in place, but it didn't take.
+C: COBB
+D: You didn't plant it deep enough?
+C: EAMES
+D: It's not just about depth. You need the simplest version of the idea- the one that will grow naturally in the subject's mind. Subtle art.
+C: COBB
+D: That's why I'm here.
+C: EAMES
+D: What's the idea you need to plant?
+C: COBB
+D: We want the heir to a major corporation to break up his father's empire.
+C: EAMES
+D: See, right there you've got various political motivations, anti- monopolistic sentiment and so forth. But all that stuff's at the mercy of the subject's prejudice- you have to go to the basic.
+C: COBB
+D: Which is?
+C: EAMES
+D: The relationship with the father. Do you have a chemist?
+E: downs drink
+N: Cobb shakes his head.
+C: EAMES
+D: There's a man here. Yusuf. He formulates his own versions of the compounds.
+C: COBB
+D: Let's go see him.
+C: EAMES
+D: Once you've lost your tail. Back by the bar, blue tie. Came in about two minutes after we did.
+E: Cobb reacts
+C: COBB
+D: Cobol Engineering?
+C: EAMES
+D: They pretty much own Mombasa.
+N: Cobb glances over the balcony.
+C: COBB
+D: Run interference. We'll meet downstairs in half an hour.
+C: EAMES
+D: Back here?
+C: COBB
+D: Last place they'd expect.
+N: Eames downs his drink. Rises. Walks over to the Businessman.
+C: EAMES
+D: Freddy!
+N: The Businessman looks up, awkward.
+C: EAMES
+D: Freddy Simmonds, it is you!
+N: Cobb nonchalantly SLIPS over the balcony DROPPING HARD into the midst of the crowd on the street below.
+C: EAMES
+D: Oh. No, it isn't.
+E: looks harder
+S: EXT. STREET, MOMBASA - CONTINUOUS
+N: Cobb stands up, PUSHES into the crowd- faces PEER at him- he moves, trying to blend- TURNS- a SECOND BUSINESS MAN is there.
+C: COBB
+D: Yes?
+E: disarming smile
+C: SECOND BUSINESSMAN
+D: We need to-
+N: Cobb HEAD BUTTS the Second Businessman, PUSHES past him- The First Businessman races out of the bar, sees Cobb's wake, DIVES after him- Cobb RACES headlong through tight passageways, WEAVING through or KNOCKING into the locals... He steps into a dark, crowded cafe, scanning the tables... the First Businessman enters, spots him. An AFRICAN MAN gets in Cobb's face, jabbering at him in Swahili- Cobb considers his options... the First Businessman DRAWS A GUN- Cobb bolts, steps up on a table and out an open window, SCRAMBLING into the alley outside... Cobb LOOKS left, right... CUTS LEFT into a narrow, CROWDED alley- the alley NARROWS TO A DEAD END. Faces in the CROWD start to watch Cobb- PEOPLE start to SURROUND him- Cobb looks back the way he came- the two Businessmen are there, GUNS DRAWN- Cobb sees a SMALL GAP between the buildings at the narrow end- he THROWS himself into it- gets STUCK HALFWAY... The crowd bears down, GRABBING for him as Cobb struggles to SQUEEZE HIMSELF through the gap... Cobb's moving INCHES as his pursuers gain YARDS... the Crowd is upon him... he BURSTS FREE. TUMBLING onto the next street, ROLLING out of sight. Cobb Jumps to his feet- in a market square. TWO MORE BUSINESSMEN move towards him. Cobb BOLTS but a CAR SKIDS UP, BLOCKS HIS PATH- the door opens- SAITO IS IN THE BACK.
+C: SAITO
+D: Care for a lift, Mr. Cobb?
+C: COBB
+D: What brings you to Mombasa, Mr. Saito?
+E: jumping in
+C: SAITO
+D: I have to protect my investment.
+S: EXT. COFFEE HOUSE - MOMENTS LATER
+N: Eames stands on the pavement. The car pulls up. Cobb beckons from the rear window. Eames looks at Saito. Back to Cobb.
+C: EAMES
+D: This is your idea of losing a tail?
+C: COBB
+D: Different tail.
+E: shrugs
+S: INT. WORKSHOP - DAY
+N: Arthur sits at the table, working on a mechanism. A small COUGH prompts him to look up: Ariadne is there.
+C: ARTHUR
+D: He said you'd be back.
+C: ARIADNE
+D: I tried not to come.
+C: ARTHUR
+D: But there's nothing else quite like it.
+C: ARIADNE
+D: No paper, no pens... nothing between you and raw, direct creation.
+N: Arthur picks up his mechanism.
+C: ARTHUR
+D: Shall we take a look at paradoxical architecture?
+N: Ariadne nods, takes off her coat and we-
+T: CUT TO:
+S: INT. PENROSE STEPS - LATER
+N: Arthur leads Ariadne down some busy steps in a large glass and steel ATRIUM in an office complex.
+C: ARTHUR
+D: You're going to have to master a few tricks if you're going to build three complete dream levels.
+N: A SECRETARY DROPS some papers as they pass...
+C: ARIADNE
+D: What sort of tricks?
+N: They take a tight turn and continue down the next flight.
+C: ARTHUR
+D: In a dream, you can cheat architecture into impossible shapes.
+E: MORE
+C: ARTHUR
+D: That lets you create closed loops, like the Penrose Steps. The infinite staircase.
+E: CONT'D
+N: Ariadne FREEZES- THEY ARE IN THE EXACT SPOT THEY STARTED DESCENDING FROM, next to the Secretary gathering her papers. Ariadne puzzles at the impossible construction of the stairs.
+C: ARTHUR
+D: See...
+N: Arthur stops her gently- they are on the highest step, with a LARGE DROP to the next step. Arthur gestures at the drop.
+C: ARTHUR
+D: Paradox. A closed loop like this helps you disguise the boundaries of the dream you've created.
+C: ARIADNE
+D: How big do the levels have to be?
+C: ARTHUR
+D: Anything from the floor of a building, to an entire city. But it has to be complicated enough for us to hide from the projections.
+C: ARIADNE
+D: A maze.
+C: ARTHUR
+D: And the better the maze-
+C: ARIADNE
+D: The longer we have before the projections catch us.
+N: Ariadne looks around. Sees people LOOKING at Arthur.
+C: ARIADNE
+D: My subconscious seems polite enough.
+C: ARTHUR
+D: You wait, they'll turn ugly. No one likes to see someone else messing around in their mind.
+C: ARIADNE
+D: Cobb can't build anymore, can he?
+C: ARTHUR
+D: I don't know if he can't, but he won't. He thinks it's safer if he doesn't know the layouts.
+C: ARIADNE
+D: Why?
+C: ARTHUR
+D: He won't tell me. I think it's Mal. I think she's getting stronger.
+C: ARIADNE
+D: His ex-wife?
+C: ARTHUR
+D: She's not his ex.
+C: ARIADNE
+D: They're still together?
+N: Arthur turns to Ariadne. Gentle.
+C: ARTHUR
+D: No. No, she's dead, Ariadne. What you see in there is just his projection of her.
+C: ARIADNE
+D: What was she like in real life?
+C: ARTHUR
+D: She was lovely.
+E: quiet
+T: CUT TO:
+S: EXT. ROOFTOP, OLD TOWN, MOMBASA - DAY
+N: Saito deposits a FILE in front of Cobb: PHOTOS, DOCUMENTS. As Cobb runs through them, he passes them to Eames.
+C: SAITO
+D: Robert Fischer, 32. Heir to the Fischer Morrow energy conglomerate. He's spent his whole life being groomed as successor-breaking up his father's empire will take a radical shift in his thinking.
+C: COBB
+D: What's your problem with Fischer?
+C: SAITO
+D: That's not your concern.
+C: COBB
+D: This isn't the usual corporate espionage, Mr. Saito. This is inception. The seed of the idea we plant will grow in this man's mind. It'll change him. It might even come to define him.
+N: Saito looks at Cobb.
+C: SAITO
+D: My sources suggest you might not have always been so cautious.
+C: COBB
+D: Then you need new sources, Mr. Saito.
+N: Saito considers Cobb. Shrugs.
+C: SAITO
+D: Fischer Morrow has the regulators in their pockets. We're the last company standing between them and total energy dominance and we can no longer compete. Soon they'll control the energy supply of half the world. They'll be able to blackmail governments, dictate policy. In effect, they become a new superpower. The world needs Robert Fischer to change his mind.
+C: EAMES
+D: That's where we come in. How's Robert Fischer's relationship to his father?
+C: SAITO
+D: Rumor is the relationship is complicated.
+C: COBB
+D: We'll need more than rumor, Mr. Saito.
+N: Eames picks up a photo: a distinguished executive (68).
+C: EAMES
+D: Can you get me access to him? Browning. Fischer senior's right- hand man. Fischer junior's godfather.
+C: SAITO
+D: It should be possible. If you can get the right references.
+C: EAMES
+D: References are something of a specialty for me, Mr. Saito.
+S: EXT. DECREPIT BUILDING, MOMBASA - LATER
+N: Eames leads Cobb and Saito down uneven steps to a doorway.
+S: INT. STAIRWELL - CONTINUOUS
+N: Peeling paint, buzzing flies. They ascend to a dusty, wire-reinforced glass door which Eames pushes open-
+S: INT. PHARMACY - CONTINUOUS
+N: Row upon row of wooden shelves holding hundreds of dusty glass bottles of all shapes and colors. At the far end, a portly 40-year-old man rises from behind his desk, beckoning. This is YUSUF.
+C: YUSUF
+D: Come, come.
+N: Eames shakes Yusuf's hand. Yusuf stops at Cobb.
+C: YUSUF
+D: Ah, yes. Mr. Cobb. I've heard so very much about you. please.
+E: indicates chairs
+N: Yusuf chases a CAT off Saito's chair.
+C: YUSUF
+D: Bloody cats.
+N: Yusuf moves to a shelf and runs his fingers over the glass bottles. None of them has a label.
+C: YUSUF
+D: You work using Somnacin, I think, Mr. Cobb?
+C: COBB
+D: You're well informed, Mr. Yusuf.
+N: Yusuf places a bottle on the desk in front of Cobb.
+C: COBB
+D: Somnacin?
+E: dubious
+C: YUSUF
+D: Yusuf's Somnacin.
+E: proudly
+N: Yusuf pulls the stopper, holds it towards Cobb's nose.
+C: COBB
+D: As good as the real thing?
+N: Yusuf WHIPS the bottle away from Cobb, offended.
+C: YUSUF
+D: Better.
+N: Yusuf holds the bottle to the light, marveling.
+C: YUSUF
+D: Binds the dreamers tight. Let's them dream as one. Makes it real. Of course, if you'd prefer, you could use Somnacin brand. If you could explain to the international control council what you wanted it for.
+N: Yusuf puts the bottle back onto the shelf. Sits.
+C: YUSUF
+D: You are seeking a chemist? To formulate compounds for a job?
+E: Cobb nods
+C: COBB
+D: And to come into the held with us.
+C: YUSUF
+D: I rarely go into the held, Mr. Cobb.
+C: COBB
+D: We need you there to tailor compounds to our particular requirements.
+C: YUSUF
+D: Which are?
+C: COBB
+D: Great depth.
+C: YUSUF
+D: A dream within a dream? Two levels?
+C: COBB
+D: Three.
+C: YUSUF
+D: Not possible. That many dreams within dreams would be too unstable.
+C: COBB
+D: I've done it before. You just have to add a sedative.
+C: YUSUF
+D: A powerful sedative. How many team members?
+C: COBB
+D: Five.
+C: SAITO
+D: Six. The only way to know you've done the job is if I go in with you.
+E: to Cobb
+C: COBB
+D: There's no room for tourists on these jobs, Mr. Saito.
+C: SAITO
+D: This time, it would seem there is.
+N: Cobb looks at him, uneasy. Yusuf pulls out another bottle.
+C: YUSUF
+D: Of course. I use it every day.
+N: Yusuf hands it to Cobb, who considers the white liquid inside.
+C: COBB
+D: For what?
+N: Yusuf beckons them further into the pharmacy, to a METAL DOOR. He STOPS- second thoughts.
+C: YUSUF
+D: Perhaps... you will not want to see.
+N: Cobb motions to continue. Yusuf pulls out a large key.
+S: INT. BACK ROOM, PHARMACY - CONTINUOUS
+N: A dark room with ROWS of low COTS. Each with a sleeping occupant. Tubes connect their wrists. An ELDERLY BALD MAN watches over them.
+C: EAMES
+D: Eighteen, twenty-all connected, bloody hell.
+E: counting
+C: YUSUF
+D: They come every day. To share the dream.
+N: Yusuf nods at the Elderly Bald Man, who moves to the nearest bed. Reaches out to the OCCUPANT. Gives his face a FIRM SLAP. The sleeper does not even stir.
+C: YUSUF
+D: See? Very stable.
+C: COBB
+D: How long do they dream?
+C: YUSUF
+D: Three, four hours. Every day.
+C: COBB
+D: How long in dream time?
+C: YUSUF
+D: With this compound... about forty hours. Each and every day.
+N: Saito surveys the room, appalled.
+C: SAITO
+D: Why do they do it?
+C: YUSUF
+D: Tell him, Mr. Cobb.
+C: COBB
+D: After a while... It becomes the only way you can dream.
+E: looks at Saito
+C: YUSUF
+D: Do you still dream, Mr. Cobb?
+N: Cobb STARES at the sleepers. Uneasy.
+C: EAMES
+D: They come here every day to sleep?
+C: ELDERLY BALD MAN
+D: No.
+E: O.S.
+N: Cobb turns to the Elderly Bald Man, who looks fondly at his dreamers.
+C: ELDERLY BALD MAN
+D: They come to be woken up... the dream has become their reality...
+N: The Elderly Bald Man pokes a crooked finger at Cobb's chest.
+C: ELDERLY BALD MAN
+D: And who are you to say otherwise?
+N: Cobb STARES at the Elderly Bald Man. DISTURBED. Cobb turns to Yusuf. TOSSES him the bottle.
+C: COBB
+D: Let's see what you can do.
+S: INT. SAME - MOMENTS LATER
+N: Cobb is lying on an empty cot, asleep. Yusuf stands over him. As we move in on Cobb's SLEEPING FACE we hear the sound of a FREIGHT TRAIN, BUILDING, and we-
+T: CUT TO:
+S: EXT. WASTELAND - DAY
+N: CLOSE ON Cobb's face as he lies, EYES CLOSED, cheek pressed to a METAL RAIL- THE SOUND OF THE TRAIN IS DEAFENING- Cobb is BREATHING, BREATHING, BREATHING, and we-
+T: CUT TO:
+S: INT. BACK ROOM, PHARMACY - DAY
+N: Cobb's eyes open. Yusuf is watching him.
+C: YUSUF
+D: Sharp, no?
+N: Cobb nods. Gets to his feet, looking around-
+S: INT. BATHROOM, PHARMACY - CONTINUOUS
+N: Cobb SPLASHES water on his face, breathing hard- INSERT CUT: A CURTAIN BILLOWS. MAL TURNS TO US, HAIR BLOWING, SMILING. Cobb fumbles in his pockets, pulls out his spinning top. He tries to set it spinning on the back edge of the sink, but it FALLS to the floor and rolls towards the door- Saito is there. WATCHING Cobb. He looks down at the spinning top.
+C: SAITO
+D: Everything alright, Mr. Cobb?
+N: Cobb dries his face with a paper towel. Picks up his top.
+C: COBB
+D: Everything's fine.
+S: INT. BACK ROOM, WORKSHOP - NIGHT
+N: Close on a small BRASS CHESS PIECE. Ariadne tips it over. Frowning, she picks up a micro drill, peels back the felt on the bottom and widens a hole in one side of its base. Tests the TIPPING POINT again. A NOISE makes her look up.
+S: INT. WORKSHOP - CONTINUOUS
+N: Ariadne comes into the main space. Someone is there, unpacking one of the MECHANISMS. Cobb.
+C: ARIADNE
+D: You're back.
+N: Cobb looks up with a start. Caught out.
+C: ARIADNE
+D: Are you going under on your own?
+C: COBB
+D: I just-I need to test some things. I didn't realize anyone was here.
+C: ARIADNE
+D: Just working on my totem.
+N: Ariadne holds up the chess piece. Cobb reaches for it.
+C: COBB
+D: Let me see-
+N: Ariadne SNAPS it out of his reach. Smiles. Cobb nods.
+C: COBB
+D: You're learning.
+C: ARIADNE
+D: It's an elegant solution to keeping track of reality. Your invention?
+C: COBB
+D: No. Mal's.
+N: Cobb pulls out his spinning top. Looks at it.
+C: COBB
+D: This one was hers. She'd spin it in a dream and it would never topple. Just spin and spin...
+C: ARIADNE
+D: Arthur told me she died.
+C: COBB
+D: She did. How are the mazes coming?
+N: Ariadne indicates three large ARCHITECTURAL MODELS.
+C: ARIADNE
+D: Good. Each level relates to the part of the subject's subconscious we're trying to access. I'm making the bottom level a hospital, so that Fischer will bring his father there-
+C: COBB
+D: Don't tell me. Remember, you only want the dreamer to know the layout.
+C: ARIADNE
+D: Why's that so important?
+C: COBB
+D: In case one of us brings in part of our subconscious. You wouldn't want any projections knowing the layout.
+C: ARIADNE
+D: In case you bring Mal in.
+N: Cobb says nothing.
+C: ARIADNE
+D: You won't build yourself because if you know the maze, then she knows it. And she'd sabotage the operation. You can't keep her out, can you?
+N: Cobb says nothing.
+C: ARIADNE
+D: Do the others know?
+C: COBB
+D: No.
+C: ARIADNE
+D: You have to warn them if it's getting worse-
+C: COBB
+D: I didn't say it's getting worse. Look, Ariadne, I need them for this job. I need you for this job. Without your help, I'll never get back to my children. And that's all I can care about right now.
+E: gentle
+C: ARIADNE
+D: Why can't you go home, Cobb?
+N: Cobb looks at her, deciding what to say.
+C: COBB
+D: They think I killed her.
+C: ARIADNE
+D: How did she die?
+N: Cobb thinks. INSERT CUT: Mal, wind BLOWING her hair, smiles at Cobb. Now we see Cobb- SHAKING HIS HEAD, TEARS STREAMING, BEGGING-
+C: COBB
+D: Thank you.
+C: ARIADNE
+D: For what?
+C: COBB
+D: Not asking whether I did.
+S: INT. WORKSHOP - DAY
+N: Ariadne, Arthur, Yusuf, Eames and Saito sit around the room, looking at FILES. Cobb presides.
+C: COBB
+D: The mark is Robert Fischer, heir to the Australian energy conglomerate, Fischer Morrow.
+N: Cobb opens a large presentation pad. COBB (reads aloud) "I WILL SPLIT UP MY FATHER'S EMPIRE." Cobb turns to the team.
+C: COBB
+D: An idea Robert Fischer's conscious mind would never accept. We have to plant it deep in his subconscious.
+C: ARTHUR
+D: How deep?
+C: COBB
+D: Three levels down.
+C: ARTHUR
+D: A dream within a dream within a dream? Is that even possible?
+C: COBB
+D: Yes. It is.
+C: COBB
+D: Now, the subconscious motivates through emotion, not reason, so we have to translate the idea into an emotional concept.
+C: ARTHUR
+D: How do you translate a business strategy into an emotion?
+C: COBB
+D: That's what we have to figure out. Robert and his father have a tense relationship. Worse, even, than the gossip columns have suggested...
+C: EAMES
+D: Do you play on that? Suggest breaking up his father's company as a 'screw you' to the old man?
+C: COBB
+D: No. Positive emotion trumps negative emotion every time. We yearn for people to be reconciled, for catharsis. We need positive emotional logic.
+N: Eames thinks. Paces. Looking back at the board.
+C: EAMES
+D: Try this... "MY FATHER ACCEPTS THAT I WANT TO CREATE FOR MYSELF, NOT FOLLOW IN HIS FOOTSTEPS."
+C: COBB
+D: That might work.
+C: ARTHUR
+D: Might? We'll have to do better than that.
+C: EAMES
+D: Thanks for the contribution, Arthur.
+C: ARTHUR
+D: Forgive me for wanting a little specificity, Eames.
+C: COBB
+D: Inception's not about specificity. When we get inside his head, we're going to have to work with what we find.
+N: Arthur shrugs, frustrated. And we-
+T: CUT TO:
+S: EXT. NEW YORK STREETS - DAY
+N: The team are in the middle of a DESERTED intersection. Ariadne is showing Yusuf aspects of the geography.
+C: EAMES
+D: We could split the idea into emotional triggers, and use one on each level.
+C: COBB
+D: How do you mean?
+C: EAMES
+D: On the top level, we open up his relationship with his father.... Say: "I WILL NOT FOLLOW IN MY FATHER'S FOOTSTEPS." Next level down we've accessed his ambition and self-esteem. We feed him: "I
+C: WILL CREATE SOMETHING MYSELF."
+D: Then, the bottom level, we bring out the emotional big guns...
+C: COBB
+D: "MY FATHER DOESN'T WANT ME TO BE HIM."
+C: EAMES
+D: That could do it.
+C: ARTHUR
+D: How do you produce these emotional triggers?
+C: EAMES
+D: I forge each emotional concept in the style and manner of Peter Browning, a key figure in Fischer's emotional life.
+N: Two AFRICAN PEDESTRIANS wander into view.
+C: ARTHUR
+D: Are those yours?
+N: Eames shakes his head. Cobb turns to Yusuf.
+C: ARTHUR
+D: Yusuf?
+C: YUSUF
+D: Yup. Sorry.
+C: COBB
+D: Suppress them. We don't bring our own projections into the dream-we let Fischer's subconscious supply the people.
+C: EAMES
+D: Saito, when do I get to see Browning?
+C: SAITO
+D: You fly out to Sydney on Tuesday. We've arranged for you to spend several days...
+S: INT. ANTEROOM, MAURICE FISCHER'S OFFICE - DAY
+N: Eames sits in the crowded room. Boxes and files are piled high. Browning stands by a pair of double doors.
+C: SAITO
+D: ...as part of a consulting litigation team working for Browning.
+E: V.O.
+C: BROWNING
+D: I'm not smelling settlement here-we take them down.
+C: LAWYER
+D: Mr. Browning, Maurice Fischer's policy is always one of avoiding litigation-
+N: Browning turns to the lawyer. Calm, but POWERFUL.
+C: BROWNING
+D: Shall we relay your concerns directly to Maurice?
+N: Browning opens the doors to Maurice Fischer's inner office. Eames leans in to watch as Browning beckons the Lawyer into-
+S: INT. MAURICE FISCHER'S INNER OFFICE - CONTINUOUS
+N: The office is a MAKESHIFT HOSPITAL ROOM: a BED where the desk should be. Browning addresses a figure at the window. ROBERT FISCHER, 30'S, abstracted.
+C: BROWNING
+D: How is he?
+N: Fischer turns to Browning. Motions silence, as he glances at his FATHER in the bed. Wheezing gently.
+C: BROWNING
+D: I don't want to bother him unnecessarily but I know he-
+C: FATHER
+D: Robert! I've told you to keep out the damn!-
+N: MAURICE LASHES OUT, KNOCKING things from his bedside table. A NURSE calms Maurice as Fischer crouches to retrieve a FRAMED PHOTOGRAPH. He looks at the photo through the broken glass- a YOUNG BOY holds a PINWHEEL CLEARLY MADE BY A CHILD (each of the points is numbered in pen), his FATHER blows on it.
+C: BROWNING
+D: Must be a cherished memory of his-
+C: FISCHER
+D: I put it by his bed. He hasn't even noticed.
+C: BROWNING
+D: Robert, we have to talk about a power of attorney. I know this is hard for you, but it's important that we start to think about the future-
+C: FISCHER
+D: Not now, Uncle Peter.
+N: Browning looks at Fischer, considering. Biding his time.
+C: EAMES
+D: The vultures are circling. The sicker Maurice Fischer becomes, the stronger Peter Browning becomes...
+E: V.O.
+N: Eames WATCHES Browning, STUDYING his every move .
+S: INT. BATHROOM - DAY
+N: Eames gestures at a mirror, as if offering to shake hands...
+C: EAMES
+D: I've had time to learn Browning's physical presence and mannerisms... In the mirror: BROWNING GESTURES BACK.
+E: V.O.
+S: INT. WORKSHOP - CONTINUOUS
+C: EAMES
+D: Now, in the dream, I can impersonate Browning and suggest the concepts to Fischer's conscious mind... Then we take Fischer down another level and his own subconscious feeds it right back to him.
+E: draws a diagram
+C: ARTHUR
+D: So he gives himself the idea.
+E: impressed
+C: EAMES
+D: Precisely. That's the only way to make it stick. It has to seem self-generated.
+C: ARTHUR
+D: Eames, I'm impressed.
+C: EAMES
+D: Your condescension, as always, is much appreciated, Arthur.
+T: CUT TO:
+S: INT. DESERTED HOTEL LOBBY - DAY
+N: The team sit on the steps of the large marble lobby, debating. Ariadne is showing Arthur the lobby.
+C: EAMES
+D: He's not scheduled for surgery, no dental, nothing.
+C: COBB
+D: I thought he had some knee thing?
+C: EAMES
+D: Nothing they'd put him under for. Besides, we need a good ten hours.
+C: SAITO
+D: Sydney to Los Angeles.
+N: They turn to Saito.
+C: SAITO
+D: Twelve hours and forty-five minutes-one of the longest flights in the world. He makes it every two weeks...
+S: EXT. AIRFIELD - DAY
+N: Fischer steps out of a black town car and walks across the tarmac towards a GULF STREAM JET, accompanied by two aides.
+C: COBB
+D: Surely he flies private?
+E: V.O.
+C: SAITO
+D: Not if there were unexpected maintenance with his plane.
+E: V.O.
+N: Fischer is met at the steps by a DISTRAUGHT FLIGHT OFFICER.
+S: INT. HOTEL LOBBY - DAY
+N: Cobb chews this over. Arthur comes over.
+C: ARTHUR
+D: It'd have to be a 747.
+C: COBB
+D: Why?
+C: ARTHUR
+D: On a 747 the pilots are up above, first class is in the nose so nobody walks through the cabin. We'd have to buyout the whole cabin, and the first class flight attendant-
+C: SAITO
+D: We bought the airline.
+N: Everyone turns to Saito.
+C: SAITO
+D: It seemed... neater.
+C: COBB
+D: Neater, huh? Well, now we have ten uninterrupted hours.
+E: gets to his feet MORE
+C: COBB
+D: Nice lobby, by the way.
+E: CONT'D to Ariadne
+N: And we-
+T: CUT TO:
+S: INT. WORKSHOP - DAY
+N: The group is back in the workshop, deep in discussion.
+C: ARTHUR
+D: My question is how we go down three layers with enough stability. Three layers down a little turbulence is gonna translate into an earthquake. The dreams are gonna collapse with the slightest disturbance.
+N: Yusuf clears his throat.
+C: YUSUF
+D: Sedation. For sleep stable enough to create three layers of dreaming...
+S: INT. MAKESHIFT LAB - DAY
+N: Yusuf depresses a plunger. Arthur is SLEEPING in a chair.
+C: YUSUF
+D: We will have to combine it with an extremely powerful sedative....
+E: V.O.
+N: Eames SLAPS Arthur, HARD. Arthur does not stir.
+S: INT. WORKSHOP - DAY
+N: Arthur unconsciously rubs his cheek.
+C: YUSUF
+D: The compound we'll be using to share the dream is an advanced Somnacin derivative. It creates a very clear connection between dreamers, whilst actually accelerating brain function.
+T: CUT TO:
+C: COBB
+D: Buying us more time in each level.
+C: YUSUF
+D: Brain function in the dream will be about twenty times normal.
+E: MORE
+C: YUSUF
+D: And when you go into a dream within that dream the effect is compounded.
+E: CONT'D
+C: ARIADNE
+D: How much time?
+C: YUSUF
+D: Three dreams... that's ten hours, times twenty, times twenty, times twenty...
+C: EAMES
+D: Math was never my strong suit.
+C: COBB
+D: It's basically a week one layer down, six months two layers down-
+C: ARIADNE
+D: And ten years in the third level. Who wants to spend ten years in a dream?
+C: YUSUF
+D: Depends on the dream.
+C: EAMES
+D: It's not going to take us long to crack Fischer open once we get going. We'll be out in a couple days, max.
+C: ARTHUR
+D: How do we get out once we've made the plant? I hope you've got something a little more elegant in mind than shooting me in the head like last time.
+E: to Cobb
+N: Arthur tilts back in his chair. Yusuf turns to Cobb.
+C: COBB
+D: A kick.
+C: ARIADNE
+D: What's a kick?
+N: Eames slips his foot under Arthur's chair leg. TIPS it- Arthur's legs SHOOT UP INSTINCTIVELY for balance-
+C: EAMES
+D: That, Ariadne, would be a kick.
+C: COBB
+D: That feeling of falling which snaps you awake. We use that to jolt ourselves awake once we're done.
+C: ARTHUR
+D: But how are we going to feel that through the sedation?
+C: YUSUF
+D: That's the clever part. I customize the sedative...
+S: INT. MAKESHIFT LAB - DAY
+N: Cobb, Eames and Yusuf watch Arthur, ASLEEP, in a chair.
+C: YUSUF
+D: To leave inner ear function unimpaired...
+E: O.S.
+N: Yusuf, with a wicked grin, slowly TIPS Arthur's chair backwards... as he falls, Arthur's body JERKS, EYES OPENING just before he HITS the floor.
+S: INT. WORKSHOP - DAY
+N: Arthur thinks, nodding slowly.
+C: YUSUF
+D: That way, however deep the sleep, the sleeper will still feel falling...
+S: INT. MAKESHIFT LAB - DAY
+N: Yusuf gleefully LEANS a SLEEPING ARTHUR to one side ...
+C: YUSUF
+D: Or tipping...
+E: V.O.
+N: Arthur goes down with a CRASH, JERKING AWAKE-
+S: INT. WORKSHOP - DAY
+N: Arthur thinks this through.
+C: ARTHUR
+D: Even that won't cut through three layers of deep sleep.
+C: COBB
+D: The trick is to devise a kick for each level, then synchronize them to get a snap that penetrates all three layers.
+N: Arthur looks at Cobb, getting it.
+C: ARTHUR
+D: We can use the musical countdown to synchronize the different kicks.
+S: INT. WORKSHOP - NIGHT
+N: Ariadne comes into the darkened main space. Cobb is lying on one of the chairs, asleep. Plugged into the mechanism. Ariadne stands over him. Watching. She opens the case, PULLS one of the tubes, sits, checking the dials as she injects the needle cap into her arm, and we-
+T: CUT TO:
+S: INT. CAGE STYLE ELEVATOR - DAY
+N: Ariadne ascends. She looks at the buttons. Spots the "B." The elevator STOPS. She looks through the grill at-
+S: INT. YOUNG GIRL'S BEDROOM - DAY
+N: Ariadne pulls back the grill and walks across the room, considering the dusty furnishings. At the window is a doll's house, front slightly ajar. Ariadne opens it. Inside is a SAFE. She tries it. LOCKED. A NOISE STARTLES her- she turns, looking through a doorway into another room...
+S: INT. LIVING ROOM - CONTINUOUS
+N: Ariadne looks into the room to see Cobb and Mal talking, arguing. A private moment. Mal brushes at Cobb's hair, trying to convince him. We hear snatches of conversation-
+C: MAL
+D: You remember when you asked me to marry you?
+C: COBB
+D: Of course...
+C: MAL
+D: You said you had a dream...
+C: COBB
+D: That we'd grow old together.
+C: MAL
+D: And we can. You know how to find me... you know what you have to do.
+N: Cobb is shaking his head, gently. Mal looks into Cobb's eyes- gentle, loving... Mal SPOTS Ariadne spying on them. FREEZES, staring, hostile. Cobb turns, sees Ariadne, moves towards her, leaving Mal.
+C: COBB
+D: You shouldn't be in here.
+N: Cobb guides her back into the elevator.
+C: ARIADNE
+D: I wanted to know what "tests" you need to do on your own every night.
+S: INT. CAGE STYLE ELEVATOR - DAY
+N: Cobb shuts the CAGE DOOR. Ariadne hits a button. The elevator RISES. Through the GRILL Ariadne can see a BEACH stretching off into the distance. The elevator stops. Mal sits on the sand. Beside her, the two children are crouched, away from us, building a SANDCASTLE.
+C: ARIADNE
+D: Why do you do this to yourself?
+C: COBB
+D: This is the only way I can still dream.
+C: ARIADNE
+D: Is it so important to dream?
+N: Cobb stares at his family.
+C: COBB
+D: In my dreams... we're still together.
+N: The kids, WITHOUT TURNING AROUND, jump up and RUN AWAY.
+S: INT. CAGE STYLE ELEVATOR - CONTINUOUS
+N: The elevator descends.
+C: ARIADNE
+D: But these aren't just dreams, are they? They're memories. You said never to use memories.
+C: COBB
+D: And I shouldn't.
+C: ARIADNE
+D: You're keeping her alive.
+C: COBB
+D: No.
+C: ARIADNE
+D: You can't let her go.
+C: COBB
+D: No. These are moments I regret. Moments I turned into dreams so I could change them.
+N: Ariadne's fingers move across the buttons- stop at the "B."
+C: ARIADNE
+D: What've you got buried down there that you regret?
+N: Cobb pushes her hand away. Hits the third floor button.
+C: COBB
+D: There's only one thing I need you to understand about me...
+S: INT. KITCHEN, COBB AND MAL'S HOUSE - MOMENTS LATER
+N: Ariadne follows Cobb into the kitchen. A THIN MAN is there, standing by the table. He holds a FOLDED PIECE OF PAPER.
+C: ARIADNE
+D: This is your house?
+C: COBB
+D: Mine and Mal's.
+C: ARIADNE
+D: Where is she?
+C: COBB
+D: She'd already died.
+N: The Thin Man offers Cobb the piece of paper. A CHILD'S SHOUT- Cobb TURNS. Ariadne follows his gaze to the garden. A small blonde boy faces away from them, crouched on his haunches to look at something on the ground.
+C: COBB
+D: It's James. My boy. He's found something. Maybe a worm.
+N: A slightly older girl RUNS into view.
+C: COBB
+D: And there's Philippa.
+N: She crouches beside the boy. Their FACES ARE AWAY FROM US. They point and discuss whatever is on the ground.
+C: COBB
+D: I thought about calling out, so they'd turn and smile those incredible smiles... but I'm out of time-
+N: The Thin Man thrusts the paper into Cobb's hand.
+C: THIN MAN
+D: Right now. Or never, Cobb.
+N: Cobb nods, turns from the window-
+C: COBB
+D: Then I panic that I'll always wish I'd seen them turn, that I can't waste this chance...
+N: Cobb TURNS BACK to call out- but the children RACE OFF...
+C: COBB
+D: But the moment's passed. And whatever I do, the dream's always the same... When I'm about to call... they run.
+N: Cobb watches them run off, calling for grandma, FACES UNSEEN.
+C: COBB
+D: If I'm going to see their faces again-I've got to get back here in the real world...
+N: Behind him, Ariadne SLAMS the grill shut. Cobb TURNS.
+S: INT. CAGE STYLE ELEVATOR - CONTINUOUS
+N: Ariadne hits the BASEMENT button. The elevator starts to DESCEND. ariadne STARES, fascinated as glimpses of floors slip past: Mal's childhood bedroom, a thundering wall of freight train... The elevator STOPS. Through the grill Ariadne sees a HOTEL SUITE. She pulls open the grill, steps cautiously out into-
+S: INT. ELEGANT HOTEL SUITE - CONTINUOUS (NOW NIGHT)
+N: DISHEVELED bedclothes, UPENDED room service table, STRAWBERRIES across the floor. A STRUGGLE. Ariadne steps forwards- SMASH- she looks down to see that she has kicked over a CHAMPAGNE FLUTE. Ariadne feels a draught. The CURTAIN BILLOWS.
+C: MAL
+D: What are you doing here?
+E: O.S.
+N: Ariadne TURNS. Mal is there.
+C: ARIADNE
+D: My name is-
+C: MAL
+D: I know who you are. What are you doing here?
+C: ARIADNE
+D: I don't know. Trying to understand.
+C: MAL
+D: How could you understand? Do you know what it is to be a lover? To be half of a whole?
+C: ARIADNE
+D: No.
+N: Mal moves slowly towards Ariadne...
+C: MAL
+D: I'll tell you a riddle. You're waiting for a train. A train that will take you far away. You know where you hope this train will take you, but you don't know for sure...
+N: Mal glides around Ariadne, looking her over.
+C: MAL
+D: But... it doesn't matter. How can it not matter to you where that train will take you?
+C: COBB
+D: Because you'll be together.
+E: O.S.
+N: Cobb is standing in the elevator. Mal nods. Looks at him.
+C: MAL
+D: How could you bring her here, Dom?
+C: ARIADNE
+D: What is this place?
+C: COBB
+D: A hotel. We spent our anniversaries in this suite.
+C: ARIADNE
+D: What happened here?
+N: Mal picks up the BROKEN STEM of a champagne flute...
+S: INT. CAGE STYLE ELEVATOR - CONTINUOUS
+N: Cobb PULLS Ariadne into the elevator- Mal THROWS herself towards Ariadne- Cobb SLAMS the GRILL- Mal SMASHES against it AGAIN and AGAIN like a WILD ANIMAL- Ariadne FLINCHES-
+C: MAL
+D: you PROMISED! YOU SAID WE'D BE TOGETHER!-
+C: COBB
+D: We can. We will. But I need you to stay here for now-
+C: MAL
+D: YOU SAID WE'D GROW OLD TOGETHER!-
+N: Cobb pushes a button and the elevator starts to rise.
+C: COBB
+D: I'll come back. I need you to stay here on your own for now. Just while I do this job. Then we can be together-
+C: MAL
+D: WE'LL BE TOGETHER-YOU PROMISED!-
+N: Mal THROWS herself against the grill, and. we-
+T: CUT TO:
+S: INT. WORKSHOP - NIGHT
+N: Ariadne watches Cobb sleeping. His eyes gradually flicker open. He sees her watching him.
+C: ARIADNE
+D: You think you can just build a prison of memories to lock her in? You think that's going to contain her?
+N: The LIGHTS COME ON: Saito and Arthur stand in the doorway.
+C: SAITO
+D: Maurice Fischer just died in Sydney.
+C: COBB
+D: When's the funeral?
+C: SAITO
+D: Thursday. In Los Angeles.
+C: COBB
+D: Robert'll accompany the body Tuesday at the outside. We have to move.
+N: Cobb gets up. Ariadne comes over to him.
+C: ARIADNE
+D: I'm coming with you.
+E: low
+C: COBB
+D: No. I promised Miles.
+C: ARIADNE
+D: The team needs someone in there who understands what you're struggling with. If you don't want it to be me then you need to show Arthur what I just saw.
+N: Cobb looks at Ariadne. Turns to Saito.
+C: COBB
+D: We need one more seat on the plane.
+S: INT. DEPARTURE GATE, SYDNEY - DAY
+N: Saito stands looking out the window at a 747. Cobb arrives beside him. They watch a COFFIN being loaded.
+C: COBB
+D: If I get on this plane and you haven't taken care of things... when we land I go to jail for the rest of my life.
+C: SAITO
+D: Complete the job en route, I make one phone call from the plane... you will have no trouble clearing immigration.
+S: INT. FIRST CLASS CABIN, 747 - CONTINUOUS
+N: The luxurious cabin has only ten seats. Cobb finds his- sees Ariadne in the seat behind his. They do not acknowledge each other. Behind her is Arthur, looking out the window. Eames enters, STUFFS his bag into the overhead bin, BLOCKING the passenger behind: ROBERT FISCHER, standing there, patient, bag in hand, wearing black.
+C: EAMES
+D: Oh, sorry.
+N: Eames SQUEEZES up against his seat to let Fischer BRUSH PAST. Fischer moves to his seat, directly in front of Cobb. Eames TOSSES Cobb a PASSPORT. Cobb flips it open: Fischer's. Pockets it. Yusuf and Saito enter, take their seats.
+S: EXT. RUNWAY - MOMENTS LATER
+N: The 747 HURTLES down the runway.
+S: INT. FIRST CLASS CABIN, 747 - MOMENTS LATER
+N: Cobb looks down at his hand: a TINY VIAL taped to the center of his palm. He removes the cap. The seatbelt sign goes dark. Cobb unbuckles, stands.
+C: COBB
+D: Excuse me?
+N: Fischer looks up.
+C: FISCHER
+D: Yes?
+C: COBB
+D: I think this is yours...
+N: Cobb holds up the open passport, comparing the picture to Fischer. Fischer's hand goes to his pocket. Cobb hands Fischer the passport.
+C: FLIGHT ATTENDANT
+D: Would you gentlemen care for a drink?
+C: FISCHER
+D: Water.
+C: COBB
+D: Same.
+N: Fischer gives Cobb a thin smile. Holds up his passport.
+C: FISCHER
+D: Well, thank you.
+C: COBB
+D: No problem. Look, I couldn't help noticing your name. You're not related to Maurice Fischer?
+N: Fischer takes a beat. But Cobb seems harmless.
+C: FISCHER
+D: Actually, he was my father.
+C: COBB
+D: I'm very sorry for your loss. He was an inspiring figure.
+N: The Flight Attendant brings their drinks- Cobb takes them.
+C: COBB
+D: Thanks.
+N: As he turns to Fischer he LOWERS his right hand ... a CLEAR LIQUID DROPS into Fischer's water as Cobb hands it to him.
+C: COBB
+D: To Maurice Fischer. I'll leave you in peace.
+E: they drink
+N: Fischer grants him a smile.
+S: EXT. 747 - LATER
+N: The great plane SOARS through a burning cloudscape.
+S: INT. FIRST CLASS CABIN, 747 - MOMENTS LATER
+N: Cobb reaches into the overhead for a blanket- lets it fall onto Fischer's head- Fischer doesn't flinch. ASLEEP. Cobb SIGNALS the others. The First Flight Attendant unlocks a CUPBOARD in the galley, then leaves, closing the curtain. Arthur moves into the galley and pulls out a MECHANISM CASE. Cobb and Arthur open the mechanism- uncoil the tubes- feed them around the window side of each of the seats. Arthur rolls up Fischer's cuff- PUSHES the needle cap into Fischer's wrist. Arthur pulls Fischer's cuff down and hides the tubes behind the armrest of Fischer's seat. Arthur runs the next tube to Ariadne. Cobb puts the case on Yusuf's lap. Yusuf checks the TIMERS, tapping the syringes. The others recline their seats. Yusuf HITS A BUTTON- closes the case- places it at his feet. He settles back, and we-
+T: CUT TO:
+S: INT. SEDAN - DAY
+N: Cobb DRIVES. Saito and Arthur are in the back. Rain BEATS down. Cobb pulls over-
+S: EXT. NEW YORK STREETS - CONTINUOUS
+N: Yusuf stands on the corner, silver briefcase in hand, collar turned up against the rain. He reaches for the door.
+S: INT. SEDAN - CONTINUOUS
+N: Yusuf clambers into the back, brushing rain from his face.
+C: ARTHUR
+D: Couldn't you have peed before you went under?
+E: indicates rain
+C: YUSUF
+D: Sorry.
+N: The front door OPENS and Eames climbs in, soaked.
+C: EAMES
+D: Bit too much free champagne before takeoff, Yusuf?
+C: YUSUF
+D: Ha bloody ha.
+C: COBB
+D: At least we know he'll be looking for a cab in this.
+S: INT./EXT. SEDAN ON RAINY NEW YORK STREETS - CONTINUOUS
+N: Cobb pulls out into the heavy traffic. He weaves around several cars before lining up behind a YELLOW CAB.
+C: COBB
+D: Brace yourselves.
+N: Cobb hits the gas- REAR ENDS the cab with a CRUNCH. The CABDRIVER gets out, fuming. Heads to Cobb's window-
+C: CABDRIVER
+D: Hey, asshole! Why don't you try driving without your thumb up-
+N: He sees the SILENCED PISTOL Cobb is holding at his belly.
+C: COBB
+D: Walk away.
+N: The Cabdriver backs off. Arthur climbs into the cab. Both cars pull away.
+S: INT./EXT. CAB ON RAINY NEW YORK STREETS - CONTINUOUS
+N: Arthur SLOWS in front of the TRAIN STATION, peering at the pedes pedestrians. He SPOTS Fischer, lights the cab's sign. Fischer FLAGS him down. Fischer JUMPS into the back, brushing rain from his shoulders.
+C: FISCHER
+D: Third and Market. Snappy.
+N: Eames JUMPS in from the other side.
+C: FISCHER
+D: What're you doing?
+C: EAMES
+D: Sorry, I thought it was free. Maybe we could share.
+C: FISCHER
+D: Maybe not.
+N: Saito gets into the front passenger seat. Pointing a gun.
+C: FISCHER
+D: Great.
+N: Arthur pulls away. Fischer pulls out his wallet and tosses it at Eames.
+C: FISCHER
+D: There's 500 dollars in there. And the wallet's worth more than that. For that you ought to at least drop me at my stop.
+E: contemptuous
+N: Eames smiles at this.
+C: EAMES
+D: I'm afraid-
+N: A SHOT SHATTERS the window by Eames's head- another SHOT IMPACTS by Saito-
+C: EAMES
+D: Get us out of here!
+N: Arthur hits the gas, but a BLACK S.U.V. SKIDS sideways in front, BLOCKING the path- A BLOCK BEHIND- Cobb is at a light. ARIADNE is getting in the front. Cobb has HEARD the GUNFIRE-
+C: COBB
+D: Come on!-
+N: Cobb looks ahead to the AMBUSH, hits the gas- the sedan ROCKETS forwards... but BAM- A FREIGHT TRAIN CLIPS THE FRONT OF THE SEDAN, SHOVING IT SIDEWAYS AS AN ENDLESS TRAIN BARRELS PAST, A WALL BETWEEN COBB AND THE AMBUSH- A SECOND S.U.V. is behind the cab- PLAIN CLOTHES SECURITY MEN advance through the traffic, weapons trained on the cab. Bullets RIP into the cab as Eames throws himself on top of Fischer, PULLING a SACK over his head- Inside the sedan, Ariadne watches the train passing-
+C: ARIADNE
+D: This wasn't in the design-
+N: Cobb BACKS UP, SPINS around, heading for the tail of the train- A Security Man emerges from the front S.U.V. carrying an AUTOMATIC RIFLE- he steps towards the cab through the rain, raises his weapon and BLASTS THE CAB'S WINDSCREEN- Cobb clears the end of the train, and SKIDS across the tracks- Arthur CROUCHES down- PUSHES the accelerator with his HAND- YANKS the wheel- FLYING BLIND. The cab NAILS the Security Man, CRUNCHING into the front S.U.V.- Cobb SMASHES his car into the rear S.U.V., creating a GAP- Arthur YANKS the transmission and REVERSES- SCRAPING through the gap- Security Men DIVE out of the way- Arthur throws a ragged J-turn to head down a SIDE STREET- Cobb follows in the other car. Rain whips across Arthur's face as he BREATHES-
+C: ARTHUR
+D: Everybody okay? Saito?
+N: Arthur looks at Saito. Saito's hand is at his belly. Covered in BLOOD.
+S: EXT. WAREHOUSE - MOMENTS LATER
+N: The sedan and cab pull into the side entrance- Eames jumps out- PULLS the shutter down behind them-
+S: INT. WAREHOUSE - CONTINUOUS
+N: Yusuf and Eames PULL Fischer from the cab, HUSTLING him through a doorway. Cobb JUMPS out of the sedan, furious.
+C: COBB
+D: Arthur! Arthur what the-
+N: Arthur pulls the bloody Saito from the front seat.
+C: COBB
+D: Oh, Christ. Is he dying?
+C: ARTHUR
+D: I don't know. What happened back there? Where were you?
+C: COBB
+D: We were blocked by a freight train.
+C: ARTHUR
+D: Why would you put a train crossing in a downtown intersection?
+E: to Ariadne
+C: ARIADNE
+D: I didn't.
+C: COBB
+D: Why were we all ambushed, Arthur?! Those weren't regular projections- they'd been trained!
+E: snaps
+C: ARIADNE
+D: How could they be trained?
+C: ARTHUR
+D: Fischer's had an extractor teach his mind to defend itself. His subconscious is militarized. It should've shown on the research-
+C: COBB
+D: So why the hell didn't it?!
+C: ARTHUR
+D: Calm down.
+C: COBB
+D: Don't tell me to calm down-you were meant to check Fischer's background thoroughly. You can't make this kind of mistake-we're not prepared for this kind of violence-
+C: ARTHUR
+D: Cobb, we've dealt with sub-security before. We just have to be more-
+C: COBB
+D: This wasn't part of the plan, Arthur! He's dying!
+E: points at Saito
+C: EAMES
+D: So we put him out of his misery.
+N: Eames steps into the room, pulls his gun and moves over Saito.
+C: COBB
+D: No.
+C: EAMES
+D: He's in agony. Let's wake him up-
+N: Cobb GRABS Eames's arm.
+C: COBB
+D: No! It won't wake him up.
+E: they lock eyes
+C: EAMES
+D: What do you mean, it won't wake him? When you die in a dream you wake up.
+C: YUSUF
+D: Not from this. We're too heavily sedated to wake up that way.
+N: Eames looks at Yusuf, then to Cobb.
+C: EAMES
+D: So what happens if one of us dies?
+C: COBB
+D: That person doesn't wake up. Their mind drops into Limbo.
+C: ARIADNE
+D: Limbo?
+C: ARTHUR
+D: Unconstructed dream space.
+C: ARIADNE
+D: What's down there?
+C: ARTHUR
+D: Raw, infinite subconscious. Nothing there but what was left behind by anyone on the team who's been trapped there before. On this team... just Cobb.
+C: ARIADNE
+D: How long would we be stuck there?
+C: YUSUF
+D: You couldn't even think about trying to escape until the sedation eases-
+C: EAMES
+D: How long?
+C: YUSUF
+D: Decades-it could be infinite-I don't know! Ask him-he's the one who's been there before!
+N: Eames moves to Cobb. Looks him in the eye.
+C: EAMES
+D: Great. So now we're stuck in Fischer's mind battling it out with his private army, and if we get hit we're stuck in Limbo 'til our brains dissolve into scrambled egg?
+N: Cobb says nothing. Saito groans more loudly.
+C: ARTHUR
+D: Let's just get him upstairs.
+S: INT. OFFICE, WAREHOUSE - MOMENTS LATER
+N: Saito is laid out on an old desk. Arthur examines him. He motions to Ariadne. Eames watches Cobb.
+C: ARTHUR
+D: Hold this. Firm pressure.
+N: Arthur turns to Cobb.
+C: ARTHUR
+D: You knew the risks and you didn't tell us.
+C: COBB
+D: There wasn't meant to be any risk. We weren't supposed to be dealing with a load of gunnre.
+C: ARTHUR
+D: You had no right.
+C: COBB
+D: It's the only way you can go three layers deep, Arthur.
+N: Arthur turns to Yusuf, hostile.
+C: ARTHUR
+D: And you. You went along with this?
+C: YUSUF
+D: I trusted him.
+C: ARTHUR
+D: You trusted him? When? When he promised you half his share?
+C: YUSUF
+D: No! His whole share. Plus, he told me he'd done it before.
+E: offended
+N: Arthur turns to Cobb.
+C: ARTHUR
+D: Oh, yeah? With Mal? That worked out great, didn't it, Cobb?
+N: Cobb grabs Arthur.
+C: COBB
+D: You don't know anything about that. This was the only way to do this job, Arthur. I did what I had to do to get back to my children.
+C: EAMES
+D: So you led us into a war zone with no way out.
+C: COBB
+D: We have a way out. The kick. We just have to push on, do the job as fast as possible and get out using the kick.
+C: EAMES
+D: Forget it. We go any deeper, we just raise the stakes. I'm sitting it out on this level.
+C: COBB
+D: You'll never make it, Eames. Fischer's security is surrounding this place as we speak. The ten hours of the flight is a week at this level-you'll never make it without getting killed. Downwards is the only way forwards. We have to carry on.
+N: Saito groans. Cobb looks at him-
+C: COBB
+D: And we have to do it fast.
+N: Eames and Arthur weigh this.
+C: COBB
+D: Eames, go get ready. Arthur, let's get in there and soften him up.
+S: INT. BATHROOM, WAREHOUSE - LATER
+N: Cobb and Arthur, wearing BALACLAVAS, PULL the sack from Fischer's head. He is chained to the radiator.
+C: FISCHER
+D: I'm insured against kidnapping up to ten million-this'll be simple-
+C: COBB
+D: No, it won't.
+N: Fischer looks at Cobb, unnerved.
+C: ARTHUR
+D: In. your lather's office, below the bookshelves, is his personal safe. We need the combination.
+C: FISCHER
+D: I never noticed a safe-
+C: COBB
+D: Doesn't mean you don't know the combination.
+C: FISCHER
+D: Well, I don't.
+C: ARTHUR
+D: We have it on good authority that you do.
+C: FISCHER
+D: Whose?
+S: INT. OFFICE, WAREHOUSE - CONTINUOUS
+N: Yusuf looks through Fischer's wallet. Eames is opening a HINGED, THREE-WING MIRROR.
+C: YUSUF
+D: Five hundred dollars, this cost?
+C: EAMES
+D: What's inside?
+C: YUSUF
+D: Cash, cards, ID... and this-
+N: Yusuf holds up a SNAPSHOT: the photo from Maurice Fischer's office- YOUNG ROBERT holds his HOMEMADE PINWHEEL, his FATHER blows on it. Eames takes it from Yusuf. STUDIES it. Cobb enters. Eames hands him the snapshot.
+C: EAMES
+D: Useful?
+N: Cobb studies the snapshot. Eames examines himself in the hinged mirror from multiple angles: ONE BY ONE the myriad Eames reflections BECOME BROWNINGS. Cobb pockets the photo.
+C: COBB
+D: You're on. You've got an hour.
+C: EAMES
+D: An hour? I was supposed to have all night to crack him.
+C: COBB
+D: And Saito was supposed to keep his guts on the inside. You've got an hour-get something we can use.
+N: Eames turns from the mirror AS BROWNING. He glances at his watch, then SCREAMS, as if begging for mercy-
+S: INT. BATHROOM, WAREHOUSE - CONTINUOUS
+N: Browning's CRY reverberates- Fischer looks up, concerned-
+C: FISCHER
+D: What's that?
+C: ARTHUR
+D: Good authority.
+N: Another cry rings out. Fischer recognizes the voice.
+C: FISCHER
+D: Uncle Peter?! Make them stop-
+C: ARTHUR
+D: The combination.
+C: FISCHER
+D: I don't know it!
+C: ARTHUR
+D: Why would Browning tell us you did?
+C: FISCHER
+D: Let me talk to him-I'll find out.
+S: INT. BATHROOM, WAREHOUSE - MOMENTS LATER
+N: Cobb pushes Browning (Eames), bloody and bruised, into the room and forces him down next to Fischer. Cobb handcuffs Browning's wrist to a metal bracket on the side of the sink.
+C: COBB
+D: You've got an hour. Get talking.
+N: Cobb leaves.
+C: BROWNING
+D: They've had me for two days. They've got someone with access to your father's office and they're trying to open his safe-they thought I'd know the combination, but I don't-
+E: EAMES
+C: FISCHER
+D: Neither do I, Uncle Peter.
+C: BROWNING
+D: Maurice told me that after he passed only you would be able to open it.
+E: confused
+C: FISCHER
+D: He never gave me the combination.
+N: Browning thinks for a minute. Realizes something.
+C: BROWNING
+D: He did, he just didn't tell you that it was a combination.
+C: FISCHER
+D: What, then?
+C: BROWNING
+D: Something only you would know. Some meaningful combination of numbers from your experiences with Maurice-
+C: FISCHER
+D: We didn't have a lot of meaningful experiences together.
+C: BROWNING
+D: Perhaps after your mother died...
+C: FISCHER
+D: After my mother died, I went to him in my grief.
+E: MORE
+C: FISCHER
+D: You know what he told me? "There's really nothing to be said, Robert."
+E: CONT'D
+C: BROWNING
+D: He always had a hard time with emotional-
+C: FISCHER
+D: I was eleven, Uncle Peter.
+N: Browning (Eames) takes this in.
+C: BROWNING
+D: He loved you, Robert. In his way.
+C: FISCHER
+D: "In his way?" At the end he called me to his deathbed. He could barely speak, but he took the trouble to say one last thing to me. He pulled me close... I could make out only one word. "Disappointed."
+N: Browning can say nothing.
+S: INT. OFFICE, WAREHOUSE - CONTINUOUS
+N: Cobb pulls off his balaclava. Looks down at Saito, who is breathing fast, shallow.
+C: COBB
+D: How's he doing?
+C: ARIADNE
+D: He's in a lot of pain.
+N: Cobb takes Saito's hand. Looks him in the eye.
+C: COBB
+D: When we get you down to the next level, the pain will be less intense.
+N: Saito nods, breathing hard.
+C: ARIADNE
+D: And if he dies?
+E: low
+C: COBB
+D: His conscious mind will drop out of the dream. He'll be trapped in Limbo for a lifetime...
+C: ARIADNE
+D: What will that do to him?
+N: Cobb looks at her. Grave.
+C: COBB
+D: When he wakes... his mind could be completely gone.
+C: SAITO
+D: When... when we wake I will still honor our arrangement...
+N: Cobb looks down at Saito sadly.
+C: COBB
+D: Saito-san, when you wake you might not even remember that we had an arrangement. You'll have forgotten this world. Limbo will be your reality. Lost there so long, you'll have become an old man...
+C: SAITO
+D: Filled with regret?
+C: COBB
+D: Waiting to die alone. Yes.
+C: SAITO
+D: Then I'll take the chance and come back. And we'll be young men together again.
+N: Saito smiles weakly. Cobb nods at him, turns to Ariadne.
+C: ARIADNE
+D: When were you trapped in Limbo?
+N: Cobb says nothing. Ariadne pulls him away from Saito.
+C: ARIADNE
+D: Cobb, you might have convinced the rest of this team to carry on with the job. But they don't know the truth.
+C: COBB
+D: What truth?
+C: ARIADNE
+D: The truth that at any minute you might bring a freight train through the wall. The truth that Mal is bursting up through your subconscious.
+E: MORE
+C: ARIADNE
+D: The truth that as we go deeper into Fischer, we're also going deeper into you-and I'm not sure we're going to like what we find there.
+E: CONT'D
+N: Cobb stares back at Ariadne. Saying nothing.
+C: ARIADNE
+D: This is not just about Fischer, it's about you. Tell me what happened to you and Mal. Trapped in Limbo.
+N: Cobb looks at her. Thinking it through.
+C: COBB
+D: We were on a job. Exploring dreams within dreams. But we didn't understand how your mind can turn hours into years. How you can get trapped. Trapped so deep that when you wash up on the shore of your subconscious...
+N: INSERT CUT: MAL LIES ON THE SAND, STARING UP AT A CLOUDLESS SKY, WAVES WASHING OVER HER...
+C: COBB
+D: You can lose track of what's real.
+C: ARIADNE
+D: How long were you stuck?
+N: Cobb pauses before he answers. Looks at Ariadne.
+C: COBB
+D: Fifty years.
+N: Ariadne stares at him, incredulous.
+C: ARIADNE
+D: How did you stand it?
+N: INSERT CUT: COBB AND MAL BUILD A SANDCASTLE ON THE BEACH...
+C: COBB
+D: We built. We created a whole world for ourselves...
+N: INSERT CUT: COBB AND MAL WALK THROUGH A DESERTED CITY.
+C: COBB
+D: It's not so bad at first, being gods. The problem is knowing that it's not real. It became impossible for me to live like that.
+C: ARIADNE
+D: But not for her?
+C: COBB
+D: She accepted it. At some point...
+T: INSERT CUT:
+S: INT. MAL'S CHILDHOOD HOME - DAY
+N: Mal opens a DOLL'S HOUSE. Inside is a SAFE. She opens it- it is empty. She pulls out her SPINNING TOP.
+C: COBB
+D: ...she'd decided to forget that our world wasn't real.
+E: V.O.
+N: Mal places the top inside the safe. LOCKS IT AWAY...
+S: INT. OFFICE, WAREHOUSE - CONTINUOUS
+C: ARIADNE
+D: And when you finally woke up?
+C: COBB
+D: To wake from that. From decades lived. To be old souls thrown back into youth. It was hard. At first Mal seemed okay. But I started to realize something was wrong. Finally she admitted it. This idea she was possessed by. This simple little idea that changed everything...
+C: ARIADNE
+D: What was it?
+C: COBB
+D: That our world was not real. No matter what I did, no matter what I said, she was convinced that we were still in a dream. That we needed to wake up again...
+S: INT. COBB AND MAL'S KITCHEN - DAY (FLASHBACK)
+N: Cobb is trying to calm Mal, who is hysterical.
+C: COBB
+D: That to get home we'd have to kill ourselves.
+E: V.O.
+S: INT. WORKSHOP - DAY
+N: Ariadne looks at Cobb, appalled.
+C: ARIADNE
+D: What about your children?
+N: Cobb has to look away.
+C: COBB
+D: She... she believed they weren't real. That our real children were waiting. Somewhere above...
+S: INT. COBB AND MAL'S KITCHEN - DAY (FLASHBACK)
+N: Mal shakes her head at Cobb as he USHERS the children out of the room, FACES UNSEEN-
+C: COBB
+D: Calm down, Mal-
+C: MAL
+D: They're projections, Dom. Your dreams. I'm their mother-don't you think I can tell the difference?
+N: Cobb closes the door- turns to her, eyes full of bitter tears.
+C: COBB
+D: If it's my dream then why can't I control it? Why can't I stop this?
+C: MAL
+D: You don't know you're dreaming.
+E: it's obvious
+C: COBB
+D: You keep telling me I am-
+C: MAL
+D: And you don't believe me!
+C: COBB
+D: She was certain. But she loved me too much to go without me. So she made a plan...
+E: V.O.
+S: INT. ELEGANT HOTEL CORRIDOR - NIGHT (FLASHBACK)
+N: Cobb walks along, checking door numbers against a key.
+C: COBB
+D: For our anniversary...
+E: V.O.
+S: INT. ELEGANT HOTEL SUITE - CONTINUOUS (FLASHBACK)
+N: Cobb enters the lavish suite. He notices the DISHEVELED BEDCLOTHES. He steps forwards- SMASH- he has tipped over a champagne glass with his foot... dinner for two is SPREAD ACROSS THE FLOOR. He looks at the DEBRIS, confused... next to the broken glass is a SPINNING TOP. He picks it up, studying it, thinking. He feels a draught, looks to the window. The CURTAIN BILLOWS.
+S: EXT. EXTERIOR ATRIUM - CONTINUOUS (FLASHBACK)
+N: Cobb looks out the window: Mal sits on the ledge of the opposite window. HAIR BLOWING. Feet dangling over the dizzyingly high atrium. She smiles.
+C: MAL
+D: Join me.
+C: COBB
+D: Mal, come back inside.
+C: MAL
+D: No. I'm going to jump. And you're coming with me.
+C: COBB
+D: No, I'm not. This is real-if you jump, you're not going to wake up, you're going to die. Let's go back inside and talk about this, please.
+C: MAL
+D: We've talked enough.
+N: She KICKS off a shoe and watches it DROP.
+C: MAL
+D: Come out onto the ledge or I'll jump right now.
+N: She means it. Cobb swings his legs out, sitting on the ledge opposite is wife. He looks down at the drop.
+C: MAL
+D: I'm asking you to take a leap of faith.
+C: COBB
+D: I can't do that, Mal. I can't leave our children.
+C: MAL
+D: If I go without you, they'll take them away, anyway.
+C: COBB
+D: What do you mean?
+C: MAL
+D: I filed a letter with our attorney. Explaining how I'm fearful for my safety, how you've threatened to kill me...
+N: Cobb looks back at the wrecked hotel suite, PANICKING...
+C: MAL
+D: I love you, Dom. I've freed you from the guilt of choosing to leave them. We're going home to our real children.
+E: CONT'D
+C: COBB
+D: Out children are here, Mal.
+N: Mal CLOSES HER EYES. Cobb looks for some way to reach her...
+C: MAL
+D: You're waiting for a train...
+C: COBB
+D: NO! MAL, NO, I CAN'T!
+C: MAL
+D: A train that will take you far away...
+C: COBB
+D: DON'T DO THIS!
+C: MAL
+D: You know where you hope this train will take you, you can't know for sure...
+C: COBB
+D: DON'T!
+C: MAL
+D: But it doesn't matter...
+C: COBB
+D: NO!
+C: MAL
+D: Because you'll be together...
+N: Mal SLIPS FORWARD INTO SPACE. Cobb SCREAMS after her. Then tries to bury his face in the wall...
+S: INT. OFFICE, WAREHOUSE - DAY
+N: Cobb stares as he remembers.
+C: COBB
+D: He letter to the authorities refuted all the claims about her sanity that she knew I'd make...
+S: INT. COBB AND MAL'S KITCHEN - DAY (FLASHBACK)
+N: Cobb stands with the Thin Man, who has a piece of paper.
+C: COBB
+D: She'd had herself declared sane by three different psychiatrists.
+E: V.O.
+N: Cobb hears a SHOUT- turns to the garden. James CROUCHES, Philippa joins him, examining the ground, FACES UNSEEN...
+C: COBB
+D: It was impossible for me to explain the nature of her madness...
+E: V.O. CONT'D
+N: The Thin Man thrusts the paper into Cobb's hand.
+C: THIN MAN
+D: Right now. Or never, Cobb.
+N: Cobb turns back to the window- about to call out- James and Philippa RUN OFF. Cobb turns from the window. Looks at the paper in his hand. It is an AIRPLANE TICKET.
+C: COBB
+D: So I ran. And I've been running ever since, trying to buy my way back to my family...
+E: V.O.
+S: INT. OFFICE, WAREHOUSE - DAY
+N: Cobb looks across at Ariadne.
+C: ARIADNE
+D: Psychiatrists judged her sane?
+C: COBB
+D: She was sane. She was just lost in the labyrinth.
+C: ARIADNE
+D: Then why should you blame yourself?
+C: COBB
+D: Because we were a family. And we had a life I would do anything to get back to now. But that reality wasn't enough for me then.
+C: ARIADNE
+D: It might have been your idea to push the limits, Cobb. But you're not responsible for the idea that destroyed her. The idea that her world wasn't real... that was her own idea from her own mind.
+N: Cobb says nothing.
+C: ARIADNE
+D: Your guilt defines her. Powers her. If we're going to succeed in this, you're going to have to forgive yourself, and you're going to have to confront her. But you don't have to do it alone.
+E: CONT'D
+C: COBB
+D: You don't have to do this for me-
+C: ARIADNE
+D: I'm doing it for the others. They don't know the risk they've taken coming in here with you.
+N: Cobb looks at the rooftop opposite, sees a SNIPER take up a position. Cobb shakes his head, frustrated.
+C: COBB
+D: We can't stay here. Arthur?!
+S: INT. BATHROOM, WAREHOUSE - CONTINUOUS
+N: Browning puts his hand on Fischer's shoulder.
+C: BROWNING
+D: These people are going to kill us if we don't give them the combination.
+C: FISCHER
+D: They won't, they'll try to ransom us-
+C: BROWNING
+D: I heard them-they're going to lock us in and run the can into the river.
+C: FISCHER
+D: What is in the safe?
+C: BROWNING
+D: Something for you. Maurice always said it was his most previous gift... a will.
+C: FISCHER
+D: Maurice's will is with Port and Dunn.
+C: BROWNING
+D: It's an alternate. It supersedes the other only if you want it to.
+C: FISCHER
+D: What does it say?
+C: BROWNING
+D: It splits all the component businesses of Fischer Morrow into individual companies, transferring ownership to the boards of those companies...
+C: FISCHER
+D: Leaving me nothing?
+C: BROWNING
+D: A basic living. Nothing more. The entire empire would cease to exist.
+C: FISCHER
+D: Destroy my own inheritance? Why would he suggest such a thing?
+C: BROWNING
+D: I don't know, Robert.
+N: Cobb OPENS the door. Arthur is behind him.
+C: COBB
+D: Come to your senses?
+C: FISCHER
+D: Let us go. I don't know the combination. Not consciously.
+N: Cobb considers this. Opens his phone. Pulls out his gun.
+C: COBB
+D: Let's try instinctively. I have someone standing in your father's office ready to tap in a combination.
+N: He holds the phone to Fischer's mouth.
+C: COBB
+D: First six numbers that come into your head. Right now.
+E: CONT'D
+C: FISCHER
+D: I have no idea-
+N: Cobb SWINGS the gun onto Browning-
+C: COBB
+D: RIGHT NOW!
+C: FISCHER
+D: Five, two, eight... four, nine, one.
+N: Cobb lowers his weapon. Listens to the phone. Shakes his head. Shuts the phone.
+C: COBB
+D: You'll have to do better. Bag `em.
+N: Arthur puts SACKS over their heads.
+S: INT. WAREHOUSE - CONTINUOUS
+N: Cobb and Arthur drag Fischer and Browning to the van-
+C: FISCHER
+D: We're worth much more to you alive...
+N: Arthur places Fischer on the back seat- uses a DROPPER to drop LIQUID onto Fischer's mask- his head SLUMPS FORWARDS. "Browning" yanks the sack from his head- it is now EAMES.
+C: EAMES
+D: His relationship with his father's much worse that we thought.
+E: excited
+C: ARTHUR
+D: That helps us?
+N: Arthur pulls a SNIPER RIFLE from a case by the van.
+C: COBB
+D: The stronger the issues, the more powerful the catharsis.
+N: Cobb motions for Yusuf to follow his upstairs.
+C: ARTHUR
+D: But how do you reconcile them if they're that estranged?
+C: EAMES
+D: I'm working on that.
+N: Arthur lines up a shot through the window-
+C: ARTHUR
+D: Well, work fast-Fischer's projections are closing in quick, we need to break out of here before we're totally boxed in...
+N: Arthur SHOOTS two snipers. Cobb and Yusuf gently load Saito into the van. He groans. Ariadne straps him in, checks his bandages. Arthur can't get the last sniper- he's too hidden behind a wall-
+C: EAMES
+D: Shouldn't be afraid to dream a little bigger, Arthur-
+N: Eames lines up a shot with a grenade launcher. Fires- the sniper EXPLODES into the air- Arthur looks at Eames.
+C: EAMES
+D: Shall we?
+E: CONT'D
+N: They climb into the van-
+S: INT./EXT. VAN ON RAINY STREETS - CONTINUOUS
+N: The van pulls out into the rain-drenched streets. Arthur opens the mechanism case and hands out tubes-
+C: COBB
+D: Shifting Fischer's antipathy from his father onto Browning should work.
+C: EAMES
+D: We need the imagery, the words...
+C: ARIADNE
+D: So you destroy his one positive relationship?
+C: COBB
+D: No. We repair his relationship with his father and expose his godfather's true nature.
+C: EAMES
+D: Hell, we should be charging Fischer as much as Saito.
+C: ARTHUR
+D: What about his security? It's going to get worse as we go deeper.
+C: COBB
+D: We bring in Mr. Charles.
+C: ARTHUR
+D: No.
+C: EAMES
+D: Who's Mr. Charles?
+C: ARTHUR
+D: A bad idea.
+C: COBB
+D: Arthur, the second we approach Fischer in that hotel, they're gonna mow us down-we run with Mr. Charles like on the Stein job.
+C: EAMES
+D: So you've done it before?
+C: ARTHUR
+D: Sure. But it didn't work. The subject realized he was dreaming and his subconscious tore us to pieces.
+N: Eames takes this in.
+C: EAMES
+D: You learned a lot, though. Right?
+C: COBB
+D: I'll need a decoy.
+E: to Eames
+C: EAMES
+D: No problem. How about a pretty young lady I've used before?
+C: COBB
+D: Fine-
+N: Cobb looks back: a second S.U.V. pulls out, tailing them.
+C: COBB
+D: I know you've got to stay ahead of them, but drive with kid gloves, okay? The world down there is going to be very unstable-
+E: CONT'D to Yusuf
+C: ARTHUR
+D: And don't make the jump too soon- that kick is our only way back, we have to be ready to catch it-
+C: YUSUF
+D: I'll use the music to let you know when it's coming, but the rest is up to you.
+N: Arthur puts the mechanism onto the front seat.
+C: YUSUF
+D: Everyone ready?
+E: CONT'D
+N: Nods all round.
+C: YUSUF
+D: Sweet dreams-
+E: CONT'D
+N: Yusuf hits a button and we-
+T: CUT TO:
+S: INT. HOTEL LOBBY BAR - SUNSET
+N: Fischer nurses a drink. Staring at the ice cracking.
+C: BLONDE
+D: Am I boring you?
+E: O.S.
+N: Fischer looks up. A beautiful BLONDE is next to him.
+C: BLONDE
+D: I was telling you my story. I guess it wasn't to your liking.
+E: CONT'D
+C: FISCHER
+D: I have a lot on my mind.
+N: Fischer looks around the bar. There are several STERN-LOOKING CHARACTERS paying him too much attention.
+S: INT. HOTEL LOBBY - CONTINUOUS
+N: Arthur and Ariadne sit at a table across the lobby. They spot Cobb moving across the lobby towards Fischer.
+C: ARTHUR
+D: And there goes Mr. Charles.
+C: ARIADNE
+D: Who or what, exactly, is Mr. Charles?
+C: ARTHUR
+D: It's a gambit designed to turn Fischer against his own subconscious.
+S: INT. HOTEL LOBBY BAR - CONTINUOUS
+N: Cobb approaches the bar, watched closely by Fischer's Sub- security.
+C: COBB
+D: Mr. Fishcer! Good to see you again. Rod Green, Marketing. And you must be...
+E: to Blonde
+C: BLONDE
+D: Leaving.
+N: She presses against Fischer as she slides off her stool and deposits a cocktail napkin in front of him.
+C: BLONDE
+D: In case you get bored.
+E: CONT'D
+N: Cobb watches her walk away. The Sub-security FOLLOWS her.
+C: COBB
+D: I think you just got blown off... unless her phone number really does have only six digits.
+N: Fischer glances at the napkin: "528-491."
+S: INT. HOTEL LOBBY - CONTINUOUS
+N: Arthur watches the Sub-security follow the Blonde.
+C: ARIADNE
+D: And why don't you approve?
+C: ARTHUR
+D: Because it involves telling the mark that he's dreaming. Which involves attracting a lot of attention to us.
+C: ARIADNE
+D: Didn't Cobb say never to do that?
+C: ARTHUR
+D: You must've noticed by now how much time Cobb spends doing things he says never to do.
+S: INT. HOTEL LOBBY BAR - CONTINUOUS
+N: Cobb turns to Fischer.
+C: COBB
+D: Strange way to make friends. Lifting your wallet, I mean.
+E: off look
+N: Fischer pats his pocket. Empty. He looks to the lobby where he sees the Sub-security trailing the Blonde.
+C: FISCHER
+D: Goddamn it. The wallet alone's worth-
+C: COBB
+D: Five hundred bucks. I know. Don't worry, my guys are on it.
+C: FISCHER
+D: Who did you say you were?
+N: Fischer looks at him, curious. Cobb plows on, confident-
+C: COBB
+D: I said I was Rod Green from Marketing-but I'm not. My name is Mr. Charles. I might seem familiar to you. I'm in charge of your security here.
+S: INT. HOTEL LOBBY - CONTINUOUS
+N: The Blonde hurries up to Saito, emerging from the elevator-
+C: BLONDE
+D: Mr. Saito, can I have a minute?
+N: She pushes him back into the elevator, closing the door as the Sub-security approaches...
+S: INT. ELEVATOR - CONTINUOUS
+N: The Blonde fondles Saito's lapels, getting close.
+C: SAITO
+D: I'm sorry, but...
+N: Saito glances over her shoulder to see, in the tunnel of infinite reflections created by the elevator's opposing mirrors, three reflections in, THE BLONDE IS EAMES. He winks.
+C: SAITO
+D: Very amusing, Mr. Eames.
+E: CONT'D pushing him away
+C: EAMES
+D: You look a bit perkier.
+N: A SHUDDER ripples through the elevator.
+C: SAITO
+D: Turbulence on the plane.
+C: EAMES
+D: Feels closer. That's Yusuf's driving.
+N: And we-
+T: CUT TO:
+S: INT./EXT. VAN ON RAINY DOWNTOWN STREETS - DAY
+N: Yusuf FIGHTS the wheel as the van CUTS DOWN AN ALLEY, BUMPING OVER POTHOLES and SMASHING TRASH CANS aside- THREE S.U.V.s IN FURIOUS PURSUIT. Yusuf looks in the rear view mirror, FRUSTRATED. He checks his WATCH, then checks the back: the SLEEPERS SHAKE with the impact and we-
+T: CUT TO:
+S: INT. HOTEL LOBBY BAR - NIGHT
+N: As a TREMOR echoes through the bar Fischer looks at Cobb trying to place him.
+C: FISCHER
+D: Security? You work for the hotel?
+C: COBB
+D: No. My specialty is subconscious security.
+C: FISCHER
+D: You're talking about dreams. You're talking about extraction.
+C: COBB
+D: Exactly. My job is to protect you...
+N: Behind Fischer a WAITER puts down a tray- tipping a champagne glass over- SMASH- Cobb NOTICES. Pauses, looks across the bar- HIS TWO CHILDREN ARE CROUCHED, BACKS TOWARDS US... Cobb looks around the bar, the patrons start to STARE at Cobb, suspicious- Cobb shifts back to Fischer-
+C: COBB
+D: My job is to protect you from any attempt to access your mind through your dreams.
+E: CONT'D
+N: Cobb regains his patter- the patrons lose interest...
+S: INT. ELEVATOR - CONTINUOUS
+N: Eames pulls out Fischer's wallet, moves to hand it to Saito, then PAUSES, opens it, leafs past the cast to find... The SNAPSHOT: young Robert holding his HOMEMADE PINWHEEL, his father blowing on it. The elevator doors open and Eames steps off. HANDS Saito the wallet.
+C: EAMES
+D: Get off at a different floor and keep moving. Dump the wallet, then meet me in the lobby. The security will try to track it down. We need to buy Cobb a little more time.
+N: The doors close. Saito puts the wallet in his pocket. He COUGHS- a deep, nasty cough.
+S: INT. HOTEL LOBBY BAR - CONTINUOUS
+N: Cobb looks over Fischer's shoulder to see a SUITED MAN watching him. Another MAN is walking in from the lobby.
+C: COBB
+D: You're not safe here.
+N: Cobb steps away from the bar. Fischer does not move.
+C: COBB
+D: Trust me. They're coming for you.
+E: CONT'D
+N: Fischer sizes him up, A CLAP OF THUNDER ECHOES, and we-
+T: CUT TO:
+S: INT./EXT. VAN ON RAINY DOWNTOWN STREETS - DAY
+N: GUNSHOTS BLAST out the rear and side windows of the van- a Security Man is leaning out of the lead S.U.V. With a SHOTGUN- WIND AND RAIN RIP THROUGH THE VAN- in the back, ARTHUR'S SLEEPING FACE IS WHIPPED BY THE SPRAY, AND WE-
+T: CUT TO:
+S: INT. HOTEL LOBBY BAR - SUNSET
+N: Fischer looks out the windows at sudden, HURRICANE-LIKE RAIN-
+C: COBB
+D: Strange weather, huh?
+N: A TREMOR runs through the bar- Cobb looks around-
+C: COBB
+D: You feel that?
+E: CONT'D
+S: INT. HOTEL LOBBY - CONTINUOUS
+N: Ariadne and Arthur watch the GUSTS OF WIND RATTLE the windows. Arthur sees HOTEL GUESTS staring out at the weather, PUZZLED. Several of them TURN TO LOOK DIRECTLY AT ARTHUR.
+C: ARIADNE
+D: What's happening?
+C: ARTHUR
+D: Cobb's drawing Fischer's attention to the strangeness of the dream. That's making his subconscious look for the dreamer. For me.
+N: And we-
+T: CUT TO:
+S: INT./EXT. VAN ON RAINY STREETS - DAY
+N: At the end of the alley- Yusuf THROWS the van into a HARD RIGHT TURN- we move into EXTREME SLOW MOTION... THE SLEEPERS IN THE BACK ARE DRAWN TO ONE SIDE OF THE VAN BY THE CENTRIFUGAL FORCE... and we-
+T: CUT TO:
+S: INT. HOTEL LOBBY BAR - CONTINUOUS
+N: The liquid in Fischer's drink RISES UP AGAINST ONE SIDE OF THE GLASS- Fischer notices, confused.
+C: COBB
+D: Very odd-the weather, the gravity...
+N: Fischer looks around the bar- it's as if THE ENTIRE ROOM IS SET AT A 45-DEGREE ANGLE- glasses SLIDING off tables...
+C: COBB
+D: But I can explain all this. You've actually been trained for this. Think of the strangeness of the weather, the shifts in gravity. None of this is real...
+E: CONT'D Fischer nods MORE
+C: COBB
+D: We're in a dream.
+E: CONT'D beat
+N: Fischer looks at the room around them. Back to Cobb. All through the bar, patrons turn to look at Cobb IN UNISON.
+C: COBB
+D: The simplest test of what I'm saying is for you to try and remember anything about the way you arrived in this hotel... okay?
+E: CONT'D
+N: Fischer stares at Cobb, trying to process this. All around them, people STARE at Cobb. Several get up as if to approach.
+C: COBB
+D: Breathe. Remember the training. Accept the fact that we're in a dream. That's why I'm here protecting you.
+E: CONT'D
+N: As Fischer considers this we-
+T: CUT TO:
+S: INT./EXT. VAN ON RAINY STREETS - DAY
+N: Yusuf STRAIGHTENS UP the van, RACING down the street, swerving through traffic and we-
+T: CUT TO:
+S: INT. HOTEL LOBBY BAR - EVENING
+N: The building gradually EASES BACK INTO ALIGNMENT-
+C: FISCHER
+D: So you... you're not real?
+N: The bar patrons start to ignore Cobb again.
+C: COBB
+D: No. I'm a projection of your subconscious. I was put in place to protect you in the event that extractors pulled you into a dream. I believe that's what has happened.
+N: Fischer takes this in. Then looks at the Security Men approaching across the crooked floor, he nods at Cobb-
+S: INT. HOTEL LOBBY - EVENING
+N: Cobb escorts Fischer across the lobby. As he does so, he walks past the two CHILDREN, backs to us- Cobb ignores them- The two Sub-security fall in behind. Cobb hurries Fischer up the stairs- then PUSHES him into-
+S: INT. HOTEL LOBBY BATHROOM - CONTINUOUS
+N: Fischer stumbles in- turns to Cobb, angry-
+C: FISCHER
+D: Hey-
+N: Cobb reaches into his jacket- the First Man BURSTS in- Cobb KICKS him to the ground- DRAWS his gun as the SECOND MAN comes through the door, moving towards Fischer- BLAM! Cobb BLASTS the Second Man in the back- TURNS and SHOOTS the First Man.
+C: FISCHER
+D: Jesus Christ! What are you doing?!
+E: CONT'D
+N: Cobb turns to Fischer, calm. Convincing.
+C: COBB
+D: Look at the gun in his hand.
+N: Fischer looks: the Second Man was holding a pistol. Cobb opens the First Man's jacket to show Fischer his holster and sidearm.
+C: COBB
+D: These men were sent to abduct you.
+E: CONT'D
+N: Cobb pulls out the gun and HANDS it to Fischer.
+C: COBB
+D: If I'm going to help you, I need you to be calm.
+E: CONT'D
+N: Fischer remembers something.
+C: FISCHER
+D: If this is a dream, I have to kill myself and wake up-
+N: Fischer raises the gun towards his head-
+C: COBB
+D: I wouldn't do that-they've probably got you sedated. If you pull that trigger, you might not wake up, you might drop into a lower dream state.
+E: MORE
+C: COBB
+D: Mr. Fischer, you know all this, you just have to remember it...
+E: CONT'D
+N: Fischer lowers his gun.
+S: INT. HOTEL CORRIDOR - CONTINUOUS
+N: Saito walks down the corridor, followed by a Security Man. Saito DUCKS around the corner, moves to a GARBAGE CHUTE and DROPS Fischer's WALLET into it. He SLIPS into the stairwell as the Security Man comes abreast of the chute and pauses.
+S: INT. HOTEL CORRIDOR - CONTINUOUS
+N: Arthur leads Ariadne to a particular room: 491.
+S: INT. ROOM 491 - CONTINUOUS
+N: Arthur leads Ariadne in. He opens the closet, opens the room safe, pulls our FOUR BRICKS OF PLASTIC EXPLOSIVE.
+C: ARTHUR
+D: So, if everything's correct, this room should be directly below 528.
+S: INT. HOTEL LOBBY BATHROOM - CONTINUOUS
+N: Cobb looks reassuringly at Fischer.
+C: COBB
+D: What do you remember from before this dream?
+C: FISCHER
+D: Rain... gunfire... Uncle Peter. Christ-we've been kidnapped.
+E: thinking looks up
+C: COBB
+D: Where were they holding you?
+C: FISCHER
+D: They had us... in the back of a van...
+C: COBB
+D: Your body's bouncing around in the back of a van right now-that explains the gravity shifts.
+C: FISCHER
+D: It was... to do with a safe... Christ, why's it so hard to remember?
+C: COBB
+D: It's like trying to remember a dream after you've woken up. It takes years of practice to do it easily. So, you and Browning have been pulled into this dream so they can steal something from your mind. What?
+C: FISCHER
+D: They wanted a combination to a safe... they demanded the first numbers to pop into my head.
+C: COBB
+D: That's them extracting a locator.
+C: FISCHER
+D: A locator?
+C: COBB
+D: A number from your own subconscious. It can be used any number of ways... This is a hotel. Room numbers. What was the number you gave them?
+E: thinking
+C: FISCHER
+D: 5, 2... something... it was a long number. 528... 528, 4 something.
+C: COBB
+D: Well, we know where to start. Fifth floor.
+E: opens phone into phone
+S: INT. ROOM 491 - CONTINUOUS
+N: Arthur hangs up the phone. He is standing on a chair, attaching the explosives to the ceiling.
+C: ARIADNE
+D: Do you use a timer?
+C: ARTHUR
+D: No, I have to judge it myself. Once you're all asleep up in room 528, I wait `til Yusuf starts his kick...
+C: ARIADNE
+D: How will you know?
+C: ARTHUR
+D: His music warns me it's coming, then the van hitting the barrier of the bridge should be unmistakable- that's when I blow the floor out from underneath us and we get a nice synchronized kick. Too soon, and we won't get pulled out; too late and I won't be able to drop us.
+C: ARIADNE
+D: Why not?
+C: ARTHUR
+D: The van will be in free fall. I can't drop us with no gravity.
+N: Arthur finishes setting the charges.
+S: INT. HOTEL LOBBY - CONTINUOUS
+N: Saito moves through the lobby. Browning is coming in the other direction. Saito assumes him to be Eames.
+C: SAITO
+D: I see you've changed.
+C: BROWNING
+D: I'm sorry?
+N: Eames comes up behind Browning, catching Saito's eye.
+C: SAITO
+D: I'm... I mistook you for a friend.
+C: BROWNING
+D: Good-looking fellow, I'm sure.
+N: Browning moves off. Saito approaches Eames.
+C: EAMES
+D: That's Fischer's projection of Browning. We'll keep an eye on how he behaves-
+C: SAITO
+D: Why?
+C: EAMES
+D: How he acts will tell us if Fischer's starting to suspect his motives the way we want him to.
+S: INT. HOTEL CORRIDOR, FIFTH FLOOR - MOMENTS LATER
+N: Cobb leads Fischer around a corner. Arthur and Ariadne are waiting in the corridor.
+C: COBB
+D: They work for me.
+N: Fischer starts looking at room numbers. Stops at 528. Cobb draws his gun, steps back from the door and KICKS it open.
+S: INT. ROOM 528 - CONTINUOUS
+N: Cobb JUMPS into the room, gun up. The room is empty. Arthur and Ariadne search the room. Saito and Eames arrive. Eames shuts the door. Arthur FINDS something-
+C: ARTHUR
+D: Mr. Charles!
+N: Arthur holds up a MECHANISM CASE. Cobb shows it to Fischer.
+C: COBB
+D: You know what this is?
+N: Fischer's eyes roam over the dials and plungers.
+C: FISCHER
+D: I think so. But I don't understand.
+C: COBB
+D: They were going to put you under.
+C: FISCHER
+D: I'm already under.
+C: COBB
+D: Under again.
+C: FISCHER
+D: A dream within a dream?
+C: ARTHUR
+D: Shhhh!
+N: Arthur is at the door. Someone is there. A key goes into the lock- the door starts to open- Arthur REACHES OVER and GRABS the person entering, THROWS THEM TO THE FLOOR- puts his gun in their face. IT IS BROWNING. Fischer stares, disbelieving, at his own godfather.
+C: FISCHER
+D: Uncle Peter. What's going on?
+N: Cobb pulls the key from Browning's hand: ROOM 528.
+C: COBB
+D: You said you were kidnapped together?
+C: FISCHER
+D: Not exactly, they already had him. They'd been torturing him...
+C: COBB
+D: You saw them torture him?
+N: Fischer shakes his head. Looks at Browning. Thinking.
+C: FISCHER
+D: The kidnappers are working for you.
+C: BROWNING
+D: No, Robert-
+C: FISCHER
+D: You're trying to get that safe open. To get the alternate will.
+N: Browning looks up at Fischer.
+C: BROWNING
+D: Fischer Morrow's been my entire life. I can't let you destroy it.
+C: FISCHER
+D: I'm not going to throw away my inheritance. Why would I?
+C: BROWNING
+D: I couldn't take the chance of you rising to your father's final taunt.
+C: FISCHER
+D: What taunt?
+C: BROWNING
+D: That will. I'm sorry, Robert, but it's his final insult. A challenge to build something for yourself. He's telling you that you aren't worthy of his achievements.
+N: Fischer takes this in. Devastated.
+C: FISCHER
+D: That he was "disappointed?"
+C: BROWNING
+D: I'm so sorry. But he was wrong. You'll make his company even greater than he ever could.
+C: COBB
+D: Your godfather's lying, Robert.
+N: Fischer turns to Cobb.
+C: FISCHER
+D: How do you know?
+C: COBB
+D: It's what I do. He's hiding something.
+N: Cobb looks at Browning.
+C: COBB
+D: Let's find out what.
+N: Cobb nods at Arthur, who starts unpacking the mechanism. Browning watches. Silent.
+C: COBB
+D: Let's do to him what he was going to do to you.
+N: Cobb rolls up his sleeve. Nods at Fischer to do the same.
+C: COBB
+D: We'll penetrate his subconscious and find out what he doesn't want you to know.
+N: Fischer looks Cobb in the eye. Decides- rolls up his sleeve, offering his bare arm. The team run tubes to each other- Arthur injects Fischer, whose head slumps.
+C: ARTHUR
+D: He's out.
+C: ARIADNE
+D: Wait, Cobb-I'm lost. Whose subconscious are we going into?
+C: COBB
+D: Fischer's. I told him it was Browning's so he'd come with us as part of our team.
+C: ARTHUR
+D: He's going to help us break into his own subconscious.
+E: impressed
+C: COBB
+D: That's the idea. He'll think that his security is Browning's and fight them to learn the truth about his father.
+N: Arthur hits buttons on the mechanism. The team goes out one by one. Cobb is last.
+C: COBB
+D: Fischer's subconscious is going to run you down hard.
+C: ARTHUR
+D: I'll lead them on a merry chase.
+C: COBB
+D: Be back in time for the kick.
+C: ARTHUR
+D: I'm on it.
+N: Cobb is no longer listening- he stares at the net curtains, BILLOWING like those in Mal's suite- a GLIMPSE of someone (Mal?) As the screen goes WHITE, and we are-
+S: EXT. SNOW-COVERED MOUNTAINS - DAY
+N: CLOSE ON Cobb's face, staring. Fixed.
+C: ARIADNE
+D: Cobb? Cobb?
+E: O.S.
+N: Ariadne is beside him. They stand on a cliff, dressed in white snowsuits, carrying white-painted weapons like WWII commandos. Cobb checks his SNIPER RIFLE, examines their objective: a massive FORTIFIED MEDICAL FACILITY a mile below.
+C: ARIADNE
+D: What's down there?
+C: COBB
+D: Hopefully, the truth we want Fischer to learn.
+C: ARIADNE
+D: I meant what's down there for you?
+N: Cobb turns to her. Eames, Saito and Fischer arrive, SKIING down from the hill above. Cobb pulls Eames out of Fischer's earshot.
+C: COBB
+D: You're the dreamer. I need you to draw the security away from the complex.
+C: EAMES
+D: Then who guides Fischer in? You?
+C: COBB
+D: If I know the route... we could be compromised.
+N: Eames looks as Cobb, uneasy. Ariadne comes over.
+C: ARIADNE
+D: I designed the place.
+C: COBB
+D: No. You're with me.
+C: SAITO
+D: I could do it.
+E: O.S.
+N: They turn to Saito. Saito shrugs at Eames. Eames smiles.
+C: COBB
+D: Eames, brief Saito on the route into the complex. What we're looking for is going to be in the most heavily fortified section. That north tower.
+N: Cobb moves to Fischer. Saito COUGHS. SPITS. Eames sees BLOOD on the snow. Looks at Saito.
+C: COBB
+D: Mr. Fischer, you're going in with Mr. Saito.
+C: FISCHER
+D: You're not coming in?
+C: COBB
+D: You have to do this on your own. You have to get in there, break into your godfather's mind and find out the truth about your father.
+N: Cobb taps Fischer's radio mike.
+C: COBB
+D: Keep this live at all times. I'll be listening in, covering you. The windows on the upper floors are big enough that I can cover you from that south tower.
+E: holds up the sniper rifle
+N: Cobb slips into his skis, shoulders his rifle.
+T: CUT TO:
+S: INT. ROOM 528 - NIGHT
+N: Arthur checks the mechanism. He hears LOW BOOMS like thunder. He checks his watch- THE SECOND HAND CRAWLS FORWARDS. With a last look at the sleepers, he heads out into the corridor...
+S: INT./EXT. VAN ON RAINY DOWNTOWN STREETS - DAY
+N: A GUNSHOT slams into the van as Yusuf DRIVES- he glances back to see a MOTORCYCLE pulling up behind him, the REAR PASSENGER FIRING A SHOTGUN- the bike pulls alongside Yusuf's window as the passenger RELOADS- Yusuf YANKS the wheel TOWARDS the bike, bringing the shotgun barrel into the cab so he can GRAB it, spin the wheel back- PULLING the passenger from the back of the bike... Yusuf turns a corner, heading into a disused MARKET-
+S: INT. HOTEL CORRIDOR - CONTINUOUS
+N: Arthur walks towards the elevator. It OPENS- a SECURITY MAN emerges, heading right for him. Arthur takes a TURN, speeding up. The BOOMS are louder, and we-
+T: CUT TO:
+S: INT./EXT. VAN ON RAINY DOWNTOWN STREETS - DAY
+N: The bike crosses behind the van, catching up again as the driver pulls a handgun and starts BLASTING. Up ahead, an S.U.V. sits in a side road, lining up to head off the van- the SECURITY MAN driving the S.U.V. guns it, as the bike creeps up on the other side of the van- Yusuf HITS THE BRAKES, forcing the bike out into the path of the S.U.V., tossing the rider like a rag doll- Heading out of the market, the van races onto a FREEWAY ON RAMP, approaching the BRIDGE. An S.U.V. SMASHES into the van's side, FORCING it up against a CRASH BARRIER... the van starts to SLOWLY TILT OVER THE BARRIER as the S.U.V. PUSHES-
+T: CUT TO:
+S: INT. HOTEL CORRIDOR - NIGHT
+N: As Arthur hurries down the corridor, the corridor starts to TILT, and Arthur is forced to run UP ONTO THE WALL- he rounds a corner- STRAIGHT INTO another Security Man- Arthur HEAD BUTTS him and they STRUGGLE- as they struggle, the corridor SPINS around, THROWING THEM UP ONTO THE WALLS, THE CEILING- as wall becomes floor they DROP through a door into-
+S: INT. HOTEL ROOM - CONTINUOUS
+N: The fight continues all over the spinning room- and we-
+T: CUT TO:
+S: INT./EXT. VAN ON RAINY OFF RAMP NEAR BRIDGE - DAY
+N: SLEEPING ARTHUR BOUNCES around as the van TILTS, SCRAPING along the barrier- the van CLEARS THE END OF THE BARRIER AND ROLLS DOWN THE EMBANKMENT, and we-
+T: CUT TO:
+S: INT. HOTEL ROOM - NIGHT
+N: Arthur and the Security Man DROP to the floor, Arthur on top. Arthur gets up- heads to the stairwell.
+S: INT./EXT. VAN ON RAINY STREETS NEAR BRIDGE - DAY
+N: The van SETTLES with a thump. Yusuf BREATHES hard. Then SMILES as he realizes he is in one piece. A RINGING BELL up ahead makes him look up to the bridge, where the barriers are starting to come down. Yusuf checks his watch-
+C: YUSUF
+D: Bugger.
+N: Yusuf hits the gas, heading for the bridge. An S.U.V. lines up behind him, trying to catch up before the van crosses the barrier onto the bridge- The van JUST MAKES IT- the S.U.V. behind RIPS its read axle off, SCRAPING to a halt on the rising section. The Security Man inside starts FIRING on the van...
+S: INT. HOTEL STAIRWELL - CONTINUOUS
+N: Arthur RACES down the steps- OPENS the door to the fourth floor- spots SECURITY MEN outside room 491.
+C: ARTHUR
+D: Hey!
+N: They TURN- he DARTS back into the stairwell- RACES down the stairs- the Security Men follow- they start SHOOTING, and we-
+T: CUT TO:
+S: EXT. SNOW-COVERED MOUNTAINS - DAY
+N: Eames SKIS down within sight of the hospital complex. He reaches into his pack and lets off a FLARE.
+S: EXT. HOSPITAL COMPLEX - CONTINUOUS
+N: Security Men on the ramparts spot the flare and send PATROLS out on skis and SNOWMOBILES to investigate.
+S: EXT. SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Eames watches them close in, then launches himself down the mountain, STREAKING across the icy slope, and we-
+T: CUT TO:
+S: INT./EXT. VAN ON RAINY RISING BRIDGE - DAY
+N: Yusuf PULLS FORWARD, looking over his shoulder to line up a BACKWARDS RUN at the edge. He DUCKS as vicious FIRE from the S.U.V. HAMMERS the vehicle. He looks at his watch. The SECOND HAND TICKING SLOWLY...
+C: YUSUF
+D: Sod it. I hope your ready.
+N: He grabs an MP3 player and reaches into the back to place HEADPHONES on sleeping Arthur's head. As he does so, he notices Saito's bandage BLEEDING THROUGH. Yusuf hits PLAY- Edith Piaf's "Non, je ne regrette rien" starts up and we-
+T: CUT TO:
+S: INT. HOTEL STAIRWELL - NIGHT
+N: Arthur STOPS, hearing something- MASSIVE LOW-END MUSICAL TONES- he looks up PANICKED-
+C: ARTHUR
+D: No, Yusuf. Too soon!
+N: SHOTS slam into the stairs around him and we-
+T: CUT TO:
+S: EXT. SNOW-COVERED MOUNTAINS - DAY
+N: Cobb and Ariadne make their way down towards the complex.
+C: EAMES
+D: Cobb? Are you hearing that?
+E: OVER RADIO
+N: Cobb listens. The wind sounds unusually LOW.
+S: EXT. FOREST, SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Eames is hidden at the base of some trees, whispering as a patrol passes beneath his position.
+C: EAMES
+D: I noticed it twenty minutes ago-at first I thought it was just wind...
+S: EXT. SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Cobb is listening intently. The "wind" changes pitch.
+C: COBB
+D: No, it's music. Dammit.
+C: EAMES
+D: What do we do?
+E: OVER RADIO
+C: COBB
+D: We move fast. Saito, did you copy?
+S: EXT. MOUNTAINS, THE OTHER SIDE OF THE COMPLEX - CONTINUOUS
+N: Saito and Fischer CLIMB down a CLIFF FACE above the complex-
+C: SAITO
+D: We're going as fast as we can.
+S: EXT. SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Ariadne looks at Cobb, concerned.
+C: ARIADNE
+D: How long do we have?
+C: COBB
+D: Yusuf's about ten seconds from the jump, which gives Arthur about three minutes, which gives us about-
+C: ARIADNE
+D: Sixty minutes.
+C: COBB
+D: The route you gave them, can they do it in under an hour?
+C: ARIADNE
+D: I don't think so. They've still got to climb down to the middle terrace.
+C: COBB
+D: They need a new route-a direct route.
+C: ARIADNE
+D: The building's designed as a labyrinth.
+C: COBB
+D: There must be access routes that cut through the maze. Eames?
+E: into radio
+S: EXT. FOREST, SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Eames cannot answer- he SLALOMS through the forest, Sub- security in hot pursuit, bullets smashing into the trunks...
+S: EXT. SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Cobb turns to Ariadne.
+C: COBB
+D: Did Eames add any features?
+C: ARIADNE
+D: Yes.
+C: COBB
+D: What did he add?
+N: Ariadne looks at Cobb.
+C: ARIADNE
+D: I shouldn't tell you. If Mal-
+C: COBB
+D: There's no time-what did he add?
+C: ARIADNE
+D: Utility closets, trap doors...
+C: COBB
+D: What about service features? Did he add any large pipes or-
+C: ARIADNE
+D: Ducts. He added an air duct system- it doesn't follow the maze. They can use it to go straight from the outer walls to the upper tower.
+C: COBB
+D: Explain it to them.
+C: ARIADNE
+D: Saito?
+E: into radio
+S: EXT. CLIFF FACE BEHIND COMPLEX - CONTINUOUS
+N: Saito is using a hammer to tap in a belay.
+C: SAITO
+D: Go ahead.
+N: And we-
+T: CUT TO:
+S: INT./EXT. VAN ON RAINY RAISED BRIDGE - DAY
+N: Yusuf looks at the Security Man in the S.U.V., gives him the finger and hits the GAS- RACING BACKWARDS at the barrier... and we-
+T: CUT TO:
+S: INT. HOTEL STAIRWAY - NIGHT
+N: Arthur RUNS UP the stairs, gun in hand- rounds a corner and- IMPOSSIBLY- arrives behind the Security Man, who looks at him, CONFUSED, then looks down to realize he is now at the edge of a dangerous drop- Arthur shrugs.
+C: ARTHUR
+D: Paradox.
+N: Arthur PUSHES him over the edge- he falls- Arthur races up to the fourth floor- throws open the door- and we-
+T: CUT TO:
+S: INT./EXT. VAN ON RAINY RAISED BRIDGE - DAY
+N: In SLOW MOTION- the van SMASHES THROUGH THE CONCRETE BARRIER- and we-
+T: CUT TO:
+S: INT. HOTEL CORRIDOR - NIGHT
+N: Arthur is SPRINTING down the corridor when a TREMENDOUS CRASH sends him FLYING into the air- and we-
+T: CUT TO:
+S: EXT. SNOW-COVERED MOUNTAINS - DAY
+N: A MASSIVE RUMBLE prompts Cobb to look across the valley-
+S: EXT. FOREST, SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Eames shoots out of the trees, then FALLS to the snow as he sees a great CRACKING up ahead- the SLOPE IS FALLING AWAY IN AN AVALANCHE-
+S: EXT. CLIFF FACE BEHIND COMPLEX - CONTINUOUS
+N: Saito hears the RUMBLE above them. He looks down, Fischer is below, near the bottom of the sheer face-
+C: SAITO
+D: Look out!
+N: Saito CUTS the rope- they FALL- HIT the icy face and SLIDE down the slope, clearing the path of the avalanche- and we-
+T: CUT TO:
+S: INT./EXT. VAN - DAY
+N: In EXTREME SLOW MOTION, the van emerges from the concrete balustrade and starts FALLING- and we-
+T: CUT TO:
+S: INT. HOTEL CORRIDOR - NIGHT
+N: Arthur is still FLYING through the corridor, NOT LANDING- GRAVITY HAS DISAPPEARED... he scrambles for a handhold, GRABBING a sconce- and we-
+T: CUT TO:
+S: EXT. SNOW-COVERED MOUNTAINS - DAY
+N: Cobb watches the avalanche cloud slide past the complex.
+C: ARIADNE
+D: What was that?
+C: COBB
+D: The kick.
+C: EAMES
+D: Cobb? Did we miss it?
+E: OVER RADIO
+C: COBB
+D: Yeah, we missed it.
+S: EXT. FOREST, SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Eames is lying on the snow.
+C: EAMES
+D: What the hell do we do now?
+C: COBB
+D: Finish the job before the next kick.
+E: OVER RADIO
+C: EAMES
+D: What next kick?
+S: EXT. SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Cobb looks at Ariadne as he talks into the radio.
+C: COBB
+D: When the van hits the water. I figure Arthur's got a couple minutes and we've got about twenty.
+N: Cobb and Ariadne MOVE towards the base of the complex.
+S: EXT. HOSPITAL COMPLEX - CONTINUOUS
+N: Saito and Fischer RUN around the base of the building. They find a large EXHAUST PORT. Lay a charge on the GRILL. They blow the charge. Climb into the open vent.
+S: INT./EXT. VAN - DAY
+N: In EXTREME SLOW MOTION, the van seems SUSPENDED IN MID-AIR TEN STORIES ABOVE THE RIVER... and we-
+T: CUT TO:
+S: INT. HOTEL CORRIDOR - NIGHT
+N: In ZERO GRAVITY, Arthur pulls himself to the door of 491, opens it. He looks at the charges planted on the ceiling.
+C: ARTHUR
+D: How the hell do I drop you?
+N: He PULLS the charges from the ceiling. Hurrying. And we-
+T: CUT TO:
+S: INT. DUCT SYSTEM, HOSPITAL COMPLEX - CONTINUOUS
+N: Saito and Fischer hurry through the duct system. Saito is falling behind, coughing up blood.
+S: EXT. UPPER TERRACE, HOSPITAL COMPLEX - CONTINUOUS
+N: Cobb GRABS a Security Guard from behind, strangling him unconscious. He beckons to Ariadne, covering her as she runs towards him. They enter the base of the south tower.
+S: INT. TOP ROOM, SOUTH TOWER, HOSPITAL COMPLEX - CONTINUOUS
+N: A guard is manning the tower. Cobb and Ariadne enter- Cobb SHOOTS the guard and moves to the window.
+C: ARIADNE
+D: That's the antechamber outside the strongroom.
+E: she points
+N: Cobb looks at the large windows of the antechamber.
+C: COBB
+D: What about the strongroom? Doesn't it have any windows?
+C: ARIADNE
+D: Wouldn't be very strong if it did. Look, if you wanted to design it yourself-
+E: off look
+C: COBB
+D: It's fine. Better hope that we like what Fischer finds in there.
+N: Cobb sets up his sniper rifle. Through the scope he can see three guards on the balcony outside the chamber. Three more inside. Cobb casually picks them off with his rifle. Ariadne watches through binoculars, appalled.
+C: ARIADNE
+D: These projections, they're part of his subconscious?
+C: COBB
+D: Yeah.
+C: ARIADNE
+D: Are you destroying those parts of his mind?
+C: COBB
+D: No, of course not. They're just projections.
+C: EAMES
+D: Cobb? Something's wrong?
+E: OVER RADIO
+S: EXT. FOREST, SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Eames is watching the patrols HEAD BACK towards the complex.
+C: EAMES
+D: They're heading your way. Like they know something.
+S: INT. TOP ROOM, SOUTH TOWER, HOSPITAL COMPLEX - CONTINUOUS
+N: Cobb hears this. Concerned.
+C: COBB
+D: Buy us some time.
+C: EAMES
+D: On my way.
+E: OVER RADIO
+S: EXT. FOREST, SNOW-COVERED MOUNTAINS - CONTINUOUS
+N: Eames TAKES OFF towards the base of the complex. And we=
+T: CUT TO:
+S: INT. ROOM 528 - NIGHT
+N: Arthur FLOATS into the room. The SLEEPERS are floating, loosely connected by their tubes. Arthur looks at them, MIND RACING. He PULLS Cobb towards Eames, and we-
+T: CUT TO:
+S: INT. DUCT SYSTEM, HOSPITAL COMPLEX - DAY
+N: Saito and Fischer approach the grate covering the exit to the anteroom. Saito SLUMPS to the floor of the duct, pulls out his radio. Fischer looks at him- he is PALE, SHIVERING. Fischer takes the radio, WHISPERS into it.
+C: FISCHER
+D: We're here. Are we clear to proceed?
+E: into radio
+S: INT. TOP ROOM, SOUTH TOWER, HOSPITAL COMPLEC - CONTINUOUS
+N: Cobb SCANS the anteroom through the scope-it looks clear.
+C: COBB
+D: You're clear, but hurry-there's an army headed your way...
+N: Ariadne watches the patrols approaching the complex...
+S: INT. DUCT SYSTEM, HOSPITAL COMPLEX - CONTINUOUS
+N: The SQUELCH from the radio is too loud- Fischer GRABS it and turns the volume to zero as he starts to remove the grate...
+S: EXT. BASE OF THE HOPISTAL COMPLEX - CONTINUOUS
+N: Eames is setting MINES along the LOWEST WALL of the structure. He moves carefully-there is a SHEER DROP below the wall...
+S: INT. TOP ROOM, SOUTH TOWER, HOSPITAL COMPLEX - CONTINUOUS
+N: Cobb SPOTS something through his scope. Something above the main windows, glimpsed through the side of the skylight.
+C: COBB
+D: Shit. There's someone else in there.
+N: Cobb prepares to fire. Ariadne GRABS the radio-
+C: ARIADNE
+D: Fischer, stop! It's a trap!-
+S: INT. DUCT SYSTEM, HOSPITAL COMPLEX - CONTINUOUS
+N: Fischer does not see the flashing light on his radio as he carefully lifts the grate. He motions for Saito to stay...
+S: INT. TOP ROOM, SOUTH TOWER, HOSPITAL COMPLEX - CONTINUOUS
+N: Cobb TENSES to fire.
+C: COBB
+D: Come on... a little lower... a little-
+N: COBB FREEZES- IT IS MAL IN HIS SIGHTS. Ariadne puts up her binoculars. Spots Mal. Fischer is climbing out of the vent...
+C: ARIADNE
+D: Cobb, that's not really her-
+N: Cobb turns to her-
+C: COBB
+D: How can you know that?
+S: INT. ANTECHAMBER - CONTINUOUS
+N: Fischer moves into the antechamber, cautious-
+C: FISCHER
+D: I'm in.
+N: Fischer turns up the volume-
+C: ARIADNE
+D: Fischer, look out!-
+E: OVER RADIO
+N: Mal DROPS gracefully to the floor behind him-
+C: MAL
+D: Hello.
+S: INT. TOP ROOM, SOUTH TOWER, HOSPITAL COMPLEX - CONTINUOUS
+N: Cobb looks at Ariadne-
+C: ARIADNE
+D: Cobb, she's just a projection. Fischer... he's real.
+N: Cobb thinks. Nods, TURNS back to the scope- too late- MAL SHOOTS FISCHER- Cobb reflexively pulls the trigger- Mal GOES DOWN- Cobb steps back from the scope, STUNNED.
+C: ARIADNE
+D: Eames? Get to the anteroom now!
+N: They run for the door.
+S: INT. DUCT SYSTEM, HOSPITAL COMPLEX - CONTINUOUS
+N: Saito STARTS as he hears the shot. He starts edging forwards, clutching his belly. And we-
+T: CUT TO:
+S: INT. ROOM 528 - NIGHT
+N: The sleepers are floating in a rough stack, top-and-tailed. Arthur pulls the bedding from the bed and uses the sheet to bind the sleepers together. And we-
+T: CUT TO:
+S: INT./EXT. VAN - DAY
+N: In EXTREME SLOW MOTION, the van CREEPS DOWNWARDS, still high above the river... and we-
+T: CUT TO:
+S: INT. HOTEL CORRIDOR - NIGHT
+N: Arthur PUSHES the floating stack of sleepers to the elevator. He hits the button- the doors open- he pushes them in- GRABS the charges- climbs through the hatch in the ceiling and we-
+T: CUT TO:
+S: INT. DUCT SYSTEM, HOSPITAL COMPLEX - DAY
+N: Eames steps over Saito, who looks up at him with DYING eyes-
+S: INT. ANTECHAMBER, HOSPITAL CORRIDOR - DAY
+N: Eames jumps out of the vent to find Cobb and Ariadne standing over the bodies of Fischer and Mal.
+C: EAMES
+D: What happened?
+C: ARIADNE
+D: Mal killed Fischer-
+C: COBB
+D: I wouldn't shoot her.
+N: Eames grabs a defibrillator from the wall and pulls Fischer's jacket open-
+C: COBB
+D: It won't do any good-
+N: Eames SHOCKS Fischer's chest...
+C: COBB
+D: Even if you could revive his body, his mind's trapped down there. It's over.
+N: Eames listens for a pulse. Looks up at Cobb.
+C: EAMES
+D: So that it, then? We failed.
+C: COBB
+D: I'm sorry.
+C: EAMES
+D: It's you who doesn't get back to your family.
+N: Eames looks down at Fischer. Then over to the double doors.
+C: EAMES
+D: I wanted to know what was going to happen in there. I think we had this one.
+C: ARIADNE
+D: There's still a way: We follow Fischer down-
+N: They look at her.
+C: EAMES
+D: We're almost out of time-
+C: ARIADNE
+D: Down there they'll be enough time. We'll find him-soon as you hear Arthur's music start, you use the defibrillator to revive him-we give him his own early kick from below.
+E: MORE
+C: ARIADNE
+D: Get him in there- Then, as the music ends you blow the hospital and we all ride the kick back up through the layers.
+E: CONT'D points to doors
+N: Eames looks at her, then to Cobb.
+C: EAMES
+D: Okay, Saito can hold them off while I plant the rest of the charges.
+C: COBB
+D: Saito's not going to last, Eames.
+C: ARIADNE
+D: We have to try!
+C: EAMES
+D: Go for it, but I'm taking the kick whether you're back or not...
+N: Eames pulls the mechanism from his pack. Offers it to Ariadne. Cobb watches. Silent. Ariadne pulls out the tubes-
+C: ARIADNE
+D: Can I trust you to do what's needed? Mal's down there-
+C: COBB
+D: And I can find her. She'll have Fischer.
+C: ARIADNE
+D: How do you know?
+C: COBB
+D: She wants me to come after him. She wants me back down there with her.
+N: Cobb rolls up his sleeve. Ariadne rolls up her own sleeve. Eames NODS. Cobb and Ariadne lie down. Eames hits the button- WATER. BUBBLES. DROWNING. And we are-
+S: EXT. COAST (LIMBO) - DAY
+N: Ariadne lies in the SURF, STARING up at a CLOUDLESS SKY. A tremendous BOOM prompts her to look around her- URBAN BUILDINGS PILED right down to the water. The buildings are DECAYING, falling into the ocean like a GLACIER calving. Cobb WADES towards her through the shallow water. Ariadne looks up at the crumbling city around them.
+C: ARIADNE
+D: This is your world?
+C: COBB
+D: It was. And this is where she'll be.
+N: And we-
+T: CUT TO:
+S: INT. ELEVATOR SHAFT - DAY
+N: Arthur floats on top of the elevator, planting small charges on the EMERGENCY BRAKES and CABLE. He sets them, GRABS the other explosives, then PUSHES AWAY, shooting up the shaft. As he hits the DETONATOR, BLASTING the braking and safety systems of the elevator, we move into SLOW MOTION, the fireballs FLAMING OUT in graceful licks and we-
+T: DISSOLVE TO:
+S: INT. ANTECHAMBER - DAY
+N: Eames RACES around, full speed- getting the defibrillator paddles- laying them by Fischer's body- he runs into the duct- pulls Saito up to a seated position and hands him a handgun.
+C: EAMES
+D: Come on, Saito. I need you to cover Fischer while I plant the charges.
+N: Saito nods weakly, tries to hold the gun. Eames moves to the window- pulls his machine gun off- checks its load. Ready. He watches the security patrols climb up the outer walls... Eames lays down a HAIL of covering fire- then heads outside-
+S: EXT. HOSPITAL COMPLEX - CONTINUOUS
+N: Eames races along the upper terrace dodging fire- BULLETS SHATTER a window behind him and we move into SLOW MOTION, the glass CASCADING GENTLY and we-
+T: DISSOLVE TO:
+S: EXT. COAST (LIMBO)- DAY
+N: Cobb and Ariadne climb out of the waves, full speed. They move into the shadow of the tall, crumbling buildings. The streets are eerily DESERTED. As they move further in, the buildings become NEWER, different. Ariadne marvels at the extraordinary collection of buildings- every architectural style imaginable in waves of FAILED UTOPIAS.
+C: ARIADNE
+D: You built all this?
+C: COBB
+D: We both did.
+C: ARIADNE
+D: It's incredible.
+C: COBB
+D: We built for years. Then, when that got stale, we started in on the memories.
+N: A child's SHOUT echoes through the deserted canyons, prompting Cobb to look down a side street: a LITTLE BLONDE BOY crouched, his back to us. A LITTLE BLONDE GIRL joins the boy, and, as Cobb turns down the street, they run off. Cobb and Ariadne emerge into a peculiar SQUARE lined with an eclectic mix of buildings, from APARTMENT BLOCKS to HOUSES.
+C: COBB
+D: This is our neighborhood.
+C: ARIADNE
+D: From what city?
+E: confused
+C: COBB
+D: No. Our neighborhood. That was our first apartment... then we moved to that building... we got that small house when Mal became pregnant.
+E: pointing
+C: ARIADNE
+D: You reconstructed them all from memory?
+C: COBB
+D: We had time.
+N: Cobb pauses in front of a French country house. Staring.
+C: ARIADNE
+D: What's that?
+C: COBB
+D: The house Mal grew up in.
+C: ARIADNE
+D: Will she be in there?
+C: COBB
+D: No. Come on-
+N: Cobb leads Ariadne to the entrance of a glass skyscraper.
+S: INT. SKYSCRAPER LOBBY (LIMBO) - CONTINUOUS
+N: Cobb leads Ariadne across the gleaming lobby to the elevators.
+C: COBB
+D: We both wanted a house, but we both loved skyscrapers. In the real world we had to choose. Not here.
+S: INT. SKYSCRAPER ELEVATOR (LIMBO) - CONTINUOUS
+N: Cobb pulls out his handgun, and a ziplock bag full of bullets.
+C: ARIADNE
+D: How do we send Fischer back?
+C: COBB
+D: We need some kind of kick.
+C: ARIADNE
+D: What?
+C: COBB
+D: I'll improvise.
+N: Cobb COCKS his weapon, and the ELEVATOR STOPS. The doors open. Ariadne moves to exit, Cobb stops her.
+C: COBB
+D: There's something you have to understand about me. About inception. You see, an idea is like a virus...
+N: Cobb leads her out of the lift...
+S: INT. PENTHOUSE (LIMBO) - CONTINUOUS
+N: Cobb and Ariadne step off the lift and into the incongruous interior of a craftsman house. They cautiously move down the corridor towards the back of the house...
+C: COBB
+D: Resilient... Highly contagious, and an idea can grow. The smallest seed of an idea can grow to define or destroy your world...
+E: turns to Ariadne
+N: Cobb is staring into the kitchen. Mal is sitting at the table, back to them, staring out at the porch- the TOWERS of Limbo stretching off behind it.
+C: MAL
+D: The smallest idea, such as... "Your world is not real."
+N: Cobb hands Ariadne his gun and moves towards Mal.
+C: MAL
+D: A simple little thought that changes everything...
+N: Ariadne watches as Cobb sits down beside Mal. And we-
+T: CUT TO:
+S: INT. ELEVATOR SHAFT - NIGHT
+N: Arthur FLIES back down the shaft to the top of the elevator, SQUEEZES past the car to the bottom and starts to set the MAIN CHARGES ACROSS THE BOTTOM OF THE CAR, and we-
+T: CUT TO:
+S: INT. PENTHOUSE (LIMBO) - DAY
+N: Cobb touches Mal's arm- she TURNS, angry. It is only now that we see that she holds a CARVING KNIFE. Mal looks at Ariadne.
+C: MAL
+D: So certain of your world. Of what's real. Do you think he is- Or do you think he's as lost as I was?
+E: points at Cobb
+C: COBB
+D: I know what's real.
+C: MAL
+D: What are the distinguishing characteristics of a dream? Mutable laws of physics? Tell that to the quantum physicists. Reappearance of the dead? What about heaven and hell? Persecution of the dreamer, the creator, the messiah? They crucified Christ, didn't they?
+C: COBB
+D: I know what's real.
+C: MAL
+D: No creeping doubts? Not feeling persecuted, Dom? Chased around the globe by anonymous corporations and police forces? The way the projections persecute the dreamer?
+N: Mal puts her hand on his face. Pitying.
+C: MAL
+D: Admit it, Dom. You don't believe in one reality anymore. So choose. Choose your reality like I did. Choose to be here. Choose me.
+C: COBB
+D: I have chosen, Mal. Our children. I have to get back to them. Because you left them. You left us.
+E: rising anger
+C: MAL
+D: You're wrong, Dom. You're confused... our children are here-
+N: A child's SHOUT draws Cobb- James CROUCHES on the porch, back to us. Philippa joins him, also turned away. Cobb watches, moved. Mal leans in close.
+C: MAL
+D: And you'd like to see their faces again, wouldn't you, Dom?
+E: whispers
+C: COBB
+D: Our real children are waiting for me up above.
+N: And we-
+T: CUT TO:
+S: INT. ELEVATOR - NIGHT
+N: Arthur scrambles to arrange the sleepers on the floor of the car- as his hand comes away from Saito, he sees BLOOD on it. He looks at Saito's belly- the blood is coming through his shirt. Arthur sticks headphones on sleeping Eames, and we-
+T: CUT TO:
+S: INT. HOSPITAL FORTRESS - DAY
+N: Eames throws a GRENADE, blowing up the security forces trying to ascend the terraces. He DUCKS to the ground to avoid HEAVY FIRE- starts unpacking the charges and setting them along the base of the terraces-
+S: INT. DUCT SYSTEM, HOSPITAL COMPLEX - CONTINUOUS
+N: Saito looks up as he hears a Security Guard climbing through the duct... he raises his gun, TREMBLING with weakness... And we-
+T: CUT TO:
+S: INT. KITCHEN, PENTHOUSE (LIMBO) - DAY
+N: Mal laughs at Cobb.
+C: MAL
+D: Up above? Listen to yourself. You judged me for believing the very same thing.
+E: laughs
+N: Mal points at the children-
+C: MAL
+D: These are our children. Watch. Hey, James! Philippa?!
+E: turns to the kids
+N: The children START TO TURN to us- BUT COBB CLOSES HIS EYES.
+C: COBB
+D: They're not real, Mal. Our real children are waiting for us-
+N: The children run off. Cobb opens his eyes.
+C: MAL
+D: You keep telling yourself that but you don't believe it-
+C: COBB
+D: I know it-
+C: MAL
+D: And what if you're wrong? What if I'm what's real?
+N: Cobb is silent.
+C: MAL
+D: You keep telling yourself what you know... but what do you believe? What do you feel?
+N: Cobb looks at Mal. Struggling.
+C: COBB
+D: Guilt. I feel guilt. And however confused I might get.
+E: MORE
+C: COBB
+D: However lost I might seem... it's always there. Telling me something. Reminding me of the truth.
+E: CONT'D
+C: MAL
+D: What truth?
+C: COBB
+D: That you were wrong to doubt our world. That the idea that drove you to question your reality was a lie...
+C: MAL
+D: How could you know it was a lie?
+C: COBB
+D: Because it was my lie.
+C: MAL
+D: Because you planted the idea in my mind.
+E: realizing
+C: COBB
+D: Because I performed inception on my own wife, then reaped the bitter rewards...
+C: ARIADNE
+D: Why?
+C: COBB
+D: We'd become lost in here. Living in a world of infinite possibilities. A world where we were gods. I realized we needed to escape, but she'd locked away her knowledge of the unreality of this world...
+N: INSERT CUT: Mal opens the doll's house. Takes the spinning top, lies it down in the safe. LOCKS IT AWAY.
+C: COBB
+D: I couldn't make Mal understand that we needed to break free. To die. So I started to search our world...
+N: Cobb turns to Mal, but keeps talking to Ariadne... INSERT CUT: Cobb WANDERS the streets of Limbo...
+C: COBB
+D: Searching for the right place in her mind...
+N: INSERT CUT: Cobb stops outside the VICTORIAN HOUSE, MAL'S CHILDHOOD HOME, looking up at it. He heads inside...
+C: COBB
+D: And when I found that place, that secret place where she had shut away her knowledge years before, I broke it open...
+N: INSERT CUT: Cobb looks around Mal's childhood bedroom. Comes to the doll's house...
+C: COBB
+D: I broke into the deepest recess of her mind, to give her the simplest little idea.
+N: INSERT CUT: Cobb throws open the safe doors. Sitting on the shelf of the safe is a spinning top. On its side.
+C: COBB
+D: A truth that she had once known, but had chosen to forget...
+N: INSERT CUT: Cobb picks up the totem. He SPINS it in the safe. IT SPINS AND SPINS WITHOUT END. Cobb CLOSES THE DOOR of the safe...
+C: COBB
+D: That her world was not real.
+N: INSERT CUT: COBB AND MAL ARRIVE AT TRAIN TRACKS CUTTING THROUGH WASTELAND.
+C: COBB
+D: That death was a necessary escape.
+E: V.O.
+N: They lie on the tracks looking into each other's eyes. Mal is crying. Cobb takes her hand, reassuring. He starts to speak-
+C: COBB
+D: You're waiting for a train. A train that will take you far away. You know where you hope this train will take you, but you can't know for sure. Yet it doesn't matter...
+N: Mal looks at him across the railroad tracks. Replies-
+C: MAL
+D: Because you'll be together.
+N: The train comes, OBLITERATING the lovers. Back in the present- Cobb looks into Mal's eyes. She is crying.
+C: COBB
+D: I never thought that the idea I'd planted would grow in her mind like a cancer. That even after we woke...
+N: INSERT CUT: Cobb looks around the HOTEL SUITE, confused. He moves to the CURTAINS... Mal is on the ledge opposite.
+C: COBB
+D: You'd continue to believe that your world was not real...
+N: Crying, Mal nods-
+C: MAL
+D: That death was the only escape?
+N: INSERT CUT: Mal PLUNGES to her death.
+C: MAL
+D: You killed me.
+N: Cobb looks at Mal. Whispers-
+C: COBB
+D: I was trying to save you-I'm sorry.
+N: Mal comes in close to Cobb. Looks him over.
+C: MAL
+D: You infected my mind. You betrayed me. But you can make amends. You can still keep your promise. We can still be together... right here. In our world. The world we built together.
+T: CUT TO:
+S: INT. ELEVATOR - NIGHT
+N: Arthur hits "Play" on his music player- Edith Piaf starts to ring out, Arthur checks his detonator and we-
+T: CUT TO:
+S: INT. ANTECHAMBER - DAY
+N: Eames races back in- in the relative quiet he notices MASSIVE LOW-E MUSICAL TONES. He drops his gun and goes to Fischer's side...
+S: INT. DUCT SYSTEM, HOSPITAL COMPLEX - CONTINUOUS
+N: Saito musters all his remaining strength as the guard emerges- Saito FIRES, dropping the guard, then COLLAPSES, the gun clattering to the duct floor... Saito is dead.
+S: INT. ANTECHAMBER - CONTINUOUS
+N: Eames powers up the defibrillator, puts the paddles on Fischer's chest, then Pow!- he shocks him, and we-
+T: CUT TO:
+S: INT. PENTHOUSE (LIMBO)-DAY
+N: LIGHTNING crackles across the sky- Ariadne sees it.
+C: ARIADNE
+D: We need Fischer.
+C: MAL
+D: You can't have him.
+N: Cobb stares at Mal. Mesmerized.
+C: COBB
+D: If I stay, can she take him back?
+C: ARIADNE
+D: Cobb, what are you saying?
+C: MAL
+D: Fischer's on the porch.
+C: ARIADNE
+D: Cobb, you can't do this.
+C: COBB
+D: Go check he's alive, Ariadne.
+N: Ariadne moves onto the porch, high above the metropolis, and we-
+T: CUT TO:
+S: INT. ELEVATOR - NIGHT
+N: Arthur nods his head in time with the music, counting down, holding the detonator. He starts bracing himself, and we-
+T: CUT TO:
+S: INT. ANTECHAMBER - DAY
+N: Eames recharges the defibrillator. SHOCKS Fischer again, and we-
+T: CUT TO:
+S: EXT. PORCH, PENTHOUSE (LIMBO) - DAY
+N: Ariadne looks up as a LARGE BOLT OF LIGHTNING RIPS across the sky... she looks down to see Fischer, BOUND AND BLOODY, lying below the rail.
+C: ARIADNE
+D: He's here. And it's time. But you have to come with us.
+N: Another massive lightning strike flickers across the sky-
+C: ARIADNE
+D: Cobb, I'm not going to let you lose yourself in here! You have to get back to your children!
+C: COBB
+D: Send Fischer, I have to stay-
+C: ARIADNE
+D: You can't stay here to be with her-
+N: Cobb turns from Mal. Looks at Ariadne.
+C: COBB
+D: I'm not. Saito is dead by now. That means he's here. I have to stay here and find him.
+N: Ariadne removes Fischer's gag- pulls him up, onto the rail. Cobb looks back at Mal.
+C: COBB
+D: I can't stay here to be with her because she's not real.
+N: Mal looks at Cobb, furious.
+C: MAL
+D: Not real? I'm the only thing you do believe in anymore. Here-doesn't this feel real, Dom?
+N: She STABS him in the chest- Cobb WHEEZES- GASPING, looking at Mal-
+C: COBB
+D: I wish you were. But I couldn't make you real. I'm not capable of imagining you in all your complexity and... perfection. As you really were. You're the best I can do. And you're not real.
+N: Mal pulls the knife and moves to STRIKE again-
+C: ARIADNE
+D: No!
+N: A SHOT rings out, Mal GRABS her shoulder- Cobb turns to Ariadne, who is pointing Cobb's gun.
+C: COBB
+D: What're you doing?
+C: ARIADNE
+D: Improvising.
+N: She KICKS Fischer off the roof- AIMS again at Mal- Fischer DROPS as the sky LIGHTS UP WITH ELECTRICITY- Fischer SCREAMS, then GASPS, no longer falling, and we are-
+S: INT. ANTECHAMBER - DAY
+N: Eames pulls the defibrillator from Fischer's chest as he COUGHS AWAKE.
+C: EAMES
+D: Get in there-quick!
+N: Fischer looks up at the double doors. STAGGERS to his feet. Fischer pushes open the doors to the STRONGROOM.
+S: INT. STRONGROOM - CONTINUOUS
+N: Fischer walks into the silent white room. At one end of the room is a bed. A figure lies in the bed. His FATHER. Breathing with tremendous difficulty. Dying. And we-
+T: CUT TO:
+S: EXT. PENTHOUSE (LIMBO) - DAY
+N: Ariadne takes aim at Mal-
+C: COBB
+D: No!
+N: Cobb holds Ariadne's gaze. She lowers the gun. And we-
+T: CUT TO:
+N: Eames GRABS the detonator- then moves to the door of the strongroom...
+T: CUT TO:
+S: INT. ELEVATOR, HOTEL - NIGHT
+N: Arthur HITS THE DETONATOR-
+S: INT. ELEVATOR SHAFT - CONTINUOUS
+N: The CHARGES on the bottom of the elevator EXPLODE, and we move into EXTREME SLOW MOTION as the flames BALLOON-
+T: CUT TO:
+S: INT. STRONGROOM - CONTINUOUS
+N: A RUMBLE BUILDS as Fischer approaches the bed, overcome with emotion. His Father sees him. Starts trying to speak. Fischer leans in...
+C: FATHER
+D: I... was ... dis ... dis ...
+E: hoarse whisper
+C: FISCHER
+D: I know, Dad. You were disappointed that I couldn't be you.
+N: The dying man SHAKES HIS HEAD with surprising energy.
+C: FATHER
+D: I was disappointed... that you tried.
+E: whisper
+N: Fischer hears this. And we-
+T: CUT TO:
+S: INT. ELEVATOR SHAFT - NIGHT
+N: The elevator car is ROCKETED along its track by the explosion-
+S: INT. ELEVATOR - CONTINUOUS
+N: Arthur is SMASHED against the floor of the car next to the sleepers who SHUDDER with the force of ACCELERATION- and we-
+T: CUT TO:
+S: INT. ANTECHAMBER - DAY
+N: Eames WATCHES Fischer-
+C: EAMES
+D: ) Come on, come on...
+E: to himself
+S: INT. STRONGROOM - DAY
+N: The Father collapses back onto the pillow. Fischer starts to weep. His Father reaches out a trembling hand but when Fischer tries to hold IT, he SHAKES his son's hand away... He is reaching for the SAFE next to his bed. His fingers fumble at the keypad, he can't open it. His son pushes 5,2,8,4,9,1 into the keypad. Opens it. Inside the safe is the WILL. And beside it is a HOMEMADE PINWHEEL, clearly made by a child. By Fischer. He takes it out, MARVELING at it. He turns to his father, but his father is dead. Eames, watching from the door, HITS THE DETONATOR-
+S: EXT. HOSPITAL COMPLEX - CONTINUOUS
+N: A line of EXPLOSIONS RIPS ALONG THE LOWER WALL... the ENTIRE BUILDING STARTS TO SLIDE DOWN THE MOUNTAIN-
+S: EXT. PENTHOUSE (LIMBO) - DAY
+N: A FIERCE WIND starts HOWLING through the house as the sky outside DARKENS. Cobb shields Mal against the blast- looks up at Ariadne, who HOLDS the railing, FIGHTING the wind-
+C: COBB
+D: That's the kick-you have to go!
+C: ARIADNE
+D: You're coming!
+C: COBB
+D: No, I'm not. I'm staying here to find Saito. And to say goodbye.
+E: turns to Mal
+N: Ariadne loosens her grip on the railing...
+C: ARIADNE
+D: Don't lose yourself. Find Saito. And bring him back.
+C: COBB
+D: I will.
+N: Ariadne lets the wind pull her off the edge- FALLING- and we-
+S: INT. ANTECHAMBER - CONTINUOUS
+N: Ariadne DROPS as the FLOOR COLLAPSES- her eyes SNAP OPEN-
+S: EXT. PENTHOUSE (LIMBO) - DAY
+N: Cobb holds Mal in his arms. The wind DIES...
+C: MAL
+D: We'd be together forever. You promised me.
+C: COBB
+D: I know. But we can't. And I'm sorry.
+C: MAL
+D: You remember when you asked me to marry you? You said you dreamt that we'd grow old together.
+C: COBB
+D: And we did...
+N: Mal looks at Cobb... thinking. Remembering. INSERT CUT: TWO ELDERLY PEOPLE (MAL AND COBB) WALK THROUGH LIMBO... ACROSS A WASTELAND... TWO ELDERLY HANDS CLUTCH EACH OTHER AS THEY LIE DOWN ON THE RAILROAD TRACK...
+C: COBB
+D: I miss you more than I can bear... but we had our time together. And now I have to let go...
+N: She nods, weakly. Cobb holds Mal as her eyes close... DYING... and we-
+S: INT. STRONGROOM - CONTINUOUS
+N: Fischer and his Father's body DROP AWAY-
+S: INT. ELEVATOR - NIGHT
+N: Ariadne DROPS inside the ROCKETING ELEVATOR, and as it SMASHES INTO THE TOP OF THE SHAFT Ariadne SMASHES into-
+S: INT./EXT. VAN INTO RIVER - DAY
+N: THE WATER, THE VAN CRUNCHING WITH THE IMPACT- WATER CRASHING THROUGH THE BROKEN WINDOWS FLOODING THE INTERIOR... Fischer's EYES OPEN, PANICKING- he UNBUCKLES HIMSELF, pushes out of the broken window- STOPS, goes back to UNBUCKLE Browning and DRAG him out.
+S: EXT. RIVER - CONTINUOUS
+N: Fischer breaks the surface with Browning, who COUGHS and GASPS. He starts PULLING for the near bank, struggling through the rain-impacted water-
+S: INT. VAN, UNDERWATER - CONTINUOUS
+N: Ariadne, Arthur and Yusuf wait calmly underwater. They are sharing TWO REGULATORS pulled from beneath the front seat. Arthur turns to Saito. There is blood in the water around Saito's belly- his eyes are LIFELESS- Arthur feels for a pulse... turns to Cobb, whose eyes are lifeless... Ariadne GRABS Arthur's elbow, pulling him away...
+S: EXT. RIVERBANK - MOMENTS LATER
+N: Fischer turns Browning/Eames over. They lie there, exhausted.
+C: BROWNING
+D: I'm sorry, Robert.
+N: Fischer stares at the rain on the water.
+C: FISCHER
+D: The will means that Dad wanted me to be my own man, not live for him. ) And I'm going to, Uncle Peter.
+E: turns to Browning
+N: Browning nods. Wipes the rain from his face. In the puddle beside them, the reflection is not Browning, but Eames.
+S: EXT. UNDERNEATH BRIDGE IN THE RAIN - MOMENTS LATER
+N: Arthur sits on the riverbank, breathing heavily.
+C: ARTHUR
+D: What happened?
+C: ARIADNE
+D: Cobb stayed.
+C: ARTHUR
+D: With Mal?
+C: ARIADNE
+D: No. To find Saito.
+N: Arthur looks out at the water below the bridge.
+C: ARTHUR
+D: He'll be lost...
+C: ARIADNE
+D: No. He'll be alright.
+N: And we-
+T: CUT TO:
+S: EXT. DAWN. CRASHING SURF.
+N: The waves TOSS a BEARDED MAN onto wet sand. As the Japanese Security Guard turns him onto his back, we realize that this is Cobb- OLDER. WEARY. TRAVELLED...
+S: INT. DINING ROOM, CASTLE - DAY
+N: Cobb WOLFS his food. The Elderly Japanese Man (Saito, 90 years old) watches him.
+C: SAITO
+D: So... have you come to kill me?
+N: Cobb does not look up.
+C: SAITO
+D: I've been waiting for someone to come for me...
+C: COBB
+D: Someone from your half-remembered dream...?
+N: Saito peers at Cobb.
+C: SAITO
+D: Cobb? Not possible-he and I were young men together. And I am an old man...
+C: COBB
+D: Filled with regret?
+N: Saito REMEMBERS, nods...
+C: SAITO
+D: Waiting to die alone, yes.
+N: Cobb is STARING at something on the table.
+C: COBB
+D: I came back for you... I came to remind you of what you once knew...
+N: Cobb gestures at the table. Saito follows his gaze down to the polished surface of the table...
+C: COBB
+D: That this world is not real.
+N: The top IS STILL SPINNING PERFECTLY, AS IF IT WILL NEVER TOPPLE. Saito looks at the top. Then back to Cobb.
+C: SAITO
+D: You came to convince me to honor our arrangement?
+C: COBB
+D: Yes. And to take a leap of faith.
+N: As Saito-san listens to Cobb, he looks at the GUN on the table between them...
+C: COBB
+D: Come back and we'll be young men together again.
+N: The elderly Saito looks at Cobb. Nods. And we-
+T: CUT TO:
+S: INT. FIRST CLASS CABIN, 747 - DAY
+N: Ariadne watches Cobb. His eyes are closed.
+C: FLIGHT ATTENDANT
+D: Hot towel, sir?
+E: O.S.
+N: His EYES FLICKER OPEN. He takes the towel with a nod. Ariadne smiles. Relieved.
+C: FLIGHT ATTENDANT
+D: We'll be landing in Los Angeles in about twenty minutes. Do you need immigration forms?
+N: Cobb nods. Takes a landing card. Looks around the cabin. Saito is WATCHING him. Serious. Haunted. Holding Cobb's gaze, SAITO PICKS UP THE PHONE AND DIALS. Cobb nods thanks...
+S: INT. ARRIVALS, LAX - LATER
+N: Cobb steps forwards to the IMMIGRATION OFFICIAL. Hands him his passport. Nervous. The Official takes a beat, looks Cobb up and down, then WHUMP!- the passport is stamped. As Cobb takes it back, he spots Ariadne at the next counter. She nods at him. He nods back. Then moves off... As Cobb passes through baggage claim, he exchanges subtle greetings with Eames and Yusuf. Arthur smiles broadly at Cobb. Cobb brushes past Fischer, who glances back at him as if thinking maybe he should know him, then moves on... As Cobb emerges into the crowded arrivals hall, he spots Professor Miles, waving at him...
+S: INT. KITCHEN, COBB AND MAL'S HOUSE - DAY
+N: Cobb enters with Miles. Drops his bags. Moves to the table, looking out at the overgrown garden. He reaches into his pocket, takes out his pewter spinning top, lowers it to the table and SPINS IT- a CHILD'S SHOUT makes him look up- Through the window, James and Philippa have run into view, playing, THEIR FACES TURNED AWAY... Cobb STARES at the back of his children's heads... Miles moves to the window and KNOCKS on the glass- James and Philippa TURN- see their Dad. He steps to the window, watching their BRIGHT FACES SHINING as they run towards him... Behind him, on the table, the spinning top is STILL SPINNING. And we-
+T: FADE OUT.
+N: CREDITS. END.

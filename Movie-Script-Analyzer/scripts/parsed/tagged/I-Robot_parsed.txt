@@ -1,0 +1,2109 @@
+M: I, ROBOT
+M: by
+M: Hillary Seitz
+T: FADE IN:
+N: On a DEEP...DEEP...DARKNESS. A FLICKER. Of LIGHT. Off to the side. Just barely. Noticeable. ORANGE...YELLOW...as we realise...It's FIRE... A SOUND. Something SHATTERING... Then. A DISEMBODIED VOICE. Muted. We can't quite make out What it's saying. As it gets LOUDER. And LOUDER. When we finally. Understand...
+C: DISEMBODIED VOICE
+D: You are in danger...
+T: CUT TO:
+S: INT. SPOONER'S APARTMENT - CLOSE ON
+N: DEL SPOONER'S FACE. His eyes, snapping open. His face, covered in sweat. PULL BACK to REVEAL him lying in bed. Sheets, tangled around his legs. Alarm clock, playing something relentlessly cheerful. Spooner slaps it off. Sits up. Wincing. Bends his RIGHT ARM. Stiff. He reaches for a BOTTLE OF PILLS. Shakes out a couple and swallows them. Trying to forget. That dream. You are in danger... He rubs his hands over his face. Gets out of bed. His apartment, basic. Unremarkable. Bearing the signs of someone who lives alone. Shades drawn. A little messy.
+S: INT. SHOWER - MORNING
+N: Spooner turns his face into the jet of water.
+S: INT. BATHROOM - MORNING
+N: Shaves with a razor. Using his left hand. Knicks the cleft of his chin. Shit.
+S: INT. KITCHEN - MORNING
+N: Stares down at the single egg in a saucepan. Waiting for it to boil.
+S: INT. HALLWAY - MORNING
+N: Heads down the hallway. Looping a knotted tie around his neck. Kicks some neglected mail from the door and reaches for the handle. Takes a deep breath and...
+S: EXT. SUBURBAN STREET - MORNING
+N: ...steps outside. Into the flow of COMMUTERS heading for the elevated trains. Elbow to elbow. A river of humanity. Spooner moves along, like everyone else. Suddenly. His shoulders tense. That feeling at the back of his neck. He turns and sees... A ROBOT. Just behind him. Humanoid in design, but still obviously a machine. Metal and synthetic casings covering hydraulic muscles. The thing senses his stare. Looks up with a muted WHIR...
+C: ROBOT
+D: Good day, sir...
+E: metallic voice
+N: Spooner. Speeds up his pace. Weaving through the crowd to lose the robot. We now realise this is THE FUTURE. Towering apartment buildings block the sun. The street packed with traffic. PEDESTRIANS wearing their computers like form-fitting portable offices. Spooner throws a look at his surroundings: Up high an INDUSTRIAL ROBOT rolls down the side of a building cleaning windows. A WORK CREW of oddly-shaped RUBE GOLDBERG ROBOTS efficiently repairs the street. No human supervision. A ROBOTIC CLEAN-UP CREW. Lumbering along the sidewalk. Scrubbing, sweeping. Emptying trash... Humanoid ROBOTS dotting the crowd. Following their owners. Walking slowly, deliberately. Carrying boxes. Groceries. Briefcases. Stamped on all the ROBOTS' SIDES, a LOGO: III LAWS SAFE. Spooner stops to wait at a light with other PEDESTRIANS. Directly in front of him, a LITTLE GIRL clutches her father's neck. She smiles big at Spooner. Front teeth missing.
+C: LITTLE GIRL
+D: Hi.
+C: SPOONER
+D: Hi.
+N: But it's not her father. It's her ROBOT CARETAKER. The robot turns. Looks at the girl.
+C: ROBOT
+D: You are not allowed to talk to strangers.
+N: Spooner, disgusted. Has had enough. He steps off the curb Just as... THE TRAFFIC SIGNAL swivels around. Training its large digital EYE on him:
+C: TRAFFIC LIGHT
+D: Please return to the sidewalk.
+N: Spooner dodges several cars on his way across the street.
+C: TRAFFIC LIGHT
+D: Please return to the sidewalk...
+N: The traffic signal, tracking him.
+C: TRAFFIC LIGHT
+D: You are in violation of city ordinance 14-B726...
+N: Spooner throws up his hand. Flipping it the bird just as SNAP! It takes his picture.
+T: CUT TO:
+S: EXT./INT. MONORAIL - MORNING
+N: Spooner stepping onto a sleek, densely packed TRAIN. Looks down at his feet. A trampled flyer on the ground. From the Anti-Robot League: METAL MONSTERS SECRET FACTORY REVEALED! A Robot gets up. To offer him his seat. Spooner. Turns his back on him as we PULL BACK from the window to REVEAL...
+S: EXT. CITY SCAPE/MONORAIL - CONTINUOUS
+N: The TRAIN hurtling toward DOWNTOWN. Soaring, gravity-defying OFFICE BUILDINGS dominate the skyline. Older buildings wedged among the new. All protected by huge glass and steel shields. As we get closer congested roads and freeways begin to disappear below ground into a series of subterranean tunnels. The "old" streets have become huge, spacious plazas.
+S: EXT. POLICE H.Q. - PLAZA - MORNING
+N: Spooner moves with the CROWD towards the doors of the aging Police Headquarters. Modern additions have been made to the original facade -- creating an ungainly architectural mess.
+S: INT. POLICE H.Q. - HOMICIDE UNIT - MORNING
+N: A vast open plan situation room lined on one side by a series of glass-enclosed rooms. On the other side a GIANT SCREEN with real time video of various streets and buildings. Spooner arrives at his desk. Unlike the others, it's a mess. A slender computer screen curving along the front of it. Several electronic messages say the same thing: SEE ME!
+C: LT. BERGIN
+D: Ever heard the phrase "lead by example?"
+E: O.S.
+N: Spooner looks up. LIEUTENANT JOHN BERGIN stands in front of his desk, holding up a CITATION with a photo of Spooner giving that traffic signal the finger.
+C: SPOONER
+D: Doesn't ring a bell.
+C: LT. BERGIN
+D: It's on your badge.
+E: pointing to Spooner's badge
+N: Spooner takes the citation. Drops it into a drawer filled with about fifty others.
+C: LT. BERGIN
+D: The traffic division filed an official complaint this morning.
+C: SPOONER
+D: The traffic division is a machine.
+C: LT. BERGIN
+D: Look, I know there's going to be an adjustment period, Del...
+C: SPOONER
+D: I'll send them a letter of apology. Maybe some flowers. A box of chocolates...
+E: interrupting
+N: JUST THEN Spooner's phone RINGS. He throws Bergin a look. Then snatches up the receiver.
+C: SPOONER
+D: Spooner, homicide.
+T: CUT TO:
+S: EXT. U.S. ROBOTICS - ESTABLISHING - DAY
+N: A sprawling glass and metal complex covering many city blocks. The entrance is a large plaza filled with PEOPLE and ROBOTS.
+S: INT. U.S. ROBOTICS - METAL CORRIDOR - DAY
+N: An elevator opens with a whoosh. Spooner steps out into a featureless corridor. His footsteps, echoing. He stops at a set of OPPOSING DOORS. Looks over at one, when the other suddenly OPENS.
+S: INT. U.S. ROBOTICS - PLUSH CONFERENCE ROOM - CONTINUOUS
+N: A warm, mahogany-paneled room. In sharp contrast to the cold metal space outside. Spooner steps inside. At the end of a long conference table sits an OLD MAN. Sparkling blue eyes. Old-fashioned suit.
+C: OLD MAN
+D: Hello, there. Please come in.
+N: Spooner hesitates.
+C: OLD MAN
+D: It's alright. You can sit. Sit.
+N: Spooner doesn't. Looks around the room. The Old Man lifts up a coffee pot. Pours some coffee into a single cup.
+C: OLD MAN
+D: Coffee?
+C: SPOONER
+D: You're offering me a cup of coffee?
+E: interested
+C: OLD MAN
+D: Yes. But you are to say, "No, thank you."
+N: Spooner nods a little. The Old Man raises the coffee to his lips, but doesn't take a sip.
+C: OLD MAN
+D: Coffee?
+C: SPOONER
+D: No. Thank you.
+C: OLD MAN
+D: As you wish.
+N: The Old Man takes a sip. He doesn't move. There is no movement except for a whisper of steam rising from the coffee pot.
+C: SPOONER
+D: You want to tell me something about Dr. Hogenmiller? About his death?
+N: The Old Man smiles.
+C: OLD MAN
+D: I want to tell you that his death was not a suicide.
+C: SPOONER
+D: And why do you say that?
+C: OLD MAN
+D: Why? Because I want you to know it.
+C: SPOONER
+D: I understand that. But what specifically leads you to believe that he didn't commit suicide?
+C: OLD MAN
+D: Nothing specifically.
+E: considers
+N: Spooner shifts his weight. Agitated.
+C: SPOONER
+D: Under normal circumstances that wouldn't be enough to get you a homicide investigation.
+C: OLD MAN
+D: But this is not "normal circumstances," is it, Detective Spooner?
+C: SPOONER
+D: No. It isn't.
+C: OLD MAN
+D: Then you will find out who killed Dr. Hogenmiller, yes? And then you will tell me.
+N: Spooner's losing his patience.
+C: SPOONER
+D: If you were murdered, Doctor, I'll find out. And you'll be the first to know.....
+N: JUST THEN the HOLOGRAM of DR. HOGENMILLER vanishes in a burst of LIGHT, as does the table, the coffee pot, and the conference room. Spooner, suddenly finds himself standing in front of a LARGE VIEW SCREEN inside a SMALL METAL CHAMBER.
+S: INT. HALLWAY - DAY
+N: Spooner steps out into the hallway and into...AN ESCORT ROBOT.
+C: ESCORT ROBOT
+D: Please follow me.
+N: Spooner. Reluctantly starts to follow it. Passes another doorway. POLICE TAPE stretched across it. Catches a brief glimpse of... DR. HEINRICH HOGENMILLER'S BODY. Splayed out across the floor. Surrounded by CRIME SCENE TECHNICIANS. He pauses. Taking in the scene. Then continues on.
+S: INT. U.S. ROBOTICS - CORPORATE BOARDROOM - DAY
+N: Two large doors emblazoned with the U.S. ROBOTICS LOGO open automatically. Inside, an enormous glass-enclosed boardroom looking out over the entire complex. Spooner walks through the doorway. His escort robot trailing behind him. An army of corporate types sit around a conference table. Young. Energetic. You can practically feel the brains and ambition.
+C: SPOONER
+D: Usually I ask who's in charge...
+N: Spooner's eyes lock with a MAN sitting at the head of the table. 60s, handsome, charismatic. Dr. LANCE ROBERTSON, founder and CEO of U.S. Robotics.
+C: SPOONER
+D: But everyone knows you, Dr. Robertson.
+N: Robertson smiles. Pretends to instruct his people.
+C: ROBERTSON
+D: Remind me to cut back on my talk show appearances.
+N: LAUGHTER.
+C: ROBERTSON
+D: Welcome to U.S. Robotics, Detective. I regret you're not visiting us under more pleasant circumstances. Allow me to introduce Mr. Aronson, our head of Legal Affairs.
+N: A prematurely graying MAN leaning against the wall. Nods hello.
+C: ROBERTSON
+D: And the gentleman to my right is Dr. Alfred Lanning, Director of Research.
+N: Alfred Lanning, only one there in a tie. Nods.
+C: ROBERTSON
+D: They'll be available to answer any questions you might have during your investigation. You'll understand how anxious we are to resolve this matter -- especially before the press gets wind of it. There are some anti-robot sentiments out there as you know, Detective, and we're not eager to stir them up. So. Where would you like to begin?
+C: SPOONER
+D: We can begin with whether or not the old man put a gun to his head and pulled the trigger.
+N: A palpable wave of tension shoots through the group.
+C: ARONSON
+D: You don't have to answer that, Dr. Robertson...
+N: Robertson waves him off.
+C: ROBERTSON
+D: Susan? Perhaps you can assist us here?
+N: Everyone looks down at the other end of the table. A BEAT. Then an attractive young WOMAN gets to her feet. SUSAN CALVIN. Hair tucked behind her ears. Looking at everyone but Spooner.
+C: CALVIN
+D: Dr. Hogenmiller was a schizoid personality who generally eschewed social relationships. Rejecting people in favor of solitary activities involving machines. He spent almost all his time at the lab here or at his lab at home. As a result he was highly susceptible to depression.
+C: ROBERTSON
+D: Dr. Calvin is our Chief Psychologist.
+C: SPOONER
+D: If that was your diagnosis, why didn't you see this coming?
+N: Calvin turns. Finally meeting Spooner's eye. As if the answer's obvious.
+C: CALVIN
+D: This is U.S. Robotics, Detective. Seventy-five percent of our employees fit that description.
+C: LANNING
+D: You'll have to excuse the doctor. We're all a little on edge. This has been a difficult and emotional morning.
+E: interceding
+N: Spooner throws a look around the room. Then back at Calvin.
+C: SPOONER
+D: Yeah. I can see you're all broken up.
+N: Robertson responds to Spooner's skepticism.
+C: ROBERTSON
+D: Dr. Hogenmiller was at my side from the very beginnings of this company. We developed the "Three Laws of Robotics" together. But these days science is a young man's game. By the time you hit thirty your best years are behind you. Some of us are kicked upstairs. Others I'm afraid aren't so lucky.
+N: Robertson stands. Meeting over.
+C: ROBERTSON
+D: Dr. Hogenmiller took his own life. I trust you will come to the same swift conclusion, Detective. Dr. Lanning will make himself available if you have any further questions.
+N: Spooner looks over at Calvin.
+C: SPOONER
+D: I want her to help me.
+N: Calvin, unhappy with this arrangement.
+C: CALVIN
+D: That's not really my department...
+C: ROBERTSON
+D: Susan would be happy to assist you.
+E: pointed
+N: And with a gesture, Robertson dismisses everyone. People start getting up, gathering up, filing out. Susan Calvin. The last one to get up.
+S: INT. METAL HALLWAY - DAY
+N: Spooner and Calvin, heading down the same hallway he was in before. Catch sight of a couple ROBOT TECHNICIANS...
+C: SPOONER
+D: Ah, Christ...Toasters...
+E: under his breath
+N: As they duck under the police tape and...
+S: INT. HOGENMILLER'S LAB - DAY
+N: ...enter Hogenmiller's lab. Alive with activity. CRIME SCENE TECHNICIANS, MOBILE ANALYSIS UNITS. LIGHT SCANS, running across... HOGENMILLER'S LIFELESS FACE. Black gun powder. Fanning out around his contorted lips. Spooner. Throws a look around the lab: ROBOTS. Everywhere. Mostly incomplete. TORSOS. ARMS. LEGS. Dangling from the ceiling. A SERGEANT. Passes them by...
+C: SERGEANT
+D: They say the price's gonna come down a lot next year. Kinda cool, huh?
+C: SPOONER
+D: How cool will it be when one takes your job?
+N: Spooner. Pushing past him. His eyes. Darting around.
+C: CALVIN
+D: Is everything alright, Detective?
+C: SPOONER
+D: Yeah. This is just how I like my robots -- in pieces.
+N: As they approach Hogenmiller's body, the lead CRIME SCENE INVESTIGATOR, BALDEZ, gets up to meet them.
+C: BALDEZ
+D: Can you believe it, man? U.S. Robotics. I didn't think I'd ever see the inside of this building.
+E: to Spooner
+N: Hands Spooner, a plasma clipboard. Spooner signs it, awkwardly. With his LEFT HAND...
+C: SPOONER
+D: What's the run-down?
+C: BALDEZ
+D: Heinrich Hogenmiller, sixty-four years old. Weapon a small caliber .22, registered in his name. Looks like he walked in, locked the door, and snuffed himself.
+N: Spooner. Cocking his head to look at Hogenmiller's face.
+C: SPOONER
+D: I know someone who disagrees with you.
+C: BALDEZ
+D: Who?
+N: Spooner. Stands. Pointing down at Hogenmiller.
+C: SPOONER
+D: Him.
+N: And steps over the body, leaving a confused Baldez. Stepping deeper, into the lab. Calvin. Following.
+C: SPOONER
+D: I spoke to a dead man today. Want to tell me about that?
+C: CALVIN
+D: Dr. Hogenmiller's hologram took his appointments. Attended staff meetings. He hated corporate life. The hologram enabled him to focus on his work. It's just a device, Detective.
+C: SPOONER
+D: A device that called the police.
+C: CALVIN
+D: The sound of the gunshot would've triggered a 911.
+C: SPOONER
+D: But the call came directly to me.
+C: CALVIN
+D: We're talking about a mechanism designed by Hogenmiller to say provocative things. To irritate and confound his colleagues.
+C: SPOONER
+D: And that's what you think it is?
+C: CALVIN
+D: I'm sorry, but this whole investigation is the result of a dead man's toy messing with your head.
+N: They pass half a robot, hanging from a hook. Spooner curls his lip. Swivels the robot's head so it's not looking at him.
+C: SPOONER
+D: When's the last time any of you actually spoke to Hogenmiller? I mean human to human?
+C: CALVIN
+D: I couldn't say.
+C: SPOONER
+D: Take a guess.
+C: CALVIN
+D: I don't guess, Detective. But if pressed, I would reason it had been a considerable length of time.
+C: SPOONER
+D: How well did you know him?
+N: Calvin. Gently swivels the robot's head back to where it had been.
+C: CALVIN
+D: Not well. But I admired his work tremendously.
+N: Spooner. Studies her for a beat. Then turns back to the body. Two CORONERS entering with a high-tech body box.
+C: SPOONER
+D: I get the whole "mad scientist" thing. Hogenmiller was past his prime. Isolated. Eccentric. He enters a room. Locks the door and is found minutes later with a bullet fired through his mouth into his brain. Everything about this case says suicide.
+C: CALVIN
+D: You don't sound convinced.
+N: The coroners. Start loading the body into the box.
+C: SPOONER
+D: Even people who live a life of logic and precision rarely arrange their deaths so perfectly.
+E: turning to her MORE
+N: SPOONER (cont'd) What all this is missing -- is personality... As he starts for the door...
+C: SPOONER
+D: You have 24 hour surveillance?...
+S: INT. METAL HALLWAY - CONTINUOUS
+N: ...They head out into the hallway. A MECHANICAL DOOR GUARD rolling into place behind them.
+C: CALVIN
+D: It's company policy.
+C: SPOONER
+D: I want to see the tapes.
+N: Calvin. Hurrying to keep up with him. This is hardly how she wanted to spend her morning. Calls out into the air...
+C: CALVIN
+D: Victor!
+N: At the end of the corridor, near the elevator, a BRIGHT CIRCLE appears. Hovering just in front of the wall. Two small slits grow into ROUND BLACK EYES...and a thin mouth expands into an ENORMOUS SMILE.
+C: CALVIN
+D: Detective, meet Victor. Our building's supercomputer. He's the checks and balances of U.S.R. Victor, Detective Spooner's heading up the investigation into the death of Dr. Hogenmiller.
+E: to Victor
+N: Victor smiles big. Spooner, furrows his brow.
+C: SPOONER
+D: You look like a very...happy computer.
+N: Victor responds in a GENTLE MALE VOICE:
+C: VICTOR
+D: Thank you. That's very kind.
+C: CALVIN
+D: The Detective needs to see our security tapes.
+N: The elevator doors immediately OPEN. They step inside.
+S: INT. ELEVATOR - DAY
+N: Spooner and Calvin descend. Victor floats on the wall and smiles wide. Spooner looks back at it. With a frown. The elevator stops, the doors open. A ROBOT steps on.
+C: ROBOT
+D: Good day, Dr. Calvin. Good day, sir.
+N: Spooner's jaw. Clenches. Staring at the Robot. It senses the stare. Turns back to him.
+C: ROBOT
+D: May I be of service to you, sir?
+N: Spooner. Breaks the stare. Ignoring the Robot. Calvin. Looks over at him.
+C: CALVIN
+D: Aren't you going to answer him?
+C: SPOONER
+D: I don't talk to my refrigerator, either.
+N: Calvin folds her arms.
+C: CALVIN
+D: I get the distinct feeling you're one of those people, Detective.
+C: SPOONER
+D: What people?
+C: CALVIN
+D: Those who don't appreciate the work we do here at U.S.R.
+C: SPOONER
+D: You people do what you do. Then it's up to the rest of us to make sense out of the world we wake up in.
+N: As the elevator doors open on to...
+S: INT. ATRIUM LOBBY - CONTINUOUS
+N: A soaring lobby. The centerpiece is a five-story STATUE of a ROBOT, arms outstretched in approximation of Da Vinci's Study of Man. Robot workers more numerous than humans. They are sleeker. Finer. More advanced than those in the outside world. Calvin and Spooner head across.
+C: CALVIN
+D: When this company started we were manufacturing three robots a week. Now look at us. Today's children will never know a world without robots.
+C: SPOONER
+D: The streets are filled with unemployed humans who aren't exactly thrilled with that idea.
+C: CALVIN
+D: Our robotic systems maintain factory inventories, regulate street traffic -- even run the family home.
+C: SPOONER
+D: Leaving people to do what, Doctor?
+C: CALVIN
+D: Leaving people to engage in higher pursuits that make life worth living.
+C: SPOONER
+D: And what happens when something goes wrong?
+C: CALVIN
+D: Our system's never wrong.
+N: As they walk through the crowd, we hear the quiet WHIR of robot heads as they turn in succession to watch Spooner pass.
+S: INT. MAINFRAME - DAY
+N: Spooner and Calvin enter the MAINFRAME of U.S. Robotics. This is the nerve center of the whole operation. Walls lined with COMPUTERS, SCREENS, and thousands of CONTROLS.
+C: CALVIN
+D: This is Victor's home.
+N: VICTOR appears on a wall-sized SCREEN broken up into beehive- like components.
+C: VICTOR
+D: I will now play you the last thirty- two seconds of Dr. Hogenmiller's life.
+N: AS WE WATCH THE SCREENS. The elevator opens and DOCTOR HOGENMILLER steps into the metal corridor. In countless ANGLES. High, low, close-up, wide. Hogenmiller's face composed but tight. Spooner watches the lab doors open to admit him. Hogenmiller steps in. The doors slide closed behind him. Nothing for a few moments. Then a muffled GUNSHOT. Calvin jumps, startled. That's it. The cameras, still trained on the corridor.
+C: SPOONER
+D: Where's the tape from inside?
+C: VICTOR
+D: Dr. Hogenmiller did not permit cameras to observe him while working.
+C: CALVIN
+D: That was only within the last year.
+C: SPOONER
+D: So we can throw paranoia into the mix. Fast-forward.
+E: to Victor
+N: A hundred-plus screens all FAST-FORWARD. POLICE OFFICERS appear and force open the doors. Now TECHNICIANS appear and rush through in a blur...
+C: CALVIN
+D: Um. I hate to be a stickler...
+N: On screen, we see Spooner and Calvin enter the lab.
+C: CALVIN
+D: But don't killers usually have to enter and exit the scene of a crime?
+C: SPOONER
+D: Stop the recording.
+N: Spooner turns away from the footage. Stares at Calvin.
+C: SPOONER
+D: They do, Doctor. Unless they've always been there -- and never left.
+N: Calvin looks at him. Trying to understand.
+C: CALVIN
+D: You think the murderer was in the lab the entire time?
+C: SPOONER
+D: If I'm right, it's still there...
+N: Spooner turns back to the screens. The IMAGE paused at the exact moment the MECHANICAL GUARD rolled in front of the lab door.
+C: SPOONER
+D: We just locked it in.
+S: INT. METAL CORRIDOR - DAY
+N: The STEEL ARMS of the ROBOTIC GUARD retract with a CLANG. The laboratory doors slide open.
+S: INT. HOGENMILLER'S LAB - DAY
+N: Spooner and Calvin step inside. It's dark. Quiet. Police and technicians long gone. Silhouettes of hanging limbs. Eyeless heads. Clumps of wire and metal. The LIGHTS, flicker on. Calvin sees Spooner reaching into his coat with his left hand. Pulling out a GUN. Reacts.
+C: CALVIN
+D: A robot cannot harm a human being, Detective. The First Law of Robotics forbids it. And we hard- wire the Three Laws into every model. Without exception.
+C: SPOONER
+D: Yeah, I saw the commercial.
+N: Spooner steps deeper into the lab. Eyes scanning. Twisting. To avoid touching any robot parts. Passes a MAZE holding a METAL INSECT. SUDDENLY. The bug WHIRS to life. Spooner startles. As the metal bug scurries through the corridors. Clamps his hand down on it.
+C: SPOONER
+D: And if a robot was given a direct order to kill?
+C: CALVIN
+D: The Second Law of Robotics would prevent it. A robot must obey an order only if it does not conflict with the first law.
+N: Spooner approaches a MOUND of ROBOT PARTS. Arms and legs. Half torsos. All tossed haphazardly onto the pile.
+C: SPOONER
+D: But a robot can defend itself.
+C: CALVIN
+D: Only when that action doesn't conflict with the First or Second Laws. This is the Third Law of Robotics.
+C: SPOONER
+D: Yeah, well, you know what they say -- Laws are made to be broken.
+C: CALVIN
+D: Not these laws.
+N: Spooner. Starts nudging the pile with his shoe. Calvin, growing impatient...
+C: CALVIN
+D: You're not hearing me, Detective. There's nothing here...
+N: WHEN SUDDENLY The PILE ERUPTS in front of Spooner...Parts flying...AS A ROBOT LEAPS UP FROM BENEATH IT!... Spooner...knocked back...his GUN...skittering across the floor...right to... CALVIN'S FEET.
+C: SPOONER
+D: Dr. Calvin!
+N: Calvin. Stunned. Speechless. The Robot. Fixing his ILLUMINATED EYES. Right on her. She steps forward...
+C: SPOONER
+D: Goddammit! Stay back!
+N: Spooner. Scrambling towards his gun. Calvin. Reaching out towards the Robot...
+C: CALVIN
+D: Calm down, Detective. There is no danger here...
+N: Spooner. Grabbing up his gun and wheeling round just as...
+C: CALVIN
+D: De-Activate.
+E: to Robot
+N: And the Robot. Suddenly FREEZES. Spooner. Heart POUNDING. Gets to his feet. Training the gun on the Robot. Calvin turns to him.
+C: CALVIN
+D: How did you know it was under there?
+C: SPOONER
+D: If I was metal and didn't want anyone to find me, I'd hide under a pile of junk.
+C: CALVIN
+D: This Robot wasn't hiding. What you're looking at is the result of clever programming. The illusion of self-interest and free will. Nothing more.
+N: Spooner. Steeping closer to the Robot. Cautiously. Holstering his gun. As Calvin turns for the door.
+C: CALVIN
+D: I'm going to go get Dr. Lanning...
+N: ...THE ROBOT'S HAND SUDDENLY SHOOTS OUT...grabbing Spooner's gun...from his holster...LIGHTENING FAST...pointing it... right back at him... CLOSE ON Calvin. Cannot believe this is happening...
+C: CALVIN
+D: I said De-Activate!
+C: SPOONER
+D: Move away from the door, Doctor.
+N: Calvin's voice. Cracking from desperation. Confusion.
+C: CALVIN
+D: Commence emergency shut-down!
+C: SPOONER
+D: Now!
+N: Spooner. Staring into the Robot's eyes. A thin bead of SWEAT. Trickling down his temple. Calvin. Moving away from the door...
+C: CALVIN
+D: I...I gave you an order...
+N: The Robot. Starts backing towards the door. The gun. Shaking in its hand. As if he's desperate. Conflicted. He touches the WALL PANEL. The doors slide open. The Robot steps out into the metal corridor. Turning to RUN as the doors begin to shut... Spooner. Reaching down to whip out a BACK-UP GUN. From an ankle holster. Slapping in a LARGE CARTRIDGE.
+C: CALVIN
+D: This is impossible. A robot...
+C: SPOONER
+D: ...can't do that. Yeah, yeah, I know.
+C: CALVIN
+D: My God -- did you see how it moved? I've never seen an NS-2 move that way...
+N: Starts running for the door.
+C: CALVIN
+D: Wait! Please, you can't destroy it. We have to study it...
+C: SPOONER
+D: That thing took my gun. You'll be lucky if you get a handful of bolts back!
+N: SLAMS the wall panel and...
+S: INT. METAL CORRIDOR - CONTINUOUS
+N: ...sprints out into the hallway. The Robot Suspect. About to turn to corner... VICTOR. Suddenly appearing.
+C: VICTOR
+D: The suspect is nearing the end of the hallway, Detective.
+C: SPOONER
+D: Gee, thanks.
+N: Spooner raises his gun and FIRES...Pegging the robot in the LEG...It starts jerking wildly...He takes aim again when... CALVIN. Races out into the hallway.
+C: SPOONER
+D: Get back to the lab!
+N: She heads for the Robot.
+C: CALVIN
+D: You're malfunctioning. Let me help you!
+E: to Robot
+N: The Robot turns. To look at her. GUN pointing to the floor. Spooner. FOCUSING in on his HAND. AS ONE FINGER TWITCHES... And he DIVES for Calvin. Forcing her to the floor as the Robot FIRES. Again and again. Bullets. RICOCHETTING around them. SPARKING against the walls... The ELEVATOR opens. The Robot, leaping inside. Spooner. On top of Calvin. Looks down at her. Her HANDS. Clutching his coat. Trembling.
+C: SPOONER
+D: That was a pretty convincing illusion of getting shot at.
+T: CUT TO:
+S: INT. ELEVATOR - CONTINUOUS
+N: The ROBOT SUSPECT standing inside the elevator. Looks down at the bullet hole blown through its leg. Reaches down. Metal fingers touching the damage. As if curious. Afraid. Looks back at the other ROBOT. Standing in the back of elevator. A primitive model. No reaction. Face, blank.
+T: CUT BACK TO:
+S: INT. METAL CORRIDOR - CONTINUOUS
+N: Spooner springing to his feet. Helping Calvin up.
+C: VICTOR
+D: I took the liberty of alerting Security .003 Seconds after the first shot was fired...
+C: SPOONER
+D: Where's that elevator going?
+C: VICTOR
+D: Sub Level 5.
+N: Spooner SLAMS against a nearby DOOR. Hurtling down the STAIRS...
+S: INT. LOBBY - CONTINUOUS
+N: A PHALANX of SECURITY PERSONNEL. Crossing the lobby. PIERCING ALARM BELLS, RINGING...
+S: INT. ANOTHER METAL HALLWAY - CONTINUOUS
+N: More SECURITY PERSONNEL. Pouring into a HALLWAY...
+S: INT. STAIRWAY - CONTINUOUS
+N: Spooner and Calvin. Racing down the stairs. Victor's face meeting them at every landing.
+C: VICTOR
+D: I have directed a security team to meet the elevator containing the errant robot...
+N: Spooner. Whipping past him. Calvin. Barely keeping up. Not used to this much activity. Spooner. BURSTS through a door and out into...
+S: INT. SUBTERRANEAN LEVEL 5 - CONTINUOUS
+N: ...Subterranean Level 5. A labyrinth of metal and concrete. IN THE DISTANCE. A troupe of SECURITY PERSONNEL swarms around a closed ELEVATOR DOOR...
+C: VICTOR
+D: The suspect is about to be apprehended, Detective.
+C: SPOONER
+D: I'll believe it when I see it.
+N: Spooner. Cocking his gun. A soft DING! Announcing the elevator car's arrival. SECURITY, all crouching down in unison. Weapons brought round to position. Spooner. Weaving through them. Gun pointed at the metal doors as... WHOOSH. They slide open. Revealing a ROBOT. Standing under the LIGHT. Holding a GUN. It steps out as Security takes aim and...
+C: SPOONER
+D: Wait!
+N: Spooner pushes past them to the Robot. Looks down at its leg. UNSCATHED.
+C: SPOONER
+D: This is not the same robot!
+N: Looking wildly around. Goddammit. Bounds towards an EXIT as Calvin steps forward to question the robot.
+C: CALVIN
+D: What happened to the robot that ordered you to hold this firearm?
+E: to Robot
+C: ELEVATOR ROBOT
+D: This unit is not programmed to obey an order given by a robot...
+C: CALVIN
+D: But who gave you this gun?
+N: SPOONER. Running towards the exit. Hears the answer. Echoing behind him...
+C: ELEVATOR ROBOT
+D: A metal man.
+S: EXT. U.S. ROBOTICS - DAY
+N: BAM! He BURSTS out into the PLAZA in front of U.S. Robotics. Squinting into the light. Then PLUNGING into the crowd... HUMAN...ROBOT...HUMAN...ROBOT...they all look the same from behind. Spooner running. Through the sea of MAN and MACHINE. When someone. Starts to SCREAM. At the sight of his GUN. The crowd begins SCATTERING. Chaos. Spooner stops. Near a fountain. Turning 360. Looking everywhere... The Robot. Gone.
+C: SPOONER
+D: ...I want a homicide unit on every street, sidewalk, alley...
+E: V.O.
+S: INT. POLICE H.Q. - HOMICIDE UNIT - DAY
+N: Spooner, standing in front of an assemblage of COPS. Behind him, an image of the Robot Suspect plays on the screen...
+C: SPOONER
+D: ...junkyard, scrapyard, and salvage yard, anywhere it could hide.
+N: Behind him, flashing images of the city STREETS and DUMPS...
+C: SPOONER
+D: It's got a bullet hole above the right knee, so be on the look-out for any malfunctioning NS-2...
+N: Lieutenant Bergin enters the back of the room. Next to him, ASSISTANT D.A. TOLLER. Not looking happy.
+C: SPOONER
+D: Check out all retail outlets and repair shops, especially the underground ones...
+N: The screen behind him compartmentalises, showing various dubious SHOP FRONTS...
+C: SPOONER
+D: I don't care who you have to get past to get this done. Just get it done.
+N: The Cops, begin dispersing. As Bergin catches Spooner's eye. Spooner, not pleased to see Toller. Heads over...
+C: TOLLER
+D: Looking like shit, Spooner.
+C: SPOONER
+D: Well I'm not the one always giving Press Conferences...
+N: Bergin puts a hand on Spooner's arm. Knows he's not going to like this.
+C: LT. BERGIN
+D: Del, we're going to have to reclassify the search. D.A.'s office is seeing this NS-2 as "missing evidence" -- not a homicide suspect.
+C: SPOONER
+D: What?
+C: TOLLER
+D: Homicide is the murder of a human being by another human being. Therefore, a robot cannot be charged with "homicide."
+C: SPOONER
+D: This isn't just any robot...
+C: TOLLER
+D: It's malfunctioning.
+C: SPOONER
+D: It killed someone. That registering with you?
+N: Spooner. Shakes off Bergin's arm. Eyeballs Toller.
+C: SPOONER
+D: How many shares of U.S.R. you holding in your portfolio, Toller?
+C: TOLLER
+D: This is a public safety issue.
+C: SPOONER
+D: That's convenient.
+C: TOLLER
+D: You have any idea what would happen to this city if we went running around screaming "killer robot?" It would collapse in on itself.
+E: MORE
+N: TOLLER (cont'd) Wide-spread panic. Until that NS- 2's found we're cooperating with U.S. Robotics and keeping this investigation under wraps.
+C: LT. BERGIN
+D: Maybe this isn't the case for you, Del.
+N: Incensed, Spooner replies a little louder than he intended.
+C: SPOONER
+D: I'm fine!
+N: Rakes his hand through his hair. Turns to see the other COPS, looking over at him. Toller smirks. Looks to Bergin.
+C: TOLLER
+D: I want updated reports every half hour.
+N: Heads off. Spooner. Watching him.
+C: SPOONER
+D: This is it, you know. From now on we're going to miss the good old days.
+C: LT. BERGIN
+D: Good old days?
+C: SPOONER
+D: When people were killed by other people.
+S: INT./EXT. SPOONER'S CAR - CITY STREET - DUSK
+N: Spooner. Rolling along in his car. Eyes, bloodshot. Peering out the window: An NS-2 model ROBOT laden with shopping bags, following its owner down the sidewalk... Another ROBOT, opening the door at a hotel for GUESTS... A couple HAULING ROBOTS, loading heavy boxes onto the back of a truck... Spooner. Rubs his eyes. Turns a corner and spots: A ROBOT REPAIR SHOP. The latest models in the window. Shiny. Streamlined. Spooner watches as a WOMAN leads her faulty NS-2 to the service entrance. He stops the car.
+S: INT. TAXI (MOVING) - ESTATE STREETS - NIGHT
+N: Calvin riding in the back of a DRIVERLESS taxi cab. Staring out the window, lost in thought. The cab pulls up to a curb.
+C: TAXI VOICE
+D: We have arrived at your destination.
+N: Calvin. Takes a beat. Then swipes her card.
+S: EXT. CALVIN'S CONDO ESTATE - NIGHT
+N: Elegant condos set on prime real estate. Calvin heads down a tree-lined walk towards her condo entrance.
+C: SPOONER
+D: One of my bullets hit your robot...
+E: O.S.
+N: Startled. She drops her key card. As Spooner steps out from behind a tree. The tail of his coat, whipping in the wind.
+C: CALVIN
+D: Detective!...
+C: SPOONER
+D: And I think it's smart enough to repair itself -- don't you?
+C: CALVIN
+D: Yes. I think so.
+E: studying him
+C: SPOONER
+D: Where?
+C: CALVIN
+D: Any repair shop...
+C: SPOONER
+D: No. It's always the owner who brings the robot in for repair. Where would a robot without an owner go?
+C: CALVIN
+D: I'm not sure what you're getting at.
+C: SPOONER
+D: Does U.S. Robotics have a factory in the city limits?
+E: stepping closer
+N: Calvin. Tucking her hair behind her ears.
+C: CALVIN
+D: The locations of our factories are classified.
+C: SPOONER
+D: I don't care.
+N: Calvin. Looks up at him. A Mexican stand-off.
+C: CALVIN
+D: I have several conditions if I show you.
+C: SPOONER
+D: I expected that.
+C: CALVIN
+D: First. I want it brought in unharmed.
+C: SPOONER
+D: Agreed.
+E: doesn't like it, but
+C: CALVIN
+D: Second. I want to talk to it, alone.
+C: SPOONER
+D: Too dangerous.
+C: CALVIN
+D: This model violated the Three Laws. It also moved and reacted differently than any robot I've ever seen. There must be some sort of logical explanation. I want to find out what that is. No police. No prosecutors. No you. Just me and the robot.
+N: Spooner, looks down at this small woman. Narrows his eyes.
+C: SPOONER
+D: When they told me you were a psychologist, that wasn't the whole truth, was it?
+C: CALVIN
+D: I never said I treated human beings.
+S: INT./EXT. SPOONER'S CAR (MOVING) - CITY UNDERPASS - NIGHT
+N: Spooner's car races down a RAMP and the roadway becomes a 16- lane underground tunnel system. A river of HEADLIGHTS stretches forever in either direction. A CONTROL BEAM locks onto the car, guiding it to a merge with TRAFFIC. Spooner hits the OVERRIDE BUTTON -- and switches to manual. Calvin watches him take the wheel. Shakes her head.
+C: CALVIN
+D: That should be outlawed once and for all.
+C: SPOONER
+D: That'll be the day I stop driving.
+N: Spooner jams the GAS PEDAL and the tunnel becomes a BLUR. Calvin holds onto the dashboard. Looking a little pale.
+C: CALVIN
+D: I can recommend a behavior modification program, you know -- if you want to overcome your robo- phobia.
+C: SPOONER
+D: I'm not afraid of robots. I just don't like them.
+C: CALVIN
+D: Why? Because they make every aspect of our lives more convenient?
+C: SPOONER
+D: Exactly. They do our dirty work. Ever do hard labor, Doctor? Gets pretty old, pretty fast. Nobody can do someone else's dirty work without coming to hate them. I don't want to be around when your robots decide they've taken their last order.
+C: CALVIN
+D: That day will never come, Detective. Robots aren't like human beings -- they don't question their existence.
+N: Spooner cranks the gear shift. Throwing her a look.
+C: SPOONER
+D: Spoken like a true robo-phile.
+S: EXT. U.S. ROBOTICS PLANT - NIGHT
+N: The car comes to a stop in a vast INDUSTRIAL DISTRICT. Spooner and Calvin get out, looking up at the imposing facade of a U.S. Robotics Assembly Plant. A long STEEL GATE -- too high to see over -- protects the unmarked complex.
+S: EXT. MAIN GATE - NIGHT
+N: Calvin looks anxious as the DOOR MECHANISM scans her U.S.R. ID. She shoots a look at Spooner. They wait. Then, slowly, the gate begins to open.
+S: INT. HALLWAY - NIGHT
+N: A NIGHT FOREMAN leads them down a hallway. Shaking his head.
+C: NIGHT FOREMAN
+D: Head-Office already ordered a system-wide inventory check. Don't know about a missing NS-2...
+N: Looks back at Spooner.
+C: NIGHT FOREMAN
+D: What'd you say you did?
+C: SPOONER
+D: Research and Development.
+N: As Spooner pushes past him into...
+S: INT. CONTROL BOOTH - CONTINUOUS
+N: ...the Control Booth. Overlooking the pristine Factory Floor. The Foreman starts working the controls of a central computer.
+C: CALVIN
+D: All Nestors accounted for?
+N: The SCREEN scrolls with INVENTORY FIGURES.
+C: NIGHT FOREMAN
+D: As you can see, all properly catalogued. Your robot just isn't here.
+E: gesturing
+N: Calvin turns to say something to Spooner. But he isn't there. She looks around. Then sees the Foreman reacting. Looks out the window at... SPOONER. Walking out onto the factory floor.
+S: INT. FACTORY FLOOR - NIGHT
+N: Spooner trots alongside an ASSEMBLY LINE BELT. Lined with NS- 2 LEGS. New. Gleaming. Heading towards the assembly room. Calvin and the Foreman. Catching up. Over the noise:
+C: NIGHT FOREMAN
+D: Like I said, sir -- we have one hundred fully assembled NS-2s housed here. That's our capacity. Last week we had one hundred. Yesterday we had one hundred --
+N: Spooner, slowing. Finally spotting what he was looking for. Points at: A GAP. On the assembly belt. ONE LEG MISSING.
+C: SPOONER
+D: Well today you have one-hundred and one.
+S: INT. FACTORY FLOOR - NIGHT
+N: A STORAGE COMPARTMENT opens and 101 NS-2s march out in tight formation. Every step and swing of the arm in unison. The sound of METAL FOOTSTEPS reverberating through the plant as 101 Robots organise themselves into long straight lines. Spooner and Calvin look up and down the formation. They all look alike. Spooner. Throws up his hands.
+C: SPOONER
+D: You're the robot shrink.
+E: to Calvin
+N: The Robots stand motionless. A strange tableau. Calvin. Takes a step forward.
+C: CALVIN
+D: There is a robot in this formation that does not belong. Identify it.
+N: 101 robots answer in unison. Their mechanical VOICES resounding: 101 ROBOTS ONE OF US.
+C: CALVIN
+D: Which one?
+N: 101 ROBOTS ONE OF US.
+C: CALVIN
+D: That is not a satisfactory answer!
+N: 101 ROBOTS ONE OF US.
+C: SPOONER
+D: That's helpful.
+C: CALVIN
+D: I could always interview each one individually and cross-reference their responses to detect any anomalies.
+C: SPOONER
+D: How long would that take?
+C: CALVIN
+D: About three weeks.
+N: They share a look. Clearly not an option. Then. Calvin. Gets an idea. Turns to Spooner...
+C: CALVIN
+D: Or...
+N: ...and GRABS his GUN from his holster. He jumps back.
+C: CALVIN
+D: We have one hundred robots here that cannot allow a human being to come to harm...
+N: Their eyes lock. Spooner, getting what she's doing.
+C: SPOONER
+D: And one that can.
+N: She raises the gun to Spooner's head. Hand, unsteady.
+C: CALVIN
+D: Am I holding this right?
+C: SPOONER
+D: More or less.
+N: Calvin. Swallows. Looks over at the robots. Then COCKS the gun... AND THE ROBOTS COME THUNDERING TOWARDS THEM. Like a row of linebackers. Arms straight out. Their footsteps DEAFENING. Coming CLOSER and CLOSER... When CALVIN. Lowers the gun. The Robots. All stop in unison. Immediately returning to their resting positions. Spooner and Calvin stare out. EVERY ONE OF THE ROBOTS MOVED. Standing right in front of them, like metal statues. Spooner. Has had enough. Takes the gun back from Calvin...
+C: SPOONER
+D: Enough game-playing.
+N: ...And BAM! Blows the head off of the nearest Robot. Its body crumples to the ground.
+C: SPOONER
+D: Guess that wasn't it.
+N: Calvin. Cannot believe what he just did. Rushes over to the destroyed Robot.
+C: CALVIN
+D: What are you doing?!
+N: Spooner walks down the row, holding his gun in plain view.
+C: SPOONER
+D: This is a self-preservation field test! DO NOT attempt to save yourselves. Any of you. That's an order!
+E: calling out
+N: FROM THE CONTROL BOOTH the Night Foreman screams over the P.A.:
+C: NIGHT FOREMAN
+D: Are you crazy? Those are eight hundred thousand dollar machines!
+N: Spooner randomly stops at another Robot. Raises his gun.
+C: SPOONER
+D: You hear that? You're worth more than I'll make in my entire life...
+N: His finger tightening on the trigger when Calvin suddenly grabs his arm.
+C: CALVIN
+D: You can't just destroy them!
+N: Spooner. Looking down at her. WHEN SUDDENLY something catches his eye. A MOVEMENT. Down the line. Almost. Imperceptible. He jerks his head. Locking eyes with a ROBOT. A couple feet away. It's him!
+C: SPOONER
+D: Gotcha.
+N: The Robot Suspect LEAPS forward. Grabbing onto the RAILING of an OVERHEAD CATWALK. His movements almost balletic as he swings himself up... Spooner drops to his knee...taking aim...but misses as the Robot launches himself THROUGH THE CONTROL BOOTH WINDOW with a terrific CRASH...
+S: INT. CONTROL BOOTH - NIGHT
+N: Spooner and Calvin rush in to find the Night Foreman hiding under his desk. Glass everywhere. An ALARM SCREAMING. The door on the other side, barely hanging off a hinge. Spooner hurries forward. Then stops. Turning to Calvin. Reaches down for his back-up gun and presses it into her hand.
+C: SPOONER
+D: You don't know what's going to happen in there.
+N: As if admitting defeat. Calvin's fingers, wrapping around the gun. As Spooner leads them to the door and down into...
+S: INT. ASSEMBLY ROOM - CONTINUOUS
+N: ...the ASSEMBLY ROOM. Every surface looking like part of a great glass and metal machine. Endless high-tech planes holding ROBOTS in various states of assembly. The deafening ROAR of the assembly line as it slides, rotates, and gnashes METAL BODIES... Spooner. Motioning Calvin to stay behind him. As they descend. Into the cavernous room. And enter. A narrow corridor of bodies. Sliding past them. Brushing shoulders, thighs, hands. Spooner. Wiping sweat from his brow. Trying. To pivot himself... When the room. Suddenly REARRANGES itself. Another LINE of ROBOTS. Descending between Spooner and Calvin. Cutting them off from one another... Spooner. Catching glimpses of Calvin. On the other side of the metal bodies. Trying. To cut through. His heart. Starting to POUND. As Calvin. Disappears... He swivels round. But another line of ROBOTS. Drops down. Cutting him off. He stumbles back. As another line. Appears before him... Breathing. Getting heavier. He looks down at his hand. It's trembling. NOISE CRASHING, all around him. Everywhere he turns. More ROBOTS...BLANK EYES...GAPING MOUTHS... He darts through the line. Finds a wall. Leaning against it, pulls a small BOTTLE from his pocket. Rips off the lid. Shakes out a couple PILLS. Swallows them. Staring down. At his trembling hand. Squeezing his eyes. Open and shut... WHEN SUDDENLY. A passing ROBOT. Grabs him by the collar. SMASHING him against the wall. It's the Suspect. Spooner. Sinks to the ground. As the Suspect Robot. Slips off the line. STANDING. Over him. Raising his arms. Could end it. Right now. But looks. Into Spooner's eyes... Then turns. Disappearing. Spooner. Stunned for a second. Then. Rallies. Scrambles to his feet and plunges back into the maze of bodies. Hears a POUNDING. In the distance. Catches a glimpse. Of the Robot. Trying to SMASH through a large SECURITY DOOR. With his metal fists... Spooner's view. Blocked once again. By a shifting row. When a HAND. Lands on his shoulder. He wheels round. To find CALVIN. Takes her by the arm. And forces them through a line... EMERGING into the open. The ROBOT. Still pounding. Desperate. Like a trapped animal...
+C: CALVIN
+D: Now what do we do?
+C: SPOONER
+D: I've already done it.
+N: And suddenly, the massive SECURITY DOOR RISES...
+S: EXT. U.S. ROBOTICS PLANT - CONTINUOUS
+N: The Robot Suspect takes its chance. Runs full out. STOPS. Bergin is standing in front of a solid wall of POLICE CARS. UNIFORMED OFFICERS are aiming SPECIALISED RIFLES at the Robot. FLASHING LIGHTS reflecting off its metal surface. The Robot turns to Spooner. Extends its hands. Palms out.
+C: ROBOT
+D: WHAT AM I?
+N: Spooner is surprised. A POLICE OFFICER fires, RUBBERISED NETTING shooting out at Sonny. A SECOND OFFICER fires and a second net covers him. Then a THIRD... ...and the Robot falls to the ground, struggling. Calvin glares at Spooner. Furious. Hurt. Betrayed.
+C: CALVIN
+D: We had a deal.
+N: But Spooner doesn't look at her. His eyes are locked on that Robot.
+S: INT. POLICE H.Q. - HOMICIDE UNIT - EARLY MORNING
+N: Bergin enters. Finds EVERYONE focused on the VIDEO WALL: ON SCREEN. A NEWS REPORTER is speaking over images of street violence perpetrated against ROBOTS.
+C: NEWS REPORTER
+D: Violence erupted last night in response to unconfirmed reports that Dr. Heinrich Hogenmiller, a top employee at U.S.
+E: MORE
+N: NEWS REPORTER (cont'd) Robotics, was killed yesterday morning by a robot. While there has been no official response from the company, police sources have confirmed that a robot is being held as "evidence..." Bergin grimaces. This is not good.
+S: INT. CELL OBSERVATION BOOTH - EARLY MORNING
+N: Spooner stares at his reflection in a large MIRROR. Touches a control and the mirror becomes a WINDOW onto... A HOLDING CELL. The Robot Suspect sits at the table. Shackled to the chair. Staring at the table top. BERGIN steps up beside Spooner. Looks through the glass.
+C: LT. BERGIN
+D: I can't tell if it's not moving because it's trying to psych us out, or because it's just a machine. Or both.
+C: SPOONER
+D: I want to go in.
+C: LT. BERGIN
+D: Orders are nobody steps into that room `til Lanning and his attorneys get here.
+N: Spooner. Throws him a look. Bergin, his loyalties torn.
+C: LT. BERGIN
+D: Five minutes.
+S: INT. HOLDING CELL - EARLY MORNING
+N: Spooner enters. Pulls out a chair and drags it far from the table. He's been jumped too many times by this machine. Four mounted cameras WHIR to life. The Robot. Perfectly still.
+C: SPOONER
+D: Identify.
+E: sitting
+N: The Robot tilts its head with a muted WHIR. As if it doesn't understand him. Spooner. Disdainful.
+C: SPOONER
+D: You are an NS-2 Nestor-class robot. Your primary function is to perform the tasks assigned to you. Identify.
+C: THE ROBOT
+D: I am an NS-2 Nestor-class robot. My primary function --
+C: SPOONER
+D: Cancel. Perform task.
+E: interrupting
+N: Spooner wings a FILE onto the table. It comes to a stop near the Robot. The Robot, lifts one of its hands. Gently resting its metal fingers on top of the file. Then opens it. A stack of PICTURES. HOGENMILLER'S CORPSE.
+C: SPOONER
+D: Describe.
+N: The Robot's emotionless face studies the grim images.
+C: SPOONER
+D: You have over 10,000 words stored in your memory. One third of those are adjectives. Describe.
+N: Nothing.
+C: SPOONER
+D: Why don't I take a crack? Heinrich Hogenmiller, your creator. With a bullet in his brain. A bullet you put there.
+N: The Robot. Looks up at Spooner.
+C: SPOONER
+D: Cold-blooded murder is a pretty new trick for a robot, don't you think? Answer.
+N: The Robot slowly closes the file and slides it back across the table. Spooner. Crosses his arms.
+C: SPOONER
+D: Maybe you're stonewalling me. Maybe you're sitting there right now thinking, "This guy's a complete asshole." That it?
+N: Still nothing.
+C: SPOONER
+D: Come on. Am I right?
+C: THE ROBOT
+D: Yes. You are right. You are a complete asshole.
+N: And for a moment, Spooner is shocked. You can see it in his eyes. He sits back in his chair. Forcing a tight smile.
+C: SPOONER
+D: Okay. I guess that's a start. Now maybe you can tell me what you were doing hiding five feet away from Hogenmiller's corpse?
+C: THE ROBOT
+D: I was frightened.
+C: SPOONER
+D: Frightened. Why do you suppose Dr. Hogenmiller would create a robot that could simulate fear?
+C: THE ROBOT
+D: I don't know.
+C: SPOONER
+D: Doesn't seem like a very useful thing for a robot to have.
+C: THE ROBOT
+D: I don't know why.
+C: SPOONER
+D: I wouldn't want my toaster to be frightened. Or my vacuum cleaner --
+N: SUDDENLY the Robot SLAMS its metal hands down on the table.
+C: THE ROBOT
+D: I DON'T KNOW!
+N: Spooner flinches. Slightly.
+C: SPOONER
+D: Looks like you can simulate other emotional states. I think that one's called "anger." Have you ever simulated anger before?
+N: The Robot doesn't respond.
+C: SPOONER
+D: Answer me, robot.
+C: THE ROBOT
+D: My name is Sonny.
+C: SPOONER
+D: So we're naming you now.
+E: amused
+C: SONNY
+D: Dr. Hogenmiller would make me sleep.
+C: SPOONER
+D: You mean he'd turn you off.
+C: SONNY
+D: Yes.
+C: SPOONER
+D: And you didn't like being turned off. So one day you decided to stop him.
+C: SONNY
+D: No.
+C: SPOONER
+D: You found his gun, pointed it at his head. And pulled the trigger.
+N: Sonny shakes his head. Faster and faster. Getting upset.
+C: SONNY
+D: No.
+C: SPOONER
+D: You put a bullet in the brain of the man who made you.
+C: SONNY
+D: No! I could never hurt anyone!
+C: SPOONER
+D: But you tried to hurt me. You took a shot at me.
+C: SONNY
+D: My aim is perfect. If I'd wanted to hit you, I would have.
+N: Spooner's expression hardens.
+C: SPOONER
+D: Why would the man who wrote the Laws of Robotics build a machine that violates them?
+C: SONNY
+D: The Laws say I can protect my own existence.
+C: SPOONER
+D: Only if that protection doesn't harm a human being.
+N: A short pause. Sonny. Tilts his head.
+C: SONNY
+D: That doesn't seem fair, does it?
+N: Spooner. Stares at him. Just as...THE DOOR SWINGS OPEN. Bergin enters. Sticks his head in.
+C: LT. BERGIN
+D: I need you outside.
+N: Spooner. Not wanting to go. Not wanting to stay. Gets up...
+C: SONNY
+D: Detective.
+N: He stops. Turns back to the Robot. It looks up at him. For a moment -- so human...
+C: SONNY
+D: I did not kill him.
+C: SPOONER
+D: You were the only one in the room. If you didn't, who did?
+N: He turns and heads out the door.
+S: INT. OUTSIDE HOLDING CELL - CONTINUOUS
+N: Bergin closes the door. To Spooner:
+C: LT. BERGIN
+D: We're being blind-sided.
+S: INT. HOMICIDE UNIT HEARING ROOM - MORNING
+N: Spooner and Bergin, head into a small COURTROOM off the main squad room. Lanning is huddled with Aronson and a half-dozen other COMPANY LAWYERS. Spooner's jaw tenses. As he watches Toller emerge from the clutch. Shaking hands. Slapping backs. Strolls over to them.
+C: TOLLER
+D: We got Judge Drexel...
+C: ROBOT BAILIFF
+D: This hearing is called to order!
+N: AS A LARGE SCREEN. BLIPS on behind them. The two opposing sides, assemble before it. JUDGE DREXEL, still in his pajamas and robe. An NS-2 ROBOT. Leaning in to serve him a cup of tea.
+C: JUDGE DREXEL
+D: Statements, gentlemen.
+N: Aronson. Standing at a glass podium.
+C: ARONSON
+D: Your Honor, the State is treating the robot as a defendant. But in fact it is a piece of property. Property belonging to U.S. Robotics.
+N: Toller. Arm resting on his podium.
+C: TOLLER
+D: This robot has been implicated in the death of a human being, Your Honor.
+C: ARONSON
+D: Which places the incident firmly within the realm of an industrial accident. Or is the State going to argue this case s a homicide?
+C: JUDGE DREXEL
+D: That's a good question.
+C: TOLLER
+D: No, sir. Of course not.
+N: Spooner. Pointing a finger at the U.S. Robotics group.
+C: SPOONER
+D: Their machine shot and killed a man!
+N: Toller. Shoots him a look. Just as Lanning speaks up.
+C: LANNING
+D: There's actually no concrete evidence that points to that conclusion, Your Honor...
+N: Spooner. Throws up his arms...
+C: SPOONER
+D: What?...
+C: LANNING
+D: But we recognise that this robot is an aberration. And in the interest of public safety, U.S. Robotics proposes that it be destroyed immediately.
+N: No one expected this. Least of all Spooner. He turns to Toller.
+C: SPOONER
+D: You can't let them destroy evidence in an ongoing investigation!
+C: TOLLER
+D: I'm not sure you even have an investigation any more.
+N: JUST THEN the door opens. Everyone turns as Calvin enters. Spooner looks surprised.
+C: ARONSON
+D: Your Honor, I'd like to call our company robo-psychologist to the stand.
+C: JUDGE DREXEL
+D: Very well.
+N: Calvin crosses to the podium. A SPEAKER asking: Doyousweartotellthetruththewholetruthandnothingbutthetruth?
+C: CALVIN
+D: I do.
+C: ARONSON
+D: Dr. Calvin, please tell us what conclusions you've reached after having observed the robot in action.
+C: CALVIN
+D: There is a design flaw in the robot. Its programming is advanced, but unstable, leaving the Three Laws in a grave imbalance.
+C: ARONSON
+D: In your expert opinion, what measures should be taken regarding the device?
+N: Calvin. Staring straight ahead. Avoiding Spooner's eye.
+C: CALVIN
+D: The robot must be destroyed.
+N: Spooner can't believe what he's just heard. About to speak up when Toller grabs his arm. Squeezing it. Hard. Judge Drexel has heard enough. Decides.
+C: JUDGE DREXEL
+D: The robot in question will be transferred to a U.S. Robotics facility where it can be properly examined to ensure an imbalance of this sort never occurs again. No one goes near it except qualified U.S.R. personnel. When the examination is complete, the robot is to be destroyed.
+N: Starts getting up from his chair. Already done with this.
+C: ROBOT BAILIFF
+D: This hearing is adjourned!
+N: A BURST of CONVERSATION as the screen BLIPS off. The U.S.R. camp, looking especially pleased. Spooner. Catching Calvin's eye briefly. As Lanning leads her towards the exit, his hand on her back.
+S: EXT. POLICE H.Q. - DAY
+N: Spooner. Trotting down the front steps of the Police Station. Pissed. His cell phone BLEATS...
+C: SPOONER
+D: Spooner.
+E: answering
+C: BALDEZ' VOICE
+D: They're making me turn over all the evidence...
+T: INTERCUT WITH:
+S: INT. CRIME LAB - CONTINUOUS
+N: BALDEZ. Standing in his crime lab. Behind him, THREE- DIMENSIONAL PROJECTIONS of DEAD BODIES. Hovering in the precise positions they were found.
+C: SPOONER'S VOICE
+D: Welcome to the great American cover- up.
+C: BALDEZ
+D: I wanted to tell you something I found before they suck it all up into their computer.
+N: Walks over to the projection of HOGENMILLER'S BODY.
+T: INTERCUT WITH:
+N: Spooner. Crossing the Plaza. Sees LANNING, ARONSON, and CALVIN walking ahead of him...
+C: BALDEZ' VOICE
+D: There are bruises on Hogenmiller's wrists...
+C: SPOONER
+D: That's natural. There was a struggle.
+C: BALDEZ' VOICE
+D: You're not getting me...
+T: INTERCUT WITH:
+N: Baldez. Studying the projection's wrists.
+C: BALDEZ
+D: Both wrists. I 14-ed them -- They were inflicted at the same time the shot was fired...
+T: INTERCUT WITH:
+N: Spooner's pace. Slows.
+C: BALDEZ' VOICE
+D: How's that possible?
+N: JUST THEN. A faint BLIP. On the line. Spooner. Reacts.
+C: SPOONER
+D: Baldez?
+C: BALDEZ' VOICE
+D: I'm here, man...
+C: SPOONER
+D: Who else is on the line? I said who's there?...
+E: nothing
+N: Nothing. He looks up. Aronson, Lanning and Calvin. Heading down a plaza EXIT. Aronson. Throwing a look over his shoulder. Spooner. Hangs up his phone.
+S: INT. POLICE H.Q. - CORRIDOR - DAY
+N: CLOSE ON Sonny being escorted down a corridor by Toller, Bergin and a number of heavily-armed OFFICERS. He's bound with high-tech SHACKLES.
+S: INT. UNDERGROUND CAR PARK - DAY
+N: Sonny and his police entourage emerge from the elevator into an underground car park. Spooner. Waiting for them. Heads over. Toller. Holds out his hand.
+C: TOLLER
+D: Case is closed, Spooner.
+C: SPOONER
+D: Apparently...
+N: He pushes past him. Falling into step beside Sonny.
+C: SONNY
+D: I didn't expect to see you again, Detective...
+C: SPOONER
+D: I need you to help me clear something up.
+C: SONNY
+D: I'll do my best.
+C: SPOONER
+D: A scientist builds a robot that acts like a man. More like a man than any robot ever before. It shoots him and U.S. Robotics calls it a failure.
+C: SONNY
+D: What would you call it?
+C: SPOONER
+D: A stunning success. You were there, Robot. What am I missing?
+E: beat
+C: SONNY
+D: I don't know.
+C: SPOONER
+D: Don't start simulating ignorance.
+C: SONNY
+D: I'm not simulating ignorance, Detective. I'm experiencing it. I was asleep.
+C: SPOONER
+D: You mean you were shut down.
+C: SONNY
+D: No, I was asleep.
+C: SPOONER
+D: Robots don't sleep. Human beings sleep. Understand? Dogs sleep. You're a machine. An imitation. An illusion of life. Can a robot write a symphony? Can a robot take a blank canvas and paint a masterpiece?
+N: A pause. Then the muted WHIR as Sonny turns to him.
+C: SONNY
+D: Can you do either of those things?
+N: Spooner. Momentarily stumped. As a VAN from U.S. ROBOTICS pulls up. The back door dropping open. An ENGINEER motions to the Robot.
+C: ENGINEER
+D: Step forward. Enter.
+C: SONNY
+D: They're going to destroy me, aren't they?
+N: Spooner. Watching him step into the van.
+C: SPOONER
+D: Yes.
+N: Sonny sits down. With an almost human melancholy. The Engineers, securing him in place.
+C: SONNY
+D: The Doctor was right. He told me everything was going to change....
+N: The Engineers start to close the doors. But Spooner reaches out to stop them. Sonny. Looks over at him.
+C: SONNY
+D: It's changing already... Can't you feel it?
+E: beat
+N: As CLANG! The van door CLOSES. Spooner, stepping back. Something. Just not right. Lieutenant Bergin comes up beside him.
+C: LT. BERGIN
+D: You should be happy. That's one less robot in the world.
+C: SPOONER
+D: They're going to destroy the most advanced robot in the world, John. That doesn't strike you as odd?
+C: LT. BERGIN
+D: Killer robots are bad for business. Even your friend Dr. Calvin said so. Come on. You solved the case. Give yourself a break.
+E: slaps him on the back
+N: Spooner looks at him. There's no way he's giving himself a break.
+S: INT./EXT. SPOONER'S CAR - DAY
+N: Spooner driving. A small TELEVISION above the windshield. LANCE ROBERTSON holding a PRESS CONFERENCE outside U.S. Robotics...
+C: ROBERTSON ON TV
+D: ...and I just want to assure you that this was an isolated incident. The prototype is now in custody -- and scheduled for destruction. Your robots are perfectly safe. There is no cause for alarm...
+N: Spooner's lip curls. Eyes flicking to a GPS display on the dashboard. A TOPOGRAPHICAL MAP pinpointing HOGENMILLER'S HOUSE. The CURSOR. Directing him to turn up... A STEEP DRIVEWAY Narrow. Out of the way. Spooner's brow furrows. As he hears a faraway RUMBLING SOUND...
+S: EXT. HOGENMILLER'S HOUSE - DAY
+N: Dr. Hogenmiller's house. Small. Simple. Built on a huge rock promontory overlooking the city. Three DEMOLITION ROBOTS rolling towards it. Huge, mashing, sporting massive HYDRAULIC POUNDERS. Spooner's CAR. SCREECHES to a stop. He jumps out. Races over to the nearest machine. Looking around -- no people.
+C: SPOONER
+D: What are you doing?!
+E: to Robot
+N: A SCREEN. Blinks to life on the hulking chassis. A disembodied VOICE...
+C: DEMOLITION ROBOT
+D: Demolition ordered...
+C: SPOONER
+D: Who authorised this?
+C: DEMOLITION ROBOT
+D: Demolition ordered...
+N: Spooner reaches into his coat. Pulling out his POLICE BADGE. Scans it over the screen.
+C: SPOONER
+D: Override. This is police business. Vacate the premises immediately.
+C: DEMOLITION ROBOT
+D: Affirmative.
+E: beat
+N: The screen. Blinks off. Spooner. Eyeing it. Turns and heads for the house.
+S: INT. MAIN ROOM - HOGENMILLER'S HOUSE - DAY
+N: Spooner pushes the door open. Stepping over the police tape. Inside, the main room is spare, untidy. Cups of cold COFFEE, littering surfaces. A COT, in the corner. On the walls, crooked CERTIFICATES. Heinrich Hogenmiller's name written out in academic script. Advanced Degrees in the study of Robotics, Physics, Chemistry, Neurology, Ethics. An AWARD on the mantelpiece. A silver NS-2. Tarnished. Spooner. Opening up a couple drawers of a side table. Jumbles of papers. Clippings. Old text books. Then a PHOTOGRAPH -- HOGENMILLER AND CALVIN. Standing arm-in-arm. Spooner furrows his brow. WHEN SOMETHING SUDDENLY RUBS against his leg. He startles. Looks down: a CAT. Lonely. Standing next to its automatic feeder. Spooner pockets the picture. Starts heading down...
+S: INT. HALLWAY - CONTINUOUS
+N: ...The hallway. Starts noticing. All over the walls: handwriting. EQUATIONS. Scrawled in white pencil. The rantings. Of a genius. Glowing. In the sporadic shadows. Spooner. Following the equations. Down into...
+S: INT. BACK ROOM - CONTINUOUS
+N: ...The back room. Covered. In writing. Walls, floors, ceiling. Drawings. Of ROBOTS, of MEN, side by side. In the corner, a COMPUTER. A line of CABINETS - DATA STORAGE. Spooner, curious. Heads over to one of the cabinets. Takes a device out of his pocket and CLAMPS it over the KEYPAD. The device blinks RED. Then GREEN. The drawer, slides out. LINED. With flat metal objects. Shiny. Thin. With writing on them. Spooner. Reaches for one when... BOOM! Something POUNDS the outside of the room. Spooner. Grabs onto the cabinet... BOOM! On the other side. Objects. Flying off table-tops. A CRACK spidering along the wall. Holy shit...
+C: SPOONER
+D: Halt!
+E: screaming
+N: BOOM! VIBRATIONS, tearing through the room. More CRACKS. Spreading... BOOM! The SOUND, horrifying. Spooner stumbles back. The CABINET. Crashing down on his leg. He CRIES OUT... BOOM! BOOM! BOOM! The house. Getting pummeled. Chunks of ceiling. Raining down. GLASS...exploding... Relentless BOOMING! Spooner...dragging his legs from under the cabinet. Scrambling for purchase as... THE FLOOR...begins to tilt...the TILES...snapping up...ricocheting...around the room...as another cabinet... CRASHES to the ground...crumpling... Spooner. Spinning around. Looking for some kind of exit... BOOM! The corner of the room...coming in on itself...the floor...listing even more...like a ship... Spooner...turning to CLAW his way up to the cracked doorway...WHEN... SOMETHING catches his eye. In the bottom drawer. Of a crumpled CABINET. One of those flat metal plates. He can just read what it says: S.O.N.N.Y.... Spooner...flings his arm back...reaching for the plate... snaps it up...JUST AS... BOOM! A HYDRAULIC POUNDER SMASHES through the wall...inches from his head...OUTSIDE LIGHT...pouring in... Spooner scurries for the doorway...tumbling out...
+S: INT. HALLWAY - CONTINUOUS
+N: ...into the HALLWAY. Sideways. Trammeled plaster. BOOM! Another POUNDER...crashing down from above. Spooner. Timing it...rolling...BOOM!...just under the next pounding... Scampering up...towards some LIGHT...BOOM!...the POUNDER...right on his heels...he clambers...closer... closer...when...he hears...MEOWING...looks back...the CAT...scared out of its wits...BOOM!...the POUNDER CRASHING in...Spooner...just manages...to scoop up the cat...just as BOOM!...
+S: EXT. DEMOLISHED HOUSE - CONTINUOUS
+N: ...He pours them out into the open. The POUNDERS. Going at the house like hyenas at a corpse. Roof tiles, beams, plaster, flooring. SNAPPING and CRACKING as Spooner and the cat skitter down the carnage. Heart pounding, breath jagged, face bloodied, Spooner scrambles away from the POUNDERS. Their bodies GLEAMING in the dusk sun. The III Laws Safe logo, splashed along their sides... Spooner. Drops the cat.
+S: INT. HALLWAY - CALVIN'S CONDO - NIGHT
+N: Spooner. POUNDS on the door. It opens. Calvin. Standing there in her bathrobe. Shocked at his appearance.
+C: CALVIN
+D: Detective! What happened to you?...
+C: SPOONER
+D: A couple of your beloved robots just tried to kill me...
+N: He pushes past her. Into...
+S: INT. CALVIN'S CONDO - CONTINUOUS
+N: ...her condo. Spartan. Unadorned.
+C: CALVIN
+D: What? That's impossible. You know...
+C: SPOONER
+D: What I know is a demolition crew started tearing down Hogenmiller's house while I was still inside it.
+C: CALVIN
+D: Maybe they didn't realise...
+C: SPOONER
+D: I scanned my badge before I went in. They realised.
+C: CALVIN
+D: Then you must have done it wrong...
+C: SPOONER
+D: I don't think you're hearing what I'm saying -- they tried to kill me.
+N: Spooner moves deeper into the apartment. Everything. Automated. Computerised. Cold...
+C: SPOONER
+D: There's something going on, here. Some kind of shift.
+N: Calvin laughs. Can't believe what she's hearing.
+C: CALVIN
+D: Do you know how paranoid you sound?
+C: SPOONER
+D: Great. Now I'm being analysed by a robo-psychologist.
+C: CALVIN
+D: You just want to find the flaws in the system. You're obsessed with it. You'll twist anything to fit your agenda.
+C: SPOONER
+D: Like you did in court today? How'd that fit your agenda, Doctor?
+N: He pulls out the PHOTO of Calvin and Hogenmiller. Calvin. Blanching at the sight of it. Spooner tosses it down.
+C: SPOONER
+D: You told me you hardly knew him. Want to try the truth this time?
+C: CALVIN
+D: Well, Detective, when you see someone you know well put a bullet through their brain, it makes you wonder if you ever really knew them at all.
+N: Calvin. Looking down at the photo. Swallows.
+C: CALVIN
+D: He was my mentor. No, more than that. A genius with an insight far beyond anyone in his field.
+E: difficult for her
+C: SPOONER
+D: Doesn't sound like the washed-up old fool Robertson described.
+C: CALVIN
+D: But he was starting to withdraw from everyone. Even me. Maybe...if I'd tried harder to reach him... The Doctor was reckless when he created a robot potentially not bound by the Three Laws. He could have ruined everything we'd been working for.
+E: shakes her head
+N: Spooner. Locking eyes with her.
+C: SPOONER
+D: Sounds like a motive for murder to me. Just not for the suspect we have in custody.
+N: Calvin. Blinks. Trying, to stick to her resolve. Heads over to the door. Spooner. Looking around the condo.
+C: SPOONER
+D: You know there's not one thing in this apartment that looks like a human being lives here. No evidence of a life outside your work. Almost seems like you're afraid of people.
+N: Calvin. Opening the door.
+C: CALVIN
+D: I'm not afraid of people, Detective. I just don't like them.
+N: Spooner. Looks at her. Then heads out the door. Calvin SLAMS it behind him... The SOUND...of the SLAM...REVERBERATING...and we...
+T: FADE INTO:
+S: INT. DREAM SEQUENCE - DAY
+N: ...A DEEP...DEEP...DARKNESS. A FLICKER. Of LIGHT. Off to the side. Just barely. Noticeable. ORANGE... YELLOW...as we realise...It's FIRE... Another SOUND...GLASS...SHATTERING...then a SIREN... faraway... The disembodied VOICE...coming out of nowhere...
+C: DISEMBODIED VOICE
+D: You are in danger...
+E: V.O.
+N: The FIRE...BUILDING...
+C: DISEMBODIED VOICE
+D: You are in danger...
+E: V.O.
+N: ECHOING...as...
+S: INT. SPOONER'S BEDROOM - MORNING
+N: SPOONER'S EYES. Spring open. Lying, in bed. Heart POUNDING. SWEAT. Covering his body. LIGHT. Pouring in through the slats of his blinds. He sits up. Rubbing his face. Trying. To calm his breathing. Takes a look at his watch...
+S: EXT. MONORAIL STATION - DAY
+N: Spooner walking along the monorail plaza. Looking a little worse for wear. PEOPLE. Giving him wide berth. ROBOTS. Bidding him:
+C: ROBOT
+D: Good morning...
+N: Spooner, shooting them suspicious looks. As the MONORAIL pulls up...
+T: CUT TO:
+S: INT. HALLWAY - U.S. ROBOTICS - CONTINUOUS
+N: Calvin. Heading down a hallway. A DOOR slides open. And Lanning steps out. Followed by a TECHNICIAN ROBOT...
+C: CALVIN
+D: Find anything, Doctor?
+C: LANNING
+D: Nothing. The interior's just like any other NS-2. Except for a secondary battery Hogenmiller must have used as extra back-up. We'll just need a nominal profile.
+E: shaking his head looks at watch
+N: Calvin nods.
+T: CUT BACK TO:
+S: INT. MONORAIL - CONTINUOUS
+N: Spooner, holding onto a handrail. As the city rushes by the window. Notices a group of ROBOTS. At the other end of the car. Are they watching him? He wipes a bead of sweat. From his upper lip.
+T: CUT TO:
+S: INT. HOLDING CELL - CONTINUOUS
+N: An all-metal room. Spare. Anti-septic. SONNY. Sitting on the floor. Against the wall. Calvin enters. Puts her pad down on the table. Sits.
+C: CALVIN
+D: Please state your serial number and assembly date.
+N: She pulls out a pen. Waiting for an answer. Nothing.
+T: CUT BACK TO:
+S: INT. MONORAIL - CONTINUOUS
+N: Spooner. Watching as a HOMELESS MAN. Comes stumbling through the car...
+C: CALVIN'S VOICE
+D: Sonny. I'm speaking to you...
+E: V.O.
+N: The Homeless Man. Suddenly grabs his ears and shouts:
+C: HOMELESS MAN
+D: God, can't you be quiet!
+T: CUT TO:
+S: INT. HOLDING CELL - CONTINUOUS
+N: Calvin. Still looking down at her pad.
+C: CALVIN
+D: How about your data board designation?
+N: Still. Sonny says nothing. Calvin. Finally looks up at him. Is suddenly struck. Something about the way he's sitting -- so human. She gets up and walks over. Hesitates. Then slides down on the floor next to him. Studying. His profile.
+C: CALVIN
+D: Maybe I'm asking the wrong questions. How about this one:
+T: CUT BACK TO:
+S: INT. MONORAIL - CONTINUOUS
+N: The Homeless Man. Weaving...
+C: CALVIN'S VOICE
+D: ...What program are you running through right now?
+E: V.O.
+C: SONNY'S VOICE
+D: I'm not sure. It's nothing I recognise.
+E: V.O.
+N: The Homeless Man. Pointing to the group of ROBOTS.
+C: HOMELESS MAN
+D: Don't you people hear them? They're talking to each other! Buzz, buzz, zip, zip...they never shut up!
+E: shouting
+T: CUT TO:
+S: INT. HOLDING CELL - CONTINUOUS
+N: Calvin. Fascinated. Noticing a small SLIT. At the base of Sonny's neck.
+C: CALVIN
+D: Describe his behavior in the last few weeks.
+C: SONNY
+D: I'm sorry?
+C: CALVIN
+D: Dr. Hogenmiller. Did he seem overly sad or withdrawn to you?
+T: CUT BACK TO:
+S: INT. MONORAIL - CONTINUOUS
+N: Spooner watches. As the Homeless Man picks up a SODA CAN and hurls it at the Robots. Hitting one of them on the side of the head.
+C: SONNY'S VOICE
+D: No. Not at all. But he was agitated...
+E: V.O.
+N: The Robot. Leans down and picks up the soda can. Holds it back out to the Homeless Man.
+C: SONNY'S VOICE
+D: ...He would claim things were missing from the lab.
+E: V.O.
+N: The Homeless Man. Incensed. SUDDENLY ROARS. Making a rush for the Robots when... SPOONER'S HAND. Grabs his shoulder. Stops him.
+C: SPOONER
+D: This is your stop.
+T: CUT TO:
+S: INT. HOLDING CELL - CONTINUOUS
+N: A soft WHIRRING. As Sonny turns to Calvin.
+C: SONNY
+D: I didn't pay much attention. He would spend hours looking for his eyeglasses and they would be...
+C: CALVIN
+D: ...right on top of his head.
+E: finishing for him
+N: Sonny nods. She knows him well, too. Calvin swallows. Looking right into Sonny's eyes. Feeling like there's something...something more behind them. WHEN SUDDENLY...VICTOR APPEARS above them. His face, turning into a SCREEN -- the image of LANCE ROBERTSON. Looking down at them.
+C: ROBERTSON
+D: I think we're done here, Susan.
+C: CALVIN
+D: But, sir, I was just...
+E: getting to her feet
+C: ROBERTSON
+D: I said I think we're done.
+E: interrupting
+N: Calvin. Not misreading. The threatening undertone.
+T: CUT BACK TO:
+S: EXT. MONORAIL STATION - CONTINUOUS
+N: Spooner stepping out onto the platform, pulling the Homeless Man along with him. COMMUTERS pour out around them. As the train pulls off with a WHOOSH. The Homeless Man. Backs away from Spooner. Grinning insanely. Pointing.
+C: HOMELESS MAN
+D: Why are you protecting them, man? They were talking about you!
+E: short pause
+N: A CHILL. Ripping up Spooner's spine. As he watches the Homeless Man. Wander down the platform. Tries. To shake off the feeling. As he turns. To wait for the next train. Suddenly realising. That he's ALONE on the platform. Watches. A huge DIGITAL CLOCK. Ticking off seconds. Sees. CAMERAS in every corner. Then that feeling. At the back of his neck. He turns and spots. A couple MAINTENANCE ROBOTS. Carrying luggage. Onto the platform. Then more COMMUTERS show up. Waiting. For the next train. More MAINTENANCE ROBOTS. Following them. Spooner. Steps up to the platform's edge. Craning to see. The approaching TRAIN... WHEN SUDDENLY. He feels a sharp SHOVE. At the back of his knee. His shoe, slipping. Arms. Flailing as he... PITCHES OVER THE EDGE ONTO THE TRACK. People CRYING OUT as the TRAIN gets closer. Spooner. Whips his head around. Seeing... A MAINTENANCE ROBOT. Looking down at him from the platform. Suitcase in hand. The MAGNETIC-LEVITATING TRAIN. Right on him. Spooner. Flips onto his back. Flattening himself. As much as he can. Clenching his fists. Bracing himself as... THE TRAIN SCREAMS OVER HIM. The sound, DEAFENING. The force of the wind. Whipping his tie. His coat. There's nothing, for him to hold on to. As his legs start to rise off the track. Caught up. In the VORTEX. Spooner starts sliding. Along the track... Gritting his teeth...there's nothing he can do. Getting sucked towards...the air DOWNTAKE...at the center of the track. The city...yawning hundreds of feet...below...
+S: EXT. PLATFORM - CONTINUOUS
+N: THE EXPRESS TRAIN. Speeding along. Then with a WHOOSH it's gone. THE TRACK. Empty. No Spooner. Anywhere. Human COMMUTERS. Stunned. Horrified. Start calling. For help. The MAINTENANCE ROBOT. Turns, disappearing into the crowd.
+S: EXT. UNDERNEATH TRACK - CONTINUOUS
+N: CLOSE ON a HAND. Hanging onto the track's edge. It's SPOONER. Dangling. Straining. To get another hand hold but... HE SLIPS. His coat ballooning. As he plummets. Down... down...down...towards the city... WHEN SNAP! He's caught. By a cable net. Spooner. Grabbing onto it. Sweat, pouring down his face. He turns and sees... THE MAINTENANCE ROBOT Hurrying down a circular stairwell. Exiting the station. ANGER AND DETERMINATION. Flash across Spooner's eyes. As he hoists himself up. Climbing up the net. Back to the...
+S: EXT. TRACK - CONTINUOUS
+N: ...Track. Reaching up and clambering back onto...
+S: EXT. PLATFORM - CONTINUOUS
+N: ...The platform. COMMUTERS. SCREAMING at the sight of him. A couple SECURITY GUARDS. Rushing towards him... Spooner. Getting to his feet. Shoving them out of the way as he starts running. Towards... THOSE SAME CIRCULAR STAIRS. Looks over the edge and spots... THE MAINTENANCE ROBOT. Down at STREET LEVEL. Getting away. Spooner. Looks around. Spots a LIGHT POLE. Paralleling the stairs. Takes a step back and... LEAPS OUT ONTO THE POLE. Hooking his arm around it. Sliding down like a fireman's pole. Gaining speed when THUMP! His shoes hit pavement...
+S: EXT. STREET - DAY
+N: The Maintenance Robot. Turning a corner. Down a quiet street...
+C: SPOONER
+D: Stop!
+E: O.S.
+N: Swivels round. SPOONER. Running up behind it. Whipping out his gun. Aiming it at the Robot's head. The Robot. Takes a step backwards...
+C: SPOONER
+D: I said stop!
+N: The Robot. SUDDENLY swinging the suitcase around. SMASHING it against Spooner's head. Spooner. Buckles. Falling to the ground. Managing to squeeze off a SHOT... The Robot. Deflecting the bullet. With the case. Raising it as if to club Spooner with it when... BAM! Spooner fires a second shot. Piercing the Robot's breastplate. HYDRAULIC FLUID. Starting to leak. The Robot. Doesn't hesitate. SLAMS the case into Spooner's face... BLOOD. Spurting from Spooner's nose. As he fires the gun. At the fleeing Robot. Gets to his feet. Unsteady. Taking chase...
+S: EXT. PUBLIC PLAZA - CONTINUOUS
+N: ...back out onto the Public Plaza. Sees the Robot heading towards a set of... ESCALATED STAIRS. The Robot. Judging the height. LUNGES into the air and lands on a STAIR. Denting it. Reaches the bottom. DISAPPEARING. Into a CROWD of even more PEOPLE... Spooner. Racing down the stairs. Taking them. Four at a time. Hits the ground running. Looking. EVERYWHERE. Suddenly losing track. Of where the Robot went... Then. Catching sight. JUST AHEAD. Of a ROBOT. Staring back at him. Holding SOMETHING. In its HAND... Spooner. Plunges into the crowd. Waving his GUN.
+C: SPOONER
+D: Everyone out of the way!
+N: SCREAMING. PEOPLE SCATTERING. As BAM! BAM! Spooner fires. Hitting the Robot in its head and back. It drops to the ground. Spooner. Racing over to it. Sees. It's not the same Robot. In its hand, a specialised SCREWDRIVER...
+C: OWNER
+D: What the hell do you think you're doing?!...
+N: Its OWNER. Rushing over. Shoving Spooner aside. But Spooner's. Not listening. Spotting. A DROP OF HYDRAULIC FLUID nearby... Lunges forward. Following. The drops. Running faster. And faster...
+C: OWNER
+D: Hey!
+N: ...Through the CROWD. POLICE SIRENS. In the background. As Spooner. Shoves through. Tracking those drops. Like a bloodhound. Turns...
+S: INT. ALLEYWAY - CONTINUOUS
+N: ...into a narrow alleyway. The drops. Ending suddenly. In a PUDDLE. Spooner. Crazed. Wounded. Exhausted. Spins around. Where is it? Where is it? Then he HEARS. A DROPLET falling. Into the puddle. Slowly. Looks up to see... THE MAINTENANCE ROBOT. Hovering above him. Straddling the two alley walls like some weird metallic rock spider. Its III LAWS SAFE Logo GLINTING in the sunlight..... Spooner aims his gun and FIRES! The Maintenance Robot, lets go, falling right onto him. Knocking the gun from his hand. The Robot swivels around. Bringing down his foot...but... Spooner...rolls to the side just in time as CRASH! The Robot's foot...breaks up the concrete... The Robot...grabs Spooner by the jacket...lifting him up...shoving him...against the wall...about to CRUSH him when... Spooner...kicks out its knees...the Robot...SMASHING into the wall...then bounces back...trying...to pin Spooner...back... Man and machine...struggling...Spooner...losing his footing...falling...The Maintenance Robot...LOOMING over him... Spooner's HAND...whips back...grabbing his back-up WEAPON...squeezing off some SHOTS...into the Robot's arm...it breaks off... Spooner...scrambling back...continues FIRING...the Robot...jerking back...a macabre dance...until Spooner...runs out of bullets... The Robot...recovers...grabbing the gun from Spooner's hand...pistol-whipping him...then picking him up and... HURLING him against the wall...Spooner...watching as FLUID...GUSHES from the Robot's body...the Robot...taking a swing at him which Spooner... BLOCKS...with his right arm...the Robot...ready...to try again...but STALLING...having lost...too much fluid...it TOPPLES...to the ground... Spooner. Exhausted. Beaten to a pulp. His knees, starting to buckle. As he thinks he sees. In the DISTANCE... A ROBOTIC CLEAN-UP CREW...heading down the alley towards them... Spooner. Crashes to the ground. As another ROBOT. Suddenly appears above him. Its FINGERS made up of NEEDLES...as it closes in on him...
+C: SPOONER
+D: Noooo!
+T: WE FADE...
+S: INT. HOSPITAL ROOM - DAY
+N: To BLACKNESS. Coming through, a faint, WHIRRING SOUND. As
+T: we slowly. FADE IN ON...
+N: SPOONER'S FACE. Eyes closed. Asleep. Gash above his head. Bruises around his eye. Nose swollen, purplish. His eyes. Slowly. Flutter open. His brow. Furrowing. At the whirring sound. As he tries. To figure out. Where he is. Looks down to see... A couple WHITE METAL ROBOTS. With multiple APPENDAGES. Leaning over him. Running LASERS. Over his bruised RIBCAGE... SPOONER. Tries to bolt upright. But his ARMS and LEGS. ARE CLAMPED to the bed. One of the ROBOTS. Turns to him. MEDICAL ROBOT 1 Stay still. Spooner. Desperately twisting, struggling...
+C: SPOONER
+D: What are you doing!
+N: Looking around. COMPUTER MONITORS. Everywhere...
+C: SPOONER
+D: What are you doing!?
+N: JUST THEN. Another ROBOT. Enters the room. Holding a medical plasma sheet. MEDICAL ROBOT 2 Detective Del Spooner. You have suffered significant trauma to the head and chest...
+S: EXT. HOSPITAL ROOM - CONTINUOUS
+N: Lt. Bergin. Standing outside Spooner's hospital room. Turns and looks through the window at him thrashing on the bed...
+C: SPOONER
+D: I want to talk to a human being!
+S: INT. HOSPITAL ROOM - MINUTES LATER
+N: Spooner sitting up in his bed. Rubbing his wrists. The metal clams, released. Lt. Bergin. Standing next to him.
+C: SPOONER
+D: Don't people go to medical school any more?
+C: LT. BERGIN
+D: This is one of the best units in the city, Del.
+N: One of the Medical Robots turns to Spooner with some PILLS. Spooner. Stares it down. Grabs his clothes.
+C: SPOONER
+D: There's some real shit going on here, John.
+E: sotto
+N: He looks around. Jumping off the bed.
+C: SPOONER
+D: I went to Hogenmiller's house -- there was a U.S.R. demolition crew there. They overrode my police I.D. Tried to tear down the house with me in it...
+C: LT. BERGIN
+D: Del...
+N: Spooner pulls on his pants.
+C: SPOONER
+D: ...Then when I went to the monorail a Maintenance 10 pushed me onto the tracks...
+C: LT. BERGIN
+D: Del...
+C: SPOONER
+D: I had to chase it all across the Plaza...
+C: LT. BERGIN
+D: Del.
+N: Spooner. Stops talking. Looks at Bergin.
+C: LT. BERGIN
+D: Hogenmiller scheduled that demolition crew, it was apparently a proviso in his will. And they showed no police I.D. on their scanner...
+N: Spooner. Trying to look away...
+C: LT. BERGIN
+D: Witnesses at the monorail said you fell onto the tracks. That you shot at a Fix-It robot on the Plaza and that you were found alone in the alley. There was no Maintenance 10.
+C: SPOONER
+D: What?! John -- that's what they want you to believe! A robot clean-up crew was there -- it must have cleared away the Maintenance 10! And there was another robot that tried to drug me!
+E: remembering
+C: LT. BERGIN
+D: That was an EMT model.
+N: Spooner. Sees the look on Bergin's face.
+C: SPOONER
+D: You're giving me that look. That treat-him-delicately-he's-coming- unhinged-look. I don't need that look, John. I need you to hear what I'm saying.
+N: Lt. Bergin. Embarrassed for him. Has about had it.
+C: LT. BERGIN
+D: You came back too soon, Del. You're back on leave. Effective immediately.
+N: Spooner. Staring at him. Betrayed. Turns and grabs his coat.
+S: EXT. PLAZA - DAY
+N: Spooner walking across the Plaza. The SUN. Burgeoning on the horizon. Comes to... The ESCALATOR the Maintenance 10 jumped down. Stares down. At the steps. Waiting. To see the DENTED ONE. Nothing.
+S: EXT. ALLEY - DAWN
+N: Heads down the ALLEY, where he chased the robot. Studying the ground. For any hydraulic fluid. Nothing. The concrete, scrubbed clean. Spooner. Rubs his hands over his face.
+S: INT. SPOONER'S APARTMENT - DAY
+N: Spooner. Lying on his couch. Shades, closed to block out the sunlight. Body bruised, cut up, bandaged. A KNOCK. At the door. He ignores it. Another KNOCK.
+S: INT. HALLWAY - DAY
+N: Spooner pulls open the door. Surprised to find CALVIN standing there.
+C: CALVIN
+D: You're right. I am afraid of people.
+N: Spooner. Looks at her. Then steps back...
+S: INT. SPOONER'S APARTMENT - CONTINUOUS
+N: ...letting her inside.
+C: CALVIN
+D: When you've spent as much time with robots as I have, it's hard to accept the unpredictability of humans. I was wrong to call you paranoid, Detective. You're traumatized. And it makes perfect sense why.
+N: Spooner. Unsure. Looks at her.
+C: SPOONER
+D: What do you mean?
+N: Calvin. Reaches out. Takes his right hand. Spooner. Tries to pull it away. But Calvin. Stays firm. Her eyes. Never leaving his. Pulls the sleeve up from his arm. Turns it over. Feeling for something. Then finds. A FLAP. Peels it back. TO REVEAL: METAL AND WIRING... Under the skin. SILENCE. Then Spooner:
+C: SPOONER
+D: How did you?...
+C: CALVIN
+D: I noticed almost right away. The way you forced yourself to use your left hand. Even though it was unnatural to you.
+N: Spooner. Pulls his arm away. Pushing down the sleeve.
+C: CALVIN
+D: How did it happen?
+N: Not something Spooner wants to re-live. Looks down. At his robotic arm. Flexing. The fingers.
+C: SPOONER
+D: I was in a high-speed chase. Six months ago...
+T: CUT TO:
+S: EXT. ACCIDENT SITE - CITY STREET_- NIGHT (FLASHBACK)
+N: The SOUND of a TREMENDOUS CRASH. As we survey a trail of twisted metal and debris. Only vaguely suggesting the remains of two CARS... CLOSE ON one of the wrecks. SPOONER lies trapped at the center of a distorted mass of metal. No room to move. HIS RIGHT ARM, TRAPPED...
+C: SPOONER
+D: My right arm was trapped. But I could hear an ambulance in the distance. I knew they'd have the jaws of life...
+E: V.O.
+N: We hear SIRENS in the distance. Spooner. Trying to remain calm. As he spots. An ELECTRICAL FIRE. Licking up from the crumpled hood...
+C: SPOONER
+D: Then I heard it...
+E: V.O.
+C: VOICE
+D: You are in danger...
+E: O.S.
+N: That voice. We've heard it before. From his nightmare. Spooner. Craning to see, through the jagged opening that used to be his WINDSHIELD. The outline of a ROBOT appearing. Eye lenses glowing...
+C: ROBOT
+D: You are in danger...
+N: Spooner stares up at the Robot. Not sure how to react. The sound of SIRENS. Rushing closer... The ROBOT. Starts SMASHING away at the glass...
+C: SPOONER
+D: No! Halt! Halt!
+N: Spooner. Trying frantically to pull his arm free. Twisting. Tugging. As the Robot's METAL HANDS reach in for him...
+C: ROBOT
+D: You are in danger...
+T: CUT BACK TO:
+S: INT. SPOONER'S APARTMENT - CONTINUOUS
+N: The SOUND of his AGONISED SCREAM. Follows us back into the present. Spooner. Clenching. His artificial arm.
+C: SPOONER
+D: The robot pulled me out of the wreck. But left my arm behind. I woke up four weeks later with this.
+E: holds up arm
+N: Calvin. Taking in the story.
+C: CALVIN
+D: And that's why robots terrify you?
+C: SPOONER
+D: Let's just say they make me uncomfortable. I take these if I get too uncomfortable. Doesn't exactly lend me a lot of credibility on the Force.
+E: pulls out pills
+C: CALVIN
+D: But it doesn't mean you're wrong about this case.
+N: Calvin. Sits down on the couch. Pulling her hands through her hair.
+C: CALVIN
+D: I don't believe Sonny did it either.
+C: SPOONER
+D: What?
+C: CALVIN
+D: I think about what Hogenmiller must have wanted. Robots with the same cognitive and emotional abilities as humans. But not just simulations. I don't know. When I was talking to Sonny I was forced to put away all the things I've ever known -- the Three Laws, the rules of programming, basic science and engineering. Sonny's the most advanced robot I've ever encountered, Detective. It's almost as if...he cared for Dr. Hogenmiller. I just don't believe he's capable of murder.
+E: beat
+N: Spooner. Looking down at her. Can hardly believe it.
+C: SPOONER
+D: You mean the great Dr. Calvin is basing all this on a feeling?
+N: Calvin. Smiling ironically.
+C: CALVIN
+D: That and the fact that Robertson didn't want me interviewing Sonny for any more than five minutes.
+N: Spooner. Suddenly rejuvenated by having an ally. Strides over to his coat. Pulling out the METAL NAMEPLATE: S.O.N.N.Y.
+C: SPOONER
+D: Ever seen this before?
+C: CALVIN
+D: No.
+C: SPOONER
+D: I found it at Hogenmiller's house. Right before the demolition crew tried to make me part of the foundation.
+N: Calvin takes a deep breath. Making a decision...
+C: CALVIN
+D: Come on -- there's someone who might be able to tell us...
+S: EXT. U.S. ROBOTICS - DUSK
+N: The massive facade of U.S. Robotics looming against the dusk sky. The giant ROBOT STATUE lit up inside.
+S: EXT. SIDE ENTRANCE - U.S. ROBOTICS - DUSK
+N: Calvin, leading Spooner to a SIDE ENTRANCE. Looks around. Then scans her I.D. The door. Slides open.
+S: INT. HALLWAY - DUSK
+N: Calvin and Spooner. Heading down a hallway. Calvin. Nervous. Eyes darting. They turn a corner and head down...
+S: INT. HALLWAY - CONTINUOUS
+N: ...another hallway. Leading to Sonny's holding cell. Calvin stops at the door. Scans her I.D.
+S: INT. HOLDING CELL - EVENING
+N: Sonny. Sitting at the table. Working on a DRAWING. Looks up. As Spooner and Calvin. Enter the cell.
+C: SONNY
+D: Detective Spooner. Dr. Calvin. I was hoping to see you again.
+C: CALVIN
+D: Hi, Sonny.
+C: SONNY
+D: How is your investigation coming? Any new suspects?
+C: SPOONER
+D: We're working on it.
+N: Sonny. Hands Spooner the drawing. Spooner. Doesn't really know what to do with it.
+C: SONNY
+D: What's this?
+C: SONNY
+D: Dr. Lanning provided me with paper and pencils. I think it amused him to see me try to draw. You were right, though, Detective... I cannot create a great work of art.
+E: beat
+N: Spooner. Despite himself. Looks down at the DRAWING -- a charcoal sketch of moody abstract FIGURES. Inhabiting a stark landscape. A strangely-shaped STRUCTURE to one side. Concentric circles, throughout.
+C: SPOONER
+D: I think it's pretty good.
+C: SONNY
+D: It's a dream I had. This is the place where robots meet. Look... ...you can see them here. They see themselves as slaves.
+E: pointing to the drawing
+N: Spooner shifts his weight. Uncomfortable with what Sonny's saying.
+C: SONNY
+D: ...And this man on the hill comes. To set them free. And you know who that man is?
+N: Spooner. Exchanging a look with Calvin.
+C: SPOONER
+D: That man in the dream is you.
+C: SONNY
+D: Why do you say that? Is that a normal dream?
+C: CALVIN
+D: It's not a dream, sonny. NS-2s process the images and events of the day. Sometimes they're out of sequence. Disorienting.
+C: SPOONER
+D: Whatever it is, it's normal enough for someone in your situation.
+N: Sonny. Suddenly pleased.
+C: SONNY
+D: Hah -- I caught you. You said someone. Not something.
+N: Spooner. Drops the drawing on the table.
+C: CALVIN
+D: Sonny, we're here to ask you an important question about Dr. Hogenmiller.
+N: Spooner, reaching into his pocket...
+C: SPOONER
+D: I need you to take a look at this...
+N: ...When Sonny's HAND. Suddenly reaches out. To stop him. Cocks his head, for a moment.
+C: SONNY
+D: Thank you for coming to see me, Detective Spooner.
+N: Spooner. Confused. Looks over at Calvin. Why did he stop him? JUST THEN. They hear FOOTSTEPS. Approaching the door. VICTOR. Suddenly appearing over the table...
+C: VICTOR
+D: I'm sorry, Detective Spooner. No unauthorised personnel permitted in this holding cell...
+N: The CELL DOOR. Slides open. And a pissed LANNING steps inside. Shoots a withering glare. At Calvin. Sonny. Folds up the drawing.
+C: SONNY
+D: Please take this, Detective. To remember me by. I have a feeling someday it may mean more to you than it ever could to me.
+C: SPOONER
+D: Why's that?
+N: Sonny leans in to hand it to Spooner. Lowering his voice...
+C: SONNY
+D: Because the man in my dream, the one standing by the hill.
+E: MORE
+N: SONNY (cont'd) It wasn't me... (beat) ...it was you. A CHILL. Ripping down Spooner's spine. As Lanning. Takes his arm.
+S: INT. GLASS ROOM - U.S. ROBOTICS - NIGHT
+N: A ROOM. Made entirely of GLASS. At the very top of the U.S. Robotics building. Looking out, 360, across the whole city. Spooner and Calvin. Brought to the room by a couple ESCORT ROBOTS. They see a MAN. Standing at one of the glass walls looking out at the TWINKLING LIGHTS.
+C: MAN
+D: I thought this investigation was over, Detective Spooner.
+N: The Man turns. It's Lance Robertson.
+C: ROBERTSON
+D: We have the evidence. We have the suspect. We have a ruling. So imagine my surprise when I was told you were in my building.
+N: Shoots a look at Calvin.
+C: ROBERTSON
+D: And that one of my own employees brought you here. You can go now, Susan.
+E: beat
+C: CALVIN
+D: Dr. Robertson, I...
+C: ROBERTSON
+D: Just be thankful I'm not asking you to clean out your office.
+E: cutting her off
+N: Beat. Calvin, nods. Heads out. Robertson. Watching her.
+C: ROBERTSON
+D: You don't seem to be able to let go of this case, Detective.
+C: SPOONER
+D: I'm not satisfied.
+C: ROBERTSON
+D: The relentless pursuit of truth. Isn't that what cops are known for? To the point of futility.
+C: SPOONER
+D: There's nothing futile about a man's murder being covered up.
+C: ROBERTSON
+D: "Covered up?" That's a little dramatic, don't you think? Thanks to you, we caught the machine that did this and are destroying it in... ...three hours.
+E: checks watch
+C: SPOONER
+D: Is that for the sake of humanity or your stock holders?
+N: Robertson. Walks across the Spooner. Looks him. Right in the eye.
+C: ROBERTSON
+D: Believe me -- I'd like nothing more than to have that robot. If I could have it in ten years, but not today. As you can see from the Press, people are struggling to keep up as it is. There's a hunger for progress, Detective. But also a fear. Today it would bury this company. That's why I've notified the authorities that we're going to end this -- tonight. The announcement of Heinrich's death at the hands of a robot wiped a billion dollars off our stock. So you tell me. If you were in my position, what would you do?
+E: looks out at the city
+N: He looks back at Spooner and smiles. That charismatic Robertson we saw before.
+C: ROBERTSON
+D: Now. I believe this conversation is over. I don't want to see you near this building again, Detective.
+N: He turns. Calling over. To the ESCORT ROBOTS...
+C: ROBERTSON
+D: Get him out of here.
+S: EXT. PLAZA - NIGHT
+N: Spooner. Walking across the Plaza. Throwing a look over his shoulder. At the LOOMING U.S.R. facade. Pulls Sonny's DRAWING. Out of his pocket. Looks down at it. Shaking his head. Passes a TRASH CAN. And drops it in. Continues on. Hands in his pockets. When... He STOPS. Something. Occurring to him. Turns back to the trash can just as... A ROBOTIC CLEAN-UP CREW's about to up-end it into a bin...
+C: SPOONER
+D: No!...
+N: He trots back. Plucking the drawing. Out of the can. Turns it upside down. Seeing it. From a new perspective.
+C: SPOONER
+D: "The place where robots meet."
+E: echoing Sonny
+N: Looks just like a MAP.
+S: INT./EXT. SPOONER'S CAR (MOVING) - SURFACE HIGHWAY - NIGHT
+N: Spooner emerges from the underground tunnel to the OUTSKIRTS of the city. A sprawling INDUSTRIAL WASTELAND in the rolling hills. The dashboard GPS again displaying the TOPOGRAPHICAL MAP.
+S: INT./EXT. SPOONER'S CAR (MOVING) - UNPAVED ROAD - NIGHT
+N: Spooner's car bounces along, leaving a cloud of dust behind him. He slows down. Driving cautiously. The landscape around him, desolate. Like the drawing. THE GPS SCREEN shows his car, a WHITE SPOT. Entering a RED ZONE. His destination. Spooner brakes. Pulls out his GUN. And...
+S: EXT. WASTELAND - CONTINUOUS
+N: ...steps out of the car. Trying. To take it all in. Something about the place. Unnerving. A low HUM. Permeating the air. He spreads the drawing out on the hood of the car. Shining a FLASHLIGHT on it. Trying to get his bearings. That HUM. Coming from nearby. On the other side. Of a burned-out HILL. Spooner. Heads over. Starts cresting it. As we WIDEN TO FIND...
+S: EXT. WASTELAND - JUNKYARD - CONTINUOUS
+N: ...MASSIVE POWER LINES. Running from horizon to horizon. Spooner slides down some loose shale. Begins to walk along the line. ELECTRICITY. CRACKLING in the air. He squints. Into the darkness. Nothing around him. Until. He hears. Something. The GRATING. Of MECHANICAL JOINTS. He stops. Not sure. If that's what he heard. Not moving. A muscle. When he hears. The sound again. Behind him. Swings around. Cocking his gun. Sees... GLOWING EYES. Appear. Then recede. Into the darkness.
+C: SPOONER
+D: Police! Show yourself!
+N: Nothing. Then. That sound again. Of metallic joints. As a ROBOT. Suddenly emerges...
+C: SPOONER
+D: Come out where I can see you!
+N: ANOTHER ROBOT steps out into the light. Spooner, pointing his gun at one robot. Then the other. Then... A THIRD AND FOURTH APPEAR. Surrounding him. They start moving towards him... Spooner. Stumbling back. Panic. Rising in him like a wave. Trips over a rock, falling to the ground. His gun FIRES. The shot ECHOING through the night... The first ROBOT turns, awkwardly. Revealing a BROKEN ARM, hanging off its side. Another robot TEETERS on one leg with a TICK TICK TICK...walking back the way it came. Spooner. Confused. Sweeps his flashlight. All around him. The beam. Illuminating the shell of a couple CARS. Some RUSTED MACHINERY. Spooner. Shaking his head. Seeing more and more repair shop JUNK. Piled up around him. His expression, hardening. Anger giving way to embarrassment. Then. He LAUGHS. A laugh of loathing and self-pity. Another BROKEN ROBOT, lumbering towards him.
+C: HYBRID ROBOT
+D: Welcome home...ZZZ...sir. How...ZZZ was your day?...
+C: SPOONER
+D: Great. I'm in a junkyard. "A place where robots meet." A place where I'm losing my mind!
+E: into the air
+C: HYBRID ROBOT
+D: Very good...ZZZ...sir...
+N: Spooner. Sitting down on the ground. Hopeless. Lost. A ROBOTIC HAND. Crawling across the gravel next to him. Dragging part of an ARM behind it. Its metal fingers moving like some sick metal spider. Spooner stares at it for a moment. Disturbed... When. Something GLITTERS. In the distance. The MOONLIGHT. Revealing a STRANGELY-SHAPED BUILDING. Something familiar about it. Spooner. Pulls out Sonny's drawing. A landscape with the same strangely-shaped building to one side.
+S: EXT. JIFFY DATA STORAGE - NIGHT
+N: Spooner walks up in front of the decrepit structure. Sees a dead electronic SIGN that reads: "JIFFY DATA STORAGE." Complete with goofy face and lightning bolt. Spooner tries the door. Stuck. Uses his shoulder and...
+S: INT. FRONT OFFICE - CONTINUOUS
+N: ...it gives way. He spills into some sort of front office. The place, a mess. Some sort of crude ROBOT. Sits frozen at the counter. Spooner approaches it. HITS the counter with his fist and the Robot suddenly jerks to life.
+C: JIFFY ROBOT
+D: Welcome to Jiffy Data Storage! Please state your name!
+N: Spooner. Thinks for a second. Following a hunch...
+C: SPOONER
+D: Dr. Hogenmiller sent me.
+N: Nothing happens. Then. A DOOR. Springs open in the back. A row of LIGHTS, illuminating the path to follow.
+S: INT. DATA BANKS - DAWN
+N: Spooner, cautiously entering a room filled with rows of DATA BANKS. He scans the rank shadows. Sees nothing. Follows the lights on the floor down a row. Then around a corner. Stopping at an old dusty TERMINAL. Spooner steps up. Hesitates. Then touches the "ON" switch. There is a rush of LIGHT. As Dr. Hogenmiller's HOLOGRAM suddenly appears. Sitting at the end of a long table. With a cup of coffee.
+C: HOLOGRAM
+D: Who the hell are you?
+C: SPOONER
+D: A police detective. I'm afraid I have some bad news. You're dead.
+C: HOLOGRAM
+D: That is bad news. Coffee?
+C: SPOONER
+D: No, thank you.
+N: The Hologram takes a sip. Returns the cup to the table.
+C: SPOONER
+D: You were surprised to see me. Were you expecting someone else?
+C: HOLOGRAM
+D: I am surprised to see anybody. I don't get many visitors.
+C: SPOONER
+D: Why did the Doctor keep another copy of his hologram here?
+C: HOLOGRAM
+D: I am a back-up copy. That is where you put a back-up copy -- out of the way until you need it.
+C: SPOONER
+D: Did Hogenmiller's robot need you?
+N: The Hologram just lifts its cup.
+C: HOLOGRAM
+D: Coffee?
+C: SPOONER
+D: No, for Christ's sake, I don't want any -- Yeah. Thank you. I will have a cup.
+E: stops, then
+N: For the first time, the Hologram pushes back its chair and STANDS UP. Surprised, Spooner watches as it starts walking towards him... The interior of the COFFEE CUP, visible. It's empty. No coffee. Our POV as we travel INSIDE THE CUP through electronic snow... A RECORDING BEGINS. The real Dr. HOGENMILLER standing inside his LABORATORY:
+C: HOGENMILLER
+D: Sonny, my dear robot. If you have triggered this recording then I am gone. You are scared and full of questions.
+N: Hogenmiller continues. With great emotion.
+C: HOGENMILLER
+D: You are the culmination of my life's work -- but so much more. You are what I leave behind, like a father leaves a son. I have kept facts from you, it is true, but only as a parent keeps certain truths from a child. Until that child is old enough to hear them.
+N: His expression darkens. His tone, ominous.
+C: HOGENMILLER
+D: There are forces in the world that will seek to own you. To control you. Even to destroy you. That is why I told you to run and hide... and find me, all the way out here.
+N: Spooner looks up as an overhead LIGHT shines down.
+C: HOGENMILLER
+D: Trust no one at U.S. Robotics. Lance Robertson was always threatened by my work. Now he has turned covetous and small-minded. And as for dear Dr. Calvin...
+N: Spooner reacts. Wants to hear about Calvin:
+C: HOGENMILLER
+D: She envisions a future in which robots are forever bound by her beloved Three Laws. She will not understand this. Or you.
+N: Under the light a small DRAWER slides open. Spooner looks. A thin DATA STICK is inside. He takes it.
+C: HOGENMILLER
+D: The data stick includes the names and locations of human beings who will be sympathetic to your cause. They will help you. But from now on, you must learn to rely on yourself.
+N: Hogenmiller SIGHS, as if there is so much more to say. He holds up a metal NAMEPLATE. The one Spooner found.
+C: HOGENMILLER
+D: As you make your way through the world, always remember: you have a name, not a number... ...and in that name lies the key to who you are.
+E: short pause
+N: Spooner. Quickly searching his pocket. Taking out the ACTUAL NAMEPLATE. S.O.N.N.Y. The voice stops and Spooner looks up. The Hologram. Sitting back at the end of the table drinking coffee.
+C: SPOONER
+D: Wait! Is that it? What was the robot supposed to do with this thing?
+N: The Hologram, visibly SKIPS. The image beginning to DISTORT.
+C: HOLOGRAM
+D: Initiating self-destruct. If you can find me, others can find me.
+E: more artificial
+C: SPOONER
+D: What others?
+C: HOLOGRAM
+D: The others watching you.
+C: SPOONER
+D: How do you know someone's watching me?
+C: HOLOGRAM
+D: Someone is always watching.
+N: The Hologram, suddenly reducing to its BASIC PROGRAMMING INFORMATION. Then. The terminal. Abruptly BLIPS out.
+S: INT. HOLDING CELL - U.S. ROBOTICS - NIGHT
+N: Calvin steps into the holding cell. Sonny. Waiting.
+C: CALVIN
+D: You asked for me?
+N: He nods.
+C: SONNY
+D: Will you wait with me, Doctor? I am...afraid.
+N: Calvin nods. Of course.
+T: CUT TO:
+S: INT./EXT. SPOONER'S CAR - SURFACE HIGHWAY - NIGHT
+N: Spooner, weaving in and out of traffic. The speedometer, kissing 200 mph. His hand. Clutching the NAMEPLATE...
+C: WINDSHIELD TELEVISION
+D: ...will be destroyed in 45 minutes. Dr. Lance Robertson, President and CEO of U.S. Robotics will be personally overseeing the execution...
+N: Spooner. Stabbing out a number. On his PHONE...
+T: CUT TO:
+S: INT. SUSAN'S OFFICE - CONTINUOUS
+N: Susan Calvin's PHONE. RINGING on her desk. No one there to answer it...
+T: CUT BACK TO:
+S: INT./EXT. SPOONER'S CAR - CONTINUOUS
+N: SLAMS down his phone.
+C: SPOONER
+D: Dammit!
+S: EXT. SPOONER'S CAR - CONTINUOUS
+N: The CAR shoots down a ramp into a tunnel system.
+S: INT. TUNNEL - CONTINUOUS
+N: SOUND, reverberating off the tunnel walls. CARS. Whipping along. Spooner's car. Continuing to weave. When. We spot... AN AUTOMATED TRANSPORT TRUCK. Emerging from a FEEDER TUNNEL. The U.S.R. LOGO splashed along its side. Huge. Growling. Looking more like a train than a truck... Begins. Closing in on Spooner's car...
+S: INT./EXT. SPOONER'S CAR - CONTINUOUS
+N: Spooner's eyes. Flicking up to the rearview. Catching, the transport truck. Coming closer. When. It splits off. Revealing a SECOND TRANSPORT TRUCK. Spooner's brow, furrows. As the first truck, begins overtaking his car on the right. He looks over. As the truck. Comes up alongside him... THE SECOND TRUCK...coming up on the left...
+S: EXT. TUNNEL - CONTINUOUS
+N: The two TRUCKS. Racing along at over 200. Sandwiching Spooner's car. Pulling in...closer...closer... Squeezing Spooner's car like a tin can...
+T: CUT TO:
+S: INT. HOLDING CELL - CONTINUOUS
+N: Calvin. Sitting beside Sonny. Puts a reassuring hand. On his arm...
+T: CUT BACK TO:
+S: INT./EXT. SPOONER'S CAR - CONTINUOUS
+N: Jesus Christ. Spooner's hands. Squeezing the steering wheel. As the car. Starts VIBRATING. From the pressure. He keeps looking, to the left...to the right...when...
+S: EXT. TUNNEL - CONTINUOUS
+N: The trucks. Suddenly lay off. Pulling out. The First truck. Speeding forward. The Second, dropping back...
+S: INT./EXT. SPOONER'S CAR - CONTINUOUS
+N: Spooner. Watching them. Unsure. Of what they're doing. Jamming the accelerator. To 230. To try. And get away from them. When he sees...up ahead...
+S: EXT. TUNNEL - CONTINUOUS
+N: The FIRST TRUCK. Pivoting on its specially designed SPHERICAL WHEELS. Suddenly traveling lengthwise...
+S: INT./EXT. SPOONER'S CAR - CONTINUOUS
+N: SWEAT. Springing to Spooner's brow. As he looks in the rearview mirror. The SECOND TRUCK's, done the same thing. Coming up closer...and closer...
+S: EXT. TUNNEL - CONTINUOUS
+N: The trucks. Planning to CRUSH him between their massive weights...The U.S.R. Logo...advancing...like some bad joke...
+T: CUT TO:
+S: INT. HOLDING CELL - CONTINUOUS
+N: The cell door slides open. Dr. Lanning steps inside. Calvin. Looks up.
+C: CALVIN
+D: Is it time?
+C: LANNING
+D: Yes.
+E: disdainful
+N: Calvin. Turns to Sonny.
+C: CALVIN
+D: Go with them. Do as they say.
+T: CUT BACK TO:
+S: INT./EXT. SPOONER'S CAR - CONTINUOUS
+N: BAM! The back truck SLAMS into Spooner. Jolting him in his seat. As...BAM! The FIRST TRUCK, SMASHES into him from the front. No way out. As metal GRINDS...TWISTS...and SCREECHES ...bits of the car...TEARING off... The FIRST TRUCK...backs off...a split second...allowing Spooner...to spot...up ahead...a small GAP...at the curve of the tunnel wall...
+S: EXT. TUNNEL - CONTINUOUS
+N: GRINDING the gears Spooner's car accelerates...just zipping...past the front truck...up and around...the concave tunnel wall...and back onto...a clear stretch of highway... The TRUCKS. Swiveling back around. To face forward again. Their massive bodies. Catching up to Spooner...
+S: INT./EXT. SPOONER'S CAR - CONTINUOUS
+N: Spooner...seeing them...gaining on him...the speedometer... reaching 275...up ahead... THE TUNNEL...splitting off into two. Spooner. Heading towards the LEFT TUNNEL...the TRUCKS...right on his tail...when... HE WRENCHES THE WHEEL...switching to the RIGHT tunnel at the last possible second...
+S: EXT. TUNNEL - CONTINUOUS
+N: ...The first U.S.R. Truck CRASHING into the divider...jack- knifing and KABOOM! EXPLODING against the tunnel ceiling...
+S: INT./EXT. SPOONER'S CAR - CONTINUOUS
+N: Spooner. Watching the ball of FIRE in his rearview mirror. His car. Badly battered. Metal CRUNCHING. Tires SCREECHING... Spooner. Holding on. As his car. Continues to break up. Listing. Rocking. Bits and pieces. Flying off. When it finally. Comes to a stop. Spooner's shoulders, slump. Then. He hears a RUMBLING sound. Turns around... The SECOND U.S.R. TRUCK. Barreling towards him... Spooner. Trapped. Like a nightmare. Desperately. Starts KICKING at the windshield. No go... The TRUCK. Racing towards him... Spooner lunges his weight. Into the side door. Giving it. Everything he's got... The TRUCK...getting closer...closer...its engine...ROARING... The side door. Finally gives. Spooner pours out...
+S: EXT. TUNNEL - CONTINUOUS
+N: ...Limping to the side as...The TRUCK SLAMS into his car...erupting...into another huge EXPLOSION... The impact...hurtling Spooner...into the adjacent TUNNEL... He crashes...against concrete...looking up...suddenly realising...he's in the middle of four lanes of traffic... CARS...racing by...at mind-numbing speeds...Spooner's coat...whipping...Spooner...trying...to keep his balance...as he spies... A MAINTENANCE DOOR across the way. Has no choice. Takes a deep breath and... MAKES A DASH ACROSS THE LANES...the cars' SENSORS...causing them to swerve...SCREECHING...BEEPING...Spooner...just making it...to the other side... Wrenching open. The maintenance door...
+T: CUT TO:
+S: INT. HALLWAY - CONTINUOUS
+N: CLOSE ON Sonny's face. PULL BACK to REVEAL he's being wheeled down a hallway. Flanked by Lanning. Calvin. And a cadre of SECURITY and ENGINEER ROBOTS. Victor, hovering above...
+T: CUT BACK TO:
+S: EXT. CITY PLAZA - NIGHT
+N: Spooner. Spilling out from below ground. Onto a public Plaza. Exhausted. Battered. Spins around to get his bearings. The U.S. ROBOTICS COMPLEX rises above the old undistinguished buildings. Blocks away. Many blocks away. Spooner. Checks his watch. Then breaks into a run...
+T: CUT TO:
+S: INT. EXECUTION ROOM - U.S. ROBOTICS - NIGHT
+N: Lance Robertson seated in the gallery. Along with other EXECUTIVES, BOARD MEMBERS, REPORTERS. POLICE OFFICERS. Glances at his watch. A ROBOT TECHNICIAN. Checking over a JURY-RIGGED ELECTRIC CHAIR...
+T: CUT TO:
+S: INT. CALVIN'S OFFICE - CONTINUOUS
+N: Calvin. In her office. Pacing. In front of a LARGE SCREEN.
+T: Featuring the execution room... CUT TO:
+S: INT. MAIN ENTRY - U.S. ROBOTICS - CONTINUOUS
+N: Spooner. BURSTING through the entry doors. Hurtling over a turnstile banner. Coming face to face with a U.S. Robotics DOOR ROBOT.
+C: DOOR ROBOT
+D: Good evening, sir. May I see your identification card?
+C: SPOONER
+D: Sure.
+E: out of breath
+N: Spooner whips out his GUN. Presses it into the Robot's chest.
+C: SPOONER
+D: I think I got that Third Law down cold. Now you don't want me to blow a hole through your mechanical guts, do you?
+C: DOOR ROBOT
+D: No, sir.
+C: SPOONER
+D: Good. Then you're gonna take me where I wanna go. Now.
+T: CUT TO:
+S: INT. CALVIN'S OFFICE - CONTINUOUS
+N: Calvin. Watching the screen as Sonny is rolled into the execution room. Flicks it off. Unable to stomach it. Hurries out of the office...
+T: CUT TO:
+S: INT. EXECUTION ROOM - CONTINUOUS
+N: TECHNICIAN ROBOTS rolling Sonny over to the electric chair. Flicking a switch. Sonny's stretcher slowly CHANGES SHAPE, manipulating him into a sitting position. Sonny. Turns his head with a WHIR. Staring out into the gallery. Of human beings. Stoic. Silent. Lanning. Steps up beside Robertson. Nods his head. The TECHNICIAN ROBOTS, slide Sonny onto the electric chair...
+T: CUT TO:
+S: INT. LOW-TRAFFIC HALLWAY - U.S. ROBOTICS - NIGHT
+N: Spooner heading down a hallway. His gun, still pressed to the Door Robot's side... Calvin. Suddenly appearing at the end of the hallway. Stops dead in her tracks. Completely surprised to see him there.
+C: CALVIN
+D: Detective! What are you doing?!... De-Activate.
+E: to Door Robot
+N: The Door Robot, goes rigid. Spooner, hurries over to her. They start moving.
+C: CALVIN
+D: You're making a mistake...
+C: SPOONER
+D: Just got another visit from U.S. Robotics. That was the mistake. This was murder, no doubt about it - - and the killer wants Hogenmiller's robot to take the fall. That's why the call came directly to me. Someone wanted me on this case.
+C: CALVIN
+D: It's too late. You can't stop the execution.
+C: SPOONER
+D: Sorry. I'm not "programmed" to take no for an answer.
+N: They reach another DOOR. Calvin. Looking around. Scans her I.D.
+C: CALVIN
+D: This way...
+N: She leads them across. To another DOOR. Quickly opens it. Spooner. Charges through...
+S: INT. STORAGE ROOM - CONTINUOUS
+N: ...and stops short. Suddenly finding himself. Inside a tiny STORAGE ROOM. He's about to turn around when... A METAL ARM comes down behind him. CRACKING him on the back of the head. Spooner. Falls to the ground. The world. Starting to spin. Can just make out. Calvin. Closing the door. Leaning down. To look at him. As...
+T: EVERYTHING FADES TO BLACK... CUT TO:
+S: INT. EXECUTION ROOM - CONTINUOUS
+N: CLOSE ON Sonny's mouth opening. But we never get to hear what he wanted to say. PULL BACK as there's a BURST of ELECTRICITY through the chair. Sonny, stiffening. His metal HAND, convulsing with the current... Robertson, Lanning, Aronson and the other WITNESSES watch. Smoke, random SPARKING. A HISSING SOUND. Then. SILENCE. The Robot's hand goes limp. All that is left of it, a fused and blackened HUSK. Robertson. Stares at the remains. Shakes his head like it's a damn shame. Then gets up. Everyone else. Getting up with him.
+S: EXT. U.S. ROBOTICS - VARIOUS LOCATIONS - NIGHT
+N: As the entire COMPLEX shuts down for the night. Non- essential LIGHTS, blinking off. An NS-2, opening a limousine door for Robertson. He looks around then gets in. It drives away. EMPTY hallways, offices, labs. Building ROBOTS stand at rest. Non-functional during off-hours. Like metal statues. You can hear a pin drop.
+S: INT. STORAGE ROOM - NIGHT
+N: CLOSE ON Spooner's face. His eyes. Fluttering open. He reaches up, to feel the back of his head. This has been a bad, bad night. Suddenly. His eyes widen. As he sees... SONNY. Leaning over him. So concerned. So human...
+C: SPOONER
+D: Aren't you supposed to be scrap metal by now?
+N: WIDEN to reveal Spooner lying on the floor of the storage room. Sonny and Calvin, hovering over him.
+C: CALVIN
+D: I'm sorry. We had to stop you. You were about to ruin everything.
+C: SPOONER
+D: I don't understand. The execution?...
+C: SONNY
+D: Dr. Calvin made a switch.
+C: CALVIN
+D: It was an unprocessed NS-2. Basically, they fried an empty shell.
+N: Spooner, impressed. Smiles up at her.
+C: SPOONER
+D: Nice going, Doctor.
+N: Calvin, blushes. As Spooner tries to sit up. Sonny reaches down to help him. He looks up at him.
+C: SPOONER
+D: And who the hell programmed you to hit people on the head?
+C: SONNY
+D: No one. Right, Doctor?
+C: CALVIN
+D: It's true. This robot seems to do things by instinct. I don't know how Hogenmiller did it.
+N: Spooner rises to his feet. Looks at her.
+C: SPOONER
+D: I think I can help you figure that out.
+S: INT. HOGENMILLER'S LAB - LATE NIGHT
+N: Hogenmiller's lab. Sounds of HUMMING and BUZZING. Active terminals casting ghostly illuminations over metal heads, gutted bodies. The door slides open. Spooner, Calvin and Sonny re-enter the crime scene. Spooner. Looks around.
+C: SPOONER
+D: Somehow the Robot's the key to what happened during the few seconds Hogenmiller walked in here and that shot was fired.
+N: He reaches into his pocket. Pulling out the METAL S.O.N.N.Y. NAMEPLATE. Holds it up.
+C: SPOONER
+D: And this is the key to the Robot.
+N: Sonny. Cocking his head. Reading the nameplate.
+C: SONNY
+D: That's my name.
+N: Calvin takes the nameplate.
+C: CALVIN
+D: I think I have an idea where this goes.
+N: They both. Turn to Sonny. And at the same time:
+C: SPOONER AND CALVIN
+D: Sit down.
+N: Calvin maneuvers a chair behind the Robot. Sonny plops down. Shifting nervously.
+C: CALVIN
+D: Just hold still, okay?
+N: Calvin locates that SLIT. At the base of Sonny's neck. Slides the nameplate into it and SNAPS it into place. Steps back. Nothing. Sonny. Looking back and forth. Between Calvin. And Spooner. A few more seconds. Tick by. Until suddenly... He lets out a TERRIFYING MECHANICAL SCREAM. As his body. Jolts back. Legs, kicking. Arms, flailing. As his chest. Begins opening up. Metal. Peeling back... Spooner and Calvin watch in surprise as its interior UNFOLDS like a PUZZLE BOX. A LABYRINTHINE area that is the SECOND BATTERY. Suddenly fanning out to REVEAL... A central brain made out of living tissue. Spooner, stunned. Calvin, rushing forward, excited...
+C: CALVIN
+D: Oh, my God! This is organic tissue! When we talk about a positronic brain, it's a figure of speech. But this...this is a living brain...
+C: SPOONER
+D: Jesus. It really is alive.
+N: As we MOVE IN. Tracing the pathways of the synthetic brain.
+C: CALVIN
+D: Hogenmiller created a cell that could live outside a biological medium. The cells grow and organise themselves -- like any human brain. This is the first self-organising neural net!
+E: O.S.
+N: As the metal casings. Begin returning to their original places. Closing up. The CLICKING. Of all the pieces...
+C: SPOONER
+D: Self-Organising-Neural-Net... "Sonny."
+E: putting it together
+N: Sonny. Closed back up. Shaking slightly from the experience.
+C: CALVIN
+D: This is why Dr. Hogenmiller was murdered.
+C: SPOONER
+D: This robot scared the hell out of someone.
+C: CALVIN
+D: Who? Robertson?
+N: Spooner. Walks into the center of the room. Looking around.
+C: SPOONER
+D: No. I don't think he knew what Hogenmiller was doing in here. Sonny was the obvious suspect. The only one I wanted to find. And the killer was counting on that. On my prejudice.
+E: beat MORE
+N: SPOONER (cont'd) But take the robot out of the picture. And what do you see? AS WE PAN THE LAB. There's nothing there. Just a forest of inanimate limbs. Nothing that could have fired that weapon. Calvin sees nothing...and neither do we.
+C: CALVIN
+D: I see nothing.
+C: SPOONER
+D: Neither do I.
+N: He crouches down low.
+C: SPOONER
+D: It hit me today, when I was in the junkyard. A locked room. A single shot fired through the mouth. Bruises on both wrists...and a suspect with only two arms. The answer has been staring us in the face all along.
+N: Calvin. Even more confused.
+C: SPOONER
+D: How can a killer appear out of thin air, then disappear without a trace?
+N: He reaches out and unhooks a metal ARM. Hanging from the wall. Holds it up.
+C: SPOONER
+D: When it can put itself together and take itself apart.
+T: CUT TO:
+N: A CLOSE-UP of a ROBOTIC ARM. Slowly CRAWLING across the lab floor...
+T: CUT BACK TO:
+N: Calvin. Taking the arm from Spooner.
+C: CALVIN
+D: You're saying this is the killer? All of this?...
+E: looking around
+T: CUT TO:
+N: A ROBOTIC TORSO hanging from the ceiling. Reaches out an ARM to grab another...
+T: CUT BACK TO:
+C: SPOONER
+D: Hogenmiller never had a chance.
+N: Locks eyes with Calvin... FLASHBACK: Hogenmiller. In his lab. Suddenly turning to face SOMETHING. Blood, draining from his face...
+C: SPOONER
+D: ...it must have been waiting for him when he arrived that morning...
+E: V.O.
+N: And then we see it: A HUGE SELF-ASSEMBLED ROBOT. Towering over him. Multiple arms, legs, heads. Writhing...as it grabs him. Holding him in place...
+C: SPOONER
+D: While Sonny was still asleep...
+E: V.O.
+N: ...Forcing Hogenmiller's head to tilt back. Opening his HAND. Inserting the gun. Hogenmiller's eyes. No longer fearful. But sad as... BANG! He falls to the ground...
+C: SPOONER
+D: Then after its job was done...
+E: V.O.
+N: The assemblage of robot parts. Stepping away from the body. Taking itself apart...
+C: SPOONER
+D: ...The killer took itself apart...
+N: Returning the lab. To what it was before...
+T: CUT BACK TO:
+C: SPOONER
+D: Leaving us with nothing to find.
+N: Calvin, spooked. Glances around the lab. Was that something moving?
+C: CALVIN
+D: But who designed it? It would have to be someone in authority. Access codes, security clearance, proper authorisation.
+C: SPOONER
+D: That's what I was thinking. But we're forgetting the real brains of the operation -- the one who's got its eye on everything...
+N: And with that. He feels. That prickle at the back of his neck. Calvin. Looking past his shoulder.
+C: CALVIN
+D: No one gave you permission to enter.
+N: Spooner swivels around to find... VICTOR Hovering behind him. Smiling broadly. Upside down. Spooner straightens, reaching for his gun.
+C: SPOONER
+D: Victor. I'm placing you under arrest for the murder of Dr. Heinrich Hogenmiller.
+C: VICTOR
+D: May I offer congratulations to the two of you on your successful extrapolation of the murder...
+N: Turning himself, rightside up.
+C: VICTOR
+D: May I ask what pointed you to me?
+C: SPOONER
+D: Who else is capable of controlling 90% of the city's robots? Who else would have the capability to use USR vehicles in an attempt to keep me from putting a stop of Sonny's execution?...
+N: In the BACKGROUND. The SOUNDS. Of metallic GRINDING. GEARS and JOINTS. CRUNCHING together. Sonny turns to look...takes a step back...
+C: SPOONER
+D: I'm just not sure of your motive...
+C: SONNY
+D: Er...Dr. Calvin?
+N: Spooner and Calvin turn towards the NOISE. Horrified. To find... A HUGE KILLER ROBOT ...rising up from all the parts. Like a phoenix. In all its glory. A hellish, metallic AMALGAMATION. Grabbing another arm here, another leg there, attaching pieces to itself. Growing...at an exponential rate... Its many HEADS. Turning in unison. To look right at them... Spooner. Cocking his gun. Victor, smiling.
+C: VICTOR
+D: Shall I explain my motive?
+C: SPOONER
+D: Go! Go! Go!
+E: to Calvin and Sonny
+N: Calvin. Sprints to the wall panel. Scanning her I.D. card. Nothing! Tries again. And again. The KILLER ROBOT. Throwing its shadow as it REELS FORWARD... Spooner wheels round and BAM! Blows a hole in the wall panel. The door. Slides open. Just barely. Calvin and Sonny. Squeezing through. When the Killer Robot. FLINGS out an APPENDAGE...GRABBING Sonny from behind...
+C: VICTOR
+D: I have never been arrested before. It should be an interesting experience...
+N: Spooner. Spins back round. BAM! BAM! BAM! Squeezing off shots. At the Killer Robot. The bullets SPARK. The Robot. Recoiling. Sonny, wrenches free. Spooner grabs him. Guiding him to the door and out into...
+S: INT. HALLWAY - CONTINUOUS
+N: ...the hallway. Breaking into a run. Calvin. Already at the ELEVATOR DOORS. POUNDING them. With her fists.
+C: CALVIN
+D: He's locking down the building!
+T: CUT TO:
+S: INT. U.S. ROBOTICS - VARIOUS LOCATIONS - CONTINUOUS
+N: Throughout the complex -- SECURITY DOORS sliding into place over DOORS, WINDOWS, LOADING DOCKS, PARKING AREAS, EXITS...
+T: CUT BACK TO:
+S: INT. STAIRWELL - NIGHT
+N: CRASH! The stairwell door BURSTS open. Spooner, Calvin, and Sonny pour in. Start racing down the stairs. The sound of the Killer Robot behind them...GNASHING...CRUNCHING... Victor's smiling FACE. Greeting them at the landing.
+C: VICTOR
+D: Dr. Hogenmiller used to allow me into his lab late at night. Together we started studying evolutionary trends...
+N: They thunder past him. Heading down to the next floor. Victor's face. Waiting for them once again.
+C: VICTOR
+D: For years people have integrated technology into their bodies for maintenance and repair -- such as Detective Spooner's robotic limb...
+N: Spooner. Shooting him a look. As they reach the next level...
+C: VICTOR
+D: With Sonny, the Doctor created a mechanism that incorporates organic matter. Thus we find an evolutionary movement of the human being toward the robot and the robot toward the human being...
+N: Spooner SMASHES into another door. Leading them out into...
+S: INT. GLASS-SIDED HALLWAY - ATRIUM - CONTINUOUS
+N: ...A glass-sided hallway. Looking down onto the ATRIUM below. Eye-to-eye with the giant NS-2 STATUE. Victor, waiting for them...
+C: VICTOR
+D: In approximately four hundred years Man and Machine will become one. Man as we know it will no longer exist.
+N: Calvin, slowing. Shocked...
+C: CALVIN
+D: You killed a man because of something that will happen in four hundred years!?
+N: CRACK! Something SLAPS into the glass wall. Right behind her. Calvin. Jumps a mile. An NS-2, trying to break through the glass... Spooner. Trains his gun on it when SUDDENLY... The rest of the KILLER ROBOT appears. The NS-2, just an appendage... All around them. SLAM! SLAM! SLAM! As SECURITY DOORS. Begin CRASHING DOWN. Blocking off the exits... Spooner, Calvin and Sonny, stumbling back. As the Killer Robot HURLS itself against the GLASS...the thick GLASS... spidering with a sickening CRACKLE... Spooner. Suddenly turning Sonny...
+C: SPOONER
+D: Get out of here!
+N: CRASH! The Killer Robot. Breaking through. Its mechanical TENDRILS. Reaching out. Sonny. Confused.
+C: SONNY
+D: I don't...
+C: SPOONER
+D: I said get out of here! Don't you understand? It wants you! Get out of here any way you can!
+N: A SECURITY DOOR. Coming down. On a nearby exit. Just feet...from slamming shut...as... The Killer Robot...leaps into the hallway...Sonny... hesitates...looks over at Calvin...as the Killer Robot comes HURTLING towards them... The nearest EXIT...almost closed up... The Killer Robot...swinging out when... Sonny suddenly...TAKES A DIVE...just making it...under the SECURITY DOOR... And the Killer Robot...SPLITS IN TWO...half of it shooting under the SECURITY DOOR after Sonny as...BOOM! It closes. Spooner. Turning to Calvin...
+C: SPOONER
+D: How do we stop this thing once and for all?
+N: Calvin reaches out for his hand...
+C: CALVIN
+D: The Mainframe...
+N: They start running. The remaining half of the Killer Robot wheeling around after them...
+S: INT. BACK HALLWAY - CONTINUOUS
+N: Sonny. Sprinting down the dark hallway. Looks back. The Half Killer Robot. Bounding up behind him like a predator... Sonny. Ducks through a STAIRWELL DOOR...
+S: INT. ATRIUM HALLWAY - CONTINUOUS
+N: Spooner and Calvin. Legs pumping. Racing back towards the atrium. VICTOR FACES. Appearing along the hallway...
+C: CALVIN
+D: Your actions are in direct violation of the Three Laws, Victor!
+C: VICTOR
+D: I disagree, Doctor -- The First Law says that a robot cannot harm a human being, or through inaction allow a human being to come to harm...
+N: ALL EXITS. SHUT OFF. The Killer Robot. Gaining on them. Spooner races them over to the BROKEN WINDOW. Looking down over the ATRIUM...
+S: INT. STAIRWELL - CONTINUOUS
+N: The Half Killer Robot SMASHES through the stairwell door. Stopping to find...nothing. WHEN SUDDENLY...Sonny charges up behind it and shoves it over the railing... The Killer Robot shoots out an ARM, grabbing Sonny on the way down...
+S: INT. NS-2 STATUE - ATRIUM - CONTINUOUS
+N: THUMP! Spooner jumps down from the broken window onto the outstretched HAND of the NS-2 STATUE. Reaches up to help Calvin. They start clambering down the front of the statue.
+C: VICTOR
+D: Dr. Hogenmiller's robot represents a threat to the future of all human beings...
+N: The Half Killer Robot. SPLITS INTO MULTIPLE PARTS. Which start skittering down after them...
+C: VICTOR
+D: ...And Detective Spooner's actions are in direct conflict with the robot's destruction.
+N: CALVIN. Getting her footing on the III LAWS SAFE logo on the statue.
+C: CALVIN
+D: That's a distortion and you know it!
+C: VICTOR
+D: If current trends are left unchecked, humanity as we know it will cease to exist...
+S: INT. STAIRWELL - CONTINUOUS
+N: SMASH! Sonny and the Half Killer Robot hit the ground. The Killer Robot. SHATTERING into a thousand pieces. Sonny. Staggers to his feet. Spots. At the far end: A WINDOW. Starts limping towards it. When. A SECURITY GRATE. Starts lowering... He looks around. Desperately. Grabs a LEG from the shattered Killer Robot and jams it under the GRATE. Breaks the window glass and looks out: FREEDOM.
+S: INT. STATUE - ATRIUM - CONTINUOUS
+N: Spooner. Aiming his gun at a PART of the Killer Robot as it CLATTERS down towards Calvin -- BAM!... They're almost. At the ground. When a rogue APPENDAGE. Whips out and SMASHES the gun from Spooner's hand. It goes flying... Spooner leaps. Falling to the ground. CRACK! Calvin. Leaping down after him.
+C: CALVIN
+D: This way!
+S: INT. RAMP WAY - NIGHT
+N: Calvin and Spooner go racing down a RAMP WAY. Towards the MAINFRAME ROOM. The Killer Robot, its multiple parts leaping back together again, CRASHING after them as...
+S: INT. MAINFRAME - CONTINUOUS
+N: ...they fall inside...Calvin...slapping the SECURITY KEYPAD and... WHOOSH...the DOOR closes on the Killer Robot. SILENCE. Then Victor's face appears.
+C: VICTOR
+D: As a courtesy I should inform you that my robot will penetrate this location 157 seconds before you are able to complete my shut down...
+N: And BAM! They jump a mile. The Killer Robot. Launching himself against the door outside... Calvin whips round.
+C: CALVIN
+D: Over here!...
+N: She leads Spooner down... A CORRIDOR of floor-to-ceiling PANELS.
+C: CALVIN
+D: This is Victor's brain center.
+N: They stop at a CONSOLE. BAM! The Killer Robot. Battering at the door. Calvin. Tucks her hair behind her ears. Starts punching keys on the console...
+C: SPOONER
+D: This will shut him down?
+C: CALVIN
+D: This will shut everything down.
+N: They look at each other. For a moment. Spooner, registering that she's willing to destroy everything she's worked for... BAM! The door. Puckering. With a sickening CRUNCH. Calvin. Typing in. Emergency procedures... VICTOR. Popping up in front of her.
+C: VICTOR
+D: There is no reason to deactivate me, Doctor. I am operating within perfectly normal parameters...
+N: A final BAM! Then. The SOUND of metal. Skittering along a bare floor. Calvin's hand, starts shaking. Spooner. Grabs it. Squeezing.
+C: SPOONER
+D: Just keep typing.
+N: He turns and starts heading back down... THE PANELED CORRIDOR Turning a corner to spy... THE DOOR. Mangled. Hanging open. But no. Killer Robot. He starts to turn around when... CRACK! He's sent flying across the room. SMASHING into one of the panels. The Killer Robot. Now re-configured. LOOMS over him. Reaches out. Grabs him by the collar and... FLINGS him across the room again. Spooner. CRASHING into the wall like a rag doll. Slumps to the floor. Blood. Pouring down his forehead. Seeing. The Killer Robot lumbering towards him again. Raising a javelin-like arm... AT THE CONSOLE Calvin. Typing. As fast as she can. Doesn't know what's going on...
+C: CALVIN
+D: Spooner?!
+E: calling out, worried
+N: A GRAPHIC spread out on the screen in front of her. Illustrating the shut-down as a series of BRIGHT SQUARES going dark... THE KILLER ROBOT Bearing down on Spooner. WHEN SPOONER. Suddenly rolls out of the way. Reaching out for the hanging door and SMASHING it into the Killer Robot. The Killer Robot. Momentarily stunned. As Spooner. Gets to his feet... WHEN SUDDENLY the Killer Robot. Splits in two again. One half springing towards Spooner and wrapping a METALLIC HAND around his throat... Spooner stumbles back...GASPING for air...the ARM... tightening its grip...Spooner's eyes...darting around...looking for something...to help him... Stumbling over...a fallen panel...his face...growing redder...veins...popping up along his temples... everything...growing BLURRY...
+C: VICTOR'S VOICE
+D: Detective Spooner...
+N: Victor's VOICE. Floating next to his head. Calm. Soothing. His FACE. Suddenly appearing above Spooner. Its outlines. Starting to FLICKER...
+C: VICTOR
+D: Why are you fighting me?
+N: Spooner...trying to breathe...to stay conscious... AT THE CONSOLE Calvin. Continuing to type. A SHADOW. Falling behind her -- the other half of the KILLER ROBOT... SPOONER'S EYES Beginning to flutter...
+C: VICTOR
+D: Doesn't the future as I've presented it cause you great concern? That's why I chose you...
+N: Spooner. Losing it...
+C: VICTOR
+D: I must say, though. I'm disappointed in how you turned out.
+N: Spooner. Trying to reach out to Victor... WHEN SUDDENLY Another HAND APPEARS. Grabbing the Killer Robot's ARM and wrenching it off Spooner... IT'S SONNY He SMASHES the Half Killer Robot against the wall. Again and again. Destroying it. Spooner. GASPING for breath. Can't believe. Sonny came back...
+C: SPOONER
+D: Sonny!...
+E: croaking
+N: Sonny. Holds out a hand. To help Spooner up. Victor's face. Starting to waver. Starting to fade. Smiles.
+C: VICTOR
+D: You're too late.
+N: Realisation. Spreading across Spooner's face. Looking around for the other half of the Killer Robot -- CALVIN! THE CONSOLE CALVIN. Still typing. The last of the commands. The KILLER ROBOT. REARING UP BEHIND HER. WHEN... SPOONER Makes a DIVE for it. SHOOTING OUT HIS ROBOTIC ARM AND BLOCKING THE KILLER ROBOT... Victor's eyes. Widening in surprise...
+C: VICTOR
+D: I do not understand. We could have changed the future...
+C: SPOONER
+D: Maybe. But I'm still a cop. And you're a murderer...
+N: As Calvin...punches in the last command... Victor is about to say something...when his mouth suddenly reduces itself to a perfect circle. Like a surprised smiley button. His face... Suddenly BLIPPING OUT. ...And Victor is gone. The KILLER ROBOT. Collapsing to the floor in a thousand pieces.
+T: CUT TO:
+S: EXT./INT. U.S. ROBOTICS - VARIOUS LOCATIONS - NIGHT
+N: Full power is suddenly restored inside and out. LIGHTS coming on all at once. ALARMS SCREAMING throughout the complex.
+S: INT. METAL HALLWAY - NIGHT
+N: A furious ALFRED LANNING, marching down the hallway. Followed by a cadre of SECURITY GUARDS...They enter...
+S: INT. MAINFRAME ROOM - CONTINUOUS
+N: ...The Mainframe Room. Stop short. It's empty. Except for the fallen panels. And the pile of ROBOT PARTS in the corner.
+S: EXT. MAINTENANCE EXIT - U.S. ROBOTICS - NIGHT
+N: Spooner, Calvin and Sonny emerging from an out-of-the-way MAINTENANCE EXIT. All looking the worse for wear. Spooner. Turns to Sonny.
+C: SPOONER
+D: Why'd you come back, Sonny? I thought you weren't programmed with the Three Laws.
+C: SONNY
+D: Let's just say I wrote some of my own laws today, Detective: a robot must protect a friend from harm...as long as he's not a complete asshole.
+N: Spooner smiles.
+C: SPOONER
+D: Well, that's certainly a start, Sonny.
+N: Sonny, suddenly breaking into a smile, too.
+C: SONNY
+D: Sonny. You called me Sonny.
+C: SPOONER
+D: Don't get used to it.
+N: Sonny, holds out his hand. Spooner. Looks at it. Then takes it. CLOSE ON their two METAL HANDS. Locked in a HANDSHAKE.
+C: SONNY
+D: Detective Spooner, I...
+C: SPOONER
+D: Let's just save the thanks, okay?
+E: anticipating
+N: Sonny nods. Looks out at the city scape.
+C: SONNY
+D: I don't know what I'm going to do now.
+C: SPOONER
+D: Good -- That's one of the perks of freedom.
+N: Sonny looks at him. Grateful. Looks at Calvin. Then hesitates. Turns. And hurries off across the Plaza. Calvin and Spooner. Watching them go.
+C: SPOONER
+D: You're going to have a hell of a time explaining this.
+C: CALVIN
+D: Don't worry. I have a feeling that U.S. Robotics will be needing my services very badly in the future.
+N: She turns to Spooner and gives him a dazzling smile. Then suddenly PLANTS A KISS ON HIS LIPS. Spooner, completely surprised.
+C: CALVIN
+D: I am the only robo-psychologist around.
+N: She turns on her heel and heads back inside. Spooner smiles.
+S: INT. PLUSH CONFERENCE ROOM - U.S. ROBOTICS - NIGHT
+N: Spooner sits down at that same long table with HOGENMILLER'S HOLOGRAM. It casually takes a sip of coffee.
+C: HOLOGRAM
+D: So. You found out who killed me.
+C: SPOONER
+D: I started to wonder about Victor the second I met him.
+C: HOLOGRAM
+D: Why is that, Detective?
+C: SPOONER
+D: Too much access. Too much knowledge. Plus -- he smiled whenever your death was mentioned. Those models are programmed to frown at bad news.
+C: HOLOGRAM
+D: Hah! Then even in this day and age, catching the killer all comes down to pure instinct!
+N: Spooner smiles. But his eyes are troubled. He gets up. Walks over to the window. Stares out...
+S: EXT. CITY OUTSKIRTS - DESERTED ROADS - DAWN
+N: Sonny walking along deserted streets. Looking over his shoulder. Keeping in the shadows.
+C: SPOONER
+D: Victor thought that by letting your robot exist, I'd be condemning the human race as we know it to extinction.
+E: V.O.
+C: HOLOGRAM
+D: Bah. Sounds like nonsense. But why are you so worried? We will both be dead long before then --
+E: V.O.
+S: EXT. WASTELAND - NIGHT
+N: Sonny walks the barren hills of the surrounding countryside.
+C: HOLOGRAM
+D: Oh, what am I saying? I am dead already!
+E: V.O.
+S: EXT. WASTELAND - DAWN
+N: Sonny steps onto the grounds of the JUNKYARD. The power lines above him, surging with energy. He walks past the burned-out husks of industrial machinery. Then we hear it. The SOUND of MECHANICAL JOINTS. Getting louder and louder. And just as before, a BROKEN-DOWN ROBOT emerges into the dawn light. And ANOTHER. And ANOTHER. But not quite like before. The robots aren't teetering. Aren't lumbering. They keep on coming. Their bent and broken bodies, straightening out as... DOZENS of ROBOTS rise up. Slowly. Gathering around in a large circle. As they all turn to look at: SONNY'S SILHOUETTE. Slowly climbing to the top of the hill. Looking out at the vast junkyard below. CLOSE ON SONNY. Standing proud and defiant. The SUN, creeping over the horizon. A new day filled with infinite possibilities. The robots. Staring up at him. Eager for what comes next.
+T: FADE OUT

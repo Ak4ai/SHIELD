@@ -1,0 +1,892 @@
+M: DARK STAR: A SCIENCE FICTION ADVENTURE
+M: A Screenplay by John Carpenter and Dan O'Bannon
+M: OPEN ON BLACK SILENCE.
+M: The sound of electronic music rises, hollow, metallic.
+N: FADE IN on a long TRACKING SHOT through the universe. As the NARRATOR speaks we move through galaxies, nebulae, solar systems, moving from the infinite slowly down to a particular planetary system deep within a maze of suns.
+C: NARRATOR
+D: It is the mid 22nd Century. Mankind has explored the boundaries of his own solar system, and now he reaches out to the endless interstellar distances of the universe. He moves away from his own small planetary system in huge hyperdrive starships: computer-driven, self-supporting, closed-system spacecraft that travel at mind-staggering post-light velocities. Man has begun to spread among the stars. Enormous ships embark with generations of colonists searching the depths of space for new earths, now homes, new beginnings. Far in advance of these colony ships goes a new pioneer: the scouts, the pathfinders, a special breed of man who has dedicated his life to blazing the trail through the most distant, unexplored galaxies, opening up the farthest frontiers of space. These are the men of the Advance Exploration Corps. The task they face is one of unbelievable isolation and loneliness. So far from home that Earth is no longer even a point of light in the sky, they must comb the universe for those unstable planets whose existence poses a threat to the peaceful colonists that follow. They must find these rogue planets -- and destroy them. Among these commandos are the men of the scoutship Dark Star.
+E: over
+N: We are now moving toward a planet. Floating in front of the planet is the SCOUTSHIP DARK STAR. As we move toward the ship, we begin to hear VOICES, crackling with static.
+C: DOOLITTLE
+D: Ah, what'd you say, Pinback?
+E: over -- radio filter
+C: PINBACK
+D: Mafhkin oble groop...
+E: over -- great static
+C: DOOLITTLE
+D: Ah, what was that again, I still can't hear you?
+E: over -- filter
+C: PINBACK
+D: I said I'm trying to reach Talby. Something's wrong with the damn intercom. I need a last-minute diameter approximation.
+E: over -- filter
+N: CAMERA IS NOW FLOATING TOWARD THE OBSERVATION DOME on top of the ship. In the Dome sits TALBY. He is staring around, wide-eyed, at the planets and stars.
+C: DOOLITTLE
+D: Talby, Talby, this is Doolittle. Do you read me? Talby?
+E: over -- filter
+N: WE MOVE IN CLOSE ON TALBY'S FACE. The shot stops and holds as he continues to stare, rapt.
+C: DOOLITTLE
+D: Talby, do you read me?
+E: cont'd -- over -- filter
+N: There is a CRACKLE, and Doolittle's voice suddenly booms through, loud and clear:
+C: DOOLITTLE
+D: TALBY!
+E: cont'd
+C: TALBY
+D: Oh! Ah, yes, Doolittle. What is it?
+E: snaps out of it
+S: INTERIOR - CONTROL ROOM
+N: CLOSE SHOT of a digital clock, ticking down the seconds.
+C: DOOLITTLE
+D: I need a diameter approximation.
+C: TALBY
+D: Okay, Doolittle, I'll have it in a minute.
+E: over
+N: CAMERA BEGINS TO PULL BACK along the length of the control room, revealing three men: BOILER, DOOLITTLE, and PINBACK. They are seated close together in cramped little chairs, surrounded by a maze of instrumentation, pressing buttons, making adjustments and corrections. There is one EMPTY CHAIR; the panel in front of it looks burned.
+C: PINBACK
+D: I need a GHF reading on the gravity correction.
+C: DOOLITTLE
+D: I'll check it.
+C: BOILER
+D: I have a reduced drive reading of seven thousand.
+C: PINBACK
+D: Right, that checks out here.
+C: DOOLITTLE
+D: Pinback...
+C: PINBACK
+D: Yes, Doolittle.
+C: DOOLITTLE
+D: Your GHF reading is minus fifteen.
+C: PINBACK
+D: Doolittle...
+C: DOOLITTLE
+D: Yes.
+C: PINBACK
+D: I need a computer reading on a fail- safe mark.
+C: DOOLITTLE
+D: In a second.
+C: PINBACK
+D: Boiler, can you set me up with some temp figures?
+C: BOILER
+D: Ninety seven million, minus eight, corrected to mass critical.
+C: PINBACK
+D: I read that with a quantum increase of seven.
+C: DOOLITTLE
+D: Pinback, I have a computer reading of nine five seven seven.
+C: BOILER
+D: Time to start talking.
+C: PINBACK
+D: Bomb bay systems operational.
+N: Pinback hits a button on his panel.
+S: INTERIOR - BOMB BAY
+N: The screen is BLACK for an instant. Then, two enormous doors begin to open ponderously, revealing the planet rotating below. A huge BOMB, designated with a giant #19 on its side, lowers slowly out of the ship on a rack.
+C: NARRATOR
+D: This is a chain-reaction bomb, otherwise known as an Exponential Thermostellar Device. Its own destructive power is small, barely enough to vaporize twelve city blocks. However, when it explodes in contact with an object the size of a planet, it starts a chain-reaction in the very matter of that planet, turning it into a giant reactor which destroys itself in one staggering thermal flash.
+E: over
+N: These bombs are equipped with sophisticated thought and speech mechanisms, to allow them to make executive decisions in the event of a crisis situation. These judgment centers are controlled by a fail- safe mechanism.
+S: INTERIOR - CONTROL ROOM
+C: DOOLITTLE
+D: Lock fail safe.
+N: Pinback turns a key in a lock.
+C: PINBACK
+D: Fail-safe locked. Ah, Sergeant Pinback call1ng Bomb #19. Do you read me, bomb?
+S: EXTERIOR - BOMB BAY
+N: The bomb is suspended beneath the ship. BOMB #19 Bomb #19 to Sergeant Pinback, I read you. Continue. When the bomb speaks, it has the prim, fussy voice of a minor civil servant.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Well, bomb, we have about sixty seconds to drop. Just wondering if everything is all right. Have you checked your platinum euridium energy shielding?
+S: EXTERIOR - BOMB BAY
+N: BOMB #19 Energy shielding positive function.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Swell. Let's synchronize detonation time. Do you know when you're supposed to go off?
+S: EXTERIOR - BOMB BAY
+N: BOMB #19 Detonation in six minutes, twenty seconds.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: All right, I have detonation time at... Wait a minute, something's wrong with the clock. All right, I have detonation time at... no, that can't be right, it says three years. Okay, I have six minutes exactly. Does that check out down there?
+E: hits panel beats panel again
+S: EXTERIOR - BOMB BAY
+N: BOMB #19 Check at six minutes.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Arm yourself, bomb.
+S: EXTERIOR - BOMB BAY
+N: Several lights blip on along the bomb's side. BOMB #19 Armed.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Well, then, everything sounds fine. We'll drop you off in thirty-five seconds. Good luck.
+S: EXTERIOR - BOMB BAY
+N: BOMB #19 Thanks.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Begin main sequence. Mark at 10-9-8- 7-6-5-4-3-2-1-drop.
+S: EXTERIOR - THE SHIP
+N: Bomb #19 falls away from the ship and whizzes down toward the planet below.
+S: INTERIOR - CONTROL ROOM
+C: DOOLITTLE
+D: Hyperdrive sequence begun. Hit it, Pinback.
+N: Pinback hits the hyperdrive switch. Force fields energize around the men.
+S: EXTERIOR - THE SHIP
+N: The DARK STAR accelerates into hyperdrive and streaks away through space. The planetary system recedes in the background. Inside the Observation Dome, Talby is frozen in a protective force field. INSERT: CLOSE SHOT OF A TIME CLOCK. It blips down to ZERO. RETURN TO SCENE Behind the ship, there is an intense flare of light as the planet, now a dot of light, explodes.
+S: INTERIOR - OBSERVATION DOME
+N: The force field around Talby disappears as the ship comes out of hyperdrive. He rubs his eyes as though awakening, then looks down at his readout panels. INSERT - CLOSE SHOT OF A PANEL. On a small screen we see the exploding planet, and below, a readout says: DESTRUCTION SEQUENCE COMPLETE RETURN TO SCENE Talby touches his intercom.
+C: TALBY
+D: Lieutenant Doolittle, it just exploded. Ah, sir, the planet just exploded. Lieutenant?
+E: pause pause -- he shakes the microphone
+S: INTERIOR - CONTROL ROOM
+N: The men are stretching in their seats.
+C: DOOLITTLE
+D: Unlock fail safe.
+N: Pinback unlocks the fail-safe unit.
+C: PINBACK
+D: Fail safe unlocked.
+C: RECORDED VOICE
+D: Attention. Attention. The hyperdrive sequence is now terminated. Please observe that the no smoking signs have growrrr...
+N: The voice runs down.
+C: DOOLITTLE
+D: Well... now what? What do, you have for us now. Boiler?
+C: BOILER
+D: Not much. Nothing at all in this sector.
+E: checking his readouts
+C: DOOLITTLE
+D: Find me something, I don't care where it is.
+C: BOILER
+D: Well, I show a 95% probability of sentient life in the Horsehead Nebula...
+C: DOOLITTLE
+D: Fuck that shit.
+C: BOILER
+D: Well, it is kind of a long shot...
+C: DOOLITTLE
+D: It's a goddamn wild goose chase. Remember when Commander Powell found that 99 plus probability of sentient life in the Magellanic Cloud?
+C: BOILER
+D: Well, there's the possibility of...
+C: DOOLITTLE
+D: Remember what we found? Fourteen light years for a fucking mindless vegetable that looked like a limp balloon and went squawk and let a fart when you touched it. Remember?
+C: BOILER
+D: All right, then...
+C: DOOLITTLE
+D: So don't give me any of that sentient life crap. Find me something I can blow up.
+N: A LIGHT flares on Pinback's board. He looks up.
+C: PINBACK
+D: New star. Hey, guess what? I got a new star on the readout.
+E: no reaction
+C: DOOLITTLE
+D: Which one?
+E: not looking up
+C: PINBACK
+D: Another unknown. Not on the charts. A red dwarf.
+C: DOOLITTLE
+D: Any planets?
+C: PINBACK
+D: Yeah. Eight, it says here.
+C: DOOLITTLE
+D: Any of 'em any good?
+C: PINBACK
+D: Naah. All stable.
+E: scans the board
+N: Doolittle loses interest.
+C: PINBACK
+D: What are you gonna name it?
+E: cont'd
+C: DOOLITTLE
+D: What?
+E: not looking up
+C: PINBACK
+D: The new star. What are you gonna name it?
+C: DOOLITTLE
+D: Who cares. Don't bother me.
+N: Pinback's mouth tightens. A pause.
+C: PINBACK
+D: Commander Powell would have named it.
+C: DOOLITTLE
+D: Commander Powell is dead.
+N: Involuntarily, Pinback glances at Commander Powell's empty, burned seat. The panels behind it sputter.
+C: PINBACK
+D: Come on, Doolittle, give it a name.
+C: DOOLITTLE
+D: Fred.
+C: PINBACK
+D: Wha?
+C: DOOLITTLE
+D: I hereby name this star Fred.
+C: BOILER
+D: Hey, Doolittle, here's one. An unstable planet. 85% probability of an unstable planet in the Veil Nebula that will probably go off its orbit and hit a star.
+C: DOOLITTLE
+D: Sounds good. Chart a course for the Veil Nebula.
+C: BOILER
+D: Pinback, throw me the chart log.
+N: Pinback draws a loose-leaf notebook from a shelf above Commander Powell's empty seat, and hurls it at Boiler. With a sour look at Pinback, Boiler picks up the notebook and begins to leaf through it.
+C: DOOLITTLE
+D: Let's have some music in here, Boiler.
+N: Boiler presses a button. LOUD COUNTRY MUSIC THEME BEGINS TO PLAY.
+S: EXTERIOR - DARK STAR (TITLE SEQUENCE)
+N: This sequence includes shots of the DARK STAR drifting through space, past various cosmic wonders, intercut with shots of the men relaxing (Talby staring into space; Boiler trimming his beard; Doolittle playing solitaire; Pinback reading a comic book). CREDITS AND MUSIC OVER. SEQUENCE ENDS.
+S: INTERIOR - DARK STAR
+N: Beep. We are watching a filmed tape. Doolittle has just turned it on and is staring into the camera. Crosshairs and blipping numbers superimposed.
+C: DOOLITTLE
+D: Ship's log, entry number 1,943. Dark Star cruising at light speed through Sector Theta 990. En route to Veil Nebula for destruction of unstable planet. Our ETA is 1700 hours. Ship's systems continue to deteriorate...
+E: thinks
+N: Pinback leans into view and whispers into Doolittle's ear. Doolittle nods and Pinback withdraws.
+C: DOOLITTLE
+D: The short circuit in the rear seat panel which killed Commander Powell continues to be faulty. Uh... Storage Area 9...
+E: cont'd thinks
+N: Pinback leans back in and whispers emphatically. Doolittle looks put- upon.
+C: DOOLITTLE
+D: And because he's sitting next to it, it continues to bother Pinback. Storage Area 9 self-destructed last week, destroying entire ship's supply of toilet paper. That's all.
+E: cont'd glares at Pinback. Then:
+N: Beep.
+S: INTERIOR - OBSERVATION DOME
+N: Talby is still gazing around at the stars. A hatch opens in the floor and Doolittle sticks his head up.
+C: DOOLITTLE
+D: Talby.
+N: Talby rotates his seat and looks down at Doolittle.
+C: DOOLITTLE
+D: Here's some breakfast.
+E: cont'd
+N: Doolittle climbs into the dome and sits on the floor. He hands Talby the food package, and watches matter-of-factly as Talby begins to eat.
+C: DOOLITTLE
+D: You know, Talby, you really ought to eat with the rest of us. You spend too much time up here.
+E: cont'd
+C: TALBY
+D: I like it up here.
+C: DOOLITTLE
+D: Must get lonely being up here so much.
+C: TALBY
+D: I don't like to go below since Commander Powell died. I feel enclosed down there. If it were big enough, I'd sleep up here...
+C: DOOLITTLE
+D: ... Should spend some time below, see more of the rest of the ship...
+C: TALBY
+D: ... You see, I can watch things up here, Doolittle. I love to watch things, just stare at the planets and meteors and asteroids, gas clusters...
+C: DOOLITTLE
+D: You'll have plenty of time for that, you know. Figure it this way: twenty years in space and we've only aged three, so there'll be plenty of time to stare around...
+C: TALBY
+D: You know, Doollttle, if we're going into the Veil Nebula, we may actually find a strange and beautiful thing: the Phoenix Asteroids. They should be passing through there about now...
+C: DOOLITTLE
+D: Phoenix Asteroids? Never heard of 'em.
+C: TALBY
+D: They are a body of asteroids that make a complete circuit of the universe once every 12.3 trillion years. The Phoenix Asteroids... From what I've heard, Doolittle, they glow... glow with all the colors of the rainbow. Nobody knows why. They just glow as they drift around the universe. Imagine all the sights they've seen in the time they've been travelling -- the birth and death of stars, things we'll never see. The universe is alive, Doolittle. I thought it was all empty, but it isn't. In between the stars, it's seething with light and gasses and dust. There are little pebbles drifting around, planets no one on Earth has ever seen... No one but the Phoenix Asteroids...
+N: There is a BLIPPING SOUND. It is insistent. Talby is rudely yanked from his reverie. He looks down at a panel. But his soft talk has started Doolittle reminiscing.
+C: DOOLITTLE
+D: You know what I think about, Talby?
+C: TALBY
+D: I'm getting something here, on this readout...
+C: DOOLITTLE
+D: It's funny, but I kind of sit around, you know, a lot of time to myself...
+C: TALBY
+D: I think I'm getting a malfunction here somewhere.
+C: DOOLITTLE
+D: I can't talk to the others, but with time to myself, I think about back home, back home at Malibu. I used to surf a lot, Talby. I used to be a great surfer.
+C: TALBY
+D: Lieutenant Doolittle, I'm getting a definite malfunction on one of the closed-circuit computer systems...
+C: DOOLITTLE
+D: The waves at Malibu and Zuma were fantastic in the springs Talby. I can remember running out on the beach early spring mornings with my board and a wet suit...
+C: TALBY
+D: I can't seem to locate the malfunction exactly...
+C: DOOLITTLE
+D: Waves would be peaking really high and glassy. Hit that water. Ridin' the wall just perfect.
+C: TALBY
+D: ... Somewhere in the autonomic relay circuits...
+C: DOOLITTLE
+D: I guess I miss the waves and my board most of all.
+N: Talby turns in his seat and addresses Doolittle directly.
+C: TALBY
+D: Ah, Doolittle, I do have a malfunction on this readout, but I can't seem to pinpoint exactly where it is.
+C: DOOLITTLE
+D: Don't worry about it. We'll find out when it goes bad.
+E: snapped out of his daydream
+C: TALBY
+D: I really think I should try and locate it immediately. Might be something important.
+E: chagrined
+C: DOOLITTLE
+D: I wish I had my board with me now. Even if I could only polish it once in awhile.
+S: EXTERIOR - SPACE
+N: LONG SHOT of the DARK STAR drifting through space.
+S: INTERIOR - KITCHEN
+N: Boiler, Pinback, and Doolittle are descending a ladder into the kitchen.
+C: BOILER
+D: I'm getting this flickering light on one of my panels.
+C: PINBACK
+D: What flickering light?
+C: BOILER
+D: The one on unit... oh, I think it's GMR twelve zero zero.
+C: PINBACK
+D: Oh. What's wrong now?
+C: BOILER
+D: I'm not sure. I think something is fucked up somewhere in the ship, though.
+C: PINBACK
+D: I hope it's not the oven again.
+C: BOILER
+D: Yeah.
+C: PINBACK
+D: Remember when the artificial gravity, went out in the toilet?
+N: The men sit for their meal. Doolittle brings food packets from the oven.
+C: PINBACK
+D: Hey, Doolittle, think we'll ever find real intelligent life out there?
+C: DOOLITTLE
+D: Out where?
+C: PINBACK
+D: Veil nebula.
+C: DOOLITTLE
+D: Who cares?
+S: INTERIOR - CONTROL ROOM
+N: The Control Room is EMPTY. After a moment, there is a repetitive BEEP. CLOSE SHOT - TV SCREEN. On the screen is the message: INCOMING COMMUNICATION This fades, and MISSION CONTROLLER appears on the screen, against a background of computer terminals. He is dressed in a snappy tunic, and when he receives the on-camera cue, he smiles ingratiatingly.
+C: MISSION CONTROLLER
+D: Hi, guys. Glad to get your message. We gather from the ten-year communications lag that you are approximately 18 parsecs away. Drop us a line more often, won't you?
+N: Sorry to hear about all the malfunctions, and real sorry to hear about the death of Commander Powell. There was a week of mourning all over Earth. The flags were at half mast. Now I hate to send bad news when you guys are up there doing such a swell job, but something's come up, and we all felt you ought to know about it. Our systems simulation computer has predicted that by the time this message reaches you -- that is to say, in about ten years -- there will be a failure in one of your vital ship's systems. The malfunction will occur in -- (rifles papers) -- system number E180246. You can see what a problem this would be if you didn't catch it on time. Now what you should do is this: First, do not, repeat, do not attempt to adjust the system manually. Second --
+S: INTERIOR - COMPUTER ROOM
+N: The room is dim and eerie, banks of dimly flickering lights and the hum of air-cooling machinery. Talby is seated before a glowing screen. He punches several buttons, and the screen comes to life. A schematic cross-section of the ship appears in glowing green lines. Talby punches more buttons, and the screen flashes through the levels or the ship. Finally it shows Level 6. There is a small red light pulsing in the Emergency Air Lock. Talby punches another button. The Emergency Air Lock is magnified fifteen times until it fills the screen. The red light is pulsing in a small area labelled COMMUNICATIONS LASER #17. Talby picks up a microphone.
+C: TALBY
+D: Lieutenant Doolittle, this is Talby. Lieutenant?
+C: DOOLITTLE
+D: Yes, Talby, what is it?
+E: over -- filter
+C: TALBY
+D: Sorry to interrupt your lunch, sir, but I'm in the Computer Room, and I think I've located the malfunction. The scanner shows it to be some sort of fault in the communications laser, down by the Emergency Air Lock. Can't pinpoint it exactly, but I'm going down there with a starsuit and try to find it.
+S: INTERIOR - KITCHEN
+C: DOOLITTLE
+D: Sounds good, Talby. Let me know if anything important comes up.
+N: Doolittle hangs up the mike.
+C: BOILER
+D: Why doesn't Talby ever eat down here with the rest of us?
+C: DOOLITTLE
+D: He just likes it up in the dome, that's all.
+N: Boiler seems to be thinking. He frowns, looks at Doolittle.
+C: BOILER
+D: What's Talby's first name?
+N: Doolittle thinks about it, and an odd expression crosses his face.
+C: DOOLITTLE
+D: What's my first name?
+S: INTERIOR - CONTROL ROOM
+N: CLOSE SHOT - TV SCREEN
+C: MISSION CONTROLLER
+D: -- then repatch channel 12 and seal all the plates. Don't mess with it and it should work okay. I'm just glad we caught this thing before anything serious happened. Keep up the good work, men.
+N: His image fades, and is replaced by the message: END COMMUNICATION FULL SHOT - CONTROL ROOM. Lights blink peacefully in the empty room. HOLD FOR A MOMENT.
+S: EXTERIOR - UNIVERSE
+N: SLOW ZOOM toward a sun system. The DARK STAR is suspended in frame. A title pops on briefly: VEIL NEBULA
+S: INTERIOR - CONTROL ROOM
+N: A GLOWING SCREEN shows a schematic of the planet rotating below. Boiler stares at it, smiling.
+C: BOILER
+D: There she is. Definite 99%-plus probability that the planet is going to deviate from its normal orbit in another twelve thousand rotations. It'll spiral in toward its sun, and --
+C: PINBACK
+D: Eventual supernova.
+C: DOOLITTLE
+D: Good stuff. Let's vaporize it.
+N: Pinback hits buttons.
+C: PINBACK
+D: Bomb bay systems operational.
+S: EXTERIOR - BOMB BAY
+N: BOMB #20 lowers ponderously out of the ship.
+S: INTERIOR - CONTROL ROOM
+C: DOOLITTLE
+D: Lock fail safe.
+N: Pinback turns the key.
+C: PINBACK
+D: Fail safe in lock. Four minutes to drop, 22 minutes to detonation. This is Sergeant Pinback calling Bomb #20. Do you read me, bomb?
+S: EXTERIOR - BOMB BAY
+N: BOMB #20 Bomb #20 to Sergeant Pinback. Roger, I read you, continue.
+S: INTERIOR - EMERGENCY AIR LOCK
+N: CAMERA SLOWLY PANS DOWN the chromium-steel walls of the Emergency Air Lock to reveal Talby in a starsuit. He is wearing it only as protection against possible depressurization, and therefore wears no jetpack. Carrying a tool kit, he is slowly circling the lock.
+C: RECORDED VOICE
+D: You are now in the Emergency Air Lock. Please remember that the Surface Door can be opened without prior depressurization, so be sure to wear your starsuit at all times. Thank you for observing all safety precautions.
+N: Talby stops facing LASER SHAFT 17. The plate cover on the laser shaft hangs loose; it appears to be burned. Talby approaches it and puts down his tool kit. He turns on his helmet radio.
+C: TALBY
+D: Ah, Lieutenant Doolittle? Sir?
+S: INTERIOR - CONTROL ROOM
+C: DOOLITTLE
+D: Sh, Talby, don't bother me now.
+S: INTERIOR - EMERGENCY AIR LOCK
+C: TALBY
+D: Ah, well, I think I've found the malfunction, sir. I'm in the Emergency Air Lock...
+S: INTERIOR - CONTROL ROOM
+C: DOOLITTLE
+D: Not now!
+C: TALBY
+D: Well, I'm in the Emergency Air Lock and --
+E: over -- filter
+N: Click! Doolittle turns off Talby's radio line.
+C: PINBACK
+D: One hundred twenty seconds to drop, bomb, have you checked your platinum euridium energy shielding?
+S: EXTERIOR - BOMB BAY
+N: BOMB #20 Energy shielding positive function.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Do you remember the detonation time?
+S: EXTERIOR - BOMB BAY
+N: BOMB #2 Detonation in twenty minutes.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Right, that synchronizes here. Okay, bomb, arm yourself.
+S: EXTERIOR - BOMB BAY
+N: BOMB #20 Armed.
+S: INTERIOR - EMERGENCY AIR LOCK
+N: Talby stands in front of the laser shaft, trying to reach Doolittle on his helmet radio.
+C: TALBY
+D: Hello? Lieutenant Doolittle? Hello!
+N: Silence. Very carefully, Talby reaches out to touch the dangling plate cover on the laser shaft. He pushes it, and it drops to the floor of the lock with a CLANG.
+C: RECORDED VOICE
+D: Communications Laser #17, monitoring information relays and bomb bay systems, has now been activated and will switch into a test mode. If you will look near the Surface Door, you will see that the Parallax Receptor Cell has been engaged.
+N: A small triangular hole opens in the opposite wall and a photo- sensitive cell rotates into position.
+C: RECORDED VOICE
+D: The laser will now energize. Please stand clear of the path of the beam.
+N: Talby steps back quickly. The airlock lights dim, and with a HIGH- PITCHED WHINE, A PENCIL-THIN BEAM OF RUBY LIGHT PULSES ACROSS THE LOCK, from the laser shaft to the receptor cell.
+C: RECORDED VOICE
+D: Communications Laser #17 is now on test. Under no circumstances enter the path of the beam. Thank you for observing all safety precautions.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Everything sounds fine, bomb. Dropping you off in sixty seconds. Good luck.
+S: EXTERIOR - BOMB BAY
+N: BOMB #2 Thanks.
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: Quantum is up thirty-five.
+C: DOOLITTLE
+D: I read the same here.
+S: INTERIOR - EMERGENCY AIR LOCK
+N: Talby crouches by the laser shaft, carefully peering past the red, humming beam.
+C: TALBY
+D: Doolittle. Doolittle? It you're there, I'm going to try to adjust the cue switch on the laser.
+N: Silence.
+C: TALBY
+D: Well... here goes...
+E: cont'd
+N: He takes a long tool from the tool kit. Slowly, with agonizing care, he inserts the tool into the laser shaft, painstakingly avoiding the beam. He engages the tool into the base of the laser, and begins slowly to make an adjustment. There is a BLINDING FLASH OF LIGHT. Talby drops the tool and staggers back, clutching his face plate.
+C: TALBY
+D: My eyes.
+C: RECORDED VOICE
+D: Attention. Attention. The laser has malfunctioned. Under no circumstances enter the path of the beam. To do so will cause immediate --
+N: Talby stumbles into the beam. There is a dull EXPLOSION.
+S: EXTERIOR - BOMB BAY
+N: There is a FLASH on the lower side of Bomb #20, a sudden EXPLOSION. Lights BLIP FURIOUSLY on the bomb.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Begin main sequence. Mark at 10-9-8- 7-6-5-4-3-2-1-drop.
+N: A HONKER SOUNDS. The men sit up.
+C: DOOLITTLE
+D: I have a negative drop. The bomb is still in the bomb bay. Try it again, Pinback.
+N: Pinback resets his panel. The honker stops.
+C: PINBACK
+D: Mark at 5-4-3-2-1-drop.
+N: HONK-HONK-HONK-
+C: DOOLITTLE
+D: Ah, negative drop.
+N: The men stare at each other in silence for a long moment. Simultaneously they begin hitting buttons.
+C: DOOLITTLE
+D: Rechannel all safety relays --
+C: BOILER
+D: -- open quantum latches --
+C: PINBACK
+D: -- open circuit breakers --
+C: DOOLITTLE
+D: -- remove thrust drive repellant --
+C: PINBACK
+D: -- automatic channels open --
+C: DOOLITTLE
+D: -- Remark.
+C: PINBACK
+D: 5-4-3-2-1-drop, drop, drop!
+N: There is a very long pause.
+C: BOILER
+D: Sittin' there. It's just sittin' there.
+S: EXTERIOR - BOMB BAY
+N: Bomb #20 hangs underneath the ship, waiting.
+S: INTERIOR - EMERGENCY AIR LOCK
+N: Talby lies unconscious on the floor of the lock.
+S: INTERIOR - CONTROL ROOM
+N: On the men's faces in strained anxiety.
+C: DOOLITTLE
+D: This is Lieutenant Doolittle calling Bomb #20. I repeat previous order, you are to disarm yourself and return immediately to the bomb bay. Do you understand?
+N: BOMB #20 (over) I am programmed to detonate in fourteen minutes thirty seconds. Detonation will occur at the programmed time.
+C: DOOLITTLE
+D: Bomb, this is Doolittle. You are not to detonate, repeat, you are not to detonate in the bomb bay. Disarm yourself. This is an order.
+S: EXTERIOR - BOMB BAY
+N: BOMB #20 I read you, Lieutenant Doolittle, but I am programmed to detonate in fourteen minutes. Detonation will occur at the programmed time.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Fourteen minutes to detonation.
+N: The men stare at each other.
+C: RECORDED VOICE
+D: Attention. Attention. The bomb has malfunctioned. Automatic dampers have gone into effect, and will confine the explosion to an area one mile in diameter. Please contact mission control and await further instructions. Thank you for observing all safety precautions.
+N: Pause.
+C: DOOLITTLE
+D: Only one thing to do. I'll have to ask Commander Powell. I'll have to ask him what to do.
+S: INTERIOR - FREEZER ROOM
+N: Doolittle climbs down a ladder into the icy-blue, cold Freezer Room. The walls are covered with frost, and mist hangs in the air. He pulls on a pair of insulated gloves and approaches a heavy freezer door. On the door is a sign: CRYOGENIC FREEZER COMPARTMENT CAUTION ABSOLUTE ZERO He opens the door. COMMANDER POWELL is encased in the freezer in a post-death, frozen ammonia state. Wire and electrodes are attached to his head. Doolittle takes a microphone from a console on the freezer. He flips a switch and speaks into the mike:
+C: DOOLITTLE
+D: Commander Powell? Commander Powell, this is Doolittle. Can you read me?
+N: A crackle of static comes from a speaker grille, along with the FAINT MUTTERING OF COMMANDER POWELL'S VOICE:
+C: POWELL
+D: ... muffirup glurrinpinfropal...
+N: Doolittle fiddles with the volume control, trying to bring Commander Powell's voice into audibllity.
+C: DOOLITTLE
+D: Commander Powell, this is Doolittle. Ah, there's something serious come up, sir, and I have to ask you something.
+C: POWELL
+D: I'm glad you've come to talk with me, Doolittle. It's been so long since anyone has come to talk with me.
+E: very weakly
+C: DOOLITTLE
+D: Commander, sir, we have a big problem. You see, the Veil Nebula bomb, Bomb Number 20, is stuck. It won't drop from the bomb bay. It refuses to listen and plans to detonate in -- -- less than eleven minutes.
+E: checks watch
+C: POWELL
+D: Doolittle, you must tell me one thing.
+C: DOOLITTLE
+D: What's that, sir?
+C: POWELL
+D: Tell me, Doolittle, how are the Dodgers doing?
+C: DOOLITTLE
+D: Well, sir, the Dodgers broke up, disbanded over thirteen years ago.
+C: POWELL
+D: Ah... pity, pity...
+C: DOOLITTLE
+D: You don't understand, sir, we can't get the bomb to drop.
+C: POWELL
+D: Ah, so many malfunctions... why don't you have anything nice to tell me when you activate me? Oh, well, did you try the azimuth clutch?
+C: DOOLITTLE
+D: Yes sir. Negative effect.
+C: POWELL
+D: What was that, Doolittle?
+C: DOOLITTLE
+D: Negative effect.
+C: POWELL
+D: It didn't work?
+C: DOOLITTLE
+D: That's correct, sir.
+C: POWELL
+D: Sorry, Doolittle. I've forgotten so much since I've been in here. So much.
+C: DOOLITTLE
+D: What should we do, sir? The time is running out.
+C: POWELL
+D: Well, what you might try is --
+N: Commander Powell's voice is drowned in a burst of static. Doolittle fiddles with the dials.
+C: DOOLITTLE
+D: Commander Powell? Commander, hello!
+C: POWELL
+D: Doolittle, hello?
+C: DOOLITTLE
+D: Sorry, sir, you faded out there for a minute.
+C: POWELL
+D: Sorry.
+C: DOOLITTLE
+D: What were you saying, Commander, about the bomb?
+C: POWELL
+D: Ah... it seems to me, Doolittle... Sorry, I've drawn a blank. Hold it. I'll have it again in a minute. I forget so many things in here, so many things. Hold on, just a minute, let me think...
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: But you can't explode in the bomb bay. It's foolish. You'll kill us all. There's no reason for it.
+N: BOMB #20 (over) I am programmed to detonate in nine minutes. Detonation will occur at the programmed time.
+C: PINBACK
+D: You won't consider another course of action, for instance just waiting around awhile so we can disarm you?
+S: EXTERIOR - BOMB BAY
+N: BOMB #20 No.
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: I can tell, the damn thing just doesn't understand.
+C: PINBACK
+D: Look, bomb...
+S: INTERIOR - FREEZER ROOM
+C: DOOLITTLE
+D: Commander? Are you still there?
+C: POWELL
+D: Oh, yes, Doolittle, I'm thinking.
+C: DOOLITTLE
+D: We're running out of time, sir.
+C: POWELL
+D: Oh, yes... Well, Doolittle, if you can't get it to drop you'll have to talk to it.
+C: DOOLITTLE
+D: Sir?
+C: POWELL
+D: Talk to the bomb.
+C: DOOLITTLE
+D: I already have, sir, and Pinback is talking to it now.
+C: POWELL
+D: No, no, Doolittle, you talk to it. Teach it Phenomenology, Doolittle.
+C: DOOLITTLE
+D: Sir?
+C: POWELL
+D: Phenomenology...
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Doolittle! Doolittle! Six minutes to detonation!
+S: INTERIOR - VENTRAL AIR LOCK
+N: Wearing his starsuit, complete with jetpack, Doolittle pushes a button. Above him, the giant lock doors slowly slide open.
+S: EXTERIOR - SHIP
+N: Doolittle slowly rises up out of the ship. He stops his ascent with his jetpack, turns, and moves down toward the bomb bay.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Doolittle! Doolittle, what the hell are you doing?
+S: EXTERIOR - BOMB BAY
+N: Doolittle floats into shot, jets himself up until he is facing massive Bomb #20.
+C: DOOLITTLE
+D: Hello, bomb, are you with me?
+N: BOMB #20 Of course.
+C: DOOLITTLE
+D: Are you willing to entertain a few concepts?
+N: BOMB #20 I am always receptive to suggestions.
+C: DOOLITTLE
+D: Fine. Think about this one, then: how do you know you exist?
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: What's he doin'?
+C: PINBACK
+D: I think he's talking to it.
+S: EXTERIOR - BOMB BAY
+N: BOMB #20 Well of course I exist.
+C: DOOLITTLE
+D: But how do you know you exist?
+N: BOMB #20 It is intuitively obvious.
+C: DOOLITTLE
+D: Intuition is no proof. What concrete evidence do you have of your own existence?
+N: BOMB #20 Hmm... Well, I think, therefore I am.
+C: DOOLITTLE
+D: That's good. Very good. Now then, how do you know that anything else exists?
+N: BOMB #20 My sensory apparatus reveals it to me.
+C: DOOLITTLE
+D: Right!
+N: BOMB #20 This is fun.
+C: DOOLITTLE
+D: All right now, here's the big question: how do you know that the evidence your sensory apparatus reveals to you is correct?
+S: INTERIOR - EMERGENCY AIR LOCK
+N: Talby lies unconscious near the burned laser.
+S: EXTERIOR - BOMB BAY
+C: DOOLITTLE
+D: What I'm getting at is this: the only experience that is directly available to you is your sensory data. And this data is merely a stream of electrical impulses which stimulate your computing center.
+N: BOMB #20 In other words, all I really know about the outside universe relayed to me through my electrical connections.
+C: DOOLITTLE
+D: Exactly.
+N: BOMB #20 Why, that would mean... I really don't know what the outside universe is like at all, for certain.
+C: DOOLITTLE
+D: That's it.
+N: BOMB #20 Intriguing. I wish I had more time to discuss this matter.
+C: DOOLITTLE
+D: Why don't you have more time?
+N: BOMB #20 Because I must detonate in seventy- five seconds.
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: The key!
+C: PINBACK
+D: Key? Key? What is the key?
+C: BOILER
+D: No, no, the key, the key to the fail-safe lock!
+C: PINBACK
+D: Key?
+C: BOILER
+D: Where's the fail-safe key?
+C: PINBACK
+D: The key!
+C: BOILER
+D: Where is it? What did you do with it?
+C: PINBACK
+D: I don't have it. I don't know where it is.
+C: BOILER
+D: You must have it, you idiot, we can stop the bomb!
+S: EXTERIOR - BOMB BAY
+C: DOOLITTLE
+D: Now, bomb, consider this next question, very carefully. What is your one purpose in life?
+N: BOMB #20 To explode, of course.
+C: DOOLITTLE
+D: And you can only do it once, right?
+N: BOMB #20 That is correct.
+C: DOOLITTLE
+D: And you wouldn't want to explode on the basis of false data, would you?
+N: BOMB #20 Of course not.
+C: DOOLITTLE
+D: Well then, you've already admitted that you have no real proof of the existence of the outside universe.
+N: BOMB #20 Yes, well...
+C: DOOLITTLE
+D: So you have no absolute proof that Sergeant Pinback ordered you to detonate.
+N: BOMB #20 I recall distinctly the detonation order. My memory is good on matters like these.
+C: DOOLITTLE
+D: Yes, of course you remember it, but what you are remembering is merely a series of electrical impulses which you now realize have no necessary connection with outside reality.
+N: BOMB #20 True, but since this is so, I have no proof that you are really telling me all this.
+S: INTERIOR - CONTROL ROOM
+N: Pinback is pawing frantically through the control room, searching for the key. Boiler is apoplectic.
+C: BOILER
+D: The key, goddamit, the key!
+C: PINBACK
+D: Christ, twenty seconds, Christ!
+C: BOILER
+D: Where is the key?
+C: PINBACK
+D: We're gonna die, Boiler. We're gonna die.
+N: They begin slapping each other hysterically.
+S: EXTERIOR - BOMB BAY
+C: DOOLITTLE
+D: That's all beside the point. The concepts are valid, wherever they originate.
+N: BOMB #20 Hmmm...
+C: DOOLITTLE
+D: So if you detonate in...
+N: BOMB #20 ... nine seconds...
+C: DOOLITTLE
+D: ... you may be doing so on the basis of false data.
+N: BOMB #20 I have no proof that it was false data.
+C: DOOLITTLE
+D: You have no proof that it was correct data.
+N: There is a long pause. BOMB #20 I must think on this further. THE BOMB RAISES ITSELF BACK INTO THE SHIP. Doolittle practically collapses with relief.
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: It didn't go off.
+C: PINBACK
+D: Oh, God...
+C: BOILER
+D: It didn't go off.
+C: PINBACK
+D: Boiler, we're alive. My heart.
+S: INTERIOR - EMERGENCY AIR LOCK
+N: Talby slowly climbs to his feet. He is dazed, groggy.
+C: TALBY
+D: Doolittle? Doolittle? What happened? Pinback? Boiler? Did we blow it up? Hello? Hello?
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: No bombs today. No bombs. Big Boiler's back in business. No bombs today.
+N: Pinback is mumbling unintelligibly.
+S: INTERIOR - EMERGENCY AIR LOCK
+C: TALBY
+D: Hello, anybody! Did we blow up the planet? Hello, hello! What's going on?
+S: INTERIOR - CONTROL ROOM
+N: Pinback and Boiler have calmed down.
+C: BOILER
+D: We've got to disarm the bomb.
+C: PINBACK
+D: Doolittle, are you there?
+S: EXTERIOR - EMERGENCY AIR LOCK
+N: Doolittle is floating outside the Emergency Air Lock door.
+C: DOOLITTLE
+D: I'm coming in now. I'm down by the Emergency Air Lock. Too much trouble to come in the Ventral Lock. Would you blow the seal on the emergency hatch so I can come in?
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Oh, sure.
+N: He presses a button.
+S: EXTERIOR - EMERGENCY AIR LOCK
+N: The Emergency Air Lock door EXPLODES AWAY FROM THE SHIP. Behind it, carried by the burst of escaping air, comes Talby spinning head over heels into deep space.
+C: DOOLITTLE
+D: Hello, Pinback, are you there?
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Yeah, Doolittle. What's up?
+S: EXTERIOR - EMERGENCY AIR LOCK
+C: DOOLITTLE
+D: Talby was in the air lock. You blew him out of the ship. I'm going after him. Turn on his helmet radio so I can contact him.
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: What was that, I didn't hear...
+C: PINBACK
+D: It's Talby. He's drifting away from the ship without his jetpack.
+S: EXTERIOR - SPACE
+N: Doolittle fires his jetpack, moving off into space after Talby.
+C: DOOLITTLE
+D: Talby, Talby, can you read me?
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: Can you beat that? I always knew Talby was weird.
+S: EXTERIOR - SPACE
+C: DOOLITTLE
+D: Talby, can you read me?
+N: Talby is spinning wildly.
+C: TALBY
+D: Help, Doolittle, help me!
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: All right, bomb, prepare to receive new orders.
+N: BOMB #20 (over) You are false data.
+C: PINBACK
+D: Huh?
+N: BOMB #20 Therefore, I shall ignore you.
+C: PINBACK
+D: Hello, bomb.
+S: INTERIOR - BOMB BAY
+N: BOMB #20 False data can act only as a distraction. Therefore. I shall refuse to perceive you.
+C: PINBACK
+D: Hey, bomb.
+E: over
+N: BOMB #20 The only thing which exists is myself.
+C: PINBACK
+D: Bomb?
+E: over
+S: EXTERIOR - SPACE
+N: Talby, spinning, is reflected in Doolittle's face plate.
+C: TALBY
+D: Doolittle! Help me.
+C: DOOLITTLE
+D: Calm down, Talby. I'm coming.
+S: INTERIOR - CONTROL ROOM
+C: PINBACK
+D: Snap out of it, bomb.
+S: INTERIOR - BOMB BAY
+N: BOMB #20 In the beginning there was darkness, and the darkness was without form and void.
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: What the hell?
+C: PINBACK
+D: Yoo hoo, bomb...
+S: INTERIOR - BOMB BAY
+N: BOMB #20 And in addition to the darkness there was also me. And I moved upon the face of the darkness.
+S: INTERIOR - CONTROL ROOM
+C: BOILER
+D: Bomb, hey bomb.
+C: PINBACK
+D: Hey, bomb...
+S: INTERIOR - BOMB BAY
+N: BOMB #20 And I saw that I was alone. Pause. BOMB #20 (cont'd) Let there be light. THE SCREEN GOES WHITE.
+S: EXTERIOR - SPACE
+N: IN DEAD SILENCE, THE WHITE SCREEN FADES DOWN TO SHOW A GIANT WHITE FIREBALL IN SPACE. THE FIREBALL CONTRACTS TO A HARD CORE, GROWING RED. THEN A BLINDING WHITE FLASH. Doolittle flies past, falling backward.
+C: DOOLITTLE
+D: Whoa!
+N: Talby, upside down, is falling in the opposite direction.
+C: TALBY
+D: Doolittle, Doolittle, where are you?
+C: DOOLITTLE
+D: Here I am. I think I'm spinning... We're both falling, Talby, in opposite directions, away from each other. My -- my jetpack's gone.
+C: TALBY
+D: What happened, Doolittle?
+C: DOOLITTLE
+D: Bomb must have gone off inside the ship. Nothing we can do about it now. Hey, it looks like... the skipper. He made it. Commander Powell made it!
+N: A block of ice with a man's body in it tumbles past, end over end.
+C: POWELL
+D: Men... men... what happened, men?
+E: weakly
+C: DOOLITTLE
+D: Yeah, the skipper always was lucky.
+N: The planet begins to rise behind Doolittle.
+C: DOOLITTLE
+D: Looks like I'm headed for the planet, Talby. Going right toward it.
+E: cont'd
+C: TALBY
+D: When you fall, Doolittle, if there's anyone down there on the planet, somebody may see you. They may see you coming down. What a beautiful way to die... as a falling star...
+C: DOOLITTLE
+D: Guess you're right.
+N: Talby turns his head and looks behind him.
+C: TALBY
+D: Doolittle, I'm heading right toward something. It's behind me, in the distance. Something that glows.
+N: Far behind Talby, coming nearer, is a shimmering point of light.
+C: DOOLITTLE
+D: Oh yeah?
+C: TALBY
+D: Doolittle... I think it's the Phoenix Asteroids!
+C: DOOLITTLE
+D: Phoenix?
+N: The point of light is closer now, and it has begun to differentiate into a group of beautifully colored frost-like shapes.
+C: TALBY
+D: It is, Doolittle, it's the Phoenix! They glow with all the colors of the rainbow, just like everybody said.
+C: DOOLITTLE
+D: No kidding?
+C: TALBY
+D: I'm going into them, I'm going to hit them. Doolittle...
+C: DOOLITTLE
+D: Yeah?
+C: TALBY
+D: Before we get too far away, and our signals start to fade, I just wanted to tell you... you were my favorite. I really liked you, Doolittle.
+C: DOOLITTLE
+D: I really liked you too, Talby. Hey, some debris from the ship! It's coming right by me.
+N: Several chunks of debris from the ship drift past Doolittle.
+C: TALBY
+D: Doolittle, I'm catching up to the asteroids. I'm going to be a part of them in a minute. Doolittle, I'm going into them.
+N: Talby drifts into the huge frost-like shapes, expanding and glowing and spinning, slowly refracting all the colors of the spectrum with a cold glow.
+C: TALBY
+D: I'm beginning to glow.
+E: cont'd
+N: The field of spectral shapes, with Talby in their midst, begin to drift away into the distance.
+C: TALBY
+D: They're taking me with them, with the Phoenix... going to circle the universe forever. I'm with them now... be back this way again some day. Doolittle, before it's too late, there's one last thing I want to tell you...
+E: cont'd
+N: Talby's signal dies out as the glowing lights disappear into the depths of space. Doolittle is hanging onto a long, thin chunk of debris.
+C: DOOLITTLE
+D: Hey, Talby! I've grabbed a piece of the ship, and I think I've figured out a way!
+N: He pulls the piece of metal down beneath his feet, and stands on it. Crouching and extending his arms, Doolittle surfs down into the atmosphere of the planet, banking and planing as he disappears to a small dot. END TITLES AND MUSIC OVER.

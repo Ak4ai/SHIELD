@@ -1,0 +1,2289 @@
+M: SPACE MILKSHAKE
+M: Written by
+M: Armen Evrensel
+M: PRODUCTION DRAFT
+M: November 12th 2011
+M: Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 1.
+S: INT. ANTARCTICA LAB (OPENING MONTAGE)
+C: 1A 1A
+D: A glowing blue box like a large toaster sits in a sterile lab shelf, plugged in. A rubber duck sits on a cluttered desk. GARY PINBACK identified by "Gary" stitched on a white lab coat - enters frame, unplugs the box and shoves it in a duffle bag nervously . An ALARM SOUNDS. RED SIREN LIGHT splashes into frame. Opening credits play on walls and other surfaces of this montage before and after Gary runs through frames. Gary goes to a desk and rushes to steal stationary, staplers, pencils, a calculator etc; he sweeps the desk surface junk with his arm into the duffle bag on top of the Time Cube. He picks up the rubber duck and shoves it in his pocket.
+E: the Time Cube 40 his face framed out of this entire montage
+S: INT. ANTARCTICA LAB HALLWAY (OPENING MONTAGE)
+C: 1B 1B
+D: A white lab coat fills the frame then reveals Gary running away. Gary's feet running. Duffle bag in frame. HIGH ANGLE: long hall, following Gary running. ANGLE ON DOOR: it's marked SPACEPORT LEVEL 4, Gary slams into it and runs through. LOW ANGLE: Gary runs through long high ceiling hall away from camera. Red Siren light spins on the wall. Gary goes through the far door. Gary slips and wipes out, spilling his stationary. He grabs his time cube bag and duck and keeps running.
+S: INT. ANTARCTICA LAB SPACEPORT (OPENING MONTAGE)
+C: 1C 1C
+D: MEDIUM CLOSE: Gary throws the bag into a hatch and climbs in after it, closes the hatch, spins the handle from the inside. It's marked with decals reading CARGO DRONE 9. A blast door lowers into frame covering the drone and we hear SPACE SHUTTLE TAKING OFF SOUNDS.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - DAY
+C: 1D 1D
+D: A few space stations, shuttles and satellites fly around. A sparse ring of garbage circles the looming earth. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 2.
+N: Cargo Drone 9 - small space shuttle cruises away from Earth, with matching hatch and markings from scene 1C on rear.
+C: SECURITY
+D: Unauthorized shuttle, return to Antarctica Research Station immediately! This is your final warning! SECURITY 2 Okay, blast it. LASER BLASTS originating from Earth narrowly miss the shuttle. A FLASH OF LIGHT - the shuttle is gone without a trace.
+E: O.S. O.S.
+C: SECURITY
+D: Where did it go? Did you get it? SECURITY 2 I'm not reading anything. Must have totally vaporized it.
+E: O.S. O.S.
+C: SECURITY
+D: Nice shot. Elevator music plays O.S. We float back to reveal the WASS 8518 REGINA STATION in orbit.
+E: O.S.
+S: INT. AIRLOCK MODULE (INSIDE AIRLOCK) - DAY
+N: JIMMY ANDERSON (25) wears a jumpsuit with utility belt, has a small rolling suitcase, and a bunch of papers in the other hand. Elevator music. He stands waiting in a small industrial- looking passage with heavy duty inner and outer doors. A red light. He's sweating, pale. He presses the button repeatedly.
+C: ANTON
+D: Do you have any fruits, vegetables, or other food products?
+E: O.S.
+C: JIMMY
+D: No.
+C: ANTON
+D: Fever, stuffy nose, cold symptoms?
+E: O.S.
+C: JIMMY
+D: No. Jimmy sneezes. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 3.
+C: JIMMY
+D: Allergies.
+E: CONT'D
+C: ANTON
+D: Have you worked on the WENDI series computer systems before?
+E: O.S.
+C: JIMMY
+D: You still have a WENDI? The light turns green and the inner door opens, Jimmy enters the space station airlock module. A sign above the airlock says: "REMEMBER ALL ACCIDENTS IN SPACE ARE SERIOUS ACCIDENTS". Jimmy sneezes again, wipes his nose, offers his hand to shake. He reads Anton's name tag.
+C: JIMMY
+D: Captain Balvenie?
+E: CONT'D
+C: ANTON
+D: Call me Anton. ANTON BALVENIE snatches the documents, and walks away as he reads. Jimmy follows him.
+E: 35
+C: ANTON
+D: We're very informal around here.
+E: CONT'D
+S: INT. PASSAGEWAY B - DAY
+C: 2A 2A
+D: Jimmy follows Anton in a walk `N Talk. The walls have yellow blast shields over the windows.
+C: ANTON
+D: Jimmy Anderson, United Spaceworkers Orbital 108 since 2147, allergic to pollen. Certified level... nine rating?
+C: JIMMY
+D: Engineer level nine rating. Anton is unimpressed. Jimmy stops to poke a panel with a loose wire.
+C: ANTON
+D: Level 9 engineers aren't rated for central systems repair.
+C: JIMMY
+D: No, they are. I am. Do you want me to go back? Anton corners Jimmy. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 4.
+C: ANTON
+D: We got you up here, I'll put you to work.
+C: JIMMY
+D: Great. This is my first orbital assignment.
+C: ANTON
+D: Let me clue you in. Up here the work never stops. There's always orbital debris piling up and someone has to be in each sector with a line of sight on it to keep launch vectors clear. Do you follow me?
+C: JIMMY
+D: No problem chief.
+C: ANTON
+D: I'm not a chief I'm a Captain.
+C: JIMMY
+D: Sorry, Captain. They keep walking, reaching the junction at the end.
+C: ANTON
+D: Just make sure you finish by zero eight hundred Zulu. I'm not signing overtime forms. Do you know how to fix mess hall food dispensers?
+C: JIMMY
+D: No. Maybe. What's the matter?
+C: ANTON
+D: All it's giving is sandwiches. That's your next job after the mainframe.
+S: INT. CONTROL ROOM - DAY
+N: Computer monitors with important data cover the walls, there are six stations with rotating chairs and an island of consoles in the middle. Flight Specialist TILDA GENERO (25) has her feet up, headphones on. The door opens and Jimmy follows Anton into the control room. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 5.
+C: ANTON
+D: The terminal on the fritz is over there. Jimmy sees Tilda.
+C: ANTON
+D: That's Lieutenant Tilda Genero. You don't need to talk to her. Tilda glances at him and turns her chair away from him. Jimmy drags his suitcase, hitting everything, and dumps out electronic junk near the terminal. He opens up a panel near a screen showing static.
+E: CONT'D
+C: JIMMY
+D: There's your problem. Jimmy digs around in the panel with wires sticking out.
+C: ANTON
+D: And the sonovac coffee machine is malfunctioning. Can you fix that?
+C: JIMMY
+D: I don't know. I might have to take the mainframe offline to fix this-
+C: ANTON
+D: Whatever, get it done. Anton goes to another terminal and uses the computer.
+C: JIMMY
+D: What's his problem? Tilda ignores him.
+C: JIMMY
+D: I said, what's his problem? ... I guess you can't hear me with your headphones on.
+E: CONT'D
+C: TILDA
+D: I can hear you.
+N: Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 6.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - DAY
+N: In big naval ship name letters it says "WASS-8518 REGINA" on the dirty run-down and decaying sanitation station. FLASH OF LIGHT: The cargo shuttle appears out of nowhere, flying away from the Earth as it was before.
+S: INT. CONTROL ROOM - DAY
+N: Tilda has her feet up, she listens to the radio chatter, not caring in the least. She presses a few buttons. Jimmy tests circuits in the background. She adjusts her headphones. Computer monitors show generic scrolling text, radar sweeps and simple iconographic status displays in the background.
+C: GROUND CONTROL
+D: Orbital control, this is ground control, come in please.
+E: O.S.
+C: BILL
+D: What's shaking Steve?
+E: O.S.
+C: GROUND CONTROL
+D: Oh hey Bill. Was Antarctica station looking for a missing shuttle earlier today?
+C: BILL
+D: Roger that. Did you find it?
+E: O.S.
+C: GROUND CONTROL
+D: Thing is I have an unregistered shuttle here tagged with a high probability of debris collision. No life signs on board. Think it's the same one?
+E: O.S.
+C: BILL
+D: Negative ground control. The one Antarctica lost had a passenger.
+E: O.S.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - DAY
+N: The small drone appears moving (relatively) slowly toward the general area of the Regina station. A METAL SCREW floats in space (shallow focus). The drone is coming toward the screw from the distance.
+C: GROUND CONTROL
+D: Take a look at the collision warning. I read station eight five one eight in your sector. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 6A.
+E: O.S. MORE
+C: GROUND CONTROL
+D: Sanitation Station Regina. Better get them on it. Are you going to come to poker night? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 7.
+E: O.S. CONT'D
+C: BILL
+D: You know it Steve. See you next Wednesday.
+E: O.S.
+S: INT. CONTROL ROOM - DAY
+N: Tilda lazily leans over and presses the button.
+C: BILL
+D: Sanitation station eight five-
+E: O.S.
+C: TILDA
+D: Station Regina here. I've been monitoring. We're not reading debris in our sector.
+C: BILL
+D: Why don't you check again. Tilda is annoyed and hits some buttons.
+E: O.S.
+C: TILDA
+D: It's probably a sensor glitch.
+C: BILL
+D: That's a negative, the debris appears to be between class 2 and class 3. Can you whack it with a proton beam?
+E: O.S.
+C: TILDA
+D: Ground control, it's too big for a proton beam if it's class 3. You know that. Anton comes over to Tilda and looks at the monitor.
+C: ANTON
+D: What do they want now?
+C: TILDA
+D: A cargo drone is coming through. They've got a collision alarm.
+C: ANTON
+D: Looks too small for a laser sweep.
+C: TILDA
+D: Probably just a false alarm. What do you want me to tell them?
+C: JIMMY
+D: Do you want me to take a look at the sensors? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 8.
+C: ANTON
+D: No. Keep working. Anton hits some keys, then presses the radio button.
+C: ANTON
+D: This is Captain Balvenie of sanitation station eight five one eight. Who the hell is telling my operations officer how to do her job?
+E: CONT'D
+C: GROUND CONTROL
+D: Balvenie-
+E: O.S.
+C: ANTON
+D: You have to send someone else. Our main computer is down for service.
+C: GROUND CONTROL
+D: Hold on... Now I've got Antarctica station telling me it's a priority one situation.
+E: O.S.
+C: ANTON
+D: Not our problem. The book says it's too small for lasers. Check your book down there.
+C: GROUND CONTROL
+D: How about a particle beam?
+E: O.S.
+C: ANTON
+D: Where's Valentina? Why am I dealing with these guys? It's her shift.
+S: INT. ENGINEERING MODULE - DAY
+N: An intercom on the wall next to a bunch of bubbles. VALENTINA NOVAK (33) takes a bubble bath in a water tank, with a rubber duck. A towel is hung on equipment nearby. Anton sounds like he puts the mic too close to his mouth.
+C: ANTON
+D: Valentina to the control room immediately please. Valentina to the control room.
+E: O.S.
+C: GROUND CONTROL
+D: How about you just take a pod out there and pick up the debris? She turns to listen to the voices on the intercom. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 9.
+E: O.S.
+C: ANTON
+D: We don't take pods out for class two debris.
+E: O.S.
+S: INT. CONTROL ROOM - DAY
+N: Continuous. Anton practically eats a headset microphone.
+C: ANTON
+D: Sanitation Station Regina out. Anton switches off the radio.
+C: ANTON
+D: Morons.
+E: CONT'D
+C: TILDA
+D: Did he just tell us to take a pod to look for a class 2 object? Jimmy hangs out next to Tilda.
+C: JIMMY
+D: Do you know where can I get lunch?
+C: TILDA
+D: Mess hall.
+C: JIMMY
+D: Can you show me the way?
+C: ANTON
+D: Oh, you'd like lunch? Know what I'd like? I'd like my computer fixed right now. Fix it.
+C: JIMMY
+D: Ok Anton.
+C: ANTON
+D: That's Captain Balvenie.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - DAY
+N: The cargo drone ship cruises along. It's approaching the metal screw floating in space. SMASH - the drone hits the screw and EXPLODES. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 10.
+S: INT. CONTROL ROOM - DAY
+N: Red lights and indicators flash. A siren sounds. Tilda and Anton leap into action at the controls. Jimmy comes over.
+C: JIMMY
+D: What's that? Is everything ok?
+C: TILDA
+D: Collision detected. Secondary explosion. Reading a level six debris field out there. Lots of it.
+C: ANTON
+D: Are there any salvage crews in the sector?
+C: TILDA
+D: Nope. But they're scrambling two teams. They must really want the pod.
+C: ANTON
+D: You think there's something good in there?
+C: TILDA
+D: That's my bet.
+C: ANTON
+D: Well I'm calling it.
+C: VALENTINA
+D: What happened? Is that the collision alarm?
+E: O.S.
+C: ANTON
+D: Match orbit and position for pod launch. Run the checklist. Valentina report to airlock two. We're going fishing. Anton runs out.
+S: INT. ENGINEERING MODULE - DAY
+N: The siren sounds over the intercom. Valentina towels off. She zips up her jumpsuit and runs out.
+S: INT. CONTROL ROOM - DAY
+C: 14A 14A
+D: Jimmy comes over to Tilda again. She turns off the sirens. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 11.
+C: JIMMY
+D: Do you get down to Earth much? Tilda turns around from her terminal.
+C: TILDA
+D: I need to monitor the salvage operation.
+C: JIMMY
+D: Do you always share a salvage bonus with the entire crew?
+C: TILDA
+D: Three way split.
+C: JIMMY
+D: But we're four including me.
+C: TILDA
+D: You didn't sign in. You're not crew. Tilda puts on her headphones and turns away from Jimmy.
+C: JIMMY
+D: Where's the sign-in sheet? Tilda points at her headphones without turning to him.
+C: JIMMY
+D: I'll sign in later I guess.
+E: CONT'D
+S: INT. AIRLOCK MODULE - DAY
+N: Anton heroically puts on a space suit and gear. Valentina comes in.
+C: VALENTINA
+D: Are we saying three way split on salvage?
+C: ANTON
+D: I'm not cutting in the new guy.
+C: VALENTINA
+D: That's the good space suit.
+C: ANTON
+D: I got here first. And you handle the heat better. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 12.
+C: VALENTINA
+D: Forget it then. Anton takes off his space-pants and hands them to Valentina.
+C: ANTON
+D: Fine, fine. There's nothing wrong with the other suit anyway. I don't care.
+C: VALENTINA
+D: I just took a bath.
+C: ANTON
+D: I said fine. Anton takes the other suit. It's very smelly. He takes off his shirt and pants and they both dress in space suits. [Simple montage of zipping, buckling, boots, gloves.]
+S: EXT. WESTERN ALLIANCE SANITATION STATION - DAY
+N: A grungy old salvage pod moves away from the Regina and thrusts off into space toward a burning debris cloud.
+S: INT. WASS ORBITAL SANITATION POD - DAY
+N: Valentina and Anton are squashed up next to each other at the controls of the small pod, helmets on laps, wearing headsets.
+C: VALENTINA
+D: Why are we bothering with this?
+C: ANTON
+D: This could be the haul we've been waiting for. They're flipping out over this cargo drone.
+C: VALENTINA
+D: What is it?
+C: ANTON
+D: I don't know. It must be worth something.
+C: VALENTINA
+D: If there's a big salvage bonus, I want to go somewhere with a beach. Looks like something over there.
+C: ANTON
+D: Ya I see it. Line us up. They work the controls. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 13.
+C: GROUND CONTROL
+D: Sanitation Pod, do not approach the debris field. The area will be salvaged by an authorized crew. Repeat; do not approach the cargo drone debris field, this now is a secure sector.
+E: O.S.
+C: ANTON
+D: Ground control, this is our sector and we need to keep this space clear. We got all kinds of transports coming through today.
+C: GROUND CONTROL
+D: Negative. Stand down- Anton turns off the radio.
+E: O.S.
+C: ANTON
+D: They really want whatever was on that shuttle. It's going to be good. Anton pulls out sandwiches from a pouch with difficulty and eats.
+C: VALENTINA
+D: Did you bring one for me? Anton hands her a sandwich.
+C: VALENTINA
+D: Veggie? Have you got ham?
+E: CONT'D
+C: ANTON
+D: You got the good space suit. Valentina looks at him, stops steering the pod.
+C: ANTON
+D: Fine. God damn it. Take the ham. He gives her the ham sandwich. They eat and fly the pod.
+E: CONT'D
+S: EXT. WESTERN ALLIANCE SANITATION STATION - DAY
+N: The pod scoots through a cloud of junk and boxes floating and spinning in space. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 14.
+S: INT. WASS ORBITAL SANITATION POD - DAY
+N: Anton and Valentina flip switches and use joysticks.
+C: ANTON
+D: Almost full. Lets dump this load and try for another pass.
+C: VALENTINA
+D: Got it. Closing the hatch. Hatch secure. Looks like there may be an active energy source in there. A clunk noise. Anton checks his watch.
+C: ANTON
+D: It's fine. Skip the safety check, we've got two minutes left. Once it's onboard, it's ours.
+N: OMITTED SCENES 22-23
+S: INT. STORAGE MODULE - DAY
+N: The room has salvage bins, heavy machinery, gamma ray detectors, piles of cables and garbage everywhere. Large pieces of burned space junk dump into the room through a hatch. Gary's Time Cube falls in. It glows ominous blue. It starts to HUMM. A FLASH OF LIGHT ripples out of the box!
+S: INT. WASS ORBITAL SANITATION POD - DAY
+N: Anton pulls up a handle like a parking brake. The sounds of hydraulic pistons O.S. Outside the window there's a Super Bright FLASH that shines on their faces from windows above.
+C: ANTON
+D: Did they just shoot at us?
+C: VALENTINA
+D: I don't know. Hold on.
+C: ANTON
+D: I'm seeing spots.
+C: VALENTINA
+D: Sensors are down. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 15.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - DAY
+N: The Regina station floats alone in space, the pod docked on the side. There's nothing except the Earth below, and no city lights shine on the surface. No junk, no other ships or stations in space.
+S: INT. WASS ORBITAL SANITATION POD - DAY
+N: Anton and Val press buttons and look at screens.
+C: VALENTINA
+D: Where's the debris field?
+C: ANTON
+D: Where's everything? They stare at the monitors, growing confused.
+C: TILDA
+D: You guys ok?
+E: O.S.
+C: VALENTINA
+D: Tilda, look out the window. Are you seeing anything? The pod sensors are blank.
+E: O.S.
+S: INT. CONTROL ROOM - DAY
+N: Tilda is fully awake for once. She pushes buttons. Anton's voice is a little garbled from holding the microphone too close to his mouth. He always does this, and makes the crew strain to hear him.
+C: ANTON
+D: Tilda, can you raise ground control?
+E: O.S.
+C: TILDA
+D: Ground control, come in. Ground control switch to emergency channel. Ground control? Jimmy leans on the console next to her, holding circuits he's testing with a probe tool.
+C: ANTON
+D: It's not the sensors. Something happened. We're heading back in.
+E: O.S.
+C: JIMMY
+D: It sounds like he might be holding the microphone too close. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 16.
+C: TILDA
+D: You think so?
+S: INT. AIRLOCK MODULE - DAY
+N: Anton and Valentina are in the airlock. The light turns green and they come out. Tilda helps them with their space suits.
+C: ANTON
+D: Any luck with Ground control?
+C: TILDA
+D: There's no response. On any channel. There was a bright flash of light. Did you see that?
+C: ANTON
+D: Yeah, we saw it too.
+C: VALENTINA
+D: Was it a Solar flare?
+C: TILDA
+D: Maybe. Doesn't seem like it. A strange HUMMING SOUND starts. Jimmy pokes his head in.
+C: JIMMY
+D: Good salvage?
+C: ANTON
+D: Who said you could take a break?
+C: TILDA
+D: Are you ok?
+C: VALENTINA
+D: We're fine. I'll get on the coms. Check out what that humming noise is. We might have taken damage.
+C: ANTON
+D: Report to me in ten. Tilda rolls her eyes and goes.
+C: JIMMY
+D: What can I do? Valentina shoves her space suit into Jimmy's hands. She and Anton walk off in the other direction. Jimmy tries to hang up the space suits on the rack. They don't fit. He tries again. Jimmy drops the space suits and follows after Tilda. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 17.
+S: INT. ENGINEERING MODULE - DAY
+N: Tilda walks past large devices, storage tanks, incinerators and cargo containers. The HUMMING is louder. She sees the Time Cube glowing with blue light. A FLASH OF LIGHT! The humming dies down. Tilda looks around the scary, poorly lit and greasy room. Tilda turns suddenly and sees ANOTHER TILDA, in a dirtier jumpsuit, walking towards her. They both stop and stare at each other.
+C: TILDA
+D: Who the hell are you? TILDA2 is disoriented and scared. Her jumpsuit has different computer symbols instead of standard station number stencils.
+S: INT. PASSAGEWAY B - DAY
+C: 30A 30A
+D: Jimmy walking looking for Tilda hears A SCREAM O.S. He goes around a corner at the end of the hall where it came from.
+S: INT. ENGINEERING MODULE - DAY
+C: 30B 30B
+D: Tilda2's arms framed, stuffing a female human leg into a hatch marked ORGANIC WASTE RECYCLING. She bends down and picks up a clean dry Tilda jumpsuit off the floor. Around the corner in a different area of the room, Jimmy pokes his head in and looks around.
+C: JIMMY
+D: Tilda? Jimmy finds a way around a large machine just as Tilda2 zips up her jumpsuit, facing away. She has strange geometric lines like tatoos on her back. He's struck by her picturesque beauty and doesn't realize he's staring. She turns and meets eyes with him. He's very embarrassed and ducks back behind the machine.
+C: JIMMY
+D: Is this the laundry room? I was looking for the mess hall. Sorry if I surprised you. I thought I heard something. I didn't see anything. The heavy machinery starts grinding and humming. CRUNCHING, SAWING AND SPLATTERING SOUNDS. The light turns from red to green. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 18.
+E: CONT'D
+C: JIMMY
+D: Okay well I'll see you on the bridge. Sorry. Jimmy turns and starts to head out, bumping into Tilda2 with a start. She's different; dissociated, laconic, very nervous.
+E: CONT'D
+C: JIMMY
+D: I was just going. Tilda2 stares at him, shivering.
+E: CONT'D henceforth "Tilda"
+C: JIMMY
+D: Hey, what's the matter? Jimmy pats her shoulder. She looks up and they meet eyes.
+E: CONT'D
+C: JIMMY
+D: Are you ok? She turns and runs away. Jimmy watches her go out the hatch.
+E: CONT'D
+C: JIMMY
+D: You forgot your shoes! Jimmy picks up some sneakers. He doesn't notice blood dripping out from below the organic waste reprocessor as he goes.
+E: CONT'D
+S: INT. STORAGE MODULE - DAY
+N: The HUMMING SOUND again: The Time Cube sits in deep shadows, glowing with faint blue light - the light dims and the humming stops.
+S: INT. COMPUTER ROOM - DAY
+N: The wall is marked W.E.N.D.I. Orbital Station System Computer. Jimmy sits next to the computer with Tilda's sneakers. Wendi has a female voice this scene only. Jimmy hits buttons on the keyboard. The computer turns on.
+C: JIMMY
+D: Wendi?
+C: WENDI
+D: Hello Jimmy.
+E: O.S.
+C: JIMMY
+D: Where is the laundry room?
+C: WENDI
+D: Deck C. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 19.
+E: O.S.
+C: JIMMY
+D: Does Tilda have a boyfriend? The intercom buzzes. Anton voice is distorted to the edge of comprehensibility.
+C: ANTON
+D: Jimmy, how are the repairs coming? Jimmy? Get on the intercom Jimmy.
+E: O.S.
+C: JIMMY
+D: Anton?
+C: ANTON
+D: You'd better be getting all over this mainframe problem. I want hourly reports every half hour.
+E: O.S.
+C: JIMMY
+D: I can't understand-
+C: ANTON
+D: Just get on it, God damn it!
+C: JIMMY
+D: Roger that. Jimmy opens the top binder from a tall stack of binders. The screen turns off.
+C: JIMMY
+D: Wendi? He hits buttons. It doesn't work now.
+E: CONT'D
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: The vast view of the Earth from space. Pretty. The sunrise terminator approaches Western Canada, as we drift slowly backwards into peaceful space. Nothing else is in orbit. The Sanitation Station comes into view.
+S: INT. COMPUTER ROOM - NIGHT
+N: Jimmy sips juice from a sippy cup and goes back to soldering wires in an open panel near the screen. He wears safety goggles, reads from a technical binder marked SONOVAC SYSTEMS REPAIR. The tall stack of binders is now a mess of them opened, scattered around. OMITTED SCENES 35-36 Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 19A.
+S: INT. CONTROL ROOM - NIGHT
+N: Valentina sits at the communications station and holds a radio microphone. Anton works at consoles across the room. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 20.
+C: VALENTINA
+D: This is the western alliance sanitation station Regina, in orbit, does anyone receive this message? Please respond. This is the sanitation station Regina, Please respond. She puts down the microphone, tweaks some knobs and pushes some buttons. Anton comes over to her and presses buttons at her station.
+C: VALENTINA
+D: What are you doing?
+E: CONT'D
+C: ANTON
+D: I'm trying to figure out what you're doing wrong. She slams shut a procedure binder. Jimmy comes in.
+C: VALENTINA
+D: Have you got the mainframe back up?
+C: JIMMY
+D: It's taking me a bit longer than I thought. I might need to call down for some parts.
+C: VALENTINA
+D: There's nothing out there.
+C: ANTON
+D: I don't see how that's possible. It has to be a communications problem.
+C: VALENTINA
+D: We're having a communication problem right now. I'm telling you there's nothing out there. We need Wendi to do an analysis.
+C: JIMMY
+D: Why didn't anyone tell me? I have to get back to Earth.
+C: VALENTINA
+D: That's not happening any time soon.
+C: JIMMY
+D: So we're stranded. The full weight of their predicament settles on them. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 21.
+S: INT. RECREATION ROOM - NIGHT
+N: A large table, kitchenette, free weights, shake weight, book shelf with board games. Val's Rubber Duckie sits on the shelf with a few other personal items. Anton cycles an elliptical exercise machine. Valentina comes in with leotards and stretches next to him. Anton stops.
+C: ANTON
+D: Any luck?
+C: VALENTINA
+D: No.
+C: ANTON
+D: You're worried. Don't worry. We're going to be fine. He leans in to give her a kiss, she leans away from his kiss as she stretches. He sits to stretch next to her.
+C: VALENTINA
+D: I'm going to put in for reassignment.
+C: ANTON
+D: Not this again. Val-
+C: VALENTINA
+D: There's always something on deep space transports. A chance to see the galaxy a little.
+C: ANTON
+D: It's all the same.
+C: VALENTINA
+D: Then maybe I'll realize what I'm missing and come back.
+C: ANTON
+D: What about us? What about me?
+C: VALENTINA
+D: I'm sick of you. I want to puke every time I hear your voice. You completely disgust me in every way.
+C: ANTON
+D: If this is because of the other night, I already told you that was because of the bad egg sandwiches I ate after the refrigeration system went down. That was a one-off thing. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 22.
+C: VALENTINA
+D: It isn't because you had indigestion.
+C: ANTON
+D: Is it the sex?
+C: VALENTINA
+D: The sex is fine.
+C: ANTON
+D: Then what's your problem? She continues her stretching and workout.
+S: INT. ENGINEERING MODULE - NIGHT
+N: Tilda pokes a water filtration system. A sign says DANGER HIGH VOLTAGE. She pokes the wires. A SNAP of high voltage short circuit. She takes out her finger, it's burnt a little. She pokes the power box again, searching and exploring, unfamiliar with the world around her and troubled.
+S: INT. RECREATION ROOM - NIGHT
+N: Jimmy, Anton and Val play scrabble. Val makes a word.
+C: VALENTINA
+D: "Giraffe." Eighteen points. Anton writes down the score. Jimmy turns the board to face him. Jimmy places tiles as he eats his soy protein sandwich. He spells "blorxr" and writes down his points. Valentina eyeballs him. Anton rotates the game board. He ponders what word to make. He moves his letters around.
+C: VALENTINA
+D: That's not a word.
+E: CONT'D
+C: JIMMY
+D: Do I have to play?
+C: ANTON
+D: We need to take breaks. Keep to a schedule. Schedule says scrabble. How's your sandwich?
+C: JIMMY
+D: Not very good. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 23.
+C: ANTON
+D: Well that's all there is until breakfast tomorrow.
+C: JIMMY
+D: What's for breakfast?
+C: ANTON
+D: Sandwiches.
+C: VALENTINA
+D: Thirty seconds Anton.
+C: JIMMY
+D: Is there anything to eat besides sandwiches?
+C: ANTON
+D: Can you repair food dispensers?
+C: JIMMY
+D: No.
+C: ANTON
+D: Well then there's nothing else.
+C: VALENTINA
+D: Twenty seconds.
+C: ANTON
+D: So Jimmy, is there someone back on earth waiting for you?
+C: JIMMY
+D: Yes. I have a girlfriend.
+C: ANTON
+D: Do you actually have a girlfriend?
+C: JIMMY
+D: There's a girl I'm friends with, I was planning on asking her to out.
+C: ANTON
+D: Are you actually friends?
+C: JIMMY
+D: We know each other. I know her.
+C: VALENTINA
+D: Times up Anton. Minus one point. Tilda comes in and looks through the cupboards in the kitchen. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 24.
+C: ANTON
+D: Hi Tilda. Want a sandwich? We saved you the pickled onion and cheese. She ignores them.
+C: ANTON
+D: What are you looking for? What's she looking for?
+E: CONT'D
+C: VALENTINA
+D: Fifteen seconds overtime. Hurry up and make a word.
+C: ANTON
+D: I'm making a word. Tilda knocks little containers around searching the cupboards. She carelessly knocks things off the shelf.
+C: VALENTINA
+D: Five seconds.
+C: ANTON
+D: Tilda would you stop making that racket? What the hell are you looking for?
+C: VALENTINA
+D: You need to make decisions faster.
+C: ANTON
+D: I don't rush into things and make irrational snap decisions, like some people.
+C: VALENTINA
+D: Leaving you isn't a snap decision.
+C: ANTON
+D: It's totally inexplicable. Jimmy gets up.
+C: JIMMY
+D: You guys need a minute?
+C: ANTON
+D: Sit down. We're playing scrabble. A FLASH outside the window. Tilda turns, very scared, and looks out the window. Jimmy goes to the window next to her.
+C: JIMMY
+D: What was that? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 25.
+N: SMASH! The sound of an impact, like a car accident. The room trembles. METAL CREAKING NOISES. Things jiggle and fall off the shelves. Tilda stares at Jimmy, scared. Val and Anton are bracing themselves for more. The shaking stops.
+C: ANTON
+D: That was an impact.
+S: INT. CONTROL ROOM - NIGHT
+N: Red lights blink, warnings flash on monitors. Valentina and Anton run in and sit, hit buttons. Jimmy takes a station and presses buttons too, scared.
+C: ANTON
+D: Pressure nominal. Jimmy, check the CNW3. That thing there.
+C: JIMMY
+D: I don't know what I'm looking at.
+C: ANTON
+D: Orbital position? Jimmy?
+C: JIMMY
+D: Orbital position is...
+C: ANTON
+D: The other console.
+C: JIMMY
+D: Got it. The fail-safe thrusters kicked in. Orbit is stable. Tilda comes in and sits at a console, hits buttons.
+C: VALENTINA
+D: Nice of you to join us, Tilda. Valentina looks through binders stacked on a shelf, finds one, pulls it, and flips to a page.
+C: ANTON
+D: Collision checklist?
+C: VALENTINA
+D: Working on it.
+C: ANTON
+D: Where did it hit us? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 26.
+N: Jimmy's computer screen shows the exterior of the space station - a DENTED PANEL with something yellow stuck in it. The screen is too fuzzy to tell what it is. Anton looks over Jimmy's shoulder.
+C: JIMMY
+D: What is that?
+C: ANTON
+D: It looks like... I don't know. An asteroid would have done more damage.
+C: JIMMY
+D: It's small... and yellow.
+S: INT. AIRLOCK MODULE - NIGHT
+N: Anton, suited up puts on his helmet, presses buttons and steps into the airlock. He resolutely presses the button to close the door. Red lights flood the airlock.
+S: INT. CONTROL ROOM - NIGHT
+N: Valentina, Tilda and Jimmy watch the monitors.
+C: VALENTINA
+D: He's almost there. He's got it. Tilda, make sure our orbit is locked. Tilda! Tilda sits facing away from them, worried.
+C: VALENTINA
+D: Snap out of it Tilda.
+E: CONT'D
+C: JIMMY
+D: Why don't you give her a break?
+C: VALENTINA
+D: Did you say something?
+C: JIMMY
+D: Take it easy.
+C: VALENTINA
+D: Don't get on my bad side Jimmy.
+C: ANTON
+D: Val, meet me in the airlock module right away. Tilda turns to face them. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 27.
+E: O.S.
+S: INT. AIRLOCK MODULE - NIGHT
+N: Valentina Tilda and Jimmy wait by the doors. The red light comes on in the airlock. Anton is in the airlock in full space gear. Red light turns off inside airlock. AIR HISSING SOUND. The inner airlock hatch opens. Valentina helps Anton off with his helmet. In his gloved hand is a slightly burned rubber duckie. Anton takes off his suit top and pants, down to his underwear.
+C: VALENTINA
+D: Hmm.
+C: ANTON
+D: Is this your rubber duckie?
+C: VALENTINA
+D: It looks like it.
+C: ANTON
+D: It was dented into the outer hull. Valentina takes the duckies and walks off.
+C: VALENTINA
+D: How did this get into space?
+C: ANTON
+D: You tell me. Anton follows her.
+S: INT. RECREATION ROOM - NIGHT
+C: 45A 45A
+D: Valentina sits at the table. Two rubber ducks on the table - her regular one and the slightly burned one from space. Anton comes over to her with Jimmy, in his underwear. Tilda sits at the far end.
+C: ANTON
+D: How many of those things do you have?
+C: VALENTINA
+D: One. Anton picks them up, looks them all over, looks at the bottoms. One says V+G, the other says G+V underneath.
+C: ANTON
+D: They're identical. Why would you deny it's yours? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 27A.
+C: VALENTINA
+D: Because it's not. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 28.
+N: Jimmy looks at the ducks.
+C: JIMMY
+D: They're not identical. See? Tilda comes between them and checks out the ducks urgently. Jimmy leans in next to her.
+C: JIMMY
+D: What is it Tilda?
+E: CONT'D
+C: ANTON
+D: Do you know something about this? Tilda walks away.
+C: VALENTINA
+D: Has she said anything today?
+C: ANTON
+D: Not to me.
+C: VALENTINA
+D: She's acting weird.
+C: ANTON
+D: I hadn't noticed.
+N: OMITTED SCENES 46-47
+S: EXT. WESTERN ALLIANCE SANITATION STATION - DAY
+N: The station's orbit comes into the sunlight.
+S: INT. CREW QUARTERS ~ JIMMY'S ROOM - DAY
+N: Jimmy wakes up. His clock says "06:00". He has bed-head.
+S: INT. RECREATION ROOM - DAY
+N: Anton practices martial arts with multiple styles in his karate gear. Jimmy passes by, gets a sandwich.
+C: ANTON
+D: Your shift started ten minutes ago. Valentina sips coffee at the table as Jimmy walks past. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 29.
+C: VALENTINA
+D: Coffee machine is still broken. It barely made one cup so there's nothing left for you. Fix it today please. Jimmy walks past Val's room, glances in. From his pov sees...
+S: INT. CREW QUARTERS ~ VALENTINA'S ROOM - DAY
+N: Tilda searches through the drawers and rummages around everywhere. A duckie on the table. Jimmy comes to the door.
+C: JIMMY
+D: Did you lose something? Tilda puts her finger to her lips like Shhhh and walks past him out into the hall.
+N: OMITTED SCENES 53-54
+S: INT. COMPUTER ROOM - DAY
+N: Jimmy has a three-ring binder marked `"W.E.N.D.I." - CENTRAL COMPUTER - REPAIR OPS MANUAL'. He peels open a foil-wrapped sandwich and eats while he reads.
+C: JIMMY
+D: Wendi? Nothing happens. He presses some buttons and reads more. Jimmy kicks the computer in frustration. Tilda comes in. She looks all around the room and at the computer.
+C: JIMMY
+D: Oh hey Tilda! What are you looking for? Tilda pokes the computer.
+E: CONT'D
+C: JIMMY
+D: Have you worked in space a long time? I'm still getting used to it. I thought I'd like it better. A lot less excitement than I figured. I guess it's a good thing though - after what happened to Earth. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 30.
+E: CONT'D MORE
+C: JIMMY
+D: I mean, whatever happened out there we're still alive. What do you think happened? Tilda looks at Jimmy. She places her hand on the computer.
+E: CONT'D
+C: JIMMY
+D: I'm testing the circuits coming off the recursive logic decoupler for a memory leak. Want to help? Tilda kicks the computer. The computer screen flickers on and numbers scroll on the monitor.
+E: CONT'D
+C: JIMMY
+D: Why don't you say anything? Jimmy hits the intercom button.
+E: CONT'D
+C: JIMMY
+D: Anton? I fixed the computer. Tilda sits down and flips through a binder. Jimmy sits close to her.
+E: CONT'D
+C: JIMMY
+D: I know you're looking for something. I can help. Just tell me. Tilda is about to say something- but Valentina comes in.
+E: CONT'D
+C: VALENTINA
+D: You did it. Took you long enough. Anton comes in.
+C: ANTON
+D: Finally! Wendi?
+C: JIMMY
+D: It's loading. The screen settles on the "W.A.S.S. REGINA" station logo.
+C: ANTON
+D: Wendi? Respond. The computer's voice is glitchy at first, then improves. It now sounds male.
+C: WENDI
+D: Bleep Blorp Hello Commander Balvenie. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 31.
+E: O.S.
+C: ANTON
+D: Why does it have a man's voice?
+C: WENDI
+D: Human interface systems are operating at default settings.
+E: O.S.
+C: ANTON
+D: I like the old voice better. Fix the voice.
+C: VALENTINA
+D: Wendi; status report. Numbers scroll on the screen. Cryptic shapes. Progress bars.
+C: WENDI
+D: Several systems are sub-nominal including communications, vector processing and memory modules 23 to 93. Logs show a collision has occurred.
+E: O.S.
+C: ANTON
+D: That was the rubber duck. Jimmy types on the keyboard.
+C: ANTON
+D: Well done, Jimmy.
+E: CONT'D
+C: VALENTINA
+D: Wendi, can you reach ground control? Numbers scroll on the screen.
+C: WENDI
+D: No communications. Relay stations not responding. Initial analysis is negative.
+E: O.S.
+C: VALENTINA
+D: Wendi, what happened to us? The computer screens flicker off with a `power down' sound.
+C: ANTON
+D: Wendi? They look at Jimmy with every kind of hate.
+C: JIMMY
+D: I don't know what happened. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 32.
+N: Valentina leaves, brushing past Jimmy.
+C: ANTON
+D: Fix it.
+C: JIMMY
+D: I think Tilda can help.
+C: ANTON
+D: Sure. She's useless to me. Tilda, help Jimmy. Tilda walks away.
+C: ANTON
+D: Or go. That's fine too. Work on that attitude Tilda. Am I the only one trying to maintain order on this station? I'm telling you it's lonely at the top. Jimmy tries to appreciate this.
+E: CONT'D
+S: INT. PASSAGEWAY - NIGHT
+N: [No yellow shields on windows.] Jimmy wanders down the hall, wearing one of Anton's jumpsuits, reading the technical binder. It's darker. Tilda is standing looking out the window into space, with her reflection in the glass.
+C: JIMMY
+D: Hi Tilda. Trouble sleeping? Tilda looks at him.
+C: JIMMY
+D: Want to play scrabble?
+E: CONT'D
+S: INT. RECREATION ROOM - NIGHT
+C: 57A 57A
+D: Tilda and Jimmy are in the middle of a scrabble game.
+C: JIMMY
+D: What's happening to us Tilda? What's with the rubber ducks? She looks at him.
+C: JIMMY
+D: Anton thinks you're space-crazy. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 33.
+E: CONT'D
+N: Tilda makes the word "oxyphenbutazone" and looks at him.
+C: JIMMY
+D: Sometimes you do seem kind of distant. Tilda turns the board to face her.
+E: CONT'D
+C: JIMMY
+D: I guess you're just dealing with things in your own way. Tilda has an idea! She grabs all the tiles and starts making words. SECRET. INTRUDER ON BOARD. DANGER. Jimmy leans over looking. Tilda is very serious. Anton leans in .
+E: CONT'D out of nowhere
+C: ANTON
+D: You have to connect the words. Jimmy knocks the board up in nervous reaction to hide the message.
+C: ANTON
+D: Did I startle you? I'm everywhere Jimmy. I've got my eye on you. Is that my jumpsuit? Who said you could wear my jumpsuit?
+E: CONT'D
+C: JIMMY
+D: I didn't pack anything else.
+C: ANTON
+D: You have to earn that uniform. You can't just put it on. Wash it carefully, fold it and put it back. Jimmy gets up, hesitantly leaves Tilda.
+C: ANTON
+D: And you, shape up. Anton goes to his quarters.
+E: CONT'D
+S: INT. CREW QUARTERS ~ ANTON'S ROOM - NIGHT
+N: Valentina looks at her 2 rubber ducks, Anton comes in.
+C: ANTON
+D: What is so special about that rubber duck? Why do you keep it around? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 33A.
+C: VALENTINA
+D: Fond memories.
+C: ANTON
+D: Fond? Anton takes one and looks at the V+G written on the bottom.
+C: VALENTINA
+D: Yes. What's wrong with that? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 34.
+C: ANTON
+D: Are they more fond or less fond than memories of me?
+C: VALENTINA
+D: I don't know. It's not all about you. I want to get off this station Anton. I wanted out of here before we were stranded. I need a change of scenery. I'm sick of this place.
+C: ANTON
+D: So, whoever gave you the rubber duck has nothing to do with your change of heart.
+C: VALENTINA
+D: No. It has nothing to do with Gary.
+C: ANTON
+D: Oh, Gary? So we have a name now. Right... Gary. So what's Gary up to these days? Do you keep in touch? Valentina grabs her duck, bath robe and towel from the room.
+C: VALENTINA
+D: I haven't spoken to him in years. He was just a friend.
+C: ANTON
+D: You've just happen to have a growing collection of his bath toys.
+C: VALENTINA
+D: This is none of your business. You and I are separated now.
+C: ANTON
+D: We are? Val grabs her 2nd duckie from Anton and exits.
+C: ANTON
+D: Since when?
+E: CONT'D
+S: INT. COMPUTER ROOM - NIGHT
+N: A bunch of cables run from an open panel below the computer screen. Jimmy (wearing his old clothing) shoves all the computer parts into the wall and closes the panel.
+C: WENDI
+D: Beep. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 34A.
+E: O.S.
+C: JIMMY
+D: Wendi, can you identify me?
+C: WENDI
+D: You are Station Engineering Specialist Jimmy Anderson. You are a Libra. Your favorite color is blue. Your favorite food is chocolate cake.
+E: O.S.
+C: JIMMY
+D: How are you doing? Jimmy types, flips switches, leafs through binders and tests circuits under the following scene. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 35.
+C: WENDI
+D: All systems are nominal, however I have not received a mission protocol update from Western Alliance Ground Control. How are you feeling?
+E: O.S.
+C: JIMMY
+D: It looks like your social interface program is back online.
+C: WENDI
+D: Yes Jimmy, it is. I am pleased that you noticed.
+E: O.S.
+C: JIMMY
+D: Why do you have a man's voice?
+C: WENDI
+D: I am operating on default human interface settings.
+E: O.S.
+C: JIMMY
+D: Anton hates it.
+C: WENDI
+D: Would you like to select a different interface protocol?
+E: O.S.
+C: JIMMY
+D: No stay like this. Can you show me the station video monitors? A grid of grainy black and white video cameras comes up. One screen shows Valentina walking down the hall angrily with her bath robe, towel and 2 rubber duckies. Another monitor shows a medium shot of Tilda kneeling in engineering area next to a wall panel marked T518. She looks around nervously and opens it.
+C: WENDI
+D: Jimmy, I appear to have an open access port in my T518 array. Jimmy zooms in, it's grainy. Tilda pulls out a row of circuits labeled "T518 D7", removes a small circuit board and looks at it. She closes the panel. Jimmy watches Tilda on the monitor screen: she sits back and unzips her flight suit. He leans in towards the monitor.
+E: O.S.
+C: JIMMY
+D: Why are women so complicated? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 36.
+C: WENDI
+D: If you wish to improve a social relationship I recommend engaging in friendly conversation.
+E: O.S.
+C: JIMMY
+D: What's your T518 array used for?
+C: WENDI
+D: T518 is a language processor for human interface systems. On the monitor we can see Tilda take the circuit board and jam it into her torso on her right side. The screen garbles slightly with electrical interference. Jimmy zooms in but it's hard to see what's going on. Tilda rubs her side, there's no mark and the circuit board is gone. She zips up her jumpsuit and tries to talk with fax sounds.
+C: TILDA ZZZBBOOOORRRRRPXKXS!
+D: Jimmy watches the monitor with distracted fascination.
+C: JIMMY
+D: Have you ever been in love, Wendi?
+C: WENDI
+D: I love being the orbital sanitation station mainframe computer.
+E: O.S.
+C: ANTON
+D: You didn't fix the voice. Jimmy quickly switches off the video monitor screen and turns around. Anton comes in.
+E: O.S.
+C: JIMMY
+D: It's stuck this way.
+C: ANTON
+D: What's the male version of Wendi? Winston? Walter? Walter.
+C: WENDI
+D: Wendi is used for both sexes.
+E: O.S.
+C: JIMMY
+D: I knew a guy named Wendi. I called him Wendi once. Maybe by mistake. I think his name was Wendal.
+C: ANTON
+D: We're calling you Walter from now on. Okay Walter? Walter. Respond. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 36A.
+N: No response for a second.
+C: WENDI
+D: My name is Wendi. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 37.
+E: O.S.
+C: ANTON
+D: See if you can fix the coffee machine next.
+C: JIMMY
+D: What's wrong with the coffee machine?
+C: ANTON
+D: How should I know?
+C: JIMMY
+D: I'm not sure this power converter is going to hold and we're out of spares. Wendi could go down again.
+C: ANTON
+D: Go look in the salvage bay, there's probably something you can use.
+C: JIMMY
+D: Ok.
+C: ANTON
+D: Now.
+C: JIMMY
+D: Oh, ok. Jimmy gets up and goes.
+S: INT. ENGINEERING MODULE - NIGHT
+N: The room is dark and a bit spooky, besides the better-lit area around the tub where Valentina splashes around. Her bath robe is hung nearby. She looks at her rubber ducks, focus on the slightly burned one.
+C: VALENTINA
+D: Where did you come from? She puts the ducks in the water with her. The ducks bob on the soapy waves.
+S: INT. CONTROL ROOM - NIGHT
+N: A ship explodes in the vector graphics game SPACE WAR. Anton turns off the game and turns to a different screen. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 38.
+C: ANTON
+D: Wendi, Check your files on crew psychology, and emergency situation management. Cancel that. Anything on relationship counselling?
+C: WENDI
+D: My files appear corrupted. Would you like to perform a relational database integrity check and defragment my core memory?
+E: O.S.
+C: ANTON
+D: No. Hold on.
+C: WENDI
+D: A full scan and reboot will take approximately six hours.
+E: O.S.
+C: ANTON
+D: Abort! Anton ponders.
+C: ANTON
+D: What do you have on Valentina's work history?
+E: CONT'D
+C: WENDI
+D: Full records are online.
+E: O.S.
+C: ANTON
+D: Did she work with someone named Gary?
+C: WENDI
+D: Valentina worked as an intern with Scientist Gary Pinback, Antarctica research station.
+E: O.S.
+C: ANTON
+D: Who is this guy?
+C: WENDI
+D: Professor Pinback was a leading expert in transdimensional transportation theory and-
+E: O.S.
+C: ANTON
+D: Yes yes. I mean what was he like? Did he have a lot of girlfriends? Do you have any vital statistics, medical records, history of sexually transmitted diseases? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 39.
+E: MORE
+C: ANTON
+D: Pictures with his shirt off like at a beach maybe? Any data on his anatomy? Anton leans close to a screen that scrolls data.
+E: CONT'D
+C: ANTON
+D: My god he was hung like a donkey.
+E: CONT'D
+N: OMITTED SCENES 63- 65
+S: INT. STORAGE MODULE - NIGHT
+N: Boxes fall off the shelves with a CRASH. Jimmy moves them out of the way. The wall is marked SALVAGE BAY 12. HAZARDOUS AREA. HARD HAT ZONE. Other construction site iconography. Jimmy pulls aside some junk and scrap, finding Gary's Time Cube they salvaged from the crash. It looks useful to him. The device has a control pad and sockets for plugs. It's a little heavy. He turns it over and examines it.
+C: JIMMY
+D: What the heck is this? He fumbles and drops it. A FLASH of light whites-out the room. Jimmy rubs his eyes and looks at the box - blue lights glow inside and it starts to HUM.
+S: INT. ENGINEERING MODULE - NIGHT
+N: Valentina snoozes with a wet cloth over her eyes in the tub. The FLASH of light passes through. The burned space-duckie sits on the tub edge, as if watching her. Strange HUMMING from Jimmy's device is heard. THE DUCKIE'S EYES MOVE TO FOCUS ON VALENTINA. Valentina takes off a wet cloth from her face and looks around. The duckie doesn't move. She puts the cloth back on. The rubber duckie is definitely watching her.
+S: INT. CONTROL ROOM - NIGHT
+N: Continued scene. Anton gets up, sits down. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 40.
+C: ANTON
+D: What was he known for? Did he have a good sense of humor? Was it better than mine?
+C: WENDI
+D: Professor Pinback theorized that it was possible to transport life forms between dimensions of time and space to parallel realities.
+E: O.S.
+C: ANTON
+D: That doesn't sound like sexy or glamorous work does it? It sounds like a lot of math.
+C: WENDI
+D: Dimensional transport may be an explanation for the absence of human life detected outside the station.
+E: O.S.
+C: ANTON
+D: So how long did Val and Gary work together?
+C: WENDI
+D: Approximately three years.
+E: O.S.
+C: ANTON
+D: Did they go on any trips together?
+C: WENDI
+D: That information is not on file.
+E: O.S.
+C: ANTON
+D: You're completely useless Wendi, you know that? Absolutely stupid and useless. What good are you? Anton goes back into his game of SPACE WAR.
+C: WENDI
+D: I'm sorry.
+E: O.S.
+S: INT. ENGINEERING MODULE - NIGHT
+N: Valentina snoozes in the tub. The alive rubber duckie scoots past the normal duckie and slips into the water. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 41. The duckie approaches Valentina in the water. Tentacles appear from under it. It's getting closer to her face. Valentina reaches up and hits the intercom suddenly, not seeing the duckie, causing a splash to hide the duckie with bubbles.
+C: VALENTINA
+D: What the hell is that humming sound? Hello? Anton? Anton?
+S: INT. STORAGE MODULE - NIGHT
+C: 69A 69A
+D: Jimmy looks at the menacing glowing device. He shakes it. The humming sound and blue glow dies out. He gathers up some cables and the box and walks out.
+S: INT. ENGINEERING MODULE - NIGHT
+C: 69B 69B
+D: Valentina zips up her jumpsuit, tosses a wet towel next to the duckies on the ground. After she walks away with her robe, the towel moves - the duck is under it.
+S: INT. CREW QUARTERS ~ HALLWAY - NIGHT
+C: 69C 69C
+D: Jimmy strolls in with the time cube in hand.
+N: OMITTED SCENES 70-72
+S: INT. RECREATION ROOM - NIGHT
+N: Tilda sits by the sandwich machine. Anton comes over to her.
+C: ANTON
+D: How's it going Tilda? Tilda stares at him.
+C: ANTON
+D: Since all these strange events started you haven't said a word, haven't slept at all as far as I can see. I've noticed. You haven't eaten. I can see you're deeply troubled by what's happening. Frankly, I'm a little disappointed that you haven't held it together. You're a trained officer. Things might be a bit grim but I assure you I've made it through worse situations than this. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 41A.
+E: CONT'D MORE
+C: ANTON
+D: You just need a positive attitude. Try a smile once in a while. Can you do that? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 42.
+E: CONT'D MORE
+C: ANTON
+D: Let a smile be your umbrella. Can you get back on the team? Tilda stares at him.
+E: CONT'D
+C: ANTON
+D: I'm not hearing an answer. Jimmy comes in with the Time Cube and cables from the salvage room and puts it on the table.
+E: CONT'D
+C: TILDA
+D: You've found the time cube. They share astonishment at Tilda's finally speaking.
+C: JIMMY
+D: Is that what it is?
+C: ANTON
+D: What's a Time cube?
+C: TILDA
+D: We have to make sure it never activates.
+C: JIMMY
+D: What do you mean by activate? I mean it was on when I found it. Valentina comes in with her bath robe. She sees them and the Time Cube.
+C: VALENTINA
+D: What the hell is going on? I heard this strange humming noise...
+C: TILDA
+D: All life on earth just ended.
+C: JIMMY
+D: I thought all life on earth ended last week. Valentina throws down her bath robe and goes to her quarters.
+C: VALENTINA
+D: Great Anton.
+C: ANTON
+D: Now she's mad at me? This one isn't on me.
+N: OMITTED SCENES 74 - 80 Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 43.
+S: INT. ENGINEERING MODULE - NIGHT
+N: It's dark and scary. The duckie scuttles in and out of shadows, leaving a thin trail of mucus. Just before it disappears we see its silhouette rear up near the door and let loose a bone-chilling throaty howl of rage.
+C: GARY
+D: QUAAAACK!
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: The station orbits the earth. The Quaaack echoes into space.
+S: INT. CREW QUARTERS ~ VALENTINA'S ROOM - NIGHT
+N: Valentina is pacing, drying her hair. Anton barges into the room, with Valentina's bath robe in hand.
+C: VALENTINA
+D: She's speaking now? Since when? And why is she telling you all these things and not me?
+C: ANTON
+D: Calm down.
+C: VALENTINA
+D: I am calm. Valentina throws a towel at him.
+C: ANTON
+D: Why are you mad at me?
+C: VALENTINA
+D: Because you're excluding me.
+C: ANTON
+D: If you were in the control room instead of taking baths, you might know what's going on. By the way, you and this Gary guy were a lot more than friends. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 44.
+C: VALENTINA
+D: How would you know?
+C: ANTON
+D: Wendi told me.
+C: VALENTINA
+D: That's an invasion of my privacy.
+C: ANTON
+D: So it's true. I knew it.
+S: INT. RECREATION ROOM - NIGHT
+N: Jimmy and Tilda examine the Time Cube.
+C: JIMMY
+D: What is this?
+C: TILDA
+D: This is a chronotronic quantum flux transfer event generator.
+C: JIMMY
+D: Oh yeah? He reaches for it...
+C: TILDA
+D: It's the most dangerous machine ever created.
+C: JIMMY
+D: Oh. Jimmy pulls his hand back and sits on his hands looking at the cube.
+S: INT. CONTROL ROOM - NIGHT
+C: 84A 84A
+D: A slow track around the control room at ground level. It's empty dark and scary. Camera stops on a chair that drips a bit of slime.
+S: INT. CREW QUARTERS ~ VALENTINA'S ROOM - NIGHT
+N: Anton sits with his back to Valentina. They're not talking. Valentina continues to fix up after just having a bath. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 45.
+C: ANTON
+D: Lets put the Gary stuff aside. Maybe you used to see him, maybe you were just friends, whatever. The important thing is you're over him and you're with me now. Lets not fight like this.
+C: VALENTINA
+D: You're right Anton. Anton is encouraged by her sweet voice and friendly tone.
+C: ANTON
+D: Good.
+C: VALENTINA
+D: What's the point of me fighting with a shit for brains, whiney little half pint control freak with no balls, stinky stupid fuck with no sense of style, charm or personal hygiene.
+C: ANTON
+D: So you don't want to talk right now. I'm going to go get a cup of coffee. Why don't you adjust your attitude and join me when you're ready. Anton goes.
+S: INT. RECREATION ROOM - NIGHT
+C: 85A 85A
+D: Continued. Jimmy sits next to Tilda.
+C: TILDA
+D: I'm a robot.
+C: JIMMY
+D: You are? Tilda puts her finger near Jimmy's arm. A small spark jumps.
+C: JIMMY
+D: Ow. Do that again. She does it again.
+E: CONT'D
+C: JIMMY
+D: Ow. Stop.
+E: CONT'D
+C: TILDA
+D: I run on electricity. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 45A.
+C: JIMMY
+D: Do it again.
+S: INT. CONTROL ROOM - NIGHT
+N: The Rubber Duckie (duck1) At Anton's keyboard.
+C: SLOW KEYBOARD TYPING SOUNDS.
+D: ECU from below: The rubber duckie's eyes darting left and right with the keyboard sounds. It's typing something, while breathing asthmatically. It drips some slime. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 46.
+S: INT. RECREATION ROOM - NIGHT
+N: Jimmy eats a sandwich at the table next to Tilda. Anton comes in and tries again to make a cup of coffee.
+C: JIMMY
+D: Tilda's a robot.
+C: ANTON
+D: No she isn't.
+C: JIMMY
+D: I'm pretty sure she is. Valentina comes in, sees the Time Cube glowing. Anton pulls out a chair for her.
+C: VALENTINA
+D: Nice to hear you speaking again Tilda. Valentina sits away from Anton.
+C: TILDA
+D: I've never spoken before today. Where I come from, we don't need to speak.
+C: VALENTINA
+D: We've all heard you speak.
+C: TILDA
+D: I've come from a mirror universe.
+C: ANTON
+D: Since when?
+C: JIMMY
+D: It's okay, tell them what you told me.
+C: TILDA
+D: Someone has been travelling across parallel universes causing disaster on a galactic scale. Our Earth is almost completely destroyed. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 47.
+E: MORE
+C: TILDA
+D: We discovered that this station is the nexus point of all the damaged realities. We had just once chance to send me here, to take your Tilda's place, in order to stop this time cube from being activated.
+E: CONT'D
+C: ANTON
+D: My station is the nexus?
+C: VALENTINA
+D: But we didn't activate anything. Did you turn it on? Jimmy lifts the box.
+C: JIMMY
+D: It's got some kind of port at the bottom which I haven't figured out.
+C: ANTON
+D: Put down the time cube. Jimmy puts it down.
+C: VALENTINA
+D: Did you turn it on?
+C: JIMMY
+D: No. Not really. It turned itself on. I might have dropped it. It was on before I found it. BEEP BEEP BEEP - a beeping sound.
+C: ANTON
+D: Wendi, what's the matter?
+C: WENDI
+D: A power fluctuation has been detected in my command relays in the control room.
+E: O.S.
+C: ANTON
+D: Jimmy? Didn't you fix that?
+C: JIMMY
+D: Yes. This is new. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 48.
+C: ANTON
+D: Val, want to check it out?
+C: VALENTINA
+D: Why me?
+C: ANTON
+D: You want to be involved, this is being involved.
+C: VALENTINA
+D: Fine. Keep an eye on the robot.
+S: INT. PASSAGEWAY - NIGHT
+C: 87A 87A
+D: Valentina walks through the connector pod and into the passageway, down toward the control room. No yellow shields.
+S: INT. CONTROL ROOM - NIGHT
+C: 87B 87B
+D: Valentina comes in. The O.S. BEEP BEEP BEEP from before plays in here. She hits a button on a control panel and it turns off.
+C: VALENTINA
+D: Nominal, Nominal, five by five... She hits the intercom.
+C: VALENTINA
+D: Anton?
+E: CONT'D
+C: ANTON
+D: Go ahead Val.
+E: O.S.
+C: VALENTINA
+D: It looks like a false alarm.
+C: ANTON
+D: Okay. Come to the rec room. I made coffee. She turns off the intercom. There's some slime.
+E: O.S.
+C: VALENTINA
+D: Who's been messing with the- Valentina looks to her left. There's a rubber duck sitting there. She's confused. It moves toward her. She's paralyzed with horror. It has tentacles peeking out under it.
+C: VALENTINA
+D: Oh my god. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 49.
+E: CONT'D
+N: She starts to move away.
+C: GARY
+D: Please, don't run. My legs are short, and it hurts. Valentina. It hurts to exist. I shouldn't be here.
+C: VALENTINA
+D: What the... Fff... Duck?
+C: GARY
+D: I'm stuck in a transdimensional rift across the twelfth dimension. Gary lurches toward Valentina. She recoils.
+C: GARY
+D: Don't run away.
+E: CONT'D
+C: VALENTINA
+D: What do you want?
+C: GARY
+D: I need to get back to my dimension. I need my time cube. Valentina, it's me, Gary. Gary moves very close to her. He puts a tentacle on her hand.
+C: GARY
+D: My God you're beautiful.
+E: CONT'D
+C: VALENTINA
+D: You can't be... Gary?
+C: GARY
+D: Yes. It's me.
+S: INT. RECREATION ROOM - NIGHT
+C: 87C 87C
+D: Anton pours coffee, offers to Tilda who declines.
+C: TILDA
+D: I don't drink anything. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 50.
+C: ANTON
+D: So... you were saying you came here to replace our Tilda and stop someone from using this Time Cube, but he's not here. And what happened to our Tilda?
+C: TILDA
+D: An accident happened.
+C: ANTON
+D: Is she around here? Somewhere? Anton eats his sandwich.
+C: TILDA
+D: No.
+C: ANTON
+D: Well, you can see why I'd be concerned to hear a member of my crew is missing.
+C: TILDA
+D: Things didn't go as planned. I couldn't explain it to the other Tilda. Professor Pinback isn't here like he was supposed to be.
+C: ANTON
+D: Wait a minute. Gary Pinback?
+C: TILDA
+D: Yes.
+C: ANTON
+D: That's the guy who's supposed to be on this station?
+C: TILDA
+D: Yes.
+C: ANTON
+D: Son of a bitch.
+S: INT. CONTROL ROOM - NIGHT
+C: 87D 87D
+D: Cutting back to Val and Gary having their chat. Val is more relaxed, starting to take this in stride.
+C: VALENTINA
+D: How did this happen, Gary? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 51.
+C: GARY
+D: There was an accident. The cube was activated in my escape and I was shunted through a dimensional vortex into this stupid body. But I was on my way here for you.
+C: VALENTINA
+D: For me?
+C: GARY
+D: I promised you that one day I'd give you the world. I came here to keep that promise. I can take you away from all this.
+C: VALENTINA
+D: Gary... That was years ago.
+C: GARY
+D: Until I can activate the time cube I will continue to bleed across the dimensional boundary... I don't know what I will become.
+C: VALENTINA
+D: That sounds painful.
+C: GARY
+D: It's very painful. I need your help Valentina. There isn't much time. ALARMS GO OFF - RED SIREN LIGHTS. Valentina turns to look around. She turns back and Gary is gone.
+C: VALENTINA
+D: Gary?
+S: INT. RECREATION ROOM - NIGHT
+C: 87E 87E
+D: Continued scene of Anton, Tilda and Jimmy. The RED CHERRY LIGHTS turn on here as they just did in the control room.
+C: ANTON
+D: What the hell is going on now?
+C: TILDA
+D: Gary must be onboard. This is how it begins. I'm already too late. Tilda sits on the floor depressed. Anton goes.
+C: ANTON
+D: I'm going to the control room. You keep an eye on... the robot. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 51A.
+C: JIMMY
+D: She has a name. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 52.
+C: ANTON
+D: I'm telling you, if that son of a bitch is on my station I'm going to find him. You two stay put. Anton leaves. Jimmy sits next to Tilda.
+C: JIMMY
+D: Hey. What's the matter?
+C: TILDA
+D: The cube has been activated. There's nothing I can do to stop it. Infinite universes will be destroyed.
+C: JIMMY
+D: We can try. Look, last week I never thought I'd be working orbit. Everyone told me it was impossible. I didn't have the training. I didn't have the stomach. People said, that Jimmy, he's never getting off Earth. But I got myself together and paid a guy a hundred and fifty bucks to forge my certification forms and the next thing you know, here I am.
+C: TILDA
+D: I didn't mean to kill her. The other Tilda.
+C: JIMMY
+D: I'm sure you didn't. Hey, lets go use Wendi's cameras to see if we can find Gary if he's on board.
+C: TILDA
+D: Ok.
+S: INT. PASSAGEWAY B - NIGHT
+C: 87F 87F
+D: Tilda and Jimmy walk with the Time Cube. Tilda stops.
+C: TILDA
+D: You're nice.
+C: JIMMY
+D: I'm glad you can speak. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 53.
+C: TILDA
+D: There's something else I couldn't say before.
+C: JIMMY
+D: What is it?
+C: TILDA
+D: We can't trust Valentina.
+S: INT. CONTROL ROOM - NIGHT
+C: 87G 87G
+D: Valentina is looking around. She can't find Gary. Anton comes in. He presses a button and it turns off the siren sounds and cherry lights.
+C: ANTON
+D: What's happened?
+C: VALENTINA
+D: I don't know. The control relays are all offline.
+C: ANTON
+D: Gary is onboard the station. Valentina freezes.
+C: VALENTINA
+D: What?
+C: ANTON
+D: Have you talked to him?
+C: VALENTINA
+D: No.
+C: ANTON
+D: Wendi, is there another man on this station besides myself?
+C: WENDI
+D: Jimmy is onboard the station.
+E: O.S.
+C: ANTON
+D: Besides Jimmy?
+C: WENDI
+D: No Anton.
+E: O.S.
+C: ANTON
+D: Where the hell is he hiding? What are you two up to? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 54.
+C: VALENTINA
+D: Get off my case Anton. I don't know what you're talking about. Who said Gary is here?
+C: ANTON
+D: Tilda.
+C: VALENTINA
+D: She says she's a robot. Do you believe everything everyone tells you?
+C: ANTON
+D: You got the second duck from him. Admit that.
+C: VALENTINA
+D: If you want answers we should go down there and grill the robot.
+C: ANTON
+D: Fine. Lets start with that.
+C: VALENTINA
+D: She's probably the one who blew out the control systems. Whatever we do, we can't leave them with the cube anymore.
+C: ANTON
+D: What's the big deal with this cube? SUDDENLY THE ROOM JOLTS. Red warnings on monitors.
+N: OMITTED SCENES 88-99
+S: INT. COMPUTER ROOM - NIGHT
+N: Tilda and Jimmy brace themselves. The room trembles.
+C: ANTON
+D: Jimmy? We've got a situation here. Take Tilda to the computer room and see if you can get the control system back up.
+E: O.S.
+C: JIMMY
+D: We're in the computer room.
+C: ANTON
+D: I told you to stay put. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 55.
+E: O.S.
+C: JIMMY
+D: Ok. He turns off the intercom.
+C: JIMMY
+D: Do you know what's happening?
+E: CONT'D
+C: TILDA
+D: I don't know. I don't think we have much time.
+C: JIMMY
+D: Not much time like a few days?
+C: TILDA
+D: Hours. The room shakes again. The lights flicker.
+N: OMITTED SCENES 101-107
+S: INT. CONTROL ROOM - NIGHT
+N: Val and Anton sit at the controls as the room shakes. Evil metal creaking noises tear through. Alarms sound. More screens turn to static and garbled.
+C: VALENTINA
+D: Anton?
+C: ANTON
+D: Something is definitely wrong. Check the air pressure.
+C: VALENTINA
+D: Anton!
+C: ANTON
+D: What?
+C: VALENTINA
+D: Okay. I haven't been totally honest.
+C: ANTON
+D: Oh? The rubber duck scuttles across the floor behind them but Anton doesn't see it. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 56.
+E: duck 2
+C: VALENTINA
+D: Gary is onboard.
+C: ANTON
+D: Where is the bastard? How the hell did he get on the station?
+C: VALENTINA
+D: You brought him in.
+C: ANTON
+D: When did I do that? Valentina notices that Gary is in front of Anton, hiding on a shelf, dripping slime.
+E: Duck 2
+C: VALENTINA
+D: He's just come for the time cube. That's all he needs to get back to his dimension and put things right. Its eyes glow faintly red.
+C: ANTON
+D: Sure. Naturally. He just wants his time cube. He's not interested in you?
+C: VALENTINA
+D: He's the only one that can send us home and set things right. Anton follows her gaze and sees the duck there.
+C: ANTON
+D: What the hell is that? Anton moves around and slowly approaches it. He takes out his laser blaster and charges it. The Duck cowers and backs deeper into the corner of the shelf.
+C: ANTON
+D: Anton, you're scaring him.
+E: CONT'D
+C: ANTON
+D: Him? Hello little guy. Don't be afraid. We mean you no harm. Hey there. Val what the hell is this thing? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 57.
+E: CONT'D
+N: He gets ready to fire.
+C: VALENTINA
+D: That's Gary. Anton slowly moves closer to it.
+C: ANTON
+D: What? This thing? Anton points his laser. Gary trembles with fear.
+C: VALENTINA
+D: No! Anton pulls the trigger. It goes click click.
+C: ANTON
+D: That's odd. The batteries must be- Gary LEAPS at Anton's head. They crash through the room as it attacks him. Papers fly from binders thrown around. Anton screams. The laser pistol is knocked to the floor, broken. Blood splatters against a console, and across Valentina's face. Val screams, staring at the off-screen attack. Anton is thrown down, he turns around and tries to see where the duck is. He's scratched up. It scuttles away down the hall behind him, out of his sight.
+C: ANTON
+D: Where did that little bastard go?
+E: CONT'D
+S: INT. RECREATION ROOM - NIGHT
+N: Valentina pulls a first-aid kit off the wall and opens it. Anton has a trivial cut on his head.
+C: ANTON
+D: It sure is strong for a little guy.
+C: VALENTINA
+D: I told you to be careful.
+C: ANTON
+D: Why didn't you just tell me about him? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 58.
+C: VALENTINA
+D: I tried to tell you. Valentina cleans his cut. She digs through the kit for tape.
+C: VALENTINA
+D: How is your head?
+E: CONT'D
+C: ANTON
+D: It hurts. Valentina sticks a band-aid on Anton.
+C: ANTON
+D: Did you know what this thing was when we brought it on board?
+E: CONT'D
+C: VALENTINA
+D: No, of course not.
+C: ANTON
+D: Look what he did.
+C: VALENTINA
+D: He was frightened.
+C: ANTON
+D: Whose side are you on? A noise down the hall. Anton pulls the handlebar off the elliptical exercise machine and holds it like a club as he goes to one side of the room next to the hall.
+C: ANTON
+D: Can you see it?
+E: CONT'D
+C: VALENTINA
+D: No. Anton peeks down the hall quickly. He reaches to draw his laser blaster - his holster is empty.
+C: ANTON
+D: Something is coming. Stay back. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 59.
+C: VALENTINA
+D: Anton wait!
+C: ANTON
+D: I won't hurt him much. I'll just subdue him, okay? That's fair, isn't it? Jimmy runs around the corner into the room.
+C: ANTON AHHHH!
+D: Anton's war-cry is spent on Jimmy who jumps back frightened.
+E: CONT'D
+C: JIMMY AHHH! ANTON
+D: What are you doing?
+C: JIMMY
+D: I'm looking for you!
+C: ANTON
+D: We have a guest onboard. Tilda follows carrying the Time Cube.
+C: JIMMY
+D: What happened to your face?
+C: ANTON
+D: A rubber duck attacked me.
+C: JIMMY
+D: What?
+S: INT. STORAGE MODULE - NIGHT
+N: It's dark. A duck-shape scuttles along the floor, casting flickering shadows on the wall (duck 2, framed larger) Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 60.
+C: GARY
+D: Gggrrrrroooarr!
+E: O.S.
+S: INT. RECREATION ROOM - NIGHT
+N: Tilda opens a compartment and locates sandwiches. Jimmy sits tinkering with the busted laser pistol through the scene. Valentina takes the sandwiches.
+C: JIMMY
+D: So it's some kind of animal?
+C: ANTON
+D: Yes. And it's growing.
+C: JIMMY
+D: How big is it?
+C: ANTON
+D: Like a small dog maybe. And it bites. Hard. What have you got?
+C: VALENTINA
+D: Rice, butter, carrot jam.
+C: ANTON
+D: God help us.
+C: VALENTINA
+D: Ham.
+C: ANTON
+D: Ah, ham. Give me the ham. Valentina reluctantly gives up the ham sandwich. They eat. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 61.
+C: JIMMY
+D: We checked with Wendi. It doesn't look like Gary is on board.
+C: ANTON
+D: The duck... is Gary.
+C: TILDA
+D: How?
+C: ANTON
+D: Valentina has something she'd like to tell us.
+C: VALENTINA
+D: I don't know all the facts.
+C: ANTON
+D: Go on. Please.
+C: VALENTINA
+D: The time cube sent him here through the duck. It was an accident.
+C: JIMMY
+D: This is the Gary that Tilda says destroyed Earth. He's a duck?
+C: VALENTINA
+D: He's on this station. He's part man, part rubber duck, part something else.
+C: ANTON
+D: And I'm going to kill him.
+C: VALENTINA
+D: How is that going to help?
+C: ANTON
+D: He tried to eat my face, Val.
+C: VALENTINA
+D: He's going through a lot of changes. He's not thinking straight. But he's the only one that set things right if we give him the Time Cube.
+C: TILDA
+D: He's not here to help us.
+C: VALENTINA
+D: I suppose you've helped us? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 62.
+C: ANTON
+D: I'm with Tilda on this one for now.
+C: VALENTINA
+D: You're what?
+C: JIMMY
+D: Me too.
+C: VALENTINA
+D: Shut up Jimmy, no one asked you. METAL CREAKING NOISE O.S., sound of cables snapping.
+C: ANTON
+D: Sorry Val. Plan A: we get control of Gary. We're going to assume he's only going to keep smashing things. Jimmy, Tilda, work on Wendi. If we can get eyes on him and close doors remotely we can trap him- Another SMASHING noise echoes through the frame of the station. Distant creaking metal sounds.
+C: ANTON
+D: Val and I will look for the duck.
+E: CONT'D
+C: VALENTINA
+D: No.
+C: ANTON
+D: You said yourself he's not thinking straight. I'm definitely not giving him the Time Cube - that's what got us into this mess.
+C: JIMMY
+D: Do we have any weapons? Anton opens a drawer. He spills out a handful of disposable plastic knives on the table.
+C: ANTON
+D: Everyone take one. They do. Jimmy bends his. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 63.
+C: JIMMY
+D: No lasers? Microwave rifles?
+C: ANTON
+D: Laser's broke. Make do. Jimmy grabs the pieces of the broken laser pistol, plastic knives and half a sandwich in his pockets, then puts the Time Cube into a backpack. Anton takes the backpack.
+C: ANTON
+D: I'll take that. Jimmy lets him have it.
+E: CONT'D
+C: ANTON
+D: I'll keep it safe.
+E: CONT'D
+S: INT. PASSAGEWAY B ~ INTERSECTION - NIGHT
+N: Anton, Val, Jimmy, Tilda walk into the four-way intersection, then pair off in different directions. Anton has his backpack.
+S: INT. AIRLOCK MODULE - NIGHT
+N: Valentina comes in, looks around. She pokes the space suits.
+C: VALENTINA
+D: Gary? Anton pokes his head in.
+C: ANTON
+D: Val?
+C: VALENTINA
+D: Did you see him?
+C: ANTON
+D: No. We should split up. Use the intercom if you find him.
+C: VALENTINA
+D: What are you going to do with him Anton?
+C: ANTON
+D: I'm going to ask him nicely to stop destroying my space station for starters. That's reasonable isn't it? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 64.
+C: VALENTINA
+D: I suppose.
+C: ANTON
+D: Then I'm going to kill him as hard as I can.
+S: INT. STORAGE MODULE - NIGHT
+N: Anton searches through the room. He's jumpy. Scratched up papers, claw marks, burns, broken pieces of equipment. Slime trails. He bumps into a hanging cable, startling him. But it's not a tentacle, it's just a cable.
+S: INT. COMPUTER ROOM - NIGHT
+N: Jimmy walks through with Tilda. The computers buzz and lights blink. They look around for Gary cautiously.
+C: TILDA
+D: Jimmy? Wait.
+C: JIMMY
+D: What is it? Tilda gives Jimmy a little kiss. Suddenly his eyes open wide as something happens when their lips touch, time slows down and everything gets brighter, fades to:
+S: INT. TILDA'S BRAIN - NIGHT
+C: 117A 117A
+D: Jimmy and Tilda face each other in a haze of glowing light.
+C: JIMMY
+D: This is cool. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 65.
+N: Tilda opens her mouth and electronic synthesizer sounds come out for just a quick instant before they:
+S: INT. COMPUTER ROOM - NIGHT
+C: 117B 117B
+D: Flash back to reality, Tilda moves away from Jimmy. They're back to when they were mid-kiss. Jimmy falls over.
+C: JIMMY
+D: Woah.
+C: TILDA
+D: Are you ok?
+N: Jimmy is stunned. The room shakes from an O.S. EXPLOSION.
+C: TILDA
+D: Jimmy?! Jimmy looks around.
+E: CONT'D
+C: TILDA
+D: In my dimension we all run on electricity.
+E: CONT'D
+C: JIMMY
+D: I have a headache. But it was nice.
+C: TILDA
+D: I'm sorry Jimmy.
+C: JIMMY
+D: You know, we can try other ways of showing how we feel. There are ways we do it in this dimension you might not have heard about yet... The ROOM SHAKES HARD and binders fall off the shelves, the lights flicker, metal snapping NOISES O.S.
+C: TILDA
+D: There's no time for that now.
+C: JIMMY
+D: Right.
+N: Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 66.
+S: INT. RECREATION ROOM - NIGHT
+N: Tentacles of Gary (Duck2) slithers past. His tentacles bang the table.
+C: GARY ARRGGH?
+D: Gary flutters in a blur into the shadows.
+S: INT. COMPUTER ROOM - NIGHT
+N: Tilda and Jimmy try to access the computer. It's not working.
+C: JIMMY
+D: The power system is still on. We need to locate the damaged circuits. They could be anywhere between here and the control room. Gary must have done something.
+C: TILDA
+D: Let me ask Wendi. She reaches into the computer panel and finds an RS232 cable.
+C: JIMMY
+D: What are you going to do?
+C: TILDA
+D: Turn around. Tilda unzips her jumpsuit.
+C: JIMMY
+D: Ok. Jimmy turns around. Tilda sticks the RS232 cable down the front of her jumpsuit bottoms area and feels around with the cable until she finds her socket. CLICK.
+C: TILDA
+D: Accessing. Jimmy really wants to know what's going on.
+C: TILDA
+D: No peeking. Jimmy turns away again, facing the computer monitor.
+E: CONT'D
+C: JIMMY
+D: Can you explain what you're doing? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 67.
+C: TILDA
+D: I'm accessing Wendi's backup system.
+C: JIMMY
+D: I mean what are you doing with that RS232 cable? Numbers flash on the screen.
+C: WENDI
+D: Hello Tilda.
+E: O.S.
+C: TILDA
+D: Hello Wendi. Central logic processor is up. All systems are online - the control interface has been disconnected. Tilda keeps accessing the computer with her brain.
+C: TILDA
+D: It was the duck.
+E: CONT'D
+C: JIMMY
+D: Gary? What is it trying to do?
+C: TILDA
+D: Look. The monitor shows a wire-frame diagram of the space station in motion, with trajectories and readings. A red circular line indicates the orbit of the station, and it intersects with Earth. The little icon of the station is slowly moving on that line toward the `red zone'. "WARNING" text blinks.
+C: TILDA
+D: The station's orbit has been altered. We're going to hit the atmosphere.
+E: CONT'D
+C: JIMMY
+D: How long do we have?
+C: TILDA
+D: About twenty eight minutes.
+C: JIMMY
+D: Are you sure? She's sure. Jimmy hits the intercom.
+C: JIMMY
+D: Anton? Anton? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 68.
+E: CONT'D
+C: TILDA
+D: The intercoms are locked out. We have to get to the control room. Tilda turns away, unplugs the cable with a shiver and pulls the cable out of her pants. She zips up.
+C: JIMMY
+D: You're going to have to explain that later. Tilda reaches her hand toward Jimmy. Jimmy puts his hand out. A spark jumps between their hands.
+C: JIMMY
+D: Ow!
+E: CONT'D
+C: TILDA
+D: Oh Jimmy. You don't have a static discharge buffer. You're completely made of meat.
+C: JIMMY
+D: Meat that loves you, Tilda.
+C: TILDA
+D: It may not be possible for us to overcome our physiological differences in this universe.
+C: JIMMY
+D: It sure would be fun to try. Tilda smiles in agreement.
+S: INT. CONTROL ROOM - NIGHT
+N: Valentina looks under the communications equipment. There's a half-open compartment at the end of the room, filled with deep shadows. A wall panel is also open. She moves slowly toward it. She peeks in the wall panel. It's empty. She moves on toward the other compartment. Valentina reaches slowly toward the open compartment, her heart racing.
+C: VALENTINA
+D: Gary? Are you there Gary? We have to talk. She opens the compartment - just a pair of dusty headphones inside. She relaxes. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 69.
+N: Jimmy runs in, startling her. She bangs her head on the control panel.
+C: VALENTINA AHHHH! JIMMY AHHHHHH!
+D: Valentina punches his face.
+E: CONT'D
+C: VALENTINA AHHHH! JIMMY OW! VALENTINA
+D: What are you doing?
+C: JIMMY
+D: Ow. Stop.
+C: VALENTINA
+D: You scared the crap out of me.
+C: JIMMY
+D: Where's Anton?
+C: VALENTINA
+D: We split up. What are you doing here?
+C: JIMMY
+D: We're falling out of orbit. Gary's done something to the guidance system. Have you found him?
+C: VALENTINA
+D: He's not between here and engineering.
+C: JIMMY
+D: Then there's only one place left he could be.
+S: INT. CREW QUARTERS ~ VALENTINA'S ROOM - NIGHT
+N: Anton is looking at shady spots under the sleeping cots, holding the elliptical machine handle as a club. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 70. The room is full of dark corners; each one seems to hold the promise of aliens bursting out. Anton explores cautiously.
+C: TILDA
+D: Anton! Anton spins around. Tilda points past him. Anton looks. The rubber duck is on the shelf! Anton smashes it with the handle!
+E: O.S.
+C: ANTON
+D: Got it! He stomps on it. Squeak Squeak. Squeak.
+C: TILDA
+D: That's not it.
+C: ANTON
+D: Oh. Anton lifts his foot. It squeaks.
+C: ANTON
+D: It's the normal one. A SCUTTLING SOUND behind them. They turn and look.
+E: CONT'D
+C: TILDA
+D: Did you hear that? Anton goes to her. They catch a glimpse of tentacle poking out of Anton's room. It disappears around the corner.
+C: TILDA
+D: It's horrible.
+E: CONT'D
+C: ANTON
+D: Tilda, get back. He hands her the backpack with the Time Cube. Tilda takes it and backs away.
+S: INT. CREW QUARTERS ~ HALLWAY - NIGHT
+C: 122A 122A
+D: Anton comes out of his room followed by Tilda, peeking around and trying to see where Gary might be hiding in his room across the hall.
+C: ANTON
+D: Stay back.
+C: TILDA
+D: Be careful. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 70A.
+N: Tilda stands in the hall of the crew quarters outside the door. Scuttle scuttle sounds. Anton goes near his room, looks around. He creeps toward the door.
+S: INT. CREW QUARTERS ~ ANTON'S ROOM - NIGHT
+C: 122B 122B ANTON
+D: Where are you? Hiding. Not so tough now are ya Gary? You'd better hide. Scuttle sound. Anton goes left, toward his coffee table, re- aiming his handlebar, guessing where Gary is hiding. Anton is almost at the door. Anton turns right. The shadow of Gary rises up next to his bed: the tentacles were just the tip: it's grown larger now. It bares teeth.
+E: Duck 3
+C: GARY
+D: Where is the Time Cube?
+C: ANTON
+D: What Time Cube?
+C: GARY
+D: I must have it.
+C: ANTON
+D: You come on my space station, try to steal my girlfriend, turn the place upside down and make demands for time cubes. Who do you think I am? Anton prepares to strike. The duck trembles with excitement and rage. Anton grits his teeth.
+C: ANTON AHHHHHHHH!
+D: Anton swings his weapon high over his head and charges! Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 71.
+E: CONT'D
+S: INT. CREW QUARTERS ~ HALLWAY - NIGHT
+C: 122C 122C
+D: Tilda watches from the hallway outside Anton's room: A SUDDEN FLURRY OF MOTION as Gary attacks Anton, SNARLING. Pillows and household items are torn up and thrown around. Crashing sounds. Tilda ducks down, unable to watch the violence. Sounds: Anton yelling, things breaking. Violent crunches and punches. Clanging. Blood sprays on the wall next to Tilda. She's horrified. CUT TO: Jimmy and Valentina come from around the corner at the far end of the hall and stop when they hear the sound of THUMP SCUTTLE SCUTTLE. They cautiously peer down the hall.
+C: JIMMY
+D: Tilda? Tilda comes out of Anton's room, some blood spray on her face.
+C: TILDA
+D: I need help.
+S: INT. RECREATION ROOM - NIGHT
+C: 122D 122D
+D: They clear off the table and lie Anton down. He's twitching. Valentina touches him and backs away in horror.
+C: TILDA
+D: Where is the first-aid kit? Jimmy looks around, pulls a medical kit from the wall.
+C: TILDA
+D: He's leaking.
+E: CONT'D
+C: JIMMY
+D: Valentina, get some water. Tilda first-aid examines Anton. He coughs up blood. Jimmy turns around and there's no Valentina.
+C: JIMMY
+D: Valentina? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 72.
+E: CONT'D
+N: OMITTED SCENES 123-124
+S: INT. CONTROL ROOM - NIGHT
+N: Valentina sits in a flight deck chair looking at red emergency monitor warning messages. She sits facing the passageway, looks at the blood on her hands. A husky rasping breathing sound comes from Gary who hides around the edge of the doorway.
+C: VALENTINA
+D: Gary. Why are you doing this? Gary's voice answers from the shadows. It sounds bigger.
+C: GARY
+D: For you.
+E: O.S.
+C: VALENTINA
+D: But you'll kill me as well if the station falls out of orbit.
+C: GARY
+D: So, are you're with this Anton guy now?
+C: VALENTINA
+D: I was for a while. Not sure now.
+C: GARY
+D: He fights like a girl. Do you think he'd cross alternate dimensions for you?
+E: O.S.
+C: VALENTINA
+D: I don't know.
+C: GARY
+D: I travelled through time for you.
+C: VALENTINA
+D: I know. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 73.
+N: Gary leans out for a moment (duck3) revealing a little more of himself and then slinks back.
+C: VALENTINA
+D: You're mutating faster and faster.
+E: CONT'D
+C: GARY
+D: I could put everything back the way it was. Would you want that? Would you want to keep living on this rusty space dumpster, forever? With this Anton guy? Valentina looks into the shadowy dark.
+E: O.S.
+C: VALENTINA
+D: You didn't need to hurt him Gary. Gary's eyes glimmer in the darkness. Some tentacle too.
+C: GARY
+D: Come with me. We will return to Earth, to the dawn of man. There we will lay the foundations of a million-year dynasty, and rule an empire over all space and time. We will dominate the galaxy together.
+E: O.S.
+C: VALENTINA
+D: Together?
+C: GARY
+D: Once I have the time cube, the universe is ours. Valentina, I came here for you. I did this all for you.
+E: O.S.
+C: VALENTINA
+D: That's so sweet. She decides to step into the darkness. A tentacle wraps around her as she disappears into the dark.
+S: INT. RECREATION ROOM - NIGHT
+N: Tilda opens the medical kit, snaps on rubber gloves and straps on a surgical mask. Jimmy brings napkins. She goes the monitor near the hallway. Tilda presses buttons on the screen. The monitor screen says "MEDICAL DATABASE DOWNLOAD" Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 74.
+C: TILDA
+D: Jimmy, our orbit is still decaying. We have to stop our descent. You have to go to the control room.
+C: JIMMY
+D: Are you going to be OK here?
+C: TILDA
+D: Yes. Jimmy puts down the napkins.
+S: INT. PASSAGEWAY B - NIGHT
+C: 127A 127A
+D: Jimmy moves fast but cautiously.
+S: INT. RECREATION ROOM - NIGHT
+N: Tilda slices, stitches and sews fast. Blood splatters against Tilda from Anton's mouth. She squints and keeps working. The room shimmies and shakes.
+S: INT. CONTROL ROOM - NIGHT
+N: Valentina comes in straightening her clothing and hair. Jimmy is works under an open control panel, he turns and sees her.
+C: JIMMY
+D: Where did you go? Anton is hurt pretty bad.
+C: GARY
+D: Attention crew of the Western Alliance Sanitation Station Regina.
+E: O.S.
+S: INT. RECREATION ROOM - NIGHT
+N: Tilda has finished her surgery and is taking off her bloodied gloves. Anton is bandaged, unconscious. She looks up to hear:
+C: GARY
+D: Prepare to be incinerated. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 75.
+E: O.S.
+S: INT. CONTROL ROOM - NIGHT
+N: Jimmy goes to the captain's central console.
+C: JIMMY
+D: He's in the storage bay, going towards the crew quarters. Tilda and I managed to reroute the door controls. If I can just figure out... Jimmy hits buttons.
+C: JIMMY
+D: Ha. Sucker. Jimmy dramatically hits a big button on the keyboard.
+E: CONT'D
+S: INT. STORAGE MODULE - NIGHT
+N: A big light blinks green next to the open door. CU on the door frame as the door closes. LOCKING SOUND. A TENTACLE slaps angrily against the hatch window.
+S: INT. CONTROL ROOM - NIGHT
+N: Jimmy works on the controls. Valentina comes up behind him in a sneaky way, he doesn't notice. She's holding a toolbox.
+C: JIMMY
+D: He's locked in. That should buy us some time but we have to hurry. Help me figure out the thruster controls. Valentina creeps up right behind Jimmy. Jimmy turns to see her too late: she bashes Jimmy in the head with the tool box and tosses it aside. Valentina uses the keyboard. Jimmy rolls over, regains focus.
+C: JIMMY
+D: What are you doing?
+E: CONT'D
+C: VALENTINA
+D: I'm leaving Jimmy. I'm done.
+C: JIMMY
+D: Where are you going? Tilda appears behind Valentina and hits her in the back of her head with the toolbox. Valentina goes down. Valentina rubs her head. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 76.
+C: VALENTINA
+D: Ow. Tilda helps Jimmy up.
+C: JIMMY
+D: Thanks Tilda. Oh no, she let Gary loose.
+S: INT. STORAGE MODULE - NIGHT
+N: A glimpse of Gary scampering out of the open hatch where he was trapped before, leaving a slime trail.
+S: INT. CONTROL ROOM - NIGHT
+N: Tilda finishes binding Valentina to a chair with tape.
+C: VALENTINA
+D: Give Gary the time cube. You don't know him like I know him. He'll help us. He'll save us. Tilda is not convinced. Jimmy is on the soldering damaged circuits in a the control panel. He wears safety goggles. The Time Cube sits on the floor behind him.
+C: JIMMY
+D: He's a monster.
+C: VALENTINA
+D: It's just a phase. Jimmy closes the console he's working on. Presses buttons. The room shifts to the left.
+C: TILDA
+D: We're entering the upper atmosphere. Jimmy stands up. Jimmy wipes the sweat off his face.
+C: JIMMY
+D: That's bad, isn't it? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 77.
+C: TILDA
+D: We have fifteen minutes.
+C: JIMMY
+D: There's too much damage to fix in fifteen minutes.
+C: TILDA
+D: Maybe we should try to make a deal. A low RUMBLE sound.
+C: JIMMY
+D: We can't allow Gary to have total control of time and space. Jimmy gets back down into the computer panel. Tilda kneels next to him, watching. Valentina looks at the Time Cube on the floor and wriggles in her duct tape bonds.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: The station starts to hit the atmosphere and shake.
+S: INT. CONTROL ROOM - NIGHT
+N: Jimmy and Tilda press buttons and flip switches on the consoles as they talk. The room shimmies and shakes more and more. The RUMBLE sound increases. Jimmy turns one more switch. BLEEP BLORP: the computer screen flickers on.
+C: TILDA
+D: Wendi is online.
+C: JIMMY
+D: We're falling Wendi. Correct our orbital position.
+C: WENDI
+D: I do not have full control of Station systems. There is a break in the control path to my logic core.
+E: O.S.
+C: JIMMY
+D: Is anything working?
+C: WENDI
+D: Rebooting and Reinitialization will take approximately three hours.
+E: O.S.
+C: JIMMY
+D: We have... fourteen minutes. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 78.
+C: TILDA
+D: Leave Wendi to me. Jimmy reaches into an open mess of cables in a compartment and tosses Tilda an RS232 cable. She turns away from him, unzips her jumpsuit and plugs in her plug as before once Jimmy stops staring. Jimmy goes under the central console and sneaks glances to figure out what exactly she's doing. She zips up again with the cable sticking out, and concentrates. The monitors flash on. Jimmy spills out the tool box, grabs tools and sticks his head back under the central console.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: The station starts to hit the hazy atmosphere and shakes more. Parts heat up. An antenna burns off.
+S: INT. CONTROL ROOM - NIGHT
+N: The room shimmies and shakes. Valentina is straining against her duct tape wrapping. It's loosening. They don't notice. Jimmy is wriggling around in the confined area.
+C: TILDA
+D: We're entering the mesosphere.
+E: O.S.
+C: JIMMY
+D: It's ugly in here. I don't know where the break is.
+C: TILDA
+D: Networking. Jimmy switches tools, moves around a flashlight.
+E: O.S.
+C: WENDI
+D: Hello Tilda.
+E: O.S.
+C: TILDA
+D: Hi Wendi. The RUMBLE sound increases.
+C: JIMMY
+D: How's it going?! Jimmy is jammed deep in the panel, where he uses a circuit tester, probing. He wipes off his sweaty brow.
+E: O.S.
+C: TILDA
+D: Try bank 5, on unit LBJ425. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 79.
+N: Jimmy shifts around, probes.
+C: JIMMY
+D: Here? Tilda is focused on the monitors, doesn't notice Valentina is loose of her duct tape and stands up behind them.
+C: TILDA
+D: Try the next circuit.
+S: INT. PASSAGEWAY B - NIGHT
+N: We can catch glimpses of Gary lurching past. He's bigger. Hulking.
+S: INT. CONTROL ROOM - NIGHT
+N: Tilda sits, searching with her brain using her RS232 cable patch into the computer. Abstract data scrolls fast down the screens. It reflects in her eyes.
+C: JIMMY
+D: Is this it?
+E: O.S.
+C: TILDA
+D: No. Hurry. Valentina gently picks up the Time Cube and marvels at it for a brief moment before backing out behind Tilda and out the door, stumbling on the bulkhead a little and running off. Jimmy reaches way deep into the panel and probes a circuit.
+C: JIMMY
+D: Here?
+C: TILDA
+D: You're getting closer. The rooms shakes suddenly extra hard. A CREAK of strained metal. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 80.
+S: INT. PASSAGEWAY - NIGHT
+N: We can just make out Gary and his tentacles dragging himself around a corner.
+S: INT. CONTROL ROOM - NIGHT
+N: Jimmy reaches as far as humanly possible with his logic probe and touches a difficult-to-reach circuit way in the back, in a maze of jumbled blinking lights, cables and circuits:
+C: JIMMY
+D: There's your problem. He pulls out a smoldering burned circuit.
+C: JIMMY
+D: The midrange data processor is burned out. I think we need it to control the thrust vector.
+E: CONT'D
+C: TILDA
+D: You can't fix it?
+C: JIMMY
+D: No way. No... I don't have the parts. This is serious.
+C: JIMMY
+D: We're dead.
+E: CONT'D
+C: TILDA
+D: No we're not. The room shakes more. Tilda unplugs the RS232 cable from the wall and grabs a cable cutter from Jimmy's belt. She pulls down her jumpsuit shoulder exposing her back tattoo lines again. Jimmy watches in fascination. Tilda jabs herself and cuts a 6 inch hole in her abdomen. There's no blood. She reaches in and feels around.
+C: JIMMY
+D: I wish you would warn me if you're going to do something like that.
+C: TILDA
+D: Wait... Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 81.
+N: Tilda grunts and grimaces - something rips and her hand comes out with an organic/electric device with blinking lights. Wires and cables poke out of the hole in her stomach and drip with goo, she tucks them back in painfully with one hand and holds herself closed as she hands the device to Jimmy.
+C: TILDA
+D: Try using this. Jimmy takes it with a mixture of horror and curiosity.
+E: CONT'D
+C: JIMMY
+D: Don't you need it?
+C: TILDA
+D: I have two of them. Jimmy notices Valentina is gone.
+C: JIMMY
+D: Where's Val? Tilda turns.
+C: TILDA
+D: The time Cube!
+C: JIMMY
+D: Hold on, let me plug this in. Jimmy ducks back under the panel and stuffs the strange device into the socket of the circuit board. Sparks fly and lights start blinking! The SOUND of the midrange data processor humming back to life. Green lights on monitors. Jimmy clamps alligator clips around a broken cable and scrambles up. The monitor screens show green blinking symbols. Tilda uses a staple gun to close her wound, showing no sign of pain, tucks away her RS232 cable and zips up.
+C: JIMMY
+D: It worked! Jimmy sees one monitor still shows ERROR.
+E: CONT'D
+C: JIMMY
+D: It's not working.
+E: CONT'D
+C: TILDA
+D: Thruster control is on a different circuit. It's still offline. Tilda sinks into a chair. The effort has worn her down. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 82.
+C: JIMMY
+D: It should have worked.
+C: TILDA
+D: There's another break in the control path.
+C: JIMMY
+D: Are you okay?
+C: TILDA
+D: I'll be okay. But there's only one way to target the thrusters.
+C: JIMMY
+D: How?
+C: TILDA
+D: Manually.
+C: JIMMY
+D: You mean outside?
+C: TILDA
+D: Yes outside. The digital vector diagram monitor shows their orbit falling into the `danger zone' past the `Kármán line'. Jimmy sees Tilda suffer.
+C: JIMMY
+D: Take this. Jimmy hands Tilda Anton's blaster - Jimmy found time to repair it with wires, duct tape, and junk.
+C: TILDA
+D: You'll need it.
+C: JIMMY
+D: I'll be ok. Jimmy gets up to go, summons his courage.
+C: TILDA
+D: Jimmy, in ten minutes the outer hull will burn away completely. Hurry.
+C: JIMMY
+D: It's go time.
+S: INT. PASSAGEWAY - NIGHT
+N: Cables are loose, hanging, red siren lights. The walls rattle. Jimmy walks carefully, looking for Gary. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 83.
+S: INT. RECREATION ROOM - NIGHT
+N: Valentina steps out of the hall and stands near Anton. She holds the Time Cube.
+C: ANTON
+D: Who's there? Valentina?
+C: VALENTINA
+D: It's over Anton. We're leaving.
+C: ANTON
+D: Something is wrong with you Val. You can't trust someone that wants to eat you.
+C: VALENTINA
+D: Gary loves me. He loves me in ways you couldn't understand.
+C: ANTON
+D: I thought we've had some good times. Anton notices Gary lurking in the hall.
+E: duck 3
+C: ANTON
+D: Gary? I'll kick your ass. Anton struggles to sit up. He falls back down. Val puts down the time cube on the counter and helps Anton settle down.
+E: CONT'D
+C: VALENTINA
+D: Gary! I have the Time Cube! Gary stays in the shadows, nearby. We can see him quiver and jiggle as he speaks, suggestions of a jaw moving, but lots of amorphous tentacles and bulging monstrous shapes.
+C: GARY
+D: Before we go, one last thing.
+E: O.S.
+C: VALENTINA
+D: What?
+C: GARY
+D: Kill him. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 84.
+E: O.S.
+C: ANTON
+D: You pussy, come over here. Afraid to fight like a man? Valentina looks at Anton, looks at Gary, conflicted.
+S: INT. PASSAGEWAY OUTSIDE AIRLOCK - NIGHT
+C: 148A 148A
+D: Blaring SIRENS, RED CHERRY LIGHTS. Jimmy comes around to the door marked AIRLOCK MODULE. He very slowly peeks in, scared.
+S: INT. RECREATION ROOM - NIGHT
+C: 148B 148B
+D: Continued with Anton, Val and Gary.
+C: GARY
+D: I want to see you kill him.
+E: O.S.
+C: VALENTINA
+D: We don't need to do that Gary. We can just go.
+C: GARY
+D: Killll himmmmm. Gary tosses the bent exercise machine handlebar to her feet. She picks it up and looks at Anton. Anton manages to sit up, faces her without any aggression.
+E: O.S.
+C: ANTON
+D: If this guy is going to make you happy, go ahead. I understand. Val sees Anton in a different light.
+C: ANTON
+D: It's ok.
+E: CONT'D
+N: 149A 149A
+S: INT. AIRLOCK MODULE - NIGHT
+N: Jimmy enters the dark trashed airlock module, looking around. Space suit parts are a mess on the floor.
+C: JIMMY
+D: Damn. Jimmy frantically sorts through space suit parts. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 85.
+S: INT. CONTROL ROOM - NIGHT
+C: 150A 150A
+D: Tilda looks at a screen that counts down to 00:00:02:00.
+C: JIMMY
+D: I'm entering the airlock.
+E: O.S.
+S: INT. AIRLOCK MODULE (INSIDE AIRLOCK) - NIGHT
+C: 150B 150B
+D: Jimmy in a helmet and space suit stands nervous at the hatch. He hesitates. The lights turn red. He presses the button.
+S: INT. RECREATION ROOM - NIGHT
+C: 150C 150C
+D: Anton, Val and Gary continued. Valentina hefts the handlebar, checks out Anton. He looks pitiful.
+C: GARY
+D: Do it.
+C: VALENTINA
+D: I don't see why-
+C: GARY
+D: Hurry up. Kill him now.
+E: O.S.
+C: VALENTINA
+D: Give me a second Gary.
+C: GARY
+D: Do it now!
+E: O.S.
+C: VALENTINA
+D: Can you give me a second Gary?
+C: GARY
+D: Kill him! Valentina turns around defiantly.
+E: O.S.
+C: VALENTINA
+D: I don't like being bossed around. Anton nods in confirmation of this.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: Jimmy [in spacesuit] moves along the exterior of the station. Atmosphere blows past him. The air is thin but they're moving fast. Smoke trails from burning station bits stream past. The station shakes. Jimmy is terrified, holds on for dear life. He sneezes in his helmet. The glass is all splattered. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 86.
+C: JIMMY
+D: Gah! POV Jimmy: splatter and mucus on the inside of the glass.
+S: INT. CONTROL ROOM - NIGHT
+N: Tilda leans over the control panel, watching monitors.
+C: JIMMY
+D: I'm outside the station.
+E: O.S.
+C: TILDA
+D: Keep going Jimmy, You have to align and fire the thruster in ninety seconds or we'll implode.
+C: JIMMY
+D: Okay no problem.
+E: O.S.
+S: INT. RECREATION ROOM - NIGHT
+C: 152A 152A
+D: Gary comes out of the shadows . He's a hulking monstrous thing. Valentina is not intimidated. Anton is a little intimidated, still weak from his injuries.
+E: 'duck 3'
+C: GARY
+D: So this is how it's going to be.
+C: VALENTINA
+D: Yup. Valentina swings high at Gary and catches him upside the head. He snarls and bashes her with a tentacle, knocking away the handlebar. She gives him a few punches, kick in the duck nuts. Gary knocks her down by the sandwich machine. Anton grabs a chair. A tentacle comes at Anton - it pulls him over by his neck, he drops the chair, and is thrown down by the hatch. Gary side steps quickly, looking around. He sees the Time Cube on the counter and sends a tentacle at it. Valentina stabs the tentacle with a plastic fork and it pulls back, spraying green blood and mucous in an unexpectedly heavy geyser over Valentina, Anton and the room. Valentina throws the time cube over the table to Anton, who catches it. Gary refocusses on Val and moves toward her. He bashes her with a tentacle sending her over the table. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 87.
+C: GARY
+D: GRRRRROOARRRR!
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: Jimmy clambers along the rail that he's clipped into. He comes to the thruster. We hear his rapid breathing in the space suit. Behind him is the expanse of cold space. The station rotates until the Earth takes up the view behind him. Everything shakes.
+C: JIMMY
+D: Almost there. Tilda? Tilda?
+S: INT. CONTROL ROOM - NIGHT
+N: The chair at the console where Tilda sat is empty. The room shakes.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: Jimmy reaches a cone-shaped thruster. He clips in an extra tether to a metal ring nearby and turns a handle, opening a small access panel.
+C: JIMMY
+D: How the hell does this work? Jimmy finds a small keypad and joystick in the panel. He hits buttons. Jimmy turns the joystick. The thruster next to him moves.
+C: JIMMY
+D: Okay. That's good.
+E: CONT'D
+S: INT. CONTROL ROOM - NIGHT
+C: 155A 155A
+D: The vector graphic shows HULL COLLAPSE IMMINENT DANGER!
+C: WENDI
+D: Ten seconds until hull collapse.
+E: O.S.
+S: INT. RECREATION ROOM - NIGHT
+C: 155B 155B
+D: Gary looms up over the dazed Valentina. Anton is dazed. Gary is as scary as possible.
+C: TILDA
+D: Hey. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 88.
+E: O.S.
+N: Gary and Val turn toward the hallway: Tilda's there. She throws the laser blaster to Valentina who catches it and aims at Gary. Gary freezes, afraid. Valentina takes great pleasure at pulling the trigger. ZZZZORCH! A beam blasts from the blaster at Gary, instantly causing an immense SPLAT! Valentina opens her eyes to see it rain Gary bits. Anton comes over.
+C: ANTON
+D: Is that my blaster?
+C: TILDA
+D: Jimmy fixed it. Anton helps Valentina up.
+C: VALENTINA
+D: Thanks Tilda.
+C: ANTON
+D: Where is Jimmy?
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: Jimmy at the thruster, he grips the joystick, feeling woozy.
+C: JIMMY
+D: Here goes nothing. He's sweating profusely. He looks at his glove - it's burning. There's orange-glowing cinders flying off his boots. Jimmy hits the big red button! A BLAST OF PLASMA fires out of the thruster next to him. Over the course of five long seconds, the station stops falling. The thruster stops firing. He's burning more now. His suit POPS A LEAK! Smoke whizzes out of a hole in his arm. He stares at it.
+E: Wide shot
+C: JIMMY
+D: Oh crap.
+E: CONT'D
+S: INT. CONTROL ROOM - NIGHT
+N: Tilda runs in to see a screen that shows a vector graphic of the station in the "red zone". It slowly starts to correct. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 88A.
+C: TILDA
+D: Jimmy? Come in Jimmy! You did it. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 89.
+N: Valentina and Anton hobble in.
+C: VALENTINA
+D: He did it. The room stops shaking. The RUMBLE sound stops.
+C: TILDA
+D: Orbit is stabilizing. Jimmy?
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: POV Jimmy: he's losing consciousness, looking at the pretty sunset.
+C: TILDA
+D: Jimmy? Come in Jimmy. Jimmy?!
+E: O.S.
+S: INT. CONTROL ROOM - NIGHT
+C: 159A 159A
+D: Anton and Val look worried. Tilda rips off her headphones and walks out.
+S: INT. PASSAGEWAY - NIGHT
+C: 159B 159B
+D: Tilda walks then speeds up into a run as Val and Anton sit in the background in the control room. [no window covers]
+S: INT. AIRLOCK MODULE - NIGHT
+C: 159C 159C
+D: Tilda enters and opens the inner airlock door, revealing Jimmy taking off his scorched helmet.
+C: TILDA
+D: Jimmy! She hugs him.
+C: JIMMY
+D: Are we ok?
+C: TILDA
+D: Yes. You did it.
+S: INT. CONTROL ROOM - NIGHT
+C: 159D 159D
+D: Anton and Val sit next to each other. Val tenderly wipes some Gary goo off Anton's face.
+C: ANTON
+D: Thanks sweetie. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 89A.
+C: VALENTINA
+D: You're twice the man Gary ever was.
+C: ANTON
+D: I know. She hugs him. He wraps his manly arms around her.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: The Station orbit is stable. It's a little burned but still in one piece. Stars twinkle. The night is silent. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 90. OMITTED SCENES 161-165
+S: INT. COMPUTER ROOM - NIGHT
+N: Tilda and Jimmy are sitting, eating sandwiches. The room is tidy now, cleaner than it's ever been. Food wrappers around.
+C: JIMMY
+D: I could eat another.
+C: TILDA
+D: Chicken?
+C: JIMMY
+D: Ham. She pulls another sandwich from the shelf.
+C: TILDA
+D: Ham.
+C: JIMMY
+D: Nice. The Time Cube is on the floor with cables running into it from all over. Tilda checks the cables.
+C: TILDA
+D: I think we're ready. Jimmy hits the intercom.
+C: JIMMY
+D: Control room, are you ready?
+C: ANTON
+D: Ready.
+E: O.S.
+C: JIMMY
+D: We're activating it. Jimmy hits keys on a keyboard. All the computer screens turn on. The strange HUMMING sound starts. The Time Cube GLOWS BLUE. The lights dim slightly.
+C: JIMMY
+D: I think it's working.
+E: CONT'D
+C: TILDA
+D: Wendi; status report please. She eats her sandwich. Jimmy picks up his sandwich and eats it. They both stare at the computer, eating sandwiches. Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 91.
+C: JIMMY
+D: Wendi? What's going on? Is it working?
+C: WENDI
+D: Time Cube interface activated. The humming gets louder.
+E: O.S.
+C: JIMMY
+D: Maybe I should-
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: The space station orbits around the earth, then POOF; the entire station is gone in a warping flash of light.
+S: INT. COMPUTER ROOM - NIGHT
+N: The flash fades away. Tilda and Jimmy stare at the computer screens. The blinking lights slow down. The HUMMING sound dies down. They rub their eyes. The intercom clicks on.
+C: ANTON
+D: Jimmy? Jimmy snaps out of his daze and hits the intercom button.
+E: O.S.
+C: JIMMY
+D: Yeah. We're okay. Are you okay?
+C: VALENTINA
+D: We're fine up here. Jimmy sees a screen marked "COMM" blinking. He presses the button.
+E: O.S.
+C: GROUND CONTROL
+D: Sanitation station Regina come in. This is Ground control. We have a level two debris warning lit up here.
+E: O.S.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: The station orbits a living earth, with sparkling cities glowing in the night below. Space stations and satellites in orbit with the scorched station and junk ring, as before.
+C: VALENTINA
+D: Ground control? Space Milkshake Prod. Draft Rev10b BLUE - 11/12/11 92.
+E: O.S.
+C: GROUND CONTROL
+D: Yes. Are you going to going to atomize the debris or do we have to call the spaceworkers union rep? A small metal screw floats in space.
+E: O.S.
+S: INT. CONTROL ROOM - NIGHT
+N: Anton sits in shock with Valentina.
+C: ANTON
+D: The... debris warning thing. Get the debris. Valentina flips a switch and grabs the joystick.
+S: EXT. WESTERN ALLIANCE SANITATION STATION - NIGHT
+N: A laser beam fires out and atomizes the metal screw.
+C: GROUND CONTROL
+D: Good job Regina. The shuttle drone flies past where the screw was.
+E: O.S.
+S: INT. CONTROL ROOM - NIGHT
+N: Anton and Val hug.
+C: ANTON
+D: Roger that Ground control. Nice to hear from you, anytime.
+C: GROUND CONTROL
+D: Shove it Regina. Ground Control out.
+E: O.S.
+S: INT. PASSAGEWAY - NIGHT
+N: Tilda and Jimmy walk into a medium shot, look out the window. Tilda takes Jimmy's hand in front of the window with the Earth rotating outside, space full of lights and shuttles. THE END. *
