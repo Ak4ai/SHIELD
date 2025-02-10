@@ -109,8 +109,4 @@ Charinfo: 50-50_charinfo.txt
 Tagged: scripts/parsed/tagged/50-50_parsed.txt
 
 ---
-
-Este repositório está em desenvolvimento contínuo. Contribuições são bem-vindas!  
 ```
-
-Agora o `README.md` reflete corretamente o fluxo de execução do seu programa. Se precisar de mais ajustes, me avise! 🚀
