@@ -2,6 +2,11 @@
 
 Este repositório contém um sistema baseado em grafos para análise de gêneros cinematográficos, utilizando dados extraídos de roteiros de filmes e modelados com técnicas de PLN e aprendizado de máquina.  
 
+## Link do Overleaf !
+
+https://www.overleaf.com/7387278264vpqyvsgvfwvb#4cffcaz
+
+
 ## Estrutura do Workspace  
 
 O projeto está organizado da seguinte forma:  
